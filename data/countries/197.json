@@ -1,0 +1,893 @@
+{
+	"name": "Saint Pierre And Miquelon",
+	"introduction": {
+		"background": "First settled by the French in the early 17th century, the islands represent the sole remaining vestige of France's once vast North American possessions. They attained the status of an overseas collectivity in 2003."
+	},
+	"geography": {
+		"location": "Northern North America, islands in the North Atlantic Ocean, south of Newfoundland (Canada)",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 46,
+				"minutes": 50,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 56,
+				"minutes": 20,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "North America",
+		"area": {
+			"total": {
+				"value": 242,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 242,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes eight small islands in the Saint Pierre and the Miquelon groups",
+			"global_rank": 214,
+			"comparative": "one and half times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 120,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "cold and wet, with considerable mist and fog; spring and autumn are often windy",
+		"terrain": "mostly barren rock",
+		"elevation": {
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Morne de la Grande Montagne",
+				"elevation": {
+					"value": 240,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"deepwater ports"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 8.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 8.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 12.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 78.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island",
+		"natural_hazards": [
+			{
+				"description": "persistent fog throughout the year can be a maritime hazard",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"overfishing",
+				"recent test drilling for oil in waters around Saint Pierre and Miquelon may bring future development that would impact the environment"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5347,
+			"global_rank": 228,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Frenchman(men), Frenchwoman(women)",
+			"adjective": "French"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Basques and Bretons",
+					"note": "French fishermen"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 99
+				},
+				{
+					"name": "other",
+					"percent": 1
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.31,
+				"males": 395,
+				"females": 370
+			},
+			"15_to_24": {
+				"percent": 8.83,
+				"males": 245,
+				"females": 227
+			},
+			"25_to_54": {
+				"percent": 40,
+				"males": 1039,
+				"females": 1100
+			},
+			"55_to_64": {
+				"percent": 14.49,
+				"males": 400,
+				"females": 375
+			},
+			"65_and_over": {
+				"percent": 22.37,
+				"males": 513,
+				"females": 683
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 48.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 47.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 49,
+				"units": "years"
+			},
+			"global_rank": 3,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -1.15,
+			"global_rank": 233,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 6.7,
+			"global_rank": 228,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.9,
+			"global_rank": 23,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -7.7,
+			"global_rank": 212,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is found on Saint Pierre Island; a small settlement is located on the north end of Miquelon Island",
+		"urbanization": {
+			"urban_population": {
+				"value": 90,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.36,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Saint-Pierre",
+					"population": 6000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.75,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 6.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 5.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.5,
+				"units": "years"
+			},
+			"global_rank": 41,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.58,
+			"global_rank": 190,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 91.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 8.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Territorial Collectivity of Saint Pierre and Miquelon",
+			"conventional_short_form": "Saint Pierre and Miquelon",
+			"local_long_form": "Departement de Saint-Pierre et Miquelon",
+			"local_short_form": "Saint-Pierre et Miquelon",
+			"etymology": "Saint-Pierre is named after Saint PETER, the patron saint of fishermen; Miquelon may be a corruption of the Basque name Mikelon"
+		},
+		"government_type": "parliamentary democracy (Territorial Council); overseas collectivity of France",
+		"capital": {
+			"name": "Saint-Pierre",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 46,
+					"minutes": 46,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 56,
+					"minutes": 11,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+			"etymology": "named after Saint Peter, the patron saint of fisherman"
+		},
+		"independence": {},
+		"national_holidays": [
+			{
+				"name": "Fete de la Federation",
+				"day": "14 July",
+				"original_year": "1790"
+			}
+		],
+		"constitution": {
+			"history": "4 October 1958 (French Constitution)",
+			"amendments": "amendment procedures of France's constitution apply"
+		},
+		"legal_system": "French civil law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Emmanuel MACRON (since 14 May 2017); represented by Prefect Thierry DEVIMEUX (since 17 January 2018)",
+			"head_of_government": "President of Territorial Council Stephane LENORMAND (since 24 October 2017)",
+			"cabinet": "Le Cabinet du Prefet",
+			"elections_appointments": "French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April and 6 May 2017 (next to be held in 2022); prefect appointed by French president on the advice of French Ministry of Interior"
+		},
+		"legislative_branch": {
+			"description": "unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);\nSaint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term",
+			"elections": "Territorial Council - last held on 19 March 2017 (next to be held in March 2023)\nFrench Senate - last held on 24 September 2017 (next to be held no later than September 2020)\nFrench National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022)",
+			"election_results": "Territorial Council - percent of vote by party - AD 70.2%, Cap sur l'Avenir 29.8%; seats by party - AD 17, Cap sur l'Avenir 2; composition - men 10, women 9, percent of women 47.4%\nFrench Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)\nFrench National Assembly - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG); the Republicans (LR) 1"
+		},
+		"judicial_branch": {
+			"highest_courts": "Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)",
+			"judge_selection_and_term_of_office": "judge selection and tenure NA",
+			"subordinate_courts": "NA"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Archipelago Tomorrow",
+					"name_alternative": "AD",
+					"note": "affiliated with UMP"
+				},
+				{
+					"name": "Cap sur l'Avenir ",
+					"leaders": [
+						"Annick GIRARDIN"
+					],
+					"note": "affiliated with Left Radical Party"
+				},
+				{
+					"name": "Togerther for the Future   SPM ensemble",
+					"note": "Ensemble pour l'Avenir; affiliated with PRG"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			}
+		],
+		"flag_description": {
+			"description": "a yellow three-masted sailing ship facing the hoist side rides on a blue background with scattered, white, wavy lines under the ship; a continuous black-over-white wavy line divides the ship from the white wavy lines; on the hoist side, a vertical band is divided into three parts: the top part (called ikkurina) is red with a green diagonal cross extending to the corners overlaid by a white cross dividing the rectangle into four sections; the middle part has a white background with an ermine pattern; the third part has a red background with two stylized yellow lions outlined in black, one above the other; these three heraldic arms represent settlement by colonists from the Basque Country (top), Brittany, and Normandy; the blue on the main portion of the flag symbolizes the Atlantic Ocean and the stylized ship represents the Grande Hermine in which Jacques Cartier \"discovered\" the islands in 1536",
+			"note": "the flag of France used for official occasions"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "16th-century sailing ship"
+				}
+			]
+		},
+		"national_anthem": {
+			"note": "as a collectivity of France, \"La Marseillaise\" is official (see France)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SB.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland. The economy has been declining, however, because of disputes with Canada over fishing quotas and a steady decline in the number of ships stopping at Saint Pierre. The services sector accounted for 86% of GDP in 2010, the last year data is available for. Government employment accounts for than 46% of the GDP, and 78% of the population is working age.\nThe government hopes an expansion of tourism will boost economic prospects. Fish farming, crab fishing, and agriculture are being developed to diversify the local economy. Recent test drilling for oil may pave the way for development of the energy sector. Trade is the second largest sector in terms of value added created, where it contributes significantly to economic activity. The extractive industries and energy sector is the third largest sector of activity in the archipelago, attributable in part to the construction of a new thermal power plant in 2015.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 261300000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 215300000,
+						"units": "USD",
+						"date": "2006"
+					}
+				],
+				"global_rank": 218,
+				"note": "supplemented by annual payments from France of about $60 million"
+			},
+			"official_exchange_rate": {
+				"USD": 261300000,
+				"date": "2015"
+			},
+			"real_growth_rate": {
+				"note": "NA"
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 46200,
+						"units": "USD",
+						"date": "2006"
+					},
+					{
+						"value": 34900,
+						"units": "USD",
+						"date": "2005"
+					}
+				],
+				"global_rank": 36
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 15,
+							"units": "%"
+						},
+						"services": {
+							"value": 83,
+							"units": "%"
+						}
+					},
+					"date": "2006"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"poultry",
+				"cattle",
+				"sheep",
+				"pigs",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"fish processing",
+				"supply base for fishing fleets",
+				"tourism"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4429,
+				"global_rank": 224,
+				"date": "2015"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 18,
+						"units": "%"
+					},
+					"industry": {
+						"value": 41,
+						"units": "%"
+					},
+					"services": {
+						"value": 41,
+						"units": "%"
+					}
+				},
+				"date": "1996"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.7,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 9.9,
+					"units": "%",
+					"date": "2008"
+				}
+			],
+			"global_rank": 125
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 70000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 60000000,
+				"units": "USD"
+			},
+			"date": "1996"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 26.8,
+			"global_rank": 104,
+			"date": "1996"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 3.8,
+			"global_rank": 10,
+			"date": "1996"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 4.5,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 85
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 6641000,
+						"units": "USD",
+						"date": "2010"
+					},
+					{
+						"value": 5500000,
+						"units": "USD",
+						"date": "2005"
+					}
+				],
+				"global_rank": 217
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"fish products",
+					"soybeans",
+					"animal feed",
+					"mollusks",
+					"crustaceans",
+					"fox",
+					"mink pelts"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 95350000,
+						"units": "USD",
+						"date": "2010"
+					},
+					{
+						"value": 68200000,
+						"units": "USD",
+						"date": "2005"
+					}
+				],
+				"global_rank": 217
+			},
+			"commodities": {
+				"by_commodity": [
+					"meat",
+					"clothing",
+					"fuel",
+					"electrical equipment",
+					"machinery",
+					"building materials"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 46000000,
+				"global_rank": 206,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 42780000,
+				"global_rank": 206,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 190,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 192,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 27600,
+				"global_rank": 202,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 96,
+					"global_rank": 42,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 174,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 197,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 4,
+					"global_rank": 118,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 193,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 186,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 188,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 188,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 195,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 660,
+				"global_rank": 208,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 196,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 650,
+				"global_rank": 204,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 190,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 192,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 175,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 181,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 187,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 100200,
+			"global_rank": 206,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 4086,
+				"subscriptions_per_one_hundred_inhabitants": 75.55,
+				"global_rank": 206,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "2 TV stations with a third repeater station, all part of the French Overseas Network; radio stations on St. Pierre and on Miquelon are part of the French Overseas Network",
+		"internet": {
+			"country_code": ".pm",
+			"users": {
+				"total": 4500,
+				"percent_of_population": 79.5,
+				"global_rank": 218,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 2,
+					"global_rank": 205,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 117,
+				"units": "km"
+			},
+			"paved": {
+				"value": 80,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 37,
+				"units": "km"
+			},
+			"global_rank": 213,
+			"date": "2009"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Saint-Pierre"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

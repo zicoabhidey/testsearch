@@ -1,0 +1,1746 @@
+{
+	"name": "Botswana",
+	"introduction": {
+		"background": "Seeking to stop the incorporation of their land into Rhodesia (Zimbabwe) or the Union of South Africa, in 1885, three tribal chiefs traveled to Great Britain and successfully lobbied the British Government to put \"Bechuanaland\" under UK protection. Upon independence in 1966, the British protectorate of Bechuanaland adopted the new name of Botswana. More than five decades of uninterrupted civilian leadership, progressive social policies, and significant capital investment have created one of the most stable economies in Africa. The ruling Botswana Democratic Party has won every national election since independence; President Mokgweetsi Eric MASISI assumed the presidency in April 2018 following the retirement of former President Ian KHAMA due to constitutional term limits. MASISI won his first election as president in October 2019, and he is Botswana’s fifth president since independence. Mineral extraction, principally diamond mining, dominates economic activity, though tourism is a growing sector due to the country's conservation practices and extensive nature preserves. Botswana has one of the world's highest rates of HIV/AIDS infection, but also one of Africa's most progressive and comprehensive programs for dealing with the disease."
+	},
+	"geography": {
+		"location": "Southern Africa, north of South Africa",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 22,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 24,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 581730,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 566730,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 15000,
+				"units": "sq km"
+			},
+			"global_rank": 49,
+			"comparative": "slightly smaller than Texas; almost four times the size of Illinois"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4347.15,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Namibia",
+					"border_length": {
+						"value": 1544,
+						"units": "km"
+					}
+				},
+				{
+					"country": "South Africa",
+					"border_length": {
+						"value": 1969,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Zambia",
+					"border_length": {
+						"value": 0.15,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Zimbabwe",
+					"border_length": {
+						"value": 834,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "semiarid; warm winters and hot summers",
+		"terrain": "predominantly flat to gently rolling tableland; Kalahari Desert in southwest",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1013,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "junction of the Limpopo and Shashe Rivers",
+				"elevation": {
+					"value": 513,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Tsodilo Hills",
+				"elevation": {
+					"value": 1489,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"diamonds",
+				"copper",
+				"nickel",
+				"salt",
+				"soda ash",
+				"potash",
+				"coal",
+				"iron ore",
+				"silver"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 45.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 45.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 19.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 34.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 20,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "seasonal August winds blow from the west, carrying sand and dust across the country, which can obscure visibility",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"overgrazing",
+				"desertification",
+				"limited freshwater resources",
+				"air pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2317233,
+			"global_rank": 144,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Motswana (singular), Batswana (plural)",
+			"adjective": "Motswana (singular), Batswana (plural)"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Tswana",
+					"percent": 79,
+					"note": "or Setswana"
+				},
+				{
+					"name": "Kalanga",
+					"percent": 11
+				},
+				{
+					"name": "Basarwa",
+					"percent": 3
+				},
+				{
+					"name": "other"
+				},
+				{
+					"name": "including Kgalagadi and people of European ancestry",
+					"percent": 7
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Setswana",
+					"percent": 77.3
+				},
+				{
+					"name": "Sekalanga",
+					"percent": 7.4
+				},
+				{
+					"name": "Shekgalagadi",
+					"percent": 3.4
+				},
+				{
+					"name": "English",
+					"percent": 2.8,
+					"note": "official"
+				},
+				{
+					"name": "Zezuru/Shona",
+					"percent": 2
+				},
+				{
+					"name": "Sesarwa",
+					"percent": 1.7
+				},
+				{
+					"name": "Sembukushu",
+					"percent": 1.6
+				},
+				{
+					"name": "Ndebele",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 2.8
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 79.1
+				},
+				{
+					"name": "Badimo",
+					"percent": 4.1
+				},
+				{
+					"name": "other",
+					"percent": 1.4,
+					"note": "includes Baha'i, Hindu, Muslim, Rastafarian"
+				},
+				{
+					"name": "none",
+					"percent": 15.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.3
+				}
+			],
+			"date": "2011"
+		},
+		"demographic_profile": "Botswana has experienced one of the most rapid declines in fertility in Sub-Saharan Africa. The total fertility rate has fallen from more than 5 children per woman in the mid 1980s to approximately 2.4 in 2013. The fertility reduction has been attributed to a host of factors, including higher educational attainment among women, greater participation of women in the workforce, increased contraceptive use, later first births, and a strong national family planning program. Botswana was making significant progress in several health indicators, including life expectancy and infant and child mortality rates, until being devastated by the HIV/AIDs epidemic in the 1990s.\nToday Botswana has the third highest HIV/AIDS prevalence rate in the world at approximately 22%, however comprehensive and effective treatment programs have reduced HIV/AIDS-related deaths. The combination of declining fertility and increasing mortality rates because of HIV/AIDS is slowing the population aging process, with a narrowing of the youngest age groups and little expansion of the oldest age groups. Nevertheless, having the bulk of its population (about 60%) of working age will only yield economic benefits if the labor force is healthy, educated, and productively employed.\nBatswana have been working as contract miners in South Africa since the 19th century. Although Botswana’s economy improved shortly after independence in 1966 with the discovery of diamonds and other minerals, its lingering high poverty rate and lack of job opportunities continued to push workers to seek mining work in southern African countries. In the early 1970s, about a third of Botswana’s male labor force worked in South Africa (lesser numbers went to Namibia and Zimbabwe). Not until the 1980s and 1990s, when South African mining companies had reduced their recruitment of foreign workers and Botswana’s economic prospects had improved, were Batswana increasingly able to find job opportunities at home.\nMost Batswana prefer life in their home country and choose cross-border migration on a temporary basis only for work, shopping, visiting family, or tourism. Since the 1970s, Botswana has pursued an open migration policy enabling it to recruit thousands of foreign workers to fill skilled labor shortages. In the late 1990s, Botswana’s prosperity and political stability attracted not only skilled workers but small numbers of refugees from neighboring Angola, Namibia, and Zimbabwe.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 30.54,
+				"males": 357065,
+				"females": 350550
+			},
+			"15_to_24": {
+				"percent": 18.31,
+				"males": 208824,
+				"females": 215462
+			},
+			"25_to_54": {
+				"percent": 39.67,
+				"males": 434258,
+				"females": 484922
+			},
+			"55_to_64": {
+				"percent": 5.92,
+				"males": 59399,
+				"females": 77886
+			},
+			"65_and_over": {
+				"percent": 5.56,
+				"males": 53708,
+				"females": 75159
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 61.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 53.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13.8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 25.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 24.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 26.7,
+				"units": "years"
+			},
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.48,
+			"global_rank": 72,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 20.9,
+			"global_rank": 72,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.2,
+			"global_rank": 54,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.9,
+			"global_rank": 38,
+			"date": "2020"
+		},
+		"population_distribution": "the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 70.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.87,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Gaborone",
+					"population": 269000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.76,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.71,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.93,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 144,
+			"global_rank": 59,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 26.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 29.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 24.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 64.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 62.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 66.9,
+				"units": "years"
+			},
+			"global_rank": 197,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.45,
+			"global_rank": 77,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 67.4,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.53,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.8,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 94,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 3.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 3.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 92.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 60.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 82.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 39.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 17.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 22.2,
+				"global_rank": 3,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 380000,
+				"global_rank": 19,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 5000,
+				"global_rank": 25,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 18.9,
+			"global_rank": 114,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 9.6,
+			"global_rank": 4,
+			"date": "2009"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 88.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 88,
+				"units": "%"
+			},
+			"female": {
+				"value": 88.9,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2013"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 36,
+				"units": "%"
+			},
+			"male": {
+				"value": 29.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 43.5,
+				"units": "%"
+			},
+			"global_rank": 18,
+			"date": "2010"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Botswana",
+			"conventional_short_form": "Botswana",
+			"local_long_form": "Republic of Botswana",
+			"local_short_form": "Botswana",
+			"former": "Bechuanaland",
+			"etymology": "the name Botswana means \"Land of the Tswana\" - referring to the country's major ethnic group"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Gaborone",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 24,
+					"minutes": 38,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 25,
+					"minutes": 54,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named after GABORONE (ca. 1825-1931), a revered kgosi (chief) of the Tlokwa tribe, part of the larger Tswana ethnic group"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Central",
+				"type": ""
+			},
+			{
+				"name": "Chobe",
+				"type": ""
+			},
+			{
+				"name": "Francistown",
+				"type": ""
+			},
+			{
+				"name": "Gaborone",
+				"type": ""
+			},
+			{
+				"name": "Ghanzi",
+				"type": ""
+			},
+			{
+				"name": "Jwaneng",
+				"type": ""
+			},
+			{
+				"name": "Kgalagadi",
+				"type": ""
+			},
+			{
+				"name": "Kgatleng",
+				"type": ""
+			},
+			{
+				"name": "Kweneng",
+				"type": ""
+			},
+			{
+				"name": "Lobatse",
+				"type": ""
+			},
+			{
+				"name": "North East",
+				"type": ""
+			},
+			{
+				"name": "North West",
+				"type": ""
+			},
+			{
+				"name": "Selebi-Phikwe",
+				"type": ""
+			},
+			{
+				"name": "South East",
+				"type": ""
+			},
+			{
+				"name": "Southern",
+				"type": ""
+			},
+			{
+				"name": "Sowa Town",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1966-09-30",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "30 September",
+				"original_year": "1966",
+				"note": "Botswana Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1960 (preindependence); latest adopted March 1965, effective 30 September 1966",
+			"amendments": "proposed by the National Assembly; passage requires approval in two successive Assembly votes with at least two-thirds majority in the final vote; proposals to amend constitutional provisions on fundamental rights and freedoms, the structure and branches of government, and public services also requires approval by majority vote in a referendum and assent by the president of the republic; amended several times, last in 2006"
+		},
+		"legal_system": "mixed legal system of civil law influenced by the Roman-Dutch model and also customary and common law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Botswana",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 24 October 2014 (next to be held on 31 October 2019); vice president appointed by the president",
+			"election_results": "President Seretse Khama Ian KHAMA (since 1 April 2008) stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote, 4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments",
+			"elections": "last held on 23 October 2019 (next to be held in October 2024)",
+			"election_results": "percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal, High Court (each consists of a chief justice and a number of other judges as prescribed by the Parliament)",
+			"judge_selection_and_term_of_office": "Court of Appeal and High Court chief justices appointed by the president and other judges appointed by the president upon the advice of the Judicial Service Commission; all judges appointed to serve until age 70",
+			"subordinate_courts": "Industrial Court (with circuits scheduled monthly in the capital city and in 3 districts); Magistrates Courts (1 in each district); Customary Court of Appeal; Paramount Chief's Court/Urban Customary Court; Senior Chief's Representative Court; Chief's Representative’s Court; Headman's Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance of Progressives",
+					"name_alternative": "AP",
+					"leaders": [
+						"Ndaba GAOLATHE"
+					]
+				},
+				{
+					"name": "Botswana Congress Party",
+					"name_alternative": "BCP",
+					"leaders": [
+						"Dumelang SALESHANDO"
+					]
+				},
+				{
+					"name": "Botswana Democratic Party",
+					"name_alternative": "BDP",
+					"leaders": [
+						"Mokgweetsi MASISI"
+					]
+				},
+				{
+					"name": "Botswana Movement for Democracy",
+					"name_alternative": "BMD",
+					"leaders": [
+						"Sidney PILANE"
+					]
+				},
+				{
+					"name": "Botswana National Front",
+					"name_alternative": "BNF",
+					"leaders": [
+						"Duma BOKO"
+					]
+				},
+				{
+					"name": "Botswana Patriotic Front",
+					"name_alternative": "BPF",
+					"leaders": [
+						"Biggie BUTALE"
+					]
+				},
+				{
+					"name": "Botswana Peoples Party",
+					"name_alternative": "BPP",
+					"leaders": [
+						"Motlatsi MOLAPISI"
+					]
+				},
+				{
+					"name": "Real Alternative Party",
+					"name_alternative": "RAP",
+					"leaders": [
+						"Gaontebale MOKGOSI"
+					]
+				},
+				{
+					"name": "Umbrella for Democratic Change",
+					"name_alternative": "UDC",
+					"leaders": [
+						"Duma BOKO"
+					],
+					"note": "various times the collation has included the BMD, BPP, BCP and BNF; 2019"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "SACU"
+			},
+			{
+				"organization": "SADC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Onkokame Kitso MOKAILA (since 17 September 2020)",
+				"chancery": "1531-1533 New Hampshire Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 244-4990",
+				"fax": "[1] (202) 244-4164",
+				"consulates_general": "Atlanta"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Craig Lewis CLOUD (since 2 April 2019)",
+				"telephone": "[267] 395-3982",
+				"embassy": "Embassy Drive, Government Enclave (off Khama Crescent), Gaborone",
+				"mailing_address": "Embassy Enclave, P. O. Box 90, Gaborone",
+				"fax": "[267] 318-0232"
+			}
+		},
+		"flag_description": {
+			"description": "light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "zebra"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Fatshe leno la rona\" (Our Land)",
+			"lyrics_music": "Kgalemang Tumedisco MOTSETE",
+			"note": "adopted 1966",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BC.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Until the beginning of the global recession in 2008, Botswana maintained one of the world's highest economic growth rates since its independence in 1966. Botswana recovered from the global recession in 2010, but only grew modestly until 2017, primarily due to a downturn in the global diamond market, though water and power shortages also played a role. Through fiscal discipline and sound management, Botswana has transformed itself from one of the poorest countries in the world five decades ago into a middle-income country with a per capita GDP of approximately $18,100 in 2017. Botswana also ranks as one of the least corrupt and best places to do business in Sub-Saharan Africa.\nBecause of its heavy reliance on diamond exports, Botswana’s economy closely follows global price trends for that one commodity. Diamond mining fueled much of Botswana’s past economic expansion and currently accounts for one-quarter of GDP, approximately 85% of export earnings, and about one-third of the government's revenues. In 2017, Diamond exports increased to the highest levels since 2013 at about 22 million carats of output, driving Botswana’s economic growth to about 4.5% and increasing foreign exchange reserves to about 45% of GDP. De Beers, a major international diamond company, signed a 10-year deal with Botswana in 2012 and moved its rough stone sorting and trading division from London to Gaborone in 2013. The move was geared to support the development of Botswana's nascent downstream diamond industry.\nTourism is a secondary earner of foreign exchange and many Batswana engage in tourism-related services, subsistence farming, and cattle rearing. According to official government statistics, unemployment is around 20%, but unofficial estimates run much higher. The prevalence of HIV/AIDS is second highest in the world and threatens the country's impressive economic gains.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 39010000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 38110000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 36540000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 121,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 17380000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -1.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 119
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 17000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 16900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 102,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 48.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 29,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -1.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 39.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -33.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 27.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 70.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 40.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 38.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 41.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 9
+		},
+		"agriculture_products": {
+			"products": [
+				"livestock",
+				"sorghum",
+				"maize",
+				"millet",
+				"beans",
+				"sunflowers",
+				"groundnuts"
+			]
+		},
+		"industries": {
+			"industries": [
+				"diamonds",
+				"copper",
+				"nickel",
+				"salt",
+				"soda ash",
+				"potash",
+				"coal",
+				"iron ore",
+				"silver",
+				"beef processing",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -4.2,
+			"global_rank": 193,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1177000,
+				"global_rank": 135,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"agriculture": "NA",
+				"industry": "NA",
+				"services": "NA"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 20,
+					"units": "%",
+					"date": "2013"
+				},
+				{
+					"value": 17.8,
+					"units": "%",
+					"date": "2009"
+				}
+			],
+			"global_rank": 188
+		},
+		"population_below_poverty_line": {
+			"value": 19.3,
+			"units": "%",
+			"date": "2009"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 5305000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 5478000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 30.5,
+			"global_rank": 75,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 76,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 14,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 195
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 136
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 2146000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2146999999.9999998,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 38
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5934000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7226000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 102
+			},
+			"commodities": {
+				"by_commodity": [
+					"diamonds",
+					"copper",
+					"nickel",
+					"soda ash",
+					"beef",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Belgium",
+						"percent": 20.3
+					},
+					{
+						"name": "India",
+						"percent": 12.6
+					},
+					{
+						"name": "UAE",
+						"percent": 12.4
+					},
+					{
+						"name": "South Africa",
+						"percent": 11.9
+					},
+					{
+						"name": "Singapore",
+						"percent": 8.7
+					},
+					{
+						"name": "Israel",
+						"percent": 7
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 4.1
+					},
+					{
+						"name": "Namibia",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5005000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5871000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 128
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"machinery",
+					"electrical goods",
+					"transport equipment",
+					"textiles",
+					"fuel",
+					"petroleum products",
+					"wood",
+					"paper products",
+					"metal",
+					"metal products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 66.1
+					},
+					{
+						"name": "Canada",
+						"percent": 8.3
+					},
+					{
+						"name": "Israel",
+						"percent": 5.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 7491000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 7189000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 82
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 2187000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2421000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 150
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 10.19,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 10.9022,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 10.9022,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 10.1263,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 8.9761,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "pulas (BWP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 59,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 71,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 29,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 2527000000,
+				"global_rank": 135,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3636000000,
+				"global_rank": 131,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 109,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1673000000,
+				"global_rank": 59,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 735000,
+				"global_rank": 135,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 4,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 54,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 159,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 178,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 114,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 97,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 100,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 110,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 122,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 21000,
+				"global_rank": 135,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 133,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 21090,
+				"global_rank": 116,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 108,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 124,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 73,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 95,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 114,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 6235000,
+			"global_rank": 127,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 139735,
+				"subscriptions_per_one_hundred_inhabitants": 6.12,
+				"global_rank": 129,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 3968526,
+				"subscriptions_per_one_hundred_inhabitants": 173.81,
+				"global_rank": 131,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "2 TV stations - 1 state-owned and 1 privately owned; privately owned satellite TV subscription service is available; 2 state-owned national radio stations; 4 privately owned radio stations broadcast locally (2019)",
+		"internet": {
+			"country_code": ".bw",
+			"users": {
+				"total": 1057079,
+				"percent_of_population": 47,
+				"global_rank": 138,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 253417,
+				"annual_freight_traffic_on_registered_air_carriers": 110000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "A2",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 74,
+					"global_rank": 70,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 10,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 6,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 64,
+					"1524_to_2437_metres": 5,
+					"914_to_1523_metres": 46,
+					"under_914_metres": 13,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 888,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 888,
+				"units": "km\n1.067-m"
+			},
+			"global_rank": 95,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 31747,
+				"units": "km"
+			},
+			"paved": {
+				"value": 9810,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 21937,
+				"units": "km"
+			},
+			"global_rank": 95,
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.8,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.8,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 30
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for voluntary military service; no conscription",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Botswana is a source, transit, and destination country for women and children subjected to sex trafficking and forced labor; young Batswana serving as domestic workers, sometimes sent by their parents, may be denied education and basic necessities or experience confinement and abuse indicative of forced labor; Batswana girls and women also are forced into prostitution domestically; adults and children of San ethnicity were reported to be in forced labor on farms and at cattle posts in the country’s rural west",
+			"tier_rating": "Tier 2 Watch List – Botswana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; an anti-trafficking act was passed at the beginning of 2014, but authorities did not investigate, prosecute, or convict any offenders or government officials complicit in trafficking or operationalize victim identification and referral procedures based on the new law; the government sponsored a radio campaign to familiarize the public with the issue of human trafficking (2015)"
+		}
+	}
+}

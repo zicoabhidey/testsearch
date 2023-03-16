@@ -1,0 +1,1786 @@
+{
+	"name": "Slovenia",
+	"introduction": {
+		"background": "The Slovene lands were part of the Austro-Hungarian Empire until the latter's dissolution at the end of World War I. In 1918, the Slovenes joined the Serbs and Croats in forming a new multinational state, which was named Yugoslavia in 1929. After World War II, Slovenia was one of the republics in the restored Yugoslavia, which, though communist, soon distanced itself from the Soviet Union and spearheaded the Non-Aligned Movement. Dissatisfied with the exercise of power by the majority Serbs, the Slovenes succeeded in establishing their independence in 1991 after a short 10-day war. Historical ties to Western Europe, a growing economy, and a stable democracy have assisted in Slovenia's postcommunist transition. Slovenia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone and the Schengen zone in 2007."
+	},
+	"geography": {
+		"location": "south Central Europe, Julian Alps between Austria and Croatia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 46,
+				"minutes": 7,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 14,
+				"minutes": 49,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 20273,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 20151,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 122,
+				"units": "sq km"
+			},
+			"global_rank": 155,
+			"comparative": "slightly smaller than New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1211,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Austria",
+					"border_length": {
+						"value": 299,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Croatia",
+					"border_length": {
+						"value": 600,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Hungary",
+					"border_length": {
+						"value": 94,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Italy",
+					"border_length": {
+						"value": 218,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 46.6,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			}
+		},
+		"climate": "Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east",
+		"terrain": "a short southwestern coastal strip of Karst topography on the Adriatic; an alpine mountain region lies adjacent to Italy and Austria in the north; mixed mountains and valleys with numerous rivers to the east",
+		"elevation": {
+			"mean_elevation": {
+				"value": 492,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Adriatic Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Triglav",
+				"elevation": {
+					"value": 2864,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"lignite",
+				"lead",
+				"zinc",
+				"building stone",
+				"hydropower",
+				"forests"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 22.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 8.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 13.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 62.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 14.9,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 60,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution from road traffic",
+				"domestic heating (wood buring)",
+				"power generation",
+				"and industry",
+				"water pollution",
+				"biodiversity protection"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 94",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2102678,
+			"global_rank": 148,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Slovene(s)",
+			"adjective": "Slovenian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Slovene",
+					"percent": 83.1
+				},
+				{
+					"name": "Serb",
+					"percent": 2
+				},
+				{
+					"name": "Croat",
+					"percent": 1.8
+				},
+				{
+					"name": "Bosniak",
+					"percent": 1.1
+				},
+				{
+					"name": "other or unspecified",
+					"percent": 12
+				}
+			],
+			"date": "2002"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Slovene",
+					"percent": 91.1,
+					"note": "official"
+				},
+				{
+					"name": "Serbo-Croatian",
+					"percent": 4.5
+				},
+				{
+					"name": "other or unspecified",
+					"percent": 4.4
+				},
+				{
+					"name": "Italian",
+					"note": "official, only in municipalities where Italian national communities reside"
+				},
+				{
+					"name": "Hungarian",
+					"note": "official, only in municipalities where Hungarian national communities reside; 2002 census"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Catholic",
+					"percent": 57.8
+				},
+				{
+					"name": "Muslim",
+					"percent": 2.4
+				},
+				{
+					"name": "Orthodox",
+					"percent": 2.3
+				},
+				{
+					"name": "other Christian",
+					"percent": 0.9
+				},
+				{
+					"name": "unaffiliated",
+					"percent": 3.5
+				},
+				{
+					"name": "other or unspecified",
+					"percent": 23
+				},
+				{
+					"name": "none",
+					"percent": 10.1
+				}
+			],
+			"date": "2002"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.84,
+				"males": 160134,
+				"females": 151960
+			},
+			"15_to_24": {
+				"percent": 9.01,
+				"males": 98205,
+				"females": 91318
+			},
+			"25_to_54": {
+				"percent": 40.73,
+				"males": 449930,
+				"females": 406395
+			},
+			"55_to_64": {
+				"percent": 14.19,
+				"males": 148785,
+				"females": 149635
+			},
+			"65_and_over": {
+				"percent": 21.23,
+				"males": 192420,
+				"females": 253896
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 32.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 43.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 46.6,
+				"units": "years"
+			},
+			"global_rank": 11,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.01,
+			"global_rank": 191,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.7,
+			"global_rank": 212,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.3,
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 1.5,
+			"global_rank": 55,
+			"date": "2020"
+		},
+		"population_distribution": "a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere",
+		"urbanization": {
+			"urban_population": {
+				"value": 55.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.56,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Ljubljana",
+					"population": 286000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.11,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.76,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.4,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 7,
+			"global_rank": 156,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 1.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 1.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 1.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 228,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.4,
+				"units": "years"
+			},
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.59,
+			"global_rank": 188,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.09,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1000,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.2,
+			"global_rank": 104,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.8,
+			"global_rank": 75,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "NA",
+			"total_population": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 18,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 8.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 8.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 9.6,
+				"units": "%"
+			},
+			"global_rank": 135,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Slovenia",
+			"conventional_short_form": "Slovenia",
+			"local_long_form": "Republika Slovenija",
+			"local_short_form": "Slovenija",
+			"former": "People's Republic of Slovenia, Socialist Republic of Slovenia",
+			"etymology": "the country's name means \"Land of the Slavs\" in Slovene"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Ljubljana",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 46,
+					"minutes": 3,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 14,
+					"minutes": 31,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "likely related to the Slavic root \"ljub\", meaning \"to like\" or \"to love\"; by tradition, the name is related to the Slovene word \"ljubljena\" meaning \"beloved\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "obcina) and 11 urban municipalities (mestne obcine",
+				"type": ""
+			},
+			{
+				"name": "singular - mestna obcina)",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1991-06-25",
+			"note": "from Yugoslavia"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day/Statehood Day",
+				"day": "25 June",
+				"original_year": "1991"
+			}
+		],
+		"constitution": {
+			"history": "previous 1974 (preindependence); latest passed by Parliament 23 December 1991",
+			"amendments": "proposed by at least 20 National Assembly members, by the government, or by petition of at least 30,000 voters; passage requires at least two-thirds majority vote by the Assembly; referendum required if agreed upon by at least 30 Assembly members; passage in a referendum requires participation of a majority of eligible voters and a simple majority of votes cast; amended several times, last in 2015"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Slovenia; both parents if the child is born outside of Slovenia",
+			"dual_citizenship_recognized": "yes, for select cases",
+			"residency_requirement_for_naturalization": "10 years, the last 5 of which have been continuous"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age, 16 if employed; universal"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Borut PAHOR (since 22 December 2012)",
+			"head_of_government": "Prime Minister Janez JANSA (since 13 March 2020)",
+			"cabinet": "Council of Ministers nominated by the prime minister, elected by the National Assembly",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held by November 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly",
+			"election_results": "Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Janez JANSA (SDS) elected prime minister on 3 March 2020, National Assembly vote - 52-31"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers\nNational Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)",
+			"elections": "National Council - last held on 22 November 2017 (next to be held in 2022)\nNational Assembly - last held on 3 June 2018 (next to be held no later than 2022)",
+			"election_results": "National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%\nNational Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court president and vice president appointed by the National Assembly upon the proposal of the Minister of Justice based on the opinions of the Judicial Council, an 11-member independent body elected by the National Assembly from proposals submitted by the president, attorneys, law universities, and sitting judges; other Supreme Court judges elected by the National Assembly from candidates proposed by the Judicial Council; Supreme Court judges serve for life; Constitutional Court judges appointed by the National Assembly from nominations by the president of the republic; Constitutional Court president selected from among its own membership for a 3-year term; other judges elected for single 9-year terms",
+			"subordinate_courts": "county, district, regional, and high courts; specialized labor-related and social courts; Court of Audit; Administrative Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party of Pensioners of Slovenia",
+					"name_alternative": "DeSUS",
+					"leaders": [
+						"Aleksandra PIVEC"
+					]
+				},
+				{
+					"name": "List of Marjan Sarec",
+					"name_alternative": "LMS",
+					"leaders": [
+						"Marjan SAREC"
+					]
+				},
+				{
+					"name": "Modern Center Party",
+					"name_alternative": "SMC",
+					"leaders": [
+						"Miro CERAR"
+					]
+				},
+				{
+					"name": "New Slovenia",
+					"name_alternative": "NSi",
+					"leaders": [
+						"Matej TONIN"
+					]
+				},
+				{
+					"name": "Party of Alenka Bratusek",
+					"name_alternative": "Stranka AB",
+					"leaders": [
+						"Alenka BRATUSEK"
+					],
+					"note": "formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB"
+				},
+				{
+					"name": "Slovenian Democratic Party",
+					"name_alternative": "SDS",
+					"leaders": [
+						"Janez JANSA"
+					]
+				},
+				{
+					"name": "Slovenian National Party",
+					"name_alternative": "SNS",
+					"leaders": [
+						"Zmago JELINCIC Plemeniti"
+					]
+				},
+				{
+					"name": "Social Democrats",
+					"name_alternative": "SD",
+					"leaders": [
+						"Dejan ZIDAN"
+					]
+				},
+				{
+					"name": "The Left",
+					"name_alternative": "Levica",
+					"leaders": [
+						"Luka MESEC"
+					],
+					"note": "successor to United Left or ZL"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA ",
+				"note": "cooperating state"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Stanislav VIDOVIC (since 21 July 2017)",
+				"chancery": "2410 California Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 386-6601",
+				"fax": "[1] (202) 386-6633",
+				"consulates_general": "Cleveland (OH)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Lynda C. BLANCHARD (since 29 August 2019)",
+				"telephone": "[386] (1) 200-5500",
+				"embassy": "Presernova 31, 1000 Ljubljana",
+				"mailing_address": "American Embassy Ljubljana, US Department of State, 7140 Ljubljana Place, Washington, DC 20521-7140",
+				"fax": "[386] (1) 200-5555"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the prominent Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Mount Triglav"
+				}
+			],
+			"colors": [
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Zdravljica\" (A Toast)",
+			"lyrics_music": "France PRESEREN/Stanko PREMRL",
+			"note": "adopted in 1989 while still part of Yugoslavia; originally written in 1848; the full poem, whose seventh verse is used as the anthem, speaks of pan-Slavic nationalism",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SI.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.\nIn March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.\nPrime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 71230000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 67840000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 65769999999.99999,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 99,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 48870000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.4,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 4.24,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 5.14,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 118
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 34500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 32900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 31900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 58,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 52.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 18.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 82.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -72.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 32.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 65.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 26.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 23.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 49
+		},
+		"agriculture_products": {
+			"products": [
+				"hops",
+				"wheat",
+				"coffee",
+				"corn",
+				"apples",
+				"pears",
+				"cattle",
+				"sheep",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"ferrous metallurgy",
+				"aluminum products",
+				"lead",
+				"zinc smelting",
+				"electronics including military electronics",
+				"trucks",
+				"automobiles",
+				"electric power equipment",
+				"wood products",
+				"textiles",
+				"chemicals",
+				"machine tools"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 8.6,
+			"global_rank": 22,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 885000,
+				"global_rank": 143,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 5.5,
+						"units": "%"
+					},
+					"industry": {
+						"value": 31.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 63.3,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.64,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 8.25,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 118
+		},
+		"population_below_poverty_line": {
+			"value": 13.9,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 20.1,
+				"units": "%"
+			},
+			"date": "2016"
+		},
+		"budget": {
+			"revenues": {
+				"value": 21070000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 21060000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 43.1,
+			"global_rank": 28,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0,
+			"global_rank": 46,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 73.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 78.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 44,
+			"note": "defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 80
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 3050000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 3170000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 34
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 32140000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 27650000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 61
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactured goods",
+					"machinery",
+					"transport equipment",
+					"chemicals",
+					"food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 18.9
+					},
+					{
+						"name": "Italy",
+						"percent": 10.7
+					},
+					{
+						"name": "Austria",
+						"percent": 7.4
+					},
+					{
+						"name": "Croatia",
+						"percent": 7.1
+					},
+					{
+						"name": "France",
+						"percent": 4.8
+					},
+					{
+						"name": "Poland",
+						"percent": 4.2
+					},
+					{
+						"name": "Hungary",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 30380000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 25950000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 68
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"manufactured goods",
+					"chemicals",
+					"fuels",
+					"lubricants",
+					"food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 16.5
+					},
+					{
+						"name": "Italy",
+						"percent": 13.5
+					},
+					{
+						"name": "Austria",
+						"percent": 9.3
+					},
+					{
+						"name": "Turkey",
+						"percent": 5.8
+					},
+					{
+						"name": "Croatia",
+						"percent": 4.8
+					},
+					{
+						"name": "China",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 889900000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 853000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 135
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 46300000000,
+					"units": "USD",
+					"date": "2017-01-31"
+				},
+				{
+					"value": 48200000000,
+					"units": "USD",
+					"date": "2016-01-31"
+				}
+			],
+			"global_rank": 69
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 15460000000,
+				"global_rank": 88,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 13400000000,
+				"global_rank": 84,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 7972000000,
+				"global_rank": 26,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 8359000000,
+				"global_rank": 29,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 3536000,
+				"global_rank": 95,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 37,
+					"global_rank": 174,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 20,
+					"global_rank": 9,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 34,
+					"global_rank": 63,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 9,
+					"global_rank": 84,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 5,
+				"global_rank": 100,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 194,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 196,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 196,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 202,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 52140,
+				"global_rank": 102,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 29350,
+				"global_rank": 63,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 93060,
+				"global_rank": 56,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 8000000,
+				"global_rank": 94,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 906100000,
+				"global_rank": 94,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 2832000,
+				"global_rank": 55,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 906100000,
+				"global_rank": 62,
+				"date": "2017"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 14370000,
+			"global_rank": 94,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 715283,
+				"subscriptions_per_one_hundred_inhabitants": 34.02,
+				"global_rank": 84,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 2540917,
+				"subscriptions_per_one_hundred_inhabitants": 120.85,
+				"global_rank": 146,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of national and regional TV stations; 35 domestic commercial TV stations operating nationally, regionally, and locally; about 60% of households are connected to multi-channel cable TV; public radio broadcaster operates 3 national and 4 regional stations; more than 75 regional and local commercial and non-commercial radio stations",
+		"internet": {
+			"country_code": ".si",
+			"users": {
+				"total": 1676445,
+				"percent_of_population": 79.75,
+				"global_rank": 128,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 21,
+				"annual_passenger_traffic_on_registered_air_carriers": 1094762,
+				"annual_freight_traffic_on_registered_air_carriers": 540000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "S5",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 16,
+					"global_rank": 144,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 9,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 2,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 3,
+					"date": "2020"
+				},
+				"unpaved": {
+					"total": 7,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 3,
+					"date": "2020"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1155,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 5,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 1229,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 1229,
+				"electrified": 503,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 86,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 38985,
+				"units": "km"
+			},
+			"paved": {
+				"value": 38985,
+				"units": "km",
+				"note": "includes 769 km of expressways"
+			},
+			"global_rank": 91,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 8,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 8
+				}
+			],
+			"global_rank": 161,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Koper"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.04,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.01,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.98,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.01,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.93,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 115
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-25 years of age for voluntary military service; conscription abolished in 2003",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"since the breakup of Yugoslavia in the early 1990s, Croatia and Slovenia have each claimed sovereignty over Piran Bay and four villages, and Slovenia has objected to Croatia's claim of an exclusive economic zone in the Adriatic Sea",
+			"in 2009, however Croatia and Slovenia signed a binding international arbitration agreement to define their disputed land and maritime borders, which led Slovenia to lift its objections to Croatia joining the EU",
+			"in June 2017 the arbitration panel issued a ruling on the border that Croatia has not implemented",
+			"as a member state that forms part of the EU's external border, Slovenia has implemented the strict Schengen border rules to curb illegal migration and commerce through southeastern Europe while encouraging close cross-border ties with Croatia",
+			"Slovenia continues to impose a hard border Schengen regime with Croatia, which joined the EU in 2013 but has not yet fulfilled Schengen requirements"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 5,
+				"date": "2019"
+			},
+			"note": "516,394 estimated refugee and migrant arrivals (January 2015-September 2020), migration through the Western Balkans has decreased significantly since March 2016; Slovenia is predominantly a transit country and hosts approximately 300 asylum seekers as of the end of June 2018"
+		},
+		"illicit_drugs": {
+			"note": "minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals"
+		}
+	}
+}

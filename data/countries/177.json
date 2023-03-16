@@ -1,0 +1,1383 @@
+{
+	"name": "Palau",
+	"introduction": {
+		"background": "After three decades as part of the UN Trust Territory of the Pacific under US administration, this westernmost cluster of the Caroline Islands opted for independence in 1978 rather than join the Federated States of Micronesia. A Compact of Free Association with the US was approved in 1986 but not ratified until 1993. It entered into force the following year when the islands gained independence."
+	},
+	"geography": {
+		"location": "Oceania, group of islands in the North Pacific Ocean, southeast of the Philippines",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 7,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 134,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 459,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 459,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 198,
+			"comparative": "slightly more than 2.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 1519,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; hot and humid; wet season May to November",
+		"terrain": "varying topography from the high, mountainous main island of Babelthuap to low, coral islands usually fringed by large barrier reefs",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Ngerchelchuus",
+				"elevation": {
+					"value": 242,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"forests",
+				"minerals",
+				"gold",
+				"marine products",
+				"deep-seabed minerals"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 10.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 4.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 4.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 87.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 1.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is located on the southern end of the main island of Babelthuap",
+		"natural_hazards": [
+			{
+				"description": "typhoons (June to December)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"inadequate facilities for disposal of solid waste",
+				"threats to the marine ecosystem from sand and coral dredging",
+				"illegal and destructive fishing practices",
+				"and overfishing",
+				"climate change contributes to rising sea level and coral bleaching",
+				"drought"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 21685,
+			"global_rank": 219,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Palauan(s)",
+			"adjective": "Palauan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Palauan",
+					"percent": 73,
+					"note": "Micronesian with Malayan and Melanesian admixtures"
+				},
+				{
+					"name": "Carolinian",
+					"percent": 2
+				},
+				{
+					"name": "Asian",
+					"percent": 21.7
+				},
+				{
+					"name": "caucasian",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 2.1
+				}
+			],
+			"date": "2015"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Palauan",
+					"percent": 65.2,
+					"note": "official on most islands"
+				},
+				{
+					"name": "other Micronesian",
+					"percent": 1.9
+				},
+				{
+					"name": "English",
+					"percent": 19.1,
+					"note": "official"
+				},
+				{
+					"name": "Filipino",
+					"percent": 9.9
+				},
+				{
+					"name": "Chinese",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 2.8
+				}
+			],
+			"note": "Sonsoralese is official in Sonsoral; Tobian is official in Tobi; Angaur and Japanese are official in Angaur",
+			"date": "2015"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 45.3
+				},
+				{
+					"name": "Protestant",
+					"percent": 34.9,
+					"breakdown": [
+						{
+							"name": "includes Evangelical",
+							"percent": 26.4
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 6.9
+						},
+						{
+							"name": "Assembly of God .9%"
+						},
+						{
+							"name": "Baptist .7%"
+						}
+					]
+				},
+				{
+					"name": "Modekngei",
+					"percent": 5.7,
+					"note": "indigenous to Palau"
+				},
+				{
+					"name": "Muslim",
+					"percent": 3
+				},
+				{
+					"name": "Mormon",
+					"percent": 1.5
+				},
+				{
+					"name": "other",
+					"percent": 9.7
+				}
+			],
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.68,
+				"males": 2090,
+				"females": 1961
+			},
+			"15_to_24": {
+				"percent": 15.86,
+				"males": 1723,
+				"females": 1716
+			},
+			"25_to_54": {
+				"percent": 45.33,
+				"males": 6026,
+				"females": 3804
+			},
+			"55_to_64": {
+				"percent": 10.68,
+				"males": 853,
+				"females": 1463
+			},
+			"65_and_over": {
+				"percent": 9.45,
+				"males": 501,
+				"females": 1548
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 33.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 32.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 35.9,
+				"units": "years"
+			},
+			"global_rank": 94,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.39,
+			"global_rank": 163,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.3,
+			"global_rank": 174,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.3,
+			"global_rank": 80,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.9,
+			"global_rank": 62,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is located on the southern end of the main island of Babelthuap",
+		"urbanization": {
+			"urban_population": {
+				"value": 81,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.77,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Ngerulmud",
+					"population": 277,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.58,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.58,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.32,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.07,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 9.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 11.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 8.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 133,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 77.5,
+				"units": "years"
+			},
+			"global_rank": 136,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.7,
+			"global_rank": 173,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.42,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.8,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 55.3,
+			"global_rank": 3,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 96.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 96.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 96.3,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2013"
+		},
+		"youth_unemployment": {
+			"global_rank": 162
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Palau",
+			"conventional_short_form": "Palau",
+			"local_long_form": "Beluu er a Belau",
+			"local_short_form": "Belau",
+			"former": "Trust Territory of the Pacific Islands, Palau District",
+			"etymology": "from the Palauan name for the islands, Belau, which likely derives from the Palauan word \"beluu\" meaning \"village\""
+		},
+		"government_type": "presidential republic in free association with the US",
+		"capital": {
+			"name": "Ngerulmud",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 7,
+					"minutes": 30,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 134,
+					"minutes": 37,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 9,
+				"note": "14 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the Palauan meaning is \"place of fermented 'mud'\" ('mud' being the native name for the keyhole angelfish); the site of the new capitol (established in 2006) had been a large hill overlooking the ocean, Ngerulmud, on which women would communally gather to offer fermented angelfish to the gods",
+			"note": "Ngerulmud, on Babeldaob Island, is the smallest national capital on earth by population, with only a few hundred people; the name is pronounced en-jer-al-mud; Koror, on Koror Island, with over 11,000 residents is by far the largest settlement in Palau; it served as the country's capital from independence in 1994 to 2006"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Aimeliik",
+				"type": ""
+			},
+			{
+				"name": "Airai",
+				"type": ""
+			},
+			{
+				"name": "Angaur",
+				"type": ""
+			},
+			{
+				"name": "Hatohobei",
+				"type": ""
+			},
+			{
+				"name": "Kayangel",
+				"type": ""
+			},
+			{
+				"name": "Koror",
+				"type": ""
+			},
+			{
+				"name": "Melekeok",
+				"type": ""
+			},
+			{
+				"name": "Ngaraard",
+				"type": ""
+			},
+			{
+				"name": "Ngarchelong",
+				"type": ""
+			},
+			{
+				"name": "Ngardmau",
+				"type": ""
+			},
+			{
+				"name": "Ngatpang",
+				"type": ""
+			},
+			{
+				"name": "Ngchesar",
+				"type": ""
+			},
+			{
+				"name": "Ngeremlengui",
+				"type": ""
+			},
+			{
+				"name": "Ngiwal",
+				"type": ""
+			},
+			{
+				"name": "Peleliu",
+				"type": ""
+			},
+			{
+				"name": "Sonsorol",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1994-10-01",
+			"note": "from the US-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "9 July",
+				"original_year": "1981",
+				"note": ", day of a national referendum to pass the new constitution"
+			},
+			{
+				"name": "Independence Day",
+				"day": "1 October",
+				"original_year": "1994"
+			}
+		],
+		"constitution": {
+			"history": "ratified 9 July 1980, effective 1 January 1981",
+			"amendments": "proposed by a constitutional convention (held at least once every 15 years with voter approval), by public petition of at least 25% of eligible voters, or by a resolution adopted by at least three fourths of National Congress members; passage requires approval by a majority of votes in at least three fourths of the states in the next regular general election; amended 1992, 2004, 2008"
+		},
+		"legal_system": "mixed legal system of civil, common, and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Palau",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "note - no procedure for naturalization"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Tommy REMENGESAU (since 17 January 2013); Vice President Raynold OILUCH (since 19 January 2017); note - the president is both chief of state and head of government",
+			"head_of_government": "President Tommy REMENGESAU (since 17 January 2013); Vice President Raynold OILUCH (since 19 January 2017)",
+			"cabinet": "Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau",
+			"elections_appointments": "president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on November 2024)",
+			"election_results": "Surangel WHIPPS, Jr. elected president; percent of vote - Surangel WHIPPS, Jr.(independent) 57.4%, Raynold OILUCH (independent) 42.6%"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Congress or Olbiil Era Kelulau consists of: Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)\nHouse of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)",
+			"elections": "Senate - last held on 1 November 2016 (next to be held on 3 November 2020)\nHouse of Delegates - last held on 1 November 2016 (next to be held on 3 November 2020)",
+			"election_results": "Senate - percent of vote - NA; seats - independent 13; composition - men 11, women 2, percent of women 15.4%\nHouse of Delegates - percent of vote - NA; seats - independent 16; composition - men 14, women 2, percent of women 12.5%; note - total National Congress percent of women 13.8%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)",
+			"judge_selection_and_term_of_office": "justices nominated by a 7-member independent body consisting of judges, presidential appointees, and lawyers and appointed by the president; judges can serve until mandatory retirement at age 65",
+			"subordinate_courts": "National Court and other 'inferior' courts"
+		},
+		"political_parties_and_leaders": {
+			"note": "none"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "WHO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Hersey KYOTA (since 12 November 1997)",
+				"chancery": "1701 Pennsylvania Avenue NW, Suite 300, Washington, DC 20036",
+				"telephone": "[1] (202) 452-6814",
+				"fax": "[1] (202) 452-6281",
+				"consulates": "Tamuning (Guam)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Amy HYATT (since 9 March 2015)",
+				"telephone": "[680] 587-2920",
+				"embassy": "Omsangel/Beklelachieb, Airai 96940",
+				"mailing_address": "P. O. Box 6028, Koror, Republic of Palau 96940",
+				"fax": "[680] 587-2911"
+			}
+		},
+		"flag_description": {
+			"description": "light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "bai ",
+					"note": "native meeting house"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Belau rekid\" (Our Palau)",
+			"lyrics_music": "multiple/Ymesei O. EZEKIEL",
+			"note": "adopted 1980",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/PS.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.\nBusiness and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 264000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 274200000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 274100000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 217,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 292000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -3.7,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 0,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 10.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 215
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 14700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 15200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 15200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 115,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 60.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 27.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.9,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 55.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -67.6,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 19,
+							"units": "%"
+						},
+						"services": {
+							"value": 78,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 48.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 50.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 2
+		},
+		"agriculture_products": {
+			"products": [
+				"coconuts",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"sweet potatoes",
+				"fish",
+				"pigs",
+				"chickens",
+				"eggs",
+				"bananas",
+				"papaya",
+				"breadfruit",
+				"calamansi",
+				"soursop",
+				"Polynesian chestnuts",
+				"Polynesian almonds",
+				"mangoes",
+				"taro",
+				"guava",
+				"beans",
+				"cucumbers",
+				"squash",
+				"pumpkins",
+				"various",
+				"eggplant",
+				"green onions",
+				"kangkong",
+				"watercress",
+				"cabbages",
+				"various",
+				"radishes",
+				"betel nuts",
+				"melons",
+				"peppers",
+				"noni",
+				"okra"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"fishing",
+				"subsistence agriculture"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 11610,
+				"global_rank": 216,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 86.4,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1.7,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 4.1,
+					"units": "%",
+					"date": "2012"
+				}
+			],
+			"global_rank": 16
+		},
+		"population_below_poverty_line": {
+			"value": 24.9,
+			"units": "%",
+			"note": "NA",
+			"date": "2006"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 193000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 167300000,
+				"units": "USD"
+			},
+			"date": "2012"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 66.1,
+			"global_rank": 6,
+			"date": "2016"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 8.8,
+			"global_rank": 3,
+			"date": "2016"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 24.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 21.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 179
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 46
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -53000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -36000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 80
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 23170000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14800000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 68
+			},
+			"commodities": {
+				"by_commodity": [
+					"shellfish",
+					"tuna",
+					"other fish (many species)"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Japan",
+						"percent": 51.3
+					},
+					{
+						"name": "US",
+						"percent": 15.8
+					},
+					{
+						"name": "India",
+						"percent": 13.8
+					},
+					{
+						"name": "Guam",
+						"percent": 8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4715000000,
+						"units": "USD",
+						"date": "2018"
+					},
+					{
+						"value": 4078999999.9999995,
+						"units": "USD",
+						"date": "2017"
+					}
+				],
+				"global_rank": 134
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"fuels",
+					"metals",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 33.4
+					},
+					{
+						"name": "Guam",
+						"percent": 15.8
+					},
+					{
+						"name": "Japan",
+						"percent": 15.7
+					},
+					{
+						"name": "China",
+						"percent": 13.5
+					},
+					{
+						"name": "South Korea",
+						"percent": 5.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 580900000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 193
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 18380000000,
+					"units": "USD",
+					"date": "2014-12-31"
+				},
+				{
+					"value": 16469999999.999998,
+					"units": "USD",
+					"date": "2013-12-31"
+				}
+			],
+			"global_rank": 94
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 99.3,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99.6,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 97.2,
+					"units": "%"
+				},
+				"date": "2016"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 8808,
+				"subscriptions_per_one_hundred_inhabitants": 40.78,
+				"global_rank": 191,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 29033,
+				"subscriptions_per_one_hundred_inhabitants": 134.41,
+				"global_rank": 210,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "no broadcast TV stations; a cable TV network covers the major islands and provides access to 4 local cable stations, rebroadcasts (on a delayed basis) of a number of US stations, as well as access to a number of real-time satellite TV channels; about a half dozen radio stations (1 government-owned) (2019)",
+		"internet": {
+			"country_code": ".pw",
+			"users": {
+				"total": 7650,
+				"percent_of_population": 36,
+				"global_rank": 214,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 1,
+				"date": "2020"
+			},
+			"airports": {
+				"total": {
+					"airports": 3,
+					"global_rank": 196,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 2,
+					"1524_to_2437_metres": 2,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 125,
+				"units": "km"
+			},
+			"paved": {
+				"value": 89,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 36,
+				"units": "km"
+			},
+			"global_rank": 211,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 203,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 9
+				},
+				{
+					"type": "container ship",
+					"count": 11
+				},
+				{
+					"type": "general cargo",
+					"count": 88
+				},
+				{
+					"type": "oil tanker",
+					"count": 31
+				},
+				{
+					"type": "other",
+					"count": 64
+				}
+			],
+			"global_rank": 66,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Koror"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "Under a 1994 Compact of Free Association between Palau and the US, the US until 2044 is responsible for the defense of Palaus and the US military is granted access to the islands, but it has not stationed any military forces there. (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"maritime delineation negotiations continue with Philippines, Indonesia"
+		]
+	}
+}

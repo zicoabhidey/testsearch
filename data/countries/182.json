@@ -1,0 +1,2022 @@
+{
+	"name": "Peru",
+	"introduction": {
+		"background": "Ancient Peru was the seat of several prominent Andean civilizations, most notably that of the Incas whose empire was captured by Spanish conquistadors in 1533. Peru declared its independence in 1821, and remaining Spanish forces were defeated in 1824. After a dozen years of military rule, Peru returned to democratic leadership in 1980, but experienced economic problems and the growth of a violent insurgency. President Alberto FUJIMORI's election in 1990 ushered in a decade that saw a dramatic turnaround in the economy and significant progress in curtailing guerrilla activity. Nevertheless, the president's increasing reliance on authoritarian measures and an economic slump in the late 1990s generated mounting dissatisfaction with his regime, which led to his resignation in 2000. A caretaker government oversaw a new election in the spring of 2001, which installed Alejandro TOLEDO Manrique as the new head of government - Peru's first democratically elected president of indigenous ethnicity. The presidential election of 2006 saw the return of Alan GARCIA Perez who, after a disappointing presidential term from 1985 to 1990, oversaw a robust economic rebound. Former army officer Ollanta HUMALA Tasso was elected president in June 2011, and carried on the sound, market-oriented economic policies of the three preceding administrations. Poverty and unemployment levels have fallen dramatically in the last decade, and today Peru boasts one of the best performing economies in Latin America. Pedro Pablo KUCZYNSKI Godard won a very narrow presidential runoff election in June 2016. Facing impeachment after evidence surfaced of his involvement in a vote-buying scandal, President KUCZYNSKI offered his resignation on 21 March 2018. Two days later, First Vice President Martin Alberto VIZCARRA Cornejo was sworn in as president. On 30 September 2019, President VIZCARRA invoked his constitutional authority to dissolve Peru's Congress after months of battling with the body over anticorruption reforms. New congressional elections took place on 26 January 2020 resulting in the return of an opposition-led legislature. President VIZCARRA was impeached by Congress on 9 November 2020 for a second time and removed from office after being accused of corruption and mishandling of the COVID-19 pandemic. Because of vacancies in the vice-presidential positions, constitutional succession led to the President of the Peruvian Congress, Manuel MERINO, becoming the next president of Peru. His ascension to office was not well received by the population, and large protests forced his resignation on 15 November 2020. On 17 November, Francisco SAGASTI assumed the position of President of Peru after being appointed President of the Congress the previous day."
+	},
+	"geography": {
+		"location": "Western South America, bordering the South Pacific Ocean, between Chile and Ecuador",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 10,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 76,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 1285216,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1279996,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 5220,
+				"units": "sq km"
+			},
+			"global_rank": 21,
+			"comparative": "almost twice the size of Texas; slightly smaller than Alaska"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 7062,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Bolivia",
+					"border_length": {
+						"value": 1212,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Brazil",
+					"border_length": {
+						"value": 2659,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Chile",
+					"border_length": {
+						"value": 168,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Colombia",
+					"border_length": {
+						"value": 1494,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ecuador",
+					"border_length": {
+						"value": 1529,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 2414,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "varies from tropical in east to dry desert in west; temperate to frigid in Andes",
+		"terrain": "western coastal plain (costa), high and rugged Andes in center (sierra), eastern lowland jungle of Amazon Basin (selva)",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1555,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Nevado Huascaran",
+				"elevation": {
+					"value": 6746,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"copper",
+				"silver",
+				"gold",
+				"petroleum",
+				"timber",
+				"fish",
+				"iron ore",
+				"coal",
+				"phosphate",
+				"potash",
+				"hydropower",
+				"natural gas"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 18.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 3.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 14.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 53,
+					"units": "%"
+				},
+				"other": {
+					"value": 28.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 25800,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "earthquakes, tsunamis, flooding, landslides, mild volcanic activity",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity in the Andes Mountains; Ubinas (5,672 m), which last erupted in 2009, is the country's most active volcano; other historically active volcanoes include El Misti, Huaynaputina, Sabancaya, and Yucamane; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation (some the result of illegal logging)",
+				"overgrazing of the slopes of the costa and sierra leading to soil erosion",
+				"desertification",
+				"air pollution in Lima",
+				"pollution of rivers and coastal waters from municipal and mining wastes",
+				"overfishing"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 31914989,
+			"global_rank": 44,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Peruvian(s)",
+			"adjective": "Peruvian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 60.2,
+					"note": "mixed Amerindian and white"
+				},
+				{
+					"name": "Amerindian",
+					"percent": 25.8
+				},
+				{
+					"name": "white",
+					"percent": 5.9
+				},
+				{
+					"name": "African descent",
+					"percent": 3.6
+				},
+				{
+					"name": "other",
+					"percent": 1.2,
+					"note": "includes Chinese and Japanese descent"
+				},
+				{
+					"name": "unspecified",
+					"percent": 3.3
+				}
+			],
+			"date": "2017"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"percent": 82.9,
+					"note": "official"
+				},
+				{
+					"name": "Quechua",
+					"percent": 13.6,
+					"note": "official"
+				},
+				{
+					"name": "Aymara",
+					"percent": 1.6,
+					"note": "official"
+				},
+				{
+					"name": "Ashaninka",
+					"percent": 0.3
+				},
+				{
+					"name": "other native languages",
+					"percent": 0.8,
+					"note": "includes a large number of minor Amazonian languages"
+				},
+				{
+					"name": "other",
+					"percent": 0.2,
+					"note": "includes foreign languages and sign language"
+				},
+				{
+					"name": "none .1%"
+				},
+				{
+					"name": "unspecified .7%"
+				}
+			],
+			"date": "2017"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 60
+				},
+				{
+					"name": "Christian",
+					"percent": 14.6,
+					"breakdown": [
+						{
+							"name": "includes evangelical",
+							"percent": 11.1
+						},
+						{
+							"name": "other",
+							"percent": 3.5
+						}
+					]
+				},
+				{
+					"name": "other .3%"
+				},
+				{
+					"name": "none",
+					"percent": 4
+				},
+				{
+					"name": "unspecified",
+					"percent": 21.1
+				}
+			],
+			"date": "2017"
+		},
+		"demographic_profile": "Peru's urban and coastal communities have benefited much more from recent economic growth than rural, Afro-Peruvian, indigenous, and poor populations of the Amazon and mountain regions. The poverty rate has dropped substantially during the last decade but remains stubbornly high at about 30% (more than 55% in rural areas). After remaining almost static for about a decade, Peru's malnutrition rate began falling in 2005, when the government introduced a coordinated strategy focusing on hygiene, sanitation, and clean water. School enrollment has improved, but achievement scores reflect ongoing problems with educational quality. Many poor children temporarily or permanently drop out of school to help support their families. About a quarter to a third of Peruvian children aged 6 to 14 work, often putting in long hours at hazardous mining or construction sites.\nPeru was a country of immigration in the 19th and early 20th centuries, but has become a country of emigration in the last few decades. Beginning in the 19th century, Peru brought in Asian contract laborers mainly to work on coastal plantations. Populations of Chinese and Japanese descent - among the largest in Latin America - are economically and culturally influential in Peru today. Peruvian emigration began rising in the 1980s due to an economic crisis and a violent internal conflict, but outflows have stabilized in the last few years as economic conditions have improved. Nonetheless, more than 2 million Peruvians have emigrated in the last decade, principally to the US, Spain, and Argentina.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 25.43,
+				"males": 4131985,
+				"females": 3984546
+			},
+			"15_to_24": {
+				"percent": 17.21,
+				"males": 2756024,
+				"females": 2736394
+			},
+			"25_to_54": {
+				"percent": 41.03,
+				"males": 6279595,
+				"females": 6815159
+			},
+			"55_to_64": {
+				"percent": 8.28,
+				"males": 1266595,
+				"females": 1375708
+			},
+			"65_and_over": {
+				"percent": 8.05,
+				"males": 1207707,
+				"females": 1361276
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 50.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 37.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 29.9,
+				"units": "years"
+			},
+			"global_rank": 138,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.92,
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 17,
+			"global_rank": 101,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.2,
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.8,
+			"global_rank": 163,
+			"date": "2020"
+		},
+		"population_distribution": "approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 78.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.44,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Lima",
+					"population": 10719000,
+					"is_capital": true
+				},
+				{
+					"place": "Arequipa",
+					"population": 923000
+				},
+				{
+					"place": "Trujillo",
+					"population": 865000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.2,
+			"date": "2013"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 88,
+			"global_rank": 76,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 16.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 18.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 14.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 90,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.9,
+				"units": "years"
+			},
+			"global_rank": 127,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.04,
+			"global_rank": 107,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 76.3,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.3,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 95.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 77.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 92.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 4.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 22.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 7.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 92.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 60.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 85.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 14.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 23.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 81,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 87000,
+				"global_rank": 50,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria",
+				"Bartonellosis (Oroya fever)"
+			],
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 10 November 2020, Peru has reported a total of 917,503 cases of COVID-19 or 27,827 cumulative cases of COVID-19 per 1 million population with 1,055 cumulative deaths per 1 million population; at this time, there are no specific limitations or quarantine requirements for US citizens and Lawful Permanent Residents entering the US from Peru; on 3 June 2020, Peruvian President Martín VIZCARRA signed a supreme decree extending Peru’s Health State of Emergency for 90 days beginning Wednesday, 10 June 2020; this is not an extension of the national quarantine, although social distancing and the use of facemasks will be required for the foreseeable future",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 19.7,
+			"global_rank": 110,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 2.6,
+			"global_rank": 107,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.9,
+			"global_rank": 108,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 94.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 97.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 91.7,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 14.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 14.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 15,
+				"units": "%"
+			},
+			"global_rank": 93,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Peru",
+			"conventional_short_form": "Peru",
+			"local_long_form": "Republica del Peru",
+			"local_short_form": "Peru",
+			"etymology": "exact meaning is obscure, but the name may derive from a native word \"biru\" meaning \"river\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Lima",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 12,
+					"minutes": 3,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 77,
+					"minutes": 3,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"etymology": "the word \"Lima\" derives from the Spanish pronunciation of \"Limaq,\" the native name for the valley in which the city was founded in 1535; \"limaq\" means \"talker\" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church"
+		},
+		"administrative_divisions": [
+			{
+				"name": "region) and 1 province",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1821-07-28",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "28-29 July",
+				"original_year": "1821"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest promulgated 29 December 1993, enacted 31 December 1993",
+			"amendments": "proposed by Congress, by the president of the republic with the approval of\nthe \"Cabinet, \" or by petition of at least 0.3% of voters; passage requires absolute majority approval by the Congress membership, followed by approval in a referendum; a referendum is not required if Congress approves the amendment by greater than two-thirds majority vote in each of two successive sessions; amended many times, last in 2018"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "2 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true,
+			"note": "18 years of age; universal and compulsory until the age of 70"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Francisco Rafael SAGASTI Hochhausler (since 17 November 2020); First Vice President (vacant); Second Vice President (vacant); note - President Martin Alberto VIZCARRA was impeached and removed from office on 9 November 2020; after the resignation of his successor, Manuel Arturo MERINO, President SAGASTI assumed the office and will serve as president until 28 July 2021; new elections are slated for April 2021; the president is both chief of state and head of government",
+			"head_of_government": "President Francisco Rafael SAGASTI Hochhausler (since 17 November 2020); First Vice President (vacant); Second Vice President (vacant)",
+			"cabinet": "Council of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 10 April 2016 with a runoff on 5 June 2016 (next to be held in April 2021)",
+			"election_results": "Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Fuerza Popular) 39.9%, Pedro Pablo KUCZYNSKI Godard (Peruanos Por el Kambio) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%",
+			"note": "President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession\nPrime Minister Violeta BERMUDEZ (since 18 November 2020) does not exercise executive power; this power rests with the president"
+		},
+		"legislative_branch": {
+			"description": "unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms); note - a referendum held in December 2018 banned congressional reelection, holding members to a single consecutive term",
+			"elections": "last held on 10 April 2016 with run-off election on 6 June 2016 (next to be held in April 2021); note - President VIZCARRA dissolved the Congress on 30 September 2019 and called new congressional elections for 26 January 2020; the new Congress will serve an abbreviated term, with the next regular election to be held in April 2021",
+			"election_results": "percent of vote by party/coalition - Fuerza Popular 36.3%, PPK 16.5%, Frente Amplio 13.9%, APP 9.2%; APRA 8.3%; AP 7.2%, other 8.6%; seats by party/coalition - Fuerza Popular 73, Frente Amplio 20, PPK 18, APP 9; APRA 5; AP 5; composition - men 94, women 36, percent of women 27.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)",
+			"judge_selection_and_term_of_office": "justices proposed by the National Board of Justice (a 7-member independent body), nominated by the president, and confirmed by the Congress; justices can serve until mandatory retirement at age 70",
+			"subordinate_courts": "Court of Constitutional Guarantees; Superior Courts or Cortes Superiores; specialized civil, criminal, and mixed courts; 2 types of peace courts in which professional judges and selected members of the local communities preside"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for Progress  or APPAmerican Popular Revolutionary Alliance or APRA",
+					"name_alternative": "",
+					"leaders": [
+						"Cesar ACUNA Peralta"
+					],
+					"note": "Alianza para el Progreso"
+				},
+				{
+					"name": "Broad Front  ",
+					"note": "Frente Amplio; also known as El Frente Amplio por Justicia, Vida y Libertad"
+				},
+				{
+					"name": "Fuerza Popular ",
+					"leaders": [
+						"Keiko FUJIMORI Higuchi"
+					],
+					"note": "formerly Fuerza 2011"
+				},
+				{
+					"name": "National Solidarity",
+					"name_alternative": "SN",
+					"leaders": [
+						"Luis CASTANEDA Lossio"
+					],
+					"note": "Solidaridad Nacional"
+				},
+				{
+					"name": "Peru Posible",
+					"name_alternative": "PP",
+					"leaders": [
+						"Alejandro TOLEDO Manrique"
+					],
+					"note": "coalition includes Accion Popular and Somos Peru"
+				},
+				{
+					"name": "Peruvian Aprista Party",
+					"name_alternative": "PAP",
+					"leaders": [
+						"Javier VELASQUEZ Quesquen"
+					],
+					"note": "Partido Aprista Peruano; also referred to by its original name Alianza Popular Revolucionaria Americana or APRA"
+				},
+				{
+					"name": "Peruvian Nationalist Party",
+					"leaders": [
+						"Ollanta HUMALA"
+					]
+				},
+				{
+					"name": "Peruvians for Change",
+					"name_alternative": "PPK",
+					"leaders": [
+						"Pedro Pablo KUCZYNSKI"
+					],
+					"note": "Peruanos Por el Kambio"
+				},
+				{
+					"name": "Popular Action",
+					"name_alternative": "AP",
+					"leaders": [
+						"Mesias GUEVARA Amasifuen"
+					],
+					"note": "Accion Popular"
+				},
+				{
+					"name": "Popular Christian Party",
+					"name_alternative": "PPC",
+					"leaders": [
+						"Lourdes FLORES Nano"
+					],
+					"note": "Partido Popular Cristiano"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAN"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "Mercosur ",
+				"note": "associate"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Hugo DE ZELA Martínez (since 8 July 2019)",
+				"chancery": "1700 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 833-9860 through 9869",
+				"fax": "[1] (202) 659-8124",
+				"consulates_general": "Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Krishna R. URS (since 18 October 2017)",
+				"telephone": "[51] (1) 618-2000",
+				"embassy": "Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33",
+				"mailing_address": "P. O. Box 1995, Lima 1; American Embassy (Lima), APO AA 34031-5000",
+				"fax": "[51] (1) 618-2397"
+			}
+		},
+		"flag_description": {
+			"description": "three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "vicuna ",
+					"note": "a camelid related to the llama"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional del Peru\" (National Anthem of Peru)",
+			"lyrics_music": "Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO",
+			"note": "adopted 1822; the song won a national anthem contest",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/PE.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.\nThe Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.\nPeru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.\nPeru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 430300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 420000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 403700000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 46,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 214200000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.18,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.97,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.48,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 129
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 13500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 13300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 13000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 120,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 64.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 24,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -22,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 7.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 32.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 59.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 19.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 100
+		},
+		"agriculture_products": {
+			"products": [
+				"artichokes",
+				"asparagus",
+				"avocados",
+				"blueberries",
+				"coffee",
+				"cocoa",
+				"cotton",
+				"sugarcane",
+				"rice",
+				"potatoes",
+				"corn",
+				"plantains",
+				"grapes",
+				"oranges",
+				"pineapples",
+				"guavas",
+				"bananas",
+				"apples",
+				"lemons",
+				"pears",
+				"coca",
+				"tomatoes",
+				"mangoes",
+				"barley",
+				"medicinal plants",
+				"quinoa",
+				"palm oil",
+				"marigolds",
+				"onions",
+				"wheat",
+				"dry beans",
+				"poultry",
+				"beef",
+				"pork",
+				"dairy products",
+				"guinea pigs",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"mining",
+				"refining of minerals",
+				"steel",
+				"metal fabrication",
+				"petroleum extraction",
+				"refining",
+				"natural gas",
+				"natural gas liquefaction",
+				"fishing",
+				"fish processing",
+				"cement",
+				"glass",
+				"textiles",
+				"clothing",
+				"food processing",
+				"beer",
+				"soft drinks",
+				"rubber",
+				"machinery",
+				"electrical machinery",
+				"chemicals",
+				"furniture"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.7,
+			"global_rank": 113,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 3421000,
+				"global_rank": 101,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 25.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 17.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 56.8,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.58,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 6.73,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 103,
+			"note": "data are for metropolitan Lima; widespread underemployment"
+		},
+		"population_below_poverty_line": {
+			"value": 22.7,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 36.1,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 58060000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 64810000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 27.1,
+			"global_rank": 103,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.1,
+			"global_rank": 135,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 25.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 174,
+			"note": "data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 128,
+			"note": "data are for metropolitan Lima, annual average"
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -3531000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -3821000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 177
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 44920000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 37020000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 53
+			},
+			"commodities": {
+				"by_commodity": [
+					"copper",
+					"gold",
+					"lead",
+					"zinc",
+					"tin",
+					"iron ore",
+					"molybdenum",
+					"silver",
+					"crude petroleum",
+					"petroleum products",
+					"natural gas",
+					"coffee",
+					"asparagus",
+					"other vegetables",
+					"fruit",
+					"apparel",
+					"textiles",
+					"fishmeal",
+					"fish",
+					"chemicals",
+					"fabricated metal products",
+					"machinery",
+					"alloys"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 26.5
+					},
+					{
+						"name": "US",
+						"percent": 15.2
+					},
+					{
+						"name": "Switzerland",
+						"percent": 5.2
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.4
+					},
+					{
+						"name": "Spain",
+						"percent": 4.1
+					},
+					{
+						"name": "India",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 38650000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 35130000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 61
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"petroleum products",
+					"chemicals",
+					"plastics",
+					"machinery",
+					"vehicles",
+					"TV sets",
+					"power shovels",
+					"front-end loaders",
+					"telephones",
+					"telecommunication equipment",
+					"iron",
+					"steel",
+					"wheat",
+					"corn",
+					"soybean products",
+					"paper",
+					"cotton",
+					"vaccines",
+					"medicines"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 22.3
+					},
+					{
+						"name": "US",
+						"percent": 20.1
+					},
+					{
+						"name": "Brazil",
+						"percent": 6
+					},
+					{
+						"name": "Mexico",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 63830000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 61810000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 35
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 66250000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 66760000000.00001,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 60
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.265,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.3751,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.3751,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.185,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.8383,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "nuevo sol (PEN) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 2000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 95,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 97,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 89,
+					"units": "%"
+				},
+				"date": "2017"
+			},
+			"production": {
+				"kWh": 50130000000,
+				"global_rank": 54,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 44610000000,
+				"global_rank": 53,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 55000000,
+				"global_rank": 86,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 22000000,
+				"global_rank": 112,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 14730000,
+				"global_rank": 51,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 61,
+					"global_rank": 128,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 164,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 35,
+					"global_rank": 60,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 4,
+					"global_rank": 116,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 49000,
+				"global_rank": 54,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 7995,
+				"global_rank": 61,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 86060,
+				"global_rank": 46,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 434900000,
+				"global_rank": 47,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 166600,
+				"global_rank": 57,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 250000,
+				"global_rank": 50,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 62640,
+				"global_rank": 49,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 65400,
+				"global_rank": 71,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 12990000000,
+				"global_rank": 37,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 7483000000,
+				"global_rank": 53,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 5505000000,
+				"global_rank": 28,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 174,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 455900000000,
+				"global_rank": 32,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 55940000,
+			"global_rank": 55,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3099172,
+				"subscriptions_per_one_hundred_inhabitants": 9.8,
+				"global_rank": 41,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 39138119,
+				"subscriptions_per_one_hundred_inhabitants": 123.76,
+				"global_rank": 38,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "10 major TV networks of which only one, Television Nacional de Peru, is state owned; multi-channel cable TV services are available; in excess of 2,000 radio stations including a substantial number of indigenous language stations (2019)",
+		"internet": {
+			"country_code": ".pe",
+			"users": {
+				"total": 16461427,
+				"percent_of_population": 52.54,
+				"global_rank": 40,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 62,
+				"annual_passenger_traffic_on_registered_air_carriers": 17758527,
+				"annual_freight_traffic_on_registered_air_carriers": 313260000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OB",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 191,
+					"global_rank": 30,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 59,
+					"over_3047_metres": 5,
+					"2438_to_3047_metres": 21,
+					"1524_to_2437_metres": 16,
+					"914_to_1523_metres": 12,
+					"under_914_metres": 5,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 132,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 19,
+					"914_to_1523_metres": 30,
+					"under_914_metres": 82,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 5,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "extra heavy crude",
+					"length": 786,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 1526,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 679,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 1033,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 15,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 1854,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 1730.4,
+				"electrified": 34,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 124,
+				"units": "km\n0.914-m"
+			},
+			"global_rank": 76,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 140672,
+				"units": "km",
+				"note": "18,699 km paved"
+			},
+			"note": "includes 24,593 km of national roads (14,748 km paved), 24,235 km of departmental roads (2,340 km paved), and 91,844 km of local roads (1,611 km paved)",
+			"global_rank": 36,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 8808,
+			"units": "km",
+			"note": "8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca",
+			"global_rank": 14,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 98,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				},
+				{
+					"type": "oil tanker",
+					"count": 10
+				},
+				{
+					"type": "other",
+					"count": 87
+				}
+			],
+			"global_rank": 91,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Callao",
+				"Matarani",
+				"Paita"
+			],
+			"oil_terminals": [
+				"Conchan oil terminal",
+				"La Pampilla oil terminal"
+			],
+			"container_ports": [
+				{
+					"place": "Callao",
+					"twenty_foot_equivalent_units": 2250200
+				}
+			],
+			"river_ports": [
+				"Iquitos",
+				"Pucallpa",
+				"Yurimaguas (Amazon)"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 105
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-50 years of age for male and 18-45 years of age for female voluntary military service; no conscription",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru",
+			"organized illegal narcotics operations in Colombia have penetrated Peru's shared border",
+			"Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 959631,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 60000,
+				"note": "civil war from 1980-2000; most internally_displaced_persons are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these internally_displaced_persons",
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "until 1996 the world's largest coca leaf producer, Peru is now the world's second largest producer of coca leaf, though it lags far behind Colombia; cultivation of coca in Peru was estimated at 44,000 hectares in 2016, a decrease of 16 per cent over 2015; second largest producer of cocaine, estimated at 410 metric tons of potential pure cocaine in 2016; finished cocaine is shipped out from Pacific ports to the international drug market; increasing amounts of base and finished cocaine, however, are being moved to Brazil, Chile, Argentina, and Bolivia for use in the Southern Cone or transshipment to Europe and Africa; increasing domestic drug consumption"
+		}
+	}
+}

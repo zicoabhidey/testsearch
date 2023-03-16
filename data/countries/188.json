@@ -1,0 +1,1574 @@
+{
+	"name": "Qatar",
+	"introduction": {
+		"background": "Ruled by the Al Thani family since the mid-1800s, Qatar within the last 60 years transformed itself from a poor British protectorate noted mainly for pearling into an independent state with significant oil and natural gas revenues. Former Amir HAMAD bin Khalifa Al Thani, who overthrew his father in a bloodless coup in 1995, ushered in wide-sweeping political and media reforms, unprecedented economic investment, and a growing Qatari regional leadership role, in part through the creation of the pan-Arab satellite news network Al-Jazeera and Qatar's mediation of some regional conflicts. In the 2000s, Qatar resolved its longstanding border disputes with both Bahrain and Saudi Arabia and by 2007 had attained the highest per capita income in the world. Qatar did not experience domestic unrest or violence like that seen in other Near Eastern and North African countries in 2011, due in part to its immense wealth and patronage network. In mid-2013, HAMAD peacefully abdicated, transferring power to his son, the current Amir TAMIM bin Hamad. TAMIM is popular with the Qatari public, for his role in shepherding the country through an economic embargo by some other regional countries, for his efforts to improve the country's healthcare and education systems, and for his expansion of the country's infrastructure in anticipation of Doha's hosting of the 2022 World Cup."
+	},
+	"geography": {
+		"location": "Middle East, peninsula bordering the Persian Gulf and Saudi Arabia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 25,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 51,
+				"minutes": 15,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 11586,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 11586,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 165,
+			"comparative": "almost twice the size of Delaware; slightly smaller than Connecticut"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 87,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Saudi Arabia",
+					"border_length": {
+						"value": 87,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 563,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": "as determined by bilateral agreements or the median line",
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "arid; mild, pleasant winters; very hot, humid summers",
+		"terrain": "mostly flat and barren desert",
+		"elevation": {
+			"mean_elevation": {
+				"value": 28,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Persian Gulf",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Tuwayyir al Hamir",
+				"elevation": {
+					"value": 103,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"fish",
+				"natural gas"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 5.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 4.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 94.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 130,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula",
+		"natural_hazards": [
+			{
+				"description": "haze, dust storms, sandstorms common",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air",
+				"land",
+				"and water pollution are significant environmental issues",
+				"limited natural freshwater resources are increasing dependence on large-scale desalination facilities",
+				"other issues include conservation of oil supplies and preservation of the natural wildlife heritage"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2444174,
+			"global_rank": 143,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Qatari(s)",
+			"adjective": "Qatari"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "non-Qatari",
+					"percent": 88.4
+				},
+				{
+					"name": "Qatari",
+					"percent": 11.6
+				}
+			],
+			"date": "2015"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "English"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 67.7
+				},
+				{
+					"name": "Christian",
+					"percent": 13.8
+				},
+				{
+					"name": "Hindu",
+					"percent": 13.8
+				},
+				{
+					"name": "Buddhist",
+					"percent": 3.1
+				},
+				{
+					"name": "folk religion <.1%"
+				},
+				{
+					"name": "Jewish <.1%"
+				},
+				{
+					"name": "other",
+					"percent": 0.7
+				},
+				{
+					"name": "unaffiliated",
+					"percent": 0.9
+				}
+			],
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 12.84,
+				"males": 158702,
+				"females": 155211
+			},
+			"15_to_24": {
+				"percent": 11.78,
+				"males": 203703,
+				"females": 84323
+			},
+			"25_to_54": {
+				"percent": 70.66,
+				"males": 1439364,
+				"females": 287575
+			},
+			"55_to_64": {
+				"percent": 3.53,
+				"males": 66561,
+				"females": 19600
+			},
+			"65_and_over": {
+				"percent": 1.19,
+				"males": 19067,
+				"females": 10068
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 18.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 16.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 50.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 33.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 35,
+				"units": "years"
+			},
+			"female": {
+				"value": 28.2,
+				"units": "years"
+			},
+			"global_rank": 96,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.55,
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.3,
+			"global_rank": 201,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 1.6,
+			"global_rank": 229,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 6.5,
+			"global_rank": 18,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula",
+		"urbanization": {
+			"urban_population": {
+				"value": 99.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.41,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Doha",
+					"population": 641000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 2.42,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 5.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 3.4,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 3.39,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 9,
+			"global_rank": 149,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 5.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 167,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 77.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.6,
+				"units": "years"
+			},
+			"global_rank": 54,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.88,
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 37.5,
+			"units": "%",
+			"date": "2012"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.69,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 132,
+				"date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 500,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2017"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 35.1,
+			"global_rank": 15,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.9,
+			"global_rank": 143,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 93.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 92.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 94.7,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 0.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 0.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 1.5,
+				"units": "%"
+			},
+			"global_rank": 181,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "State of Qatar",
+			"conventional_short_form": "Qatar",
+			"local_long_form": "Dawlat Qatar",
+			"local_short_form": "Qatar",
+			"etymology": "the origin of the name is uncertain, but it dates back at least 2,000 years since a term \"Catharrei\" was used to describe the inhabitants of the peninsula by Pliny the Elder (1st century A.D.), and a \"Catara\" peninsula is depicted on a map by Ptolemy (2nd century A.D.)",
+			"note": "closest approximation of the native pronunciation is gattar or cottar"
+		},
+		"government_type": "absolute monarchy",
+		"capital": {
+			"name": "Doha",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 25,
+					"minutes": 17,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 51,
+					"minutes": 32,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "derives from the Arabic term \"dohat,\" meaning \"roundness,\" and refers to the small rounded bays along the area's coastline"
+		},
+		"independence": {
+			"date": "1971-09-03",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "18 December",
+				"original_year": "1878",
+				"note": ", anniversary of Al Thani family accession to the throne"
+			},
+			{
+				"name": "Independence Day",
+				"day": "3 September",
+				"original_year": "1971"
+			}
+		],
+		"constitution": {
+			"history": "previous 1972 (provisional); latest drafted 2 July 2002, approved by referendum 29 April 2003, endorsed 8 June 2004, effective 9 June 2005",
+			"amendments": "proposed by the Amir or by one third of Advisory Council members; passage requires two-thirds majority vote of Advisory Council members and approval and promulgation by the emir; articles pertaining to the rule of state and its inheritance, functions of the emir, and citizen rights and liberties cannot be amended"
+		},
+		"legal_system": "mixed legal system of civil law and Islamic (sharia) law (in family and personal matters)",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Qatar",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "20 years; 15 years if an Arab national"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Amir TAMIM bin Hamad Al Thani (since 25 June 2013)",
+			"head_of_government": "Prime Minister and Minister of Interior Sheikh KHALID ibn Khalifa ibn Abdul Aziz Al Thani (since 28 January 2020);  Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed AL Attiyah (since 14 November 2017); Deputy Prime Minister and Minister of Foreign Affairs MOHAMED bin Abdulrahman Al Thani (since 14 November 2017)",
+			"cabinet": "Council of Ministers appointed by the amir",
+			"elections_appointments": "the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir"
+		},
+		"legislative_branch": {
+			"description": "unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council or Majlis al-Shura",
+			"elections": "last on 17 June 2016 (next in 2019); note - in late 2019, the amir announced the formation of a committee to oversee preparations for the first elected council, although Doha has not selected a date for elections",
+			"election_results": "NA; composition - men 41, women 4, percent of women 8.9%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by the Supreme Judiciary Council, a 9-member independent body consisting of judiciary heads appointed by the Amir; judges appointed for 3-year renewable terms; Supreme Constitutional Court members nominated by the Supreme Judiciary Council and appointed by the monarch; term of appointment NA",
+			"subordinate_courts": "Courts of Appeal; Administrative Court; Courts of First Instance; sharia courts; Courts of Justice; Qatar International Court and Dispute Resolution Center, established in 2009, provides dispute resolution services for institutions and bodies in Qatar, as well as internationally"
+		},
+		"political_parties_and_leaders": {
+			"note": "political parties are banned"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "GCC"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OPEC"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador MISHAL bin Hamad bin Muhammad Al Thani (since 24 April 2017)",
+				"chancery": "2555 M Street NW, Washington, DC 20037",
+				"telephone": "[1] (202) 274-1600",
+				"fax": "[1] (202) 237-0682",
+				"consulates_general": "Houston, Los Angeles"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Phillip NELSON (since 2 March 2020)",
+				"telephone": "[974] 4496-6000",
+				"embassy": "22 February Street, Al Luqta District, P. O. Box 2399, Doha",
+				"mailing_address": "P. O. Box 2399, Doha",
+				"fax": "[974] 4488-4298"
+			}
+		},
+		"flag_description": {
+			"description": "maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the \"reconciled emirates\" in the wake of the Qatari-British treaty of 1916",
+			"note": "the other eight emirates are the seven that compose the UAE and Bahrain; according to some sources, the dominant color was formerly red, but this darkened to maroon upon exposure to the sun and the new shade was eventually adopted"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "a maroon field surmounted by a white serrated band with nine white points"
+				}
+			],
+			"colors": [
+				{
+					"color": "maroon"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Al-Salam Al-Amiri\" (The Amiri Salute)",
+			"lyrics_music": "Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN",
+			"note": "adopted 1996; anthem first performed that year at a meeting of the Gulf Cooperative Council hosted by Qatar",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/QA.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.\nQatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.\nFollowing trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 339500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 334200000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 327300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 52,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 166900000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 153
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 124100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 127700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 134200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 2,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 24.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 43.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 51,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -37.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 50.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 49.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 50.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 42.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 47.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 1
+		},
+		"agriculture_products": {
+			"products": [
+				"fruits",
+				"vegetables",
+				"poultry",
+				"dairy products",
+				"beef",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"liquefied natural gas",
+				"crude oil production",
+				"refining",
+				"ammonia",
+				"fertilizer",
+				"petrochemicals",
+				"steel reinforcing bars",
+				"cement",
+				"commercial ship repair"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3,
+			"global_rank": 105,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1953000,
+				"global_rank": 122,
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 11.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 135
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 35.9,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 44100000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 53820000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 26.4,
+			"global_rank": 112,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -5.8,
+			"global_rank": 179,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 53.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 46.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 88
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 25
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 6426000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -8270000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 29
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 67500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 57250000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 44
+			},
+			"commodities": {
+				"by_commodity": [
+					"liquefied natural gas (LNG)",
+					"petroleum products",
+					"fertilizers",
+					"steel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Japan",
+						"percent": 17.3
+					},
+					{
+						"name": "South Korea",
+						"percent": 16
+					},
+					{
+						"name": "India",
+						"percent": 12.6
+					},
+					{
+						"name": "China",
+						"percent": 11.2
+					},
+					{
+						"name": "Singapore",
+						"percent": 8.2
+					},
+					{
+						"name": "UAE",
+						"percent": 6.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 30770000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 31930000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 67
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"food",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 10.9
+					},
+					{
+						"name": "US",
+						"percent": 8.9
+					},
+					{
+						"name": "UAE",
+						"percent": 8.5
+					},
+					{
+						"name": "Germany",
+						"percent": 8.1
+					},
+					{
+						"name": "UK",
+						"percent": 5.5
+					},
+					{
+						"name": "India",
+						"percent": 5.4
+					},
+					{
+						"name": "Japan",
+						"percent": 5.3
+					},
+					{
+						"name": "Italy",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 15010000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 31890000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 68
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 167800000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 157900000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 39
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.64,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.64,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.64,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.64,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 3.64,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Qatari rials (QAR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 39780000000,
+				"global_rank": 58,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 37240000000,
+				"global_rank": 58,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 186,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 188,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 8796000,
+				"global_rank": 66,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 15,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 169,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 193,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 163,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1464000,
+				"global_rank": 17,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1150000,
+				"global_rank": 13,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 183,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 25240000000,
+				"global_rank": 13,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 273800,
+				"global_rank": 46,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 277000,
+				"global_rank": 45,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 485000,
+				"global_rank": 18,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 12300,
+				"global_rank": 143,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 166400000000,
+				"global_rank": 4,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 39900000000,
+				"global_rank": 26,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 126500000000,
+				"global_rank": 2,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 176,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 24070000000000,
+				"global_rank": 3,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 114200000,
+			"global_rank": 40,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 392048,
+				"subscriptions_per_one_hundred_inhabitants": 16.29,
+				"global_rank": 101,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 3329155,
+				"subscriptions_per_one_hundred_inhabitants": 138.33,
+				"global_rank": 138,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "TV and radio broadcast licensing and access to local media markets are state controlled; home of the satellite TV channel Al-Jazeera, which was originally owned and financed by the Qatari government but has evolved to independent corporate status; Al-Jazeera claims editorial independence in broadcasting; local radio transmissions include state, private, and international broadcasters on FM frequencies in Doha; in August 2013, Qatar's satellite company Es'hailSat launched its first communications satellite Es'hail 1 (manufactured in the US), which entered commercial service in December 2013 to provide improved television broadcasting capability and expand availability of voice and Internet; Es'hailSat launched its second commercial satellite in 2018 with aid of SpaceX (2019)",
+		"internet": {
+			"country_code": ".qa",
+			"users": {
+				"total": 2355297,
+				"percent_of_population": 99.65,
+				"global_rank": 112,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 251,
+				"annual_passenger_traffic_on_registered_air_carriers": 29178923,
+				"annual_freight_traffic_on_registered_air_carriers": 12666710000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "A7",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 6,
+					"global_rank": 175,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 4,
+					"over_3047_metres": 3,
+					"1524_to_2437_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 2,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 288,
+					"units": "km"
+				},
+				{
+					"type": "condensate/gas",
+					"length": 221,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 2383,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 90,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 745,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 103,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 7039,
+				"units": "km"
+			},
+			"global_rank": 142,
+			"date": "2016"
+		},
+		"merchant_marine": {
+			"total": 136,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 9
+				},
+				{
+					"type": "container ship",
+					"count": 6
+				},
+				{
+					"type": "general cargo",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 7
+				},
+				{
+					"type": "other",
+					"count": 109
+				}
+			],
+			"global_rank": 77,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Doha",
+				"Musay'id",
+				"Ra's Laffan"
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Ras Laffan"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"note": "conscription for males aged 18-35; compulsory service times range from 4 months to up to a year, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 1200,
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Qatar is a destination country for men, women, and children subjected to forced labor, and, to a much lesser extent, forced prostitution; the predominantly foreign workforce migrates to Qatar legally for low- and semi-skilled work but often experiences situations of forced labor, including debt bondage, delayed or nonpayment of salaries, confiscation of passports, abuse, hazardous working conditions, and squalid living arrangements; foreign female domestic workers are particularly vulnerable to trafficking because of their isolation in private homes and lack of protection under Qatari labor laws; some women who migrate for work are also forced into prostitution",
+			"tier_rating": "Tier 2 Watch List – Qatar does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government investigated 11 trafficking cases but did not prosecute or convict any offenders, including exploitative employers and recruitment agencies; the primary solution for resolving labor violations was to transfer a worker’s sponsorship to a new employer with minimal effort to investigate whether a forced labor violation had occurred; authorities increased their efforts to protect some trafficking victims, although many victims of forced labor, particularly domestic workers, remained unidentified and unprotected and were sometimes punished for immigration violations or running away from an employer or sponsor; authorities visited worksites throughout the country to meet and educate workers and employers on trafficking regulations, but the government failed to abolish or reform the sponsorship system, perpetuating Qatar’s forced labor problem (2015)"
+		}
+	}
+}

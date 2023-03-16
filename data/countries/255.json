@@ -1,0 +1,1733 @@
+{
+	"name": "Yemen",
+	"introduction": {
+		"background": "The Kingdom of Yemen (colloquially known as North Yemen) became independent from the Ottoman Empire in 1918 and in 1962 became the Yemen Arab Republic. The British, who had set up a protectorate area around the southern port of Aden in the 19th century, withdrew in 1967 from what became the People's Republic of Southern Yemen (colloquially known as South Yemen). Three years later, the southern government adopted a Marxist orientation and changed the country's name to the People's Democratic Republic of Yemen. The massive exodus of hundreds of thousands of Yemenis from the south to the north contributed to two decades of hostility between the states. The two countries were formally unified as the Republic of Yemen in 1990. A southern secessionist movement and brief civil war in 1994 was quickly subdued. In 2000, Saudi Arabia and Yemen agreed to delineate their border.\nFighting in the northwest between the government and the Huthis, a Zaydi Shia Muslim minority, continued intermittently from 2004 to 2010, and then again from 2014-present. The southern secessionist movement was revitalized in 2007.\nPublic rallies in Sana'a against then President Ali Abdallah SALIH - inspired by similar demonstrations in Tunisia and Egypt - slowly built momentum starting in late January 2011 fueled by complaints over high unemployment, poor economic conditions, and corruption. By the following month, some protests had resulted in violence, and the demonstrations had spread to other major cities. By March the opposition had hardened its demands and was unifying behind calls for SALIH's immediate ouster. In April 2011, the Gulf Cooperation Council (GCC), in an attempt to mediate the crisis in Yemen, proposed the GCC Initiative, an agreement in which the president would step down in exchange for immunity from prosecution. SALIH's refusal to sign an agreement led to further violence. The UN Security Council passed Resolution 2014 in October 2011 calling for an end to the violence and completing a power transfer deal. In November 2011, SALIH signed the GCC Initiative to step down and to transfer some of his powers to Vice President Abd Rabuh Mansur HADI. Following HADI's uncontested election victory in February 2012, SALIH formally transferred all presidential powers. In accordance with the GCC Initiative, Yemen launched a National Dialogue Conference (NDC) in March 2013 to discuss key constitutional, political, and social issues. HADI concluded the NDC in January 2014 and planned to begin implementing subsequent steps in the transition process, including constitutional drafting, a constitutional referendum, and national elections.\nThe Huthis, perceiving their grievances were not addressed in the NDC, joined forces with SALIH and expanded their influence in northwestern Yemen, which culminated in a major offensive against military units and rival tribes and enabled their forces to overrun the capital, Sanaa, in September 2014. In January 2015, the Huthis surrounded the presidential palace, HADI's residence, and key government facilities, prompting HADI and the cabinet to submit their resignations. HADI fled to Aden in February 2015 and rescinded his resignation. He subsequently escaped to Oman and then moved to Saudi Arabia and asked the GCC to intervene militarily in Yemen to protect the legitimate government from the Huthis. In March, Saudi Arabia assembled a coalition of Arab militaries and began airstrikes against the Huthis and Huthi-affiliated forces. Ground fighting between Huthi-aligned forces and anti-Huthi groups backed by the Saudi-led coalition continued through 2016. In 2016, the UN brokered a months-long cessation of hostilities that reduced airstrikes and fighting, and initiated peace talks in Kuwait. However, the talks ended without agreement. The Huthis and SALIH’s political party announced a Supreme Political Council in August 2016 and a National Salvation Government, including a prime minister and several dozen cabinet members, in November 2016, to govern in Sanaa and further challenge the legitimacy of HADI’s government. However, amid rising tensions between the Huthis and SALIH, sporadic clashes erupted in mid-2017, and escalated into open fighting that ended when Huthi forces killed SALIH in early December 2017. In 2018, anti-Huthi forces made the most battlefield progress in Yemen since early 2016, most notably in Al Hudaydah Governorate. In December 2018, the Huthis and Yemeni Government participated in the first UN-brokered peace talks since 2016, agreeing to a limited ceasefire in Al Hudaydah Governorate and the establishment of a UN Mission to monitor the agreement. In April 2019, Yemen’s parliament convened in Say'un for the first time since the conflict broke out in 2014. In August 2019, violence erupted between HADI's government and the pro-secessionist Southern Transition Council (STC) in southern Yemen. In November 2019, HADI's government and the STC signed a power-sharing agreement to end the fighting between them."
+	},
+	"geography": {
+		"location": "Middle East, bordering the Arabian Sea, Gulf of Aden, and Red Sea, between Oman and Saudi Arabia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 48,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 527968,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 527968,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen)",
+			"global_rank": 51,
+			"comparative": "almost four times the size of Alabama; slightly larger than twice the size of Wyoming"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1601,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Oman",
+					"border_length": {
+						"value": 294,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Saudi Arabia",
+					"border_length": {
+						"value": 1307,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1906,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east",
+		"terrain": "narrow coastal plain backed by flat-topped hills and rugged mountains; dissected upland desert plains in center slope into the desert interior of the Arabian Peninsula",
+		"elevation": {
+			"mean_elevation": {
+				"value": 999,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Arabian Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Jabal an Nabi Shu'ayb",
+				"elevation": {
+					"value": 3666,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"fish",
+				"rock salt",
+				"marble; coal",
+				"gold",
+				"lead",
+				"nickel",
+				"copper",
+				"fertile soil in west"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 44.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 41.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 1,
+					"units": "%"
+				},
+				"other": {
+					"value": 54.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 6800,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country",
+		"natural_hazards": [
+			{
+				"description": "sandstorms and dust storms in summer",
+				"type": "hazard"
+			},
+			{
+				"description": "limited volcanic activity; Jebel at Tair (Jabal al-Tair, Jebel Teir, Jabal al-Tayr, Jazirat at-Tair) (244 m), which forms an island in the Red Sea, erupted in 2007 after awakening from dormancy; other historically active volcanoes include Harra of Arhab, Harras of Dhamar, Harra es-Sawad, and Jebel Zubair, although many of these have not erupted in over a century",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited natural freshwater resources",
+				"inadequate supplies of potable water",
+				"overgrazing",
+				"soil erosion",
+				"desertification"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 29884405,
+			"global_rank": 48,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Yemeni(s)",
+			"adjective": "Yemeni"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "predominantly Arab; but also Afro-Arab"
+				},
+				{
+					"name": "South Asian"
+				},
+				{
+					"name": "European"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				}
+			],
+			"note": "a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 99.1,
+					"breakdown": [
+						{
+							"name": "official; virtually all are citizens"
+						},
+						{
+							"name": "an estimated are Sunni and are Shia",
+							"percent": 35
+						}
+					]
+				},
+				{
+					"name": "other",
+					"percent": 0.9,
+					"note": "includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents"
+				}
+			],
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 39.16,
+				"males": 5711709,
+				"females": 5513526
+			},
+			"15_to_24": {
+				"percent": 21.26,
+				"males": 3089817,
+				"females": 3005693
+			},
+			"25_to_54": {
+				"percent": 32.78,
+				"males": 4805059,
+				"females": 4591811
+			},
+			"55_to_64": {
+				"percent": 4,
+				"males": 523769,
+				"females": 623100
+			},
+			"65_and_over": {
+				"percent": 2.8,
+				"males": 366891,
+				"females": 435855
+			},
+			"date": "2018"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 71.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 66.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 19.9,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 19.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 19.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 19.9,
+				"units": "years"
+			},
+			"global_rank": 199,
+			"date": "2018"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.04,
+			"global_rank": 46,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 25.8,
+			"global_rank": 46,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.6,
+			"global_rank": 181,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.2,
+			"global_rank": 111,
+			"date": "2020"
+		},
+		"population_distribution": "the vast majority of the population is found in the Asir Mountains (part of the larger Sarawat Mountain system), located in the far western region of the country",
+		"urbanization": {
+			"urban_population": {
+				"value": 37.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.06,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Sanaa",
+					"population": 2973000,
+					"is_capital": true
+				},
+				{
+					"place": "Aden",
+					"population": 980000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.84,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.84,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.02,
+				"units": "males/female"
+			},
+			"date": "2018"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.4,
+			"date": "2013"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 164,
+			"global_rank": 54,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 41.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 45.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 37.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 34,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 66.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 64.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 69.3,
+				"units": "years"
+			},
+			"global_rank": 183,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.2,
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 33.5,
+			"units": "%",
+			"date": "2013"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.53,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.7,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 87.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 92,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 12.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 93.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 48.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 64.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 6.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 51.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 35.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 11000,
+				"global_rank": 102,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 17.1,
+			"global_rank": 120,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 39.9,
+			"global_rank": 1,
+			"date": "2013"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 70.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 85.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 55,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 8,
+				"units": "years"
+			},
+			"date": "2011"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 24.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 23.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 34.6,
+				"units": "%"
+			},
+			"global_rank": 50,
+			"date": "2014"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Yemen",
+			"conventional_short_form": "Yemen",
+			"local_long_form": "Al Jumhuriyah al Yamaniyah",
+			"local_short_form": "Al Yaman",
+			"former": "Yemen Arab Republic [Yemen (Sanaa) or North Yemen] and People's Democratic Republic of Yemen [Yemen (Aden) or South Yemen]",
+			"etymology": "name derivation remains unclear but may come from the Arab term \"yumn\" (happiness) and be related to the region's classical name \"Arabia Felix\" (Fertile or Happy Arabia); the Romans referred to the rest of the peninsula as \"Arabia Deserta\" (Deserted Arabia)"
+		},
+		"government_type": "in transition",
+		"capital": {
+			"name": "Sanaa",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 15,
+					"minutes": 21,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 44,
+					"minutes": 12,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name is reputed to mean \"well-fortified\" in Sabaean, the South Arabian language that went extinct in Yemen in the 6th century A.D."
+		},
+		"independence": {
+			"date": "1990-05-22",
+			"note": "Republic of Yemen was established with the merger of the Yemen Arab Republic [Yemen (Sanaa; Aden; ; notable earlier dates: North Yemen became independent on 1 November 1918 (from the Ottoman Empire) and became a republic with the overthrow of the theocratic Imamate on 27 September 1962; South Yemen became independent on 30 November 1967 (from the UK)"
+		},
+		"national_holidays": [
+			{
+				"name": "Unification Day",
+				"day": "22 May",
+				"original_year": "1990"
+			}
+		],
+		"constitution": {
+			"history": "adopted by referendum 16 May 1991 (following unification)",
+			"note": "after the National  Dialogue ended in January 2015, a Constitutional Drafting Committee appointed by the president worked to prepare a new draft constitution that was expected to be put to a national referendum before being adopted; however, the start of the current conflict in early 2015 interrupted the process",
+			"amendments": "amended several times, last in 2009"
+		},
+		"legal_system": "mixed legal system of Islamic (sharia) law, Napoleonic law, English common law, and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Yemen; if the father is unknown, the mother must be a citizen",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Abd Rabuh Mansur HADI (since 21 February 2012); Vice President ALI MUHSIN al-Ahmar, Lt. Gen. (since 3 April 2016)",
+			"head_of_government": "Prime Minister Maeen Abd al-Malik SAEED (since 15 October 2018)",
+			"cabinet": "appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president",
+			"election_results": "Abd Rabuh Mansur HADI (GPC) elected as a consensus president with about 50% popular participation; no other candidates"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Majlis consists of: Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)\nHouse of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)",
+			"elections": "House of Representatives - last held on 27 April 2003 (next scheduled for April 2009 but postponed indefinitely)",
+			"election_results": "percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the court president, 2 deputies, and nearly 50 judges; court organized into constitutional, civil, commercial, family, administrative, criminal, military, and appeals scrutiny divisions)",
+			"judge_selection_and_term_of_office": "judges appointed by the Supreme Judicial Council, which is chaired by the president of the republic and includes 10 high-ranking judicial officers; judges serve for life with mandatory retirement at age 65",
+			"subordinate_courts": "appeal courts; district or first instance courts; commercial courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "General People’s Congress",
+					"name_alternative": "GPC"
+				},
+				{
+					"name": "National Arab Socialist Ba'ath Party",
+					"leaders": [
+						"Qassem Salam SAID"
+					]
+				},
+				{
+					"name": "Nasserist Unionist People's Organization",
+					"leaders": [
+						"Abdulmalik al-MEKHLAFI"
+					]
+				},
+				{
+					"name": "Southern Transitional Council",
+					"name_alternative": "STC",
+					"leaders": [
+						"Aidarus al-ZOUBAIDA"
+					]
+				},
+				{
+					"name": "Yemeni Reform Grouping",
+					"name_alternative": "Islah",
+					"leaders": [
+						"Muhammed Abdallah al-YADUMI"
+					]
+				},
+				{
+					"name": "Yemeni Socialist Party",
+					"name_alternative": "YSP",
+					"leaders": [
+						"Dr. Abd al-Rahman Umar al-SAQQAF"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "EITI ",
+				"note": "temporarily suspended"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMIS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Ahmad Awadh BIN MUBARAK (since 3 August 2015)",
+				"chancery": "2319 Wyoming Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 965-4760",
+				"fax": "[1] (202) 337-2017"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Christopher HENZEL (since 20 May 2019); note - the embassy closed in March 2015; Yemen Affairs Unit currently operates out of US Embassy Riyadh",
+				"telephone": "US Embassy Riyadh [966] 11-488-3800\npreviously - [967] 1 755-2000",
+				"embassy": "previously - Sa'awan Street, Sanaa",
+				"mailing_address": "US Embassy Riyadh\npreviously - US Embassy in Sana'a",
+				"address": "Sa’awan Street\nP.O. Box 22347",
+				"fax": "US Embassy Riyadh [966] 11-488-7360"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)",
+			"note": "similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"al-qumhuriyatu l-muttahida\" (United Republic)",
+			"lyrics_music": "Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI",
+			"note": "adopted 1990; the music first served as the anthem for South Yemen before unification with North Yemen in 1990",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/YM.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "Yemen is a low-income country that faces difficult long-term challenges to stabilizing and growing its economy, and the current conflict has only exacerbated those issues. The ongoing war has halted Yemen’s exports, pressured the currency’s exchange rate, accelerated inflation, severely limited food and fuel imports, and caused widespread damage to infrastructure. The conflict has also created a severe humanitarian crisis - the world’s largest cholera outbreak currently at nearly 1 million cases, more than 7 million people at risk of famine, and more than 80% of the population in need of humanitarian assistance.\nPrior to the start of the conflict in 2014, Yemen was highly dependent on declining oil and gas resources for revenue. Oil and gas earnings accounted for roughly 25% of GDP and 65% of government revenue. The Yemeni Government regularly faced annual budget shortfalls and tried to diversify the Yemeni economy through a reform program designed to bolster non-oil sectors of the economy and foreign investment. In July 2014, the government continued reform efforts by eliminating some fuel subsidies and in August 2014, the IMF approved a three-year, $570 million Extended Credit Facility for Yemen.\nHowever, the conflict that began in 2014 stalled these reform efforts and ongoing fighting continues to accelerate the country’s economic decline. In September 2016, President HADI announced the move of the main branch of Central Bank of Yemen from Sanaa to Aden where his government could exert greater control over the central bank’s dwindling resources. Regardless of which group controls the main branch, the central bank system is struggling to function. Yemen’s Central Bank’s foreign reserves, which stood at roughly $5.2 billion prior to the conflict, have declined to negligible amounts. The Central Bank can no longer fully support imports of critical goods or the country’s exchange rate. The country also is facing a growing liquidity crisis and rising inflation. The private sector is hemorrhaging, with almost all businesses making substantial layoffs. Access to food and other critical commodities such as medical equipment is limited across the country due to security issues on the ground. The Social Welfare Fund, a cash transfer program for Yemen’s neediest, is no longer operational and has not made any disbursements since late 2014.\nYemen will require significant international assistance during and after the protracted conflict to stabilize its economy. Long-term challenges include a high population growth rate, high unemployment, declining water resources, and severe food scarcity.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 73630000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 78280000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 90630000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 98,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 31270000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -5.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -13.6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -16.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 219
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 199,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 116.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 2.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 7.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -43.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 20.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 11.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 67.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": -1.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": -3.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": -4.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 182
+		},
+		"agriculture_products": {
+			"products": [
+				"grain",
+				"fruits",
+				"vegetables",
+				"pulses",
+				"qat",
+				"coffee",
+				"cotton",
+				"dairy products",
+				"livestock",
+				"sheep",
+				"goats",
+				"cattle",
+				"camels",
+				"poultry",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"crude oil production",
+				"petroleum refining",
+				"small-scale production of cotton textiles",
+				"leather goods",
+				"food processing",
+				"handicrafts",
+				"aluminum products",
+				"cement",
+				"commercial ship repair",
+				"natural gas production"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 8.9,
+			"global_rank": 21,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 7425000,
+				"global_rank": 62,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"note": "most people are employed in agriculture and herding; services, construction, industry, and commerce account for less than one-fourth of the labor force"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 27,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 35,
+					"units": "%",
+					"date": "2003"
+				}
+			],
+			"global_rank": 198
+		},
+		"population_below_poverty_line": {
+			"value": 54,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30.3,
+				"units": "%"
+			},
+			"date": "2008"
+		},
+		"budget": {
+			"revenues": {
+				"value": 2821000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4458000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 9,
+			"global_rank": 216,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -5.2,
+			"global_rank": 171,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 74.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 68.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 41
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 24.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -12.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 218
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1236000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1868000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 153
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 384500000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 940000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 183
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"coffee",
+					"dried",
+					"salted fish",
+					"liquefied natural gas"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Egypt",
+						"percent": 29.4
+					},
+					{
+						"name": "Thailand",
+						"percent": 16.7
+					},
+					{
+						"name": "Belarus",
+						"percent": 13.5
+					},
+					{
+						"name": "Oman",
+						"percent": 10.5
+					},
+					{
+						"name": "UAE",
+						"percent": 6.5
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4078999999.9999995,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3117000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 139
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"live animals",
+					"machinery",
+					"equipment",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UAE",
+						"percent": 12.2
+					},
+					{
+						"name": "China",
+						"percent": 12.1
+					},
+					{
+						"name": "Turkey",
+						"percent": 8.7
+					},
+					{
+						"name": "Brazil",
+						"percent": 7.3
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 6.5
+					},
+					{
+						"name": "Argentina",
+						"percent": 5.5
+					},
+					{
+						"name": "India",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 245400000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 592600000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 170
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 7068000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 7181000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 124
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 275,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 214.9,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 214.9,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 228,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 214.89,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Yemeni rials (YER) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 16000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 47,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 72,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 31,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 4784000000,
+				"global_rank": 122,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3681000000,
+				"global_rank": 130,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 219,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 219,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1819000,
+				"global_rank": 116,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 79,
+					"global_rank": 89,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 213,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 215,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 21,
+					"global_rank": 37,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 61000,
+				"global_rank": 49,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 8990,
+				"global_rank": 60,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 217,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 3000000000,
+				"global_rank": 29,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 20180,
+				"global_rank": 89,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 104000,
+				"global_rank": 78,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 12670,
+				"global_rank": 78,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 75940,
+				"global_rank": 65,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 481400000,
+				"global_rank": 72,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 481400000,
+				"global_rank": 99,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 214,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 214,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 478500000000,
+				"global_rank": 31,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 13680000,
+			"global_rank": 95,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1253287,
+				"subscriptions_per_one_hundred_inhabitants": 4.28,
+				"global_rank": 69,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 16158028,
+				"subscriptions_per_one_hundred_inhabitants": 55.18,
+				"global_rank": 66,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run TV with 2 stations; state-run radio with 2 national radio stations and 5 local stations; stations from Oman and Saudi Arabia can be accessed",
+		"internet": {
+			"country_code": ".ye",
+			"users": {
+				"total": 7659884,
+				"percent_of_population": 26.72,
+				"global_rank": 66,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 8,
+				"annual_passenger_traffic_on_registered_air_carriers": 336310,
+				"annual_freight_traffic_on_registered_air_carriers": 3270000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "7O",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 57,
+					"global_rank": 82,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 17,
+					"over_3047_metres": 4,
+					"2438_to_3047_metres": 9,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 1,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 40,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 7,
+					"914_to_1523_metres": 16,
+					"under_914_metres": 9,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 641,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 22,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 1370,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 71300,
+				"units": "km"
+			},
+			"paved": {
+				"value": 6200,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 65100,
+				"units": "km"
+			},
+			"global_rank": 69,
+			"date": "2005"
+		},
+		"merchant_marine": {
+			"total": 34,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 3
+				},
+				{
+					"type": "oil tanker",
+					"count": 4
+				},
+				{
+					"type": "other",
+					"count": 27
+				}
+			],
+			"global_rank": 128,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Aden",
+				"Al Hudaydah",
+				"Al Mukalla"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.98,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				},
+				{
+					"value": 4.08,
+					"units": "percent_of_gdp",
+					"date": "2013"
+				},
+				{
+					"value": 4.57,
+					"units": "percent_of_gdp",
+					"date": "2012"
+				},
+				{
+					"value": 4.19,
+					"units": "percent_of_gdp",
+					"date": "2011"
+				}
+			],
+			"global_rank": 13
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for voluntary military service; no conscription; 2-year service obligation",
+			"date": "2018"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 14638,
+						"country_of_origin": "Ethiopia"
+					},
+					{
+						"people": 220753,
+						"country_of_origin": "Somalia",
+						"date": "2020"
+					}
+				],
+				"date": "2019"
+			},
+			"internally_displaced_persons": {
+				"people": 3635000,
+				"note": "conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces",
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Yemen is a source and, to a lesser extent, transit and destination country for men, women, and children subjected to forced labor and women and children subjected to sex trafficking; trafficking activities grew in Yemen in 2014, as the country’s security situation deteriorated and poverty worsened; armed groups increased their recruitment of Yemeni children as combatants or checkpoint guards, and the Yemeni military and security forces continue to use child soldiers; some other Yemeni children, mostly boys, migrate to Yemeni cities or Saudi Arabia and, less frequently Oman, where they end up as beggars, drug smugglers, prostitutes, or forced laborers in domestic service or small shops; Yemeni children increasingly are also subjected to sex trafficking in country and in Saudi Arabia; tens of thousands of Yemeni migrant workers deported from Saudi Arabia and thousands of Syrian refugees are vulnerable to trafficking; additionally, Yemen is a destination and transit country for women and children from the Horn of Africa who are looking for work or receive fraudulent job offers in the Gulf states but are subjected to sexual exploitation or forced labor upon arrival; reports indicate that adults and children are still sold or inherited as slaves in Yemen",
+			"tier_rating": "Tier 3 – Yemen does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; weak government institutions, corruption, economic problems, security threats, and poor law enforcement capabilities impeded the government’s ability to combat human trafficking; not all forms of trafficking are criminalized, and officials continue to conflate trafficking and smuggling; the status of an anti-trafficking law drafted with assistance from an international organization remains unknown following the dissolution of the government in January 2015; the government did not report efforts to investigate, prosecute, or convict anyone of trafficking or slavery offenses, including complicit officials, despite reports of officials willfully ignoring trafficking crimes and using child soldiers in the government’s armed forces; the government acknowledged the use of child soldiers and signed a UN action plan to end the practice in 2014 but made no efforts to release child soldiers from the military and provide them with rehabilitative services; authorities failed to identify victims and refer them to protective services; the status of a draft national anti-trafficking strategy remains unknown (2015)"
+		}
+	}
+}

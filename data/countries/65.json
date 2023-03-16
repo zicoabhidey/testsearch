@@ -1,0 +1,1898 @@
+{
+	"name": "Cyprus",
+	"introduction": {
+		"background": "A former British colony, Cyprus became independent in 1960 following years of resistance to British rule. Tensions between the Greek Cypriot majority and Turkish Cypriot minority communities came to a head in December 1963, when violence broke out in the capital of Nicosia. Despite the deployment of UN peacekeepers in 1964, sporadic intercommunal violence continued, forcing most Turkish Cypriots into enclaves throughout the island. In 1974, a Greek Government-sponsored attempt to overthrow the elected president of Cyprus was met by military intervention from Turkey, which soon controlled more than a third of the island. In 1983, the Turkish Cypriot administered area declared itself the \"Turkish Republic of Northern Cyprus\" (\"TRNC\"), but it is recognized only by Turkey. An UN-mediated agreement, the Annan Plan, failed to win approval by both communities in 2004. In February 2014, after a hiatus of nearly two years, the leaders of the two communities resumed formal discussions under UN auspices aimed at reuniting the divided island. The most recent round of negotiations to reunify the island were suspended in July 2017 after failure to achieve a breakthrough. The entire island entered the EU on 1 May 2004, although the EU acquis - the body of common rights and obligations - applies only to the areas under the internationally recognized government, and is suspended in the \"TRNC.\" However, individual Turkish Cypriots able to document their eligibility for Republic of Cyprus citizenship legally enjoy the same rights accorded to other citizens of EU states."
+	},
+	"geography": {
+		"location": "Middle East, island in the Mediterranean Sea, south of Turkey; note - Cyprus views itself as part of Europe; geopolitically, it can be classified as falling within Europe, the Middle East, or both",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 35,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 33,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 9251,
+				"units": "sq km",
+				"note": "of which 3,355 sq km are in north Cyprus"
+			},
+			"land": {
+				"value": 9241,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 10,
+				"units": "sq km"
+			},
+			"global_rank": 170,
+			"comparative": "about 0.6 times the size of Connecticut"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 156,
+				"units": "km"
+			},
+			"border_sovereign_base_areas": "Akrotiri 48 km, Dhekelia 108 km"
+		},
+		"coastline": {
+			"value": 648,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+		"terrain": "central plain with mountains to north and south; scattered but significant plains along southern coast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 91,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Mediterranean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Olympus",
+				"elevation": {
+					"value": 1951,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"copper",
+				"pyrites",
+				"asbestos",
+				"gypsum",
+				"timber",
+				"salt",
+				"marble",
+				"clay earth pigment"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 13.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 18.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 67.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 460,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca",
+		"natural_hazards": [
+			{
+				"description": "moderate earthquake activity",
+				"type": "hazard"
+			},
+			{
+				"description": "droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water resource problems (no natural reservoir catchments",
+				"seasonal disparity in rainfall",
+				"sea water intrusion to island's largest aquifer",
+				"increased salination in the north)",
+				"water pollution from sewage",
+				"industrial wastes",
+				"and pesticides",
+				"coastal degradation",
+				"erosion",
+				"loss of wildlife habitats from urbanization"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 94",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1266676,
+			"global_rank": 157,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Cypriot(s)",
+			"adjective": "Cypriot"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Greek",
+					"percent": 98.8
+				},
+				{
+					"name": "other",
+					"percent": 1,
+					"note": "includes Maronite, Armenian, Turkish-Cypriot"
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.2
+				}
+			],
+			"note": "data represent only the Greek-Cypriot citizens in the Republic of Cyprus",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Greek",
+					"percent": 80.9,
+					"note": "official"
+				},
+				{
+					"name": "Turkish",
+					"percent": 0.2,
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"percent": 4.1
+				},
+				{
+					"name": "Romanian",
+					"percent": 2.9
+				},
+				{
+					"name": "Russian",
+					"percent": 2.5
+				},
+				{
+					"name": "Bulgarian",
+					"percent": 2.2
+				},
+				{
+					"name": "Arabic",
+					"percent": 1.2
+				},
+				{
+					"name": "Filipino",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 4.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.6
+				}
+			],
+			"note": "data represent only the Republic of Cyprus",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Orthodox Christian",
+					"percent": 89.1
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 2.9
+				},
+				{
+					"name": "Protestant/Anglican",
+					"percent": 2
+				},
+				{
+					"name": "Muslim",
+					"percent": 1.8
+				},
+				{
+					"name": "Buddhist",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 1.4,
+					"note": "includes Maronite, Armenian Church, Hindu"
+				},
+				{
+					"name": "unknown",
+					"percent": 1.1
+				},
+				{
+					"name": "none/atheist",
+					"percent": 0.6
+				}
+			],
+			"note": "data represent only the government-controlled area of Cyprus",
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.69,
+				"males": 102095,
+				"females": 96676
+			},
+			"15_to_24": {
+				"percent": 12.29,
+				"males": 84832,
+				"females": 70879
+			},
+			"25_to_54": {
+				"percent": 47.12,
+				"males": 316710,
+				"females": 280167
+			},
+			"55_to_64": {
+				"percent": 11.92,
+				"males": 72476,
+				"females": 78511
+			},
+			"65_and_over": {
+				"percent": 12.97,
+				"males": 71053,
+				"females": 93277
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 44.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 24,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 20.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.8,
+					"units": "%"
+				}
+			},
+			"note": "data represent the whole country",
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 37.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 36.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 39.4,
+				"units": "years"
+			},
+			"global_rank": 65,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.15,
+			"global_rank": 94,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.9,
+			"global_rank": 180,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7,
+			"global_rank": 125,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 7.6,
+			"global_rank": 13,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca",
+		"urbanization": {
+			"urban_population": {
+				"value": 66.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.75,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Nicosia",
+					"population": 269000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.2,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.13,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.76,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.05,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.2,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 6,
+			"global_rank": 160,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 7.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 8.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 6.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 155,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.2,
+				"units": "years"
+			},
+			"global_rank": 55,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.48,
+			"global_rank": 206,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.95,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 120,
+				"date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1000,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2017"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.8,
+			"global_rank": 84,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.4,
+			"global_rank": 22,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 98.7,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 15,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 25,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.2,
+				"units": "%"
+			},
+			"global_rank": 67,
+			"date": "2018"
+		},
+		"note": "demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated"
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Cyprus",
+			"conventional_short_form": "Cyprus",
+			"local_long_form": "Kypriaki Dimokratia/Kibris Cumhuriyeti",
+			"local_short_form": "Kypros/Kibris",
+			"etymology": "the derivation of the name \"Cyprus\" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word \"cuprum\" for copper",
+			"note": "the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the \"Turkish Republic of Northern Cyprus\" or \"TRNC\" (\"Kuzey Kibris Turk Cumhuriyeti\" or \"KKTC\")"
+		},
+		"government_type": "Republic of Cyprus - presidential republic; \"Turkish Republic of Northern Cyprus\" (self-declared) - parliamentary republic with enhanced presidency\nnote: a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot \"President\" Rauf DENKTAS declared independence and the formation of the \"TRNC,” which is recognized only by Turkey",
+		"capital": {
+			"name": "Nicosia (Lefkosia/Lefkosa)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 35,
+					"minutes": 10,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 33,
+					"minutes": 22,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean \"White City\"; the Greek name may derive from the Greek phrase \"leuke ousia\" (\"white estate\")"
+		},
+		"independence": {
+			"date": "1960-08-16",
+			"note": "from the UK; note - Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are recognized only by Turkey"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "1 October",
+				"original_year": "1983",
+				"note": "Turkish Cypriots celebrate 15 November  as \"Republic Day\""
+			}
+		],
+		"constitution": {
+			"history": "ratified 16 August 1960",
+			"note": "in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the \"Turkish Republic of Northern Cyprus\" (\"TRNC\"); in 1985, the \"TRNC\" approved its own constitution",
+			"amendments": "constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the \"Greek Community\" and the \"Turkish Community\"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended 10 times, last in 2016\nconstitution of the “Turkish Republic of Northern Cyprus” - proposed by at least 10 members of the \"Assembly of the Republic\"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014"
+		},
+		"legal_system": "mixed legal system of English common law and civil law with European law supremacy",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICC jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Cyprus",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President  Nikos ANASTASIADIS (since 28 February 2013); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government",
+			"head_of_government": "President Nikos ANASTASIADIS (since 28 February 2013)",
+			"cabinet": "Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held in February 2023)",
+			"election_results": "Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Savros MALAS 44%",
+			"note": "the first round of the TRNC presidential election, originally scheduled for 26 April 2020, was postponed to 11 October 202 due to the COVID-19 pandemic; results - Ersin TATAR (UBP) 32.4%, Mustafa AKINCI (independent) 29.8%, Tufan ERHURMAN (RTP) 21.7%, Kudret OZERSAY (independent) 5.7%, Erhan ARIKLI (YDP) 5.4%, Serdar DENKTAS (independent) 4.2%, other 0.8%; the second round to be held on 18 October"
+		},
+		"legislative_branch": {
+			"description": "area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral \"Assembly of the Republic\" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a hybrid d'Hondt method with voter preferences for individual candidates",
+			"elections": "area under government control: last held on 22 May 2016 (next to be held in May 2021); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)",
+			"election_results": "area under government control: House of Representatives - percent of vote by party - DISY 30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, SP 6% Solidarity Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO 9, KS-EDEK 3, Citizen's Alliance 3 (2 left the party in 2017 and 2018 due to disagreements over the party's policy regarding the presidential election campaign; one joined DIKO and the other became an independent MP), Solidarity Movement 3, other 4; area administered by Turkish Cypriots: \"Assembly of the Republic\" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the \"TRNC\" is the \"Supreme Court\" (consists of 8 \"judges,\" including the \"court president\")",
+			"judge_selection_and_term_of_office": "Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; \"TRNC Supreme Court\" judges appointed by the \"Supreme Council of Judicature,\" a 12-member body of judges, the attorney general, appointees by the president of the \"TRNC,\" and by the \"Legislative Assembly,\" and members elected by the bar association; judge tenure NA",
+			"subordinate_courts": "Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; \"TRNC Assize Courts\"; \"district and family courts\""
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Citizens' Alliance",
+					"name_alternative": "SP",
+					"leaders": [
+						"Giorgos LILLIKAS"
+					]
+				},
+				{
+					"name": "Democratic Party",
+					"name_alternative": "DIKO",
+					"leaders": [
+						"Nicolas PAPADOPOULOS"
+					]
+				},
+				{
+					"name": "Democratic Rally",
+					"name_alternative": "DISY",
+					"leaders": [
+						"Averof NEOPHYTOU"
+					]
+				},
+				{
+					"name": "Movement of Ecologists and Environmentalists",
+					"name_alternative": "KOP",
+					"leaders": [
+						"Giorgos PERDIKIS"
+					],
+					"note": "Green party"
+				},
+				{
+					"name": "I, the Citizen",
+					"name_alternative": "EOP",
+					"leaders": [
+						"Georgios KOUNTOURIS"
+					]
+				},
+				{
+					"name": "Movement of Social Democrats EDEK",
+					"leaders": [
+						"Marinos SIZOPOULOS"
+					]
+				},
+				{
+					"name": "National Popular Front",
+					"name_alternative": "ELAM",
+					"leaders": [
+						"Christos CHRISTOU"
+					]
+				},
+				{
+					"name": "Progressive Party of the Working People",
+					"name_alternative": "AKEL",
+					"leaders": [
+						"Andros KYPRIANOU"
+					],
+					"note": "Communist party"
+				},
+				{
+					"name": "Solidarity Movement",
+					"leaders": [
+						"Eleni THEOCHAROUS"
+					]
+				},
+				{
+					"name": "United Democrats",
+					"name_alternative": "EDI",
+					"leaders": [
+						"Praxoula ANTONIADOU"
+					]
+				},
+				{
+					"name": "Democratic Front",
+					"name_alternative": "DIPA",
+					"leaders": [
+						"Marios GAROYIAN"
+					]
+				},
+				{
+					"name": "Animal Party Cyprus",
+					"name_alternative": "APC",
+					"leaders": [
+						"Kyriacos KYRIACOU"
+					]
+				},
+				{
+					"name": "Communal Democracy Party",
+					"name_alternative": "TDP",
+					"leaders": [
+						"Cemal OZYIGIT"
+					]
+				},
+				{
+					"name": "Communal Liberation Party-New Forces",
+					"name_alternative": "TKP-YG",
+					"leaders": [
+						"Mehmet CAKICI"
+					]
+				},
+				{
+					"name": "Cyprus Socialist Party",
+					"name_alternative": "KSP",
+					"leaders": [
+						"Mehmet BIRINCI"
+					]
+				},
+				{
+					"name": "Democratic Party",
+					"name_alternative": "DP",
+					"leaders": [
+						"Serdar DENKTAS"
+					]
+				},
+				{
+					"name": "National Democratic Party",
+					"name_alternative": "NDP",
+					"leaders": [
+						"Buray BUSKUVUTCU"
+					]
+				},
+				{
+					"name": "National Unity Party",
+					"name_alternative": "UBP",
+					"leaders": [
+						"Ersin TATAR"
+					]
+				},
+				{
+					"name": "New Cyprus Party",
+					"name_alternative": "YKP",
+					"leaders": [
+						"Murat KANATLI"
+					]
+				},
+				{
+					"name": "People's Party",
+					"name_alternative": "HP",
+					"leaders": [
+						"Kudret OZERSAY"
+					]
+				},
+				{
+					"name": "Rebirth Party",
+					"name_alternative": "YDP",
+					"leaders": [
+						"Erhan ARIKLI"
+					]
+				},
+				{
+					"name": "Republican Turkish Party",
+					"name_alternative": "CTP",
+					"leaders": [
+						"Tufan ERHURMAN"
+					]
+				},
+				{
+					"name": "United Cyprus Party",
+					"name_alternative": "BKP",
+					"leaders": [
+						"Izzet IZCAN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Marios LYSIOTIS (since 17 September 2018)",
+				"chancery": "2211 R Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 462-5772, 462-0873",
+				"fax": "[1] (202) 483-6710",
+				"consulates_general": "New York",
+				"note": "representative of the Turkish Cypriot community in the US is Mustafa LAKADAMYALI; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Judith Gail GARBER (since 18 March 2019)",
+				"telephone": "[357] (22) 393939",
+				"embassy": "corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia",
+				"mailing_address": "P. O. Box 24536, 1385 Nicosia",
+				"fax": "[357] (22) 393344"
+			}
+		},
+		"flag_description": {
+			"description": "centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities",
+			"note": "one of only two national flags that uses a map as a design element; the flag of Kosovo is the other\nthe \"Turkish Republic of Northern Cyprus\" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Cypriot mouflon ",
+					"note": "wild sheep"
+				},
+				{
+					"symbol": "white dove"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ymnos eis tin Eleftherian\" (Hymn to Liberty)",
+			"lyrics_music": "Dionysios SOLOMOS/Nikolaos MANTZAROS",
+			"note": "adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish Cypriot community in Cyprus uses the anthem of Turkey"
+		}
+	},
+	"economy": {
+		"overview": "The area of the Republic of Cyprus under government control has a market economy dominated by a services sector that accounts for more than four-fifths of GDP. Tourism, finance, shipping, and real estate have traditionally been the most important services. Cyprus has been a member of the EU since May 2004 and adopted the euro as its national currency in January 2008.\nDuring the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 4%. However, the economy tipped into recession in 2009 as the ongoing global financial crisis and resulting low demand hit the tourism and construction sectors. An overextended banking sector with excessive exposure to Greek debt added to the contraction. Cyprus’ biggest two banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. In July 2012, Cyprus became the fifth euro-zone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the \"Troika.\"\nShortly after the election of President Nikos ANASTASIADES in February 2013, Cyprus reached an agreement with the Troika on a $13 billion bailout that triggered a two-week bank closure and the imposition of capital controls that remained partially in place until April 2015. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on bank bondholders. As with other EU countries, the Troika conditioned the bailout on passing financial and structural reforms and privatizing state-owned enterprises. Despite downsizing and restructuring, the Cypriot financial sector remains burdened by the largest stock of non-performing loans in the euro zone, equal to nearly half of all loans. Since the bailout, Cyprus has received positive appraisals by the Troika and outperformed fiscal targets but has struggled to overcome political opposition to bailout-mandated legislation, particularly regarding privatizations. The rate of non-performing loans (NPLs) is still very high at around 49%, and growth would accelerate if Cypriot banks could increase the pace of resolution of the NPLs.\nIn October 2013, a US-Israeli consortium completed preliminary appraisals of hydrocarbon deposits in Cyprus’ exclusive economic zone (EEZ), which estimated gross mean reserves of about 130 billion cubic meters. Though exploration continues in Cyprus’ EEZ, no additional commercially exploitable reserves have been identified. Developing offshore hydrocarbon resources remains a critical component of the government’s economic recovery efforts, but development has been delayed as a result of regional developments and disagreements about exploitation methods.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 31780000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 30590000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 29580000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 129,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 21700000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.08,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 5.25,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 5.16,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 97
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 37200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 36100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 34900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 53,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 63.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -67.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 12.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 85.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 11.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 12.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 140
+		},
+		"agriculture_products": {
+			"products": [
+				"citrus",
+				"vegetables",
+				"barley",
+				"grapes",
+				"olives",
+				"vegetables",
+				"poultry",
+				"pork",
+				"lamb",
+				"dairy",
+				"cheese"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"food",
+				"beverage processing",
+				"cement",
+				"gypsum",
+				"ship repair",
+				"refurbishment",
+				"textiles",
+				"light chemicals",
+				"metal products",
+				"wood",
+				"paper",
+				"stone",
+				"clay products"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 13.4,
+			"global_rank": 5,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 416000,
+				"global_rank": 158,
+				"date": "2019"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 3.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 81,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.07,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 8.37,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 114
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 28.8,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 8663000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 8275000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.9,
+			"global_rank": 40,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.8,
+			"global_rank": 17,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 97.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 106.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 19,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 35
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1578000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -958000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 161
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2805000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2700000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 130
+			},
+			"commodities": {
+				"by_commodity": [
+					"citrus",
+					"potatoes",
+					"pharmaceuticals",
+					"cement",
+					"clothing"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Libya",
+						"percent": 9.4
+					},
+					{
+						"name": "Greece",
+						"percent": 7.7
+					},
+					{
+						"name": "Norway",
+						"percent": 6.7
+					},
+					{
+						"name": "UK",
+						"percent": 5.3
+					},
+					{
+						"name": "Germany",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 7935000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7153000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 110
+			},
+			"commodities": {
+				"by_commodity": [
+					"consumer goods",
+					"petroleum",
+					"lubricants",
+					"machinery",
+					"transport equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Greece",
+						"percent": 19
+					},
+					{
+						"name": "Italy",
+						"percent": 7.5
+					},
+					{
+						"name": "China",
+						"percent": 7.4
+					},
+					{
+						"name": "South Korea",
+						"percent": 7.3
+					},
+					{
+						"name": "Germany",
+						"percent": 7
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.1
+					},
+					{
+						"name": "UK",
+						"percent": 5
+					},
+					{
+						"name": "Israel",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 888200000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 817700000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 136
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 95280000000,
+					"units": "USD",
+					"date": "2013-12-31"
+				},
+				{
+					"value": 103500000000,
+					"units": "USD",
+					"date": "2012-12-31"
+				}
+			],
+			"global_rank": 50
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 4618000000,
+				"global_rank": 123,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 4355000000,
+				"global_rank": 126,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 126,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 140,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1770000,
+				"global_rank": 117,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 85,
+					"global_rank": 70,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 76,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 166,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 15,
+					"global_rank": 58,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 126,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 113,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 116,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 122,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 135,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 49000,
+				"global_rank": 106,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 500,
+				"global_rank": 110,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 49240,
+				"global_rank": 84,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 122,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 138,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 92,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 115,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 141600000000,
+				"global_rank": 47,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7720000,
+			"global_rank": 118,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 469305,
+				"subscriptions_per_one_hundred_inhabitants": 37.48,
+				"global_rank": 96,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1801213,
+				"subscriptions_per_one_hundred_inhabitants": 143.85,
+				"global_rank": 155,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019)",
+		"internet": {
+			"country_code": ".cy",
+			"users": {
+				"total": 1044473,
+				"percent_of_population": 84.43,
+				"global_rank": 139,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 401408,
+				"annual_freight_traffic_on_registered_air_carriers": 20000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5B",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 15,
+					"global_rank": 145,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 13,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 2,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 9,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "oil",
+					"length": 0,
+					"units": "km"
+				}
+			]
+		},
+		"roadways": {
+			"total": {
+				"value": 19901,
+				"units": "km"
+			},
+			"government_control": {
+				"value": 12901,
+				"units": "km",
+				"note": "includes 272 km of expressways"
+			},
+			"paved": {
+				"value": 8631,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 4270,
+				"units": "km"
+			},
+			"turkish_cypriot_control": {
+				"value": 7000,
+				"units": "km"
+			},
+			"global_rank": 114,
+			"date": "2016"
+		},
+		"merchant_marine": {
+			"total": 1039,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 304
+				},
+				{
+					"type": "container ship",
+					"count": 190
+				},
+				{
+					"type": "general cargo",
+					"count": 183
+				},
+				{
+					"type": "oil tanker",
+					"count": 42
+				},
+				{
+					"type": "other",
+					"count": 320
+				}
+			],
+			"global_rank": 25,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"area under government control: Larnaca",
+				"Limassol",
+				"Vasilikos"
+			],
+			"area_administered_by_turkish_cypriots": "Famagusta, Kyrenia"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 70
+		},
+		"service_age_and_obligation": {
+			"note": "Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 12-month service obligation",
+			"date": "2019"
+		},
+		"note": "the United Nations Peacekeeping Force in Cyprus (UNICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; as of March 2020, the UNICYP mission consisted of about 830 personnel (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus)",
+			"the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south",
+			"on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north",
+			"Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 7372,
+						"country_of_origin": "Syria"
+					}
+				],
+				"date": "2019"
+			},
+			"internally_displaced_persons": {
+				"people": 228000,
+				"note": "both Turkish and Greek Cypriots; many displaced since 1974",
+				"date": "2019"
+			},
+			"note": "10,690 estimated refugee and migrant arrivals (January 2015-November 2019)"
+		},
+		"illicit_drugs": {
+			"note": "minor transit point for heroin and hashish via air routes and container traffic to Europe, especially from Lebanon and Turkey; some cocaine transits as well; despite a strengthening of anti-money-laundering legislation, remains vulnerable to money laundering; reporting of suspicious transactions in offshore sector remains weak"
+		}
+	}
+}

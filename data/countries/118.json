@@ -1,0 +1,1760 @@
+{
+	"name": "Jamaica",
+	"introduction": {
+		"background": "The island - discovered by Christopher COLUMBUS in 1494 - was settled by the Spanish early in the 16th century. The native Taino, who had inhabited Jamaica for centuries, were gradually exterminated and replaced by African slaves. England seized the island in 1655 and established a plantation economy based on sugar, cocoa, and coffee. The abolition of slavery in 1834 freed a quarter million slaves, many of whom became small farmers. Jamaica gradually increased its independence from Britain. In 1958 it joined other British Caribbean colonies in forming the Federation of the West Indies. Jamaica withdrew from the Federation in 1961 and gained full independence in 1962. Deteriorating economic conditions during the 1970s led to recurrent violence as rival gangs affiliated with the major political parties evolved into powerful organized crime networks involved in international drug smuggling and money laundering. Violent crime, drug trafficking, and poverty pose significant challenges to the government today. Nonetheless, many rural and resort areas remain relatively safe and contribute substantially to the economy."
+	},
+	"geography": {
+		"location": "Caribbean, island in the Caribbean Sea, south of Cuba",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 15,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 77,
+				"minutes": 30,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 10991,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 10831,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 160,
+				"units": "sq km"
+			},
+			"global_rank": 167,
+			"comparative": "about half the size of New Jersey; slightly smaller than Connecticut"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 1022,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to edge of the continental margin measured from claimed archipelagic straight baselines"
+			}
+		},
+		"climate": "tropical; hot, humid; temperate interior",
+		"terrain": "mostly mountains, with narrow, discontinuous coastal plain",
+		"elevation": {
+			"mean_elevation": {
+				"value": 18,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Blue Mountain Peak",
+				"elevation": {
+					"value": 2256,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"bauxite",
+				"alumina",
+				"gypsum",
+				"limestone"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 41.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 11.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 9.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 21.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 31.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 27.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 250,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel",
+		"natural_hazards": [
+			{
+				"description": "hurricanes (especially July to November)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"heavy rates of deforestation",
+				"coastal waters polluted by industrial waste",
+				"sewage",
+				"and oil spills",
+				"damage to coral reefs",
+				"air pollution in Kingston from vehicle emissions",
+				"land erosion"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2808570,
+			"global_rank": 140,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Jamaican(s)",
+			"adjective": "Jamaican"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "black",
+					"percent": 92.1
+				},
+				{
+					"name": "mixed",
+					"percent": 6.1
+				},
+				{
+					"name": "East Indian",
+					"percent": 0.8
+				},
+				{
+					"name": "other",
+					"percent": 0.4
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.7
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English"
+				},
+				{
+					"name": "English patois"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 64.8,
+					"breakdown": [
+						{
+							"name": "includes Seventh Day Adventist",
+							"percent": 12
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 11
+						},
+						{
+							"name": "Other Church of God",
+							"percent": 9.2
+						},
+						{
+							"name": "New Testament Church of God",
+							"percent": 7.2
+						},
+						{
+							"name": "Baptist",
+							"percent": 6.7
+						},
+						{
+							"name": "Church of God in Jamaica",
+							"percent": 4.8
+						},
+						{
+							"name": "Church of God of Prophecy",
+							"percent": 4.5
+						},
+						{
+							"name": "Anglican",
+							"percent": 2.8
+						},
+						{
+							"name": "United Church",
+							"percent": 2.1
+						},
+						{
+							"name": "Methodist",
+							"percent": 1.6
+						},
+						{
+							"name": "Revived",
+							"percent": 1.4
+						},
+						{
+							"name": "Brethren",
+							"percent": 0.9
+						},
+						{
+							"name": "and Moravian",
+							"percent": 0.7
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 2.2
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.9
+				},
+				{
+					"name": "Rastafarian",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 6.5
+				},
+				{
+					"name": "none",
+					"percent": 21.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.3
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 25.2,
+				"males": 360199,
+				"females": 347436
+			},
+			"15_to_24": {
+				"percent": 17.95,
+				"males": 255102,
+				"females": 248927
+			},
+			"25_to_54": {
+				"percent": 38.06,
+				"males": 518583,
+				"females": 550410
+			},
+			"55_to_64": {
+				"percent": 9.63,
+				"males": 133890,
+				"females": 136442
+			},
+			"65_and_over": {
+				"percent": 9.17,
+				"males": 121969,
+				"females": 135612
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 48,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 34.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 30.1,
+				"units": "years"
+			},
+			"global_rank": 131,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.07,
+			"global_rank": 201,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 16.1,
+			"global_rank": 108,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.5,
+			"global_rank": 104,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -9.4,
+			"global_rank": 216,
+			"date": "2020"
+		},
+		"population_distribution": "population density is high throughout, but increases in and around Kingston, Montego Bay, and Port Esquivel",
+		"urbanization": {
+			"urban_population": {
+				"value": 56.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.82,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Kingston",
+					"population": 591000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.9,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.2,
+			"date": "2008"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 80,
+			"global_rank": 79,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 13,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 111,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 77.1,
+				"units": "years"
+			},
+			"global_rank": 120,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.07,
+			"global_rank": 103,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.31,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.7,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 93,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 99.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.4,
+				"global_rank": 34,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 32000,
+				"global_rank": 73,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1000,
+				"global_rank": 59,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 24.7,
+			"global_rank": 55,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 2.2,
+			"global_rank": 109,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.4,
+			"global_rank": 43,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over has ever attended school",
+			"total_population": {
+				"value": 88.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 84,
+				"units": "%"
+			},
+			"female": {
+				"value": 93.1,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 24.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 20,
+				"units": "%"
+			},
+			"female": {
+				"value": 29.3,
+				"units": "%"
+			},
+			"global_rank": 51,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Jamaica",
+			"etymology": "from the native Taino word \"haymaca\" meaning \"Land of Wood and Water\" or possibly \"Land of Springs\""
+		},
+		"government_type": "parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Kingston",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 0,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 76,
+					"minutes": 48,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"etymology": "the name is a blending of the words \"king's\" and \"town\"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Clarendon",
+				"type": ""
+			},
+			{
+				"name": "Hanover",
+				"type": ""
+			},
+			{
+				"name": "Kingston",
+				"type": ""
+			},
+			{
+				"name": "Manchester",
+				"type": ""
+			},
+			{
+				"name": "Portland",
+				"type": ""
+			},
+			{
+				"name": "Saint Andrew",
+				"type": ""
+			},
+			{
+				"name": "Saint Ann",
+				"type": ""
+			},
+			{
+				"name": "Saint Catherine",
+				"type": ""
+			},
+			{
+				"name": "Saint Elizabeth",
+				"type": ""
+			},
+			{
+				"name": "Saint James",
+				"type": ""
+			},
+			{
+				"name": "Saint Mary",
+				"type": ""
+			},
+			{
+				"name": "Saint Thomas",
+				"type": ""
+			},
+			{
+				"name": "Trelawny",
+				"type": ""
+			},
+			{
+				"name": "Westmoreland",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1962-08-06",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "6 August",
+				"original_year": "1962"
+			}
+		],
+		"constitution": {
+			"history": "several previous (preindependence); latest drafted 1961-62, submitted to British Parliament 24 July 1962, entered into force 6 August 1962 (at independence)",
+			"amendments": "proposed by Parliament; passage of amendments to \"non-entrenched\" constitutional sections, such as lowering the voting age, requires majority vote by the Parliament membership; passage of amendments to \"entrenched\" sections, such as fundamental rights and freedoms, requires two-thirds majority vote of Parliament; passage of amendments to \"specially entrenched\" sections such as the dissolution of Parliament or the executive authority of the monarch requires two-thirds approval by Parliament and approval in a referendum; amended many times, last in 2017"
+		},
+		"legal_system": "common law system based on the English model",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "4 out of the previous 5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)",
+			"head_of_government": "Prime Minister Andrew HOLNESS (since 3 March 2016)",
+			"cabinet": "Cabinet appointed by the governor general on the advice of the prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (21 seats; members appointed by the governor general on the recommendation of the prime minister and the opposition leader - 13 seats allocated to the ruling party and 8 to the opposition party; members serve 5-year terms or until Parliament is dissolved)\nHouse of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms or until Parliament is dissolved)",
+			"elections": "Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)\nHouse of Representatives - last held on 3 September 2020 (next to be held in 2025)",
+			"election_results": "Senate - percent by party - NA; seats by party - NA; composition - men 16, women 5, percent of women 23.8%\nHouse of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 27.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)",
+			"judge_selection_and_term_of_office": "chief justice of the Supreme Court and president of the Court of Appeal appointed by the governor-general on the advice of the prime minister; other judges of both courts appointed by the governor-general on the advice of the Judicial Service Commission; judges of both courts serve till age 70",
+			"subordinate_courts": "resident magistrate courts, district courts, and petty sessions courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Jamaica Labor Party",
+					"name_alternative": "JLP",
+					"leaders": [
+						"Andrew Michael HOLNESS"
+					]
+				},
+				{
+					"name": "People's National Party",
+					"name_alternative": "PNP",
+					"leaders": [
+						"Dr. Peter David PHILLIPS"
+					]
+				},
+				{
+					"name": "National Democratic Movement",
+					"name_alternative": "NDM",
+					"leaders": [
+						"Peter TOWNSEND"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Audrey Patrice MARKS (since 18 January 2017)",
+				"chancery": "1520 New Hampshire Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 452-0660",
+				"fax": "[1] (202) 452-0036",
+				"consulates_general": "Miami, New York",
+				"consulates": "Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia, Richmond (VA), San Francisco, Seattle"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Donald R. TAPIA (since 11 September 2019)",
+				"telephone": "[1] (876) 702-6000 (2018)",
+				"embassy": "142 Old Hope Road, Kingston 6",
+				"mailing_address": "P.O. Box 541, Kingston 5",
+				"fax": "[1] (876) 702-6001 (2018)"
+			}
+		},
+		"flag_description": {
+			"description": "diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "green-and-black streamertail ",
+					"note": "bird"
+				},
+				{
+					"symbol": "Guaiacum officinale ",
+					"note": "Guaiacwood"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Jamaica, Land We Love",
+			"lyrics_music": "Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE",
+			"note": "adopted 1962",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/JM.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.\nJamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.\nEconomic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 26060000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 25890000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 25510000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 140,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 14770000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.7,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 0.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 181
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 9200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 9200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 9100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 143,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 81.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 13.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 30.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -47.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 21.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 71.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 18.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 18,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 109
+		},
+		"agriculture_products": {
+			"products": [
+				"sugar cane",
+				"bananas",
+				"coffee",
+				"citrus",
+				"yams",
+				"ackees",
+				"vegetables",
+				"poultry",
+				"goats",
+				"milk",
+				"shellfish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"agriculture",
+				"mining",
+				"manufacture",
+				"construction",
+				"financial",
+				"insurance services",
+				"tourism",
+				"telecommunications"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 0.9,
+			"global_rank": 162,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1113000,
+				"global_rank": 138,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 16.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 16,
+						"units": "%"
+					},
+					"services": {
+						"value": 67.9,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.72,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 9.13,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 120
+		},
+		"population_below_poverty_line": {
+			"value": 17.1,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 29.3,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 4382000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4314000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 29.7,
+			"global_rank": 81,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0.5,
+			"global_rank": 37,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 101,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 113.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 16
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 166
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -298000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -288000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 107
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1296000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1195000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 151
+			},
+			"commodities": {
+				"by_commodity": [
+					"alumina",
+					"bauxite",
+					"chemicals",
+					"coffee",
+					"mineral fuels",
+					"waste",
+					"scrap metals",
+					"sugar",
+					"yams"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 39.1
+					},
+					{
+						"name": "Netherlands",
+						"percent": 12.3
+					},
+					{
+						"name": "Canada",
+						"percent": 8.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5151000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4168999999.9999995,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 126
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"other consumer goods",
+					"industrial supplies",
+					"fuel",
+					"parts",
+					"accessories of capital goods",
+					"machinery",
+					"transport equipment",
+					"construction materials"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 40.6
+					},
+					{
+						"name": "Colombia",
+						"percent": 6.8
+					},
+					{
+						"name": "Japan",
+						"percent": 5.8
+					},
+					{
+						"name": "China",
+						"percent": 5.8
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3781000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2719000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 100
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 14940000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 10240000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 103
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 128.36,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 125.14,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 125.126,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 116.898,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 110.935,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Jamaican dollars (JMD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 98.2,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 96,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 4006999999.9999995,
+				"global_rank": 128,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2847000000,
+				"global_rank": 137,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 151,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 162,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1078000,
+				"global_rank": 126,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 83,
+					"global_rank": 76,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 115,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 3,
+					"global_rank": 134,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 15,
+					"global_rank": 59,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 153,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 142,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 24360,
+				"global_rank": 61,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 149,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 24250,
+				"global_rank": 87,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 55000,
+				"global_rank": 99,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 823,
+				"global_rank": 109,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 30580,
+				"global_rank": 100,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 149,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 198200000,
+				"global_rank": 104,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 127,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 198200000,
+				"global_rank": 71,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 150,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 8900000,
+			"global_rank": 112,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 379420,
+				"subscriptions_per_one_hundred_inhabitants": 13.5,
+				"global_rank": 103,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 2882469,
+				"subscriptions_per_one_hundred_inhabitants": 102.56,
+				"global_rank": 143,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "3 free-to-air TV stations, subscription cable services, and roughly 30 radio stations (2019)",
+		"internet": {
+			"country_code": ".jm",
+			"users": {
+				"total": 1548618,
+				"percent_of_population": 55.07,
+				"global_rank": 130,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 0,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "6Y",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 28,
+					"global_rank": 121,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 11,
+					"2438_to_3047_metres": 2,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 5,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 17,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 16,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 22121,
+				"units": "km",
+				"note": "includes 44 km of expressways"
+			},
+			"paved": {
+				"value": 16148,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 5973,
+				"units": "km"
+			},
+			"global_rank": 110,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 39,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				},
+				{
+					"type": "container ship",
+					"count": 8
+				},
+				{
+					"type": "general cargo",
+					"count": 6
+				},
+				{
+					"type": "other",
+					"count": 24
+				}
+			],
+			"global_rank": 122,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Discovery Bay (Port Rhoades)",
+				"Kingston",
+				"Montego Bay",
+				"Port Antonio",
+				"Port Esquivel",
+				"Port Kaiser",
+				"Rocky Point"
+			],
+			"container_ports": [
+				{
+					"place": "Kingston",
+					"twenty_foot_equivalent_units": 1681706
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 74
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17 1/2 is the legal minimum age for voluntary military service; no conscription",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Jamaica is a source and destination country for children and adults subjected to sex trafficking and forced labor; sex trafficking of children and adults occurs on the street, in night clubs, bars, massage parlors, and private homes; child sex tourism is a problem in resort areas; Jamaicans have been subjected to sexual exploitation or forced labor in the Caribbean, Canada, the US, and the UK, while foreigners have endured conditions of forced labor in Jamaica or aboard foreign-flagged fishing vessels operating in Jamaican waters; a high number of Jamaican children are reported missing",
+			"tier_rating": "Tier 2 Watch List – Jamaica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the government made significant efforts to raise public awareness of human trafficking, and named a national trafficking-in-persons rapporteur – the first in the region; authorities initiated more new trafficking investigations than in 2013 and concluded a trafficking case in the Supreme Court, but chronic delays impeded prosecutions and no offenders were convicted for the sixth consecutive year; more adult trafficking victims were identified than in previous years, but only one child victim was identified, which was exceptionally low relative to the number of vulnerable children (2015)"
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for cocaine from South America to North America and Europe; illicit cultivation and consumption of cannabis; government has an active manual cannabis eradication program; corruption is a major concern; substantial money-laundering activity; Colombian narcotics traffickers favor Jamaica for illicit financial transactions"
+		}
+	}
+}

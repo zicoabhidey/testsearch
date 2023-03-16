@@ -1,0 +1,621 @@
+{
+	"name": "Tokelau",
+	"introduction": {
+		"background": "Originally settled by Polynesian emigrants from surrounding island groups, the Tokelau Islands were made a British protectorate in 1889. They were transferred to New Zealand administration in 1925. Referenda held in 2006 and 2007 to change the status of the islands from that of a New Zealand territory to one of free association with New Zealand did not meet the needed threshold for approval."
+	},
+	"geography": {
+		"location": "Oceania, group of three atolls in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 9,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 172,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 12,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 12,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 242,
+			"comparative": "about 17 times the size of the National Mall in Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 101,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; moderated by trade winds (April to November)",
+		"terrain": "low-lying coral atolls enclosing large lagoons",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed location",
+				"elevation": {
+					"value": 5,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"NEGL"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 60,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 60,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 40,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the country's small population is fairly evenly distributed amongst the three atolls",
+		"natural_hazards": [
+			{
+				"description": "lies in Pacific cyclone belt",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"overexploitation of certain fish and other marine species",
+				"coastal sand",
+				"and forest resources",
+				"pollution of freshwater lenses and coastal waters from improper disposal of chemicals"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1647,
+			"global_rank": 234,
+			"date": "2019"
+		},
+		"nationality": {
+			"noun": "Tokelauan(s)",
+			"adjective": "Tokelauan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Tokelauan",
+					"percent": 64.5
+				},
+				{
+					"name": "part Tokelauan/Samoan",
+					"percent": 9.7
+				},
+				{
+					"name": "part Tokelauan/Tuvaluan",
+					"percent": 2.8
+				},
+				{
+					"name": "Tuvaluan",
+					"percent": 7.5
+				},
+				{
+					"name": "Samoan",
+					"percent": 5.8
+				},
+				{
+					"name": "other Pacific Islander",
+					"percent": 3.4
+				},
+				{
+					"name": "other",
+					"percent": 5.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.8
+				}
+			],
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Tokelauan",
+					"percent": 88.1,
+					"note": "a Polynesian language"
+				},
+				{
+					"name": "English",
+					"percent": 48.6
+				},
+				{
+					"name": "Samoan",
+					"percent": 26.7
+				},
+				{
+					"name": "Tuvaluan",
+					"percent": 11.2
+				},
+				{
+					"name": "Kiribati",
+					"percent": 1.5
+				},
+				{
+					"name": "other",
+					"percent": 2.8
+				},
+				{
+					"name": "none",
+					"percent": 2.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.8,
+					"note": "2016 ests."
+				}
+			],
+			"note": "shares sum to more than 100% because some respondents gave more than one answer on the census"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Congregational Christian Church",
+					"percent": 50.4
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 38.7
+				},
+				{
+					"name": "Presbyterian",
+					"percent": 5.9
+				},
+				{
+					"name": "other Christian",
+					"percent": 4.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.8
+				}
+			],
+			"date": "2016"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.01,
+			"global_rank": 196,
+			"date": "2014"
+		},
+		"population_distribution": "the country's small population is fairly evenly distributed amongst the three atolls",
+		"urbanization": {
+			"urban_population": {
+				"value": 0,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.72,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Tokelau",
+			"former": "Union Islands, Tokelau Islands",
+			"etymology": "\"tokelau\" is a Polynesian word meaning \"north wind\""
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy",
+		"independence": {
+			"note": "territory of New Zealand"
+		},
+		"national_holidays": [
+			{
+				"name": "Waitangi Day",
+				"day": "6 February",
+				"original_year": "1840",
+				"note": "Treaty of Waitangi established British sovereignty over New Zealand"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948)",
+			"amendments": "proposed as a resolution by the General Fono; passage requires support by each village and approval by the General Fono; amended many times, last in 2007"
+		},
+		"legal_system": "common law system of New Zealand",
+		"suffrage": {
+			"age": 21,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Patricia Lee REDDY (since 28 September 2016); New Zealand is represented by Administrator Jonathan KINGS (since 30 August 2017)",
+			"head_of_government": "Afega GAULOFA (since 10 March 2016); note - position rotates annually among the three Faipule (village leaders)",
+			"cabinet": "Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term",
+			"note": "the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital"
+		},
+		"legislative_branch": {
+			"description": "unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono",
+			"elections": "last held on 23, 27, and 31 January 2017 depending on island (next to be held in 2020)",
+			"election_results": "percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)",
+			"judge_selection_and_term_of_office": "judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judges serve for life",
+			"subordinate_courts": "High Court (in New Zealand); Council of Elders or Taupulega"
+		},
+		"political_parties_and_leaders": {
+			"note": "none"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "PIF ",
+				"note": "associate member"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UNESCO ",
+				"note": "associate"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "a yellow stylized Tokelauan canoe on a dark blue field sails toward the manu - the Southern Cross constellation of four, white, five-pointed stars at the hoist side; the Southern Cross represents the role of Christianity in Tokelauan culture and, in conjunction with the canoe, symbolizes the country navigating into the future; the color yellow indicates happiness and peace, and the blue field represents the ocean on which the community relies"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "tuluma ",
+					"note": "fishing tackle box"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Te Atua\" (For the Almighty)",
+			"lyrics_music": "unknown/Falani KALOLO",
+			"note": "adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, \"God Defend New Zealand\" and \"God Save the Queen\" are official (see New Zealand)"
+		}
+	},
+	"economy": {
+		"overview": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand.\nThe people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1500000,
+						"units": "USD",
+						"date": "1993"
+					}
+				],
+				"global_rank": 229
+			},
+			"real_growth_rate": {
+				"note": "NA"
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1000,
+						"units": "USD",
+						"date": "1993"
+					}
+				],
+				"global_rank": 225
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"agriculture": "NA",
+					"industry": "NA",
+					"services": "NA"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"coconuts",
+				"copra",
+				"breadfruit",
+				"papayas",
+				"bananas",
+				"pigs",
+				"poultry",
+				"goats",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"small-scale enterprises for copra production",
+				"woodworking",
+				"plaited craft goods",
+				"stamps",
+				"coins",
+				"fishing"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 440,
+				"global_rank": 231,
+				"date": "2001"
+			}
+		},
+		"unemployment_rate": {
+			"note": "NA"
+		},
+		"budget": {
+			"revenues": {
+				"value": 430800
+			},
+			"expenditures": {
+				"value": 2800000,
+				"units": "USD"
+			},
+			"date": "1987"
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"note": "NA"
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 0,
+						"units": "USD",
+						"date": "2002"
+					}
+				],
+				"global_rank": 224
+			},
+			"commodities": {
+				"by_commodity": [
+					"stamps",
+					"copra",
+					"handicrafts"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 969200,
+						"units": "USD",
+						"date": "2002"
+					}
+				],
+				"global_rank": 224
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"building materials",
+					"fuel"
+				]
+			}
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.416,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.2039,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "New Zealand dollars (NZD) per US dollar"
+		}
+	},
+	"energy": {
+		"crude_oil": {
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 205,
+				"date": "2010-01-01"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 300,
+				"subscriptions_per_one_hundred_inhabitants": 21,
+				"global_rank": 220,
+				"date": "2016-07-01"
+			}
+		},
+		"broadcast_media": "Sky TV access for around 30% of the population; each atoll operates a radio service that provides shipping news and weather reports (2019)",
+		"internet": {
+			"country_code": ".tk",
+			"users": {
+				"total": 805,
+				"percent_of_population": 60.2,
+				"global_rank": 226,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"roadways": {
+			"total": {
+				"value": 10,
+				"units": "km"
+			},
+			"global_rank": 222,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of New Zealand"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution"
+		]
+	}
+}

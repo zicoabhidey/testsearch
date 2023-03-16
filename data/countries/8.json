@@ -1,0 +1,1051 @@
+{
+	"name": "Anguilla",
+	"introduction": {
+		"background": "Colonized by English settlers from Saint Kitts in 1650, Anguilla was administered by Great Britain until the early 19th century, when the island - against the wishes of the inhabitants - was incorporated into a single British dependency along with Saint Kitts and Nevis. Several attempts at separation failed. In 1971, two years after a revolt, Anguilla was finally allowed to secede; this arrangement was formally recognized in 1980, with Anguilla becoming a separate British dependency. On 7 September 2017, the island suffered extensive damage from Hurricane Irma, particularly to communications and residential and business infrastructure."
+	},
+	"geography": {
+		"location": "Caribbean, islands between the Caribbean Sea and North Atlantic Ocean, east of Puerto Rico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 15,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 63,
+				"minutes": 10,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 91,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 91,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 227,
+			"comparative": "about one-half the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 61,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 3,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; moderated by northeast trade winds",
+		"terrain": "flat and low-lying island of coral and limestone",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Crocus Hill",
+				"elevation": {
+					"value": 73,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"salt",
+				"fish",
+				"lobster"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 61.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 38.9,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast",
+		"natural_hazards": [
+			{
+				"description": "frequent hurricanes and other tropical storms (July to October)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"supplies of potable water sometimes cannot meet increasing demand largely because of poor distribution system"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 18090,
+			"global_rank": 220,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Anguillan(s)",
+			"adjective": "Anguillan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "African/Black",
+					"percent": 85.3
+				},
+				{
+					"name": "Hispanic",
+					"percent": 4.9
+				},
+				{
+					"name": "mixed",
+					"percent": 3.8
+				},
+				{
+					"name": "White",
+					"percent": 3.2
+				},
+				{
+					"name": "East Indian/Indian",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 1.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.3
+				}
+			],
+			"note": "data represent population by ethnic origin",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 73.2,
+					"breakdown": [
+						{
+							"name": "includes Anglican",
+							"percent": 22.7
+						},
+						{
+							"name": "Methodist",
+							"percent": 19.4
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 10.5
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 8.3
+						},
+						{
+							"name": "Baptist",
+							"percent": 7.1
+						},
+						{
+							"name": "Church of God",
+							"percent": 4.9
+						},
+						{
+							"name": "Presbyterian",
+							"percent": 0.2
+						},
+						{
+							"name": "Brethren",
+							"percent": 0.1
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 6.8
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.1
+				},
+				{
+					"name": "other Christian",
+					"percent": 10.9
+				},
+				{
+					"name": "other",
+					"percent": 3.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.3
+				},
+				{
+					"name": "none",
+					"percent": 4.5
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 21.63,
+				"males": 1991,
+				"females": 1922
+			},
+			"15_to_24": {
+				"percent": 13.9,
+				"males": 1269,
+				"females": 1246
+			},
+			"25_to_54": {
+				"percent": 42.27,
+				"males": 3428,
+				"females": 4218
+			},
+			"55_to_64": {
+				"percent": 12.42,
+				"males": 993,
+				"females": 1254
+			},
+			"65_and_over": {
+				"percent": 9.78,
+				"males": 874,
+				"females": 895
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 35.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 33.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 37.6,
+				"units": "years"
+			},
+			"global_rank": 81,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.86,
+			"global_rank": 54,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.2,
+			"global_rank": 158,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.8,
+			"global_rank": 204,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 11.1,
+			"global_rank": 6,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is concentrated in The Valley in the center of the island; settlmement is fairly uniform in the southwest, but rather sparce in the northeast",
+		"urbanization": {
+			"urban_population": {
+				"value": 100,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.9,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "The Valley",
+					"population": 1000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.81,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.79,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.98,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.9,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 203,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.5,
+				"units": "years"
+			},
+			"global_rank": 26,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.74,
+			"global_rank": 161,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Anguilla",
+			"etymology": "the name Anguilla means \"eel\" in various Romance languages (Spanish, Italian, Portuguese, French) and likely derives from the island's lengthy shape"
+		},
+		"government_type": "parliamentary democracy (House of Assembly); self-governing overseas territory of the UK",
+		"capital": {
+			"name": "The Valley",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 13,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 63,
+					"minutes": 3,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name derives from the capital's location between several hills"
+		},
+		"independence": {
+			"note": "overseas territory of the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Anguilla Day",
+				"day": "30 May",
+				"original_year": "1967"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest 1 April 1982",
+			"amendments": "amended 1990"
+		},
+		"legal_system": "common law based on the English model",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Tim FOY (since August 2017)",
+			"head_of_government": "Premier Dr. Ellis WEBSTER (since 30 June 2020); note -  starting in 2019, the title of head of government was changed to premier from chief minister of Anguilla",
+			"cabinet": "Executive Council appointed by the governor from among elected members of the House of Assembly",
+			"elections_appointments": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor"
+		},
+		"legislative_branch": {
+			"description": "unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex officio members - the attorney general and deputy governor; members serve five-year terms)",
+			"elections": "last held on 29 June 2020 (next to be held in 2025)",
+			"election_results": "percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla",
+			"judge_selection_and_term_of_office": "Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62",
+			"subordinate_courts": "Magistrate's Court; Juvenile Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Anguilla Democratic Party",
+					"name_alternative": "ADP"
+				},
+				{
+					"name": "Anguilla National Alliance",
+					"name_alternative": "ANA"
+				},
+				{
+					"name": "Anguilla Progressive Movement or APM; prior to 2019, it was known as the Anguilla United Movement or AUM",
+					"name_alternative": "",
+					"leaders": [
+						"Dr. Ellis WEBSTER"
+					]
+				},
+				{
+					"name": "Anguilla United Front",
+					"name_alternative": "AUF",
+					"leaders": [
+						"Victor BANKS"
+					],
+					"note": "alliance includes ADP, ANA"
+				},
+				{
+					"name": "Democracy, Opportunity, Vision, Empowerment Party",
+					"name_alternative": "DOVE",
+					"leaders": [
+						"Sutcliffe HODGE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Caricom ",
+				"note": "associate"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "Interpol ",
+				"note": "subbureau"
+			},
+			{
+				"organization": "OECS"
+			},
+			{
+				"organization": "UNESCO ",
+				"note": "associate"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"diplomatic_representation": {
+			"from_united_states": {
+				"telephone": "[34] (93) 280-2227",
+				"embassy": "US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Spain\nnone (overseas territory of the UK)"
+			}
+		},
+		"flag_description": {
+			"description": "blue, with the flag of the UK in the upper hoist-side quadrant and the Anguillan coat of arms centered in the outer half of the flag; the coat of arms depicts three orange dolphins in an interlocking circular design on a white background with a turquoise-blue field below; the white in the background represents peace; the blue base symbolizes the surrounding sea, as well as faith, youth, and hope; the three dolphins stand for endurance, unity, and strength"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "dolphin"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "God Bless Anguilla",
+			"lyrics_music": "Alex RICHARDSON",
+			"note": "local anthem adopted 1981; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+		}
+	},
+	"economy": {
+		"overview": "Anguilla has few natural resources, is unsuited for agriculture, and the economy depends heavily on luxury tourism, offshore banking, lobster fishing, and remittances from emigrants. Increased activity in the tourism industry has spurred the growth of the construction sector contributing to economic growth. Anguillan officials have put substantial effort into developing the offshore financial sector, which is small but growing. In the medium term, prospects for the economy will depend largely on the recovery of the tourism sector and, therefore, on revived income growth in the industrialized nations as well as on favorable weather conditions.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 175400000,
+						"units": "USD",
+						"date": "2009"
+					},
+					{
+						"value": 191700000,
+						"units": "USD",
+						"date": "2008"
+					},
+					{
+						"value": 108900000,
+						"units": "USD",
+						"date": "2004"
+					}
+				],
+				"global_rank": 222
+			},
+			"official_exchange_rate": {
+				"USD": 175400000,
+				"date": "2009"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -8.5,
+						"units": "%",
+						"date": "2009"
+					}
+				],
+				"global_rank": 220
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12200,
+						"units": "USD",
+						"date": "2008"
+					}
+				],
+				"global_rank": 130
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 74.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 26.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 48.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -67.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 10.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 86.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"tobacco",
+				"vegetables",
+				"cattle"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"boat building",
+				"offshore financial services"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4,
+			"global_rank": 75,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 6049,
+				"global_rank": 219,
+				"date": "2001"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 74.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 3,
+						"units": "%"
+					},
+					"services": {
+						"value": 18,
+						"units": "%"
+					},
+					"agriculture_fishing_forestry_mining": {
+						"value": 4,
+						"units": "%"
+					},
+					"manufacturing": {
+						"value": 3,
+						"units": "%"
+					},
+					"construction": {
+						"value": 18,
+						"units": "%"
+					},
+					"transportation_and_utilities": {
+						"value": 10,
+						"units": "%"
+					},
+					"commerce": {
+						"value": 36,
+						"units": "%"
+					}
+				},
+				"date": "2000"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8,
+					"units": "%",
+					"date": "2002"
+				}
+			],
+			"global_rank": 115
+		},
+		"population_below_poverty_line": {
+			"value": 23,
+			"units": "%",
+			"date": "2002"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 81920000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 80320000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 46.7,
+			"global_rank": 19,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0.9,
+			"global_rank": 34,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 20.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				},
+				{
+					"value": 20.8,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				}
+			],
+			"global_rank": 189
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 67
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -23200000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -25300000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 73
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 7900000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3900000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 216
+			},
+			"commodities": {
+				"by_commodity": [
+					"lobster",
+					"fish",
+					"livestock",
+					"salt",
+					"concrete blocks",
+					"rum"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 186200000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 170100000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 211
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuels",
+					"foodstuffs",
+					"manufactures",
+					"chemicals",
+					"trucks",
+					"textiles"
+				]
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 76380000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 48140000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 183
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 41040000,
+					"units": "USD",
+					"date": "2013-12-31"
+				},
+				{
+					"value": 8800000,
+					"units": "USD",
+					"date": "1998"
+				}
+			],
+			"global_rank": 195
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "East Caribbean dollars (XCD) per US dollar"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7461,
+				"subscriptions_per_one_hundred_inhabitants": 42.02,
+				"global_rank": 196,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 32332,
+				"subscriptions_per_one_hundred_inhabitants": 182.09,
+				"global_rank": 209,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned",
+		"internet": {
+			"country_code": ".ai",
+			"users": {
+				"total": 14211,
+				"percent_of_population": 81.57,
+				"global_rank": 213,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 4,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VP-A",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 211,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2020"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 175,
+				"units": "km"
+			},
+			"paved": {
+				"value": 82,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 93,
+				"units": "km"
+			},
+			"global_rank": 209,
+			"date": "2004"
+		},
+		"merchant_marine": {
+			"total": 2,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 2
+				}
+			],
+			"global_rank": 172,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Blowing Point",
+				"Road Bay"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"illicit_drugs": {
+			"note": "transshipment point for South American narcotics destined for the US and Europe"
+		}
+	}
+}

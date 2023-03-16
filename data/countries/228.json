@@ -1,0 +1,2035 @@
+{
+	"name": "Tanzania",
+	"introduction": {
+		"background": "Mainland Tanzania fell under German rule during the late 19th century as part of German East Africa. After World War I, Britain governed the mainland as Tanganyika; the Zanzibar Archipelago remained a separate colonial jurisdiction. Shortly after achieving independence from Britain in the early 1960s, Tanganyika and Zanzibar merged to form the United Republic of Tanzania in 1964. In 1995, the country held its first democratic elections since the 1970s. Zanzibar maintains semi-autonomy and participates in national elections; popular political opposition on the isles led to four contentious elections since 1995, in which the ruling party claimed victory despite international observers' claims of voting irregularities."
+	},
+	"geography": {
+		"location": "Eastern Africa, bordering the Indian Ocean, between Kenya and Mozambique",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 6,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 35,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 947300,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 885800,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 61500,
+				"units": "sq km"
+			},
+			"note": "includes the islands of Mafia, Pemba, and Zanzibar",
+			"global_rank": 32,
+			"comparative": "more than six times the size of Georgia; slightly larger than twice the size of California"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4161,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Burundi",
+					"border_length": {
+						"value": 589,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Democratic Republic of the Congo",
+					"border_length": {
+						"value": 479,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kenya",
+					"border_length": {
+						"value": 775,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Malawi",
+					"border_length": {
+						"value": 512,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mozambique",
+					"border_length": {
+						"value": 840,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Rwanda",
+					"border_length": {
+						"value": 222,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uganda",
+					"border_length": {
+						"value": 391,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Zambia",
+					"border_length": {
+						"value": 353,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1424,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "varies from tropical along coast to temperate in highlands",
+		"terrain": "plains along coast; central plateau; highlands in north, south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1018,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Kilimanjaro (highest point in Africa)",
+				"elevation": {
+					"value": 5895,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower",
+				"tin",
+				"phosphates",
+				"iron ore",
+				"coal",
+				"diamonds",
+				"gemstones",
+				"gold",
+				"natural gas",
+				"nickel"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 43.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 14.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 27.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 37.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 19,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 1840,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "flooding on the central plateau during the rainy season",
+				"type": "hazard"
+			},
+			{
+				"description": "drought",
+				"type": "hazard"
+			},
+			{
+				"description": "limited volcanic activity; Ol Doinyo Lengai (2,962 m) has emitted lava in recent years; other historically active volcanoes include Kieyo and Meru",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water polution",
+				"improper management of liquid waste",
+				"indoor air pollution caused by the burning of fuel wood or charcoal for cooking and heating is a large environmental health issue",
+				"soil degradation",
+				"deforestation",
+				"desertification",
+				"destruction of coral reefs threatens marine habitats",
+				"wildlife threatened by illegal hunting and trade",
+				"especially for ivory",
+				"loss of biodiversity",
+				"solid waste disposal"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 58552845,
+			"global_rank": 24,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Tanzanian(s)",
+			"adjective": "Tanzanian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mainland - African",
+					"percent": 99,
+					"breakdown": [
+						{
+							"name": "of which are Bantu consisting of more than tribes",
+							"percent": 130
+						}
+					]
+				},
+				{
+					"name": "other ; Zanzibar - Arab",
+					"percent": 1,
+					"note": "consisting of Asian, European, and Arab"
+				},
+				{
+					"name": "African"
+				},
+				{
+					"name": "mixed Arab and African"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Kiswahili or Swahili",
+					"note": "official"
+				},
+				{
+					"name": "Kiunguja",
+					"note": "name for Swahili in Zanzibar"
+				},
+				{
+					"name": "English",
+					"note": "official, primary language of commerce, administration, and higher education"
+				},
+				{
+					"name": "Arabic",
+					"note": "widely spoken in Zanzibar"
+				},
+				{
+					"name": "many local languages"
+				}
+			],
+			"note": "Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources including Arabic and English; it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 61.4
+				},
+				{
+					"name": "Muslim",
+					"percent": 35.2
+				},
+				{
+					"name": "folk religion",
+					"percent": 1.8
+				},
+				{
+					"name": "other",
+					"percent": 0.2
+				},
+				{
+					"name": "unaffiliated",
+					"percent": 1.4
+				}
+			],
+			"note": "Zanzibar is almost entirely Muslim",
+			"date": "2010"
+		},
+		"demographic_profile": "Tanzania has the largest population in East Africa and the lowest population density; almost a third of the population is urban. Tanzania’s youthful population – about two-thirds of the population is under 25 – is growing rapidly because of the high total fertility rate of 4.8 children per woman. Progress in reducing the birth rate has stalled, sustaining the country’s nearly 3% annual growth. The maternal mortality rate has improved since 2000, yet it remains very high because of early and frequent pregnancies, inadequate maternal health services, and a lack of skilled birth attendants – problems that are worse among poor and rural women. Tanzania has made strides in reducing under-5 and infant mortality rates, but a recent drop in immunization threatens to undermine gains in child health. Malaria is a leading killer of children under 5, while HIV is the main source of adult mortality\nFor Tanzania, most migration is internal, rural to urban movement, while some temporary labor migration from towns to plantations takes place seasonally for harvests. Tanzania was Africa’s largest refugee-hosting country for decades, hosting hundreds of thousands of refugees from the Great Lakes region, primarily Burundi, over the last fifty years. However, the assisted repatriation and naturalization of tens of thousands of Burundian refugees between 2002 and 2014 dramatically reduced the refugee population. Tanzania is increasingly a transit country for illegal migrants from the Horn of Africa and the Great Lakes region who are heading to southern Africa for security reasons and/or economic opportunities. Some of these migrants choose to settle in Tanzania.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 42.7,
+				"males": 12632772,
+				"females": 12369115
+			},
+			"15_to_24": {
+				"percent": 20.39,
+				"males": 5988208,
+				"females": 5948134
+			},
+			"25_to_54": {
+				"percent": 30.31,
+				"males": 8903629,
+				"females": 8844180
+			},
+			"55_to_64": {
+				"percent": 3.52,
+				"males": 954251,
+				"females": 1107717
+			},
+			"65_and_over": {
+				"percent": 3.08,
+				"males": 747934,
+				"females": 1056905
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 85.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 81,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 4.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 20.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 18.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 17.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 18.4,
+				"units": "years"
+			},
+			"global_rank": 213,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.71,
+			"global_rank": 15,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 34.6,
+			"global_rank": 22,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.1,
+			"global_rank": 123,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.4,
+			"global_rank": 126,
+			"date": "2020"
+		},
+		"population_distribution": "the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 35.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 5.22,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Dodoma",
+					"population": 262000,
+					"note": "legislative capital"
+				},
+				{
+					"place": "Dar Es Salaam",
+					"population": 6702000,
+					"note": "administrative capital"
+				},
+				{
+					"place": "Mwanza",
+					"population": 1120000,
+					"note": "2020"
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.86,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.71,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 19.8,
+			"date": "2015"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 524,
+			"global_rank": 19,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 36.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 38.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 34.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 43,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 63.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 62.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 65.5,
+				"units": "years"
+			},
+			"global_rank": 203,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.59,
+			"global_rank": 22,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 38.4,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.01,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.7,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 92.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 56.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 68.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 43.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 31.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 82.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 29.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 46.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 17.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 70.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 53.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 5.1,
+				"global_rank": 12,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1700000,
+				"global_rank": 5,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 27000,
+				"global_rank": 6,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever",
+				"Rift Valley fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 8.4,
+			"global_rank": 151,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 14.6,
+			"global_rank": 41,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.4,
+			"global_rank": 127,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write Kiswahili (Swahili), English, or Arabic",
+			"total_population": {
+				"value": 77.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 83.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 73.1,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 9,
+				"units": "years"
+			},
+			"female": {
+				"value": 9,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 3.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 3.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 4.6,
+				"units": "%"
+			},
+			"global_rank": 167,
+			"date": "2014"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "United Republic of Tanzania",
+			"conventional_short_form": "Tanzania",
+			"local_long_form": "Jamhuri ya Muungano wa Tanzania",
+			"local_short_form": "Tanzania",
+			"former": "German East Africa, Trust Territory of Tanganyika, United Republic of Tanganyika and Zanzibar",
+			"etymology": "the country's name is a combination of the first letters of Tanganyika and Zanzibar, the two states that merged to form Tanzania in 1964"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Dar es Salaam (administrative capital), Dodoma (legislative capital); note - Dodoma was designated the national capital in 1996 and serves as the meeting place for the National Assembly; Dar es Salaam remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation; the government contends that it will complete the transfer of the executive branch to Dodoma by 2020",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 6,
+					"minutes": 48,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 39,
+					"minutes": 17,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "Dar es Salaam was the name given by Majid bin Said, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as \"abode/home of peace\"; Dodoma, in the native Gogo language, means \"it has sunk\"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where \"it (the elephant) sunk\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "Arusha",
+				"type": ""
+			},
+			{
+				"name": "Dar es Salaam",
+				"type": ""
+			},
+			{
+				"name": "Dodoma",
+				"type": ""
+			},
+			{
+				"name": "Geita",
+				"type": ""
+			},
+			{
+				"name": "Iringa",
+				"type": ""
+			},
+			{
+				"name": "Kagera",
+				"type": ""
+			},
+			{
+				"name": "Kaskazini Pemba (Pemba North)",
+				"type": ""
+			},
+			{
+				"name": "Kaskazini Unguja (Zanzibar North)",
+				"type": ""
+			},
+			{
+				"name": "Katavi",
+				"type": ""
+			},
+			{
+				"name": "Kigoma",
+				"type": ""
+			},
+			{
+				"name": "Kilimanjaro",
+				"type": ""
+			},
+			{
+				"name": "Kusini Pemba (Pemba South)",
+				"type": ""
+			},
+			{
+				"name": "Kusini Unguja (Zanzibar Central/South)",
+				"type": ""
+			},
+			{
+				"name": "Lindi",
+				"type": ""
+			},
+			{
+				"name": "Manyara",
+				"type": ""
+			},
+			{
+				"name": "Mara",
+				"type": ""
+			},
+			{
+				"name": "Mbeya",
+				"type": ""
+			},
+			{
+				"name": "Mjini Magharibi (Zanzibar Urban/West)",
+				"type": ""
+			},
+			{
+				"name": "Morogoro",
+				"type": ""
+			},
+			{
+				"name": "Mtwara",
+				"type": ""
+			},
+			{
+				"name": "Mwanza",
+				"type": ""
+			},
+			{
+				"name": "Njombe",
+				"type": ""
+			},
+			{
+				"name": "Pwani (Coast)",
+				"type": ""
+			},
+			{
+				"name": "Rukwa",
+				"type": ""
+			},
+			{
+				"name": "Ruvuma",
+				"type": ""
+			},
+			{
+				"name": "Shinyanga",
+				"type": ""
+			},
+			{
+				"name": "Simiyu",
+				"type": ""
+			},
+			{
+				"name": "Singida",
+				"type": ""
+			},
+			{
+				"name": "Songwe",
+				"type": ""
+			},
+			{
+				"name": "Tabora",
+				"type": ""
+			},
+			{
+				"name": "Tanga",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1964-04-26",
+			"note": "Tanganyika united with Zanzibar to form the United Republic of Tanganyika and Zanzibar; 29 October 1964 (renamed United Republic of Tanzania); notable earlier dates: 9 December 1961 (Tanganyika became independent from UK-administered UN trusteeship); 10 December 1963 (Zanzibar became independent from UK)"
+		},
+		"national_holidays": [
+			{
+				"name": "Union Day",
+				"day": "26 April",
+				"original_year": "1964",
+				"note": "Tanganyika and Zanzibar"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 25 April 1977",
+			"note": "progress enacting a new constitution drafted in 2014 by the Constituent Assembly stalled",
+			"amendments": "proposed by the National Assembly; passage of amendments to constitutional articles including those on sovereignty of the United Republic, the authorities and powers of the government, the president, the Assembly, and the High Court requires two-thirds majority vote of the mainland Assembly membership and of the Zanzibar House of Representatives membership; House of Representatives approval of other amendments is not required; amended several times, last in 2017"
+		},
+		"legal_system": "English common law; judicial review of legislative acts limited to matters of interpretation",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Tanzania; if a child is born abroad, the father must be a citizen of Tanzania",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President John MAGUFULI, Dr. (since 5 November 2015; sworn in for second 5-year term on 5 November 2020); Vice President Samia Suluhu HASSAN (since 5 November 2015); note - the president is both chief of state and head of government",
+			"head_of_government": "President John MAGUFULI, Dr. (since 5 November 2015; sworn in for second 5-year term on 5 November 2020); Vice President Samia Suluhu HASSAN (since 5 November 2015); note - Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015; reappointed 13 November 2020) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet",
+			"cabinet": "Cabinet appointed by the president from among members of the National Assembly",
+			"elections_appointments": "president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held 28 October 2020); prime minister appointed by the president",
+			"election_results": "John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%",
+			"note": "Zanzibar elects a president as head of government for internal matters; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%; the main opposition party in Zanzibar CUF boycotted the 20 March 2016 election rerun"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)",
+			"elections": "Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016",
+			"election_results": "National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2%\nZanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)",
+			"judge_selection_and_term_of_office": "Court of Appeal and High Court justices appointed by the national president after consultation with the Judicial Service Commission for Tanzania, a judicial body of high level judges and 2 members appointed by the national president; Court of Appeal and High Court judges serve until mandatory retirement at age 60, but terms can be extended; High Court of Zanzibar judges appointed by the national president after consultation with the Judicial Commission of Zanzibar; judges can serve until mandatory retirement at age 65",
+			"subordinate_courts": "Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for Change and Transparency",
+					"name_alternative": "ACT",
+					"leaders": [
+						"Zitto KABWE"
+					],
+					"note": "Wazalendo"
+				},
+				{
+					"name": "Alliance for Democratic Change",
+					"name_alternative": "ADC",
+					"leaders": [
+						"Miraji ABDALLAH"
+					]
+				},
+				{
+					"name": "Civic United Front",
+					"name_alternative": "CUF",
+					"leaders": [
+						"Ibrahim LIPUMBA"
+					],
+					"note": "Chama Cha Wananchi"
+				},
+				{
+					"name": "National Convention for Construction and Reform-Mageuzi",
+					"name_alternative": "NCCR-M",
+					"leaders": [
+						"James Francis MBATIA"
+					]
+				},
+				{
+					"name": "National League for Democracy"
+				},
+				{
+					"name": "Party of Democracy and Development",
+					"name_alternative": "Chadema",
+					"leaders": [
+						"Freeman MBOWE"
+					],
+					"note": "Chama Cha Demokrasia na Maendeleo"
+				},
+				{
+					"name": "Revolutionary Party",
+					"name_alternative": "CCM",
+					"leaders": [
+						"John MAGUFULI"
+					],
+					"note": "Chama Cha Mapinduzi"
+				},
+				{
+					"name": "Tanzania Labor Party",
+					"name_alternative": "TLP",
+					"leaders": [
+						"Augustine MREMA"
+					]
+				},
+				{
+					"name": "United Democratic Party",
+					"name_alternative": "UDP",
+					"leaders": [
+						"John Momose CHEYO"
+					]
+				}
+			],
+			"note": "in March 2014, four opposition parties (CUF, CHADEMA, NCCR-Mageuzi, NLD) united to form Coalition for the People's Constitution (Umoja wa Katiba ya Wananchi) or UKAWA; during local elections held in October, 2014, UKAWA entered one candidate representing the three parties united in the coalition"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "EAC"
+			},
+			{
+				"organization": "EADB"
+			},
+			{
+				"organization": "EITI"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "SADC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Wilson Mutagaywa MASILINGI (since 17 September 2015)",
+				"chancery": "1232 22nd Street NW, Washington, DC 20037",
+				"telephone": "[1] (202) 939-6125",
+				"fax": "[1] (202) 797-7408"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Donald J. WRIGHT (since 2 April 2020)",
+				"telephone": "(255) 22-229-4000, dial '1' for an emergency operator",
+				"embassy": "686 Old Bagamoyo Road, Msasani, Dar es Salaam",
+				"mailing_address": "P.O. Box 9123, Dar es Salaam",
+				"fax": "[255] (22) 229-4970 or 4971"
+			}
+		},
+		"flag_description": {
+			"description": "divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Uhuru  torch",
+					"region": "Freedom"
+				},
+				{
+					"symbol": "giraffe",
+					"region": "Freedom"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Mungu ibariki Afrika\" (God Bless Africa)",
+			"lyrics_music": "collective/Enoch Mankayi SONTONGA",
+			"note": "adopted 1961; the anthem, which is also a popular song in Africa, shares the same melody with that of Zambia but has different lyrics; the melody is also incorporated into South Africa's anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TZ.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.\nThe economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.\nThe financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.\nThe World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.\nThe new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 162500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 153300000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 143300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 75,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 51760000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.98,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 6.95,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 6.78,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 18
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 193,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 62.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 12.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 36.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -8.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -20.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 23.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 47.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 25,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 23.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 24.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 60
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"sisal",
+				"tea",
+				"cotton",
+				"pyrethrum",
+				"insecticide made from chrysanthemums",
+				"cashew nuts",
+				"tobacco",
+				"cloves",
+				"corn",
+				"wheat",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"bananas",
+				"fruits",
+				"vegetables",
+				"cattle",
+				"sheep",
+				"goats"
+			]
+		},
+		"industries": {
+			"industries": [
+				"agricultural processing",
+				"sugar",
+				"beer",
+				"cigarettes",
+				"sisal twine",
+				"mining",
+				"diamonds",
+				"gold",
+				"iron",
+				"salt",
+				"soda ash",
+				"cement",
+				"oil refining",
+				"shoes",
+				"apparel",
+				"wood products",
+				"fertilizer"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 12,
+			"global_rank": 8,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 24890000,
+				"global_rank": 21,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 66.9,
+						"units": "%"
+					},
+					"industry": {
+						"value": 6.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 26.6,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 10.3,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 150
+		},
+		"population_below_poverty_line": {
+			"value": 22.8,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 29.6,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 7873000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 8818000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 15.2,
+			"global_rank": 192,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.8,
+			"global_rank": 100,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 37,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 38,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 141
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 175
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1313000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -1898000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 155
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4971000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5697000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 107
+			},
+			"commodities": {
+				"by_commodity": [
+					"gold",
+					"coffee",
+					"cashew nuts",
+					"manufactures",
+					"cotton"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 21.8
+					},
+					{
+						"name": "South Africa",
+						"percent": 17.9
+					},
+					{
+						"name": "Kenya",
+						"percent": 8.8
+					},
+					{
+						"name": "Switzerland",
+						"percent": 6.7
+					},
+					{
+						"name": "Belgium",
+						"percent": 5.9
+					},
+					{
+						"name": "Democratic Republic of the Congo",
+						"percent": 5.8
+					},
+					{
+						"name": "China",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 7869000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8464000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 111
+			},
+			"commodities": {
+				"by_commodity": [
+					"consumer goods",
+					"machinery",
+					"transportation equipment",
+					"industrial raw materials",
+					"crude oil"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 16.5
+					},
+					{
+						"name": "China",
+						"percent": 15.8
+					},
+					{
+						"name": "UAE",
+						"percent": 9.2
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 7.9
+					},
+					{
+						"name": "South Africa",
+						"percent": 5.1
+					},
+					{
+						"name": "Japan",
+						"percent": 4.9
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 5301000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 4067000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 94,
+			"note": "excludes gold"
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 17660000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 15210000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 97
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2243.8,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2177.1,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2177.1,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1989.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1654,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Tanzanian shillings (TZS) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 35000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 40,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 71,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 23,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 6699000000,
+				"global_rank": 114,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 5682000000,
+				"global_rank": 118,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 206,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 102000000,
+				"global_rank": 99,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1457000,
+				"global_rank": 124,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 55,
+					"global_rank": 141,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 192,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 40,
+					"global_rank": 53,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 6,
+					"global_rank": 106,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 206,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 205,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 202,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 202,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 206,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 72000,
+				"global_rank": 92,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 207,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 67830,
+				"global_rank": 69,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 3115000000,
+				"global_rank": 56,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 3115000000,
+				"global_rank": 74,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 198,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 198,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 6513000000,
+				"global_rank": 85,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 14570000,
+			"global_rank": 93,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 74081,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 148,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 46847405,
+				"subscriptions_per_one_hundred_inhabitants": 82.21,
+				"global_rank": 31,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a state-owned TV station and multiple privately owned TV stations; state-owned national radio station supplemented by more than 40 privately owned radio stations; transmissions of several international broadcasters are available (2019)",
+		"internet": {
+			"country_code": ".tz",
+			"users": {
+				"total": 13862836,
+				"percent_of_population": 25,
+				"global_rank": 46,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 11,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 91,
+				"annual_passenger_traffic_on_registered_air_carriers": 1481557,
+				"annual_freight_traffic_on_registered_air_carriers": 390000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5H",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 166,
+					"global_rank": 33,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 10,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 2,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 156,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 24,
+					"914_to_1523_metres": 98,
+					"under_914_metres": 33,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 311,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 891,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 8,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 4567,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 1860,
+				"units": "km\n1.067-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 43,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 87581,
+				"units": "km"
+			},
+			"paved": {
+				"value": 10025,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 77556,
+				"units": "km"
+			},
+			"global_rank": 56,
+			"date": "2015"
+		},
+		"waterways": {
+			"value": 2011,
+			"note": "Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi; ; "
+		},
+		"merchant_marine": {
+			"total": 337,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 4
+				},
+				{
+					"type": "container ship",
+					"count": 8
+				},
+				{
+					"type": "general cargo",
+					"count": 173
+				},
+				{
+					"type": "oil tanker",
+					"count": 44
+				},
+				{
+					"type": "other",
+					"count": 108
+				}
+			],
+			"global_rank": 51,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Dar es Salaam",
+				"Zanzibar"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 95
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-25 years of age for voluntary military service; 6-year commitment",
+			"date": "2019"
+		},
+		"note": "the TPDF has deployed additional troops to its border with Mozambique to prevent a spillover of the growing violence in the northern Mozambican province of Cabo Delgado (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River",
+			"Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake",
+			"the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 154163,
+						"country_of_origin": "Burundi"
+					},
+					{
+						"people": 77898,
+						"country_of_origin": "Democratic Republic of the Congo"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania’s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines and quarries, in the informal commercial sector, in factories, in the sex trade, and possibly on small fishing boats; Tanzanian children and adults are subjected to domestic servitude, other forms of forced labor, and sex trafficking in other African countries, the Middle East, Europe, and the US; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries with false offers of education or legitimate jobs; trafficking victims from Burundi, Kenya, South Asia, and Yemen are forced to work in Tanzania’s agricultural, mining, and domestic service sectors or may be sex trafficked",
+			"tier_rating": "Tier 2 Watch List – Tanzania does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Tanzania was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government adopted a three-year national action plan and implementing regulations for the 2008 anti-trafficking law; authorities somewhat increased their number of trafficking investigations and prosecutions and convicted one offender, but the penalty was a fine in lieu of prison, which was inadequate given the severity of the crime; the government did not operate any shelters for victims and relied on NGOs to provide protective services (2015)"
+		},
+		"illicit_drugs": {
+			"note": "targeted by traffickers moving hashish, Afghan heroin, and South American cocaine transported down the East African coastline, through airports, or overland through Central Africa; Zanzibar likely used by traffickers for drug smuggling; traffickers in the past have recruited Tanzanian couriers to move drugs through Iran into East Asia"
+		}
+	}
+}

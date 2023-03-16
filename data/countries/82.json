@@ -1,0 +1,1742 @@
+{
+	"name": "Fiji",
+	"introduction": {
+		"background": "Fiji became independent in 1970 after nearly a century as a British colony. Democratic rule was interrupted by two military coups in 1987 caused by concern over a government perceived as dominated by the Indian community (descendants of contract laborers brought to the islands by the British in the 19th century). The coups and a 1990 constitution that cemented native Melanesian control of Fiji led to heavy Indian emigration; the population loss resulted in economic difficulties, but ensured that Melanesians became the majority. A new constitution enacted in 1997 was more equitable. Free and peaceful elections in 1999 resulted in a government led by an Indo-Fijian, but a civilian-led coup in 2000 ushered in a prolonged period of political turmoil. Parliamentary elections held in 2001 provided Fiji with a democratically elected government led by Prime Minister Laisenia QARASE. Reelected in May 2006, QARASE was ousted in a December 2006 military coup led by Commodore Voreqe BAINIMARAMA, who initially appointed himself acting president but in January 2007 became interim prime minister. Following years of political turmoil, long-delayed legislative elections were held in September 2014 that were deemed \"credible\" by international observers and that resulted in BAINIMARAMA being reelected. He was reelected in November 2018 in elections deemed free and fair."
+	},
+	"geography": {
+		"location": "Oceania, island group in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 175,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 18274,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 18274,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 157,
+			"comparative": "slightly smaller than New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 1129,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation measured from claimed archipelagic straight baselines"
+			}
+		},
+		"climate": "tropical marine; only slight seasonal temperature variation",
+		"terrain": "mostly mountains of volcanic origin",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Tomanivi",
+				"elevation": {
+					"value": 1324,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"fish",
+				"gold",
+				"copper",
+				"offshore oil potential",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 23.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 4.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 9.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 55.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 21,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 40,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas",
+		"natural_hazards": [
+			{
+				"description": "cyclonic storms can occur from November to January",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"the widespread practice of waste incineration is a major contributor to air pollution in the country",
+				"as are vehicle emissions in urban areas",
+				"deforestation and soil erosion are significant problems",
+				"a contributory factor to erosion is clearing of land by bush burning",
+				"a widespread practie that threatens biodiversity"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Law of the Sea",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 935974,
+			"global_rank": 161,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Fijian(s)",
+			"adjective": "Fijian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "iTaukei",
+					"percent": 56.8,
+					"note": "predominantly Melanesian with a Polynesian admixture"
+				},
+				{
+					"name": "Indo-Fijian",
+					"percent": 37.5
+				},
+				{
+					"name": "Rotuman",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 4.5,
+					"note": "European, part European, other Pacific Islanders, Chinese"
+				}
+			],
+			"note": "a 2010 law replaces 'Fijian' with 'iTaukei' when referring to the original and native settlers of Fiji",
+			"date": "2007"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Fijian",
+					"note": "official"
+				},
+				{
+					"name": "Hindustani"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 45,
+					"breakdown": [
+						{
+							"name": "Methodist",
+							"percent": 34.6
+						},
+						{
+							"name": "Assembly of God",
+							"percent": 5.7
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 3.9
+						},
+						{
+							"name": "and Anglican",
+							"percent": 0.8
+						}
+					]
+				},
+				{
+					"name": "Hindu",
+					"percent": 27.9
+				},
+				{
+					"name": "other Christian",
+					"percent": 10.4
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 9.1
+				},
+				{
+					"name": "Muslim",
+					"percent": 6.3
+				},
+				{
+					"name": "Sikh",
+					"percent": 0.3
+				},
+				{
+					"name": "other",
+					"percent": 0.3
+				},
+				{
+					"name": "none",
+					"percent": 0.8
+				}
+			],
+			"date": "2007"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 26.86,
+				"males": 128499,
+				"females": 122873
+			},
+			"15_to_24": {
+				"percent": 15.51,
+				"males": 73993,
+				"females": 71139
+			},
+			"25_to_54": {
+				"percent": 41.05,
+				"males": 196932,
+				"females": 187270
+			},
+			"55_to_64": {
+				"percent": 9.25,
+				"males": 43813,
+				"females": 42763
+			},
+			"65_and_over": {
+				"percent": 7.34,
+				"males": 31556,
+				"females": 37136
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 44.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 11.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 29.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 30.1,
+				"units": "years"
+			},
+			"global_rank": 125,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.5,
+			"global_rank": 155,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 17.4,
+			"global_rank": 96,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.3,
+			"global_rank": 150,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -6.2,
+			"global_rank": 207,
+			"date": "2020"
+		},
+		"population_distribution": "approximately 70% of the population lives on the island of Viti Levu; roughly half of the population lives in urban areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 57.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.62,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Suva",
+					"population": 178000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.03,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 34,
+			"global_rank": 107,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 8.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 7.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 143,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 71,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.6,
+				"units": "years"
+			},
+			"global_rank": 141,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.31,
+			"global_rank": 83,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.86,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 88.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 93.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 11.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 6.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 94,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 89,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 11,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 96,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1000,
+				"global_rank": 145,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 30.2,
+			"global_rank": 24,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.9,
+			"global_rank": 106,
+			"date": "2013"
+		},
+		"literacy": {
+			"total_population": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 15.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 11.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 22.4,
+				"units": "%"
+			},
+			"global_rank": 87,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Fiji",
+			"conventional_short_form": "Fiji",
+			"local_long_form": "Republic of Fiji/Matanitu ko Viti",
+			"local_short_form": "Fiji/Viti",
+			"etymology": "the Fijians called their home Viti, but the neighboring Tongans called it Fisi, and in the Anglicized spelling of the Tongan pronunciation - promulgated by explorer Captain James COOK - the designation became Fiji"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Suva (on Viti Levu)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 8,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 178,
+					"minutes": 25,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 12,
+				"note": "17 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins first Sunday in November; ends second Sunday in January"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Ba",
+				"type": ""
+			},
+			{
+				"name": "Bua",
+				"type": ""
+			},
+			{
+				"name": "Cakaudrove",
+				"type": ""
+			},
+			{
+				"name": "Kadavu",
+				"type": ""
+			},
+			{
+				"name": "Lau",
+				"type": ""
+			},
+			{
+				"name": "Lomaiviti",
+				"type": ""
+			},
+			{
+				"name": "Macuata",
+				"type": ""
+			},
+			{
+				"name": "Nadroga and Navosa",
+				"type": ""
+			},
+			{
+				"name": "Naitasiri",
+				"type": ""
+			},
+			{
+				"name": "Namosi",
+				"type": ""
+			},
+			{
+				"name": "Ra",
+				"type": ""
+			},
+			{
+				"name": "Rewa",
+				"type": ""
+			},
+			{
+				"name": "Rotuma",
+				"type": ""
+			},
+			{
+				"name": "Serua",
+				"type": ""
+			},
+			{
+				"name": "Tailevu",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1970-10-10",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Fiji  Day",
+				"day": "10 October",
+				"original_year": "1970",
+				"note": "Independence"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest signed into law 6 September 2013"
+		},
+		"legal_system": "common law system based on the English model",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Fiji",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "at least 5 years residency out of the 10 years preceding application"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Jioji Konousi KONROTE (since 12 November 2015)",
+			"head_of_government": "Prime Minister Voreqe \"Frank\" BAINIMARAMA (since 22 September 2014)",
+			"cabinet": "Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament",
+			"elections_appointments": "president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 August 2018 (next to be held in 2021); prime minister endorsed by the president",
+			"election_results": "Jioji Konousi KONROTE reelected president (unopposed)"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)",
+			"elections": "last held on 14 November 2018 (next to be held in 2022)",
+			"election_results": "percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)",
+			"judge_selection_and_term_of_office": "chief justice appointed by the president of Fiji on the advice of the prime minister following consultation with the parliamentary leader of the opposition; judges of the Supreme Court, the president of the Court of Appeal, the justices of the Court of Appeal, and puisne judges of the High Court appointed by the president of Fiji upon the nomination of the Judicial Service Commission after consulting with the cabinet minister and the committee of the House of Representatives responsible for the administration of justice; the chief justice, Supreme Court judges and justices of Appeal generally required to retire at age 70, but this requirement may be waived for one or more sessions of the court; puisne judges appointed for not less than 4 years nor more than 7 years, with mandatory retirement at age 65",
+			"subordinate_courts": "Magistrates' Court (organized into civil, criminal, juvenile, and small claims divisions)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "FijiFirst",
+					"leaders": [
+						"Veroqe \"Frank\" BAINIMARAMA"
+					]
+				},
+				{
+					"name": "Fiji Labor Party",
+					"name_alternative": "FLP",
+					"leaders": [
+						"Mahendra CHAUDHRY"
+					]
+				},
+				{
+					"name": "Fiji United Freedon Party",
+					"name_alternative": "FUFP",
+					"leaders": [
+						"Jagath KARUNARATNE"
+					]
+				},
+				{
+					"name": "National Federation Party",
+					"name_alternative": "NFP",
+					"leaders": [
+						"Biman PRASAD"
+					],
+					"note": "primarily Indian"
+				},
+				{
+					"name": "Peoples Democratic Party",
+					"name_alternative": "PDP",
+					"leaders": [
+						"Lynda TABUYA"
+					]
+				},
+				{
+					"name": "Social Democratic Liberal Party",
+					"name_alternative": "SODELPA"
+				},
+				{
+					"name": "Unity Fiji",
+					"leaders": [
+						"Adi QORO"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca ",
+				"note": "suspended"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNDOF"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Akuila VUIRA",
+				"chancery": "2000 M Street NW, Suite 710, Washington, DC 20036",
+				"telephone": "[1] (202) 466-8320",
+				"fax": "[1] (202) 466-8325"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Joseph James CELLA (since 23 December 2019); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu",
+				"telephone": "[679] 331-4466",
+				"embassy": "158 Princes Rd, Tamavua",
+				"mailing_address": "P. O. Box 218, Suva",
+				"fax": "[679] 330-8685"
+			}
+		},
+		"flag_description": {
+			"description": "light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific Ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion, holding a coconut pod between its paws, above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, a banana bunch, and a white dove of peace"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Fijian canoe"
+				},
+				{
+					"symbol": "national color: light blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "God Bless Fiji",
+			"lyrics_music": "Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by Michael Francis Alexander PRESCOTT)",
+			"note": "adopted 1970; known in Fijian as \"Meda Dau Doka\" (Let Us Show Pride); adapted from the hymn, \"Dwelling in Beulah Land,\" the anthem's English lyrics are generally sung, although they differ in meaning from the official Fijian lyrics",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/FJ.mp3?1538604753"
+		}
+	},
+	"economy": {
+		"overview": "Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.\nBottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.\nThe return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8629000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8375999999.999999,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8321000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 163,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 4891000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 0.7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 99
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 9800,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 9600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 9600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 140,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 81.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 24.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 29,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -51.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 13.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 17.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 69.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 12.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 13.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 16.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 146
+		},
+		"agriculture_products": {
+			"products": [
+				"sugarcane",
+				"copra",
+				"ginger",
+				"tropical fruits",
+				"vegetables",
+				"beef",
+				"pork",
+				"chicken",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"sugar processing",
+				"clothing",
+				"copra",
+				"gold",
+				"silver",
+				"lumber"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.8,
+			"global_rank": 108,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 353100,
+				"global_rank": 161,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 44.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 14.3,
+						"units": "%"
+					},
+					"services": {
+						"value": 41.6,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 66
+		},
+		"population_below_poverty_line": {
+			"value": 31,
+			"units": "%",
+			"date": "2009"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 34.9,
+				"units": "%"
+			},
+			"date": "2009"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1454000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1648000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 29.7,
+			"global_rank": 80,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4,
+			"global_rank": 157,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 48.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 47.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 106
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 140
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -277000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -131000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 104
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 908200000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 709000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 163
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuel",
+					"oil",
+					"fish",
+					"beverages",
+					"gems",
+					"sugar",
+					"garments",
+					"gold",
+					"timber",
+					"fish",
+					"molasses",
+					"coconut oil",
+					"mineral water"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 20.8
+					},
+					{
+						"name": "Australia",
+						"percent": 14.9
+					},
+					{
+						"name": "NZ",
+						"percent": 7.7
+					},
+					{
+						"name": "Tonga",
+						"percent": 5
+					},
+					{
+						"name": "Vanuatu",
+						"percent": 4.6
+					},
+					{
+						"name": "China",
+						"percent": 4.5
+					},
+					{
+						"name": "Spain",
+						"percent": 4.3
+					},
+					{
+						"name": "UK",
+						"percent": 4.3
+					},
+					{
+						"name": "Kiribati",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1911000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1761000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 169
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactured goods",
+					"machinery",
+					"transport equipment",
+					"petroleum products",
+					"food",
+					"beverages",
+					"chemicals",
+					"tobacco"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Australia",
+						"percent": 19.2
+					},
+					{
+						"name": "NZ",
+						"percent": 17.2
+					},
+					{
+						"name": "Singapore",
+						"percent": 17
+					},
+					{
+						"name": "China",
+						"percent": 13.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1116000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 908600000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 130
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1022000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 696400000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 165
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.075,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.0947,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.0947,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.0976,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.8874,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Fijian dollars (FJD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 98.6,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99.2,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 98,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 914000000,
+				"global_rank": 155,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 850000000,
+				"global_rank": 159,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 135,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 149,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 338000,
+				"global_rank": 154,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 34,
+					"global_rank": 181,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 91,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 38,
+					"global_rank": 55,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 27,
+					"global_rank": 24,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 137,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 124,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 128,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 132,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 146,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 16000,
+				"global_rank": 151,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 156,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 17460,
+				"global_rank": 131,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 133,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 147,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 105,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 126,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 136,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2369000,
+			"global_rank": 155,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 80650,
+				"subscriptions_per_one_hundred_inhabitants": 8.66,
+				"global_rank": 143,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1097345,
+				"subscriptions_per_one_hundred_inhabitants": 117.83,
+				"global_rank": 161,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Fiji TV, a publicly traded company, operates a free-to-air channel; Digicel Fiji operates the Sky Fiji and Sky Pacific multi-channel pay-TV services; state-owned commercial company, Fiji Broadcasting Corporation, Ltd, operates 6 radio stations - 2 public broadcasters and 4 commercial broadcasters with multiple repeaters; 5 radio stations with repeaters operated by Communications Fiji, Ltd; transmissions of multiple international broadcasters are available",
+		"internet": {
+			"country_code": ".fj",
+			"users": {
+				"total": 462860,
+				"percent_of_population": 49.97,
+				"global_rank": 154,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 16,
+				"annual_passenger_traffic_on_registered_air_carriers": 1670216,
+				"annual_freight_traffic_on_registered_air_carriers": 106830000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "DQ",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 28,
+					"global_rank": 120,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 4,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 24,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 19,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 597,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 597,
+				"units": "km\n0.600-m"
+			},
+			"note": "belongs to the government-owned Fiji Sugar Corporation; used to haul sugarcane during the harvest season, which runs from May to December",
+			"global_rank": 109,
+			"date": "2008"
+		},
+		"roadways": {
+			"total": {
+				"value": 3440,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1686,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 1754,
+				"units": "km"
+			},
+			"global_rank": 159,
+			"date": "2011"
+		},
+		"waterways": {
+			"value": 203,
+			"units": "km",
+			"note": "122 km are navigable by motorized craft and 200-metric-ton barges",
+			"global_rank": 97,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 64,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 19
+				},
+				{
+					"type": "oil tanker",
+					"count": 4
+				},
+				{
+					"type": "other",
+					"count": 41
+				}
+			],
+			"global_rank": 106,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Lautoka",
+				"Levuka",
+				"Suva"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 71
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; mandatory retirement at age 55",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"maritime boundary dispute with Tonga"
+		]
+	}
+}

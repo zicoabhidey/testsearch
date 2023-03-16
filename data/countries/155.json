@@ -1,0 +1,1819 @@
+{
+	"name": "Montenegro",
+	"introduction": {
+		"background": "The use of the name Crna Gora or Black Mountain (Montenegro) began in the 13th century in reference to a highland region in the Serbian province of Zeta. The later medieval state of Zeta maintained its existence until 1496 when Montenegro finally fell under Ottoman rule. Over subsequent centuries, Montenegro managed to maintain a level of autonomy within the Ottoman Empire. From the 16th to 19th centuries, Montenegro was a theocracy ruled by a series of bishop princes; in 1852, it transformed into a secular principality. Montenegro was recognized as an independent sovereign principality at the Congress of Berlin in 1878. After World War I, during which Montenegro fought on the side of the Allies, Montenegro was absorbed by the Kingdom of Serbs, Croats, and Slovenes, which became the Kingdom of Yugoslavia in 1929. At the conclusion of World War II, it became a constituent republic of the Socialist Federal Republic of Yugoslavia. When the latter dissolved in 1992, Montenegro joined with Serbia, creating the Federal Republic of Yugoslavia and, after 2003, shifting to a looser State Union of Serbia and Montenegro. In May 2006, Montenegro invoked its right under the Constitutional Charter of Serbia and Montenegro to hold a referendum on independence from the two-state union. The vote for severing ties with Serbia barely exceeded 55% - the threshold set by the EU - allowing Montenegro to formally restore its independence on 3 June 2006. In 2017, Montenegro joined NATO and is currently completing its EU accession process, having officially applied to join the EU in December 2008."
+	},
+	"geography": {
+		"location": "Southeastern Europe, between the Adriatic Sea and Serbia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 42,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 19,
+				"minutes": 18,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 13812,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 13452,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 360,
+				"units": "sq km"
+			},
+			"global_rank": 162,
+			"comparative": "slightly smaller than Connecticut; slightly larger than twice the size of Delaware"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 680,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Albania",
+					"border_length": {
+						"value": 186,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Bosnia and Herzegovina",
+					"border_length": {
+						"value": 242,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Croatia",
+					"border_length": {
+						"value": 19,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kosovo",
+					"border_length": {
+						"value": 76,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Serbia",
+					"border_length": {
+						"value": 157,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 293.5,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": "defined by treaty"
+		},
+		"climate": "Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland",
+		"terrain": "highly indented coastline with narrow coastal plain backed by rugged high limestone mountains and plateaus",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1086,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Adriatic Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Bobotov Kuk",
+				"elevation": {
+					"value": 2522,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"bauxite",
+				"hydroelectricity"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 38.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 12.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 24.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 40.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 21.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 24,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area",
+		"natural_hazards": [
+			{
+				"description": "destructive earthquakes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"pollution of coastal waters from sewage outlets",
+				"especially in tourist-related areas such as Kotor",
+				"serious air pollution in Podgorica",
+				"Pljevlja and Niksie",
+				"air pollution in Pljevlja is caused by the nearby lignite power plant and the domestic use of coal and wood for household heating"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 609859,
+			"global_rank": 171,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Montenegrin(s)",
+			"adjective": "Montenegrin"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Montenegrin",
+					"percent": 45
+				},
+				{
+					"name": "Serbian",
+					"percent": 28.7
+				},
+				{
+					"name": "Bosniak",
+					"percent": 8.7
+				},
+				{
+					"name": "Albanian",
+					"percent": 4.9
+				},
+				{
+					"name": "Muslim",
+					"percent": 3.3
+				},
+				{
+					"name": "Romani",
+					"percent": 1
+				},
+				{
+					"name": "Croat",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 2.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 4.9
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Serbian",
+					"percent": 42.9
+				},
+				{
+					"name": "Montenegrin",
+					"percent": 37,
+					"note": "official"
+				},
+				{
+					"name": "Bosnian",
+					"percent": 5.3
+				},
+				{
+					"name": "Albanian",
+					"percent": 5.3
+				},
+				{
+					"name": "Serbo-Croat",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 3.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 4
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Orthodox",
+					"percent": 72.1
+				},
+				{
+					"name": "Muslim",
+					"percent": 19.1
+				},
+				{
+					"name": "Catholic",
+					"percent": 3.4
+				},
+				{
+					"name": "atheist",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 1.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.6
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.14,
+				"males": 57402,
+				"females": 53217
+			},
+			"15_to_24": {
+				"percent": 12.78,
+				"males": 40220,
+				"females": 37720
+			},
+			"25_to_54": {
+				"percent": 39.65,
+				"males": 120374,
+				"females": 121461
+			},
+			"55_to_64": {
+				"percent": 13.41,
+				"males": 40099,
+				"females": 41670
+			},
+			"65_and_over": {
+				"percent": 16.02,
+				"males": 42345,
+				"females": 55351
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 51.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 27.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 23.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 39.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 38.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 41.1,
+				"units": "years"
+			},
+			"global_rank": 54,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.37,
+			"global_rank": 221,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.5,
+			"global_rank": 171,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.4,
+			"global_rank": 30,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -4.9,
+			"global_rank": 196,
+			"date": "2020"
+		},
+		"population_distribution": "highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area",
+		"urbanization": {
+			"urban_population": {
+				"value": 67.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.54,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Podgorica",
+					"population": 177000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 26.3,
+			"date": "2010"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 6,
+			"global_rank": 162,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 202,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.8,
+				"units": "years"
+			},
+			"global_rank": 84,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.82,
+			"global_rank": 148,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 20.7,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.38,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.9,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 93.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 6.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 500,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"Crimean-Congo hemorrhagic fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 23.3,
+			"global_rank": 66,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1,
+			"global_rank": 127,
+			"date": "2013"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 98.3,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 15,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 29.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 33.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 23.6,
+				"units": "%"
+			},
+			"global_rank": 34,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Montenegro",
+			"local_long_form": "none",
+			"local_short_form": "Crna Gora",
+			"former": "People's Republic of Montenegro, Socialist Republic of Montenegro, Republic of Montenegro",
+			"etymology": "the country's name locally as well as in most Western European languages means \"black mountain\" and refers to the dark coniferous forests on Mount Lovcen and the surrounding area"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Podgorica; note - Cetinje retains the status of \"Old Royal Capital\"",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 42,
+					"minutes": 26,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 19,
+					"minutes": 16,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1 hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the name translates as \"beneath Gorica\"; the meaning of Gorica is \"hillock\"; the reference is to the small hill named Gorica that the city is built around"
+		},
+		"independence": {
+			"date": "2006-06-03",
+			"note": "from the State Union of Serbia and Montenegro; notable earlier dates: 13 March 1852 (Principality of Montenegro established); 13 July 1878 (Congress of Berlin recognizes Montenegrin independence); 28 August 1910 (Kingdom of Montenegro established)"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "13 July",
+				"note": "1878, the day the Berlin Congress recognized Montenegro as the 27th independent state in the world, and 1941, the day the Montenegrins staged an uprising against fascist occupiers and sided with the partisan communist movement"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 22 October 2007",
+			"amendments": "proposed by the president of Montenegro, by the government, or by at least 25 members of the Assembly; passage of draft proposals requires two-thirds majority vote of the Assembly, followed by a public hearing; passage of draft amendments requires two-thirds majority vote of the Assembly; changes to certain constitutional articles, such as sovereignty, state symbols, citizenship, and constitutional change procedures, require three-fifths majority vote in a referendum; amended 2013, 2014"
+		},
+		"legal_system": "civil law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Montenegro",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Milo DJUKANOVIC (since 20 May 2018)",
+			"head_of_government": "Prime Minister Dusko MARKOVIC (since 28 November 2016)",
+			"cabinet": "Ministers act as cabinet",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly",
+			"election_results": "Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 30 August 2020 (next to be held in 2024)",
+			"election_results": "percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court president proposed by general session of the Supreme Court and elected by the Judicial Council, a 9-member body consisting of judges, lawyers designated by the Assembly, and the minister of judicial affairs; Supreme Court president elected for a single renewable, 5-year term; other judges elected by the Judicial Council for life; Constitutional Court judges - 2 proposed by the president of Montenegro and 5 by the Assembly, and elected by the Assembly; court president elected from among the court members; court president elected for a 3-year term, other judges serve 9-year terms",
+			"subordinate_courts": "Administrative Courts; Appellate Court; Commercial Courts; High Courts; basic courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Albanian Alternative",
+					"name_alternative": "AA",
+					"leaders": [
+						"Nik DJELOSAJ"
+					]
+				},
+				{
+					"name": "Albanian Coalition ",
+					"note": "includes DP, DSCG, DUA"
+				},
+				{
+					"name": "Albanian Coalition Perspective",
+					"name_alternative": "AKP"
+				},
+				{
+					"name": "Albanian List ",
+					"note": "coalition includes AA, Forca, AKP, DSA"
+				},
+				{
+					"name": "Bosniak Party",
+					"name_alternative": "BS",
+					"leaders": [
+						"Rafet HUSOVIC"
+					]
+				},
+				{
+					"name": "Croatian Civic Initiative",
+					"name_alternative": "HGI",
+					"leaders": [
+						"Marija VUCINOVIC"
+					]
+				},
+				{
+					"name": "Croatian Reform Party",
+					"leaders": [
+						"Marija VUCINOVIC"
+					]
+				},
+				{
+					"name": "Democratic Alliance",
+					"name_alternative": "DEMOS",
+					"leaders": [
+						"Miodrag LEKIC"
+					]
+				},
+				{
+					"name": "Democratic Front",
+					"name_alternative": "DF",
+					"leaders": [
+						"collective leadership"
+					],
+					"note": "coalition includes NOVA, PZP, DNP, RP"
+				},
+				{
+					"name": "Democratic League in Montenegro",
+					"name_alternative": "DSCG",
+					"leaders": [
+						"Mehmet BARDHI"
+					]
+				},
+				{
+					"name": "Democratic League of Albanians",
+					"name_alternative": "DSA"
+				},
+				{
+					"name": "Democratic Montenegro",
+					"name_alternative": "DCG",
+					"leaders": [
+						"Alexsa BECIC"
+					]
+				},
+				{
+					"name": "Democratic Party",
+					"name_alternative": "DP",
+					"leaders": [
+						"Fatmir GJEKA"
+					]
+				},
+				{
+					"name": "Democratic Party of Socialists",
+					"name_alternative": "DPS",
+					"leaders": [
+						"Milo DJUKANOVIC"
+					]
+				},
+				{
+					"name": "Democratic Party of Unity",
+					"name_alternative": "DSJ",
+					"leaders": [
+						"Nebojsa JUSKOVIC"
+					]
+				},
+				{
+					"name": "Democratic People's Party",
+					"name_alternative": "DNP",
+					"leaders": [
+						"Milan KNEZEVIC"
+					]
+				},
+				{
+					"name": "Democratic Serb Party",
+					"name_alternative": "DSS",
+					"leaders": [
+						"Dragica PEROVIC"
+					]
+				},
+				{
+					"name": "Democratic Union of Albanians",
+					"name_alternative": "DUA",
+					"leaders": [
+						"Mehmet ZENKA"
+					]
+				},
+				{
+					"name": "For the Future of Montenegro",
+					"name_alternative": "ZBCG",
+					"leaders": [
+						"Zdravko KRIVOKAPIC"
+					],
+					"note": "electoral coalition includes SNP and 2 alliances - DF, NP"
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "LP",
+					"leaders": [
+						"Andrija POPOVIC"
+					]
+				},
+				{
+					"name": "Movement for Change",
+					"name_alternative": "PZP",
+					"leaders": [
+						"Nebojsa MEDOJEVIC"
+					]
+				},
+				{
+					"name": "New Democratic Power",
+					"name_alternative": "FORCA",
+					"leaders": [
+						"Nazif CUNGU"
+					]
+				},
+				{
+					"name": "New Serb Democracy",
+					"name_alternative": "NOVA",
+					"leaders": [
+						"Andrija MANDIC"
+					]
+				},
+				{
+					"name": "Party of Pensioners, Disabled, Restitution",
+					"name_alternative": "PUPI",
+					"leaders": [
+						"Momir JOKSIMOVIC"
+					]
+				},
+				{
+					"name": "Peace is Our Nation",
+					"name_alternative": "MNIM",
+					"leaders": [
+						"Alexa BECIC"
+					],
+					"note": "coalition includes Democrats, DEMOS, New Left, PUPI"
+				},
+				{
+					"name": "Popular Movement",
+					"name_alternative": "NP",
+					"leaders": [
+						"Miodrag DAVIDOVIC"
+					],
+					"note": "coalition includes DEMOS, RP, UCG, several minor parties"
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "SDP",
+					"leaders": [
+						"Ranko KRIVOKAPIC"
+					]
+				},
+				{
+					"name": "Social Democrats",
+					"name_alternative": "SD",
+					"leaders": [
+						"Ivan BRAJOVIC"
+					]
+				},
+				{
+					"name": "Socialist People's Party",
+					"name_alternative": "SNP",
+					"leaders": [
+						"Vladimir JOKOVIC"
+					]
+				},
+				{
+					"name": "True Montenegro",
+					"name_alternative": "PRAVA",
+					"leaders": [
+						"Marko MILACIC"
+					]
+				},
+				{
+					"name": "United Montenegro",
+					"name_alternative": "UCG",
+					"leaders": [
+						"Goran DANILOVIC"
+					],
+					"note": "split from DEMOS"
+				},
+				{
+					"name": "United Reform Action",
+					"name_alternative": "URA",
+					"leaders": [
+						"Dritan ABAZOVIC"
+					]
+				},
+				{
+					"name": "Workers' Party",
+					"name_alternative": "RP",
+					"leaders": [
+						"Janko VUCINIC"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Nebojsa KALUDEROVIC (since 18 January 2017)",
+				"chancery": "1610 New Hampshire Avenue NW, Washington, DC, 20009",
+				"telephone": "[1] (202) 234-6108",
+				"fax": "[1] (202) 234-6109",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Judy Rising REINKE (since 20 December 2018)",
+				"telephone": "+382 (0)20 410 500",
+				"embassy": "Dzona Dzeksona 2, 81000 Podgorica",
+				"mailing_address": "use embassy street address",
+				"fax": "[382]  20-241-358"
+			}
+		},
+		"flag_description": {
+			"description": "a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is a symbol of episcopal authority and harkens back to the three and a half centuries when Montenegro was ruled as a theocracy"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "double-headed eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "gold"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Oj, svijetla majska zoro\" (Oh, Bright Dawn of May)",
+			"lyrics_music": "Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC",
+			"note": "adopted 2004; music based on a Montenegrin folk song",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MJ.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.\nMontenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.\nThe government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.\nMontenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 11080000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10630000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 10320000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 160,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 4784000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.3,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.9,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 67
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 17800,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 17100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 100,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 76.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 2.9,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 40.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -63,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 7.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 15.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 76.6,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 9.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 9.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 144
+		},
+		"agriculture_products": {
+			"products": [
+				"tobacco",
+				"potatoes",
+				"citrus fruits",
+				"olives",
+				"related products",
+				"grapes",
+				"sheep",
+				"wine"
+			]
+		},
+		"industries": {
+			"industries": [
+				"steelmaking",
+				"aluminum",
+				"agricultural processing",
+				"consumer goods",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -4.2,
+			"global_rank": 194,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 167000,
+				"global_rank": 174,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 7.9,
+						"units": "%"
+					},
+					"industry": {
+						"value": 17.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 75,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 15.82,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 18.8,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 177
+		},
+		"population_below_poverty_line": {
+			"value": 8.6,
+			"units": "%",
+			"date": "2013"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.7,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1780000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2049999999.9999998,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 37.2,
+			"global_rank": 55,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -5.6,
+			"global_rank": 175,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 67.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 66.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 55,
+			"note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 120
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -780000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -710000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 137
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 422200000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 362000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 180
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2618000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2290000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 154
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1077000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 846500000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 131
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 2516000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2224000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 148
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 3045000000,
+				"global_rank": 132,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2808000000,
+				"global_rank": 138,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 914000000,
+				"global_rank": 59,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1210000000,
+				"global_rank": 65,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 890000,
+				"global_rank": 133,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 23,
+					"global_rank": 192,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 146,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 69,
+					"global_rank": 18,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 8,
+					"global_rank": 88,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 176,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 167,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 169,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 171,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 180,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 6000,
+				"global_rank": 172,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 357,
+				"global_rank": 114,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 6448,
+				"global_rank": 163,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 173,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 177,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 154,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 159,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 172,
+				"date": "2016"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2287000,
+			"global_rank": 156,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 183387,
+				"subscriptions_per_one_hundred_inhabitants": 29.96,
+				"global_rank": 124,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1121870,
+				"subscriptions_per_one_hundred_inhabitants": 183.28,
+				"global_rank": 160,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1 satellite TV channel, and 2 radio networks; 4 local public TV stations and 14 private TV stations; 14 local public radio stations, 35 private radio stations, and several on-line media (2019)",
+		"internet": {
+			"country_code": ".me",
+			"users": {
+				"total": 439311,
+				"percent_of_population": 71.52,
+				"global_rank": 155,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 4,
+				"annual_passenger_traffic_on_registered_air_carriers": 565522,
+				"annual_freight_traffic_on_registered_air_carriers": 130000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "4O",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 5,
+					"global_rank": 182,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 5,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2012"
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 250,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 250,
+				"electrified": 224,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 125,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 7762,
+				"units": "km"
+			},
+			"paved": {
+				"value": 7141,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 621,
+				"units": "km"
+			},
+			"global_rank": 139,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 12,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 4
+				},
+				{
+					"type": "other",
+					"count": 8
+				}
+			],
+			"global_rank": 150,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Bar"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.66,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.39,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.35,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.42,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 68
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for voluntary military service; no conscription",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Kosovo ratified the border demarcation agreement with Montenegro in March 2018, but the actual demarcation has not been completed"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 142,
+				"date": "2019"
+			},
+			"note": "17,051 estimated refugee and migrant arrivals (January 2015-November 2020)"
+		}
+	}
+}

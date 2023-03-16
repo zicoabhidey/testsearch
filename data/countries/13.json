@@ -1,0 +1,1757 @@
+{
+	"name": "Armenia",
+	"introduction": {
+		"background": "Armenia prides itself on being the first nation to formally adopt Christianity (early 4th century). Despite periods of autonomy, over the centuries Armenia came under the sway of various empires including the Roman, Byzantine, Arab, Persian, and Ottoman. During World War I in the western portion of Armenia, the Ottoman Empire instituted a policy of forced resettlement coupled with other harsh practices that resulted in at least 1 million Armenian deaths. The eastern area of Armenia was ceded by the Ottomans to Russia in 1828; this portion declared its independence in 1918, but was conquered by the Soviet Red Army in 1920.\nArmenia remains involved in the protracted Nagorno-Karabakh conflict with Azerbaijan. Nagorno-Karabakh was a primarily ethnic Armenian region that Moscow recognized in 1923 as an autonomous oblast within Soviet Azerbaijan. In the late Soviet period, a separatist movement developed which sought to end Azerbaijani control over the region. Fighting over Nagorno-Karabakh began in 1988 and escalated after Armenia and Azerbaijan attained independence from the Soviet Union in 1991. By the time a ceasefire took effect in May 1994, separatists, with Armenian support, controlled Nagorno‑Karabakh and seven surrounding Azerbaijani territories. The 1994 ceasefire continues to hold, although violence continues along the line of contact separating the opposing forces, as well as the Armenia-Azerbaijan international border. The final status of Nagorno-Karabakh remains the subject of international mediation by the Organization for Security and Cooperation in Europe (OSCE) Minsk Group, which works to help the sides settle the conflict peacefully. The OSCE Minsk Group is co‑chaired by the US, France, and Russia.\nTurkey closed the common border with Armenia in 1993 in support of Azerbaijan in its conflict with Armenia over control of Nagorno-Karabakh and surrounding areas, further hampering Armenian economic growth. In 2009, Armenia and Turkey signed Protocols normalizing relations between the two countries, but neither country ratified the Protocols, and Armenia officially withdrew from the Protocols in March 2018. In 2015, Armenia joined the Eurasian Economic Union alongside Russia, Belarus, Kazakhstan, and Kyrgyzstan. In November 2017, Armenia signed a Comprehensive and Enhanced Partnership Agreement (CEPA) with the EU. In spring 2018, Serzh SARGSIAN of the Republican Party of Armenia (RPA) stepped down and Civil Contract party leader Nikol PASHINYAN became prime minister."
+	},
+	"geography": {
+		"location": "Southwestern Asia, between Turkey (to the west) and Azerbaijan; note - Armenia views itself as part of Europe; geopolitically, it can be classified as falling within Europe, the Middle East, or both",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 40,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 45,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 29743,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 28203,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1540,
+				"units": "sq km"
+			},
+			"global_rank": 143,
+			"comparative": "slightly smaller than Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1570,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Azerbaijan",
+					"border_length": {
+						"value": 996,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Georgia",
+					"border_length": {
+						"value": 219,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Iran",
+					"border_length": {
+						"value": 44,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Turkey",
+					"border_length": {
+						"value": 311,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "highland continental, hot summers, cold winters",
+		"terrain": "Armenian Highland with mountains; little forest land; fast flowing rivers; good soil in Aras River valley",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1792,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Debed River",
+				"elevation": {
+					"value": 400,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Aragats Lerrnagagat'",
+				"elevation": {
+					"value": 4090,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"gold",
+				"copper",
+				"molybdenum",
+				"zinc",
+				"bauxite"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 59.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 15.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 42,
+					"units": "%"
+				},
+				"forest": {
+					"value": 9.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 31.2,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 2740,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country",
+		"natural_hazards": [
+			{
+				"description": "occasionally severe earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil pollution from toxic chemicals such as DDT",
+				"deforestation",
+				"pollution of Hrazdan and Aras Rivers",
+				"the draining of Sevana Lich (Lake Sevan)",
+				"a result of its use as a source for hydropower",
+				"threatens drinking water supplies",
+				"restart of Metsamor nuclear power plant in spite of its location in a seismically active zone"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Persistent Organic Pollutants"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 3021324,
+			"global_rank": 137,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Armenian(s)",
+			"adjective": "Armenian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Armenian",
+					"percent": 98.1
+				},
+				{
+					"name": "Yezidi",
+					"percent": 1.2,
+					"note": "Kurd"
+				},
+				{
+					"name": "other",
+					"percent": 0.7
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Armenian",
+					"percent": 97.9,
+					"note": "official"
+				},
+				{
+					"name": "Kurdish",
+					"percent": 1,
+					"note": "spoken by Yezidi minority"
+				},
+				{
+					"name": "other",
+					"percent": 1
+				}
+			],
+			"note": "Russian is widely spoken",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Armenian Apostolic",
+					"percent": 92.6
+				},
+				{
+					"name": "Evangelical",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 2.4
+				},
+				{
+					"name": "none",
+					"percent": 1.1
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.9
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.64,
+				"males": 297320,
+				"females": 265969
+			},
+			"15_to_24": {
+				"percent": 11.63,
+				"males": 184258,
+				"females": 167197
+			},
+			"25_to_54": {
+				"percent": 43.04,
+				"males": 639101,
+				"females": 661421
+			},
+			"55_to_64": {
+				"percent": 14.08,
+				"males": 195754,
+				"females": 229580
+			},
+			"65_and_over": {
+				"percent": 12.6,
+				"males": 154117,
+				"females": 226607
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 48.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 30.9,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 17.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 5.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 36.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 35.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 38.3,
+				"units": "years"
+			},
+			"global_rank": 78,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.3,
+			"global_rank": 218,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.9,
+			"global_rank": 163,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.5,
+			"global_rank": 44,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -5.5,
+			"global_rank": 201,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country",
+		"urbanization": {
+			"urban_population": {
+				"value": 63.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.22,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Yerevan",
+					"population": 1086000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.12,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.68,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 24.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 26,
+			"global_rank": 119,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 112,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"global_rank": 111,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.65,
+			"global_rank": 180,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 57.1,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 4.4,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.2,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 84.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 93.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 15.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 6.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 116,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 3500,
+				"global_rank": 128,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.2,
+			"global_rank": 101,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 2.6,
+			"global_rank": 105,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.7,
+			"global_rank": 150,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 36.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 29.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 45.7,
+				"units": "%"
+			},
+			"global_rank": 17,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Armenia",
+			"conventional_short_form": "Armenia",
+			"local_long_form": "Hayastani Hanrapetut'yun",
+			"local_short_form": "Hayastan",
+			"former": "Armenian Soviet Socialist Republic, Armenian Republic",
+			"etymology": "the etymology of the country's name remains obscure; according to tradition, the country is named after Hayk, the legendary patriarch of the Armenians and the great-great-grandson of Noah; Hayk's descendant, Aram, purportedly is the source of the name Armenia"
+		},
+		"government_type": "parliamentary democracy; note - constitutional changes adopted in December 2015 transformed the government to a parliamentary system",
+		"capital": {
+			"name": "Yerevan",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 40,
+					"minutes": 10,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 44,
+					"minutes": 30,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 4,
+				"note": "9 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name likely derives from the ancient Urartian fortress of Erebuni established on the current site of Yerevan in 782 B.C. and whose impresive ruins still survive"
+		},
+		"independence": {
+			"date": "1991-09-21",
+			"note": "from the Soviet Union; notable earlier dates: 321 B.C. (Kingdom of Armenia established under the Orontid Dynasty), A.D. 884 (Armenian Kingdom reestablished under the Bagratid Dynasty); 1198 (Cilician Kingdom established); 28 May 1918 (Democratic Republic of Armenia declared)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "21 September",
+				"original_year": "1991"
+			}
+		],
+		"constitution": {
+			"history": "previous 1915, 1978; latest adopted 5 July 1995",
+			"amendments": "proposed by the president of the republic or by the National Assembly; passage requires approval by the president, by the National Assembly, and by a referendum with at least 25% registered voter participation and more than 50% of votes; constitutional articles on the form of government and democratic procedures are not amendable; amended 2005, 2007, 2008, 2015",
+			"note": "a constitutional referendum scheduled for 4 May 2020 has been postponed due to the COVID-19 pandemic"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Armenia",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "3 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Armen SARKISSIAN (since 9 April 2018)",
+			"head_of_government": "Prime Minister Nikol PASHINYAN (since 8 May 2018); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019)",
+			"cabinet": "Council of Ministers appointed by the prime minister",
+			"elections_appointments": "president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held on 14 January 2019",
+			"election_results": "Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10; Nikol PASHINYAN was chosen as prime minister by the parliament automatically after his party won a landslide victory in the December 2018 elections",
+			"note": "After initially winning election on 8 May 2018, Nikol PASHINYAN resigned his post (but stayed on as acting prime minister) on 16 October 2018 to force a snap election (held on 9 December 2018) in which his bloc won more than 70% of the vote; PASHINYAN was reappointed prime minister on 14 January 2019"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, currently 132; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)",
+			"elections": "last held on 9 December 2018 (next elections to be held December 2023)",
+			"election_results": "percent of vote by party - My Step Alliance 70.4%, BHK 8.3%, Bright Armenia 6.4%, RPA 4.7%, ARF 3.9%, other 6.3%; seats by party - My Step Alliance 88, BHK 26, Bright Armenia 18; composition - men 112, women 20, percent of women 15.2%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges – with both civil and administrative specializations); Constitutional Court (consists of 9 judges)",
+			"judge_selection_and_term_of_office": "Court of Cassation judges nominated by the Supreme Judicial Council, a 10-member body of selected judges and legal scholars; judges appointed by the president; judges can serve until age 65; Constitutional Court judges - 4 appointed by the president, and 5 elected by the National Assembly; judges can serve until age 70",
+			"subordinate_courts": "criminal and civil appellate courts; administrative appellate court; first instance courts; specialized administrative and bankruptcy courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Armenian National Congress",
+					"name_alternative": "ANC",
+					"leaders": [
+						"Levon TER-PETROSSIAN"
+					],
+					"note": "bloc of independent and opposition parties"
+				},
+				{
+					"name": "Armenian Revolutionary Federation",
+					"name_alternative": "ARF",
+					"leaders": [
+						"Hakob TER-KHACHATURYAN"
+					],
+					"note": "\"Dashnak\" Party"
+				},
+				{
+					"name": "Bright Armenia",
+					"leaders": [
+						"Edmon MARUKYAN"
+					]
+				},
+				{
+					"name": "Citizen's Decision",
+					"leaders": [
+						"Suren SAHAKYAN"
+					]
+				},
+				{
+					"name": "Civil Contract",
+					"leaders": [
+						"Nikol PASHINYAN"
+					]
+				},
+				{
+					"name": "Free Democrats",
+					"leaders": [
+						"Khachatur KOKOBELYAN"
+					]
+				},
+				{
+					"name": "Heritage Party",
+					"leaders": [
+						"Raffi HOVANNISIAN"
+					]
+				},
+				{
+					"name": "Prosperous Armenia",
+					"name_alternative": "BHK",
+					"leaders": [
+						"Gagik TSARUKYAN"
+					]
+				},
+				{
+					"name": "Republic",
+					"leaders": [
+						"Aram SARGSYAN"
+					]
+				},
+				{
+					"name": "Republican Party of Armenia",
+					"name_alternative": "RPA",
+					"leaders": [
+						"Serzh SARGSIAN"
+					]
+				},
+				{
+					"name": "Rule of Law Party",
+					"name_alternative": "OEK",
+					"leaders": [
+						"Artur BAGHDASARIAN"
+					],
+					"note": "Orinats Yerkir"
+				},
+				{
+					"name": "Sasna Tser",
+					"leaders": [
+						"Varuzhan AVETISYAN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "BSEC"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CIS"
+			},
+			{
+				"organization": "CSTO"
+			},
+			{
+				"organization": "EAEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "EAEU"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "GCTU"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Varuzhan NERSESSYAN (since 11 January 2019)",
+				"chancery": "2225 R Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 319-1976",
+				"fax": "[1] (202) 319-2982",
+				"consulates_general": "Glendale (CA)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Lynne M. TRACEY (since 5 March 2019)",
+				"telephone": "[374](10) 464-700",
+				"embassy": "1 American Ave., Yerevan 0082",
+				"mailing_address": "American Embassy Yerevan, US Department of State, 7020 Yerevan Place, Washington, DC 20521-7020",
+				"fax": "[374](10) 464-742"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), blue, and orange; the color red recalls the blood shed for liberty, blue the Armenian skies as well as hope, and orange the land and the courage of the workers who farm it"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Mount Ararat"
+				},
+				{
+					"symbol": "eagle"
+				},
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "orange"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Mer Hayrenik\" (Our Fatherland)",
+			"lyrics_music": "Mikael NALBANDIAN/Barsegh KANACHYAN",
+			"note": "adopted 1991; based on the anthem of the Democratic Republic of Armenia (1918-1922) but with different lyrics",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AM.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.\nArmenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.\nArmenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 28340000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 26370000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 26300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 136,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 11540000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 0.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.3,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 12
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 9500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 142,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 76.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 4.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 38.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -50.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 16.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 54.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 17.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 16.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 18.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 112
+		},
+		"agriculture_products": {
+			"products": [
+				"fruit",
+				"grapes",
+				"apricots",
+				"vegetables",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"brandy",
+				"mining",
+				"diamond processing",
+				"metal-cutting machine tools",
+				"forging",
+				"pressing machines",
+				"electric motors",
+				"knitted wear",
+				"hosiery",
+				"shoes",
+				"silk fabric",
+				"chemicals",
+				"trucks",
+				"instruments",
+				"microelectronics",
+				"jewelry",
+				"software",
+				"food processing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.4,
+			"global_rank": 51,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1507000,
+				"global_rank": 128,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 36.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 17,
+						"units": "%"
+					},
+					"services": {
+						"value": 46.7,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 18.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 18.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 185
+		},
+		"population_below_poverty_line": {
+			"value": 32,
+			"units": "%",
+			"date": "2013"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.7,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 2644000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 3192000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 22.9,
+			"global_rank": 130,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.8,
+			"global_rank": 167,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 53.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 51.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 89
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 44
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -328000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -238000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 111
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2361000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1891000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 134
+			},
+			"commodities": {
+				"by_commodity": [
+					"unwrought copper",
+					"pig iron",
+					"nonferrous metals",
+					"gold",
+					"diamonds",
+					"mineral products",
+					"foodstuffs",
+					"brandy",
+					"cigarettes",
+					"energy"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 24.2
+					},
+					{
+						"name": "Bulgaria",
+						"percent": 12.8
+					},
+					{
+						"name": "Switzerland",
+						"percent": 12
+					},
+					{
+						"name": "Georgia",
+						"percent": 6.9
+					},
+					{
+						"name": "Germany",
+						"percent": 5.9
+					},
+					{
+						"name": "China",
+						"percent": 5.5
+					},
+					{
+						"name": "Iraq",
+						"percent": 5.4
+					},
+					{
+						"name": "UAE",
+						"percent": 4.6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3771000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2835000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 141
+			},
+			"commodities": {
+				"by_commodity": [
+					"natural gas",
+					"petroleum",
+					"tobacco products",
+					"foodstuffs",
+					"diamonds",
+					"pharmaceuticals",
+					"cars"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 28
+					},
+					{
+						"name": "China",
+						"percent": 11.5
+					},
+					{
+						"name": "Turkey",
+						"percent": 5.5
+					},
+					{
+						"name": "Germany",
+						"percent": 4.9
+					},
+					{
+						"name": "Iran",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2314000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2204000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 119
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 10410000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 8987000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 113
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 487.9,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 480.49,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 480.49,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 477.92,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 415.92,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "drams (AMD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 6951000000,
+				"global_rank": 112,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 5291000000,
+				"global_rank": 121,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1424000000,
+				"global_rank": 50,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 275000000,
+				"global_rank": 90,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 4080000,
+				"global_rank": 86,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 58,
+					"global_rank": 134,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 9,
+					"global_rank": 15,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 32,
+					"global_rank": 65,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 173,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 106,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 86,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 90,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 103,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 114,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 8000,
+				"global_rank": 162,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 126,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 7145,
+				"global_rank": 158,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 100,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2350000000,
+				"global_rank": 80,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 62,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 2350000000,
+				"global_rank": 48,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 106,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 5501000,
+			"global_rank": 131,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 462725,
+				"subscriptions_per_one_hundred_inhabitants": 15.27,
+				"global_rank": 97,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 3707557,
+				"subscriptions_per_one_hundred_inhabitants": 122.35,
+				"global_rank": 134,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Armenia’s government-run Public Television network operates alongside 100 privately owned TV stations that provide local to near nationwide coverage; three Russian TV companies are broadcast in Armenia under interstate agreements; subscription cable TV services are available in most regions; several major international broadcasters are available, including CNN; Armenian TV completed conversion from analog to digital broadcasting in late 2016; Public Radio of Armenia is a national, state-run broadcast network that operates alongside 18 privately owned radio stations (2019)",
+		"internet": {
+			"country_code": ".am",
+			"users": {
+				"total": 1966942,
+				"percent_of_population": 64.74,
+				"global_rank": 122,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 5,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "EK",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 7,
+					"global_rank": 165,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 10,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 1,
+					"914_to_1523_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas (high and medium pressure)",
+					"length": 3838,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 780,
+				"units": "km"
+			},
+			"broad_gauge": {
+				"length": 780,
+				"electrified": 780,
+				"units": "km\n1.520-m",
+				"gauge": "gauge"
+			},
+			"note": {
+				"length": 726,
+				"units": "km"
+			},
+			"global_rank": 98,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 7700,
+				"units": "km"
+			},
+			"urban": {
+				"value": 3780,
+				"units": "km"
+			},
+			"non_urban": {
+				"value": 3920,
+				"units": "km"
+			},
+			"global_rank": 140,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 4.9,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 4.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 4.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 4.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 7
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17 year olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability",
+			"residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan",
+			"Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley",
+			"in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered",
+			"local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders",
+			"ethnic Armenian groups in the Javakheti region of Georgia seek greater autonomy from the Georgian Government"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 14730,
+						"country_of_origin": "Syria - ethnic Armenians"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 961,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "illicit cultivation of small amount of cannabis for domestic consumption; minor transit point for illicit drugs - mostly opium and hashish - moving from Southwest Asia to Russia and to a lesser extent the rest of Europe"
+		}
+	}
+}

@@ -1,0 +1,2091 @@
+{
+	"name": "Australia",
+	"introduction": {
+		"background": "Prehistoric settlers arrived on the continent from Southeast Asia at least 40,000 years before the first Europeans began exploration in the 17th century. No formal territorial claims were made until 1770, when Capt. James COOK took possession of the east coast in the name of Great Britain (all of Australia was claimed as British territory in 1829 with the creation of the colony of Western Australia). Six colonies were created in the late 18th and 19th centuries; they federated and became the Commonwealth of Australia in 1901. The new country took advantage of its natural resources to rapidly develop agricultural and manufacturing industries and to make a major contribution to the Allied effort in World Wars I and II.\nIn recent decades, Australia has become an internationally competitive, advanced market economy due in large part to economic reforms adopted in the 1980s and its location in one of the fastest growing regions of the world economy. Long-term concerns include an aging population, pressure on infrastructure, and environmental issues such as floods, droughts, and bushfires. Australia is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change. Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world."
+	},
+	"geography": {
+		"location": "Oceania, continent between the Indian Ocean and the South Pacific Ocean",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 27,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 133,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 7741220,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 7682300,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 58920,
+				"units": "sq km"
+			},
+			"note": "includes Lord Howe Island and Macquarie Island",
+			"global_rank": 7,
+			"comparative": "slightly smaller than the US contiguous 48 states"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 25760,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "generally arid to semiarid; temperate in south and east; tropical in north",
+		"terrain": "mostly low plateau with deserts; fertile plain in southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 330,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Lake Eyre",
+				"elevation": {
+					"value": -15,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Kosciuszko",
+				"elevation": {
+					"value": 2228,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"alumina",
+				"coal",
+				"iron ore",
+				"copper",
+				"tin",
+				"gold",
+				"silver",
+				"uranium",
+				"nickel",
+				"tungsten",
+				"rare earth elements",
+				"mineral sands",
+				"lead",
+				"zinc",
+				"diamonds",
+				"natural gas",
+				"petroleum; note - Australia is the world's largest net exporter of coal accounting for 29% of global coal exports"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 52.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 11.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.09,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 88.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 16.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 30.9,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 25460,
+			"units": "sq km",
+			"date": "2014"
+		},
+		"population_distribution": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population",
+		"natural_hazards": [
+			{
+				"description": "cyclones along the coast",
+				"type": "hazard"
+			},
+			{
+				"description": "severe droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "forest fires",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity on Heard and McDonald Islands",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil erosion from overgrazing",
+				"deforestation",
+				"industrial development",
+				"urbanization",
+				"and poor farming practices",
+				"limited natural freshwater resources",
+				"soil salinity rising due to the use of poor quality water",
+				"drought",
+				"desertification",
+				"clearing for agricultural purposes threatens the natural habitat of many unique animal and plant species",
+				"disruption of the fragile ecosystem has resulted in significant floral extinctions",
+				"the Great Barrier Reef off the northeast coast",
+				"the largest coral reef in the world",
+				"is threatened by increased shipping and its popularity as a tourist site",
+				"overfishing",
+				"pollution",
+				"and invasive species are also problems"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 25466459,
+			"global_rank": 55,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Australian(s)",
+			"adjective": "Australian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "English",
+					"percent": 25.9
+				},
+				{
+					"name": "Australian",
+					"percent": 25.4
+				},
+				{
+					"name": "Irish",
+					"percent": 7.5
+				},
+				{
+					"name": "Scottish",
+					"percent": 6.4
+				},
+				{
+					"name": "Italian",
+					"percent": 3.3
+				},
+				{
+					"name": "German",
+					"percent": 3.2
+				},
+				{
+					"name": "Chinese",
+					"percent": 3.1
+				},
+				{
+					"name": "Indian",
+					"percent": 1.4
+				},
+				{
+					"name": "Greek",
+					"percent": 1.4
+				},
+				{
+					"name": "Dutch",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 15.8,
+					"breakdown": [
+						{
+							"name": "includes Australian aboriginal .5%"
+						}
+					]
+				},
+				{
+					"name": "unspecified",
+					"percent": 5.4
+				}
+			],
+			"note": "data represent self-identified ancestry, over a third of respondents reported two ancestries",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 72.7
+				},
+				{
+					"name": "Mandarin",
+					"percent": 2.5
+				},
+				{
+					"name": "Arabic",
+					"percent": 1.4
+				},
+				{
+					"name": "Cantonese",
+					"percent": 1.2
+				},
+				{
+					"name": "Vietnamese",
+					"percent": 1.2
+				},
+				{
+					"name": "Italian",
+					"percent": 1.2
+				},
+				{
+					"name": "Greek",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 14.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 6.5
+				}
+			],
+			"note": "data represent language spoken at home",
+			"date": "2016"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 23.1,
+					"breakdown": [
+						{
+							"name": "Anglican",
+							"percent": 13.3
+						},
+						{
+							"name": "Uniting Church",
+							"percent": 3.7
+						},
+						{
+							"name": "Presbyterian and Reformed",
+							"percent": 2.3
+						},
+						{
+							"name": "Baptist",
+							"percent": 1.5
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 1.1
+						},
+						{
+							"name": "Lutheran .7%"
+						},
+						{
+							"name": "other Protestant .5%"
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 22.6
+				},
+				{
+					"name": "other Christian",
+					"percent": 4.2
+				},
+				{
+					"name": "Muslim",
+					"percent": 2.6
+				},
+				{
+					"name": "Buddhist",
+					"percent": 2.4
+				},
+				{
+					"name": "Orthodox",
+					"percent": 2.3,
+					"breakdown": [
+						{
+							"name": "Eastern Orthodox",
+							"percent": 2.1
+						},
+						{
+							"name": "Oriental Orthodox .2%"
+						}
+					]
+				},
+				{
+					"name": "Hindu",
+					"percent": 1.9
+				},
+				{
+					"name": "other",
+					"percent": 1.3
+				},
+				{
+					"name": "none",
+					"percent": 30.1
+				},
+				{
+					"name": "unspecified",
+					"percent": 9.6
+				}
+			],
+			"date": "2016"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.72,
+				"males": 2457418,
+				"females": 2309706
+			},
+			"15_to_24": {
+				"percent": 12.89,
+				"males": 1710253,
+				"females": 1572794
+			},
+			"25_to_54": {
+				"percent": 41.15,
+				"males": 5224840,
+				"females": 5255041
+			},
+			"55_to_64": {
+				"percent": 11.35,
+				"males": 1395844,
+				"females": 1495806
+			},
+			"65_and_over": {
+				"percent": 15.88,
+				"males": 1866761,
+				"females": 2177996
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 29.9,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 25.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 37.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 36.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 38.5,
+				"units": "years"
+			},
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.4,
+			"global_rank": 79,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.4,
+			"global_rank": 156,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.9,
+			"global_rank": 128,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 8.1,
+			"global_rank": 11,
+			"date": "2020"
+		},
+		"population_distribution": "population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or \"outback\", has a very sparse population",
+		"urbanization": {
+			"urban_population": {
+				"value": 86.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.43,
+				"units": "%"
+			},
+			"note": "data include Christmas Island, Cocos Islands, and Norfolk Island",
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Melbourne",
+					"population": 4968000
+				},
+				{
+					"place": "Sydney",
+					"population": 4926000
+				},
+				{
+					"place": "Brisbane",
+					"population": 2406000
+				},
+				{
+					"place": "Perth",
+					"population": 2041999.9999999998
+				},
+				{
+					"place": "Adelaide",
+					"population": 1336000
+				},
+				{
+					"place": "Canberra",
+					"population": 457000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.86,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 28.7,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 6,
+			"global_rank": 159,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 214,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 80.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 85,
+				"units": "years"
+			},
+			"global_rank": 14,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.74,
+			"global_rank": 162,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 66.9,
+			"units": "%",
+			"note": "percent of women aged 18-45",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.68,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.8,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 117,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 29000,
+				"global_rank": 76,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 29,
+			"global_rank": 27,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.3,
+			"global_rank": 45,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 21,
+				"units": "years"
+			},
+			"male": {
+				"value": 20,
+				"units": "years"
+			},
+			"female": {
+				"value": 21,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 11.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 112.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 10.7,
+				"units": "%"
+			},
+			"global_rank": 110,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Commonwealth of Australia",
+			"conventional_short_form": "Australia",
+			"etymology": "the name Australia derives from the Latin \"australis\" meaning \"southern\"; the Australian landmass was long referred to as \"Terra Australis\" or the Southern Land"
+		},
+		"government_type": "federal parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Canberra",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 35,
+					"minutes": 16,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 149,
+					"minutes": 8,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 10,
+				"note": "15 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins first Sunday in October; ends first Sunday in April",
+			"note": "Australia has four time zones, including Lord Howe Island (UTC+10:30)",
+			"etymolgy": "the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area \"Nganbra\" or \"Nganbira\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "Australian Capital Territory",
+				"type": ""
+			},
+			{
+				"name": "New South Wales",
+				"type": ""
+			},
+			{
+				"name": "Northern Territory",
+				"type": ""
+			},
+			{
+				"name": "Queensland",
+				"type": ""
+			},
+			{
+				"name": "South Australia",
+				"type": ""
+			},
+			{
+				"name": "Tasmania",
+				"type": ""
+			},
+			{
+				"name": "Victoria",
+				"type": ""
+			},
+			{
+				"name": "Western Australia",
+				"type": ""
+			}
+		],
+		"dependent_areas": {
+			"areas": [
+				"Ashmore and Cartier Islands",
+				"Christmas Island",
+				"Cocos (Keeling) Islands",
+				"Coral Sea Islands",
+				"Heard Island and McDonald Islands",
+				"Norfolk Island"
+			]
+		},
+		"independence": {
+			"date": "1901-01-01",
+			"note": "from the federation of UK colonies"
+		},
+		"national_holidays": [
+			{
+				"name": "Australia Day",
+				"day": "26 January",
+				"original_year": "1788",
+				"note": "commemorates the arrival of the First Fleet of Australian settlers"
+			},
+			{
+				"name": "ANZAC Day",
+				"day": "25 April",
+				"original_year": "1915",
+				"note": "commemorates the anniversary of the landing of troops of the Australian and New Zealand Army Corps during World War I at Gallipoli, Turkey"
+			}
+		],
+		"constitution": {
+			"history": "approved in a series of referenda from 1898 through 1900 and became law 9 July 1900, effective 1 January 1901",
+			"amendments": "proposed by Parliament; passage requires approval of a referendum bill by absolute majority vote in both houses of Parliament, approval in a referendum by a majority of voters in at least four states and in the territories, and Royal Assent; proposals that would reduce a state’s representation in either house or change a state’s boundaries require that state’s approval prior to Royal Assent; amended several times, last in 1977"
+		},
+		"legal_system": "common law system based on the English model",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen or permanent resident of Australia",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "4 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General David HURLEY (since 1 July 2019)",
+			"head_of_government": "Prime Minister Scott MORRISON (since 24 August 2018)",
+			"cabinet": "Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general"
+		},
+		"legislative_branch": {
+			"description": "bicameral Federal Parliament consists of: Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)\nHouse of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)",
+			"elections": "Senate - last held on 18 May 2019 (next to be held in 2022)\nHouse of Representatives - last held on 18 May 2019 (next to be held in 2022)",
+			"election_results": "Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1\nHouse of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3"
+		},
+		"judicial_branch": {
+			"highest_courts": "High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts",
+			"judge_selection_and_term_of_office": "justices appointed by the governor-general in council for life with mandatory retirement at age 70",
+			"subordinate_courts": "at the federal level: Federal Court; Federal Magistrates' Courts of Australia; Family Court; at the state and territory level: Local Court - New South Wales; Magistrates' Courts – Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory, Australian Capital Territory; District Courts – New South Wales, Queensland, South Australia, Western Australia; County Court – Victoria; Family Court – Western Australia; Court of Petty Sessions – Norfolk Island"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Australian Greens Party",
+					"leaders": [
+						"Adam BANDT"
+					]
+				},
+				{
+					"name": "Australian Labor Party",
+					"name_alternative": "ALP",
+					"leaders": [
+						"Anthony ALBANESE"
+					]
+				},
+				{
+					"name": "Country Liberal Party",
+					"name_alternative": "CLP",
+					"leaders": [
+						"Gary HIGGINS"
+					]
+				},
+				{
+					"name": "Liberal National Party of Queensland",
+					"name_alternative": "LNP",
+					"leaders": [
+						"Deborah FRECKLINGTON"
+					]
+				},
+				{
+					"name": "Liberal Party of Australia",
+					"leaders": [
+						"Scott MORRISON"
+					]
+				},
+				{
+					"name": "The Nationals",
+					"leaders": [
+						"Michael MCCORMACK"
+					]
+				},
+				{
+					"name": "Centre Alliance",
+					"leaders": [
+						"Nick XENOPHON"
+					]
+				},
+				{
+					"name": "Pauline Hanson’s One Nation",
+					"leaders": [
+						"Pauline HANSON"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "ANZUS"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "dialogue partner"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE ",
+				"note": "partner"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "SAARC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNMIT"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Arthur SINODINOS (since 6 February 2020)",
+				"chancery": "1601 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 797-3000",
+				"fax": "[1] (202) 797-3168",
+				"consulates_general": "Atlanta, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Arthur B. CULVAHOUSE (since 19 February 2019)",
+				"telephone": "[61] (02) 6214-5600",
+				"embassy": "Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600",
+				"mailing_address": "APO AP 96549",
+				"fax": "[61] (02) 6214-5970",
+				"consulates_general": "Melbourne, Perth, Sydney"
+			}
+		},
+		"flag_description": {
+			"description": "blue with the flag of the UK in the upper hoist-side quadrant and a large seven-pointed star in the lower hoist-side quadrant known as the Commonwealth or Federation Star, representing the federation of the colonies of Australia in 1901; the star depicts one point for each of the six original states and one representing all of Australia's internal and external territories; on the fly half is a representation of the Southern Cross constellation in white with one small, five-pointed star and four larger, seven-pointed stars"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Commonwealth Star ",
+					"note": "seven-pointed Star of Federation"
+				},
+				{
+					"symbol": "golden wattle tree ",
+					"note": "Acacia pycnantha Benth"
+				},
+				{
+					"symbol": "kangaroo"
+				},
+				{
+					"symbol": "emu"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "gold"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Advance Australia Fair",
+			"lyrics_music": "Peter Dodds McCORMICK",
+			"note": "adopted 1984; although originally written in the late 19th century, the anthem was not used for all official occasions until 1984; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AS.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.\nAustralia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.\nFor nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1248000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1221000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1190000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 19,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1380000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.84,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.77,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.45,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 146
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 50400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 50100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 49600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 29,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 56.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 21.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -21,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 25.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 71.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 21,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 21.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 88
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"barley",
+				"sugarcane",
+				"fruits",
+				"cattle",
+				"sheep",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"mining",
+				"industrial",
+				"transportation equipment",
+				"food processing",
+				"chemicals",
+				"steel"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.4,
+			"global_rank": 144,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 12568000,
+				"global_rank": 43,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 3.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 21.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 75.3,
+						"units": "%"
+					}
+				},
+				"date": "2009"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.16,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 5.29,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 82
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.4,
+				"units": "%"
+			},
+			"date": "1994"
+		},
+		"budget": {
+			"revenues": {
+				"value": 490000000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 496900000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 35.5,
+			"global_rank": 61,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.5,
+			"global_rank": 60,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 40.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 40.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 123
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 103
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 8146000000.000001,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -29777000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 27
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 231600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 191700000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 22
+			},
+			"commodities": {
+				"by_commodity": [
+					"iron ore",
+					"coal",
+					"gold",
+					"natural gas",
+					"beef",
+					"aluminum ores",
+					"conc",
+					"wheat",
+					"meat (excluding beef)",
+					"wool",
+					"alumina",
+					"alcohol"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 33.5
+					},
+					{
+						"name": "Japan",
+						"percent": 14.6
+					},
+					{
+						"name": "South Korea",
+						"percent": 6.6
+					},
+					{
+						"name": "India",
+						"percent": 5
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 221000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 198700000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 24
+			},
+			"commodities": {
+				"by_commodity": [
+					"motor vehicles",
+					"refined petroleum",
+					"telecommunication equipment",
+					"parts",
+					"crude petroleum",
+					"medicaments",
+					"goods vehicles",
+					"gold",
+					"computers"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 22.9
+					},
+					{
+						"name": "US",
+						"percent": 10.8
+					},
+					{
+						"name": "Japan",
+						"percent": 7.5
+					},
+					{
+						"name": "Thailand",
+						"percent": 5.1
+					},
+					{
+						"name": "Germany",
+						"percent": 4.9
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 66580000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 55070000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 33
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1714000000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1547000000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 11
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.311,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3442,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3442,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.1094,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Australian dollars (AUD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 243000000000,
+				"global_rank": 19,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 229400000000,
+				"global_rank": 19,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 101,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 122,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 65560000,
+				"global_rank": 18,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 72,
+					"global_rank": 101,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 40,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 11,
+					"global_rank": 113,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 17,
+					"global_rank": 49,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 284000,
+				"global_rank": 31,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 192500,
+				"global_rank": 31,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 341700,
+				"global_rank": 24,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 1821000000,
+				"global_rank": 35,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 462500,
+				"global_rank": 35,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 1175000,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 64120,
+				"global_rank": 48,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 619600,
+				"global_rank": 12,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 105200000000,
+				"global_rank": 9,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 45250000000,
+				"global_rank": 19,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 67959999999.99999,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 5776000000,
+				"global_rank": 33,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 1989000000000,
+				"global_rank": 17,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 439100000,
+			"global_rank": 15,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7792701,
+				"subscriptions_per_one_hundred_inhabitants": 31.03,
+				"global_rank": 20,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 27780491,
+				"subscriptions_per_one_hundred_inhabitants": 110.62,
+				"global_rank": 47,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the Australian Broadcasting Corporation (ABC) runs multiple national and local radio networks and TV stations, as well as Australia Network, a TV service that broadcasts throughout the Asia-Pacific region and is the main public broadcaster; Special Broadcasting Service (SBS), a second large public broadcaster, operates radio and TV networks broadcasting in multiple languages; several large national commercial TV networks, a large number of local commercial TV stations, and hundreds of commercial radio stations are accessible; cable and satellite systems are available",
+		"internet": {
+			"country_code": ".au",
+			"users": {
+				"total": 21419302,
+				"percent_of_population": 86.55,
+				"global_rank": 35,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 25,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 583,
+				"annual_passenger_traffic_on_registered_air_carriers": 75667645,
+				"annual_freight_traffic_on_registered_air_carriers": 2027640000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VH",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 418,
+					"global_rank": 19,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 349,
+					"over_3047_metres": 11,
+					"2438_to_3047_metres": 14,
+					"1524_to_2437_metres": 155,
+					"914_to_1523_metres": 155,
+					"under_914_metres": 14,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 131,
+					"1524_to_2437_metres": 16,
+					"914_to_1523_metres": 101,
+					"under_914_metres": 14,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate/gas",
+					"length": 637,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 30054,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 240,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 3609,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 110,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 72,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 33343,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 17446,
+				"electrified": 650,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 12318,
+				"electrified": 2075.5,
+				"units": "km\n1.067-m",
+				"gauge": "gauge"
+			},
+			"broad_gauge": {
+				"length": 3247,
+				"electrified": 372,
+				"units": "km\n1.600-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 8,
+			"date": "2015"
+		},
+		"roadways": {
+			"total": {
+				"value": 873573,
+				"units": "km"
+			},
+			"urban": {
+				"value": 145928,
+				"units": "km"
+			},
+			"non_urban": {
+				"value": 727645,
+				"units": "km"
+			},
+			"global_rank": 9,
+			"date": "2015"
+		},
+		"waterways": {
+			"value": 2000,
+			"units": "km",
+			"note": "mainly used for recreation on Murray and Murray-Darling River systems",
+			"global_rank": 42,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 579,
+			"by_type": [
+				{
+					"type": "bulk carrier 4general cargo",
+					"count": 80
+				},
+				{
+					"type": "oil tanker",
+					"count": 7
+				},
+				{
+					"type": "other",
+					"count": 488
+				}
+			],
+			"global_rank": 39,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Brisbane",
+				"Cairns",
+				"Darwin",
+				"Fremantle",
+				"Geelong",
+				"Gladstone",
+				"Hobart",
+				"Melbourne",
+				"Newcastle",
+				"Port Adelaide",
+				"Port Kembla",
+				"Sydney"
+			],
+			"container_ports": [
+				{
+					"place": "Melbourne",
+					"twenty_foot_equivalent_units": 2806436
+				},
+				{
+					"place": "Sydney",
+					"twenty_foot_equivalent_units": 2530122
+				}
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Australia Pacific",
+				"Barrow Island",
+				"Burrup (Pluto)",
+				"Curtis Island",
+				"Darwin",
+				"Karratha",
+				"Bladin Point (Ichthys)",
+				"Gladstone",
+				"Prelude (offshore FLNG)",
+				"Wheatstone"
+			],
+			"dry_bulk_cargo_ports": [
+				{
+					"place": "Dampier",
+					"type": "iron ore"
+				},
+				{
+					"place": "Dalrymple Bay",
+					"type": "coal"
+				},
+				{
+					"place": "Hay Point",
+					"type": "coal"
+				},
+				{
+					"place": "Port Hedland",
+					"type": "iron ore"
+				},
+				{
+					"place": "Port Walcott",
+					"type": "iron ore"
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 54
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17 years of age for voluntary military service (with parental consent); no conscription; women allowed to serve in most combat roles",
+			"date": "2018"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary",
+			"Australia asserts land and maritime claims to Antarctica",
+			"Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ",
+			"all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature",
+			"Indonesian groups challenge Australia's claim to Ashmore Reef",
+			"Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 13122,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 12714,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 12537,
+						"country_of_origin": "Iran"
+					},
+					{
+						"people": 5578,
+						"country_of_origin": "Pakistan"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 132,
+				"date": "2018"
+			}
+		},
+		"illicit_drugs": {
+			"note": "Tasmania is one of the world's major suppliers of licit opiate products; government maintains strict controls over areas of opium poppy cultivation and output of poppy straw concentrate; major consumer of cocaine and amphetamines"
+		}
+	}
+}

@@ -1,0 +1,1888 @@
+{
+	"name": "Switzerland",
+	"introduction": {
+		"background": "The Swiss Confederation was founded in 1291 as a defensive alliance among three cantons. In succeeding years, other localities joined the original three. The Swiss Confederation secured its independence from the Holy Roman Empire in 1499. A constitution of 1848, subsequently modified in 1874 to allow voters to introduce referenda on proposed laws, replaced the confederation with a centralized federal government. Switzerland's sovereignty and neutrality have long been honored by the major European powers, and the country was not involved in either of the two world wars. The political and economic integration of Europe over the past half century, as well as Switzerland's role in many UN and international organizations, has strengthened Switzerland's ties with its neighbors. However, the country did not officially become a UN member until 2002. Switzerland remains active in many UN and international organizations but retains a strong commitment to neutrality."
+	},
+	"geography": {
+		"location": "Central Europe, east of France, north of Italy",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 47,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 41277,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 39997,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1280,
+				"units": "sq km"
+			},
+			"global_rank": 136,
+			"comparative": "slightly less than twice the size of New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1770,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Austria",
+					"border_length": {
+						"value": 158,
+						"units": "km"
+					}
+				},
+				{
+					"country": "France",
+					"border_length": {
+						"value": 525,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Italy",
+					"border_length": {
+						"value": 698,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Liechtenstein",
+					"border_length": {
+						"value": 41,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 348,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers",
+		"terrain": "mostly mountains (Alps in south, Jura in northwest) with a central plateau of rolling hills, plains, and large lakes",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1350,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Lake Maggiore",
+				"elevation": {
+					"value": 195,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Dufourspitze",
+				"elevation": {
+					"value": 4634,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower potential",
+				"timber",
+				"salt"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 38.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 10.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 27.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 31.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 29.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 630,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement",
+		"natural_hazards": [
+			{
+				"description": "avalanches, landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "flash floods",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution from vehicle emissions",
+				"water pollution from agricultural fertilizers",
+				"chemical contaminants and erosion damage the soil and limit productivity",
+				"loss of biodiversity"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 8403994,
+			"global_rank": 100,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Swiss (singular and plural)",
+			"adjective": "Swiss"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Swiss",
+					"percent": 69.5
+				},
+				{
+					"name": "German",
+					"percent": 4.2
+				},
+				{
+					"name": "Italian",
+					"percent": 3.2
+				},
+				{
+					"name": "Portuguese",
+					"percent": 2.6
+				},
+				{
+					"name": "French",
+					"percent": 2
+				},
+				{
+					"name": "Kosovo",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 17.3
+				},
+				{
+					"name": "unspecified .1%"
+				}
+			],
+			"note": "data represent permanent and non-permanent resident population by country of birth",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "German",
+					"percent": 62.6,
+					"note": "or Swiss German; official"
+				},
+				{
+					"name": "French",
+					"percent": 22.9,
+					"note": "official"
+				},
+				{
+					"name": "Italian",
+					"percent": 8.2,
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"percent": 5.4
+				},
+				{
+					"name": "Portuguese",
+					"percent": 3.7
+				},
+				{
+					"name": "Albanian",
+					"percent": 3.2
+				},
+				{
+					"name": "Serbo-Croatian",
+					"percent": 2.5
+				},
+				{
+					"name": "Spanish",
+					"percent": 2.4
+				},
+				{
+					"name": "Romansh",
+					"percent": 0.5,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 7.7
+				}
+			],
+			"note": "German, French, Italian, and Romansh are all national and official languages; shares sum to more than 100% because some respondents gave more than one answer",
+			"date": "2017"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 35.9
+				},
+				{
+					"name": "Protestant",
+					"percent": 23.8
+				},
+				{
+					"name": "other Christian",
+					"percent": 5.9
+				},
+				{
+					"name": "Muslim",
+					"percent": 5.4
+				},
+				{
+					"name": "Jewish",
+					"percent": 0.3
+				},
+				{
+					"name": "other",
+					"percent": 1.4
+				},
+				{
+					"name": "none",
+					"percent": 26
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.4
+				}
+			],
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.34,
+				"males": 664255,
+				"females": 625252
+			},
+			"15_to_24": {
+				"percent": 10.39,
+				"males": 446196,
+				"females": 426708
+			},
+			"25_to_54": {
+				"percent": 42.05,
+				"males": 1768245,
+				"females": 1765941
+			},
+			"55_to_64": {
+				"percent": 13.48,
+				"males": 569717,
+				"females": 563482
+			},
+			"65_and_over": {
+				"percent": 18.73,
+				"males": 699750,
+				"females": 874448
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 51.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 22.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 29,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 41.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.7,
+				"units": "years"
+			},
+			"global_rank": 33,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.66,
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.5,
+			"global_rank": 187,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.5,
+			"global_rank": 73,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 4.6,
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"population_distribution": "population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement",
+		"urbanization": {
+			"urban_population": {
+				"value": 73.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.88,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Zurich",
+					"population": 1395000
+				},
+				{
+					"place": "Bern",
+					"population": 430000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.8,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 30.7,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 5,
+			"global_rank": 171,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 201,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 80.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.3,
+				"units": "years"
+			},
+			"global_rank": 13,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.57,
+			"global_rank": 193,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 71.6,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 4.3,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.7,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 112,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 17000,
+				"global_rank": 88,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 19.5,
+			"global_rank": 112,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.1,
+			"global_rank": 60,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 7.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 8.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 7.5,
+				"units": "%"
+			},
+			"global_rank": 144,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Swiss Confederation",
+			"conventional_short_form": "Switzerland",
+			"local_long_form": "Schweizerische Eidgenossenschaft (German); Confederation Suisse (French); Confederazione Svizzera (Italian); Confederaziun Svizra (Romansh)",
+			"local_short_form": "Schweiz (German); Suisse (French); Svizzera (Italian); Svizra (Romansh)",
+			"abbreviation": "CH",
+			"etymology": "name derives from the canton of Schwyz, one of the founding cantons of the Old Swiss Confederacy that formed in the 14th century"
+		},
+		"government_type": "federal republic (formally a confederation)",
+		"capital": {
+			"name": "Bern",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 46,
+					"minutes": 55,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 7,
+					"minutes": 28,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "origin of the name is uncertain, but may derive from a 2nd century B.C. Celtic place name, possibly \"berna\" meaning \"cleft,\" that was subsequently adopted by a Roman settlement"
+		},
+		"independence": {
+			"date": "1291-08-01",
+			"note": "founding of the Swiss Confederation"
+		},
+		"constitution": {
+			"history": "previous 1848, 1874; latest adopted by referendum 18 April 1999, effective 1 January 2000",
+			"amendments": "proposed by the two houses of the Federal Assembly or by petition of at least one hundred thousand voters (called the \"federal popular initiative\"); passage of proposals requires majority vote in a referendum; following drafting of an amendment by the Assembly, its passage requires approval by majority vote in a referendum and approval by the majority of cantons; amended many times, last in 2018 (2020)"
+		},
+		"legal_system": "civil law system; judicial review of legislative acts, except for federal decrees of a general obligatory character",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Switzerland",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "12 years including at least 3 of the last 5 years prior to application"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President of the Swiss Confederation Simonetta SOMMARUGA (since 1 January 2020; Vice President Guy PARMELIN (since 1 January 2020); note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president (chief of state and head of government)",
+			"head_of_government": "President of the Swiss Confederation Simonetta SOMMARUGA (since 1 January 2020; Vice President Guy PARMELIN (since 1 January 2020)",
+			"cabinet": "Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term",
+			"elections_appointments": "president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 11 December 2019 (next to be held in December 2020)",
+			"election_results": "Simonetta SOMMARUGA elected president; Federal Assembly vote - 192 of 205; Guy PARMELIN elected vice president; Federal Assembly vote - 191 of 204"
+		},
+		"legislative_branch": {
+			"description": "description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of: Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law)\nNational Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)",
+			"elections": "Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)\nNational Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)",
+			"election_results": "Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA\nNational Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)"
+		},
+		"judicial_branch": {
+			"highest_courts": "Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)",
+			"judge_selection_and_term_of_office": "judges elected by the Federal Assembly for 6-year terms; note - judges are affiliated with political parties and are elected according to linguistic and regional criteria in approximate proportion to the level of party representation in the Federal Assembly",
+			"subordinate_courts": "Federal Criminal Court (established in 2004); Federal Administrative Court (established in 2007); note - each of Switzerland's 26 cantons has its own courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Christian Democratic People's Party ",
+					"leaders": [
+						"Gerhard PFISTER"
+					],
+					"note": "Christlichdemokratische Volkspartei der Schweiz or CVP, Parti Democrate-Chretien Suisse or PDC, Partito Popolare Democratico Svizzero or PPD, Partida Cristiandemocratica dalla Svizra or PCD"
+				},
+				{
+					"name": "Conservative Democratic Party ",
+					"leaders": [
+						"Martin LANDOLT"
+					],
+					"note": "Buergerlich-Demokratische Partei Schweiz or BDP, Parti Bourgeois Democratique Suisse or PBD, Partito Borghese Democratico Svizzero or PBD, Partido burgais democratica Svizera or PBD"
+				},
+				{
+					"name": "Free Democratic Party",
+					"name_alternative": "FDP.The Liberals",
+					"leaders": [
+						"Petra GOESSI"
+					],
+					"note": "FDP.Die Liberalen, PLR.Les Liberaux-Radicaux, PLR.I Liberali, Ils Liberals"
+				},
+				{
+					"name": "Green Liberal Party ",
+					"leaders": [
+						"Juerg GROSSEN"
+					],
+					"note": "Gruenliberale Partei or GLP, Parti vert liberale or PVL, Partito Verde-Liberale or PVL, Partida Verde Liberale or PVL"
+				},
+				{
+					"name": "Green Party ",
+					"leaders": [
+						"Regula RYTZ"
+					],
+					"note": "Gruene Partei der Schweiz or Gruene, Parti Ecologiste Suisse or Les Verts, Partito Ecologista Svizzero or I Verdi, Partida Ecologica Svizra or La Verda"
+				},
+				{
+					"name": "Social Democratic Party ",
+					"leaders": [
+						"Christian LEVRAT"
+					],
+					"note": "Sozialdemokratische Partei der Schweiz or SP, Parti Socialiste Suisse or PSS, Partito Socialista Svizzero or PSS, Partida Socialdemocratica de la Svizra or PSS"
+				},
+				{
+					"name": "Swiss People's Party ",
+					"leaders": [
+						"Albert ROESTI"
+					],
+					"note": "Schweizerische Volkspartei or SVP, Union Democratique du Centre or UDC, Unione Democratica di Centro or UDC, Uniun Democratica dal Center or UDC"
+				},
+				{
+					"name": "Other minor parties"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EFTA"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Jacques PITTELOUD (since 16 September 2019)",
+				"chancery": "2900 Cathedral Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 745-7900",
+				"fax": "[1] (202) 387-2564",
+				"consulates_general": "Atlanta, Chicago, Los Angeles, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Edward \"Ed\" MCMULLEN, Jr. (since 21 November 2017) note - also accredited to Liechtenstein",
+				"telephone": "[41] (031) 357-70-11",
+				"embassy": "Sulgeneckstrasse 19, CH-3007 Bern",
+				"mailing_address": "use embassy street address",
+				"fax": "[41] (031) 357-73-20"
+			}
+		},
+		"flag_description": {
+			"description": "red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Swiss cross ",
+					"note": "white cross on red field, arms equal length"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"note": "unofficially adopted 1961, officially 1981; the anthem has been popular in a number of Swiss cantons since its composition (in German) in 1841; translated into the other three official languages of the country (French, Italian, and Romansch), it is official in each of those languages",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SZ.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies.\nThe Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010.\nThe sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safehaven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017.\nIn recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 523100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 514500000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 506500000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 39,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 679000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.11,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.04,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 1.65,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 170
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 62100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 61800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 61500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 17,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 53.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 12,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -1.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 65.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -54,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 25.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 73.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 33.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 32.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 33.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 21
+		},
+		"agriculture_products": {
+			"products": [
+				"grains",
+				"fruits",
+				"vegetables",
+				"meat",
+				"eggs",
+				"dairy products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"machinery",
+				"chemicals",
+				"watches",
+				"textiles",
+				"precision instruments",
+				"tourism",
+				"banking",
+				"insurance",
+				"pharmaceuticals"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.4,
+			"global_rank": 92,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 5067000,
+				"global_rank": 76,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 3.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 19.8,
+						"units": "%"
+					},
+					"services": {
+						"value": 76.9,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.31,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 2.55,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 24
+		},
+		"population_below_poverty_line": {
+			"value": 6.6,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 7.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 19,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 242100000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 234400000000,
+				"units": "USD"
+			},
+			"note": "includes federal, cantonal, and municipal budgets",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 35.7,
+			"global_rank": 60,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.1,
+			"global_rank": 33,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 41.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 41.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 119,
+			"note": "general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the GFSM (Government Financial Systems Manual) 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 30
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 79937000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 63273000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 5
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 313500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 318100000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 17,
+				"note": "trade data exclude trade with Switzerland"
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"chemicals",
+					"metals",
+					"watches",
+					"agricultural products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 15.2
+					},
+					{
+						"name": "US",
+						"percent": 12.3
+					},
+					{
+						"name": "China",
+						"percent": 8.2
+					},
+					{
+						"name": "India",
+						"percent": 6.7
+					},
+					{
+						"name": "France",
+						"percent": 5.7
+					},
+					{
+						"name": "UK",
+						"percent": 5.7
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 5.4
+					},
+					{
+						"name": "Italy",
+						"percent": 5.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 264500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 266300000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 19
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"chemicals",
+					"vehicles",
+					"metals",
+					"agricultural products",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 20.9
+					},
+					{
+						"name": "US",
+						"percent": 7.9
+					},
+					{
+						"name": "Italy",
+						"percent": 7.6
+					},
+					{
+						"name": "UK",
+						"percent": 7.3
+					},
+					{
+						"name": "France",
+						"percent": 6.8
+					},
+					{
+						"name": "China",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 811200000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 679300000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 3
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1664000000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 1663000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 12
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.9875,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.9852,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9852,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.9627,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.9152,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Swiss francs (CHF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 59010000000,
+				"global_rank": 50,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 58460000000,
+				"global_rank": 43,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 30170000000,
+				"global_rank": 5,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 34100000000,
+				"global_rank": 4,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 20840000,
+				"global_rank": 42,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 3,
+					"global_rank": 209,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 18,
+					"global_rank": 11,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 67,
+					"global_rank": 21,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 13,
+					"global_rank": 71,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 205,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 201,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 57400,
+				"global_rank": 54,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 201,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 61550,
+				"global_rank": 79,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 223900,
+				"global_rank": 54,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 7345,
+				"global_rank": 88,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 165100,
+				"global_rank": 39,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 205,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 3709000000,
+				"global_rank": 68,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 194,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 3681000000,
+				"global_rank": 42,
+				"date": "2017"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 38950000,
+			"global_rank": 66,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3012224,
+				"subscriptions_per_one_hundred_inhabitants": 36.08,
+				"global_rank": 45,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 10618759,
+				"subscriptions_per_one_hundred_inhabitants": 127.19,
+				"global_rank": 84,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the publicly owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 8 national TV networks, 3 broadcasting in German, 3 in French, and 2 in Italian; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 17 radio stations that, along with private broadcasters, provide national to local coverage ) (2019)",
+		"internet": {
+			"country_code": ".ch",
+			"users": {
+				"total": 7437820,
+				"percent_of_population": 89.69,
+				"global_rank": 69,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 179,
+				"annual_passenger_traffic_on_registered_air_carriers": 28857994,
+				"annual_freight_traffic_on_registered_air_carriers": 1841310000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HB",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 63,
+					"global_rank": 78,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 40,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 12,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 17,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 23,
+					"under_914_metres": 23,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 800,
+					"units": "km"
+				},
+				{
+					"type": "oil (of which 60 are inactive)",
+					"length": 94,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 17,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 5690,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 3836,
+				"electrified": 3634,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 1630,
+				"electrified": 36.4,
+				"units": "km\n1.200-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 34,
+			"date": "2015"
+		},
+		"roadways": {
+			"total": {
+				"value": 71557,
+				"units": "km"
+			},
+			"paved": {
+				"value": 71557,
+				"units": "km",
+				"note": "includes 1,458 of expressways"
+			},
+			"global_rank": 68,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 1292,
+			"units": "km",
+			"note": "there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport",
+			"global_rank": 57,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 32,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 24
+				},
+				{
+					"type": "general cargo",
+					"count": 4
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 3
+				}
+			],
+			"global_rank": 131,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"river_ports": [
+				"Basel (Rhine)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 141
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age generally for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 36698,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 18755,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 13455,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 5819,
+						"country_of_origin": "Sri Lanka"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 49,
+				"date": "2018"
+			}
+		},
+		"illicit_drugs": {
+			"note": "a major international financial center vulnerable to the layering and integration stages of money laundering; despite significant legislation and reporting requirements, secrecy rules persist and nonresidents are permitted to conduct business through offshore entities and various intermediaries; transit country for and consumer of South American cocaine, Southwest Asian heroin, and Western European synthetics; domestic cannabis cultivation and limited ecstasy production"
+		}
+	}
+}

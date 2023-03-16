@@ -1,0 +1,1586 @@
+{
+	"name": "Antigua And Barbuda",
+	"introduction": {
+		"background": "The Siboney were the first people to inhabit the islands of Antigua and Barbuda in 2400 B.C., but Arawak Indians populated the islands when COLUMBUS landed on his second voyage in 1493. Early Spanish and French settlements were succeeded by an English colony in 1667. Slavery, established to run the sugar plantations on Antigua, was abolished in 1834. The islands became an independent state within the British Commonwealth of Nations in 1981. On 6 September 2017, Hurricane Irma passed over the island of Barbuda devastating the island and forcing the evacuation of the population to Antigua. Almost all the structures on Barbuda were destroyed and the vegetation stripped, but Antigua was spared the worst."
+	},
+	"geography": {
+		"location": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east-southeast of Puerto Rico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 17,
+				"minutes": 3,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 61,
+				"minutes": 48,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 443,
+				"units": "sq km",
+				"note": "Antigua 280 sq km; Barbuda 161 sq km"
+			},
+			"land": {
+				"value": 442.6,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes Redonda, 1.6 sq km",
+			"global_rank": 201,
+			"comparative": "2.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 153,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "tropical maritime; little seasonal temperature variation",
+		"terrain": "mostly low-lying limestone and coral islands, with some higher volcanic areas",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Obama",
+				"elevation": {
+					"value": 402,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"NEGL",
+				"pleasant climate fosters tourism"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 20.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 9.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 22.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 57.3,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 1.3,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington",
+		"natural_hazards": [
+			{
+				"description": "hurricanes and tropical storms (July to October)",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water management - a major concern because of limited natural freshwater resources - is further hampered by the clearing of trees to increase crop production",
+				"causing rainfall to run off quickly"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 98179,
+			"global_rank": 197,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Antiguan(s), Barbudan(s)",
+			"adjective": "Antiguan, Barbudan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "African descent",
+					"percent": 87.3
+				},
+				{
+					"name": "mixed",
+					"percent": 4.7
+				},
+				{
+					"name": "hispanic",
+					"percent": 2.7
+				},
+				{
+					"name": "white",
+					"percent": 1.6
+				},
+				{
+					"name": "other",
+					"percent": 2.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.9
+				}
+			],
+			"note": "data represent population by ethnic group",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Antiguan creole"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 68.3,
+					"breakdown": [
+						{
+							"name": "Anglican",
+							"percent": 17.6
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 12.4
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 12.2
+						},
+						{
+							"name": "Moravian",
+							"percent": 8.3
+						},
+						{
+							"name": "Methodist",
+							"percent": 5.6
+						},
+						{
+							"name": "Wesleyan Holiness",
+							"percent": 4.5
+						},
+						{
+							"name": "Church of God",
+							"percent": 4.1
+						},
+						{
+							"name": "Baptist",
+							"percent": 3.6
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 8.2
+				},
+				{
+					"name": "other",
+					"percent": 12.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 5.5
+				},
+				{
+					"name": "none",
+					"percent": 5.9
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 22.52,
+				"males": 11243,
+				"females": 10871
+			},
+			"15_to_24": {
+				"percent": 16.15,
+				"males": 7891,
+				"females": 7961
+			},
+			"25_to_54": {
+				"percent": 41.68,
+				"males": 18757,
+				"females": 22167
+			},
+			"55_to_64": {
+				"percent": 10.74,
+				"males": 4693,
+				"females": 5848
+			},
+			"65_and_over": {
+				"percent": 8.91,
+				"males": 3736,
+				"females": 5012
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 45.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 31.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 30.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 34.4,
+				"units": "years"
+			},
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.18,
+			"global_rank": 92,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 15.4,
+			"global_rank": 114,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.8,
+			"global_rank": 174,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.1,
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"population_distribution": "the island of Antigua is home to approximately 97% of the population; nearly the entire population of Barbuda lives in Codrington",
+		"urbanization": {
+			"urban_population": {
+				"value": 24.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.55,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Saint John'S",
+					"population": 21000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.8,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.75,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.89,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 119,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 75.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.6,
+				"units": "years"
+			},
+			"global_rank": 83,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.97,
+			"global_rank": 114,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.96,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.9,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 96.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 3.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 91.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 8.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.1,
+				"global_rank": 41,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1000,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 18.9,
+			"global_rank": 113,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.5,
+			"global_rank": 158,
+			"date": "2009"
+		},
+		"literacy": {
+			"definition": "age 15 and over has completed five or more years of schooling",
+			"total_population": {
+				"value": 99,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.4,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Antigua and Barbuda",
+			"etymology": "\"antiguo\" is Spanish for \"ancient\" or \"old\"; the island was discovered by Christopher COLUMBUS in 1493 and, according to tradition, named by him after the church of Santa Maria la Antigua (Old Saint Mary's) in Seville; \"barbuda\" is Spanish for \"bearded\" and the adjective may refer to the alleged beards of the indigenous people or to the island's bearded fig trees"
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Saint John's",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 17,
+					"minutes": 7,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 61,
+					"minutes": 51,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named after Saint John the Apostle"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Barbuda",
+				"type": ""
+			},
+			{
+				"name": "Redonda",
+				"type": ""
+			},
+			{
+				"name": "Saint George",
+				"type": ""
+			},
+			{
+				"name": "Saint John",
+				"type": ""
+			},
+			{
+				"name": "Saint Mary",
+				"type": ""
+			},
+			{
+				"name": "Saint Paul",
+				"type": ""
+			},
+			{
+				"name": "Saint Peter",
+				"type": ""
+			},
+			{
+				"name": "Saint Philip",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1981-11-01",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "1 November",
+				"original_year": "1981"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest presented 31 July 1981, effective 31 October 1981 (The Antigua and Barbuda Constitution Order 1981)",
+			"amendments": "proposed by either house of Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, the establishment, power, and authority of the executive and legislative branches, the Supreme Court Order, and the procedure for amending the constitution requires approval by at least two-thirds majority vote of the membership of both houses, approval by at least two-thirds majority in a referendum, and assent to by the governor general; passage of other amendments requires only two-thirds majority vote by both houses; amended 2009, 2011"
+		},
+		"legal_system": "common law based on the English model",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Rodney WILLIAMS (since 14 August 2014)",
+			"head_of_government": "Prime Minister Gaston BROWNE (since 13 June 2014)",
+			"cabinet": "Council of Ministers appointed by the governor general on the advice of the prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (17 seats; members appointed by the governor general)\nHouse of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - last appointed on 26 March 2018 (next NA)\nHouse of Representatives - last held on 21 March 2018 (next to be held in March 2023)",
+			"election_results": "Senate -  composition - men 8, women 9, percent of women 52.9%\nHouse of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda",
+			"judge_selection_and_term_of_office": "chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62",
+			"subordinate_courts": "Industrial Court; Magistrates' Courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Antigua Caribbean Liberation Movement",
+					"name_alternative": "ACLM"
+				},
+				{
+					"name": "Antigua Labor Party",
+					"name_alternative": "ABLP",
+					"leaders": [
+						"Gaston BROWNE"
+					]
+				},
+				{
+					"name": "Antigua Barbuda True Labor Party",
+					"name_alternative": "ABTLP",
+					"leaders": [
+						"Sharlene SAMUEL"
+					]
+				},
+				{
+					"name": "Barbuda People's Movement",
+					"name_alternative": "BPM",
+					"leaders": [
+						"Trevor WALKER"
+					]
+				},
+				{
+					"name": "Barbuda People's Movement for Change",
+					"leaders": [
+						"Arthur NIBBS"
+					]
+				},
+				{
+					"name": "Barbudans for a Better Barbuda",
+					"leaders": [
+						"Ordrick SAMUEL"
+					]
+				},
+				{
+					"name": "Democratic National Alliance",
+					"name_alternative": "DNA",
+					"leaders": [
+						"Joanne MASSIAH"
+					]
+				},
+				{
+					"name": "Go Green for Life",
+					"leaders": [
+						"Owen GEORGE"
+					]
+				},
+				{
+					"name": "Progressive Labor Movement",
+					"name_alternative": "PLM"
+				},
+				{
+					"name": "United National Democratic Party",
+					"name_alternative": "UNDP"
+				},
+				{
+					"name": "United Progressive Party",
+					"name_alternative": "UPP",
+					"leaders": [
+						"Harold LOVELL"
+					],
+					"note": "a coalition of ACLM, PLM, UNDP"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO ",
+				"note": "subscriber"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Sir Ronald SANDERS (since 17 September 2015)",
+				"chancery": "3234 Prospect Street NW, Washington, DC 20007",
+				"telephone": "[1] (202) 362-5122",
+				"fax": "[1] (202) 362-5525",
+				"consulates_general": "Miami, New York"
+			}
+		},
+		"flag_description": {
+			"description": "red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the \"V\" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "fallow deer"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Fair Antigua, We Salute Thee",
+			"lyrics_music": "Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS",
+			"note": "adopted 1967; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AC.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.\nLike other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.\nProspects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2398000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2334000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2215000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 194,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1524000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 5.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 4.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 103
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 26400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 25900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 24900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 78,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 53.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 73.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -66.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 77.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 17.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 30.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 115
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"fruits",
+				"vegetables",
+				"bananas",
+				"coconuts",
+				"cucumbers",
+				"mangoes",
+				"sugarcane",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"construction",
+				"light manufacturing",
+				"clothing",
+				"alcohol",
+				"household appliances"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.8,
+			"global_rank": 32,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 30000,
+				"global_rank": 204,
+				"date": "1991"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 11,
+						"units": "%"
+					},
+					"services": {
+						"value": 82,
+						"units": "%"
+					}
+				},
+				"date": "1983"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 154
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 298200000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 334000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 19.6,
+			"global_rank": 154,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.4,
+			"global_rank": 112,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 86.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 86.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 30
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 122
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -112000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 89
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 86700000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 56500000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 198
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum products",
+					"bedding",
+					"handicrafts",
+					"electronic components",
+					"transport equipment",
+					"food",
+					"live animals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Poland",
+						"percent": 62.2
+					},
+					{
+						"name": "Cameroon",
+						"percent": 9.5
+					},
+					{
+						"name": "US",
+						"percent": 5.1
+					},
+					{
+						"name": "UK",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 560000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 503400000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 198
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"live animals",
+					"machinery",
+					"transport equipment",
+					"manufactures",
+					"chemicals",
+					"oil"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 48
+					},
+					{
+						"name": "Spain",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 441200000,
+					"units": "USD",
+					"date": "2012-12-31"
+				},
+				{
+					"value": 458000000,
+					"units": "USD",
+					"date": "2010-06-01"
+				}
+			],
+			"global_rank": 180
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "East Caribbean dollars (XCD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 9358,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 97.4,
+					"units": "%",
+					"note": "2016"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 96.5,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2012"
+			},
+			"production": {
+				"kWh": 331000000,
+				"global_rank": 179,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 307800000,
+				"global_rank": 184,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 99,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 120,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 124000,
+				"global_rank": 177,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 97,
+					"global_rank": 31,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 38,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 153,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 119,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 105,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 85,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 89,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 102,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 113,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 5000,
+				"global_rank": 177,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 91,
+				"global_rank": 119,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 5065,
+				"global_rank": 172,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 99,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 119,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 61,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 87,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 105,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 740300,
+			"global_rank": 175,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 24403,
+				"subscriptions_per_one_hundred_inhabitants": 25.15,
+				"global_rank": 172,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 187095,
+				"subscriptions_per_one_hundred_inhabitants": 192.82,
+				"global_rank": 184,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-controlled Antigua and Barbuda Broadcasting Service (ABS) operates 1 TV station; multi-channel cable TV subscription services are available; ABS operates 1 radio station; roughly 15 radio stations, some broadcasting on multiple frequencies",
+		"internet": {
+			"country_code": ".ag",
+			"users": {
+				"total": 72870,
+				"percent_of_population": 76,
+				"global_rank": 185,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 10,
+				"annual_passenger_traffic_on_registered_air_carriers": 580174,
+				"annual_freight_traffic_on_registered_air_carriers": 290000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "V2",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 3,
+					"global_rank": 193,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 2,
+					"2438_to_3047_metres": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1170,
+				"units": "km"
+			},
+			"paved": {
+				"value": 386,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 784,
+				"units": "km"
+			},
+			"global_rank": 180,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 780,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 32
+				},
+				{
+					"type": "container ship",
+					"count": 151
+				},
+				{
+					"type": "general cargo",
+					"count": 534
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 61
+				}
+			],
+			"global_rank": 31,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Saint John's"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; no conscription; Governor-General has powers to call up men for national service and set the age at which they could be called up",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Antigua and Barbuda is a destination and transit country for adults and children subjected to sex trafficking and forced labor; forced prostitution has been reported in bars, taverns, and brothels, while forced labor occurs in domestic service and the retail sector",
+			"tier_rating": "Tier 2 Watch List – Antigua and Barbuda does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government made no discernible progress in convicting traffickers in 2014 but charged two individuals in separate cases; efforts to convict traffickers have been impeded by a 2014 ruling that found the 2010 anti-trafficking act was unconstitutional because jurisdiction rests with the Magistrate’s Court rather than the High Court; no new prosecutions, convictions, or punishments were recorded in 2014; credible sources have raised concerns about trafficking-related complicity among some off-duty police officers, which could hinder investigations or victims willingness to report offenses; prevention efforts were sustained, but progress in protecting victims was uneven; seven victims were assisted, which was an increase over 2013 (2015)"
+		},
+		"illicit_drugs": {
+			"note": "considered a minor transshipment point for narcotics bound for the US and Europe; more significant as an offshore financial center"
+		}
+	}
+}

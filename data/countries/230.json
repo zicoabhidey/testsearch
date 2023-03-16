@@ -1,0 +1,1586 @@
+{
+	"name": "Timor-Leste",
+	"introduction": {
+		"background": "Timor was actively involved in Southeast Asian trading networks for centuries and by the 14th century exported aromatic sandalwood, slaves, honey, and wax. A number of local chiefdoms ruled the island in the early 16th century when Portuguese traders arrived, chiefly attracted by the relative abundance of sandalwood on Timor; by mid century, the Portuguese had colonized the island. Skirmishing with the Dutch in the region eventually resulted in an 1859 treaty in which Portugal ceded the western portion of the island. Imperial Japan occupied Portuguese Timor from 1942 to 1945, but Portugal resumed colonial authority after the Japanese defeat in World War II. East Timor declared itself independent from Portugal on 28 November 1975 and was invaded and occupied by Indonesian forces nine days later. It was incorporated into Indonesia in July 1976 as the province of Timor Timur (East Timor). An unsuccessful campaign of pacification followed over the next two decades, during which an estimated 100,000 to 250,000 people died. In an August 1999 UN-supervised popular referendum, an overwhelming majority of the people of Timor-Leste voted for independence from Indonesia. However, in the next three weeks, anti-independence Timorese militias - organized and supported by the Indonesian military - commenced a large-scale, scorched-earth campaign of retribution. The militias killed approximately 1,400 Timorese and forced 300,000 people into western Timor as refugees. Most of the country's infrastructure, including homes, irrigation systems, water supply systems, and schools, and nearly all of the country's electrical grid were destroyed. On 20 September 1999, Australian-led peacekeeping troops deployed to the country and brought the violence to an end. On 20 May 2002, Timor-Leste was internationally recognized as an independent state.\nIn 2006, internal tensions threatened the new nation's security when a military strike led to violence and a breakdown of law and order. At Dili's request, an Australian-led International Stabilization Force (ISF) deployed to Timor-Leste, and the UN Security Council established the UN Integrated Mission in Timor-Leste (UNMIT), which included an authorized police presence of over 1,600 personnel. The ISF and UNMIT restored stability, allowing for presidential and parliamentary elections in 2007 in a largely peaceful atmosphere. In February 2008, a rebel group staged an unsuccessful attack against the president and prime minister. The ringleader was killed in the attack, and most of the rebels surrendered in April 2008. Since the attack, the government has enjoyed one of its longest periods of post-independence stability, including successful 2012 elections for both the parliament and president and a successful transition of power in February 2015. In late 2012, the UN Security Council ended its peacekeeping mission in Timor-Leste and both the ISF and UNMIT departed the country. Early parliamentary elections in the spring of 2017 finally produced a majority government after months of impasse. Currently, the government is a coalition of three parties and the president is a member of the opposition party. In 2018 and 2019, this configuration stymied nominations for key ministerial positions and slowed progress on certain policy issues."
+	},
+	"geography": {
+		"location": "Southeastern Asia, northwest of Australia in the Lesser Sunda Islands at the eastern end of the Indonesian archipelago; note - Timor-Leste includes the eastern half of the island of Timor, the Oecussi (Ambeno) region on the northwest portion of the island of Timor, and the islands of Pulau Atauro and Pulau Jaco",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 8,
+				"minutes": 50,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 125,
+				"minutes": 55,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 14874,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 14874,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 160,
+			"comparative": "slightly larger than Connecticut; almost half the size of Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 253,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Indonesia",
+					"border_length": {
+						"value": 253,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 706,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; hot, humid; distinct rainy and dry seasons",
+		"terrain": "mountainous",
+		"elevation": {
+			"lowest_point": {
+				"name": "Timor Sea, Savu Sea, and Banda Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Foho Tatamailau",
+				"elevation": {
+					"value": 2963,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"gold",
+				"petroleum",
+				"natural gas",
+				"manganese",
+				"marble"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 25.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 10.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 4.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 49.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 350,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population concentrated in the western third of the country, particularly around Dili",
+		"natural_hazards": [
+			{
+				"description": "floods and landslides are common",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "tsunamis",
+				"type": "hazard"
+			},
+			{
+				"description": "tropical cyclones",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution and deterioration of air quality",
+				"greenhouse gas emissions",
+				"water quality",
+				"scarcity",
+				"and access",
+				"land and soil degradation",
+				"forest depletion",
+				"widespread use of slash and burn agriculture has led to deforestation and soil erosion",
+				"loss of biodiversity"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1383723,
+			"global_rank": 155,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Timorese",
+			"adjective": "Timorese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Austronesian",
+					"note": "Malayo-Polynesian; includes Tetun, Mambai, Tokodede, Galoli, Kemak, Baikeno"
+				},
+				{
+					"name": "Melanesian-Papuan",
+					"note": "includes Bunak, Fataluku, Bakasai"
+				},
+				{
+					"name": "small Chinese minority"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Tetun Prasa",
+					"percent": 30.6
+				},
+				{
+					"name": "Mambai",
+					"percent": 16.6
+				},
+				{
+					"name": "Makasai",
+					"percent": 10.5
+				},
+				{
+					"name": "Tetun Terik",
+					"percent": 6.1
+				},
+				{
+					"name": "Baikenu",
+					"percent": 5.9
+				},
+				{
+					"name": "Kemak",
+					"percent": 5.8
+				},
+				{
+					"name": "Bunak",
+					"percent": 5.5
+				},
+				{
+					"name": "Tokodede",
+					"percent": 4
+				},
+				{
+					"name": "Fataluku",
+					"percent": 3.5
+				},
+				{
+					"name": "Waima'a",
+					"percent": 1.8
+				},
+				{
+					"name": "Galoli",
+					"percent": 1.4
+				},
+				{
+					"name": "Naueti",
+					"percent": 1.4
+				},
+				{
+					"name": "Idate",
+					"percent": 1.2
+				},
+				{
+					"name": "Midiki",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 4.5
+				}
+			],
+			"note": "data represent population by mother tongue; Tetun and Portuguese are official languages; Indonesian and English are working languages; there are about 32 indigenous languages"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 97.6
+				},
+				{
+					"name": "Protestant/Evangelical",
+					"percent": 2
+				},
+				{
+					"name": "Muslim",
+					"percent": 0.2
+				},
+				{
+					"name": "other",
+					"percent": 0.2
+				}
+			],
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 39.96,
+				"males": 284353,
+				"females": 268562
+			},
+			"15_to_24": {
+				"percent": 20.32,
+				"males": 142693,
+				"females": 138508
+			},
+			"25_to_54": {
+				"percent": 30.44,
+				"males": 202331,
+				"females": 218914
+			},
+			"55_to_64": {
+				"percent": 5.22,
+				"males": 34956,
+				"females": 37229
+			},
+			"65_and_over": {
+				"percent": 4.06,
+				"males": 27153,
+				"females": 29024
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 90.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 83.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 15.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 19.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.2,
+				"units": "years"
+			},
+			"global_rank": 201,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.27,
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 32,
+			"global_rank": 27,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.7,
+			"global_rank": 178,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3.9,
+			"global_rank": 189,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population concentrated in the western third of the country, particularly around Dili",
+		"urbanization": {
+			"urban_population": {
+				"value": 31.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.35,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Dili",
+					"population": 281000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.94,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.1,
+			"date": "2009"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 142,
+			"global_rank": 60,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 31.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 34.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 28.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 51,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 69.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 67.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 71.1,
+				"units": "years"
+			},
+			"global_rank": 170,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.44,
+			"global_rank": 25,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 26.1,
+			"units": "%",
+			"date": "2016"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.75,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 72.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 80.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 27.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 19.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 90.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 50.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 62.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 9.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 49.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 57.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 114,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1500,
+				"global_rank": 138,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 3.8,
+			"global_rank": 190,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 37.5,
+			"global_rank": 3,
+			"date": "2013"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.8,
+			"global_rank": 116,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 68.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 71.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 64.2,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2010"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 13.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 15.9,
+				"units": "%"
+			},
+			"global_rank": 105,
+			"date": "2016"
+		},
+		"note": "one of only two predominantly Christian nations in Southeast Asia, the other being the Philippines"
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Democratic Republic of Timor-Leste",
+			"conventional_short_form": "Timor-Leste",
+			"local_long_form": "Republika Demokratika Timor Lorosa'e [Tetum]; Republica Democratica de Timor-Leste [Portuguese]",
+			"local_short_form": "Timor Lorosa'e [Tetum]; Timor-Leste [Portuguese]",
+			"former": "East Timor, Portuguese Timor",
+			"etymology": "timor\" derives from the Indonesian and Malay word \"timur\" meaning \"east\"; \"leste\" is the Portuguese word for \"east\", so \"Timor-Leste\" literally means \"Eastern-East\"; the local [Tetum] name \"Timor Lorosa'e\" translates as \"East Rising Sun\"",
+			"note": "pronounced TEE-mor LESS-tay"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Dili",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 8,
+					"minutes": 35,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 125,
+					"minutes": 36,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 9,
+				"note": "14 hours ahead of Washington, DC, during Standard Time"
+			}
+		},
+		"independence": {
+			"date": "2002-05-20",
+			"note": "from Indonesia; note - 28 November 1975 was the date independence was proclaimed from Portugal; 20 May 2002 was the date of international recognition of Timor-Leste's independence from Indonesia"
+		},
+		"national_holidays": [
+			{
+				"name": "Restoration of Independence Day",
+				"day": "20 May",
+				"original_year": "2002"
+			},
+			{
+				"name": "Proclamation of Independence Day",
+				"day": "28 November",
+				"original_year": "1975"
+			}
+		],
+		"constitution": {
+			"history": "drafted 2001, approved 22 March 2002, entered into force 20 May 2002",
+			"amendments": "proposed by Parliament and parliamentary groups; consideration of amendments requires at least four-fifths majority approval by Parliament; passage requires two-thirds majority vote by Parliament and promulgation by the president of the republic; passage of amendments to the republican form of government and the flag requires approval in a referendum"
+		},
+		"legal_system": "civil law system based on the Portuguese model; note - penal and civil law codes to replace the Indonesian codes were passed by Parliament and promulgated in 2009 and 2011, respectively",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Timor-Leste",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 17,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Francisco GUTERRES (since 20 May 2017); note - the president is commander in chief of the military and is able to veto legislation, dissolve parliament, and call national elections",
+			"head_of_government": "Prime Minister Taur Matan RUAK (since 22 June 2018); note - President GUTERRES dissolved parliament because of an impasse over passing the country's budget on 26 January 2018, with then Prime Minister Mari ALKATIRI assuming the role of caretaker prime minister until a new prime minister was appointed; note - on 25 February 2020, Prime Minister RUAK offered his resignation due to inability to pass 2020 budget in parliament, but the president refused his offer; on 8 April, RUAK withdrew his resignation",
+			"cabinet": "the governing coalition in the Parliament proposes cabinet member candidates to the Prime Minister, who presents these recommendations to the President of the Republic for swearing in",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 20 March 2017 (next to be held in 2022); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister",
+			"election_results": "Francisco GUTERRES elected president; percent of vote - Francisco GUTERRES (FRETILIN) 57.1%, Antonio DA CONCEICAO (PD) 32.5%, Jose Luis GUTERRES (Frenti-Mudanca) 2.6%, Jose NEVES (independent) 2.3%, Luis Alves TILMAN (independent) 2.2%, other 3.4%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)",
+			"elections": "last held on 12 May 2018 (next to be held in July 2023)",
+			"election_results": "percent of vote by party - AMP - 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeals (consists of the court president and NA judges)",
+			"judge_selection_and_term_of_office": "court president appointed by the president of the republic from among the other court judges to serve a 4-year term; other court judges appointed - 1 by the Parliament and the others by the Supreme Council for the Judiciary, a body chaired by the court president and that includes mostly presidential and parliamentary appointees; other judges serve for life",
+			"subordinate_courts": "Court of Appeal; High Administrative, Tax, and Audit Court; district courts; magistrates' courts; military courts",
+			"note": "the UN Justice System Programme, launched in 2003 and being rolled out in 4 phases through 2018, is helping strengthen the country's justice system; the Programme is aligned with the country's long-range Justice Sector Strategic Plan, which includes legal reforms"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for Change and Progress",
+					"name_alternative": "AMP",
+					"leaders": [
+						"Xanana GUSMAO"
+					],
+					"note": "alliance includes CNRT, KHUNTO, PLP"
+				},
+				{
+					"name": "Democratic Development Forum",
+					"name_alternative": "DDF"
+				},
+				{
+					"name": "Democratic Party",
+					"name_alternative": "PD"
+				},
+				{
+					"name": "Frenti-Mudanca",
+					"leaders": [
+						"Jose Luis GUTERRES"
+					]
+				},
+				{
+					"name": "Kmanek Haburas Unidade Nasional Timor Oan",
+					"name_alternative": "KHUNTO"
+				},
+				{
+					"name": "National Congress for Timorese Reconstruction",
+					"name_alternative": "CNRT",
+					"leaders": [
+						"Kay Rala Xanana GUSMAO"
+					]
+				},
+				{
+					"name": "People's Liberation Party",
+					"name_alternative": "PLP",
+					"leaders": [
+						"Taur Matan RUAK"
+					]
+				},
+				{
+					"name": "Revolutionary Front of Independent Timor-Leste",
+					"name_alternative": "FRETILIN",
+					"leaders": [
+						"Mari ALKATIRI"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "observer"
+			},
+			{
+				"organization": "CPLP"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Isilio Antonio De Fatima COELHO DA SILVA (since 6 January 2020)",
+				"chancery": "4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008",
+				"telephone": "[1] (202) 966-3202",
+				"fax": "[1] (202) 966-3205"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Kathleen FITZPATRICK (since 19 January 2018)",
+				"telephone": "(670) 332-4684, EMER: +(670) 7723-1328",
+				"embassy": "Avenida de Portugal, Praia dos Coqueiros, Dili",
+				"mailing_address": "US Department of State, 8250 Dili Place, Washington, DC 20521-8250",
+				"fax": "(670) 331-3206"
+			}
+		},
+		"flag_description": {
+			"description": "red with a black isosceles triangle (based on the hoist side) superimposed on a slightly longer yellow arrowhead that extends to the center of the flag; a white star - pointing to the upper hoist-side corner of the flag - is in the center of the black triangle; yellow denotes the colonialism in Timor-Leste's past, black represents the obscurantism that needs to be overcome, red stands for the national liberation struggle; the white star symbolizes peace and serves as a guiding light"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Mount Ramelau"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Patria\" (Fatherland)",
+			"lyrics_music": "Fransisco Borja DA COSTA/Afonso DE ARAUJO",
+			"note": "adopted 2002; the song was first used as an anthem when Timor-Leste declared its independence from Portugal in 1975; the lyricist, Francisco Borja DA COSTA, was killed in the Indonesian invasion just days after independence was declared",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TT.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.\nIn June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.\nAnnual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 7426000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7784000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 7391000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 166,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2775000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -4.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 5.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 216
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 6000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 164,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 33,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 30,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 10.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 78.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -52,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 9.1,
+							"units": "%"
+						},
+						"industry": {
+							"value": 56.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 34.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"rice",
+				"corn",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"sweet potatoes",
+				"soybeans",
+				"cabbage",
+				"mangoes",
+				"bananas",
+				"vanilla"
+			]
+		},
+		"industries": {
+			"industries": [
+				"printing",
+				"soap manufacturing",
+				"handicrafts",
+				"woven cloth"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2,
+			"global_rank": 133,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 286700,
+				"global_rank": 164,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 41,
+						"units": "%"
+					},
+					"industry": {
+						"value": 13,
+						"units": "%"
+					},
+					"services": {
+						"value": 45.1,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 3.9,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 65
+		},
+		"population_below_poverty_line": {
+			"value": 41.8,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 27,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 300000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2400000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 10.8,
+			"global_rank": 213,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -75.7,
+			"global_rank": 222,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 3.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 206
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 34
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -284000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -544000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 106
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 16700000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 18000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 214
+			},
+			"commodities": {
+				"by_commodity": [
+					"oil",
+					"coffee",
+					"sandalwood",
+					"marble",
+					"note: potential for vanilla exports"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 681200000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 558600000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 193
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"gasoline",
+					"kerosene",
+					"machinery"
+				]
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 544400000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 437800000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 150,
+			"note": "excludes assets of approximately $9.7 billion in the Petroleum Fund (31 December 2010)"
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 311500000,
+					"units": "USD",
+					"date": "2014-12-31"
+				},
+				{
+					"value": 687000000,
+					"units": "USD",
+					"date": "2013-12-31"
+				}
+			],
+			"global_rank": 183
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 63.4,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 91.7,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 49.2,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 0,
+				"global_rank": 219,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 0,
+				"global_rank": 218,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 207,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 209,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 600,
+				"global_rank": 215,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 0,
+					"global_rank": 215,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 194,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 204,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 100,
+					"global_rank": 1,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 33000,
+				"global_rank": 60,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 62060,
+				"global_rank": 39,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 203,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 203,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 207,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 3500,
+				"global_rank": 186,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 208,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 3481,
+				"global_rank": 182,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 5776000000,
+				"global_rank": 48,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 205,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 5776000000,
+				"global_rank": 27,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 199,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 200000000000,
+				"global_rank": 42,
+				"date": "2006-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 533400,
+			"global_rank": 184,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2164,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 217,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1490966,
+				"subscriptions_per_one_hundred_inhabitants": 110.22,
+				"global_rank": 158,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "7 TV stations (3 nationwide satellite coverage; 2 terrestrial coverage, mostly in Dili; 2 cable) and 21 radio stations (3 nationwide coverage) (2019)",
+		"internet": {
+			"country_code": ".tl",
+			"users": {
+				"total": 363398,
+				"percent_of_population": 27.49,
+				"global_rank": 162,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 2,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "4W",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 6,
+					"global_rank": 177,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 4,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 8,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 6040,
+				"units": "km"
+			},
+			"paved": {
+				"value": 2600,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3440,
+				"units": "km"
+			},
+			"global_rank": 143,
+			"date": "2008"
+		},
+		"merchant_marine": {
+			"total": 1,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 1
+				}
+			],
+			"global_rank": 180,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Dili"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 120
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; 18-month service obligation",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"three stretches of land borders with Indonesia have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Economic Exclusion Zone boundaries have been established between the countries",
+			"maritime boundaries with Indonesia remain unresolved",
+			"Timor-Leste and Australia reached agreement on a treaty delimiting a permanent maritime boundary in March 2018",
+			"the treaty will enter into force once ratified by the two countries' parliaments"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Timor-Leste is a source and destination country for men, women, and children subjected to forced labor and sex trafficking; Timorese women and girls from rural areas are lured to the capital with promises of legitimate jobs or education prospects and are then forced into prostitution or domestic servitude, and other women and girls may be sent to Indonesia for domestic servitude; Timorese family members force children into bonded domestic or agricultural labor to repay debts; foreign migrant women are vulnerable to sex trafficking in Timor-Leste, while men and boys from Burma, Cambodia, and Thailand are forced to work on fishing boats in Timorese waters under inhumane conditions",
+			"tier_rating": "Tier 2 Watch List – Timor-Leste does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, legislation was drafted but not finalized or implemented that outlines procedures for screening potential trafficking victims; law enforcement made modest progress, including one conviction for sex trafficking, but efforts are hindered by prosecutors’ and judges’ lack of expertise in applying anti-trafficking laws effectively; the government rescued two child victims with support from an NGO but did not provide protective services (2015)"
+		},
+		"illicit_drugs": {
+			"note": "NA"
+		}
+	}
+}

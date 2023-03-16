@@ -1,0 +1,1858 @@
+{
+	"name": "Haiti",
+	"introduction": {
+		"background": ""
+	},
+	"geography": {
+		"location": "Caribbean, western one-third of the island of Hispaniola, between the Caribbean Sea and the North Atlantic Ocean, west of the Dominican Republic",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 19,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 72,
+				"minutes": 25,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 27750,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 27560,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 190,
+				"units": "sq km"
+			},
+			"global_rank": 148,
+			"comparative": "slightly smaller than Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 376,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Dominican Republic",
+					"border_length": {
+						"value": 376,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1771,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": "to depth of exploitation"
+		},
+		"climate": "tropical; semiarid where mountains in east cut off trade winds",
+		"terrain": "mostly rough and mountainous",
+		"elevation": {
+			"mean_elevation": {
+				"value": 470,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Chaine de la Selle",
+				"elevation": {
+					"value": 2680,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"bauxite",
+				"copper",
+				"calcium carbonate",
+				"gold",
+				"marble",
+				"hydropower",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 66.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 38.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 10.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 17.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 3.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 30,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 970,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "fairly even distribution; largest concentrations located near coastal areas",
+		"natural_hazards": [
+			{
+				"description": "lies in the middle of the hurricane belt and subject to severe storms from June to October",
+				"type": "hazard"
+			},
+			{
+				"description": "occasional flooding and earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"extensive deforestation (much of the remaining forested land is being cleared for agriculture and used as fuel)",
+				"soil erosion",
+				"overpopulation leads to inadequate supplies of potable water and and a lack of sanitation",
+				"natural disasters"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": [
+					"Hazardous Wastes"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 11067777,
+			"global_rank": 82,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Haitian(s)",
+			"adjective": "Haitian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "black",
+					"percent": 95
+				},
+				{
+					"name": "mixed and white",
+					"percent": 5
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "Creole",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 54.7
+				},
+				{
+					"name": "Protestant",
+					"percent": 28.5,
+					"breakdown": [
+						{
+							"name": "Baptist",
+							"percent": 15.4
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 7.9
+						},
+						{
+							"name": "Adventist",
+							"percent": 3
+						},
+						{
+							"name": "Methodist",
+							"percent": 1.5
+						},
+						{
+							"name": "other",
+							"percent": 0.7
+						}
+					]
+				},
+				{
+					"name": "Vodou",
+					"percent": 2.1
+				},
+				{
+					"name": "other",
+					"percent": 4.6
+				},
+				{
+					"name": "none",
+					"percent": 10.2
+				}
+			],
+			"note": "many Haitians practice elements of Vodou in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003",
+			"date": "2003"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 31.21,
+				"males": 1719961,
+				"females": 1734566
+			},
+			"15_to_24": {
+				"percent": 20.71,
+				"males": 1145113,
+				"females": 1146741
+			},
+			"25_to_54": {
+				"percent": 38.45,
+				"males": 2110294,
+				"females": 2145209
+			},
+			"55_to_64": {
+				"percent": 5.3,
+				"males": 280630,
+				"females": 305584
+			},
+			"65_and_over": {
+				"percent": 4.33,
+				"males": 210451,
+				"females": 269228
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 60.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 52.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.3,
+				"units": "years"
+			},
+			"global_rank": 167,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.26,
+			"global_rank": 87,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 21.7,
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.4,
+			"global_rank": 109,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.9,
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"population_distribution": "fairly even distribution; largest concentrations located near coastal areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 57.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.9,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Port-Au-Prince",
+					"population": 2774000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.78,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.8
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 480,
+			"global_rank": 22,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 42.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 48.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 36.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 33,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 65.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 62.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 68,
+				"units": "years"
+			},
+			"global_rank": 194,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.52,
+			"global_rank": 72,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 34.3,
+			"units": "%",
+			"date": "2016"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.23,
+			"date": "2018"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.7,
+			"date": "2013"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 91.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 55.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 75,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 8.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 44.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 25,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 80.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 40,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 62.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 19.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 60,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 37.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.9,
+				"global_rank": 25,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 160000,
+				"global_rank": 35,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 2700,
+				"global_rank": 38,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.7,
+			"global_rank": 72,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 9.5,
+			"global_rank": 67,
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.4,
+			"global_rank": 162,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 61.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 65.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 58.3,
+				"units": "%"
+			},
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Haiti",
+			"conventional_short_form": "Haiti",
+			"local_long_form": "Republique d'Haiti/Repiblik d Ayiti",
+			"local_short_form": "Haiti/Ayiti",
+			"etymology": "the native Taino name means \"Land of High Mountains\" and was originally applied to the entire island of Hispaniola"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Port-au-Prince",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 32,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 72,
+					"minutes": 20,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+			"etymology": "according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, \"the Port of The Prince\""
+		},
+		"independence": {
+			"date": "1804-01-01",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "1 January",
+				"original_year": "1804"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest adopted 10 March 1987",
+			"amendments": "proposed by the executive branch or by either the Senate or the Chamber of Deputies; consideration of proposed amendments requires support by at least two-thirds majority of both houses; passage requires at least two-thirds majority of the membership present and at least two-thirds majority of the votes cast; approved amendments enter into force after installation of the next president of the republic; constitutional articles on the democratic and republican form of government cannot be amended; amended 2011, 2012"
+		},
+		"legal_system": "civil law system strongly influenced by Napoleonic Code",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a native-born citizen of Haiti",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Jovenel MOISE (since 7 February 2017)",
+			"head_of_government": "Prime Minister Joseph JOUTHE (since since 4 March 2020)",
+			"cabinet": "Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election originally scheduled for 9 October 2016 but postponed until 20 November 2016 due to Hurricane Matthew",
+			"election_results": "Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%"
+		},
+		"legislative_branch": {
+			"description": "bicameral legislature or le Corps l'egislatif ou le Parlement consists of: le S'enat or Senate (30 seats, 29 filled as of June 2019; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)\nla Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution",
+			"elections": "Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next scheduled for 27 October 2019)\nChamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next scheduled for 27 October 2019)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%\nChamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice",
+			"judge_selection_and_term_of_office": "judges appointed by the president from candidate lists submitted by the Senate of the National Assembly; note - Article 174 of Haiti's constitution states that judges of the Supreme Court are appointed for 10 years, whereas Article 177 states that judges of the Supreme Court are appointed for life",
+			"subordinate_courts": "Courts of Appeal; Courts of First Instance; magistrate's courts;  land, labor, and children's courts",
+			"note": "the Superior Council of the Judiciary or Conseil Superieur du Pouvoir Judiciaire is a 9-member body charged with the administration and oversight of the judicial branch of government"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alternative League for Haitian Progress and Empowerment",
+					"name_alternative": "LAPEH",
+					"leaders": [
+						"Jude CELESTIN"
+					]
+				},
+				{
+					"name": "Christian Movement for a New Haiti",
+					"name_alternative": "MCNH",
+					"leaders": [
+						"Luc MESADIEU"
+					]
+				},
+				{
+					"name": "Christian National Movement for the Reconstruction of Haiti",
+					"name_alternative": "UNCRH",
+					"leaders": [
+						"Chavannes JEUNE"
+					]
+				},
+				{
+					"name": "Convention for Democratic Unity",
+					"name_alternative": "KID",
+					"leaders": [
+						"Evans PAUL"
+					]
+				},
+				{
+					"name": "Cooperative Action to Rebuild Haiti",
+					"name_alternative": "KONBA",
+					"leaders": [
+						"Jean William JEANTY"
+					]
+				},
+				{
+					"name": "December 16 Platform",
+					"name_alternative": "Platfom 16 Desanm",
+					"leaders": [
+						"Dr. Gerard BLOT"
+					]
+				},
+				{
+					"name": "Democratic Alliance Party",
+					"name_alternative": "ALYANS",
+					"leaders": [
+						"Evans PAUL"
+					],
+					"note": "coalition includes KID and PPRH"
+				},
+				{
+					"name": "Democratic Centers' National Council",
+					"name_alternative": "CONACED",
+					"leaders": [
+						"Osner FEVRY"
+					]
+				},
+				{
+					"name": "Dessalinian Patriotic and Popular Movement",
+					"name_alternative": "MOPOD",
+					"leaders": [
+						"Jean Andre VICTOR"
+					]
+				},
+				{
+					"name": "Effort and Solidarity to Create an Alternative for the People",
+					"name_alternative": "ESKAMP",
+					"leaders": [
+						"Joseph JASME"
+					]
+				},
+				{
+					"name": "Fanmi Lavalas",
+					"name_alternative": "FL",
+					"leaders": [
+						"Jean-Bertrand ARISTIDE"
+					]
+				},
+				{
+					"name": "For Us All",
+					"name_alternative": "PONT",
+					"leaders": [
+						"Jean-Marie CHERESTAL"
+					]
+				},
+				{
+					"name": "Fusion of Haitian Social Democrats",
+					"name_alternative": "FHSD",
+					"leaders": [
+						"Edmonde Supplice BEAUZILE"
+					]
+				},
+				{
+					"name": "Grouping of Citizens for Hope",
+					"name_alternative": "RESPE",
+					"leaders": [
+						"Charles-Henri BAKER"
+					]
+				},
+				{
+					"name": "Haitians for Haiti",
+					"leaders": [
+						"Yvon NEPTUNE"
+					]
+				},
+				{
+					"name": "Haitian Tet Kale Party",
+					"name_alternative": "PHTK",
+					"leaders": [
+						"Ann Valerie Timothee MILFORT"
+					]
+				},
+				{
+					"name": "Haiti in Action",
+					"name_alternative": "AAA",
+					"leaders": [
+						"Youri LATORTUE"
+					]
+				},
+				{
+					"name": "Independent Movement for National Reconstruction",
+					"name_alternative": "MIRN",
+					"leaders": [
+						"Luc FLEURINORD"
+					]
+				},
+				{
+					"name": "Konbit Pou refe Ayiti",
+					"name_alternative": "KONBIT"
+				},
+				{
+					"name": "Lavni Organization",
+					"name_alternative": "LAVNI",
+					"leaders": [
+						"Yves CRISTALIN"
+					]
+				},
+				{
+					"name": "Liberal Party of Haiti",
+					"name_alternative": "PLH",
+					"leaders": [
+						"Jean Andre VICTOR"
+					]
+				},
+				{
+					"name": "Love Haiti",
+					"name_alternative": "Renmen Ayiti",
+					"leaders": [
+						"Jean-Henry CEANT",
+						"Camille LEBLANC"
+					]
+				},
+				{
+					"name": "Mobilization for National Development",
+					"name_alternative": "MDN",
+					"leaders": [
+						"Hubert de RONCERAY"
+					]
+				},
+				{
+					"name": "New Christian Movement for a New Haiti",
+					"name_alternative": "MOCHRENA",
+					"leaders": [
+						"Luc MESADIEU"
+					]
+				},
+				{
+					"name": "Organization for the Advancement of Haiti and Haitians",
+					"name_alternative": "OLAHH"
+				},
+				{
+					"name": "Party for the Integral Advancement of the Haitian People",
+					"name_alternative": "PAIPH"
+				},
+				{
+					"name": "Patriotic Unity",
+					"name_alternative": "IP",
+					"leaders": [
+						"Marie Denise CLAUDE"
+					]
+				},
+				{
+					"name": "Peasant's Response",
+					"name_alternative": "Repons Peyizan",
+					"leaders": [
+						"Michel MARTELLY"
+					]
+				},
+				{
+					"name": "Platform Alternative for Progress and Democracy",
+					"name_alternative": "ALTENATIV",
+					"leaders": [
+						"Victor BENOIT and Evans PAUL"
+					]
+				},
+				{
+					"name": "Platform of Haitian Patriots",
+					"name_alternative": "PLAPH",
+					"leaders": [
+						"Dejean BELISAIRE",
+						"Himmler REBU"
+					]
+				},
+				{
+					"name": "Platform Pitit Desaline",
+					"name_alternative": "PPD",
+					"leaders": [
+						"Jean-Charles MOISE"
+					]
+				},
+				{
+					"name": "Pont"
+				},
+				{
+					"name": "Popular Party for the Renewal of Haiti",
+					"name_alternative": "PPRH",
+					"leaders": [
+						"Claude ROMAIN"
+					]
+				},
+				{
+					"name": "PPG18"
+				},
+				{
+					"name": "Rally of Progressive National Democrats",
+					"name_alternative": "RDNP",
+					"leaders": [
+						"Mirlande MANIGAT"
+					]
+				},
+				{
+					"name": "Renmen Ayiti",
+					"name_alternative": "RA",
+					"leaders": [
+						"Jean-Henry CEANT"
+					]
+				},
+				{
+					"name": "Reseau National Bouclier",
+					"name_alternative": "Bouclier"
+				},
+				{
+					"name": "Respect",
+					"name_alternative": "RESPE"
+				},
+				{
+					"name": "Strength in Unity",
+					"name_alternative": "Ansanm Nou Fo",
+					"leaders": [
+						"Leslie VOLTAIRE"
+					]
+				},
+				{
+					"name": "Struggling People's Organization",
+					"name_alternative": "OPL",
+					"leaders": [
+						"Jacques-Edouard ALEXIS"
+					]
+				},
+				{
+					"name": "Truth ",
+					"note": "Verite"
+				},
+				{
+					"name": "Union",
+					"leaders": [
+						"Chavannes JEUNE"
+					]
+				},
+				{
+					"name": "Unity",
+					"name_alternative": "Inite",
+					"leaders": [
+						"Levaillant LOUIS-JEUNE"
+					]
+				},
+				{
+					"name": "Vigilance",
+					"name_alternative": "Veye Yo",
+					"leaders": [
+						"Lavarice GAUDIN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Charge d'Affaires Herve DENIS (since 7 March 2019)",
+				"chancery": "2311 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 332-4090",
+				"fax": "[1] (202) 745-7215",
+				"consulates_general": "Atlanta, Boston, Chicago, Miami, Orlando (FL), New York, San Juan (Puerto Rico)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Michele SISON (since 21 February 2018)",
+				"telephone": "[509] 229-8000",
+				"embassy": "Tabarre 41, Route de Tabarre, Port-au-Prince",
+				"mailing_address": "(in Haiti) P.O. Box 1634, Port-au-Prince, Haiti; (from abroad) 3400 Port-au-Prince, State Department, Washington, DC 20521-3400",
+				"fax": "[509] 229-8028"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Hispaniolan trogon ",
+					"note": "bird"
+				},
+				{
+					"symbol": "hibiscus flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"La Dessalinienne\" (The Dessalines Song)",
+			"lyrics_music": "Justin LHERISSON/Nicolas GEFFRARD",
+			"note": "adopted 1904; named for Jean-Jacques DESSALINES, a leader in the Haitian Revolution and first ruler of an independent Haiti",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/HA.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.\nCurrently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.\nUS economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.\nInvestment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 19970000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 19740000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 19460000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 150,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 8608000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.2,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 181
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1800,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 213,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 99.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 10,
+							"units": "%",
+							"date": "2016"
+						},
+						"investment_in_fixed_capital": {
+							"value": 32.6,
+							"units": "%",
+							"date": "2016"
+						},
+						"investment_in_inventories": {
+							"value": -1.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 20,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -60.3,
+							"units": "%"
+						}
+					},
+					"note": "figure for household consumption also includes government consumption",
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 22.1,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 57.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 24.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 29.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 29.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 61
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"mangoes",
+				"cocoa",
+				"sugarcane",
+				"rice",
+				"corn",
+				"sorghum",
+				"wood",
+				"vetiver"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"sugar refining",
+				"flour milling",
+				"cement",
+				"light assembly using imported parts"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 0.9,
+			"global_rank": 161,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4594000,
+				"global_rank": 88,
+				"date": "2014"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 38.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 11.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 50.4,
+						"units": "%"
+					}
+				},
+				"date": "2010"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 40.6,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 215,
+			"note": "widespread unemployment and underemployment; more than two-thirds of the labor force do not have formal jobs"
+		},
+		"population_below_poverty_line": {
+			"value": 58.5,
+			"units": "%",
+			"date": "2012"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 0.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 47.7,
+				"units": "%"
+			},
+			"date": "2001"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1567000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1650000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 18.2,
+			"global_rank": 163,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 79,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 31.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 33.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 164
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 14.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 13.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 211
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -348000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -83000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 108
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 980200000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 995000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 160
+			},
+			"commodities": {
+				"by_commodity": [
+					"apparel",
+					"manufactures",
+					"oils",
+					"cocoa",
+					"mangoes",
+					"coffee"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 80.6
+					},
+					{
+						"name": "Dominican Republic",
+						"percent": 4.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3618000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3183000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 143
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"manufactured goods",
+					"machinery",
+					"transport equipment",
+					"fuels",
+					"raw materials"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 20.7
+					},
+					{
+						"name": "China",
+						"percent": 18.8
+					},
+					{
+						"name": "Netherlands Antilles",
+						"percent": 15.7
+					},
+					{
+						"name": "Indonesia",
+						"percent": 8.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2361000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2109999999.9999998,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 117
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 2762000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2170000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 145
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 65.21,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 63.34,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 63.34,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 50.71,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 45.22,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "gourdes (HTG) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 8000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 38.7,
+					"units": "%",
+					"note": "2016"
+				},
+				"urban_electrification": {
+					"value": 65.4,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 0.5,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2017"
+			},
+			"production": {
+				"kWh": 1022999999.9999999,
+				"global_rank": 149,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 406200000,
+				"global_rank": 173,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 147,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 159,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 332000,
+				"global_rank": 155,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 82,
+					"global_rank": 78,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 106,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 18,
+					"global_rank": 94,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 191,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 148,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 136,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 140,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 144,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 156,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 21000,
+				"global_rank": 137,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 165,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 20030,
+				"global_rank": 122,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 145,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 158,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 120,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 138,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 146,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 3595000,
+			"global_rank": 141,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 5464,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 204,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 6287411,
+				"subscriptions_per_one_hundred_inhabitants": 57.53,
+				"global_rank": 110,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "98 television stations throughout the country, including 1 government-owned; cable TV subscription service available; 850 radio stations (of them, only 346 are licensed), including 1 government-owned; more than 100 community radio stations; over 64 FM stations in Port-au-Prince alone; VOA Creole Service broadcasts daily on 30 affiliate stations (2016)",
+		"internet": {
+			"country_code": ".ht",
+			"users": {
+				"total": 3503006,
+				"percent_of_population": 32.47,
+				"global_rank": 95,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 1,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HH",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 14,
+					"global_rank": 149,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 4,
+					"2438_to_3047_metres": 2,
+					"914_to_1523_metres": 2,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 10,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 8,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 4266,
+				"units": "km"
+			},
+			"paved": {
+				"value": 768,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3498,
+				"units": "km"
+			},
+			"global_rank": 152,
+			"date": "2009"
+		},
+		"merchant_marine": {
+			"total": 4,
+			"by_type": [
+				{
+					"type": "general cargo 3other",
+					"count": 1
+				}
+			],
+			"global_rank": 167,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Cap-Haitien",
+				"Gonaives",
+				"Jacmel",
+				"Port-au-Prince"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"since 2004, peacekeepers from the UN Stabilization Mission in Haiti have assisted in maintaining civil order in Haiti",
+			"the mission currently includes 6,685 military, 2,607 police, and 443 civilian personnel",
+			"despite efforts to control illegal migration, Haitians cross into the Dominican Republic and sail to neighboring countries",
+			"Haiti claims US-administered Navassa Island"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 34508,
+				"note": "includes only internally_displaced_persons from the 2010 earthquake living in camps or camp-like situations; information is lacking about internally_displaced_persons living outside of camps or who have left camps",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 2992,
+				"date": "2018"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Haiti is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; most of Haiti’s trafficking cases involve children in domestic servitude vulnerable to physical and sexual abuse; dismissed and runaway child domestic servants often end up in prostitution, begging, or street crime; other exploited populations included low-income Haitians, child laborers, and women and children living in IDP camps dating to the 2010 earthquake; Haitian adults are vulnerable to fraudulent labor recruitment abroad and, along with children, may be subjected to forced labor in the Dominican Republic, elsewhere in the Caribbean, South America, and the US; Dominicans are exploited in sex trafficking and forced labor in Haiti",
+			"tier_rating": "Tier 2 Watch List – Haiti does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Haiti was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; in 2014, Haiti developed a national anti-trafficking action plan and enacted a law prohibiting all forms of human trafficking, although judicial corruption hampered its implementation; progress was made in investigating and prosecuting suspected traffickers, but no convictions were made; the government sustained limited efforts to identify and refer victims to protective services, which were provided mostly by NGOs without government support; campaigns to raise awareness about child labor and child trafficking continued (2015)"
+		},
+		"illicit_drugs": {
+			"note": "Caribbean transshipment point for cocaine en route to the US and Europe; substantial bulk cash smuggling activity; Colombian narcotics traffickers favor Haiti for illicit financial transactions; pervasive corruption; significant consumer of cannabis"
+		}
+	}
+}

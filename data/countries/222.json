@@ -1,0 +1,433 @@
+{
+	"name": "Svalbard",
+	"introduction": {
+		"background": "The archipelago may have been first discovered by Norse explorers in the 12th century; the islands served as an international whaling base during the 17th and 18th centuries. Norway's sovereignty was internationally recognized by treaty in 1920, and five years later it officially took over the territory. In the 20th century coal mining started and today a Norwegian and a Russian company are still functioning. Travel between the settlements is accomplished with snowmobiles, aircraft, and boats."
+	},
+	"geography": {
+		"location": "Northern Europe, islands between the Arctic Ocean, Barents Sea, Greenland Sea, and Norwegian Sea, north of Norway",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 78,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 20,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Arctic Region",
+		"area": {
+			"total": {
+				"value": 62045,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 62045,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes Spitsbergen and Bjornoya (Bear Island)",
+			"global_rank": 126,
+			"comparative": "slightly smaller than West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 3587,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": "extends to depth of exploitation",
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "arctic, tempered by warm North Atlantic Current; cool summers, cold winters; North Atlantic Current flows along west and north coasts of Spitsbergen, keeping water open and navigable most of the year",
+		"terrain": "rugged mountains; much of the upland areas are ice covered; west coast clear of ice about half the year; fjords along west and north coasts",
+		"elevation": {
+			"lowest_point": {
+				"name": "Arctic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Newtontoppen",
+				"elevation": {
+					"value": 1717,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"iron ore",
+				"copper",
+				"zinc",
+				"phosphate",
+				"wildlife",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "the small population is primarily concentrated on the island of Spitsbergen in a handful of settlements on the south side of the Isfjorden, with Longyearbyen being the largest",
+		"natural_hazards": [
+			{
+				"description": "ice floes often block the entrance to Bellsund (a transit point for coal export) on the west coast and occasionally make parts of the northeastern coast inaccessible to maritime traffic",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"ice floes are a maritime hazard",
+				"past exploitation of mammal species (whale",
+				"seal",
+				"walrus",
+				"and polar bear) severely depleted the populations",
+				"but a gradual recovery seems to be occurring"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2926,
+			"global_rank": 230,
+			"date": "2019-07-01"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Norwegian",
+					"percent": 58
+				},
+				{
+					"name": "foreign population",
+					"percent": 42,
+					"note": "consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians"
+				}
+			],
+			"note": "foreigners account for almost one third of the population of the Norwegian settlements, Longyearbyen and Ny-Alesund (where the majority of Svalbard's resident population lives), as of mid-2019",
+			"date": "2019"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Norwegian"
+				},
+				{
+					"name": "Russian"
+				}
+			]
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.03,
+			"global_rank": 197,
+			"date": "2014"
+		},
+		"population_distribution": "the small population is primarily concentrated on the island of Spitsbergen in a handful of settlements on the south side of the Isfjorden, with Longyearbyen being the largest",
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)",
+			"etymology": "12th century Norse accounts speak of the discovery of a \"Svalbard\" - literally \"cold shores\" - but they may have referred to Jan Mayen Island or eastern Greenland; the archipelago was traditionally known as Spitsbergen, but Norway renamed it Svalbard in the 1920s when it assumed sovereignty of the islands"
+		},
+		"government_type": "non-self-governing territory of Norway",
+		"capital": {
+			"name": "Longyearbyen",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 78,
+					"minutes": 13,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 15,
+					"minutes": 38,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906"
+		},
+		"independence": {
+			"note": "territory of Norway"
+		},
+		"legal_system": "the laws of Norway where applicable apply; only the laws of Norway made explicitly applicable to Svalbard have effect there; the Svalbard Act and the Svalbard Environmental Protection Act, and certain regulations, apply only to Svalbard; the Spitsbergen Treaty and the Svalbard Treaty grant certain rights to citizens and corporations of signatory nations; as of June 2017, 45 nations had ratified the Svalbard Treaty",
+		"executive_branch": {
+			"chief_of_state": "King HARALD V of Norway (since 17 January 1991); Heir Apparent Crown Prince Haakon MAGNUS (son of the king, born 20 July 1973)",
+			"head_of_government": "Governor Kjerstin ASKHOLT (since 1 October 2015); Assistant Governor Berit SAGFOSSEN (since 1 April 2016)",
+			"elections_appointments": "none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice"
+		},
+		"legislative_branch": {
+			"description": "unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms); note - the Council acts very much like a Norwegian municipality, responsible for infrastructure and utilities, including power, land-use and community planning, education, and child welfare; however, healthcare services are provided by the state",
+			"elections": "last held on 7 October 2019 (next to be held in October 2023)",
+			"election_results": "seats by party - Conservatives 5, Labor Party 5, Liberals 3, Green Party 2"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Svalbard Conservative Party",
+					"leaders": [
+						"Kjetil FIGENSCHOU"
+					]
+				},
+				{
+					"name": "Svalbard Green Party",
+					"leaders": [
+						"Helga Bardsdatter KRISTIANSEN",
+						"Espen Klungseth ROTEVATN"
+					]
+				},
+				{
+					"name": "Svalbard Labor Party",
+					"leaders": [
+						"Elise STROMSENG"
+					]
+				},
+				{
+					"name": "Svalbard Liberal Party",
+					"leaders": [
+						"Erik BERGER"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "none"
+			}
+		],
+		"flag_description": {
+			"description": "the flag of Norway is used"
+		},
+		"national_anthem": {
+			"note": "as a territory of Norway, \"Ja, vi elsker dette landet\" is official (see Norway)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SV.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Coal mining, tourism, and international research are Svalbard's major industries. Coal mining has historically been the dominant economic activity, and the Spitzbergen Treaty of 9 February 1920 gives the 45 countries that so far have ratified the treaty equal rights to exploit mineral deposits, subject to Norwegian regulation. Although US, UK, Dutch, and Swedish coal companies have mined in the past, the only companies still engaging in this are Norwegian and Russian. Low coal prices have forced the Norwegian coal company, Store Norske Spitsbergen Kulkompani, to close one of its two mines and to considerably reduce the activity of the other. Since the 1990s, the tourism and hospitality industry has grown rapidly, and Svalbard now receives 60,000 visitors annually.\nThe settlements on Svalbard were established as company towns, and at their height in the 1950s, the Norwegian state-owned coal company supported nearly 1,000 jobs. Today, only about 300 people work in the mining industry.\nGoods such as alcohol, tobacco, and vehicles, normally highly taxed on mainland Norway, are considerably cheaper in Svalbard in an effort by the Norwegian Government to entice more people to live on the Arctic archipelago. By law, Norway collects only enough taxes to pay for the needs of the local government; none of tax proceeds go to the central government.",
+		"gdp": {
+			"real_growth_rate": {
+				"note": "NA"
+			}
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1590,
+				"global_rank": 228,
+				"date": "2013"
+			}
+		},
+		"budget": {},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			}
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 8.308,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 8.0646,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 8.0646,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 8.0646,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 6.3021,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Norwegian kroner (NOK) per US dollar"
+		}
+	},
+	"energy": {
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 194300,
+				"global_rank": 36,
+				"date": "2014"
+			},
+			"exports": {
+				"bbl_per_day": 16070,
+				"global_rank": 53,
+				"date": "2012"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 200,
+				"date": "2012"
+			}
+		},
+		"refined_petroleum_products": {
+			"consumption": {
+				"bbl_per_day": 80250,
+				"global_rank": 87,
+				"date": "2013"
+			},
+			"exports": {
+				"bbl_per_day": 4488,
+				"global_rank": 93,
+				"date": "2012"
+			},
+			"imports": {
+				"bbl_per_day": 18600,
+				"global_rank": 127,
+				"date": "2012"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 203,
+				"date": "2013"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 204,
+				"date": "2013"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 192,
+				"date": "2013"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 195,
+				"date": "2013"
+			}
+		}
+	},
+	"communications": {
+		"broadcast_media": "the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Svalbard via satellite in 1984; Longyearbyen households have access to 3 NRK radio and 2 TV stations",
+		"internet": {
+			"country_code": ".sj"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 4,
+					"global_rank": 189,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"2438_to_3047_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 3,
+					"under_914_metres": 3,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 40,
+				"units": "km"
+			},
+			"global_rank": 218,
+			"date": "2020"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Barentsburg",
+				"Longyearbyen",
+				"Ny-Alesund",
+				"Pyramiden"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "Svalbard is a territory of Norway, demilitarized by treaty on 9 February 1920; Norwegian military activity is limited to fisheries surveillance by the Norwegian Coast Guard"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"despite recent discussions, Russia and Norway dispute their maritime limits in the Barents Sea and Russia's fishing rights beyond Svalbard's territorial limits within the Svalbard Treaty zone"
+		]
+	}
+}

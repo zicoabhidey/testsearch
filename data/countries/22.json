@@ -1,0 +1,1897 @@
+{
+	"name": "Bangladesh",
+	"introduction": {
+		"background": "The huge delta region formed at the confluence of the Ganges and Brahmaputra River systems - now referred to as Bangladesh - was a loosely incorporated outpost of various empires centered on the Gangetic plain for much of the first millennium A.D. Muslim conversions and settlement in the region began in the 10th century, primarily from Arab and Persian traders and preachers. Europeans established trading posts in the area in the 16th century. Eventually the area known as Bengal, primarily Hindu in the western section and mostly Muslim in the eastern half, became part of British India. Partition in 1947 resulted in an eastern wing of Pakistan in the Muslim-majority area, which became East Pakistan. Calls for greater autonomy and animosity between the eastern and western wings of Pakistan led to a Bengali independence movement. That movement, led by the Awami League (AL) and supported by India, won the independence war for Bangladesh in 1971.\nThe post-independence AL government faced daunting challenges and in 1975 it was overthrown by the military, triggering a series of military coups that resulted in a military-backed government and subsequent creation of the Bangladesh Nationalist Party (BNP) in 1978. That government also ended in a coup in 1981, followed by military-backed rule until democratic elections occurred in 1991. The BNP and AL have alternated in power since 1991, with the exception of a military-backed, emergency caretaker regime that suspended parliamentary elections planned for January 2007 in an effort to reform the political system and root out corruption. That government returned the country to fully democratic rule in December 2008 with the election of the AL and Prime Minister Sheikh HASINA. In January 2014, the incumbent AL won the national election by an overwhelming majority after the BNP boycotted the election, which extended HASINA's term as prime minister. In December 2018, HASINA secured a third consecutive term (fourth overall) with the AL coalition securing 96% of available seats, amid widespread claims of election irregularities. With the help of international development assistance, Bangladesh has reduced the poverty rate from over half of the population to less than a third, achieved Millennium Development Goals for maternal and child health, and made great progress in food security since independence. The economy has grown at an annual average of about 6% for the last two decades and the country reached World Bank lower-middle income status in 2014."
+	},
+	"geography": {
+		"location": "Southern Asia, bordering the Bay of Bengal, between Burma and India",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 24,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 90,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 148460,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 130170,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 18290,
+				"units": "sq km"
+			},
+			"global_rank": 95,
+			"comparative": "slightly larger than Pennsylvania and New Jersey combined; slightly smaller than Iowa"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4413,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Burma",
+					"border_length": {
+						"value": 271,
+						"units": "km"
+					}
+				},
+				{
+					"country": "India",
+					"border_length": {
+						"value": 4142,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 580,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 18,
+				"units": "nm"
+			},
+			"continental_shelf": "to the outer limits of the continental margin"
+		},
+		"climate": "tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)",
+		"terrain": "mostly flat alluvial plain; hilly in southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 85,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Keokradong",
+				"elevation": {
+					"value": 1230,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"natural gas",
+				"arable land",
+				"timber",
+				"coal"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 70.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 59,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 6.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 4.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 11.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 18.8,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 53000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"natural_hazards": [
+			{
+				"description": "droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "cyclones",
+				"type": "hazard"
+			},
+			{
+				"description": "much of the country routinely inundated during the summer monsoon season",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"many people are landless and forced to live on and cultivate flood-prone land",
+				"waterborne diseases prevalent in surface water",
+				"water pollution",
+				"especially of fishing areas",
+				"results from the use of commercial pesticides",
+				"ground water contaminated by naturally occurring arsenic",
+				"intermittent water shortages because of falling water tables in the northern and central parts of the country",
+				"soil degradation and erosion",
+				"deforestation",
+				"destruction of wetlands",
+				"severe overpopulation with noise pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 162650853,
+			"global_rank": 8,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Bangladeshi(s)",
+			"adjective": "Bangladeshi"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Bengali at least",
+					"percent": 98
+				},
+				{
+					"name": "other indigenous ethnic groups",
+					"percent": 1.1
+				}
+			],
+			"note": "Bangladesh's government recognizes 27 indigenous ethnic groups under the 2010 Cultural Institution for Small Anthropological Groups Act; other sources estimate there are about 75 ethnic groups; critics of the 2011 census claim that it underestimates the size of Bangladesh's ethnic population",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Bangla",
+					"percent": 98.8,
+					"note": "official, also known as Bengali"
+				},
+				{
+					"name": "other",
+					"percent": 1.2
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 89.1
+				},
+				{
+					"name": "Hindu",
+					"percent": 10
+				},
+				{
+					"name": "other",
+					"percent": 0.9,
+					"note": "includes Buddhist, Christian"
+				}
+			],
+			"date": "2013"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 26.48,
+				"males": 21918651,
+				"females": 21158574
+			},
+			"15_to_24": {
+				"percent": 18.56,
+				"males": 15186470,
+				"females": 15001950
+			},
+			"25_to_54": {
+				"percent": 40.72,
+				"males": 31694267,
+				"females": 34535643
+			},
+			"55_to_64": {
+				"percent": 7.41,
+				"males": 5941825,
+				"females": 6115856
+			},
+			"65_and_over": {
+				"percent": 6.82,
+				"males": 5218206,
+				"females": 5879411
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 47,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 39.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 27.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 27.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 28.6,
+				"units": "years"
+			},
+			"global_rank": 143,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.98,
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.1,
+			"global_rank": 88,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.5,
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3,
+			"global_rank": 175,
+			"date": "2020"
+		},
+		"urbanization": {
+			"urban_population": {
+				"value": 38.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.17,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Dhaka",
+					"population": 21006000,
+					"is_capital": true
+				},
+				{
+					"place": "Chittagong",
+					"population": 5020000
+				},
+				{
+					"place": "Khulna",
+					"population": 954000
+				},
+				{
+					"place": "Rajshahi",
+					"population": 908000
+				},
+				{
+					"place": "Sylhet",
+					"population": 852000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 18.5,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 173,
+			"global_rank": 53,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 28.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 30.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 26,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 60,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 72,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.5,
+				"units": "years"
+			},
+			"global_rank": 133,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.11,
+			"global_rank": 98,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 62.3,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.54,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.8,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 82.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 64.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 70.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 17.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 35.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 29.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 14000,
+				"global_rank": 90,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2018"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria are high risks in some locations"
+			],
+			"water_contact_diseases": [
+				"leptospirosis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 10 November 2020, Bangladesh has reported a total of 418,764 cases of COVID-19 or 2,543 cumulative cases of COVID-19 per 1 million population with 37 cumulative deaths per 1 million population",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 3.6,
+			"global_rank": 191,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 21.9,
+			"global_rank": 17,
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2,
+			"global_rank": 169,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 73.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 76.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 71.2,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 12.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.8,
+				"units": "%"
+			},
+			"global_rank": 107,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "People's Republic of Bangladesh",
+			"conventional_short_form": "Bangladesh",
+			"local_long_form": "Gana Prajatantri Bangladesh",
+			"local_short_form": "Bangladesh",
+			"former": "East Bengal, East Pakistan",
+			"etymology": "the name - a compound of the Bengali words \"Bangla\" (Bengal) and \"desh\" (country) - means \"Country of Bengal\""
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Dhaka",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 23,
+					"minutes": 43,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 90,
+					"minutes": 24,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 6,
+				"note": "11 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the origins of the name are unclear, but some sources state that the city's site was originally called \"dhakka,\" meaning \"watchtower,\" and that the area served as a watch-station for Bengal rulers"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Barishal",
+				"type": ""
+			},
+			{
+				"name": "Chattogram",
+				"type": ""
+			},
+			{
+				"name": "Dhaka",
+				"type": ""
+			},
+			{
+				"name": "Khulna",
+				"type": ""
+			},
+			{
+				"name": "Mymensingh",
+				"type": ""
+			},
+			{
+				"name": "Rajshahi",
+				"type": ""
+			},
+			{
+				"name": "Rangpur",
+				"type": ""
+			},
+			{
+				"name": "Sylhet",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1971-12-16",
+			"note": "from Pakistan"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "26 March",
+				"original_year": "1971"
+			},
+			{
+				"name": "Victory Day",
+				"day": "16 December",
+				"original_year": "1971",
+				"note": "26 March 1971 is the date of the Awami League's declaration of an independent Bangladesh, and 16 December  memorializes the military victory over Pakistan and the official creation of the state of Bangladesh; Victory Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1935, 1956, 1962 (preindependence); latest enacted 4 November 1972, effective 16 December 1972, suspended March 1982, restored November 1986",
+			"amendments": "proposed by the House of the Nation; approval requires at least two-thirds majority vote of the House membership and assent of the president of the republic; amended many times, last in 2018"
+		},
+		"legal_system": "mixed legal system of mostly English common law and Islamic law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Bangladesh",
+			"dual_citizenship_recognized": "yes, but limited to select countries",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently indirectly elected by the National Parliament and sworn in 24 April 2013",
+			"head_of_government": "Prime Minister Sheikh HASINA (since 6 January 2009)",
+			"cabinet": "Cabinet selected by the prime minister, appointed by the president",
+			"elections_appointments": "president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament",
+			"election_results": "President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018"
+		},
+		"legislative_branch": {
+			"description": "unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority popular vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)",
+			"elections": "last held on 30 December 2018 (next to be held in 2023)",
+			"election_results": "percent of vote by party - NA; seats by party as of January 2020 - AL 299, JP 27, BNP 7, other 10, independent 4, vacant 3; composition - men 274, women 73, percent of women 21%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)",
+			"judge_selection_and_term_of_office": "chief justice and justices appointed by the president; justices serve until retirement at age 67",
+			"subordinate_courts": "civil courts include: Assistant Judge's Court; Joint District Judge's Court; Additional District Judge's Court; District Judge's Court; criminal courts include: Court of Sessions; Court of Metropolitan Sessions; Metropolitan Magistrate Courts; Magistrate Court; special courts/tribunals"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Awami League",
+					"name_alternative": "AL",
+					"leaders": [
+						"Sheikh HASINA"
+					]
+				},
+				{
+					"name": "Bangladesh Nationalist Front",
+					"name_alternative": "BNF",
+					"leaders": [
+						"Abdul Kalam AZADI"
+					]
+				},
+				{
+					"name": "Bangladesh Nationalist Party",
+					"name_alternative": "BNP",
+					"leaders": [
+						"Khaleda ZIA"
+					]
+				},
+				{
+					"name": "Bangladesh Tariqat Federation",
+					"name_alternative": "BTF",
+					"leaders": [
+						"Syed Nozibul Bashar MAIZBHANDARI"
+					]
+				},
+				{
+					"name": "Jamaat-i-Islami Bangladesh",
+					"name_alternative": "JIB",
+					"note": "Makbul AHMAD"
+				},
+				{
+					"name": "Jatiya Party",
+					"name_alternative": "JP",
+					"leaders": [
+						"Hussain Mohammad ERSHAD"
+					],
+					"note": "Ershad faction"
+				},
+				{
+					"name": "Jatiya Party",
+					"name_alternative": "JP",
+					"leaders": [
+						"Anwar Hossain MANJU"
+					],
+					"note": "Manju faction"
+				},
+				{
+					"name": "Liberal Democratic Party",
+					"name_alternative": "LDP",
+					"leaders": [
+						"Oli AHMED"
+					]
+				},
+				{
+					"name": "National Socialist Party",
+					"name_alternative": "JSD",
+					"leaders": [
+						"KHALEQUZZAMAN"
+					]
+				},
+				{
+					"name": "Workers Party",
+					"name_alternative": "WP",
+					"leaders": [
+						"Rashed Khan MENON"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "BIMSTEC"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "D-8"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SAARC"
+			},
+			{
+				"organization": "SACEP"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mohammad ZIAUDDIN (since 18 September 2014)",
+				"chancery": "3510 International Drive NW, Washington, DC 20008",
+				"telephone": "[1] (202) 244-0183",
+				"fax": "[1] (202) 244-2771",
+				"consulates_general": "Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Earl Robert MILLER (since 29 November 2018)",
+				"telephone": "[880] (2) 5566-2000",
+				"embassy": "Madani Avenue, Baridhara, Dhaka 1212",
+				"mailing_address": "G. P. O. Box 323, Dhaka 1000",
+				"fax": "[880] (2) 5566-2915"
+			}
+		},
+		"flag_description": {
+			"description": "green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Bengal tiger"
+				},
+				{
+					"symbol": "water lily"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Amar Shonar Bangla\" (My Golden Bengal)",
+			"lyrics_music": "Rabindranath TAGORE",
+			"note": "adopted 1971; Rabindranath TAGORE, a Nobel laureate, also wrote India's national anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BG.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Bangladesh's economy has grown roughly 6% per year since 2005 despite prolonged periods of political instability, poor infrastructure, endemic corruption, insufficient power supplies, and slow implementation of economic reforms. Although more than half of GDP is generated through the services sector, almost half of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product.\nGarments, the backbone of Bangladesh's industrial sector, accounted for more than 80% of total exports in FY 2016-17. The industrial sector continues to grow, despite the need for improvements in factory safety conditions. Steady export growth in the garment sector, combined with $13 billion in remittances from overseas Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves in FY 2016-17. Recent improvements to energy infrastructure, including the start of liquefied natural gas imports in 2018, represent a major step forward in resolving a key growth bottleneck.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 690300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 642700000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 599500000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 33,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 261500000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 7.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 13
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 4200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 176,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 30.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 15,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -20.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 14.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 29.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 56.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 30.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 30.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 30.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 30
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"jute",
+				"tea",
+				"wheat",
+				"sugarcane",
+				"potatoes",
+				"tobacco",
+				"pulses",
+				"oilseeds",
+				"spices",
+				"fruit",
+				"beef",
+				"milk",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"jute",
+				"cotton",
+				"garments",
+				"paper",
+				"leather",
+				"fertilizer",
+				"iron",
+				"steel",
+				"cement",
+				"petroleum products",
+				"tobacco",
+				"pharmaceuticals",
+				"ceramics",
+				"tea",
+				"salt",
+				"sugar",
+				"edible oils",
+				"soap",
+				"detergent",
+				"fabricated metal products",
+				"electricity",
+				"natural gas"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 10.2,
+			"global_rank": 15,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 66640000,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 42.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 36.9,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": 40,
+					"units": "%"
+				}
+			],
+			"global_rank": 64
+		},
+		"population_below_poverty_line": {
+			"value": 24.3,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 27,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 25100000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 33500000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 9.6,
+			"global_rank": 214,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.2,
+			"global_rank": 137,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 33.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 33.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 159
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 180
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -5322000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1391000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 185
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 35300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 34140000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 57
+			},
+			"commodities": {
+				"by_commodity": [
+					"garments",
+					"knitwear",
+					"agricultural products",
+					"frozen food (fish",
+					"seafood)",
+					"jute",
+					"jute goods",
+					"leather"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 12.9
+					},
+					{
+						"name": "US",
+						"percent": 12.2
+					},
+					{
+						"name": "UK",
+						"percent": 8.7
+					},
+					{
+						"name": "Spain",
+						"percent": 5.3
+					},
+					{
+						"name": "France",
+						"percent": 5.1
+					},
+					{
+						"name": "Italy",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 47560000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 40280000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 56
+			},
+			"commodities": {
+				"by_commodity": [
+					"cotton",
+					"machinery",
+					"equipment",
+					"chemicals",
+					"iron",
+					"steel",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 21.9
+					},
+					{
+						"name": "India",
+						"percent": 15.3
+					},
+					{
+						"name": "Singapore",
+						"percent": 5.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 33420000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 32280000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 49
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 50260000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 41850000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 66
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 80.69,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 78.468,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 78.468,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 77.947,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 77.614,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "taka (BDT) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 28000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 83,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 93,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 77,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 60510000000,
+				"global_rank": 49,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 53650000000,
+				"global_rank": 48,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 103,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 124,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 11900000,
+				"global_rank": 56,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 97,
+					"global_rank": 32,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 45,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 2,
+					"global_rank": 136,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 134,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 3000,
+				"global_rank": 83,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 91,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 21860,
+				"global_rank": 63,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 28000000,
+				"global_rank": 81,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 26280,
+				"global_rank": 86,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 106000,
+				"global_rank": 77,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 901,
+				"global_rank": 108,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 81570,
+				"global_rank": 63,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 29530000000,
+				"global_rank": 27,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 29530000000,
+				"global_rank": 32,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 65,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 89,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 185800000000,
+				"global_rank": 44,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 79970000,
+			"global_rank": 48,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1433460,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 67,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 163559380,
+				"subscriptions_per_one_hundred_inhabitants": 101.55,
+				"global_rank": 11,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some channels, such as BTV World, operate via satellite. The government also owns a medium wave radio channel and some private FM radio broadcast news channels. Of the 41 Bangladesh approved TV stations, 26 are currently being used to broadcast. Of those, 23 operate under private management via cable distribution. Collectively, TV channels can reach more than 50 million people across the country.",
+		"internet": {
+			"country_code": ".bd",
+			"users": {
+				"total": 23917950,
+				"percent_of_population": 15,
+				"global_rank": 32,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 30,
+				"annual_passenger_traffic_on_registered_air_carriers": 5984155,
+				"annual_freight_traffic_on_registered_air_carriers": 63820000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "S2",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 18,
+					"global_rank": 137,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 16,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 6,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 5,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 2,
+					"1524_to_2437_metres": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 2950,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 2460,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 1801,
+				"units": "km\n1.000-m"
+			},
+			"broad_gauge": {
+				"length": 659,
+				"units": "km\n1.676-m"
+			},
+			"global_rank": 68,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 369105,
+				"units": "km"
+			},
+			"paved": {
+				"value": 110311,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 258794,
+				"units": "km"
+			},
+			"global_rank": 20,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 8370,
+			"units": "km",
+			"note": "includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season",
+			"global_rank": 16,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 376,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 36
+				},
+				{
+					"type": "container ship",
+					"count": 5
+				},
+				{
+					"type": "general cargo",
+					"count": 97
+				},
+				{
+					"type": "oil tanker",
+					"count": 136
+				},
+				{
+					"type": "other",
+					"count": 102
+				}
+			],
+			"global_rank": 47,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Chittagong"
+			],
+			"container_ports": [
+				{
+					"place": "Chittagong",
+					"twenty_foot_equivalent_units": 2566597
+				}
+			],
+			"river_ports": [
+				"Mongla Port (Sela River)"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 92
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 16,
+			"note": "16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required",
+			"date": "2018"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea",
+			"Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented",
+			"Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar",
+			"Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 861545,
+						"country_of_origin": "Burma",
+						"note": "includes an estimated 712,152 Rohingya refugees who have fled conflict since 25 August 2017"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 427000,
+				"note": "conflict, development, human rights violations, religious persecution, natural disasters",
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transit country for illegal drugs produced in neighboring countries"
+		}
+	}
+}

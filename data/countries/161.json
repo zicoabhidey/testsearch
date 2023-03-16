@@ -1,0 +1,147 @@
+{
+	"name": "Navassa Island",
+	"introduction": {
+		"background": "This uninhabited island was claimed by the US in 1857 for its guano. Mining took place between 1865 and 1898. The lighthouse, built in 1917, was shut down in 1996 and administration of Navassa Island transferred from the US Coast Guard to the Department of the Interior, Office of Insular Affairs. A 1998 scientific expedition to the island described it as a \"unique preserve of Caribbean biodiversity.\" The following year it became a National Wildlife Refuge and annual scientific expeditions have continued."
+	},
+	"geography": {
+		"location": "Caribbean, island in the Caribbean Sea, 30 nm west of Tiburon Peninsula of Haiti",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 25,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 75,
+				"minutes": 2,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 5,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 5.4,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 249,
+			"comparative": "about nine times the size of the National Mall in Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 8,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "marine, tropical",
+		"terrain": "raised flat to undulating coral and limestone plateau; ringed by vertical white cliffs (9 to 15 m high)",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "",
+				"elevation": {
+					"value": 200,
+					"units": "m"
+				},
+				"note": "NNW of lighthouse 85 m"
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"guano",
+				"mining discontinued in 1898"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"natural_hazards": [
+			{
+				"description": "hurricanes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"some coral bleaching"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Navassa Island",
+			"etymology": "the flat island was named \"Navaza\" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term \"nava\" meaning \"flat land, plain, or field\""
+		},
+		"legal_system": "the laws of the US apply where applicable",
+		"flag_description": {
+			"description": "the flag of the US is used"
+		}
+	},
+	"economy": {
+		"overview": "Subsistence fishing and commercial trawling occur within refuge waters."
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the US"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"claimed by Haiti, source of subsistence fishing"
+		]
+	}
+}

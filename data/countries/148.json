@@ -1,0 +1,1796 @@
+{
+	"name": "Mauritania",
+	"introduction": {
+		"background": "Berbers moved south into the area of today's Mauritania beginning in the 3rd century. Beginning in the 8th century, Mauritania experienced a slow but constant infiltration of Arabs and Arab influence from the north, pressing the Berbers, who resisted assimilation, to move farther south. One particular Arab group, the Bani Hassan, continued to migrate southward until, by the end of the 17th century, they dominated the entire country. Having finally been defeated, Berber groups turned to clericalism to regain a degree of ascendancy. At the bottom of the social structure were the slaves, subservient to both the Arabic warriors and Islamic Berber holy men. All of the social rivalries were fully exploited by the French as they colonized Mauritania in the late 19th century. Independent from France in 1960, Mauritania annexed the southern third of the former Spanish Sahara (now Western Sahara) in 1976 but relinquished it after three years of raids by the Polisario guerrilla front seeking independence for the territory. Maaouya Ould Sid Ahmed TAYA seized power in a coup in 1984 and ruled Mauritania with a heavy hand for more than two decades. A series of presidential elections that he held were widely seen as flawed. A bloodless coup in August 2005 deposed President TAYA and ushered in a military council that oversaw a transition to democratic rule. Independent candidate Sidi Ould Cheikh ABDALLAHI was inaugurated in April 2007 as Mauritania's first freely and fairly elected president. His term ended prematurely in August 2008 when a military junta led by General Mohamed Ould Abdel AZIZ deposed him and installed a military council government. AZIZ was subsequently elected president in 2009 and reelected in 2014 to a second and final term. He was replaced in 2019 by Mohamed Cheikh El GHAZOUANI. The country continues to experience ethnic tensions among three major groups: Arabic-speaking descendants of slaves (Haratines), Arabic-speaking \"White Moors\" (Beydane), and members of Sub-Saharan ethnic groups mostly originating in the Senegal River valley (Halpulaar, Soninke, and Wolof).\nAl-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks in Mauritania between 2005 and 2011, murdering American and foreign tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. A successful strategy against terrorism that combines dialogue with the terrorists and military actions has prevented the country from further terrorist attacks since 2011. However, AQIM and similar groups remain active in neighboring Mali and elsewhere in the Sahel region and continue to pose a threat to Mauritanians and foreign visitors."
+	},
+	"geography": {
+		"location": "Western Africa, bordering the North Atlantic Ocean, between Senegal and Western Sahara",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 20,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 12,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1030700,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1030700,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 30,
+			"comparative": "slightly larger than three times the size of New Mexico; about six times the size of Florida"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 5002,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Algeria",
+					"border_length": {
+						"value": 460,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mali",
+					"border_length": {
+						"value": 2236,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Senegal",
+					"border_length": {
+						"value": 742,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Western Sahara",
+					"border_length": {
+						"value": 1564,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 754,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "desert; constantly hot, dry, dusty",
+		"terrain": "mostly barren, flat plains of the Sahara; some central hills",
+		"elevation": {
+			"mean_elevation": {
+				"value": 276,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Sebkhet Te-n-Dghamcha",
+				"elevation": {
+					"value": -5,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Kediet Ijill",
+				"elevation": {
+					"value": 915,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"iron ore",
+				"gypsum",
+				"copper",
+				"phosphate",
+				"diamonds",
+				"gold",
+				"oil",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 38.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 38.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 61.3,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 450,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "hot, dry, dust/sand-laden sirocco wind primarily in March and April",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"overgrazing",
+				"deforestation",
+				"and soil erosion aggravated by drought are contributing to desertification",
+				"limited natural freshwater resources away from the Senegal",
+				"which is the only perennial river",
+				"locust infestation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 4005475,
+			"global_rank": 128,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Mauritanian(s)",
+			"adjective": "Mauritanian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "black Moors",
+					"percent": 40,
+					"note": "Haratines - Arab-speaking slaves, former slaves, and their descendants of African origin, enslaved by white Moors"
+				},
+				{
+					"name": "white Moors",
+					"percent": 30,
+					"note": "of Arab-Berber descent, known as Beydane"
+				},
+				{
+					"name": "Sub-Saharan Mauritanians",
+					"percent": 30,
+					"note": "non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official and national"
+				},
+				{
+					"name": "Pular"
+				},
+				{
+					"name": "Soninke"
+				},
+				{
+					"name": "Wolof",
+					"note": "all national languages"
+				},
+				{
+					"name": "French"
+				}
+			],
+			"note": "the spoken Arabic in Mauritania differs considerably from the modern standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 100,
+					"note": "official"
+				}
+			]
+		},
+		"demographic_profile": "With a sustained total fertility rate of about 4 children per woman and almost 60% of the population under the age of 25, Mauritania's population is likely to continue growing for the foreseeable future. Mauritania's large youth cohort is vital to its development prospects, but available schooling does not adequately prepare students for the workplace. Girls continue to be underrepresented in the classroom, educational quality remains poor, and the dropout rate is high. The literacy rate is only about 50%, even though access to primary education has improved since the mid-2000s. Women's restricted access to education and discriminatory laws maintain gender inequality - worsened by early and forced marriages and female genital cutting.\nThe denial of education to black Moors also helps to perpetuate slavery. Although Mauritania abolished slavery in 1981 (the last country in the world to do so) and made it a criminal offense in 2007, the millenniums-old practice persists largely because anti-slavery laws are rarely enforced and the custom is so ingrained.  According to a 2018 nongovernmental organization's report, a little more than 2% of Mauritania's population is enslaved, which includes individuals sujbected to forced labor and forced marriage, although many thousands of individuals who are legally free contend with discrimination, poor education, and a lack of identity papers and, therefore, live in de facto slavery.  The UN and international press outlets have claimed that up to 20% of Mauritania's population is enslaved, which would be the highest rate worldwide.\nDrought, poverty, and unemployment have driven outmigration from Mauritania since the 1970s. Early flows were directed toward other West African countries, including Senegal, Mali, Cote d'Ivoire, and Gambia. The 1989 Mauritania-Senegal conflict forced thousands of black Mauritanians to take refuge in Senegal and pushed labor migrants toward the Gulf, Libya, and Europe in the late 1980s and early 1990s. Mauritania has accepted migrants from neighboring countries to fill labor shortages since its independence in 1960 and more recently has received refugees escaping civil wars, including tens of thousands of Tuaregs who fled Mali in 2012.\nMauritania was an important transit point for Sub-Saharan migrants moving illegally to North Africa and Europe. In the mid-2000s, as border patrols increased in the Strait of Gibraltar, security increased around Spain's North African enclaves (Ceuta and Melilla), and Moroccan border controls intensified, illegal migration flows shifted from the Western Mediterranean to Spain's Canary Islands. In 2006, departure points moved southward along the West African coast from Morocco and Western Sahara to Mauritania's two key ports (Nouadhibou and the capital Nouakchott), and illegal migration to the Canaries peaked at almost 32,000. The numbers fell dramatically in the following years because of joint patrolling off the West African coast by Frontex (the EU's border protection agency), Spain, Mauritania, and Senegal; the expansion of Spain's border surveillance system; and the 2008 European economic downturn.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 37.56,
+				"males": 755788,
+				"females": 748671
+			},
+			"15_to_24": {
+				"percent": 19.71,
+				"males": 387140,
+				"females": 402462
+			},
+			"25_to_54": {
+				"percent": 33.91,
+				"males": 630693,
+				"females": 727518
+			},
+			"55_to_64": {
+				"percent": 4.9,
+				"males": 88888,
+				"females": 107201
+			},
+			"65_and_over": {
+				"percent": 3.92,
+				"males": 66407,
+				"females": 90707
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 75,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 69.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 18,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 21,
+				"units": "years"
+			},
+			"male": {
+				"value": 20.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 22,
+				"units": "years"
+			},
+			"global_rank": 188,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.09,
+			"global_rank": 42,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 29,
+			"global_rank": 36,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.5,
+			"global_rank": 105,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.8,
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"population_distribution": "with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 55.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.28,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Nouakchott",
+					"population": 1315000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.87,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.83,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.73,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.93,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 766,
+			"global_rank": 7,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 47.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 52.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 43.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 25,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 64.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 62.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 67,
+				"units": "years"
+			},
+			"global_rank": 201,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.65,
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 17.8,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.18,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 68.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 84.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 31.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 15.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 83.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 25.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 56,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 16.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 74.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 44,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 105,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 5700,
+				"global_rank": 121,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 12.7,
+			"global_rank": 132,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 19.2,
+			"global_rank": 24,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.6,
+			"global_rank": 155,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 53.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 63.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 43.4,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 9,
+				"units": "years"
+			},
+			"female": {
+				"value": 10,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 15.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 14.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 17,
+				"units": "%"
+			},
+			"global_rank": 90,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Islamic Republic of Mauritania",
+			"conventional_short_form": "Mauritania",
+			"local_long_form": "Al Jumhuriyah al Islamiyah al Muritaniyah",
+			"local_short_form": "Muritaniyah",
+			"etymology": "named for the ancient kingdom of Mauretania (3rd century B.C. to 1st century A.D.) and the subsequent Roman province (1st-7th centuries A.D.), which existed further north in present-day Morocco; the name derives from the Mauri (Moors), the Berber-speaking peoples of northwest Africa"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Nouakchott",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 4,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 15,
+					"minutes": 58,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "may derive from the Berber \"nawakshut\" meaning \"place of the winds\""
+		},
+		"independence": {
+			"date": "1960-11-28",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "28 November",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "previous 1964; latest adopted 12 July 1991",
+			"amendments": "proposed by the president of the republic or by Parliament; consideration of amendments by Parliament requires approval of at least one third of the membership; a referendum is held only if the amendment is approved by two-thirds majority vote; passage by referendum requires simple majority vote by eligible voters; passage of amendments proposed by the president can bypass a referendum if approved by at least three-fifths majority vote by Parliament; amended many times, last in 2017 (by referendum)"
+		},
+		"legal_system": "mixed legal system of Islamic and French civil law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Mauritania",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Mohamed Cheikh El GHAZOUANI (since 1 August 2019)",
+			"head_of_government": "Prime Minister Mohamed Ould BILAL (since 6 August 2020)",
+			"cabinet": "Council of Ministers - nominees suggested by the prime minister, appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 June 2019 (next scheduled for 22 June 2024); prime minister appointed by the president",
+			"election_results": "Mohamed Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.55%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)",
+			"elections": "first held as the unicameral National Assembly in 2 rounds on 1 and 15 September 2018 (next to be held in 2023)",
+			"election_results": "National Assembly - percent of vote by party - NA; seats by party - NA; composition - NA",
+			"note": "a referendum held in August 2017 approved a constitutional amendment to change the Parliament structure from bicameral to unicameral by abolishing the Senate and creating Regional Councils for local development"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Supreme (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors ); Constitutional Council (consists of 6 members)",
+			"judge_selection_and_term_of_office": "Supreme Court president appointed by the president of the republic to serve a 5-year renewable term; Constitutional Council members appointed - 3 by the president of the republic, 2 by the president of the National Assembly, and 1 by the president of the Senate; members serve single, 9-year terms with one-third of membership renewed every 3 years",
+			"subordinate_courts": "Courts of Appeal; courts of first instance or wilya courts are established in the regions' headquarters and include commercial and labor courts, criminal courts, Moughataa (district) Courts, and informal/customary courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for Justice and Democracy/Movement for Renewal",
+					"name_alternative": "AJD/MR",
+					"leaders": [
+						"Ibrahima Moctar SARR"
+					]
+				},
+				{
+					"name": "Burst of Youth for the Nation",
+					"leaders": [
+						"Lalla Mint CHERIF"
+					]
+				},
+				{
+					"name": "Coalition of Majority Parties",
+					"name_alternative": "CPM",
+					"note": "includes UPR, UDP"
+				},
+				{
+					"name": "El Karama Party",
+					"leaders": [
+						"Cheikhna Ould Mohamed Ould HAJBOU"
+					]
+				},
+				{
+					"name": "El Vadila Party",
+					"leaders": [
+						"Ethmane Ould Ahmed ABOULMAALY"
+					]
+				},
+				{
+					"name": "National Forum for Democracy and Unity",
+					"name_alternative": "FNDU",
+					"leaders": [
+						"Mohamed Ould MAOLOUD"
+					],
+					"note": "coalition of hard-line opposition parties, includes RNRD-TAWASSOUL"
+				},
+				{
+					"name": "National Rally for Reform and Development",
+					"name_alternative": "RNRD-TAWASSOUL",
+					"leaders": [
+						"Mohamed Mahmoud Ould SEYIDI"
+					]
+				},
+				{
+					"name": "Party of Unity and Development",
+					"name_alternative": "PUD",
+					"leaders": [
+						"Mohamed BARO"
+					]
+				},
+				{
+					"name": "Popular Progressive Alliance",
+					"name_alternative": "APP",
+					"leaders": [
+						"Messaoud Ould BOULKHEIR"
+					]
+				},
+				{
+					"name": "Rally of Democratic Forces",
+					"name_alternative": "RFD",
+					"leaders": [
+						"Ahmed Ould DADDAH"
+					]
+				},
+				{
+					"name": "Ravah Party",
+					"leaders": [
+						" Mohamed Ould VALL"
+					]
+				},
+				{
+					"name": "Republican Party for Democracy and Renewal",
+					"name_alternative": "PRDR",
+					"leaders": [
+						"Mintata Mint HEDEID"
+					]
+				},
+				{
+					"name": "Union for Democracy and Progress",
+					"name_alternative": "UDP",
+					"leaders": [
+						"Naha Mint MOUKNASS"
+					]
+				},
+				{
+					"name": "Union of Progress Forces",
+					"leaders": [
+						"Mohamed Ould MAOULOUD"
+					]
+				},
+				{
+					"name": "Union for the Republic",
+					"name_alternative": "UPR",
+					"leaders": [
+						"Seyidna Ali Ould MOHAMED KHOUNA"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "AMU"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CAEU ",
+				"note": "candidate"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO ",
+				"note": "pending member"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MIUSMA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mohamedoun DADDAH (since 27 June 2016)",
+				"chancery": "2129 Leroy Place NW, Washington, DC 20008",
+				"telephone": "[1] (202) 232-5700 through 5701",
+				"fax": "[1] (202) 319-2623"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Michael J. DODMAN (since 5 January 2018)",
+				"telephone": "[222] 4525-2660 or [222] 2660-2663",
+				"embassy": "Avenue Al Quds, Nouadhibou, Nouadhibou Road, Nouakchott",
+				"mailing_address": "use embassy street address",
+				"fax": "[222] 4525-1592"
+			}
+		},
+		"flag_description": {
+			"description": "green with a yellow, five-pointed star between the horns of a yellow, upward-pointing crescent moon; red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara; red symbolizes the blood shed in the struggle for independence"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "five-pointed star between the horns of a horizontal crescent moon"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Hymne National de la Republique Islamique de Mauritanie\" (National Anthem of the Islamic Republic of Mauritania)",
+			"lyrics_music": "Baba Ould CHEIKH/traditional, arranged by Tolia NIKIPROWETZKY",
+			"note": "adopted 1960; the unique rhythm of the Mauritanian anthem makes it particularly challenging to sing; Mauritania in November 2017 adopted a new national anthem, \"Bilada-l ubati-l hudati-l kiram\" (The Country of Fatherhood is the Honorable Gift) composed by Rageh Daoud (sound file of the new anthem is forthcoming)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MR.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.\nMauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.\nThe economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 17280000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 16700000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16399999999.999998,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 154,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 4935000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.8,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 0.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 85
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 4500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 4400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 173,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 64.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 21.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 56.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -3.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 39,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -78.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 27.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 29.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 42.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 24.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 68
+		},
+		"agriculture_products": {
+			"products": [
+				"dates",
+				"millet",
+				"sorghum",
+				"rice",
+				"corn",
+				"cattle",
+				"camel",
+				"sheep"
+			]
+		},
+		"industries": {
+			"industries": [
+				"fish processing",
+				"oil production",
+				"mining",
+				"iron ore",
+				"gold",
+				"copper"
+			],
+			"note": "gypsum deposits have never been exploited"
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1,
+			"global_rank": 157,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1437000,
+				"global_rank": 129,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 50,
+						"units": "%"
+					},
+					"industry": {
+						"value": 1.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 48.1,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 10.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 10.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 149
+		},
+		"population_below_poverty_line": {
+			"value": 31,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 29.5,
+				"units": "%"
+			},
+			"date": "2000"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1354000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1396000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 27.4,
+			"global_rank": 100,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.8,
+			"global_rank": 69,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 96.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 100,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 21
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 117
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -711000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -707000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 133
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1722000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1401000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 147
+			},
+			"commodities": {
+				"by_commodity": [
+					"iron ore",
+					"fish",
+					"fish products",
+					"livestock",
+					"gold",
+					"copper",
+					"crude oil"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 31.2
+					},
+					{
+						"name": "Switzerland",
+						"percent": 14.4
+					},
+					{
+						"name": "Spain",
+						"percent": 10.1
+					},
+					{
+						"name": "Germany",
+						"percent": 8.2
+					},
+					{
+						"name": "Japan",
+						"percent": 8.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2093999999.9999998,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1900000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 166
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"petroleum products",
+					"capital goods",
+					"foodstuffs",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Belgium",
+						"percent": 11.5
+					},
+					{
+						"name": "UAE",
+						"percent": 11.3
+					},
+					{
+						"name": "US",
+						"percent": 9.2
+					},
+					{
+						"name": "China",
+						"percent": 7.5
+					},
+					{
+						"name": "France",
+						"percent": 7.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6.1
+					},
+					{
+						"name": "Morocco",
+						"percent": 6
+					},
+					{
+						"name": "Slovenia",
+						"percent": 4.8
+					},
+					{
+						"name": "Vanuatu",
+						"percent": 4.7
+					},
+					{
+						"name": "Spain",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 875000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 849300000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 138
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 4150000000.0000005,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3899000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 138
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 363.6,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 352.37,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 352.37,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 319.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 299.5,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "ouguiyas (MRO) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 3000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 32,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 56,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 4,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 1139000000,
+				"global_rank": 147,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1059000000,
+				"global_rank": 154,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 169,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 173,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 558000,
+				"global_rank": 144,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 65,
+					"global_rank": 118,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 141,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 16,
+					"global_rank": 100,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 20,
+					"global_rank": 39,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 4000,
+				"global_rank": 81,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 5333,
+				"global_rank": 65,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 164,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 20000000,
+				"global_rank": 83,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 176,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 17000,
+				"global_rank": 150,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 180,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 17290,
+				"global_rank": 133,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 169,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 174,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 150,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 156,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 28320000000,
+				"global_rank": 70,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2615000,
+			"global_rank": 152,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 53742,
+				"subscriptions_per_one_hundred_inhabitants": 1.37,
+				"global_rank": 158,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 4083199,
+				"subscriptions_per_one_hundred_inhabitants": 104.09,
+				"global_rank": 130,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "10 TV stations: 5 government-owned and 5 private; in October 2017, the government suspended all private TV stations due to non-payment of broadcasting fees; as of April 2018, only one private TV station was broadcasting, Al Mourabitoune, the official TV of the Mauritanian Islamist party, Tewassoul; the other stations are negotiating payment options with the government and hope to be back on the air soon; 18 radio broadcasters: 15 government-owned, 3 (Radio Nouakchott Libre, Radio Tenwir, Radio Kobeni) private; all 3 private radio stations broadcast from Nouakchott; of the 15 government stations, 3 broadcast from Nouakchott (Radio Mauritanie, Radio Jeunesse, Radio Koran) and the other 12 broadcast from each of the 12 regions outside Nouakchott; Radio Jeunesse and Radio Koran are now also being re-broadcast in the regions (2019)",
+		"internet": {
+			"country_code": ".mr",
+			"users": {
+				"total": 798809,
+				"percent_of_population": 20.8,
+				"global_rank": 145,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 454435,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5T",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 30,
+					"global_rank": 114,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 9,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 4,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 21,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 10,
+					"914_to_1523_metres": 8,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 728,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 728,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 100,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 12253,
+				"units": "km"
+			},
+			"paved": {
+				"value": 3988,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 8265,
+				"units": "km"
+			},
+			"global_rank": 131,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 5,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 3
+				}
+			],
+			"global_rank": 165,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Nouadhibou",
+				"Nouakchott"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.8,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 31
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for voluntary military service; no conscription",
+			"date": "2012"
+		},
+		"note": "since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces\nMauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Mauritanian claims to Western Sahara remain dormant"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 26001,
+						"country_of_origin": "Western Saharan Sahrawis"
+					},
+					{
+						"people": 60455,
+						"country_of_origin": "Mali",
+						"date": "2020"
+					}
+				],
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Mauritania is a source and destination country for men, women, and children subjected to forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boy students called talibes are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution domestically or transported to countries in the Middle East for the same purpose, sometimes through forced marriages",
+			"tier_rating": "Tier 3 - Mauritania does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; anti-trafficking law enforcement efforts were negligible; one slavery case identified by an NGO was investigated, but no prosecutions or convictions were made, including among the 4,000 child labor cases NGOs referred to the police; the 2007 anti-slavery law remains ineffective because it requires slaves, most of whom are illiterate, to file their own legal complaint, and the government agency that can submit claims on them did not file any in 2014; authorities arrested, prosecuted, and convicted several anti-slavery activists; NGOs continued to provide the majority of protective services to trafficking victims without support from the government; some steps were taken to raise public awareness about human trafficking (2015)"
+		}
+	}
+}

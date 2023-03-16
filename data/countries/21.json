@@ -1,0 +1,1555 @@
+{
+	"name": "Bahrain",
+	"introduction": {
+		"background": "In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. A steady decline in oil production and reserves since 1970 prompted Bahrain to take steps to diversify its economy, in the process developing petroleum processing and refining, aluminum production, and hospitality and retail sectors. It has also endeavored to become a leading regional banking center, especially with respect to Islamic finance. Bahrain's small size, central location among Gulf countries, economic dependence on Saudi Arabia, and proximity to Iran require it to play a delicate balancing act in foreign affairs among its larger neighbors. Its foreign policy activities usually fall in line with Saudi Arabia and the UAE.\nThe Sunni royal family has long struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar pro-democracy and reform protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Failed political talks prompted opposition political societies to boycott 2014 legislative and municipal council elections. In 2018, a law preventing members of political societies dissolved by the courts from participating in elections effectively sidelined the majority of opposition figures from taking part in national elections. As a result, most members of parliament are independents. Ongoing dissatisfaction with the political status quo continues to factor into sporadic clashes between demonstrators and security forces. On 15 September 2020, Bahrain and the United Arab Emirates signed a peace accord with Israel – brokered by the US – in Washington DC. Referred to as the Abraham Accords, Bahrain and the United Arab Emirates are the two latest Middle Eastern countries, along with Egypt and Jordan, to recognize Israel."
+	},
+	"geography": {
+		"location": "Middle East, archipelago in the Persian Gulf, east of Saudi Arabia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 26,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 50,
+				"minutes": 33,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 760,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 760,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 188,
+			"comparative": "3.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 161,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": "extending to boundaries to be determined"
+		},
+		"climate": "arid; mild, pleasant winters; very hot, humid summers",
+		"terrain": "mostly low desert plain rising gently to low central escarpment",
+		"elevation": {
+			"lowest_point": {
+				"name": "Persian Gulf",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Jabal ad Dukhan",
+				"elevation": {
+					"value": 135,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"oil",
+				"associated",
+				"nonassociated natural gas",
+				"fish",
+				"pearls"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 11.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 5.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 88,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 40,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "dust storms",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"desertification resulting from the degradation of limited arable land",
+				"periods of drought",
+				"and dust storms",
+				"coastal degradation (damage to coastlines",
+				"coral reefs",
+				"and sea vegetation) resulting from oil spills and other discharges from large tankers",
+				"oil refineries",
+				"and distribution stations",
+				"lack of freshwater resources (groundwater and seawater are the only sources for all water needs)",
+				"lowered water table leaves aquifers vulnerable to saline contamination",
+				"desalinization provides some 90% of the country's freshwater"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1505003,
+			"global_rank": 154,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Bahraini(s)",
+			"adjective": "Bahraini"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Bahraini",
+					"percent": 46
+				},
+				{
+					"name": "Asian",
+					"percent": 45.5
+				},
+				{
+					"name": "other Arab",
+					"percent": 4.7
+				},
+				{
+					"name": "African",
+					"percent": 1.6
+				},
+				{
+					"name": "European",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 1.2,
+					"note": "includes Gulf Co-operative country nationals, North and South Americans, and Oceanians"
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Farsi"
+				},
+				{
+					"name": "Urdu"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 73.7
+				},
+				{
+					"name": "Christian",
+					"percent": 9.3
+				},
+				{
+					"name": "Jewish",
+					"percent": 0.1
+				},
+				{
+					"name": "other",
+					"percent": 16.9
+				}
+			],
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.45,
+				"males": 141039,
+				"females": 136687
+			},
+			"15_to_24": {
+				"percent": 15.16,
+				"males": 129310,
+				"females": 98817
+			},
+			"25_to_54": {
+				"percent": 56.14,
+				"males": 550135,
+				"females": 294778
+			},
+			"55_to_64": {
+				"percent": 6.89,
+				"males": 64761,
+				"females": 38870
+			},
+			"65_and_over": {
+				"percent": 3.36,
+				"males": 25799,
+				"females": 24807
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 26.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 3.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 29.8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 34.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 30.3,
+				"units": "years"
+			},
+			"global_rank": 102,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.08,
+			"global_rank": 43,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.7,
+			"global_rank": 149,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 2.8,
+			"global_rank": 226,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 10.6,
+			"global_rank": 7,
+			"date": "2020"
+		},
+		"population_distribution": "smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq",
+		"urbanization": {
+			"urban_population": {
+				"value": 89.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.38,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Manama",
+					"population": 635000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.31,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.87,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.67,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.04,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.53,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 14,
+			"global_rank": 137,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 8.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 7.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 147,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 77.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.8,
+				"units": "years"
+			},
+			"global_rank": 52,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.69,
+			"global_rank": 176,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.93,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.7,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 500,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2017"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 29.8,
+			"global_rank": 25,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.3,
+			"global_rank": 163,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 94.9,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 5.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 12.2,
+				"units": "%"
+			},
+			"global_rank": 164,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Bahrain",
+			"conventional_short_form": "Bahrain",
+			"local_long_form": "Mamlakat al Bahrayn",
+			"local_short_form": "Al Bahrayn",
+			"former": "Dilmun, Tylos, Awal, Mishmahig, Bahrayn, State of Bahrain",
+			"etymology": "the name means \"the two seas\" in Arabic and refers to the water bodies surrounding the archipelago"
+		},
+		"government_type": "constitutional monarchy",
+		"capital": {
+			"name": "Manama",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 26,
+					"minutes": 14,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 50,
+					"minutes": 34,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name derives from the Arabic \"al-manama\" meaning \"place of rest\" or \"place of dreams\""
+		},
+		"independence": {
+			"date": "1971-08-15",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "16 December",
+				"original_year": "1971",
+				"note": "15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection"
+			}
+		],
+		"constitution": {
+			"history": "adopted 14 February 2002",
+			"amendments": "proposed by the king or by at least 15 members of either chamber of the National Assembly followed by submission to an Assembly committee for review and, if approved, submitted to the government for restatement as drafts; passage requires a two-thirds majority vote by the membership of both chambers and validation by the king; constitutional articles on the state religion (Islam), state language (Arabic), and the monarchy and \"inherited rule\" cannot be amended; amended 2012, 2017"
+		},
+		"legal_system": "mixed legal system of Islamic (sharia) law, English common law, Egyptian civil, criminal, and commercial codes; customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Bahrain",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "25 years; 15 years for Arab nationals"
+		},
+		"suffrage": {
+			"age": 20,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King HAMAD bin Isa Al-Khalifa (since 6 March 1999)",
+			"head_of_government": "Prime minister SALMAN bin Hamad Al-Khalifa (since 11 November 2020); first deputy prime minister (vacant); Deputy Prime Ministers MUHAMMAD bin Mubarak Al-Khalifa (since September 2005), Jawad bin Salim al-ARAIDH, ALI bin Khalifa bin Salman Al-Khalifa (since 11 December 2006), KHALID bin Abdallah Al-Khalifa (since November 2010); note - KHALIFA ibn Salman Al Khalifa, who served as prime minister since Bahrain's independence in 1971, died on 11 November 2020",
+			"cabinet": "Cabinet appointed by the monarch",
+			"elections_appointments": "the monarchy is hereditary; prime minister appointed by the monarch"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Assembly consists of: Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)\nCouncil of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)",
+			"elections": "Consultative Council - last appointments on 12 December 2018 (next NA)\nCouncil of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)",
+			"election_results": "Consultative Council - composition - men 31, women 9, percent of women 22.5%\nCouncil of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)",
+			"judge_selection_and_term_of_office": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointments by royal decree for a specified tenure",
+			"subordinate_courts": "Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court; Administrative Courts of Appeal; military courts",
+			"note": "the judiciary of Bahrain is divided into civil law courts and sharia law courts; sharia courts (involving personal status and family law) are further divided into Sunni Muslim and Shia Muslim; the Courts are supervised by the Supreme Judicial Council."
+		},
+		"political_parties_and_leaders": {
+			"note": "political parties are prohibited, but political societies were legalized under a July 2005 law"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "GCC"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Abdulla bin Rashid AL KHALIFA (since 21 July 2017)",
+				"chancery": "3502 International Drive NW, Washington, DC 20008",
+				"telephone": "[1] (202) 342-1111",
+				"fax": "[1] (202) 362-2192",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Justin H. SIBERELL (since November 2017)",
+				"telephone": "[973] 1724-2700",
+				"embassy": "Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, Manama",
+				"mailing_address": "PSC 451, Box 660, FPO AE 09834-5100",
+				"international_mail": "American Embassy, Box 26431, Manama",
+				"fax": "[973] 1727-2594"
+			}
+		},
+		"flag_description": {
+			"description": "red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam",
+			"note": "until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "a red field surmounted by a white serrated band with five white points"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Bahrainona\" (Our Bahrain)",
+			"lyrics_music": "unknown",
+			"note": "adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BA.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to \"junk\" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.\nOther major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.\nIn addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 71170000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 68590000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 66300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 100,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 35330000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.49,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 13.89,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.85,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 116
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 49000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 48200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 48400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 33,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 45.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 26.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 80.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -67.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 39.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 60.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 19.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 22,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 99
+		},
+		"agriculture_products": {
+			"products": [
+				"fruit",
+				"vegetables",
+				"poultry",
+				"dairy products",
+				"shrimp",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum processing",
+				"refining",
+				"aluminum smelting",
+				"iron pelletization",
+				"fertilizers",
+				"Islamic",
+				"offshore banking",
+				"insurance",
+				"ship repairing",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 0.6,
+			"global_rank": 165,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 831600,
+				"global_rank": 144,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 32,
+						"units": "%"
+					},
+					"services": {
+						"value": 67,
+						"units": "%"
+					}
+				},
+				"date": "2004"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 49,
+			"note": "official estimate; actual rate is higher"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 5854000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 9407000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 16.6,
+			"global_rank": 176,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -10.1,
+			"global_rank": 211,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 88.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 81.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 26
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 76
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1600000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1493000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 162
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 15380000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 12780000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 75
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"petroleum products",
+					"aluminum",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UAE",
+						"percent": 19.6
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 11.7
+					},
+					{
+						"name": "US",
+						"percent": 10.8
+					},
+					{
+						"name": "Oman",
+						"percent": 8.1
+					},
+					{
+						"name": "China",
+						"percent": 6.5
+					},
+					{
+						"name": "Qatar",
+						"percent": 5.7
+					},
+					{
+						"name": "Japan",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 16079999999.999998,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 13590000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 84
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"machinery",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 8.8
+					},
+					{
+						"name": "UAE",
+						"percent": 7.2
+					},
+					{
+						"name": "US",
+						"percent": 7.1
+					},
+					{
+						"name": "Australia",
+						"percent": 5.3
+					},
+					{
+						"name": "Japan",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2349000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3094000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 118
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 52150000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 42550000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 63
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.376,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.376,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.376,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.376,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.376,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Bahraini dinars (BHD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 26810000000,
+				"global_rank": 70,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 26110000000,
+				"global_rank": 67,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 213000000,
+				"global_rank": 74,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 276000000,
+				"global_rank": 89,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 3928000,
+				"global_rank": 90,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 2,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 44,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 156,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 175,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 40000,
+				"global_rank": 58,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 90,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 226200,
+				"global_rank": 29,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 124600000,
+				"global_rank": 67,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 274500,
+				"global_rank": 45,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 61000,
+				"global_rank": 94,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 245300,
+				"global_rank": 30,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 14530,
+				"global_rank": 136,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 15890000000,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 15890000000,
+				"global_rank": 42,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 64,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 88,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 92030000000,
+				"global_rank": 53,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 37980000,
+			"global_rank": 67,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 246603,
+				"subscriptions_per_one_hundred_inhabitants": 16.73,
+				"global_rank": 118,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1706763,
+				"subscriptions_per_one_hundred_inhabitants": 115.79,
+				"global_rank": 156,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2019)",
+		"internet": {
+			"country_code": ".bh",
+			"users": {
+				"total": 1423039,
+				"percent_of_population": 98.64,
+				"global_rank": 132,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 42,
+				"annual_passenger_traffic_on_registered_air_carriers": 5877003,
+				"annual_freight_traffic_on_registered_air_carriers": 420980000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "A9C",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 4,
+					"global_rank": 184,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 4,
+					"over_3047_metres": 3,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 20,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 54,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 4122,
+				"units": "km"
+			},
+			"paved": {
+				"value": 3392,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 730,
+				"units": "km"
+			},
+			"global_rank": 153,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 261,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				},
+				{
+					"type": "container ship",
+					"count": 1
+				},
+				{
+					"type": "general cargo",
+					"count": 11
+				},
+				{
+					"type": "oil tanker",
+					"count": 4
+				},
+				{
+					"type": "other",
+					"count": 244
+				}
+			],
+			"global_rank": 59,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Mina' Salman",
+				"Sitrah"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 4.1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 4.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 4.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 4.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 17
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

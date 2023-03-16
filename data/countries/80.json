@@ -1,0 +1,965 @@
+{
+	"name": "Falkland Islands (Islas Malvinas)",
+	"introduction": {
+		"background": "Although first sighted by an English navigator in 1592, the first landing (English) did not occur until almost a century later in 1690, and the first settlement (French) was not established until 1764. The colony was turned over to Spain two years later and the islands have since been the subject of a territorial dispute, first between Britain and Spain, then between Britain and Argentina. The UK asserted its claim to the islands by establishing a naval garrison there in 1833. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that landed seven weeks later and after fierce fighting forced an Argentine surrender on 14 June 1982. With hostilities ended and Argentine forces withdrawn, UK administration resumed. In response to renewed calls from Argentina for Britain to relinquish control of the islands, a referendum was held in March 2013, which resulted in 99.8% of the population voting to remain a part of the UK."
+	},
+	"geography": {
+		"location": "Southern South America, islands in the South Atlantic Ocean, about 500 km east of southern Argentina",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 51,
+				"minutes": 45,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 59,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 12173,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 12173,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes the two main islands of East and West Falkland and about 200 small islands",
+			"global_rank": 164,
+			"comparative": "slightly smaller than Connecticut"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 1288,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; average annual rainfall is 60 cm in Stanley; occasional snow all year, except in January and February, but typically does not accumulate",
+		"terrain": "rocky, hilly, mountainous with some boggy, undulating plains",
+		"elevation": {
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Usborne",
+				"elevation": {
+					"value": 705,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"squid",
+				"wildlife",
+				"calcified seaweed",
+				"sphagnum moss"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 92.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 92.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 7.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "a very small population, with most residents living in and around Stanley",
+		"natural_hazards": [
+			{
+				"description": "strong winds persist throughout the year",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"overfishing by unlicensed vessels is a problem",
+				"reindeer - introduced to the islands in 2001 from South Georgia - are part of a farming effort to produce specialty meat and diversify the islands' economy",
+				"this is the only commercial reindeer herd in the world unaffected by the 1986 Chornobyl disaster",
+				"grazing threatens important habitats including tussac grass and its ecosystem with penguins and sea lions",
+				"soil erosion from fires"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 3198,
+			"global_rank": 229,
+			"date": "2016"
+		},
+		"nationality": {
+			"noun": "Falkland Islander(s)",
+			"adjective": "Falkland Island"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Falkland Islander",
+					"percent": 48.3
+				},
+				{
+					"name": "British",
+					"percent": 23.1
+				},
+				{
+					"name": "St. Helenian",
+					"percent": 7.5
+				},
+				{
+					"name": "Chilean",
+					"percent": 4.6
+				},
+				{
+					"name": "mixed",
+					"percent": 6
+				},
+				{
+					"name": "other",
+					"percent": 8.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 2
+				}
+			],
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 89
+				},
+				{
+					"name": "Spanish",
+					"percent": 7.7
+				},
+				{
+					"name": "other",
+					"percent": 3.3
+				}
+			],
+			"date": "2006"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 57.1
+				},
+				{
+					"name": "other",
+					"percent": 1.6
+				},
+				{
+					"name": "none",
+					"percent": 35.4
+				},
+				{
+					"name": "unspecified",
+					"percent": 6
+				}
+			],
+			"date": "2016"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.01,
+			"global_rank": 190,
+			"date": "2014"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.9,
+			"global_rank": 181,
+			"date": "2012"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.9,
+			"global_rank": 199,
+			"date": "2012"
+		},
+		"population_distribution": "a very small population, with most residents living in and around Stanley",
+		"urbanization": {
+			"urban_population": {
+				"value": 78.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.76,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Stanley",
+					"population": 2000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.9
+			},
+			"male": {
+				"value": 75.6
+			},
+			"female": {
+				"value": 79.6
+			},
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 78.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 92,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 21.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 95,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 78,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 22,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Falkland Islands (Islas Malvinas)",
+			"etymology": "the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of Falkland, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French \"Iles Malouines,\" the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764"
+		},
+		"government_type": "parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK",
+		"capital": {
+			"name": "Stanley",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 51,
+					"minutes": 42,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 57,
+					"minutes": 51,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands"
+		},
+		"independence": {},
+		"national_holidays": [
+			{
+				"name": "Liberation Day",
+				"day": "14 June",
+				"original_year": "1982"
+			}
+		],
+		"constitution": {
+			"history": "previous 1985; latest entered into force 1 January 2009 (The Falkland Islands Constitution Order 2008)",
+			"amendments": "NA"
+		},
+		"legal_system": "English common law and local statutes",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel PHILLIPS (since 12 September 2017)",
+			"head_of_government": "Chief Executive Barry ROWLAND (since 3 October 2016)",
+			"cabinet": "Executive Council elected by the Legislative Council",
+			"elections_appointments": "the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 8 members directly elected by majority vote and 2 appointed ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms)",
+			"elections": "last held on 9 November 2017 (next to be held in November 2021)",
+			"election_results": "percent of vote - NA; seats - independent 8; composition -men 8, women 2, percent of women 20%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the court president, the chief justice as an ex officio, non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "all justices appointed by the governor; tenure specified in each justice's instrument of appointment",
+			"subordinate_courts": "Magistrate's Court (senior magistrate presides over civil and criminal divisions); Court of Summary Jurisdiction"
+		},
+		"political_parties_and_leaders": {
+			"note": "none; all independents"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "blue with the flag of the UK in the upper hoist-side quadrant and the Falkland Island coat of arms centered on the outer half of the flag; the coat of arms contains a white ram (sheep raising was once the major economic activity) above the sailing ship Desire (whose crew discovered the islands) with a scroll at the bottom bearing the motto DESIRE THE RIGHT"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "ram"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Song of the Falklands\"",
+			"lyrics_music": "Christopher LANHAM",
+			"note": "adopted 1930s; the song is the local unofficial anthem; as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+		}
+	},
+	"economy": {
+		"overview": "The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000-ton catch.\nDairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins.\nTourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009 and adds approximately $5.5 million to the Falkland’s annual GDP. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense.\nIn 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In May 2010 the first commercial oil discovery was made, signaling the potential for the development of a long term hydrocarbon industry in the Falkland Islands.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 206400000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 164500000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 167500000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 220
+			},
+			"official_exchange_rate": {
+				"USD": 206400000,
+				"date": "2015"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 25.5,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": -1.8,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": -20.4,
+						"units": "%",
+						"date": "2013"
+					}
+				],
+				"global_rank": 3
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 70800,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 63000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 12
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 41,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.6,
+							"units": "%",
+							"note": "NA"
+						},
+						"services": {
+							"value": 38.4,
+							"units": "%",
+							"note": "NA"
+						}
+					},
+					"date": "2015"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"fodder",
+				"vegetable crops",
+				"venison",
+				"sheep",
+				"dairy products",
+				"fish",
+				"squid"
+			]
+		},
+		"industries": {
+			"industries": [
+				"fish",
+				"wool processing",
+				"tourism"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1850,
+				"global_rank": 227,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 41,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 34.5,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 8
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 67099999.99999999,
+				"units": "USD",
+				"note": "FY09/10"
+			},
+			"expenditures": {
+				"value": 75300000,
+				"units": "USD",
+				"note": "FY09/10"
+			}
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 32.5,
+			"global_rank": 66
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4,
+			"global_rank": 156
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 209
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 77
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 257300000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 125000000,
+						"units": "USD",
+						"date": "2004"
+					}
+				],
+				"global_rank": 186
+			},
+			"commodities": {
+				"by_commodity": [
+					"wool",
+					"hides",
+					"meat",
+					"venison",
+					"fish",
+					"squid"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Spain",
+						"percent": 74.4
+					},
+					{
+						"name": "Namibia",
+						"percent": 10.4
+					},
+					{
+						"name": "US",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 90000000,
+						"units": "USD",
+						"date": "2004"
+					}
+				],
+				"global_rank": 218
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuel",
+					"food",
+					"drink",
+					"building materials",
+					"clothing"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UK",
+						"percent": 47.8
+					},
+					{
+						"name": "Spain",
+						"percent": 28.4
+					},
+					{
+						"name": "Greece",
+						"percent": 10.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.7
+					},
+					{
+						"name": "Cote d'Ivoire",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 205
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.7836,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.6542,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.6542,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.6542,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.6391,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Falkland pounds (FKP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 19000000,
+				"global_rank": 213,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 17670000,
+				"global_rank": 213,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 133,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 147,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 12100,
+				"global_rank": 208,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 74,
+					"global_rank": 96,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 89,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 171,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 26,
+					"global_rank": 26,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 135,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 122,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 126,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 130,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 144,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 290,
+				"global_rank": 213,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 154,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 286,
+				"global_rank": 209,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 131,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 145,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 103,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 124,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 134,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 44070,
+			"global_rank": 211,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2255,
+				"subscriptions_per_one_hundred_inhabitants": 77,
+				"global_rank": 216,
+				"date": "2016-07-01"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 4674,
+				"subscriptions_per_one_hundred_inhabitants": 146,
+				"global_rank": 219,
+				"date": "2016-07-01"
+			}
+		},
+		"broadcast_media": "TV service provided by a multi-channel service provider; radio services provided by the public broadcaster, Falkland Islands Radio Service, broadcasting on both AM and FM frequencies, and by the British Forces Broadcasting Service (BFBS) (2007)",
+		"internet": {
+			"country_code": ".fk",
+			"users": {
+				"total": 3000,
+				"percent_of_population": 98.3,
+				"global_rank": 221,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 5,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VP-F",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 7,
+					"global_rank": 168,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 2,
+					"2438_to_3047_metres": 1,
+					"914_to_1523_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 5,
+					"under_914_metres": 5,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 440,
+				"units": "km"
+			},
+			"paved": {
+				"value": 50,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 390,
+				"units": "km"
+			},
+			"global_rank": 198,
+			"date": "2008"
+		},
+		"merchant_marine": {
+			"total": 3,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 2
+				}
+			],
+			"global_rank": 170,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Stanley"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Argentina, which claims the islands in its constitution and briefly occupied them by force in 1982, agreed in 1995 to no longer seek settlement by force",
+			"UK continues to reject Argentine requests for sovereignty talks"
+		]
+	}
+}

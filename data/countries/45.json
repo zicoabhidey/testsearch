@@ -1,0 +1,2061 @@
+{
+	"name": "Canada",
+	"introduction": {
+		"background": "A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada repatriated its constitution from the UK in 1982, severing a final colonial tie. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment."
+	},
+	"geography": {
+		"location": "Northern North America, bordering the North Atlantic Ocean on the east, North Pacific Ocean on the west, and the Arctic Ocean on the north, north of the conterminous US",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 60,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 95,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "North America",
+		"area": {
+			"total": {
+				"value": 9984670,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 9093507,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 891163,
+				"units": "sq km"
+			},
+			"global_rank": 3,
+			"comparative": "slightly larger than the US"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 8893,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "US",
+					"border_length": {
+						"value": 8893,
+						"units": "km"
+					},
+					"note": "includes 2477 km with Alaska"
+				}
+			],
+			"note": "Canada is the world's largest country that borders only one country"
+		},
+		"coastline": {
+			"value": 202080,
+			"units": "km",
+			"note": "the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "varies from temperate in south to subarctic and arctic in north",
+		"terrain": "mostly plains with mountains in west, lowlands in southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 487,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Logan",
+				"elevation": {
+					"value": 5959,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"bauxite",
+				"iron ore",
+				"nickel",
+				"zinc",
+				"copper",
+				"gold",
+				"lead",
+				"rare earth elements",
+				"molybdenum",
+				"potash",
+				"diamonds",
+				"silver",
+				"fish",
+				"timber",
+				"wildlife",
+				"coal",
+				"petroleum",
+				"natural gas",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 6.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 4.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 1.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 34.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 59.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 8700,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia",
+		"natural_hazards": [
+			{
+				"description": "continuous permafrost in north is a serious obstacle to development",
+				"type": "hazard"
+			},
+			{
+				"description": "cyclonic storms form east of the Rocky Mountains, a result of the mixing of air masses from the Arctic, Pacific, and North American interior, and produce most of the country's rain and snow east of the mountains",
+				"type": "hazard"
+			},
+			{
+				"description": "the vast majority of volcanoes in Western Canada's Coast Mountains remain dormant",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"metal smelting",
+				"coal-burning utilities",
+				"and vehicle emissions impacting agricultural and forest productivity",
+				"air pollution and resulting acid rain severely affecting lakes and damaging forests",
+				"ocean waters becoming contaminated due to agricultural",
+				"industrial",
+				"mining",
+				"and forestry activities"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Volatile Organic Compounds",
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 37694085,
+			"global_rank": 38,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Canadian(s)",
+			"adjective": "Canadian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Canadian",
+					"percent": 32.3
+				},
+				{
+					"name": "English",
+					"percent": 18.3
+				},
+				{
+					"name": "Scottish",
+					"percent": 13.9
+				},
+				{
+					"name": "French",
+					"percent": 13.6
+				},
+				{
+					"name": "Irish",
+					"percent": 13.4
+				},
+				{
+					"name": "German",
+					"percent": 9.6
+				},
+				{
+					"name": "Chinese",
+					"percent": 5.1
+				},
+				{
+					"name": "Italian",
+					"percent": 4.6
+				},
+				{
+					"name": "North American Indian",
+					"percent": 4.4
+				},
+				{
+					"name": "East Indian",
+					"percent": 4
+				},
+				{
+					"name": "other",
+					"percent": 51.6
+				}
+			],
+			"note": "percentages add up to more than 100% because respondents were able to identify more than one ethnic origin",
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 58.7,
+					"note": "official"
+				},
+				{
+					"name": "French",
+					"percent": 22,
+					"note": "official"
+				},
+				{
+					"name": "Punjabi",
+					"percent": 1.4
+				},
+				{
+					"name": "Italian",
+					"percent": 1.3
+				},
+				{
+					"name": "Spanish",
+					"percent": 1.3
+				},
+				{
+					"name": "German",
+					"percent": 1.3
+				},
+				{
+					"name": "Cantonese",
+					"percent": 1.2
+				},
+				{
+					"name": "Tagalog",
+					"percent": 1.2
+				},
+				{
+					"name": "Arabic",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 10.5
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Catholic",
+					"percent": 39,
+					"breakdown": [
+						{
+							"name": "includes Roman Catholic",
+							"percent": 38.8
+						},
+						{
+							"name": "other Catholic .2%"
+						}
+					]
+				},
+				{
+					"name": "Protestant",
+					"percent": 20.3,
+					"breakdown": [
+						{
+							"name": "includes United Church",
+							"percent": 6.1
+						},
+						{
+							"name": "Anglican",
+							"percent": 5
+						},
+						{
+							"name": "Baptist",
+							"percent": 1.9
+						},
+						{
+							"name": "Lutheran",
+							"percent": 1.5
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 1.5
+						},
+						{
+							"name": "Presbyterian",
+							"percent": 1.4
+						},
+						{
+							"name": "other Protestant",
+							"percent": 2.9
+						}
+					]
+				},
+				{
+					"name": "Orthodox",
+					"percent": 1.6
+				},
+				{
+					"name": "other Christian",
+					"percent": 6.3
+				},
+				{
+					"name": "Muslim",
+					"percent": 3.2
+				},
+				{
+					"name": "Hindu",
+					"percent": 1.5
+				},
+				{
+					"name": "Sikh",
+					"percent": 1.4
+				},
+				{
+					"name": "Buddhist",
+					"percent": 1.1
+				},
+				{
+					"name": "Jewish",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				},
+				{
+					"name": "none",
+					"percent": 23.9
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.99,
+				"males": 3094008,
+				"females": 2931953
+			},
+			"15_to_24": {
+				"percent": 11.14,
+				"males": 2167013,
+				"females": 2032064
+			},
+			"25_to_54": {
+				"percent": 39.81,
+				"males": 7527554,
+				"females": 7478737
+			},
+			"55_to_64": {
+				"percent": 14.08,
+				"males": 2624474,
+				"females": 2682858
+			},
+			"65_and_over": {
+				"percent": 18.98,
+				"males": 3274298,
+				"females": 3881126
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 51.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23.9,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 27.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 41.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 42.9,
+				"units": "years"
+			},
+			"global_rank": 40,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.81,
+			"global_rank": 127,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.2,
+			"global_rank": 190,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.9,
+			"global_rank": 92,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 5.6,
+			"global_rank": 20,
+			"date": "2020"
+		},
+		"population_distribution": "vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia",
+		"urbanization": {
+			"urban_population": {
+				"value": 81.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.97,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Toronto",
+					"population": 6197000
+				},
+				{
+					"place": "Montreal",
+					"population": 4221000
+				},
+				{
+					"place": "Vancouver",
+					"population": 2581000
+				},
+				{
+					"place": "Calgary",
+					"population": 1547000
+				},
+				{
+					"place": "Edmonton",
+					"population": 1461000
+				},
+				{
+					"place": "Ottawa",
+					"population": 1393000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.84,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 10,
+			"global_rank": 145,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 183,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 83.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.9,
+				"units": "years"
+			},
+			"global_rank": 6,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.57,
+			"global_rank": 191,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.31,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 29.4,
+			"global_rank": 26,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.3,
+			"global_rank": 46,
+			"date": "2011"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 11.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 12.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 9.6,
+				"units": "%"
+			},
+			"global_rank": 116,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Canada",
+			"etymology": "the country name likely derives from the St. Lawrence Iroquoian word \"kanata\" meaning village or settlement"
+		},
+		"government_type": "federal parliamentary democracy (Parliament of Canada) under a constitutional monarchy; a Commonwealth realm; federal and state authorities and responsibilities regulated in constitution",
+		"capital": {
+			"name": "Ottawa",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 45,
+					"minutes": 25,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 75,
+					"minutes": 42,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+			"note": "Canada has six time zones",
+			"etymology": "the city lies on the south bank of the Ottawa River, from which it derives its name; the river name comes from the Algonquin word \"adawe\" meaning \"to trade\" and refers to the indigenous peoples who used the river as a trade highway"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Alberta",
+				"type": ""
+			},
+			{
+				"name": "British Columbia",
+				"type": ""
+			},
+			{
+				"name": "Manitoba",
+				"type": ""
+			},
+			{
+				"name": "New Brunswick",
+				"type": ""
+			},
+			{
+				"name": "Newfoundland and Labrador",
+				"type": ""
+			},
+			{
+				"name": "Northwest Territories",
+				"type": ""
+			},
+			{
+				"name": "Nova Scotia",
+				"type": ""
+			},
+			{
+				"name": "Nunavut",
+				"type": ""
+			},
+			{
+				"name": "Ontario",
+				"type": ""
+			},
+			{
+				"name": "Prince Edward Island",
+				"type": ""
+			},
+			{
+				"name": "Quebec",
+				"type": ""
+			},
+			{
+				"name": "Saskatchewan",
+				"type": ""
+			},
+			{
+				"name": "Yukon",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1867-07-01",
+			"note": "union of British North American colonies; 11 December 1931 (recognized by UK per Statute of Westminster)"
+		},
+		"national_holidays": [
+			{
+				"name": "Canada Day",
+				"day": "1 July",
+				"original_year": "1867"
+			}
+		],
+		"constitution": {
+			"history": "consists of unwritten and written acts, customs, judicial decisions, and traditions dating from 1763; the written part of the constitution consists of the Constitution Act of 29 March 1867, which created a federation of four provinces, and the Constitution Act of 17 April 1982",
+			"amendments": "proposed by either house of Parliament or by the provincial legislative assemblies; there are 5 methods for passage though most require approval by both houses of Parliament, approval of at least two thirds of the provincial legislative assemblies and assent and formalization as a proclamation by the governor general in council; the most restrictive method is reserved for amendments affecting fundamental sections of the constitution, such as the office of the monarch or the governor general, and the constitutional amendment procedures, which require unanimous approval by both houses and by all the provincial assemblies, and assent of the governor general in council; amended 11 times, last in 2011 (Fair Representation Act, 2011)"
+		},
+		"legal_system": "common law system except in Quebec, where civil law based on the French civil code prevails",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "minimum of 3 of last 5 years resident in Canada"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Julie PAYETTE (since 2 October 2017)",
+			"head_of_government": "Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)",
+			"cabinet": "Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general",
+			"note": "the governor general position is largely ceremonial; Julie PAYETTE, a former space shuttle astronaut, is Canada's fourth female governor general but the first to have flown in space"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Parlement consists of: Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)\nHouse of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)",
+			"elections": "Senate - appointed; latest appointments in December 2018\nHouse of Commons - last held on 21 October 2019 (next to be held in October 2023)",
+			"election_results": "Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4%\nHouse of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "chief justice and judges appointed by the prime minister in council; all judges appointed for life with mandatory retirement at age 75",
+			"subordinate_courts": "federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -  in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Bloc Quebecois",
+					"leaders": [
+						"Mario BEAULIEU"
+					]
+				},
+				{
+					"name": "Conservative Party of Canada",
+					"name_alternative": "CPC",
+					"leaders": [
+						"Erin O'TOOLE"
+					]
+				},
+				{
+					"name": "Green Party",
+					"leaders": [
+						"Annamie PAUL"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"leaders": [
+						"Justin TRUDEAU"
+					]
+				},
+				{
+					"name": "New Democratic Party",
+					"name_alternative": "NDP",
+					"leaders": [
+						"Jagmeet SINGH"
+					]
+				},
+				{
+					"name": "People's Party of Canada",
+					"leaders": [
+						"Maxime BERNIER"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "dialogue partner"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CE ",
+				"note": "observer"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-7"
+			},
+			{
+				"organization": "G-8"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAFTA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Kirsten HILLMAN (since 17 July 2020)",
+				"chancery": "501 Pennsylvania Avenue NW, Washington, DC 20001",
+				"telephone": "[1] (202) 682-1740",
+				"fax": "[1] (202) 682-7726",
+				"consulates_general": "Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle",
+				"trade_offices": "Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Richard M. MILLS, Jr. (since 23 August 2019)",
+				"telephone": "[1] (613) 688-5335",
+				"embassy": "490 Sussex Drive, Ottawa, Ontario K1N 1G8",
+				"mailing_address": "P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1",
+				"fax": "[1] (613) 688-3082",
+				"consulates_general": "Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver",
+				"consulates": "Winnipeg"
+			}
+		},
+		"flag_description": {
+			"description": "two vertical bands of red (hoist and fly side, half width) with white square between them; an 11-pointed red maple leaf is centered in the white square; the maple leaf has long been a Canadian symbol"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "maple leaf"
+				},
+				{
+					"symbol": "beaver"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "O Canada",
+			"lyrics_music": "Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/Calixa LAVALLEE",
+			"note": "adopted 1980; originally written in 1880, \"O Canada\" served as an unofficial anthem many years before its official adoption; the anthem has French and English versions whose lyrics differ; as a Commonwealth realm, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CA.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.\nTThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.\nGiven its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1774000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1721000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1697000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 17,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1653000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.66,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.02,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.17,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 149
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 48400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 47500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 47400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 34,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 57.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 20.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 30.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -33.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 70.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 20.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 90
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"barley",
+				"oilseed",
+				"tobacco",
+				"fruits",
+				"vegetables",
+				"dairy products",
+				"fish",
+				"forest products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"transportation equipment",
+				"chemicals",
+				"processed",
+				"unprocessed minerals",
+				"food products",
+				"wood",
+				"paper products",
+				"fish products",
+				"petroleum",
+				"natural gas"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.9,
+			"global_rank": 60,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 18136000,
+				"global_rank": 29,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 13,
+						"units": "%"
+					},
+					"services": {
+						"value": 6,
+						"units": "%"
+					},
+					"industry_and_services": {
+						"value": 76,
+						"units": "%"
+					},
+					"manufacturing": {
+						"value": 3,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.67,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 5.83,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 91
+		},
+		"population_below_poverty_line": {
+			"value": 9.4,
+			"units": "%",
+			"note": "this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line",
+			"date": "2008"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 24.8,
+				"units": "%"
+			},
+			"date": "2000"
+		},
+		"budget": {
+			"revenues": {
+				"value": 649600000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 665700000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.3,
+			"global_rank": 48,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 77,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 89.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 91.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 25,
+			"note": "figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level"
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 87
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -35425000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -42862000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 201
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 423500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 393500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 11
+			},
+			"commodities": {
+				"by_commodity": [
+					"motor vehicles",
+					"parts",
+					"industrial machinery",
+					"aircraft",
+					"telecommunications equipment",
+					"chemicals",
+					"plastics",
+					"fertilizers",
+					"wood pulp",
+					"timber",
+					"crude petroleum",
+					"natural gas",
+					"electricity",
+					"aluminum"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 76.4
+					},
+					{
+						"name": "China",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 442100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 413400000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 12
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"motor vehicles",
+					"parts",
+					"crude oil",
+					"chemicals",
+					"electricity",
+					"durable consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 51.5
+					},
+					{
+						"name": "China",
+						"percent": 12.6
+					},
+					{
+						"name": "Mexico",
+						"percent": 6.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 86680000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 82720000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 28
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1608000000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 1550000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 13
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.308,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3256,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3256,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.2788,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.0298,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Canadian dollars (CAD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 649600000000,
+				"global_rank": 6,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 522200000000.00006,
+				"global_rank": 7,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 73350000000,
+				"global_rank": 2,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 2682000000,
+				"global_rank": 52,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 143500000,
+				"global_rank": 8,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 23,
+					"global_rank": 191,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 9,
+					"global_rank": 16,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 56,
+					"global_rank": 30,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 12,
+					"global_rank": 73,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 4264000,
+				"global_rank": 5,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 2818000,
+				"global_rank": 4,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 806700,
+				"global_rank": 14,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 170500000000,
+				"global_rank": 3,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 2009000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 2445000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 1115000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 405700,
+				"global_rank": 21,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 159100000000,
+				"global_rank": 5,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 124400000000,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 83960000000,
+				"global_rank": 5,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 26360000000,
+				"global_rank": 13,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 2056000000000,
+				"global_rank": 16,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 640600000,
+			"global_rank": 9,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 13258721,
+				"subscriptions_per_one_hundred_inhabitants": 35.46,
+				"global_rank": 15,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 34597559,
+				"subscriptions_per_one_hundred_inhabitants": 92.53,
+				"global_rank": 43,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "2 public TV broadcasting networks, 1 in English and 1 in French, each with a large number of network affiliates; several private-commercial networks also with multiple network affiliates; overall, about 150 TV stations; multi-channel satellite and cable systems provide access to a wide range of stations including US stations; mix of public and commercial radio broadcasters with the Canadian Broadcasting Corporation (CBC), the public radio broadcaster, operating 4 radio networks, Radio Canada International, and radio services to indigenous populations in the north; roughly 1,119 licensed radio stations (2016)",
+		"internet": {
+			"country_code": ".ca",
+			"users": {
+				"total": 33743954,
+				"percent_of_population": 91,
+				"global_rank": 23,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 51,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 879,
+				"annual_passenger_traffic_on_registered_air_carriers": 89380000,
+				"annual_freight_traffic_on_registered_air_carriers": 3434070000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "C",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1467,
+					"global_rank": 4,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 523,
+					"over_3047_metres": 21,
+					"2438_to_3047_metres": 19,
+					"1524_to_2437_metres": 147,
+					"914_to_1523_metres": 257,
+					"under_914_metres": 79,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 944,
+					"1524_to_2437_metres": 75,
+					"914_to_1523_metres": 385,
+					"under_914_metres": 484,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 26,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas and liquid petroleum",
+					"length": 110000,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 77932,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 77932,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 4,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 1042300,
+				"units": "km"
+			},
+			"paved": {
+				"value": 415600,
+				"units": "km",
+				"note": "includes 17,000 km of expressways"
+			},
+			"unpaved": {
+				"value": 626700,
+				"units": "km"
+			},
+			"global_rank": 8,
+			"date": "2011"
+		},
+		"waterways": {
+			"value": 636,
+			"units": "km",
+			"note": "Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States",
+			"global_rank": 77,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 669,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 18
+				},
+				{
+					"type": "container ship",
+					"count": 1
+				},
+				{
+					"type": "general cargo",
+					"count": 76
+				},
+				{
+					"type": "oil tanker",
+					"count": 16
+				},
+				{
+					"type": "other",
+					"count": 558
+				}
+			],
+			"global_rank": 34,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Halifax",
+				"Saint John (New Brunswick)",
+				"Vancouver"
+			],
+			"oil_terminals": [
+				"Lower Lakes terminal"
+			],
+			"container_ports": [
+				{
+					"place": "Montreal",
+					"twenty_foot_equivalent_units": 1537669
+				},
+				{
+					"place": "Vancouver",
+					"twenty_foot_equivalent_units": 3252225
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Saint John"
+			],
+			"river_and_lake_ports": [
+				"Montreal",
+				"Quebec City",
+				"Sept-Isles (St. Lawrence)"
+			],
+			"dry_bulk_cargo_ports": [
+				{
+					"place": "Port-Cartier ,\nFraser River Port  Hamilton",
+					"type": "iron ore and grain; Fraser; Lake Ontario"
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.31,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.31,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.44,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.16,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 90
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock",
+			"Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf",
+			"US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border",
+			"sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland",
+			"commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 7356,
+						"country_of_origin": "Colombia"
+					},
+					{
+						"people": 6640,
+						"country_of_origin": "Nigeria"
+					},
+					{
+						"people": 6563,
+						"country_of_origin": "Haiti"
+					},
+					{
+						"people": 6060,
+						"country_of_origin": "China"
+					},
+					{
+						"people": 5876,
+						"country_of_origin": "Turkey"
+					},
+					{
+						"people": 5498,
+						"country_of_origin": "Pakistan"
+					},
+					{
+						"people": 6751,
+						"country_of_origin": "Venezuela",
+						"date": "2019",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay"
+					}
+				],
+				"date": "2018"
+			},
+			"stateless_persons": {
+				"people": 3790,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "illicit producer of cannabis for the domestic drug market and export to US; use of hydroponics technology permits growers to plant large quantities of high-quality marijuana indoors; increasing ecstasy production, some of which is destined for the US; vulnerable to narcotics money laundering because of its mature financial services sector"
+		}
+	}
+}

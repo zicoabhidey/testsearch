@@ -1,0 +1,2034 @@
+{
+	"name": "Pakistan",
+	"introduction": {
+		"background": "The Indus Valley civilization, one of the oldest in the world and dating back at least 5,000 years, spread over much of what is presently Pakistan. During the second millennium B.C., remnants of this culture fused with the migrating Indo-Aryan peoples. The area underwent successive invasions in subsequent centuries from the Persians, Greeks, Scythians, Arabs (who brought Islam), Afghans, and Turks. The Mughal Empire flourished in the 16th and 17th centuries; the British came to dominate the region in the 18th century. The separation in 1947 of British India into the Muslim state of Pakistan (with West and East sections) and largely Hindu India was never satisfactorily resolved, and India and Pakistan fought two wars and a limited conflict - in 1947-48, 1965, and 1999 respectively - over the disputed Kashmir territory. A third war between these countries in 1971 - in which India assisted an indigenous movement reacting to the marginalization of Bengalis in Pakistani politics - resulted in East Pakistan becoming the separate nation of Bangladesh.\nIn response to Indian nuclear weapons testing, Pakistan conducted its own tests in mid-1998. India-Pakistan relations improved in the mid-2000s but have been rocky since the November 2008 Mumbai attacks and have been further strained by attacks in India by militants believed to be based in Pakistan. Imran KHAN took office as prime minister in 2018 after the Pakistan Tehreek-e-Insaaf (PTI) party won a plurality of seats in the July 2018 general elections. Pakistan has been engaged in a decades-long armed conflict with militant groups that target government institutions and civilians, including the Tehreek-e-Taliban Pakistan (TTP) and other militant networks."
+	},
+	"geography": {
+		"location": "Southern Asia, bordering the Arabian Sea, between India on the east and Iran and Afghanistan on the west and China in the north",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 30,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 70,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 796095,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 770875,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 25220,
+				"units": "sq km"
+			},
+			"global_rank": 37,
+			"comparative": "slightly more than five times the size of Georgia; slightly less than twice the size of California"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 7257,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Afghanistan",
+					"border_length": {
+						"value": 2670,
+						"units": "km"
+					}
+				},
+				{
+					"country": "China",
+					"border_length": {
+						"value": 438,
+						"units": "km"
+					}
+				},
+				{
+					"country": "India",
+					"border_length": {
+						"value": 3190,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Iran",
+					"border_length": {
+						"value": 959,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1046,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "mostly hot, dry desert; temperate in northwest; arctic in north",
+		"terrain": "divided into three major geographic areas: the northern highlands, the Indus River plain in the center and east, and the Balochistan Plateau in the south and west",
+		"elevation": {
+			"mean_elevation": {
+				"value": 900,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Arabian Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "K2 (Mt. Godwin-Austen)",
+				"elevation": {
+					"value": 8611,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land",
+				"extensive natural gas reserves",
+				"limited petroleum",
+				"poor quality coal",
+				"iron ore",
+				"copper",
+				"salt",
+				"limestone"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 35.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 27.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 6.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 2.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 62.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 202000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated",
+		"natural_hazards": [
+			{
+				"description": "frequent earthquakes, occasionally severe especially in north and west",
+				"type": "hazard"
+			},
+			{
+				"description": "flooding along the Indus after heavy rains (July and August)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution from raw sewage",
+				"industrial wastes",
+				"and agricultural runoff",
+				"limited natural freshwater resources",
+				"most of the population does not have access to potable water",
+				"deforestation",
+				"soil erosion",
+				"desertification",
+				"air pollution and noise pollution in urban areas"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 233500636,
+			"global_rank": 5,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Pakistani(s)",
+			"adjective": "Pakistani"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Punjabi",
+					"percent": 44.7
+				},
+				{
+					"name": "Pashtun",
+					"percent": 15.4,
+					"note": "Pathan"
+				},
+				{
+					"name": "Sindhi",
+					"percent": 14.1
+				},
+				{
+					"name": "Saraiki",
+					"percent": 8.4
+				},
+				{
+					"name": "Muhajirs",
+					"percent": 7.6
+				},
+				{
+					"name": "Balochi",
+					"percent": 3.6
+				},
+				{
+					"name": "other",
+					"percent": 6.3
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Punjabi",
+					"percent": 48
+				},
+				{
+					"name": "Sindhi",
+					"percent": 12
+				},
+				{
+					"name": "Saraiki",
+					"percent": 10,
+					"note": "a Punjabi variant"
+				},
+				{
+					"name": "Pashto",
+					"percent": 8,
+					"note": "alternate name, Pashtu"
+				},
+				{
+					"name": "Urdu",
+					"percent": 8,
+					"note": "official"
+				},
+				{
+					"name": "Balochi",
+					"percent": 3
+				},
+				{
+					"name": "Hindko",
+					"percent": 2
+				},
+				{
+					"name": "Brahui",
+					"percent": 1
+				},
+				{
+					"name": "English",
+					"note": "official; lingua franca of Pakistani elite and most government ministries"
+				},
+				{
+					"name": "Burushaski"
+				},
+				{
+					"name": "and other",
+					"percent": 8
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 96.4,
+					"breakdown": [
+						{
+							"name": "Sunni",
+							"percent": 85
+						},
+						{
+							"name": "Shia",
+							"percent": 10
+						}
+					],
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 3.6,
+					"note": "includes Christian and Hindu"
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 36.01,
+				"males": 42923925,
+				"females": 41149694
+			},
+			"15_to_24": {
+				"percent": 19.3,
+				"males": 23119205,
+				"females": 21952976
+			},
+			"25_to_54": {
+				"percent": 34.7,
+				"males": 41589381,
+				"females": 39442046
+			},
+			"55_to_64": {
+				"percent": 5.55,
+				"males": 6526656,
+				"females": 6423993
+			},
+			"65_and_over": {
+				"percent": 4.44,
+				"males": 4802165,
+				"females": 5570595
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 64.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 57.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 14,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 22,
+				"units": "years"
+			},
+			"male": {
+				"value": 21.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 22.1,
+				"units": "years"
+			},
+			"global_rank": 180,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.07,
+			"global_rank": 45,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 27.4,
+			"global_rank": 41,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.2,
+			"global_rank": 156,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.9,
+			"global_rank": 140,
+			"date": "2020"
+		},
+		"population_distribution": "the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 37.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.53,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Karachi",
+					"population": 16094000.000000002
+				},
+				{
+					"place": "Lahore",
+					"population": 12642000
+				},
+				{
+					"place": "Faisalabad",
+					"population": 3462000
+				},
+				{
+					"place": "Rawalpindi",
+					"population": 2237000
+				},
+				{
+					"place": "Gujranwala",
+					"population": 2229000
+				},
+				{
+					"place": "Islamabad",
+					"population": 1129000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.86,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.04,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 23.6,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 140,
+			"global_rank": 61,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 52.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 55.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 48.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 20,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 69.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 67.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 71.3,
+				"units": "years"
+			},
+			"global_rank": 171,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.6,
+			"global_rank": 40,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 34.2,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 94.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 89.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 91.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 5.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 10.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 8.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 82.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 62.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 70.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 17.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 37.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 29.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 130,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 190000,
+				"global_rank": 32,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 6800,
+				"global_rank": 22,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 10 November 2020, Pakistan has reported a total of 341,753 cases of COVID-19 or 1,547 cumulative cases of COVID-19 per 1 million population with 31 cumulative deaths per 1 million population; the Government of Pakistan will permit commercial outbound passenger flights from all international airports except Gwadar and Turbat effective 30 May 2020, but inbound passenger flights remain suspended; limited domestic flight operations from five major airports – Islamabad, Karachi, Lahore, Peshawar, and Quetta are available; on 7 May 2020, the Government of Pakistan announced an ease in some of the nationwide lockdown restrictions; additionally, the Islamabad Capital Territory and Sindh, Punjab, Balochistan, and Khyber Pakhtunkhwa provinces have varying degrees of lockdowns",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 8.6,
+			"global_rank": 150,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 23.1,
+			"global_rank": 15,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.9,
+			"global_rank": 142,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 59.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 71.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 46.5,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 8,
+				"units": "years"
+			},
+			"male": {
+				"value": 9,
+				"units": "years"
+			},
+			"female": {
+				"value": 8,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 7.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 8.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 6.8,
+				"units": "%"
+			},
+			"global_rank": 145,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Islamic Republic of Pakistan",
+			"conventional_short_form": "Pakistan",
+			"local_long_form": "Jamhuryat Islami Pakistan",
+			"local_short_form": "Pakistan",
+			"former": "West Pakistan",
+			"etymology": "the word \"pak\" means \"pure\" in Persian or Pashto, while the Persian suffix \"-stan\" means \"place of\" or \"country,\" so the word Pakistan literally means \"Land of the Pure\""
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "Islamabad",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 33,
+					"minutes": 41,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 73,
+					"minutes": 3,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 5,
+				"note": "10 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "derived from two words: \"Islam,\" an Urdu word referring to the religion of Islam, and \"-abad,\" a Persian suffix indicating an \"inhabited place\" or \"city,\" to render the meaning \"City of Islam\""
+		},
+		"independence": {
+			"date": "1947-08-14",
+			"note": "from British India"
+		},
+		"national_holidays": [
+			{
+				"name": "Pakistan Day",
+				"day": "23 March",
+				"original_year": "1940",
+				"note": "commemorates both the adoption of the Lahore Resolution by the All-India Muslim League during its 22-24 March 1940 session, which called for the creation of independent Muslim states, and the adoption of the first constitution of Pakistan on 23 March 1956 during the transition to the Islamic Republic of Pakistan; also referred to as Pakistan Resolution Day or Republic Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest endorsed 12 April 1973, passed 19 April 1973, entered into force 14 August 1973 (suspended and restored several times)",
+			"amendments": "proposed by the Senate or by the National Assembly; passage requires at least two-thirds majority vote of both houses; amended many times, last in 2018"
+		},
+		"legal_system": "common law system with Islamic law influence",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Pakistan",
+			"dual_citizenship_recognized": "yes, but limited to select countries",
+			"residency_requirement_for_naturalization": "4 out of the previous 7 years and including the 12 months preceding application"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal; note - there are joint electorates and reserved parliamentary seats for women and non-Muslims"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Arif ALVI (since 9 September 2018)",
+			"head_of_government": "Prime Minister Imran KHAN (since 18 August 2018)",
+			"cabinet": "Cabinet appointed by the president upon the advice of the prime minister",
+			"elections_appointments": "president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 17 August 2018",
+			"election_results": "Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Majlis-e-Shoora consists of: Senate (104 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years); note - the byelection scheduled for 15 April 2020 has been postponed due to the COVID-19 pandemic\nNational Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)",
+			"elections": "Senate - last held on 3 March 2018 (next to be held in March 2021)\nNational Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party as of December 2019  - PPP 19, PML-N 16,  PTI 14, MQM-P 5, JUI-F 4, BAP 2, JI 2, PkMAP 2, ANP 1, BNP 1, PML-F 1, other 7, independent 30\nNational Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 84, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Pakistan (consists of the chief justice and 16 judges)",
+			"judge_selection_and_term_of_office": "justices nominated by an 8-member parliamentary committee upon the recommendation of the Judicial Commission, a 9-member body of judges and other judicial professionals, and appointed by the president; justices can serve until age 65",
+			"subordinate_courts": "High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Awami National Party",
+					"name_alternative": "ANP",
+					"leaders": [
+						"Asfandyar Wali KHAN"
+					]
+				},
+				{
+					"name": "Awami Muslim League",
+					"name_alternative": "AML",
+					"leaders": [
+						"Sheikh Rashid AHMED"
+					]
+				},
+				{
+					"name": "Balochistan National Party-Awami",
+					"name_alternative": "BNP-A",
+					"leaders": [
+						"Mir Israr Ullah ZEHRI"
+					]
+				},
+				{
+					"name": "Balochistan National Party-Mengal",
+					"name_alternative": "BNP-M",
+					"leaders": [
+						"Sardar Akhtar Jan MENGAL"
+					]
+				},
+				{
+					"name": "Grand Democratic Alliance",
+					"name_alternative": "GDA",
+					"note": "alliance of several parties"
+				},
+				{
+					"name": "Jamhoori Wattan Party",
+					"name_alternative": "JWP",
+					"leaders": [
+						"Shahzain BUGTI"
+					]
+				},
+				{
+					"name": "Jamaat-i Islami",
+					"name_alternative": "JI",
+					"leaders": [
+						"Sirajul HAQ"
+					]
+				},
+				{
+					"name": "Jamiat-i Ulema-i Islam Fazl-ur Rehman",
+					"name_alternative": "JUI-F",
+					"leaders": [
+						"Fazlur REHMAN"
+					]
+				},
+				{
+					"name": "Muttahida Quami Movement-London",
+					"name_alternative": "MQM-L",
+					"leaders": [
+						"Altaf HUSSAIN"
+					],
+					"note": "MQM split into two factions in 2016"
+				},
+				{
+					"name": "Muttahida Quami Movement-Pakistan",
+					"name_alternative": "MQM-P",
+					"leaders": [
+						"Dr. Khalid Maqbool SIDDIQUI"
+					],
+					"note": "MQM split into two factions in 2016"
+				},
+				{
+					"name": "Muttahida Majlis-e-Amal",
+					"name_alternative": "MMA",
+					"leaders": [
+						"Fazl-ur- REHMAN"
+					],
+					"note": "alliance of several parties"
+				},
+				{
+					"name": "National Party",
+					"name_alternative": "NP",
+					"leaders": [
+						"Mir Hasil Khan BIZENJO"
+					]
+				},
+				{
+					"name": "Pakhtunkhwa Milli Awami Party or PMAP or PkMAP",
+					"name_alternative": "",
+					"leaders": [
+						"Mahmood Khan ACHAKZAI"
+					]
+				},
+				{
+					"name": "Pakistan Muslim League-Functional",
+					"name_alternative": "PML-F",
+					"leaders": [
+						"Pir PAGARO or Syed Shah Mardan SHAH-II"
+					]
+				},
+				{
+					"name": "Pakistan Muslim League-Nawaz",
+					"name_alternative": "PML-N",
+					"leaders": [
+						"Shehbaz SHARIF"
+					]
+				},
+				{
+					"name": "Pakistan Muslim League – Quaid-e-Azam Group",
+					"name_alternative": "PML-Q",
+					"leaders": [
+						"Chaudhry Shujaat HUSSAIN"
+					]
+				},
+				{
+					"name": "Pakistan Peoples Party",
+					"name_alternative": "PPP",
+					"leaders": [
+						"Bilawal BHUTTO ZARDARI",
+						"Asif Ali ZARDARI"
+					]
+				},
+				{
+					"name": "Pakistan Tehrik-e Insaaf or PTI Pak Sarzameen Party or PSP [Mustafa KAMAL]",
+					"name_alternative": "",
+					"leaders": [
+						"Imran KHAN"
+					],
+					"note": "Pakistan Movement for Justice"
+				},
+				{
+					"name": "Quami Watan Party",
+					"name_alternative": "QWP",
+					"leaders": [
+						"Aftab Ahmed Khan SHERPAO"
+					]
+				}
+			],
+			"note": "political alliances in Pakistan shift frequently"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "dialogue partner"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "D-8"
+			},
+			{
+				"organization": "ECO"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-11"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SAARC"
+			},
+			{
+				"organization": "SACEP"
+			},
+			{
+				"organization": "SCO ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Asad Majeed KHAN (since 11 January 2019)",
+				"chancery": "3517 International Court NW, Washington, DC 20008",
+				"telephone": "[1] (202) 243-6500",
+				"fax": "[1] (202) 686-1534",
+				"consulates_general": "Chicago, Houston, Los Angeles, New York",
+				"consulates": "Louisville (KY), San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Ambassador Paul W. JONES (since 24 September 2018)",
+				"telephone": "[92] 51-201-4000",
+				"embassy": "Diplomatic Enclave, Ramna 5, Islamabad",
+				"mailing_address": "8100 Islamabad Place, Washington, DC 20521-8100",
+				"fax": "[92] 51-227-6427",
+				"consulates_general": "Karachi, Lahore, Peshawar"
+			}
+		},
+		"flag_description": {
+			"description": "green with a vertical white band (symbolizing the role of religious minorities) on the hoist side; a large white crescent and star are centered in the green field; the crescent, star, and color green are traditional symbols of Islam"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "five-pointed star between the horns of a waxing crescent moon"
+				},
+				{
+					"symbol": "jasmine"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Qaumi Tarana\" (National Anthem)",
+			"lyrics_music": "Abu-Al-Asar Hafeez JULLANDHURI/Ahmed Ghulamali CHAGLA",
+			"note": "adopted 1954; also known as \"Pak sarzamin shad bad\" (Blessed Be the Sacred Land)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/PK.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Decades of internal political disputes and low levels of foreign investment have led to underdevelopment in Pakistan. Pakistan has a large English-speaking population, with English-language skills less prevalent outside urban centers. Despite some progress in recent years in both security and energy, a challenging security environment, electricity shortages, and a burdensome investment climate have traditionally deterred investors. Agriculture accounts for one-fifth of output and two-fifths of employment. Textiles and apparel account for more than half of Pakistan's export earnings; Pakistan's failure to diversify its exports has left the country vulnerable to shifts in world demand. Pakistan’s GDP growth has gradually increased since 2012, and was 5.3% in 2017. Official unemployment was 6% in 2017, but this fails to capture the true picture, because much of the economy is informal and underemployment remains high. Human development continues to lag behind most of the region.\nIn 2013, Pakistan embarked on a $6.3 billion IMF Extended Fund Facility, which focused on reducing energy shortages, stabilizing public finances, increasing revenue collection, and improving its balance of payments position. The program concluded in September 2016. Although Pakistan missed several structural reform criteria, it restored macroeconomic stability, improved its credit rating, and boosted growth. The Pakistani rupee has remained relatively stable against the US dollar since 2015, though it declined about 10% between November 2017 and March 2018. Balance of payments concerns have reemerged, however, as a result of a significant increase in imports and weak export and remittance growth.\nPakistan must continue to address several longstanding issues, including expanding investment in education, healthcare, and sanitation; adapting to the effects of climate change and natural disasters; improving the country’s business environment; and widening the country’s tax base. Given demographic challenges, Pakistan’s leadership will be pressed to implement economic reforms, promote further development of the energy sector, and attract foreign investment to support sufficient economic growth necessary to employ its growing and rapidly urbanizing population, much of which is under the age of 25.\nIn an effort to boost development, Pakistan and China are implementing the \"China-Pakistan Economic Corridor\" (CPEC) with $60 billion in investments targeted towards energy and other infrastructure projects. Pakistan believes CPEC investments will enable growth rates of over 6% of GDP by laying the groundwork for increased exports. CPEC-related obligations, however, have raised IMF concern about Pakistan’s capital outflows and external financing needs over the medium term.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1061000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1006999999999.9999,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 962800000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 25,
+				"note": "data are in 2017 dollars; data are for fiscal years"
+			},
+			"official_exchange_rate": {
+				"USD": 305000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 4.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 37,
+				"note": "data are for fiscal years"
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 171,
+				"note": "data are in 2017 dollars; data are for fiscal years"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 82,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 14.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.6,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 8.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -17.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 24.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 19.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 56.5,
+							"units": "%",
+							"date": "2017"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 12,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 13.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 14.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 151,
+			"note": "data are for fiscal years"
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"wheat",
+				"rice",
+				"sugarcane",
+				"fruits",
+				"vegetables",
+				"milk",
+				"beef",
+				"mutton",
+				"eggs"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"apparel",
+				"food processing",
+				"pharmaceuticals",
+				"surgical instruments",
+				"construction materials",
+				"paper products",
+				"fertilizer",
+				"shrimp"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.4,
+			"global_rank": 53,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 61710000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 42.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 35.1,
+						"units": "%",
+						"note": "FY2015 est."
+					}
+				}
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 96,
+			"note": "Pakistan has substantial underemployment"
+		},
+		"population_below_poverty_line": {
+			"value": 29.5,
+			"units": "%",
+			"note": "FY2013 est."
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 26.1,
+				"units": "%",
+				"note": "FY2013"
+			}
+		},
+		"budget": {
+			"revenues": {
+				"value": 46810000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 64489999999.99999,
+				"units": "USD"
+			},
+			"note": "data are for fiscal years",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 15.4,
+			"global_rank": 190,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -5.8,
+			"global_rank": 178,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 67,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 67.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 56
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 161
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -7143000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -19482000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 188
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 32880000000.000004,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 21970000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 60
+			},
+			"commodities": {
+				"by_commodity": [
+					"textiles (garments",
+					"bed linen",
+					"cotton cloth",
+					"yarn)",
+					"rice",
+					"leather goods",
+					"sporting goods",
+					"chemicals",
+					"manufactures",
+					"surgical instruments",
+					"carpets",
+					"rugs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 17.7
+					},
+					{
+						"name": "UK",
+						"percent": 7.7
+					},
+					{
+						"name": "China",
+						"percent": 6
+					},
+					{
+						"name": "Germany",
+						"percent": 5.8
+					},
+					{
+						"name": "Afghanistan",
+						"percent": 5.2
+					},
+					{
+						"name": "UAE",
+						"percent": 4.5
+					},
+					{
+						"name": "Spain",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 53110000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 42690000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 51
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"petroleum products",
+					"machinery",
+					"plastics",
+					"transportation equipment",
+					"edible oils",
+					"paper",
+					"paperboard",
+					"iron",
+					"steel",
+					"tea"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 27.4
+					},
+					{
+						"name": "UAE",
+						"percent": 13.7
+					},
+					{
+						"name": "US",
+						"percent": 4.9
+					},
+					{
+						"name": "Indonesia",
+						"percent": 4.3
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 18460000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 22050000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 62
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 82190000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 70450000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 55
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 105.1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 104.769,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 104.769,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 102.769,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 101.1,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Pakistani rupees (PKR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 45000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 79,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 91,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 72,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 109700000000,
+				"global_rank": 32,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 92330000000,
+				"global_rank": 34,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 182,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 490000000,
+				"global_rank": 80,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 26900000,
+				"global_rank": 35,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 62,
+					"global_rank": 125,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 5,
+					"global_rank": 22,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 27,
+					"global_rank": 74,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 7,
+					"global_rank": 94,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 90000,
+				"global_rank": 45,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 13150,
+				"global_rank": 58,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 168200,
+				"global_rank": 34,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 332200000,
+				"global_rank": 52,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 291200,
+				"global_rank": 43,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 557000,
+				"global_rank": 33,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 25510,
+				"global_rank": 68,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 264500,
+				"global_rank": 27,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 39050000000,
+				"global_rank": 21,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 45050000000,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 165,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 6003000000,
+				"global_rank": 32,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 588800000000,
+				"global_rank": 30,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 179500000,
+			"global_rank": 33,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2607495,
+				"subscriptions_per_one_hundred_inhabitants": 1.14,
+				"global_rank": 49,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 174702132,
+				"subscriptions_per_one_hundred_inhabitants": 76.38,
+				"global_rank": 9,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "media is government regulated; 1 dominant state-owned TV broadcaster, Pakistan Television Corporation (PTV), operates a network consisting of 8 channels; private TV broadcasters are permitted; to date 69 foreign satellite channels are operational; the state-owned radio network operates more than 30 stations; nearly 200 commercially licensed, privately owned radio stations provide programming mostly limited to music and talk shows (2019)",
+		"internet": {
+			"country_code": ".pk",
+			"users": {
+				"total": 34734689,
+				"percent_of_population": 15.51,
+				"global_rank": 22,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 5,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 52,
+				"annual_passenger_traffic_on_registered_air_carriers": 6880637,
+				"annual_freight_traffic_on_registered_air_carriers": 217530000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "AP",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 151,
+					"global_rank": 35,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 108,
+					"over_3047_metres": 15,
+					"2438_to_3047_metres": 20,
+					"1524_to_2437_metres": 43,
+					"914_to_1523_metres": 20,
+					"under_914_metres": 10,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 43,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 9,
+					"914_to_1523_metres": 9,
+					"under_914_metres": 24,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 23,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 984,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 470,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 170,
+					"units": "km"
+				}
+			],
+			"date": "2019"
+		},
+		"railways": {
+			"total": {
+				"length": 11881,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 389,
+				"units": "km\n1.000-m"
+			},
+			"broad_gauge": {
+				"length": 11492,
+				"electrified": 293,
+				"units": "km\n1.676-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 22,
+			"date": "2019"
+		},
+		"roadways": {
+			"total": {
+				"value": 263775,
+				"units": "km"
+			},
+			"paved": {
+				"value": 185063,
+				"units": "km",
+				"note": "includes 708 km of expressways"
+			},
+			"unpaved": {
+				"value": 78712,
+				"units": "km"
+			},
+			"global_rank": 22,
+			"date": "2019"
+		},
+		"merchant_marine": {
+			"total": 54,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 5
+				},
+				{
+					"type": "other",
+					"count": 44
+				}
+			],
+			"global_rank": 115,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Karachi",
+				"Port Muhammad Bin Qasim"
+			],
+			"container_ports": [
+				{
+					"place": "Karachi",
+					"twenty_foot_equivalent_units": 2224000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Port Qasim"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 4,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 4.1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 11
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 16,
+			"note": "16-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"various talks and confidence-building measures cautiously have begun to defuse tensions over Kashmir, particularly since the October 2005 earthquake in the region",
+			"Kashmir nevertheless remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas)",
+			"UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949",
+			"India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964",
+			"India and Pakistan have maintained their 2004 cease-fire in Kashmir and initiated discussions on defusing the armed standoff in the Siachen glacier region",
+			"Pakistan protests India's fencing the highly militarized Line of Control and construction of the Baglihar Dam on the Chenab River in Jammu and Kashmir, which is part of the larger dispute on water sharing of the Indus River and its tributaries",
+			"to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea",
+			"Pakistani maps continue to show the Junagadh claim in India's Gujarat State",
+			"since 2002, with UN assistance, Pakistan has repatriated 3.8 million Afghan refugees, leaving about 2.6 million",
+			"Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan, which serve as bases for foreign terrorists and other illegal activities",
+			"Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 2630000,
+						"country_of_origin": "Afghanistan",
+						"note": "1.4 million registered, 1.18-1.28 million undocumented",
+						"date": "2017"
+					}
+				]
+			},
+			"internally_displaced_persons": {
+				"people": 106000,
+				"note": "primarily those who remain displaced by counter-terrorism and counter-insurgency operations and violent conflict between armed non-state groups in the Federally Administered Tribal Areas and Khyber-Paktunkwa Province; 1 million displaced in northern Waziristan in 2014; individuals also have been displaced by repeated monsoon floods",
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Pakistan is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the largest human trafficking problem is bonded labor in agriculture, brickmaking and, to a lesser extent, fishing, mining and carpet-making; children are bought, sold, rented, and placed in forced begging rings, domestic service, small shops, brick-making factories, or prostitution; militant groups also force children to spy, fight, or die as suicide bombers, kidnapping the children or getting them from poor parents through sale or coercion; women and girls are forced into prostitution or marriages; Pakistani adults migrate to the Gulf States and African and European states for low-skilled jobs and sometimes become victims of forced labor, debt bondage, or prostitution; foreign adults and children, particularly from Afghanistan, Bangladesh, and Sri Lanka, may be subject to forced labor, and foreign women may be sex trafficked in Pakistan, with refugees and ethnic minorities being most vulnerable",
+			"tier_rating": "Tier 2 Watch List – Pakistan does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government lacks political will and capacity to fully address human trafficking, as evidenced by ineffective law enforcement efforts, official complicity, penalization of victims, and the continued conflation of migrant smuggling and human trafficking by many officials; not all forms of trafficking are prohibited; an anti-trafficking bill drafted in 2013 to address gaps in existing legislation remains pending, and a national action plan drafted in 2014 is not finalized; feudal landlords and brick kiln owners use their political influence to protect their involvement in bonded labor, while some police personnel have taken bribes to ignore prostitution that may have included sex trafficking; authorities began to use standard procedures for the identification and referral of trafficking victims, but it is not clear how widely these methods were practiced; in other instances, police were reluctant to assist NGOs with rescues and even punished victims for crimes committed as a direct result of being trafficked (2015)"
+		},
+		"illicit_drugs": {
+			"note": "significant transit area for Afghan drugs, including heroin, opium, morphine, and hashish, bound for Iran, Western markets, the Gulf States, Africa, and Asia; financial crimes related to drug trafficking, terrorism, corruption, and smuggling remain problems; opium poppy cultivation estimated to be 930 hectares in 2015; federal and provincial authorities continue to conduct anti-poppy campaigns that utilizes forced eradication, fines, and arrests"
+		}
+	}
+}

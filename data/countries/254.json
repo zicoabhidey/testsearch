@@ -1,0 +1,733 @@
+{
+	"name": "Western Sahara",
+	"introduction": {
+		"background": "Western Sahara is a non-self-governing territory on the northwest coast of Africa bordered by Morocco, Mauritania, and Algeria. After Spain withdrew from its former colony of Spanish Sahara in 1976, Morocco annexed the northern two-thirds of Western Sahara and claimed the rest of the territory in 1979, following Mauritania's withdrawal. A guerrilla war with the Polisario Front contesting Morocco's sovereignty ended in a 1991 cease-fire and the establishment of a UN peacekeeping operation. As part of this effort, the UN sought to offer a choice to the peoples of Western Sahara between independence (favored by the Polisario Front) or integration into Morocco. A proposed referendum on the question of independence never took place due to lack of agreement on voter eligibility. The approximately 1,600 km- (almost 1,000 mi-) long defensive sand berm, built by the Moroccans from 1980 to 1987 and running the length of the territory, continues to separate the opposing forces, with Morocco controlling the roughly three-quarters of the territory west of the berm. There are periodic ethnic tensions between the native Sahrawi population and Moroccan immigrants. Morocco maintains a heavy security presence in the territory. The UN revived direct talks about the territory between Morocco, the Polisario Front, Algeria, and Mauritania in December 2018."
+	},
+	"geography": {
+		"location": "Northern Africa, bordering the North Atlantic Ocean, between Mauritania and Morocco",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 24,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 13,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 266000,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 266000,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 79,
+			"comparative": "about the size of Colorado"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2049,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Algeria",
+					"border_length": {
+						"value": 41,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mauritania",
+					"border_length": {
+						"value": 1564,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Morocco",
+					"border_length": {
+						"value": 444,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1110,
+			"units": "km"
+		},
+		"climate": "hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew",
+		"terrain": "mostly low, flat desert with large areas of rocky or sandy surfaces rising to small mountains in south and northeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 256,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Sebjet Tah",
+				"elevation": {
+					"value": -55,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed elevation",
+				"elevation": {
+					"value": 805,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"phosphates",
+				"iron ore"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 18.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 18.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 2.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 78.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population lives in the two-thirds of the area west of the berm (Moroccan-occupied) that divides the territory; about 40% of that populace resides in Laayoune as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "hot, dry, dust/sand-laden sirocco wind can occur during winter and spring",
+				"type": "hazard"
+			},
+			{
+				"description": "widespread harmattan haze exists 60% of time, often severely restricting visibility",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"desertification",
+				"overgrazing",
+				"sparse water and lack of arable land"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 652271,
+			"global_rank": 168,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Sahrawi(s), Sahraoui(s)",
+			"adjective": "Sahrawi, Sahrawian, Sahraouian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Arab"
+				},
+				{
+					"name": "Berber"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Standard Arabic"
+				},
+				{
+					"name": "Hassaniya Arabic"
+				},
+				{
+					"name": "Moroccan Arabic"
+				},
+				{
+					"name": "Berber"
+				},
+				{
+					"name": "Spanish"
+				},
+				{
+					"name": "French"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim"
+				}
+			]
+		},
+		"demographic_profile": "Western Sahara is a non-self governing territory; approximately 75% is under Moroccan control. It was inhabited almost entirely by Sahrawi pastoral nomads until the mid-20th century. Their traditional vast migratory ranges, based on following unpredictable rainfall, did not coincide with colonial and later international borders. Since the 1930s, most Sahrawis have been compelled to adopt a sedentary lifestyle and to live in urban settings as a result of fighting, the presence of minefields, job opportunities in the phosphate industry, prolonged drought, the closure of Western Sahara’s border with Mauritania from 1979-2002, and the construction of the defensive berm separating Moroccan- and Polisario-controlled (Sahrawi liberalization movement) areas. Morocco supported rapid urbanization to facilitate surveillance and security.\nToday more than 80% of Western Sahara’s population lives in urban areas; more than 40% live in the administrative center Laayoune. Moroccan immigration has altered the composition and dramatically increased the size of Western Sahara’s population. Morocco maintains a large military presence in Western Sahara and has encouraged its citizens to settle there, offering bonuses, pay raises, and food subsidies to civil servants and a tax exemption, in order to integrate Western Sahara into the Moroccan Kingdom and, Sahrawis contend, to marginalize the native population.\nWestern Saharan Sahrawis have been migrating to Europe, principally to former colonial ruler Spain, since the 1950s. Many who moved to refugee camps in Tindouf, Algeria, also have migrated to Spain and Italy, usually alternating between living in cities abroad with periods back at the camps. The Polisario claims that the population of the Tindouf camps is about 155,000, but this figure may include thousands of Arabs and Tuaregs from neighboring countries. Because international organizations have been unable to conduct an independent census in Tindouf, the UNHCR bases its aid on a figure of 90,000 refugees. Western Saharan coastal towns emerged as key migration transit points (for reaching Spain’s Canary Islands) in the mid-1990s, when Spain’s and Italy’s tightening of visa restrictions and EU pressure on Morocco and other North African countries to control illegal migration pushed Sub-Saharan African migrants to shift their routes to the south.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 36.29,
+				"males": 119719,
+				"females": 116997
+			},
+			"15_to_24": {
+				"percent": 19.44,
+				"males": 63852,
+				"females": 62954
+			},
+			"25_to_54": {
+				"percent": 34.9,
+				"males": 112301,
+				"females": 115313
+			},
+			"55_to_64": {
+				"percent": 5.27,
+				"males": 16095,
+				"females": 18292
+			},
+			"65_and_over": {
+				"percent": 4.1,
+				"males": 11802,
+				"females": 14946
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 44.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 39.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 4.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 20.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 21.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 21.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 22.3,
+				"units": "years"
+			},
+			"global_rank": 184,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.54,
+			"global_rank": 22,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 28,
+			"global_rank": 38,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.7,
+			"global_rank": 100,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 4.9,
+			"global_rank": 25,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population lives in the two-thirds of the area west of the berm (Moroccan-occupied) that divides the territory; about 40% of that populace resides in Laayoune as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 86.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.61,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Laayoune",
+					"population": 232000
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.88,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.79,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 47.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 52.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 43.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 26,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 64.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 62.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 67,
+				"units": "years"
+			},
+			"global_rank": 202,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.65,
+			"global_rank": 38,
+			"date": "2020"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Western Sahara",
+			"former": "Rio de Oro, Saguia el Hamra, Spanish Sahara",
+			"etymology": "self-descriptive name specifying the territory's western location on the African continent's vast desert"
+		},
+		"government_type": "legal status of territory and issue of sovereignty unresolved; territory contested by Morocco and Polisario Front (Popular Front for the Liberation of the Saguia el Hamra and Rio de Oro), which in February 1976 formally proclaimed a government-in-exile of the Sahrawi Arab Democratic Republic (SADR), near Tindouf, Algeria, led by President Mohamed ABDELAZIZ until his death in May 2016; current President Brahim GHALI elected in July 2016; territory partitioned between Morocco and Mauritania in April 1976 when Spain withdrew, with Morocco acquiring northern two-thirds; Mauritania, under pressure from Polisario guerrillas, abandoned all claims to its portion in August 1979; Morocco moved to occupy that sector shortly thereafter and has since asserted administrative control; the Polisario's government-in-exile was seated as an Organization of African Unity (OAU) member in 1984; Morocco between 1980 and 1987 built a fortified sand berm delineating the roughly 75% of Western Sahara west of the barrier that currently is controlled by Morocco; guerrilla activities continued sporadically until a UN-monitored cease-fire was implemented on 6 September 1991 (Security Council Resolution 690) by the United Nations Mission for the Referendum in Western Sahara (MINURSO)",
+		"capital": {
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+		},
+		"suffrage": {
+			"note": "none; (residents of Moroccan-controlled Western Sahara participate in Moroccan elections)"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CAN ",
+				"note": "observer"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			}
+		]
+	},
+	"economy": {
+		"overview": "Western Sahara has a small market-based economy whose main industries are fishing, phosphate mining, tourism, and pastoral nomadism. The territory's arid desert climate makes sedentary agriculture difficult, and much of its food is imported. The Moroccan Government administers Western Sahara's economy and is a key source of employment, infrastructure development, and social spending in the territory.\nWestern Sahara's unresolved legal status makes the exploitation of its natural resources a contentious issue between Morocco and the Polisario. Morocco and the EU in December 2013 finalized a four-year agreement allowing European vessels to fish off the coast of Morocco, including disputed waters off the coast of Western Sahara. As of April 2018, Moroccan and EU authorities were negotiating an amendment to renew the agreement.\nOil has never been found in Western Sahara in commercially significant quantities, but Morocco and the Polisario have quarreled over rights to authorize and benefit from oil exploration in the territory. Western Sahara's main long-term economic challenge is the development of a more diverse set of industries capable of providing greater employment and income to the territory. However, following King MOHAMMED VI’s November 2015 visit to Western Sahara, the Government of Morocco announced a series of investments aimed at spurring economic activity in the region, while the General Confederation of Moroccan Enterprises announced a $609 million investment initiative in the region in March 2015.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 906500000,
+						"units": "USD",
+						"date": "2007"
+					}
+				],
+				"global_rank": 205
+			},
+			"real_growth_rate": {
+				"note": "NA"
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2500,
+						"units": "USD",
+						"date": "2007"
+					}
+				],
+				"global_rank": 198
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"services": {
+							"value": 40,
+							"units": "%"
+						}
+					},
+					"agriculture": "NA",
+					"industry": "NA",
+					"date": "2007"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"fruits",
+				"vegetables",
+				"camels",
+				"sheep",
+				"goats",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"phosphate mining",
+				"handicrafts"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 144000,
+				"global_rank": 178,
+				"date": "2010"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 50,
+						"units": "%"
+					},
+					"industry": {
+						"value": 50,
+						"units": "%"
+					},
+					"industry_and_services": {
+						"value": 50,
+						"units": "%"
+					}
+				},
+				"date": "2005"
+			}
+		},
+		"unemployment_rate": {
+			"note": "NA"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"note": "NA"
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"phosphates"
+				],
+				"date": "2012"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuel for fishing fleet",
+					"foodstuffs"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 9.639,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 9.7351,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 9.7351,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 9.7351,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 8.3798,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Moroccan dirhams (MAD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 0,
+				"global_rank": 220,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 0,
+				"global_rank": 219,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 218,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 218,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 58000,
+				"global_rank": 188,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 22,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 212,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 214,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 214,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 218,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 216,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 216,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 213,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 216,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 1700,
+				"global_rank": 197,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 216,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1702,
+				"global_rank": 193,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 215,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 214,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 213,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 213,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 208,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 268400,
+			"global_rank": 194,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"broadcast_media": "Morocco's state-owned broadcaster, Radio-Television Marocaine (RTM), operates a radio service from Laayoune and relays TV service; a Polisario-backed radio station also broadcasts",
+		"internet": {
+			"country_code": ".eh"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 6,
+					"global_rank": 179,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 3,
+					"2438_to_3047_metres": 3,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 3,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Ad Dakhla",
+				"Laayoune (El Aaiun)"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "the United Nations Mission for the Referendum in Western Sahara (MINURSO) has operated in the Western Sahara since 1991 in accordance with settlement proposals accepted in 1988 by Morocco and the Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro (Frente POLISARIO); the Mission's responsibilities include monitoring the ceasefire, reducing the threat of mines and unexploded ordnance, and providing logistic support to the UNHCR-led Confidence Building Measures pending an agreement to resume those activities, which were suspended in June 2014; as of November 2019, MINURSO had about 460 personnel deployed"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"many neighboring states reject Moroccan administration of Western Sahara",
+			"several states have extended diplomatic relations to the \"Sahrawi Arab Democratic Republic\" represented by the Polisario Front in exile in Algeria, while others support Morocco’s proposal to grant the territory autonomy as part of Morocco, although no state recognizes Moroccan sovereignty over Western Sahara",
+			"an estimated 100,000 Sahrawi refugees continue to be sheltered in camps in Tindouf, Algeria, which has hosted Sahrawi refugees since the 1980s"
+		]
+	}
+}

@@ -1,0 +1,1915 @@
+{
+	"name": "Cote D'Ivoire",
+	"introduction": {
+		"background": ""
+	},
+	"geography": {
+		"location": "Western Africa, bordering the North Atlantic Ocean, between Ghana and Liberia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 5,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 322463,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 318003,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 4460,
+				"units": "sq km"
+			},
+			"global_rank": 70,
+			"comparative": "slightly larger than New Mexico"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 3458,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Burkina Faso",
+					"border_length": {
+						"value": 545,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ghana",
+					"border_length": {
+						"value": 720,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guinea",
+					"border_length": {
+						"value": 816,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Liberia",
+					"border_length": {
+						"value": 778,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mali",
+					"border_length": {
+						"value": 599,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 515,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)",
+		"terrain": "mostly flat to undulating plains; mountains in northwest",
+		"elevation": {
+			"mean_elevation": {
+				"value": 250,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Gulf of Guinea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Monts Nimba",
+				"elevation": {
+					"value": 1752,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"diamonds",
+				"manganese",
+				"iron ore",
+				"cobalt",
+				"bauxite",
+				"copper",
+				"gold",
+				"nickel",
+				"tantalum",
+				"silica sand",
+				"clay",
+				"cocoa beans",
+				"coffee",
+				"palm oil",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 64.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 14.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 41.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 32.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 2.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 730,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "coast has heavy surf and no natural harbors",
+				"type": "hazard"
+			},
+			{
+				"description": "during the rainy season torrential flooding is possible",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation (most of the country's forests - once the largest in West Africa - have been heavily logged)",
+				"water pollution from sewage",
+				"and from industrial",
+				"mining",
+				"and agricultural effluents"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 27481086,
+			"global_rank": 52,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Ivoirian(s)",
+			"adjective": "Ivoirian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Akan",
+					"percent": 28.9
+				},
+				{
+					"name": "Voltaique or Gur",
+					"percent": 16.1
+				},
+				{
+					"name": "Northern Mande",
+					"percent": 14.5
+				},
+				{
+					"name": "Kru",
+					"percent": 8.5
+				},
+				{
+					"name": "Southern Mande",
+					"percent": 6.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.9
+				},
+				{
+					"name": "non-Ivoirian",
+					"percent": 24.2
+				}
+			],
+			"date": "2014"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "native dialects of which",
+					"percent": 60
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 42.9
+				},
+				{
+					"name": "Catholic",
+					"percent": 17.2
+				},
+				{
+					"name": "Evangelical",
+					"percent": 11.8
+				},
+				{
+					"name": "Methodist",
+					"percent": 1.7
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.2
+				},
+				{
+					"name": "animist",
+					"percent": 3.6
+				},
+				{
+					"name": "other religion",
+					"percent": 0.5
+				},
+				{
+					"name": "none",
+					"percent": 19.1
+				}
+			],
+			"note": "the majority of foreign migrant workers are Muslim (72.7%) and Christian (17.7%)",
+			"date": "2014"
+		},
+		"demographic_profile": "Cote d’Ivoire’s population is likely to continue growing for the foreseeable future because almost 60% of the populace is younger than 25, the total fertility rate is holding steady at about 3.5 children per woman, and contraceptive use is under 20%. The country will need to improve education, health care, and gender equality in order to turn its large and growing youth cohort into human capital. Even prior to 2010 unrest that shuttered schools for months, access to education was poor, especially for women. As of 2015, only 53% of men and 33% of women were literate. The lack of educational attainment contributes to Cote d’Ivoire’s high rates of unskilled labor, adolescent pregnancy, and HIV/AIDS prevalence.\nFollowing its independence in 1960, Cote d’Ivoire’s stability and the blossoming of its labor-intensive cocoa and coffee industries in the southwest made it an attractive destination for migrants from other parts of the country and its neighbors, particularly Burkina Faso. The HOUPHOUET-BOIGNY administration continued the French colonial policy of encouraging labor immigration by offering liberal land ownership laws. Foreigners from West Africa, Europe (mainly France), and Lebanon composed about 25% of the population by 1998.\nOngoing economic decline since the 1980s and the power struggle after HOUPHOUET-BOIGNY’s death in 1993 ushered in the politics of \"Ivoirite,\" institutionalizing an Ivoirian identity that further marginalized northern Ivoirians and scapegoated immigrants. The hostile Muslim north-Christian south divide snowballed into a 2002 civil war, pushing tens of thousands of foreign migrants, Liberian refugees, and Ivoirians to flee to war-torn Liberia or other regional countries and more than a million people to be internally displaced. Subsequently, violence following the contested 2010 presidential election prompted some 250,000 people to seek refuge in Liberia and other neighboring countries and again internally displaced as many as a million people. By July 2012, the majority had returned home, but ongoing inter-communal tension and armed conflict continue to force people from their homes.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 38.53,
+				"males": 5311971,
+				"females": 5276219
+			},
+			"15_to_24": {
+				"percent": 20.21,
+				"males": 2774374,
+				"females": 2779012
+			},
+			"25_to_54": {
+				"percent": 34.88,
+				"males": 4866957,
+				"females": 4719286
+			},
+			"55_to_64": {
+				"percent": 3.53,
+				"males": 494000,
+				"females": 476060
+			},
+			"65_and_over": {
+				"percent": 2.85,
+				"males": 349822,
+				"females": 433385
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 79.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 74.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 19.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 20.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 20.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.3,
+				"units": "years"
+			},
+			"global_rank": 191,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.26,
+			"global_rank": 34,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 29.1,
+			"global_rank": 35,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.9,
+			"global_rank": 93,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 1.2,
+			"global_rank": 57,
+			"date": "2020"
+		},
+		"population_distribution": "the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 51.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.38,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Yamoussoukro",
+					"population": 231000,
+					"is_capital": true
+				},
+				{
+					"place": "Abidjan",
+					"population": 5203000,
+					"note": "seat of government; 2020"
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.81,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 19.8,
+			"date": "2011"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 617,
+			"global_rank": 12,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 59.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 66.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 51.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 14,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 61.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 59.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 63.6,
+				"units": "years"
+			},
+			"global_rank": 215,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.67,
+			"global_rank": 36,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 23.3,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.23,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 90.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 67.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 79.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 9.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 32.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 20.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 75.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 32.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 54.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 24.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 67.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 45.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 2.7,
+				"global_rank": 20,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 430000,
+				"global_rank": 18,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 13000,
+				"global_rank": 17,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever",
+				"yellow fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 10.3,
+			"global_rank": 138,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 12.8,
+			"global_rank": 48,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.1,
+			"global_rank": 58,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 47.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 53.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 40.5,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 10,
+				"units": "years"
+			},
+			"female": {
+				"value": 9,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 5.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 4.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 6.5,
+				"units": "%"
+			},
+			"global_rank": 163,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Cote d'Ivoire",
+			"conventional_short_form": "Cote d'Ivoire",
+			"local_long_form": "Republique de Cote d'Ivoire",
+			"local_short_form": "Cote d'Ivoire",
+			"former": "Ivory Coast",
+			"etymology": "name reflects the intense ivory trade that took place in the region from the 15th to 17th centuries",
+			"note": "pronounced coat-div-whar"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Yamoussoukro (legislative capital), Abidjan (administrative capital); note - although Yamoussoukro has been the official capital since 1983, Abidjan remains the administrative capital as well as the officially designated economic capital; the US, like other countries, maintains its Embassy in Abidjan",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 6,
+					"minutes": 49,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 5,
+					"minutes": 16,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix \"-kro\" meaning \"town\" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting \"min-chan m’bidjan,\" which in the Ebrie language means: \"I return from cutting leaves\"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Abidjan",
+				"type": ""
+			},
+			{
+				"name": "Bas-Sassandra",
+				"type": ""
+			},
+			{
+				"name": "Comoe",
+				"type": ""
+			},
+			{
+				"name": "Denguele",
+				"type": ""
+			},
+			{
+				"name": "Goh-Djiboua",
+				"type": ""
+			},
+			{
+				"name": "Lacs",
+				"type": ""
+			},
+			{
+				"name": "Lagunes",
+				"type": ""
+			},
+			{
+				"name": "Montagnes",
+				"type": ""
+			},
+			{
+				"name": "Sassandra-Marahoue",
+				"type": ""
+			},
+			{
+				"name": "Savanes",
+				"type": ""
+			},
+			{
+				"name": "Vallee du Bandama",
+				"type": ""
+			},
+			{
+				"name": "Woroba",
+				"type": ""
+			},
+			{
+				"name": "Yamoussoukro",
+				"type": ""
+			},
+			{
+				"name": "Zanzan",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1960-08-07",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "7 August",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "previous 1960, 2000; latest draft completed 24 September 2016, approved by the National Assembly 11 October 2016, approved by referendum 30 October 2016, promulgated 8 November 2016",
+			"amendments": "proposed by the president of the republic or by Parliament; consideration of drafts or proposals requires an absolute majority vote by the parliamentary membership; passage of amendments affecting presidential elections, presidential term of office and vacancies, and amendment procedures requires approval by absolute majority in a referendum; passage of other proposals by the president requires at least four-fifths majority vote by Parliament; constitutional articles on the sovereignty of the state and its republican and secular form of government cannot be amended"
+		},
+		"legal_system": "civil law system based on the French civil code; judicial review of legislation held in the Constitutional Chamber of the Supreme Court",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Cote d'Ivoire",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Alassane Dramane OUATTARA (since 4 December 2010); Vice President (vacant); note - Vice President Daniel Kablan DUNCAN resigned 8 July 2020; note - the 2016 constitution calls for the establishment of the position of vice-president",
+			"head_of_government": "Prime Minister Hamed BAKAYOKO (since 30 July2020); note - Prime Minister Amadou Gon COULIBALY died on 8 July 2020 after a Council of Ministers meeting",
+			"cabinet": "Council of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note – because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms",
+			"election_results": "Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)\nNational Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - first ever held on 25 March 2018 (next to be held in 2023)\nNational Assembly - last held on 18 December 2016 (next to be held in 2021)",
+			"election_results": "Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%\nNational Assembly - percent of vote by party - RHDP 50.3%, FPI 5.8%, UDPCI 1%, other 1.4%, independent 38.5%; seats by party - RHDP, 167, UDPCI 6, FPI 3, UPCI 3, independent 76; composition - men 228, women 27, percent of women 10.6%; note - total Parliament percent of women 13%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)",
+			"judge_selection_and_term_of_office": "judges nominated by the Superior Council of the Magistrature, a 7-member body consisting of the national president (chairman), 3 \"bench\" judges, and 3 public prosecutors; judges appointed for life",
+			"subordinate_courts": "Courts of Appeal (organized into civil, criminal, and social chambers); first instance courts; peace courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party of Cote d'Ivoire",
+					"name_alternative": "PDCI",
+					"leaders": [
+						"Henri Konan BEDIE"
+					]
+				},
+				{
+					"name": "Ivorian Popular Front",
+					"name_alternative": "FPI",
+					"leaders": [
+						"former pres. Laurent GBAGBO"
+					]
+				},
+				{
+					"name": "Liberty and Democracy for the Republic",
+					"name_alternative": "LIDER",
+					"leaders": [
+						"Mamadou KOULIBALY"
+					]
+				},
+				{
+					"name": "Movement of the Future Forces",
+					"name_alternative": "MFA",
+					"leaders": [
+						"Innocent Augustin ANAKY KOBENA"
+					]
+				},
+				{
+					"name": "Rally of Houphouetists for Democracy and Peace",
+					"name_alternative": "RHDP",
+					"leaders": [
+						"Alassane OUATTARA"
+					],
+					"note": "alliance includes MFA, PDCI, RDR, UDPCI, UPCI"
+				},
+				{
+					"name": "Rally of the Republicans",
+					"name_alternative": "RDR",
+					"leaders": [
+						"Henriette DIABATE"
+					]
+				},
+				{
+					"name": "Union for Cote d'Ivoire",
+					"name_alternative": "UPCI",
+					"leaders": [
+						"Gnamien KONAN"
+					]
+				},
+				{
+					"name": "Union for Democracy and Peace in Cote d'Ivoire",
+					"name_alternative": "UDPCI",
+					"leaders": [
+						"Albert Toikeusse MABRI"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "ECOWAS"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "Entente"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WADB ",
+				"note": "regional"
+			},
+			{
+				"organization": "WAEMU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mamadou HAIDARA (since 28 March 2018)",
+				"chancery": "2424 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 797-0300",
+				"fax": "[1] (202) 462-9444"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Richard K. BELL (since 3 September 2019)",
+				"telephone": "[225] 22 49 40 00",
+				"embassy": "Cocody Riviéra Golf, 01 BP 1712 Abidjan 01, Abidjan",
+				"mailing_address": "B. P. 1712, Abidjan 01",
+				"fax": "[225] 22 49 43 23"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future",
+			"note": "similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "elephant"
+				}
+			],
+			"colors": [
+				{
+					"color": "orange"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"L'Abidjanaise\" (Song of Abidjan)",
+			"lyrics_music": "Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie COTY and Pierre Michel PANGO",
+			"note": "adopted 1960; although the nation's capital city moved from Abidjan to Yamoussoukro in 1983, the anthem still owes its name to the former capital",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/IV.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.\nFollowing the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 97160000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 90120000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 83190000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 86,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 40470000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 8.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 8.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 10
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 179,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 61.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 30.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -30.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 20.1,
+							"units": "%"
+						},
+						"industry": {
+							"value": 26.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 53.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 15.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 131
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"cocoa beans",
+				"bananas",
+				"palm kernels",
+				"corn",
+				"rice",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"sweet potatoes",
+				"sugar",
+				"cotton",
+				"rubber",
+				"timber"
+			]
+		},
+		"industries": {
+			"industries": [
+				"foodstuffs",
+				"beverages",
+				"wood products",
+				"oil refining",
+				"gold mining",
+				"truck",
+				"bus assembly",
+				"textiles",
+				"fertilizer",
+				"building materials",
+				"electricity"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.2,
+			"global_rank": 71,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 8747000,
+				"global_rank": 55,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 68,
+						"units": "%"
+					}
+				},
+				"date": "2007"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 9.4,
+					"units": "%",
+					"date": "2013"
+				}
+			],
+			"global_rank": 141
+		},
+		"population_below_poverty_line": {
+			"value": 46.3,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31.8,
+				"units": "%"
+			},
+			"date": "2008"
+		},
+		"budget": {
+			"revenues": {
+				"value": 7749000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 9464000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 19.1,
+			"global_rank": 156,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.2,
+			"global_rank": 159,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 47,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 47,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 112
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 40
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1860000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -414000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 164
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11740000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11770000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 82
+			},
+			"commodities": {
+				"by_commodity": [
+					"cocoa",
+					"coffee",
+					"timber",
+					"petroleum",
+					"cotton",
+					"bananas",
+					"pineapples",
+					"palm oil",
+					"fish"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Netherlands",
+						"percent": 11.8
+					},
+					{
+						"name": "US",
+						"percent": 7.9
+					},
+					{
+						"name": "France",
+						"percent": 6.4
+					},
+					{
+						"name": "Belgium",
+						"percent": 6.4
+					},
+					{
+						"name": "Germany",
+						"percent": 5.8
+					},
+					{
+						"name": "Burkina Faso",
+						"percent": 4.5
+					},
+					{
+						"name": "India",
+						"percent": 4.4
+					},
+					{
+						"name": "Mali",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 9447000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7810000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 104
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuel",
+					"capital equipment",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Nigeria",
+						"percent": 15
+					},
+					{
+						"name": "France",
+						"percent": 13.4
+					},
+					{
+						"name": "China",
+						"percent": 11.3
+					},
+					{
+						"name": "US",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 6257000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 4935000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 91
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 13070000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 11020000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 105
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 594.3,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 591.45,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 494.42,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Communaute Financiere Africaine francs (XOF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 6000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 76,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 51,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 9730000000,
+				"global_rank": 104,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 6245000000,
+				"global_rank": 114,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 872000000,
+				"global_rank": 61,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 19000000,
+				"global_rank": 114,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1914000,
+				"global_rank": 114,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 60,
+					"global_rank": 130,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 73,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 40,
+					"global_rank": 51,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 184,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 52000,
+				"global_rank": 52,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 26700,
+				"global_rank": 47,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 62350,
+				"global_rank": 52,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 100000000,
+				"global_rank": 69,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 69360,
+				"global_rank": 72,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 51000,
+				"global_rank": 104,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 31450,
+				"global_rank": 61,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 7405,
+				"global_rank": 154,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 2322000000,
+				"global_rank": 59,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2322000000,
+				"global_rank": 82,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 89,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 112,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 28320000000,
+				"global_rank": 68,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 11540000,
+			"global_rank": 101,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 284799,
+				"subscriptions_per_one_hundred_inhabitants": 1.06,
+				"global_rank": 110,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 39049743,
+				"subscriptions_per_one_hundred_inhabitants": 145.34,
+				"global_rank": 39,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-controlled Radiodiffusion Television Ivoirieinne (RTI) is made up of 2 radios stations (Radio Cote d'Ivoire and Frequence2) and 2 television stations (RTI1 and RTI2), with nationwide coverage, broadcasts mainly in French; after 2011 post-electoral crisis, President OUATTARA's administration reopened RTI Bouake', the broadcaster's office in Cote d'Ivoire's 2nd largest city, where facilities were destroyed during the 2002 rebellion; Cote d'Ivoire is also home to 178 proximity radios stations, 16 religious radios stations, 5 commercial radios stations, and 5 international radios stations, according to the Haute Autorite' de la Communication Audiovisuelle (HACA); govt now runs radio UNOCIFM, a radio station previously owned by the UN Operation in Cote d'Ivoire; in Dec 2016, the govt announced 4 companies had been granted licenses to operate -Live TV, Optimum Media Cote d'Ivoire, the Audiovisual Company of Cote d'Ivoire (Sedaci), and Sorano-CI, out of the 4 companies only one has started operating (2019)",
+		"internet": {
+			"country_code": ".ci",
+			"users": {
+				"total": 12295204,
+				"percent_of_population": 46.82,
+				"global_rank": 48,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 10,
+				"annual_passenger_traffic_on_registered_air_carriers": 779482,
+				"annual_freight_traffic_on_registered_air_carriers": 5800000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TU",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 27,
+					"global_rank": 124,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 7,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 4,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 20,
+					"1524_to_2437_metres": 6,
+					"914_to_1523_metres": 11,
+					"under_914_metres": 3,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 101,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 256,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 118,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 5,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 7,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 660,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 660,
+				"units": "km\n1.000-m"
+			},
+			"note": "an additional 622 km of this railroad extends into Burkina Faso",
+			"global_rank": 104,
+			"date": "2008"
+		},
+		"roadways": {
+			"total": {
+				"value": 81996,
+				"units": "km"
+			},
+			"paved": {
+				"value": 6502,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 75494,
+				"units": "km"
+			},
+			"note": "includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable",
+			"global_rank": 62,
+			"date": "2007"
+		},
+		"waterways": {
+			"value": 980,
+			"units": "km",
+			"note": "navigable rivers, canals, and numerous coastal lagoons",
+			"global_rank": 66,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 15,
+			"by_type": [
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 13
+				}
+			],
+			"global_rank": 147,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Abidjan",
+				"San-Pedro"
+			],
+			"oil_terminals": [
+				"Espoir Offshore Terminal"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 111
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-25 years of age for compulsory and voluntary male and female military service; conscription is not enforced; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29",
+			"date": "2012"
+		},
+		"note": "the military has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; currently, the FACI is focused on internal security and the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in southern Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and built a joint terrorism training center with France near Abidjan in 2018\nthe UN maintained a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017 (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"disputed maritime border between Cote d'Ivoire and Ghana"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 303000,
+				"note": "post-election conflict in 2010-11, as well as civil war from 2002-04; land disputes; most pronounced in western and southwestern regions",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 955399,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "illicit producer of cannabis, mostly for local consumption; utility as a narcotic transshipment point to Europe reduced by ongoing political instability; while rampant corruption and inadequate supervision leave the banking system vulnerable to money laundering, the lack of a developed financial system limits the country's utility as a major money-laundering center"
+		}
+	}
+}

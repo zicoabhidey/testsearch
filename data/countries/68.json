@@ -1,0 +1,131 @@
+{
+	"name": "Dhekelia",
+	"introduction": {
+		"background": "By terms of the 1960 Treaty of Establishment that created the independent Republic of Cyprus, the UK retained full sovereignty and jurisdiction over two areas of almost 254 square kilometers - Akrotiri and Dhekelia. The larger of these is the Dhekelia Sovereign Base Area, which is also referred to as the Eastern Sovereign Base Area."
+	},
+	"geography": {
+		"location": "Eastern Mediterranean, on the southeast coast of Cyprus near Famagusta",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 34,
+				"minutes": 59,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 33,
+				"minutes": 45,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 131,
+				"units": "sq km"
+			},
+			"note": "area surrounds three Cypriot enclaves",
+			"global_rank": 223,
+			"comparative": "about three-quarters the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 108,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Cyprus",
+					"border_length": {
+						"value": 108,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 27.5,
+			"units": "km"
+		},
+		"climate": "temperate; Mediterranean with hot, dry summers and cool winters",
+		"environment": {
+			"current_issues": [
+				"netting and trapping of small migrant songbirds in the spring and autumn"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 15500
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English"
+				},
+				{
+					"name": "Greek"
+				}
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Dhekelia"
+		},
+		"capital": {
+			"name": "Episkopi Cantonment (base administrative center for Akrotiri and Dhekelia); located in Akrotiri",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 34,
+					"minutes": 40,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 32,
+					"minutes": 51,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "\"Episkopi\" means \"episcopal\" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese"
+		},
+		"constitution": {
+			"history": "presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960, serves as a basic legal document); amended 1966"
+		},
+		"legal_system": "laws applicable to the Cypriot population are, as far as possible, the same as the laws of the Republic of Cyprus; note - the Sovereign Base Area Administration has its own court system to deal with civil and criminal matters",
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952)",
+			"head_of_government": "Administrator Major General Robert J. THOMSON (since 25 September 2019); note - administrator reports to the British Ministry of Defense; the chief officer is responsible for the day-to-day running of the civil government of the Sovereign Bases",
+			"elections_appointments": "the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense"
+		},
+		"judicial_branch": {
+			"highest_courts": "Senior Judges' Court (consists of several visiting judges from England and Wales)",
+			"judge_selection_and_term_of_office": "see entry for United Kingdom",
+			"subordinate_courts": "Resident Judges' Court; military courts"
+		},
+		"flag_description": {
+			"description": "the flag of the UK is used"
+		},
+		"national_anthem": {
+			"note": "as a United Kingdom area of special sovereignty, \"God Save the Queen\" is official (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/DX.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "Economic activity is limited to providing services to the military and their families located in Dhekelia. All food and manufactured goods must be imported.",
+		"exchange_rates": {
+			"note": "uses the euro"
+		}
+	},
+	"communications": {
+		"broadcast_media": "British Forces Broadcast Service (BFBS) provides multi-channel satellite TV service as well as BFBS radio broadcasts to the Dhekelia Sovereign Base"
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK; includes Dhekelia Garrison and Ayios Nikolaos Station connected by a roadway"
+	}
+}

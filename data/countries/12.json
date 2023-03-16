@@ -1,0 +1,1982 @@
+{
+	"name": "Argentina",
+	"introduction": {
+		"background": "In 1816, the United Provinces of the Rio Plata declared their independence from Spain. After Bolivia, Paraguay, and Uruguay went their separate ways, the area that remained became Argentina. The country's population and culture were heavily shaped by immigrants from throughout Europe, with Italy and Spain providing the largest percentage of newcomers from 1860 to 1930. Up until about the mid-20th century, much of Argentina's history was dominated by periods of internal political unrest and conflict between civilian and military factions.\nAfter World War II, an era of Peronist populism and direct and indirect military interference in subsequent governments was followed by a military junta that took power in 1976. Democracy returned in 1983 after a failed bid to seize the Falkland Islands (Islas Malvinas) by force, and has persisted despite numerous challenges, the most formidable of which was a severe economic crisis in 2001-02 that led to violent public protests and the successive resignations of several presidents. The years 2003-15 saw Peronist rule by Nestor and Cristina FERNANDEZ de KIRCHNER, whose policies isolated Argentina and caused economic stagnation. With the election of Mauricio MACRI in November 2015, Argentina began a period of reform and international reintegration."
+	},
+	"geography": {
+		"location": "Southern South America, bordering the South Atlantic Ocean, between Chile and Uruguay",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 34,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 64,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 2780400,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2736690,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 43710,
+				"units": "sq km"
+			},
+			"global_rank": 9,
+			"comparative": "slightly less than three-tenths the size of the US"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 11968,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Bolivia",
+					"border_length": {
+						"value": 942,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Brazil",
+					"border_length": {
+						"value": 1263,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Chile",
+					"border_length": {
+						"value": 6691,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Paraguay",
+					"border_length": {
+						"value": 2531,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uruguay",
+					"border_length": {
+						"value": 541,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 4989,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "mostly temperate; arid in southeast; subantarctic in southwest",
+		"terrain": "rich plains of the Pampas in northern half, flat to rolling plateau of Patagonia in south, rugged Andes along western border",
+		"elevation": {
+			"mean_elevation": {
+				"value": 595,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Laguna del Carbon (located between Puerto San Julian and Comandante Luis Piedra Buena in the province of Santa Cruz)",
+				"elevation": {
+					"value": -105,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Cerro Aconcagua (located in the northwestern corner of the province of Mendoza; highest point in South America)",
+				"elevation": {
+					"value": 6962,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fertile plains of the pampas",
+				"lead",
+				"zinc",
+				"tin",
+				"copper",
+				"iron ore",
+				"manganese",
+				"petroleum",
+				"uranium",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 53.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 13.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 39.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 10.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 35.4,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 23600,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "San Miguel de Tucuman and Mendoza areas in the Andes subject to earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "pamperos are violent windstorms that can strike the pampas and northeast",
+				"type": "hazard"
+			},
+			{
+				"description": "heavy flooding in some areas",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity in the Andes Mountains along the Chilean border; Copahue (2,997 m) last erupted in 2000; other historically active volcanoes include Llullaillaco, Maipo, Planchon-Peteroa, San Jose, Tromen, Tupungatito, and Viedma",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"environmental problems (urban and rural) typical of an industrializing economy such as deforestation",
+				"soil degradation (erosion",
+				"salinization)",
+				"desertification",
+				"air pollution",
+				"and water pollution\nnote: Argentina is a world leader in setting voluntary greenhouse gas targets"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 45479118,
+			"global_rank": 32,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Argentine(s)",
+			"adjective": "Argentine"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "European  and mestizo",
+					"percent": 97.2,
+					"note": "mostly Spanish and Italian descent; mixed European and Amerindian ancestry"
+				},
+				{
+					"name": "Amerindian",
+					"percent": 2.4
+				},
+				{
+					"name": "African",
+					"percent": 0.4
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				},
+				{
+					"name": "Italian"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "German"
+				},
+				{
+					"name": "French"
+				},
+				{
+					"name": "indigenous",
+					"note": "Mapudungun, Quechua"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "nominally Roman Catholic",
+					"percent": 92,
+					"breakdown": [
+						{
+							"name": "less than practicing",
+							"percent": 20
+						}
+					]
+				},
+				{
+					"name": "Protestant",
+					"percent": 2
+				},
+				{
+					"name": "Jewish",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 4
+				}
+			]
+		},
+		"demographic_profile": "Argentina's population continues to grow but at a slower rate because of its steadily declining birth rate. Argentina's fertility decline began earlier than in the rest of Latin America, occurring most rapidly between the early 20th century and the 1950s, and then becoming more gradual. Life expectancy has been improving, most notably among the young and the poor. While the population under age 15 is shrinking, the youth cohort - ages 15-24 - is the largest in Argentina's history and will continue to bolster the working-age population. If this large working-age population is well-educated and gainfully employed, Argentina is likely to experience an economic boost and possibly higher per capita savings and investment. Although literacy and primary school enrollment are nearly universal, grade repetition is problematic and secondary school completion is low. Both of these issues vary widely by region and socioeconomic group.\nArgentina has been primarily a country of immigration for most of its history, welcoming European immigrants (often providing needed low-skilled labor) after its independence in the 19th century and attracting especially large numbers from Spain and Italy. More than 7 million European immigrants are estimated to have arrived in Argentina between 1880 and 1930, when it adopted a more restrictive immigration policy. European immigration also began to wane in the 1930s because of the global depression. The inflow rebounded temporarily following WWII and resumed its decline in the 1950s when Argentina's military dictators tightened immigration rules and European economies rebounded. Regional migration increased, however, supplying low-skilled workers escaping economic and political instability in their home countries. As of 2015, immigrants made up almost 5% of Argentina's population, the largest share in South America. Migration from neighboring countries accounted for approximately 80% of Argentina's immigrant population in 2015.\nThe first waves of highly skilled Argentine emigrant workers headed mainly to the United States and Spain in the 1960s and 1970s, driven by economic decline and repressive military dictatorships. The 2008 European economic crisis drove the return migration of some Argentinean and other Latin American nationals, as well as the immigration of Europeans to South America, where Argentina was a key recipient. In 2015, Argentina received the highest number of legal migrants in Latin America and the Caribbean. The majority of its migrant inflow came from Paraguay and Bolivia.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 24.02,
+				"males": 5629188,
+				"females": 5294723
+			},
+			"15_to_24": {
+				"percent": 15.19,
+				"males": 3539021,
+				"females": 3367321
+			},
+			"25_to_54": {
+				"percent": 39.6,
+				"males": 9005758,
+				"females": 9002931
+			},
+			"55_to_64": {
+				"percent": 9.07,
+				"males": 2000536,
+				"females": 2122699
+			},
+			"65_and_over": {
+				"percent": 12.13,
+				"males": 2331679,
+				"females": 3185262
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 56.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 38.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 17.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 5.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 31.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 33.6,
+				"units": "years"
+			},
+			"global_rank": 110,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.86,
+			"global_rank": 121,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 16,
+			"global_rank": 110,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.4,
+			"global_rank": 107,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.1,
+			"global_rank": 100,
+			"date": "2020"
+		},
+		"population_distribution": "one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 92.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.07,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Buenos Aires",
+					"population": 15154000,
+					"is_capital": true
+				},
+				{
+					"place": "Cordoba",
+					"population": 1573000
+				},
+				{
+					"place": "Rosario",
+					"population": 1532000
+				},
+				{
+					"place": "Mendoza",
+					"population": 1173000
+				},
+				{
+					"place": "San Miguel De Tucuman",
+					"population": 986000
+				},
+				{
+					"place": "La Plata",
+					"population": 884000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.73,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 39,
+			"global_rank": 101,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 8.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 139,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.21,
+			"global_rank": 92,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 81.3,
+			"units": "%",
+			"date": "2013"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.99,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 99,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 73,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 140000,
+				"global_rank": 37,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1400,
+				"global_rank": 51,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 10 November 2020, Argentina has reported a total of 1,228,814 cases of COVID-19 or 27,189 cumulative cases of COVID-19 per 1 million population with 733 cumulative deaths per 1 million population"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 28.3,
+			"global_rank": 30,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1.7,
+			"global_rank": 117,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.5,
+			"global_rank": 37,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 19,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 23.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 20.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 27.8,
+				"units": "%"
+			},
+			"global_rank": 54,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Argentine Republic",
+			"conventional_short_form": "Argentina",
+			"local_long_form": "Republica Argentina",
+			"local_short_form": "Argentina",
+			"etymology": "originally the area was referred to as Tierra Argentina, i.e., \"Land beside the Silvery River\" or \"silvery land,\" which referred to the massive estuary in the east of the country, the Rio de la Plata (River of Silver); over time the name shortened to simply Argentina or \"silvery\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Buenos Aires",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 34,
+					"minutes": 36,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 58,
+					"minutes": 22,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name translates as \"fair winds\" in Spanish and derives from the original designation of the settlement that would become the present-day city, \"Santa Maria del Buen Aire\" (Saint Mary of the Fair Winds)"
+		},
+		"independence": {
+			"date": "1816-07-09",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Revolution Day",
+				"day": "25 May",
+				"original_year": "1810",
+				"note": "May Revolution Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest effective 11 May 1853",
+			"amendments": "a declaration of proposed amendments requires two-thirds majority vote by both houses of the National Congress followed by approval by an ad hoc, multi-member constitutional convention; amended many times, last significant amendment in 1994"
+		},
+		"legal_system": "civil law system based on West European legal systems; note - in mid-2015, Argentina adopted a new civil code, replacing the old one in force since 1871",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "2 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true,
+			"note": "18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 27 October 2019 (next to be held in October 2023)",
+			"election_results": "Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Congress or Congreso Nacional consists of: Senate (72 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 6-year terms with one-third of the membership elected every 2 years)\nChamber of Deputies (257 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)",
+			"elections": "Senate - last held on 27 October 2019 (next to be held in October 2021)\nChamber of Deputies - last held on 27 October 2019 (next to be held in October 2021)",
+			"election_results": "Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1;\nChamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Corte Suprema (consists of the court president, vice president, and 5 justices)",
+			"judge_selection_and_term_of_office": "justices nominated by the president and approved by the Senate; justices can serve until mandatory retirement at age 75; extensions beyond 75 require renomination by the president and approval by the Senate",
+			"subordinate_courts": "federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Argentina Federal",
+					"leaders": [
+						"coalition led by Pablo KOSINER"
+					]
+				},
+				{
+					"name": "Cambiemos ",
+					"leaders": [
+						"Mauricio MACRI"
+					],
+					"note": "coalition of CC-ARI, PRO, UCR"
+				},
+				{
+					"name": "Citizen's Unity",
+					"name_alternative": "UC",
+					"leaders": [
+						"Cristina FERNANDEZ DE KIRCHNER"
+					]
+				},
+				{
+					"name": "Civic Coalition ARI",
+					"name_alternative": "CC-ARI",
+					"leaders": [
+						"Elisa CARRIO",
+						"Maximiliano FERRARO"
+					]
+				},
+				{
+					"name": "Civic Front for Santiago",
+					"name_alternative": "FCS",
+					"leaders": [
+						"Gerardo ZAMORA"
+					]
+				},
+				{
+					"name": "Everyone's Front",
+					"name_alternative": "TODOS",
+					"leaders": [
+						"Alberto Angel FERNANDEZ"
+					],
+					"note": "Frente de Todos"
+				},
+				{
+					"name": "Federal Consensus",
+					"name_alternative": "CF",
+					"leaders": [
+						"Roberto LAVAGNA",
+						"Juan Manuel URTUBEY"
+					]
+				},
+				{
+					"name": "Front for the Renewal of Concord",
+					"name_alternative": "FRC"
+				},
+				{
+					"name": "Front for Victory",
+					"name_alternative": "FpV",
+					"leaders": [
+						"coalition led by Cristina FERNANDEZ DE KIRCHNER and Agustin ROSSI"
+					]
+				},
+				{
+					"name": "Generation for a National Encounter",
+					"name_alternative": "GEN",
+					"leaders": [
+						"Monica PERALTA"
+					]
+				},
+				{
+					"name": "Justicialist Party",
+					"name_alternative": "PJ",
+					"leaders": [
+						"Miguel Angel PICHETTO"
+					]
+				},
+				{
+					"name": "Radical Civic Union",
+					"name_alternative": "UCR",
+					"leaders": [
+						"Alfredo CORNEJO"
+					]
+				},
+				{
+					"name": "Renewal Front",
+					"name_alternative": "FR",
+					"leaders": [
+						"Sergio MASSA"
+					],
+					"note": "Frente Renovador"
+				},
+				{
+					"name": "Republican Proposal",
+					"name_alternative": "PRO",
+					"leaders": [
+						"Mauricio MACRI",
+						"Humberto SCHIAVONI"
+					]
+				},
+				{
+					"name": "Socialist Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Antonio BONFATTI"
+					]
+				},
+				{
+					"name": "Socialist Workers’ Party",
+					"name_alternative": "PTS",
+					"leaders": [
+						"Jose MONTES"
+					]
+				},
+				{
+					"name": "Together We Are Rio Negro",
+					"name_alternative": "JSRN",
+					"leaders": [
+						"Alberto Edgardo WERETILNECK"
+					]
+				},
+				{
+					"name": "We Do For Cordoba",
+					"name_alternative": "HC",
+					"leaders": [
+						"Juan SCHIARETTI"
+					],
+					"note": "Hacemos Por Cordoba"
+				},
+				{
+					"name": "Workers' Party",
+					"name_alternative": "PO",
+					"leaders": [
+						"Jorge ALTAMIRA"
+					]
+				},
+				{
+					"name": "Worker’s Socialist Movement",
+					"name_alternative": "MST",
+					"leaders": [
+						"Alejandro BODDART; Vilma RIPOLL"
+					]
+				},
+				{
+					"name": "Numerous provincial parties"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAN ",
+				"note": "associate"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "Mercosur"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Paris Club ",
+				"note": "associate"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina ",
+				"note": "observer"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Jorge Martin Arturo ARGUELLO (since 6 February 2020)",
+				"chancery": "1600 New Hampshire Avenue NW, Washington, DC 20009",
+				"telephone": "[1] (202) 238-6400",
+				"fax": "[1] (202) 332-3171",
+				"consulates_general": "Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Edward Charles PRADO (since 16 May 2018)",
+				"telephone": "[54] (11) 5777-4533",
+				"embassy": "Avenida Colombia 4300, C1425GMN Buenos Aires",
+				"mailing_address": "international mail: use embassy street address; APO address: US Embassy Buenos Aires, Unit 4334, APO AA 34034",
+				"fax": "[54] (11) 5777-4240"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Sun of May ",
+					"note": "a sun-with-face symbol"
+				}
+			],
+			"colors": [
+				{
+					"color": "sky blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional Argentino\" (Argentine National Anthem)",
+			"lyrics_music": "Vicente LOPEZ y PLANES/Jose Blas PARERA",
+			"note": "adopted 1813; Vicente LOPEZ was inspired to write the anthem after watching a play about the 1810 May Revolution against Spain",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AR.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight.\nCristina FERNANDEZ DE KIRCHNER succeeded her husband as president in late 2007, and in 2008 the rapid economic growth of previous years slowed sharply as government policies held back exports and the world economy fell into recession. In 2010 the economy rebounded strongly, but slowed in late 2011 even as the government continued to rely on expansionary fiscal and monetary policies, which kept inflation in the double digits.\nIn order to deal with these problems, the government expanded state intervention in the economy: it nationalized the oil company YPF from Spain's Repsol, expanded measures to restrict imports, and further tightened currency controls in an effort to bolster foreign reserves and stem capital flight. Between 2011 and 2013, Central Bank foreign reserves dropped $21.3 billion from a high of $52.7 billion. In July 2014, Argentina and China agreed on an $11 billion currency swap; the Argentine Central Bank has received the equivalent of $3.2 billion in Chinese yuan, which it counts as international reserves.\nWith the election of President Mauricio MACRI in November 2015, Argentina began a historic political and economic transformation, as his administration took steps to liberalize the Argentine economy, lifting capital controls, floating the peso, removing export controls on some commodities, cutting some energy subsidies, and reforming the country’s official statistics. Argentina negotiated debt payments with holdout bond creditors, continued working with the IMF to shore up its finances, and returned to international capital markets in April 2016.\nIn 2017, Argentina’s economy emerged from recession with GDP growth of nearly 3.0%. The government passed important pension, tax, and fiscal reforms. And after years of international isolation, Argentina took on several international leadership roles, including hosting the World Economic Forum on Latin America and the World Trade Organization Ministerial Conference, and is set to assume the presidency of the G-20 in 2018.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 922100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 896500000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 913200000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 28,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 637600000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -2.03,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": -2.53,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.83,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 205
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 20900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 20600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 21200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 88,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 65.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 14.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 3.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 11.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -13.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 10.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 61.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 17.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 16.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 15.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 114
+		},
+		"agriculture_products": {
+			"products": [
+				"sunflower seeds",
+				"lemons",
+				"soybeans",
+				"grapes",
+				"corn",
+				"tobacco",
+				"peanuts",
+				"tea",
+				"wheat",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food processing",
+				"motor vehicles",
+				"consumer durables",
+				"textiles",
+				"chemicals",
+				"petrochemicals",
+				"printing",
+				"metallurgy",
+				"steel"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.7,
+			"global_rank": 111,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 18000000,
+				"global_rank": 30,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 5.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 28.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 66.1,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 9.84,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 9.18,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 144
+		},
+		"population_below_poverty_line": {
+			"value": 25.7,
+			"units": "%",
+			"note": "data are based on private estimates",
+			"date": "2017"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"budget": {
+			"revenues": {
+				"value": 120600000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 158600000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 18.9,
+			"global_rank": 157,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -6,
+			"global_rank": 182,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 57.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 55,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 77
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 25.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 26.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 219,
+			"note": "data are derived from private estimates"
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -3997000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -27049000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 178
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 58450000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 57780000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 49
+			},
+			"commodities": {
+				"by_commodity": [
+					"soybeans",
+					"derivatives",
+					"petroleum",
+					"gas",
+					"vehicles",
+					"corn",
+					"wheat"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Brazil",
+						"percent": 16.1
+					},
+					{
+						"name": "US",
+						"percent": 7.9
+					},
+					{
+						"name": "China",
+						"percent": 7.5
+					},
+					{
+						"name": "Chile",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 63970000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 53500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 48
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"motor vehicles",
+					"petroleum",
+					"natural gas",
+					"organic chemicals",
+					"plastics"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Brazil",
+						"percent": 26.9
+					},
+					{
+						"name": "China",
+						"percent": 18.5
+					},
+					{
+						"name": "US",
+						"percent": 11.3
+					},
+					{
+						"name": "Germany",
+						"percent": 4.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 55330000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 38430000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 38
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 214900000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 190200000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 34
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 16.92,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 14.76,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 14.76,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 9.23,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 8.08,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Argentine pesos (ARS) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 131900000000,
+				"global_rank": 30,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 121000000000,
+				"global_rank": 30,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 55000000,
+				"global_rank": 85,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 9851000000,
+				"global_rank": 26,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 38350000,
+				"global_rank": 27,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 69,
+					"global_rank": 112,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 4,
+					"global_rank": 23,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 24,
+					"global_rank": 79,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 120,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 489000,
+				"global_rank": 29,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 36630,
+				"global_rank": 43,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 16740,
+				"global_rank": 68,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 2162000000,
+				"global_rank": 32,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 669800,
+				"global_rank": 26,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 806000,
+				"global_rank": 27,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 58360,
+				"global_rank": 51,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 121400,
+				"global_rank": 49,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 40920000000,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 49040000000,
+				"global_rank": 17,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 76450000,
+				"global_rank": 49,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 9826000000,
+				"global_rank": 27,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 336600000000,
+				"global_rank": 35,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 203700000,
+			"global_rank": 32,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7791464,
+				"subscriptions_per_one_hundred_inhabitants": 17.28,
+				"global_rank": 21,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 59008618,
+				"subscriptions_per_one_hundred_inhabitants": 130.87,
+				"global_rank": 26,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "government owns a TV station and radio network; more than 2 dozen TV stations and hundreds of privately owned radio stations; high rate of cable TV subscription usage",
+		"internet": {
+			"country_code": ".ar",
+			"users": {
+				"total": 33203320,
+				"percent_of_population": 74.29,
+				"global_rank": 24,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 107,
+				"annual_passenger_traffic_on_registered_air_carriers": 18081937,
+				"annual_freight_traffic_on_registered_air_carriers": 311570000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "LV",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 916,
+					"global_rank": 6,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 161,
+					"over_3047_metres": 4,
+					"2438_to_3047_metres": 29,
+					"1524_to_2437_metres": 65,
+					"914_to_1523_metres": 53,
+					"under_914_metres": 10,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 977,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 43,
+					"914_to_1523_metres": 484,
+					"under_914_metres": 448,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 29930,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 41,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 6248,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 3631,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 36917,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 2745.1,
+				"electrified": 41.1,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 7523.3,
+				"units": "km\n1.000-m"
+			},
+			"broad_gauge": {
+				"length": 26391,
+				"electrified": 149,
+				"units": "km\n1.676-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 6,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 281290,
+				"units": "km"
+			},
+			"paved": {
+				"value": 117616,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 163674,
+				"units": "km"
+			},
+			"global_rank": 21,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 11000,
+			"units": "km",
+			"global_rank": 11,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 192,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				},
+				{
+					"type": "general cargo",
+					"count": 8
+				},
+				{
+					"type": "oil tanker",
+					"count": 30
+				},
+				{
+					"type": "other",
+					"count": 153
+				}
+			],
+			"global_rank": 68,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Bahia Blanca",
+				"Buenos Aires",
+				"La Plata",
+				"Punta Colorada",
+				"Ushuaia"
+			],
+			"container_ports": [
+				{
+					"place": "Buenos Aires",
+					"twenty_foot_equivalent_units": 1851701
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Bahia Blanca"
+			],
+			"river_ports": [
+				"Arroyo Seco",
+				"Rosario",
+				"San Lorenzo-San Martin (Parana)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 131
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-24 years of age for voluntary military service (18-21 requires parental consent); no conscription; if the number of volunteers fails to meet the quota of recruits for a particular year, Congress can authorize the conscription of citizens turning 18 that year for a period not exceeding one year",
+			"date": "2012"
+		},
+		"note": "the Argentine military focuses primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force",
+			"UK continues to reject Argentine requests for sovereignty talks",
+			"territorial claim in Antarctica partially overlaps UK and Chilean claims",
+			"uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question",
+			"in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina",
+			"the two countries formed a joint pollution monitoring regime",
+			"the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur)",
+			"contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 213769,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"illicit_drugs": {
+			"note": "a transshipment country for cocaine headed for Europe, heroin headed for the US, and ephedrine and pseudoephedrine headed for Mexico; some money-laundering activity, especially in the Tri-Border Area; law enforcement corruption; a source for precursor chemicals; increasing domestic consumption of drugs in urban centers, especially cocaine base and synthetic drugs"
+		}
+	}
+}

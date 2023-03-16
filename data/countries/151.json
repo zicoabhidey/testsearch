@@ -1,0 +1,1309 @@
+{
+	"name": "Micronesia, Federated States Of",
+	"introduction": {
+		"background": "The Caroline Islands are a widely scattered archipelago in the western Pacific Ocean; they became part of a UN Trust Territory under US administration following World War II. The eastern four island groups adopted a constitution in 1979 and chose to become the Federated States of Micronesia (FSM). (The westernmost island group became Palau.) Independence came in 1986 under a Compact of Free Association (COFA) with the US, which was amended in 2004. The COFA has been a force for stability and democracy in the FSM since it came into force in 1986. Present concerns include economic uncertainty after 2023 when direct US economic assistance is scheduled to end, large-scale unemployment, overfishing, overdependence on US foreign aid, and state perceptions of inequitable allocation of US aid."
+	},
+	"geography": {
+		"location": "Oceania, island group in the North Pacific Ocean, about three-quarters of the way from Hawaii to Indonesia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 6,
+				"minutes": 55,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 158,
+				"minutes": 15,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 702,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 702,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km",
+				"note": "fresh water only"
+			},
+			"note": "includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie)",
+			"global_rank": 192,
+			"comparative": "four times the size of Washington, DC (land area only)"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 6112,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage",
+		"terrain": "islands vary geologically from high mountainous islands to low, coral atolls; volcanic outcroppings on Pohnpei, Kosrae, and Chuuk",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Nanlaud on Pohnpei",
+				"elevation": {
+					"value": 782,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"marine products",
+				"deep-seabed minerals",
+				"phosphate"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 25.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 19.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 3.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 74.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 0,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"note": "NA",
+			"date": "2012"
+		},
+		"population_distribution": "the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas",
+		"natural_hazards": [
+			{
+				"description": "typhoons (June to December)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"overfishing",
+				"climate change",
+				"water pollution",
+				"toxic pollution from mining",
+				"solid waste disposal"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 102436,
+			"global_rank": 194,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Micronesian(s)",
+			"adjective": "Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Chuukese/Mortlockese",
+					"percent": 49.3
+				},
+				{
+					"name": "Pohnpeian",
+					"percent": 29.8
+				},
+				{
+					"name": "Kosraean",
+					"percent": 6.3
+				},
+				{
+					"name": "Yapese",
+					"percent": 5.7
+				},
+				{
+					"name": "Yap outer islanders",
+					"percent": 5.1
+				},
+				{
+					"name": "Polynesian",
+					"percent": 1.6
+				},
+				{
+					"name": "Asian",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 0.8
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official and common language"
+				},
+				{
+					"name": "Chuukese"
+				},
+				{
+					"name": "Kosrean"
+				},
+				{
+					"name": "Pohnpeian"
+				},
+				{
+					"name": "Yapese"
+				},
+				{
+					"name": "Ulithian"
+				},
+				{
+					"name": "Woleaian"
+				},
+				{
+					"name": "Nukuoro"
+				},
+				{
+					"name": "Kapingamarangi"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 54.7
+				},
+				{
+					"name": "Protestant",
+					"percent": 41.1,
+					"breakdown": [
+						{
+							"name": "includes Congregational",
+							"percent": 38.5
+						},
+						{
+							"name": "Baptist",
+							"percent": 1.1
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 0.8
+						},
+						{
+							"name": "Assembly of God",
+							"percent": 0.7
+						}
+					]
+				},
+				{
+					"name": "Mormon",
+					"percent": 1.5
+				},
+				{
+					"name": "other",
+					"percent": 1.9
+				},
+				{
+					"name": "none",
+					"percent": 0.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.1
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 28.88,
+				"males": 15046,
+				"females": 14542
+			},
+			"15_to_24": {
+				"percent": 18.94,
+				"males": 9710,
+				"females": 9696
+			},
+			"25_to_54": {
+				"percent": 40.32,
+				"males": 19903,
+				"females": 21395
+			},
+			"55_to_64": {
+				"percent": 7.24,
+				"males": 3572,
+				"females": 3842
+			},
+			"65_and_over": {
+				"percent": 4.62,
+				"males": 2130,
+				"females": 2600
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 48.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 14.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 26.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 25.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 27.1,
+				"units": "years"
+			},
+			"global_rank": 154,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.6,
+			"global_rank": 227,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.9,
+			"global_rank": 81,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.3,
+			"global_rank": 211,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -20.9,
+			"global_rank": 225,
+			"date": "2020"
+		},
+		"population_distribution": "the majority of the populaton lives in the coastal areas of the high islands; the mountainous interior is largely uninhabited; less than half of the population lives in urban areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 22.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.05,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Palikir",
+					"population": 7000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.82,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 88,
+			"global_rank": 75,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 17.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 19.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 15.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 84,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.1,
+				"units": "years"
+			},
+			"global_rank": 137,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.29,
+			"global_rank": 85,
+			"date": "2020"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.2,
+			"date": "2009"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 78.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 21.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 88.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 11.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 45.8,
+			"global_rank": 10,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 12.5,
+			"global_rank": 2,
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 18.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 29.9,
+				"units": "%"
+			},
+			"global_rank": 70,
+			"date": "2014"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Federated States of Micronesia",
+			"conventional_short_form": "none",
+			"local_long_form": "Federated States of Micronesia",
+			"local_short_form": "none",
+			"former": "New Philippines; Caroline Islands; Trust Territory of the Pacific Islands, Ponape, Truk, and Yap Districts",
+			"abbreviation": "FSM",
+			"etymology": "the term \"Micronesia\" is a 19th-century construct of two Greek words, \"micro\" (small) and \"nesoi\" (islands), and refers to thousands of small islands in the western Pacific Ocean"
+		},
+		"government_type": "federal republic in free association with the US",
+		"capital": {
+			"name": "Palikir",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 6,
+					"minutes": 55,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 158,
+					"minutes": 9,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 11,
+				"note": "16 hours ahead of Washington, DC, during Standard Time"
+			},
+			"note": "Micronesia has two time zones\nPalikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Chuuk (Truk)",
+				"type": ""
+			},
+			{
+				"name": "Kosrae (Kosaie)",
+				"type": ""
+			},
+			{
+				"name": "Pohnpei (Ponape)",
+				"type": ""
+			},
+			{
+				"name": "Yap",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1986-11-03",
+			"note": "from the US-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "10 May",
+				"original_year": "1979"
+			}
+		],
+		"constitution": {
+			"history": "drafted June 1975, ratified 1 October 1978, entered into force 10 May 1979",
+			"amendments": "proposed by Congress, by a constitutional convention, or by public petition; passage requires approval by at least three-fourths majority vote in at least three fourths of the states; amended 1990; note – at least every 10 years as part of a general or special election, voters are asked whether to hold a constitution convention; a majority of affirmative votes is required to proceed"
+		},
+		"legal_system": "mixed legal system of common and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of FSM",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015); note - the president is both chief of state and head of government",
+			"head_of_government": "President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015)",
+			"cabinet": "Cabinet includes the vice president and the heads of the 8 executive departments",
+			"elections_appointments": "president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 11 May 2019 (next to be held in 2023)",
+			"election_results": "David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president"
+		},
+		"legislative_branch": {
+			"description": "unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)",
+			"elections": "last held on 5 March 2019 (next to be held in March 2021)",
+			"election_results": "percent of vote - NA; seats - independent 14; composition - men 14, women 0"
+		},
+		"judicial_branch": {
+			"highest_courts": "Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)",
+			"judge_selection_and_term_of_office": "justices appointed by the FSM president with the approval of two-thirds of Congress; justices appointed for life",
+			"subordinate_courts": "the highest state-level courts are: Chuuk Supreme Court; Korsae State Court; Pohnpei State Court; Yap State Court"
+		},
+		"political_parties_and_leaders": {
+			"note": "no formal parties"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Akillino Harris SUSAIA (since 24 April 2017)",
+				"chancery": "1725 N Street NW, Washington, DC 20036",
+				"telephone": "[1] (202) 223-4383",
+				"fax": "[1] (202) 223-4391",
+				"consulates_general": "Honolulu, Tamuning (Guam)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Carmen G. CANTOR (since 31 January 2020)",
+				"telephone": "[691] 320-2187",
+				"embassy": "US Embassy in Kolonia, PO Box 1286, Kolonia, Pohnpei, FSM 96941",
+				"mailing_address": "P. O. Box 1286, Kolonia, Pohnpei, 96941; U.S. Embassy in Micronesia, 4120 Kolonia Place, Washington, D.C. 20521-4120",
+				"fax": "[691] 320-2186"
+			}
+		},
+		"flag_description": {
+			"description": "light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "four, five-pointed"
+				},
+				{
+					"symbol": "white stars on a light blue field"
+				},
+				{
+					"symbol": "hibiscus flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "light blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Patriots of Micronesia",
+			"lyrics_music": "unknown",
+			"note": "adopted 1991; also known as \"Across All Micronesia\"; the music is based on the 1820 German patriotic song \"Ich hab mich ergeben\", which was the West German national anthem from 1949-1950; variants of this tune are used in Johannes Brahms' \"Festival Overture\" and Gustav Mahler's \"Third Symphony\"",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/FM.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.\nUnder the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.\nThe country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 348000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 341100000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 331400000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 215,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 328000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.9,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 138
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 189,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 83.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 48.4,
+							"units": "%",
+							"date": "2016"
+						},
+						"investment_in_fixed_capital": {
+							"value": 29.5,
+							"units": "%",
+							"date": "2016"
+						},
+						"investment_in_inventories": {
+							"value": 1.9,
+							"units": "%",
+							"date": "2016"
+						},
+						"exports_of_goods_and_services": {
+							"value": 27.5,
+							"units": "%",
+							"date": "2016"
+						},
+						"imports_of_goods_and_services": {
+							"value": -77,
+							"units": "%",
+							"date": "2016"
+						}
+					},
+					"date": "2013"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 26.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 18.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 54.8,
+							"units": "%"
+						}
+					},
+					"date": "2013"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"taro",
+				"yams",
+				"coconuts",
+				"bananas",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"sakau",
+				"kava",
+				"Kosraen citrus",
+				"betel nuts",
+				"black pepper",
+				"fish",
+				"pigs",
+				"chickens"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"construction",
+				"specialized aquaculture",
+				"craft items",
+				"shell",
+				"wood"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 37920,
+				"global_rank": 200,
+				"date": "2010"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.9,
+						"units": "%"
+					},
+					"industry": {
+						"value": 5.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 93.9,
+						"units": "%"
+					}
+				},
+				"note": "two-thirds of the labor force are government employees",
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 16.2,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 179
+		},
+		"population_below_poverty_line": {
+			"value": 26.7,
+			"units": "%",
+			"date": "2000"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 213800000,
+				"units": "USD",
+				"note": "FY12/13 est."
+			},
+			"expenditures": {
+				"value": 192100000,
+				"units": "USD",
+				"note": "FY12/13 est."
+			}
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 65.2,
+			"global_rank": 7
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 6.6,
+			"global_rank": 4
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 24.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 25.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 176
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 28
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 12000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 11000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 62
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 88300000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 197
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"sakau (kava)",
+					"betel nuts",
+					"black pepper"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 167800000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 258500000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 212
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"beverages",
+					"clothing",
+					"computers",
+					"household electronics",
+					"appliances",
+					"manufactured goods",
+					"automobiles",
+					"machinery",
+					"equipment",
+					"furniture",
+					"tools"
+				]
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 203700000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 135100000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 174
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 93600000,
+					"units": "USD",
+					"date": "2013"
+				},
+				{
+					"value": 93500000,
+					"units": "USD",
+					"date": "2012"
+				}
+			],
+			"global_rank": 194
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 75.4,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 91.9,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 70.7,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 192000000,
+				"global_rank": 193,
+				"date": "2002"
+			},
+			"consumption": {
+				"kWh": 178600000,
+				"global_rank": 195,
+				"date": "2002"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 171,
+				"date": "2013"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 175,
+				"date": "2013"
+			},
+			"installed_generating_capacity": {
+				"kW": 18000,
+				"global_rank": 206,
+				"date": "2015"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 96,
+					"global_rank": 41,
+					"date": "2015"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 143,
+					"date": "2015"
+				},
+				"hydroelectric_plants": {
+					"percent": 1,
+					"global_rank": 149,
+					"date": "2013"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 127,
+					"date": "2013"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 174,
+				"date": "2014"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 165,
+				"date": "2014"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 167,
+				"date": "2014"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 169,
+				"date": "2014-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 178,
+				"date": "2014"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 182
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 171,
+				"date": "2014"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 170
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 105,
+			"global_rank": 214,
+			"date": "2010"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 6420,
+				"subscriptions_per_one_hundred_inhabitants": 6.23,
+				"global_rank": 202,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 21374,
+				"subscriptions_per_one_hundred_inhabitants": 20.74,
+				"global_rank": 212,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "no TV broadcast stations; each state has a multi-channel cable service with TV transmissions carrying roughly 95% imported programming and 5% local programming; about a half-dozen radio stations (2009)",
+		"internet": {
+			"country_code": ".fm",
+			"users": {
+				"total": 36586,
+				"percent_of_population": 35.3,
+				"global_rank": 203,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "V6",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 6,
+					"global_rank": 174,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 6,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 2,
+					"date": "2017"
+				}
+			}
+		},
+		"merchant_marine": {
+			"total": 39,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 19
+				},
+				{
+					"type": "oil tanker",
+					"count": 4
+				},
+				{
+					"type": "other",
+					"count": 16
+				}
+			],
+			"global_rank": 123,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Colonia (Tamil Harbor)",
+				"Molsron Lele Harbor",
+				"Pohnepi Harbor"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the US"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"illicit_drugs": {
+			"note": "major consumer of cannabis"
+		}
+	}
+}

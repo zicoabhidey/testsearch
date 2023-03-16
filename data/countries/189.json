@@ -1,0 +1,1921 @@
+{
+	"name": "Romania",
+	"introduction": {
+		"background": "The principalities of Wallachia and Moldavia - for centuries under the suzerainty of the Turkish Ottoman Empire - secured their autonomy in 1856; they were de facto linked in 1859 and formally united in 1862 under the new name of Romania. The country gained recognition of its independence in 1878. It joined the Allied Powers in World War I and acquired new territories - most notably Transylvania - following the conflict. In 1940, Romania allied with the Axis powers and participated in the 1941 German invasion of the USSR. Three years later, overrun by the Soviets, Romania signed an armistice. The post-war Soviet occupation led to the formation of a communist \"people's republic\" in 1947 and the abdication of the king. The decades-long rule of dictator Nicolae CEAUSESCU, who took power in 1965, and his Securitate police state became increasingly oppressive and draconian through the 1980s. CEAUSESCU was overthrown and executed in late 1989. Former communists dominated the government until 1996 when they were swept from power. Romania joined NATO in 2004 and the EU in 2007."
+	},
+	"geography": {
+		"location": "Southeastern Europe, bordering the Black Sea, between Bulgaria and Ukraine",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 46,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 25,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 238391,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 229891,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 8500,
+				"units": "sq km"
+			},
+			"global_rank": 84,
+			"comparative": "twice the size of Pennsylvania; slightly smaller than Oregon"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2844,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Bulgaria",
+					"border_length": {
+						"value": 605,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Hungary",
+					"border_length": {
+						"value": 424,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Moldova",
+					"border_length": {
+						"value": 683,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Serbia",
+					"border_length": {
+						"value": 531,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ukraine",
+					"border_length": {
+						"value": 601,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 225,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms",
+		"terrain": "central Transylvanian Basin is separated from the Moldavian Plateau on the east by the Eastern Carpathian Mountains and separated from the Walachian Plain on the south by the Transylvanian Alps",
+		"elevation": {
+			"mean_elevation": {
+				"value": 414,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Black Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Moldoveanu",
+				"elevation": {
+					"value": 2544,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"reserves declining",
+				"timber",
+				"natural gas",
+				"coal",
+				"iron ore",
+				"salt",
+				"arable land",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 60.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 39.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 19.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 28.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 10.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 31490,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania",
+		"natural_hazards": [
+			{
+				"description": "earthquakes, most severe in south and southwest",
+				"type": "hazard"
+			},
+			{
+				"description": "geologic structure and climate promote landslides",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil erosion",
+				"degradation",
+				"and desertification",
+				"water pollution",
+				"air pollution in south from industrial effluents",
+				"contamination of Danube delta wetlands"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Antarctic-Environmental Protocol",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 21302893,
+			"global_rank": 59,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Romanian(s)",
+			"adjective": "Romanian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Romanian",
+					"percent": 83.4
+				},
+				{
+					"name": "Hungarian",
+					"percent": 6.1
+				},
+				{
+					"name": "Romani",
+					"percent": 3.1
+				},
+				{
+					"name": "Ukrainian",
+					"percent": 0.3
+				},
+				{
+					"name": "German",
+					"percent": 0.2
+				},
+				{
+					"name": "other",
+					"percent": 0.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 6.1
+				}
+			],
+			"note": "Romani populations are usually underestimated in official statistics and may represent 5–11% of Romania's population",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Romanian",
+					"percent": 85.4,
+					"note": "official"
+				},
+				{
+					"name": "Hungarian",
+					"percent": 6.3
+				},
+				{
+					"name": "Romani",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 1
+				},
+				{
+					"name": "unspecified",
+					"percent": 6.1
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Eastern Orthodox",
+					"percent": 81.9,
+					"note": "including all sub-denominations"
+				},
+				{
+					"name": "Protestant",
+					"percent": 6.4,
+					"note": "various denominations including Reformed and Pentecostal"
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 4.3
+				},
+				{
+					"name": "other",
+					"percent": 0.9,
+					"note": "includes Muslim"
+				},
+				{
+					"name": "none or atheist",
+					"percent": 0.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 6.3
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.12,
+				"males": 1545196,
+				"females": 1463700
+			},
+			"15_to_24": {
+				"percent": 10.31,
+				"males": 1126997,
+				"females": 1068817
+			},
+			"25_to_54": {
+				"percent": 46.26,
+				"males": 4993886,
+				"females": 4860408
+			},
+			"55_to_64": {
+				"percent": 11.73,
+				"males": 1176814,
+				"females": 1322048
+			},
+			"65_and_over": {
+				"percent": 17.58,
+				"males": 1516472,
+				"females": 2228555
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 29.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 41,
+				"units": "years"
+			},
+			"female": {
+				"value": 44,
+				"units": "years"
+			},
+			"global_rank": 34,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.37,
+			"global_rank": 222,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.5,
+			"global_rank": 216,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 12,
+			"global_rank": 18,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.2,
+			"global_rank": 109,
+			"date": "2020"
+		},
+		"population_distribution": "urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania",
+		"urbanization": {
+			"urban_population": {
+				"value": 54.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.38,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bucharest",
+					"population": 1803000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.89,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.68,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.1,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 19,
+			"global_rank": 127,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 8.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 7.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 144,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.7,
+				"units": "years"
+			},
+			"global_rank": 107,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.38,
+			"global_rank": 219,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.98,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6.9,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 95.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 71.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 84.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 4.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 28.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 15.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 133,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 190000,
+				"global_rank": 33,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.5,
+			"global_rank": 75,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.1,
+			"global_rank": 136,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 98.6,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 16.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 16.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.2,
+				"units": "%"
+			},
+			"global_rank": 84,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Romania",
+			"local_long_form": "none",
+			"local_short_form": "Romania",
+			"former": "Kingdom of Romania, Romanian People's Republic, Socialist Republic of Romania",
+			"etymology": "the name derives from the Latin \"Romanus\" meaning \"citizen of Rome\" and was used to stress the common ancient heritage of Romania's three main regions - Moldavia, Transylvania, and Wallachia - during their gradual unification between the mid-19th century and early 20th century"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Bucharest",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 44,
+					"minutes": 26,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 26,
+					"minutes": 6,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "related to the Romanian word \"bucura\" that is believed to be of Dacian origin and whose meaning is \"to be glad (happy)\"; Bucharest's meaning is thus akin to \"city of joy\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "judet) and 1 municipality",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1877-05-09"
+		},
+		"national_holidays": [
+			{
+				"name": "Unification Day",
+				"day": "1 December",
+				"original_year": "1918",
+				"note": "unification of Romania and Transylvania"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 21 November 1991, approved by referendum and effective 8 December 1991",
+			"amendments": "initiated by the president of Romania through a proposal by the government, by at least one fourth of deputies or senators in Parliament, or by petition of eligible voters representing at least half of Romania’s counties; passage requires at least two-thirds majority vote by both chambers or – if mediation is required - by three-fourths majority vote in a joint session, followed by approval in a referendum; articles, including those on national sovereignty, form of government, political pluralism, and fundamental rights and freedoms, cannot be amended; amended 2003"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Romania",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Klaus Werner IOHANNIS (since 21 December 2014)",
+			"head_of_government": "Prime Minister Ludovic ORBAN (since 4 November 2019); Deputy Prime Minister Raluca TURCAN (since 4 November 2019); note - Prime Minister ORBAN lost a no-confidence vote on 5 February 2020; President IOHANNIS asked ORBAN to form a new government on 6 February 2020; Prime Minister ORBAN announced an unchanged government on 10 February 2020; on 24 February, the Constitutional Court rules that the president must nominate for Prime Minister someone who can get enough support in parliament to assume office, not a Prime Minister-designate who has been previously ousted in a no-confidence vote; on 13 March President IOHANNIS again asked ORBAN to form a new government; Prime Minister ORBAN's unchanged cabinet was approved by parliament on 14 March 2020",
+			"cabinet": "Council of Ministers appointed by the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 10 November 2019 with a runoff on 24 November 2019 (next to be held in November 2024); prime minister appointed by the president with consent of Parliament",
+			"election_results": "Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%; Ludovic ORBAN approved as prime minister with 240 votes"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Parlament consists of: Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)\nChamber of Deputies or Camera Deputatilor (329 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)",
+			"elections": "Senate - last held on 11 December 2016 (next to be held on 6 December 2020)\nChamber of Deputies - last held on 11 December 2016 (next to be held on 6 December 2020)",
+			"election_results": "Senate - percent of vote by party - PSD 45.7%, PNL 20.4%, USR 8.9%, UDMR 6.2%, ALDE 6%, PMP 5.7%, other 7.1%; seats by party - PSD 67, PNL 30, USR 13, UDMR 9, ALDE 9, PMP 8; composition - men 116, women 20, percent of women 14.7%\nChamber of Deputies - percent of vote by party - PSD 45.5%, PNL 20%, USR 8.9%, UDMR 6.2%, ALDE 5.6%, PMP 5.4%, other 8.4%; seats by party - PSD 154, PNL 69, USR 30, UDMR 21, ALDE 20, PMP 18, minorities 17; composition men 261, women 68, percent of women 20.7%; note - total Parliament percent of women 20.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)",
+			"judge_selection_and_term_of_office": "High Court of Cassation and Justice judges appointed by the president upon nomination by the Superior Council of Magistracy, a 19-member body of judges, prosecutors, and law specialists; judges appointed for 6-year renewable terms; Constitutional Court members - 6 elected by Parliament and 3 appointed by the president; members serve 9-year, nonrenewable terms",
+			"subordinate_courts": "Courts of Appeal; regional tribunals; first instance courts; military and arbitration courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Christian-Democratic National Peasants' Party",
+					"name_alternative": "PNT-CD",
+					"leaders": [
+						"Aurelian PAVELESCU"
+					]
+				},
+				{
+					"name": "Democratic Union of Hungarians in Romania",
+					"name_alternative": "UDMR",
+					"leaders": [
+						"Hunor KELEMEN"
+					]
+				},
+				{
+					"name": "Civic Hungarian Party",
+					"leaders": [
+						"Zsolt BIRO"
+					]
+				},
+				{
+					"name": "Ecologist Party of Romania",
+					"name_alternative": "PER",
+					"leaders": [
+						"Danut POP"
+					]
+				},
+				{
+					"name": "Greater Romania Party",
+					"name_alternative": "PRM",
+					"leaders": [
+						"Adrian POPESCU"
+					]
+				},
+				{
+					"name": "M10 Party",
+					"leaders": [
+						"Ioana CONSTANTIN"
+					]
+				},
+				{
+					"name": "National Liberal Party",
+					"name_alternative": "PNL",
+					"leaders": [
+						"Ludovic ORBAN"
+					]
+				},
+				{
+					"name": "New Romania Party",
+					"name_alternative": "PNR",
+					"leaders": [
+						"Sebastian POPESCU"
+					]
+				},
+				{
+					"name": "Our Romania Alliance",
+					"leaders": [
+						"Marian MUNTEANU"
+					]
+				},
+				{
+					"name": "Party of the Alliance of Liberals and Democrats",
+					"name_alternative": "ALDE",
+					"leaders": [
+						"Calin POPESCU TARICEANU"
+					]
+				},
+				{
+					"name": "Popular Movement Party",
+					"name_alternative": "PMP",
+					"leaders": [
+						"Traian BASESCU"
+					]
+				},
+				{
+					"name": "Romanian Social Party",
+					"name_alternative": "PSRo",
+					"leaders": [
+						"Mircea GEOANA"
+					]
+				},
+				{
+					"name": "Save Romania Union Party",
+					"name_alternative": "Partidul USR",
+					"leaders": [
+						"Dan BARNA"
+					]
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "PSD",
+					"leaders": [
+						"Marcel CIOLACU",
+						"interim leader"
+					]
+				},
+				{
+					"name": "United Romania Party",
+					"name_alternative": "PRU",
+					"leaders": [
+						"Robert BUGA"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-9"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador George Cristian MAIOR (since 17 September 2015)",
+				"chancery": "1607 23rd Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 332-4846, 4848, 4851, 4852",
+				"fax": "[1] (202) 232-4748",
+				"consulates_general": "Chicago, Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Adrian ZUCKERMAN (since 17 December 2019)",
+				"telephone": "[40] (21) 200-3300",
+				"embassy": "4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118",
+				"mailing_address": "American Embassy Bucharest, US Department of State, 5260 Bucharest Place, Washington, DC 20521-5260 (pouch)",
+				"fax": "[40] (21) 200-3442"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed",
+			"note": "now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Desteapta-te romane!\" (Wake up, Romanian!)",
+			"lyrics_music": "Andrei MURESIANU/Anton PANN",
+			"note": "adopted 1990; the anthem was written during the 1848 Revolution",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/RO.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "Romania, which joined the EU on 1 January 2007, began the transition from communism in 1989 with a largely obsolete industrial base and a pattern of output unsuited to the country's needs. Romania's macroeconomic gains have only recently started to spur creation of a middle class and to address Romania's widespread poverty. Corruption and red tape continue to permeate the business environment.\nIn the aftermath of the global financial crisis, Romania signed a $26 billion emergency assistance package from the IMF, the EU, and other international lenders, but GDP contracted until 2011. In March 2011, Romania and the IMF/EU/World Bank signed a 24-month precautionary standby agreement, worth $6.6 billion, to promote fiscal discipline, encourage progress on structural reforms, and strengthen financial sector stability; no funds were drawn. In September 2013, Romanian authorities and the IMF/EU agreed to a follow-on standby agreement, worth $5.4 billion, to continue with reforms. This agreement expired in September 2015, and no funds were drawn. Progress on structural reforms has been uneven, and the economy still is vulnerable to external shocks.\nEconomic growth rebounded in the 2013-17 period, driven by strong industrial exports, excellent agricultural harvests, and, more recently, expansionary fiscal policies in 2016-2017 that nearly quadrupled Bucharest’s annual fiscal deficit, from +0.8% of GDP in 2015 to -3% of GDP in 2016 and an estimated -3.4% in 2017. Industry outperformed other sectors of the economy in 2017. Exports remained an engine of economic growth, led by trade with the EU, which accounts for roughly 70% of Romania trade. Domestic demand was the major driver, due to tax cuts and large wage increases that began last year and are set to continue in 2018.\nAn aging population, emigration of skilled labor, significant tax evasion, insufficient health care, and an aggressive loosening of the fiscal package compromise Romania’s long-term growth and economic stability and are the economy's top vulnerabilities.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 483400000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 452000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 431200000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 41,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 211900000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 4.54,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 7.11,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 71
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 24600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 22900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 21700,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 83,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 70,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 7.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.9,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 41.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -43.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 4.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 33.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 62.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 21.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 23.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 87
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"corn",
+				"barley",
+				"sugar beets",
+				"sunflower seed",
+				"potatoes",
+				"grapes",
+				"eggs",
+				"sheep"
+			]
+		},
+		"industries": {
+			"industries": [
+				"electric machinery",
+				"equipment",
+				"auto assembly",
+				"textiles",
+				"footwear",
+				"light machinery",
+				"metallurgy",
+				"chemicals",
+				"food processing",
+				"petroleum refining",
+				"mining",
+				"timber",
+				"construction materials"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.5,
+			"global_rank": 50,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4889000,
+				"global_rank": 80,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 28.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 28.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 42.8,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.06,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.56,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 40
+		},
+		"population_below_poverty_line": {
+			"value": 22.4,
+			"units": "%",
+			"date": "2012"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 15.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 7.6,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 62140000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 68129999999.99999,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 29.3,
+			"global_rank": 84,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.8,
+			"global_rank": 125,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 36.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 38.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 145,
+			"note": "defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 71
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -11389000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -10780000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 194
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 64580000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 57720000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 45
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"other manufactured goods",
+					"agricultural products",
+					"foodstuffs",
+					"metals",
+					"metal products",
+					"chemicals",
+					"minerals",
+					"fuels",
+					"raw materials"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 23
+					},
+					{
+						"name": "Italy",
+						"percent": 11.2
+					},
+					{
+						"name": "France",
+						"percent": 6.8
+					},
+					{
+						"name": "Hungary",
+						"percent": 4.7
+					},
+					{
+						"name": "UK",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 78120000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 68000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 43
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"other manufactured goods",
+					"chemicals",
+					"agricultural products",
+					"foodstuffs",
+					"fuels",
+					"minerals",
+					"metals",
+					"metal products",
+					"raw materials"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 20
+					},
+					{
+						"name": "Italy",
+						"percent": 10
+					},
+					{
+						"name": "Hungary",
+						"percent": 7.5
+					},
+					{
+						"name": "Poland",
+						"percent": 5.5
+					},
+					{
+						"name": "France",
+						"percent": 5.3
+					},
+					{
+						"name": "China",
+						"percent": 5
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 44430000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 40000000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 43
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 95970000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 93710000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 49
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 4.077,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 4.0592,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 4.0592,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 4.0057,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 3.3492,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "lei (RON) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 61780000000,
+				"global_rank": 47,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 49640000000,
+				"global_rank": 49,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 11220000000,
+				"global_rank": 18,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 4176999999.9999995,
+				"global_rank": 45,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 23940000,
+				"global_rank": 38,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 47,
+					"global_rank": 156,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 6,
+					"global_rank": 20,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 29,
+					"global_rank": 70,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 19,
+					"global_rank": 45,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 70000,
+				"global_rank": 46,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 2076,
+				"global_rank": 70,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 145300,
+				"global_rank": 38,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 600000000,
+				"global_rank": 42,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 232600,
+				"global_rank": 47,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 198000,
+				"global_rank": 58,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 103000,
+				"global_rank": 44,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 49420,
+				"global_rank": 81,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 10870000000,
+				"global_rank": 40,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 11580000000,
+				"global_rank": 45,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 22650000,
+				"global_rank": 53,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 1218000000,
+				"global_rank": 59,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 105500000000,
+				"global_rank": 50,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 72070000,
+			"global_rank": 50,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3731047,
+				"subscriptions_per_one_hundred_inhabitants": 17.45,
+				"global_rank": 36,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 25033292,
+				"subscriptions_per_one_hundred_inhabitants": 117.08,
+				"global_rank": 50,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a mixture of public and private TV stations; there are 7 public TV stations (2 national, 5 regional) using terrestrial broadcasting and 187 private TV stations (out of which 171 offer local coverage) using terrestrial broadcasting, plus 11 public TV stations using satellite broadcasting and 86 private TV stations using satellite broadcasting; state-owned public radio broadcaster operates 4 national networks and regional and local stations, having in total 20 public radio stations by terrestrial broadcasting plus 4 public radio stations by satellite broadcasting; there are 502 operational private radio stations using terrestrial broadcasting and 26 private radio stations using satellite broadcasting",
+		"internet": {
+			"country_code": ".ro",
+			"users": {
+				"total": 15165890,
+				"percent_of_population": 70.68,
+				"global_rank": 43,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 8,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 60,
+				"annual_passenger_traffic_on_registered_air_carriers": 4908235,
+				"annual_freight_traffic_on_registered_air_carriers": 2710000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "YR",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 45,
+					"global_rank": 95,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 26,
+					"over_3047_metres": 4,
+					"2438_to_3047_metres": 10,
+					"1524_to_2437_metres": 11,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 19,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 14,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 3726,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 2451,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 11268,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 10781,
+				"electrified": 3292,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 427,
+				"units": "km\n0.760-m"
+			},
+			"broad_gauge": {
+				"length": 60,
+				"units": "km\n1.524-m"
+			},
+			"global_rank": 23,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 84185,
+				"units": "km"
+			},
+			"paved": {
+				"value": 49873,
+				"units": "km",
+				"note": "includes 337 km of expressways"
+			},
+			"unpaved": {
+				"value": 34312,
+				"units": "km"
+			},
+			"global_rank": 59,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 1731,
+			"units": "km",
+			"note": "includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals",
+			"global_rank": 45,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 120,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 11
+				},
+				{
+					"type": "oil tanker",
+					"count": 7
+				},
+				{
+					"type": "other",
+					"count": 102
+				}
+			],
+			"global_rank": 80,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Constanta",
+				"Midia"
+			],
+			"river_ports": [
+				"Braila",
+				"Galati (Galatz)",
+				"Mancanului (Giurgiu)",
+				"Tulcea (Danube River)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.04,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.82,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.72,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.45,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 47
+		},
+		"service_age_and_obligation": {
+			"note": "conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36",
+			"date": "2015"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"the ICJ ruled largely in favor of Romania in its dispute submitted in 2004 over Ukrainian-administered Zmiyinyy/Serpilor (Snake) Island and Black Sea maritime boundary delimitation",
+			"Romania opposes Ukraine's reopening of a navigation canal from the Danube border through Ukraine to the Black Sea"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 192,
+				"date": "2019"
+			},
+			"note": "6,038 estimated refugee and migrant arrivals (January 2015-November 2020)"
+		},
+		"illicit_drugs": {
+			"note": "major transshipment point for Southwest Asian heroin transiting the Balkan route and small amounts of Latin American cocaine bound for Western Europe; although not a significant financial center, role as a narcotics conduit leaves it vulnerable to laundering, which occurs via the banking system, currency exchange houses, and casinos"
+		}
+	}
+}

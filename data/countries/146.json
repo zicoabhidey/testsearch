@@ -1,0 +1,1931 @@
+{
+	"name": "Malta",
+	"introduction": {
+		"background": "With a civilization that dates back thousands of years, Malta boasts some of the oldest megalithic sites in the world. Situated in the center of the Mediterranean, Malta’s islands have long served as a strategic military asset, with the islands at various times having come under control of the Phoenicians, Carthaginians, Greeks, Romans,\nByzantines, Moors, Normans, Sicilians, Spanish, Knights of St. John, and the French. Most recently a British colony (since 1814), Malta gained its independence in 1964 and declared itself a republic ten years later. While under British rule, the island staunchly supported the UK through both world wars. Since about the mid-1980s, the island has transformed itself into a freight transshipment point, a financial center, and a tourist destination while its key industries moved toward more service-oriented activities. Malta became an EU member in May 2004 and began using the euro as currency in 2008."
+	},
+	"geography": {
+		"location": "Southern Europe, islands in the Mediterranean Sea, south of Sicily (Italy)",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 35,
+				"minutes": 50,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 14,
+				"minutes": 35,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 316,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 316,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 209,
+			"comparative": "slightly less than twice the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 196.8,
+			"units": "km",
+			"note": "excludes 56 km for the island of Gozo"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			},
+			"exclusive_fishing_zone": {
+				"value": 25,
+				"units": "nm"
+			}
+		},
+		"climate": "Mediterranean; mild, rainy winters; hot, dry summers",
+		"terrain": "mostly low, rocky, flat to dissected plains; many coastal cliffs",
+		"elevation": {
+			"lowest_point": {
+				"name": "Mediterranean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Ta'Dmejrek on Dingli Cliffs",
+				"elevation": {
+					"value": 253,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"limestone",
+				"salt",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 32.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 28.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 66.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 35,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands",
+		"natural_hazards": [
+			{
+				"description": "occasional droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited natural freshwater resources",
+				"increasing reliance on desalination",
+				"deforestation",
+				"wildlife preservation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 457267,
+			"global_rank": 175,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Maltese (singular and plural)",
+			"adjective": "Maltese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Maltese",
+					"note": "descendants of ancient Carthaginians and Phoenicians with strong elements of Italian and other Mediterranean stock"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Maltese",
+					"percent": 90.1,
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"percent": 6,
+					"note": "official"
+				},
+				{
+					"name": "multilingual",
+					"percent": 3
+				},
+				{
+					"name": "other",
+					"percent": 0.9
+				}
+			],
+			"date": "2005"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"note": "official"
+				}
+			],
+			"date": "2006"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.38,
+				"males": 33934,
+				"females": 31823
+			},
+			"15_to_24": {
+				"percent": 10.33,
+				"males": 24445,
+				"females": 22811
+			},
+			"25_to_54": {
+				"percent": 41.1,
+				"males": 97685,
+				"females": 90264
+			},
+			"55_to_64": {
+				"percent": 12.88,
+				"males": 29533,
+				"females": 29353
+			},
+			"65_and_over": {
+				"percent": 21.3,
+				"males": 44644,
+				"females": 52775
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 22.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 33.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 41.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.5,
+				"units": "years"
+			},
+			"global_rank": 35,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.87,
+			"global_rank": 119,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.9,
+			"global_rank": 192,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.3,
+			"global_rank": 79,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 6.6,
+			"global_rank": 16,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population lives on the eastern half of Malta, the largest of the three inhabited islands",
+		"urbanization": {
+			"urban_population": {
+				"value": 94.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.38,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Valletta",
+					"population": 213000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 28.9,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 6,
+			"global_rank": 161,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 181,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 80.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 85,
+				"units": "years"
+			},
+			"global_rank": 12,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.49,
+			"global_rank": 205,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.86,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 126,
+				"date": "2016"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 500,
+				"date": "2016"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2016"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 28.9,
+			"global_rank": 28,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.3,
+			"global_rank": 50,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 94.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 93,
+				"units": "%"
+			},
+			"female": {
+				"value": 96,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 9.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 11.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 6.8,
+				"units": "%"
+			},
+			"global_rank": 133,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Malta",
+			"conventional_short_form": "Malta",
+			"local_long_form": "Repubblika ta' Malta",
+			"local_short_form": "Malta",
+			"etymology": "the ancient Greeks called the island \"Melite\" meaning \"honey-sweet\" from the Greek word \"meli\" meaning \"honey\" and referring to the island's honey production"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Valletta",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 35,
+					"minutes": 53,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 14,
+					"minutes": 30,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Attard",
+				"type": ""
+			},
+			{
+				"name": "Balzan",
+				"type": ""
+			},
+			{
+				"name": "Birgu",
+				"type": ""
+			},
+			{
+				"name": "Birkirkara",
+				"type": ""
+			},
+			{
+				"name": "Birzebbuga",
+				"type": ""
+			},
+			{
+				"name": "Bormla",
+				"type": ""
+			},
+			{
+				"name": "Dingli",
+				"type": ""
+			},
+			{
+				"name": "Fgura",
+				"type": ""
+			},
+			{
+				"name": "Floriana",
+				"type": ""
+			},
+			{
+				"name": "Fontana",
+				"type": ""
+			},
+			{
+				"name": "Ghajnsielem",
+				"type": ""
+			},
+			{
+				"name": "Gharb",
+				"type": ""
+			},
+			{
+				"name": "Gharghur",
+				"type": ""
+			},
+			{
+				"name": "Ghasri",
+				"type": ""
+			},
+			{
+				"name": "Ghaxaq",
+				"type": ""
+			},
+			{
+				"name": "Gudja",
+				"type": ""
+			},
+			{
+				"name": "Gzira",
+				"type": ""
+			},
+			{
+				"name": "Hamrun",
+				"type": ""
+			},
+			{
+				"name": "Iklin",
+				"type": ""
+			},
+			{
+				"name": "Imdina",
+				"type": ""
+			},
+			{
+				"name": "Imgarr",
+				"type": ""
+			},
+			{
+				"name": "Imqabba",
+				"type": ""
+			},
+			{
+				"name": "Imsida",
+				"type": ""
+			},
+			{
+				"name": "Imtarfa",
+				"type": ""
+			},
+			{
+				"name": "Isla",
+				"type": ""
+			},
+			{
+				"name": "Kalkara",
+				"type": ""
+			},
+			{
+				"name": "Kercem",
+				"type": ""
+			},
+			{
+				"name": "Kirkop",
+				"type": ""
+			},
+			{
+				"name": "Lija",
+				"type": ""
+			},
+			{
+				"name": "Luqa",
+				"type": ""
+			},
+			{
+				"name": "Marsa",
+				"type": ""
+			},
+			{
+				"name": "Marsaskala",
+				"type": ""
+			},
+			{
+				"name": "Marsaxlokk",
+				"type": ""
+			},
+			{
+				"name": "Mellieha",
+				"type": ""
+			},
+			{
+				"name": "Mosta",
+				"type": ""
+			},
+			{
+				"name": "Munxar",
+				"type": ""
+			},
+			{
+				"name": "Nadur",
+				"type": ""
+			},
+			{
+				"name": "Naxxar",
+				"type": ""
+			},
+			{
+				"name": "Paola",
+				"type": ""
+			},
+			{
+				"name": "Pembroke",
+				"type": ""
+			},
+			{
+				"name": "Pieta",
+				"type": ""
+			},
+			{
+				"name": "Qala",
+				"type": ""
+			},
+			{
+				"name": "Qormi",
+				"type": ""
+			},
+			{
+				"name": "Qrendi",
+				"type": ""
+			},
+			{
+				"name": "Rabat",
+				"type": ""
+			},
+			{
+				"name": "Rabat (Ghawdex)",
+				"type": ""
+			},
+			{
+				"name": "Safi",
+				"type": ""
+			},
+			{
+				"name": "San Giljan/Saint Julian",
+				"type": ""
+			},
+			{
+				"name": "San Gwann/Saint John",
+				"type": ""
+			},
+			{
+				"name": "San Lawrenz/Saint Lawrence",
+				"type": ""
+			},
+			{
+				"name": "Sannat",
+				"type": ""
+			},
+			{
+				"name": "San Pawl il-Bahar/Saint Paul's Bay",
+				"type": ""
+			},
+			{
+				"name": "Santa Lucija/Saint Lucia",
+				"type": ""
+			},
+			{
+				"name": "Santa Venera/Saint Venera",
+				"type": ""
+			},
+			{
+				"name": "Siggiewi",
+				"type": ""
+			},
+			{
+				"name": "Sliema",
+				"type": ""
+			},
+			{
+				"name": "Swieqi",
+				"type": ""
+			},
+			{
+				"name": "Tarxien",
+				"type": ""
+			},
+			{
+				"name": "Ta' Xbiex",
+				"type": ""
+			},
+			{
+				"name": "Valletta",
+				"type": ""
+			},
+			{
+				"name": "Xaghra",
+				"type": ""
+			},
+			{
+				"name": "Xewkija",
+				"type": ""
+			},
+			{
+				"name": "Xghajra",
+				"type": ""
+			},
+			{
+				"name": "Zabbar",
+				"type": ""
+			},
+			{
+				"name": "Zebbug",
+				"type": ""
+			},
+			{
+				"name": "Zebbug (Ghawdex)",
+				"type": ""
+			},
+			{
+				"name": "Zejtun",
+				"type": ""
+			},
+			{
+				"name": "Zurrieq",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1964-09-21",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "21 September",
+				"original_year": "1964"
+			},
+			{
+				"name": "Republic Day",
+				"day": "13 December",
+				"original_year": "1974"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest adopted 21 September 1964",
+			"amendments": "proposals (Acts of Parliament) require at least two-thirds majority vote by the House of Representatives; passage of Acts requires majority vote by referendum, followed by final majority vote by the House and assent of the president of the republic; amended many times, last in 2016"
+		},
+		"legal_system": "mixed legal system of English common law and civil law based on the Roman and Napoleonic civil codes; subject to European Union law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Malta",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age (16 in local council elections); universal"
+		},
+		"executive_branch": {
+			"chief_of_state": "President George VELLA (since 4 April 2019)",
+			"head_of_government": "Prime Minister Robert ABELA (13 January 2020)",
+			"cabinet": "Cabinet appointed by the president on the advice of the prime minister",
+			"elections_appointments": "president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister",
+			"election_results": "George VELLA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister"
+		},
+		"legislative_branch": {
+			"description": "unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process",
+			"elections": "last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations",
+			"election_results": "percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)",
+			"judge_selection_and_term_of_office": "Court of Appeal and Constitutional Court judges appointed by the president, usually upon the advice of the prime minister; judges of both courts serve until age 65",
+			"subordinate_courts": "Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party",
+					"name_alternative": "PD",
+					"leaders": [
+						"Godfrey FARRUGIA"
+					],
+					"note": "Partit Demokratiku"
+				},
+				{
+					"name": "Labor Party",
+					"name_alternative": "PL",
+					"leaders": [
+						"Joseph MUSCAT"
+					],
+					"note": "Partit Laburista"
+				},
+				{
+					"name": "Nationalist Party",
+					"name_alternative": "PN",
+					"leaders": [
+						"Adrian DELIA"
+					],
+					"note": "Partit Nazzjonalista"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina ",
+				"note": "observer"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Keith AZZOPARDI (since 17 September 2018)",
+				"chancery": "2017 Connecticut Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 462-3611 through 3612",
+				"fax": "[1] (202) 387-5470"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Mark A. SCHAPIRO (since 29 September 2018)",
+				"telephone": "[356] 2561-4000",
+				"embassy": "Ta' Qali National Park, Attard, ATD 4000",
+				"mailing_address": "5800 Valletta Place, Dulles, VA 20189",
+				"fax": "[356] 2561-4183"
+			}
+		},
+		"flag_description": {
+			"description": "two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Maltese eight-pointed cross"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"L-Innu Malti\" (The Maltese Anthem)",
+			"lyrics_music": "Dun Karm PSAILA/Robert SAMMUT",
+			"note": "adopted 1945; written in the form of a prayer",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MT.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.\nMalta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.\nMalta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.\nMalta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 19260000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 18050000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 17160000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 152,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 12580000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.94,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 5.17,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 8.03,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 49
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 41900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 40100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 39000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 43,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 45.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 136.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -117.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.1,
+							"units": "%"
+						},
+						"industry": {
+							"value": 10.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 88.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 33.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 31.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 31.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 22
+		},
+		"agriculture_products": {
+			"products": [
+				"potatoes",
+				"cauliflower",
+				"grapes",
+				"wheat",
+				"barley",
+				"tomatoes",
+				"citrus",
+				"cut flowers",
+				"green peppers",
+				"pork",
+				"milk",
+				"poultry",
+				"eggs"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"electronics",
+				"ship building",
+				"repair",
+				"construction",
+				"food",
+				"beverages",
+				"pharmaceuticals",
+				"footwear",
+				"clothing",
+				"tobacco",
+				"aviation services",
+				"financial services",
+				"information technology services"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -3.3,
+			"global_rank": 189,
+			"date": "2016"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 223000,
+				"global_rank": 166,
+				"date": "2019"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 77.7,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 0.78,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 0.89,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 5
+		},
+		"population_below_poverty_line": {
+			"value": 16.3,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 5076000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4583000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 40.4,
+			"global_rank": 38,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 3.9,
+			"global_rank": 9,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 50.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 56.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 99,
+			"note": "Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 69
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 1561000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 1550000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 46
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3272000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2493000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 125
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"mechanical appliances",
+					"mineral fuels",
+					"oils",
+					"petroleum products",
+					"pharmaceutical products",
+					"books",
+					"newspapers",
+					"aircraft/spacecraft",
+					"parts",
+					"toys",
+					"games",
+					"sports equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 17.3
+					},
+					{
+						"name": "France",
+						"percent": 10.2
+					},
+					{
+						"name": "Italy",
+						"percent": 9.4
+					},
+					{
+						"name": "Singapore",
+						"percent": 5.9
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 5.8
+					},
+					{
+						"name": "US",
+						"percent": 5.7
+					},
+					{
+						"name": "Japan",
+						"percent": 4.9
+					},
+					{
+						"name": "Libya",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4996000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4965000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 129
+			},
+			"commodities": {
+				"by_commodity": [
+					"mineral fuels",
+					"oils",
+					"products",
+					"electrical machinery",
+					"aircraft/spacecraft",
+					"parts thereof",
+					"machinery",
+					"mechanical appliances",
+					"plastic",
+					"other semi-manufactured goods",
+					"vehicles",
+					"parts"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Italy",
+						"percent": 23
+					},
+					{
+						"name": "Germany",
+						"percent": 7.9
+					},
+					{
+						"name": "UK",
+						"percent": 7.7
+					},
+					{
+						"name": "Spain",
+						"percent": 5
+					},
+					{
+						"name": "Canada",
+						"percent": 4.5
+					},
+					{
+						"name": "US",
+						"percent": 4.3
+					},
+					{
+						"name": "France",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 833000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 677100000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 139
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 90980000000,
+					"units": "USD",
+					"date": "2016-09-01"
+				},
+				{
+					"value": 99020000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 53
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 813000000,
+				"global_rank": 156,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2122000000,
+				"global_rank": 142,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 167,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1525000000,
+				"global_rank": 61,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 575100,
+				"global_rank": 142,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 81,
+					"global_rank": 80,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 139,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 186,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 19,
+					"global_rank": 43,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 171,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 162,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 162,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 166,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 174,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 45000,
+				"global_rank": 110,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 10400,
+				"global_rank": 81,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 52290,
+				"global_rank": 79,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 167,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 283200000,
+				"global_rank": 102,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 148,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 311500000,
+				"global_rank": 69,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 168,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 8141000,
+			"global_rank": 116,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 264557,
+				"subscriptions_per_one_hundred_inhabitants": 58.36,
+				"global_rank": 115,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 653414,
+				"subscriptions_per_one_hundred_inhabitants": 144.14,
+				"global_rank": 166,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "2 publicly owned TV stations, Television Malta broadcasting nationally plus an educational channel; several privately owned national television stations, 2 of which are owned by political parties; Italian and British broadcast programs are available; multi-channel cable and satellite TV services are available; publicly owned radio broadcaster operates 3 stations; roughly 20 commercial radio stations (2019)",
+		"internet": {
+			"country_code": ".mt",
+			"users": {
+				"total": 365521,
+				"percent_of_population": 81.4,
+				"global_rank": 161,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 13,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 180,
+				"annual_passenger_traffic_on_registered_air_carriers": 2576898,
+				"annual_freight_traffic_on_registered_air_carriers": 5140000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "9H",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 228,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"over_3047_metres": 1,
+					"date": "2019"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 2254,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1973,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 281,
+				"units": "km"
+			},
+			"urban": {
+				"value": 1422,
+				"units": "km"
+			},
+			"non_urban": {
+				"value": 832,
+				"units": "km"
+			},
+			"global_rank": 169,
+			"date": "2001"
+		},
+		"merchant_marine": {
+			"total": 2172,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 637
+				},
+				{
+					"type": "container ship",
+					"count": 268
+				},
+				{
+					"type": "general cargo",
+					"count": 253
+				},
+				{
+					"type": "oil tanker",
+					"count": 412
+				},
+				{
+					"type": "other",
+					"count": 602
+				}
+			],
+			"global_rank": 11,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Marsaxlokk (Malta Freeport)",
+				"Valletta"
+			],
+			"container_ports": [
+				{
+					"place": "Marsaxlokk",
+					"twenty_foot_equivalent_units": 3150000
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 144
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age for voluntary military service; no conscription",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 11,
+				"date": "2018"
+			},
+			"note": "7,256 estimated refugee and migrant arrivals by sea (January 2015-October 2020)"
+		},
+		"illicit_drugs": {
+			"note": "minor transshipment point for hashish from North Africa to Western Europe"
+		}
+	}
+}

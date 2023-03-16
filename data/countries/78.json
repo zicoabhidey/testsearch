@@ -1,0 +1,1584 @@
+{
+	"name": "Eswatini",
+	"introduction": {
+		"background": ""
+	},
+	"geography": {
+		"location": "Southern Africa, between Mozambique and South Africa",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 26,
+				"minutes": 30,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 31,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 17364,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 17204,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 160,
+				"units": "sq km"
+			},
+			"global_rank": 159,
+			"comparative": "slightly smaller than New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 546,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Mozambique",
+					"border_length": {
+						"value": 108,
+						"units": "km"
+					}
+				},
+				{
+					"country": "South Africa",
+					"border_length": {
+						"value": 438,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "varies from tropical to near temperate",
+		"terrain": "mostly mountains and hills; some moderately sloping plains",
+		"elevation": {
+			"mean_elevation": {
+				"value": 305,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Great Usutu River",
+				"elevation": {
+					"value": 21,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Emlembe",
+				"elevation": {
+					"value": 1862,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"asbestos",
+				"coal",
+				"clay",
+				"cassiterite",
+				"hydropower",
+				"forests",
+				"gold",
+				"diamond",
+				"quarry stone",
+				"talc"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 68.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 57.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 31.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 0,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 500,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "drought",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited supplies of potable water",
+				"wildlife populations being depleted because of excessive hunting",
+				"population growth",
+				"deforestation",
+				"and overgrazing lead to soil erosion and soil degradation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1104479,
+			"global_rank": 160,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "liSwati (singular), emaSwati (plural); note - former term, Swazi(s), still used among English speakers",
+			"adjective": "Swati; note - former term, Swazi, still used among English speakers"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "predominantly Swazi; smaller populations of other African ethnic groups"
+				},
+				{
+					"name": "including the Zulu"
+				},
+				{
+					"name": "as well as people of European ancestry"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official, used for government business"
+				},
+				{
+					"name": "siSwati",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 90,
+					"breakdown": [
+						{
+							"name": "Zionist-a blend of Christianity and indigenous ancestral worship-40%"
+						},
+						{
+							"name": "Roman Catholic",
+							"percent": 20
+						},
+						{
+							"name": "other Anglican",
+							"percent": 30
+						},
+						{
+							"name": "Methodist"
+						},
+						{
+							"name": "Mormon"
+						},
+						{
+							"name": "Jehovah's Witness"
+						}
+					]
+				},
+				{
+					"name": "Muslim",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 8,
+					"note": "includes Baha'i, Buddhist, Hindu, indigenous, Jewish"
+				}
+			],
+			"date": "2015"
+		},
+		"demographic_profile": "Eswatini, a small, predominantly rural, landlocked country surrounded by South Africa and Mozambique, suffers from severe poverty and the world’s highest HIV/AIDS prevalence rate. A weak and deteriorating economy, high unemployment, rapid population growth, and an uneven distribution of resources all combine to worsen already persistent poverty and food insecurity, especially in rural areas. Erratic weather (frequent droughts and intermittent heavy rains and flooding), overuse of small plots, the overgrazing of cattle, and outdated agricultural practices reduce crop yields and further degrade the environment, exacerbating Eswatini's poverty and subsistence problems. Eswatini's extremely high HIV/AIDS prevalence rate – more than 28% of adults have the disease – compounds these issues. Agricultural production has declined due to HIV/AIDS, as the illness causes households to lose manpower and to sell livestock and other assets to pay for medicine and funerals.\nSwazis, mainly men from the country’s rural south, have been migrating to South Africa to work in coal, and later gold, mines since the late 19th century. Although the number of miners abroad has never been high in absolute terms because of Eswatini's small population, the outflow has had important social and economic repercussions. The peak of mining employment in South Africa occurred during the 1980s. Cross-border movement has accelerated since the 1990s, as increasing unemployment has pushed more Swazis to look for work in South Africa (creating a \"brain drain\" in the health and educational sectors); southern Swazi men have continued to pursue mining, although the industry has downsized. Women now make up an increasing share of migrants and dominate cross-border trading in handicrafts, using the proceeds to purchase goods back in Eswatini. Much of today’s migration, however, is not work-related but focuses on visits to family and friends, tourism, and shopping.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 33.63,
+				"males": 185640,
+				"females": 185808
+			},
+			"15_to_24": {
+				"percent": 18.71,
+				"males": 98029,
+				"females": 108654
+			},
+			"25_to_54": {
+				"percent": 39.46,
+				"males": 202536,
+				"females": 233275
+			},
+			"55_to_64": {
+				"percent": 4.36,
+				"males": 20529,
+				"females": 27672
+			},
+			"65_and_over": {
+				"percent": 3.83,
+				"males": 15833,
+				"females": 26503
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 70.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 64,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 14.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 23.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 22.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.7,
+				"units": "years"
+			},
+			"global_rank": 174,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.77,
+			"global_rank": 132,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 24.5,
+			"global_rank": 50,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.1,
+			"global_rank": 36,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -6.8,
+			"global_rank": 209,
+			"date": "2020"
+		},
+		"population_distribution": "because of its mountainous terrain, the population distribution is uneven throughout the country, concentrating primarily in valleys and plains as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 24.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.46,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Mbabane",
+					"population": 68000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.87,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.74,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.6,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.9,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 437,
+			"global_rank": 25,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 42.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 47.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 38.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 58.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 56.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 60.7,
+				"units": "years"
+			},
+			"global_rank": 220,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.52,
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 66.1,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.33,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.1,
+			"date": "2011"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 96.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 72.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 78.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 27.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 21.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 93.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 82.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 85,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 6.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 17.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 15,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 27.1,
+				"global_rank": 1,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 200000,
+				"global_rank": 30,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 2300,
+				"global_rank": 43,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 16.5,
+			"global_rank": 124,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 5.8,
+			"global_rank": 77,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.1,
+			"global_rank": 13,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 88.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 88.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 88.5,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2013"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 47.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 44.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 50.1,
+				"units": "%"
+			},
+			"global_rank": 5,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Eswatini",
+			"conventional_short_form": "Eswatini",
+			"local_long_form": "Umbuso weSwatini",
+			"local_short_form": "eSwatini",
+			"former": "Swaziland",
+			"etymology": "the country name derives from 19th century King MSWATI II, under whose rule Swati territory was expanded and unified",
+			"note": "pronounced ay-swatini or eh-swatini"
+		},
+		"government_type": "absolute monarchy",
+		"capital": {
+			"name": "Mbabane (administrative capital); Lobamba (royal and legislative capital)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 26,
+					"minutes": 19,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 31,
+					"minutes": 8,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named after a Swati chief, Mbabane Kunene, who lived in the area at the onset of British settlement"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Hhohho",
+				"type": ""
+			},
+			{
+				"name": "Lubombo",
+				"type": ""
+			},
+			{
+				"name": "Manzini",
+				"type": ""
+			},
+			{
+				"name": "Shiselweni",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1968-09-06",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "6 September",
+				"original_year": "1968",
+				"note": "Somhlolo Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1968, 1978; latest signed by the king 26 July 2005, effective 8 February 2006",
+			"amendments": "proposed at a joint sitting of both houses of Parliament; passage requires majority vote by both houses and/or majority vote in a referendum, and assent of the king; passage of amendments affecting \"specially entrenched\" constitutional provisions requires at least three-fourths majority vote by both houses, passage by simple majority vote in a referendum, and assent of the king; passage of \"entrenched\" provisions requires at least two-thirds majority vote of both houses, passage in a referendum, and assent of the king"
+		},
+		"legal_system": "mixed legal system of civil, common, and customary law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "both parents must be citizens of Eswatini",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18
+		},
+		"executive_branch": {
+			"chief_of_state": "King MSWATI III (since 25 April 1986)",
+			"head_of_government": "Prime Minister Ambrose Mandvulo DLAMINI (since 27 October 2018); Deputy Prime Minister Themba MASUKU (since 6 November 2018)",
+			"cabinet": "Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly",
+			"elections_appointments": "the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament (Libandla) consists of: Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)\nHouse of Assembly (73 seats; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%; members serve 5-year terms)",
+			"elections": "Senate - last held on 23 October 2018 (next to be held - 31 October 2023)\nHouse of Assembly - last held on 21 September 2018 (next to be held in 2023)",
+			"election_results": "Senate - percent of seats by party - NA; seats by party - NA; composition - men 20, women 10, percent of women 33.3%\nHouse of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 60, women 5, percent of women 7.7%; note - total Parliament percent of women 15.8%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters",
+			"judge_selection_and_term_of_office": "justices of the Supreme Court and High Court appointed by the monarch on the advice of the Judicial Service Commission (JSC), a judicial advisory body consisting of the Supreme Court Chief Justice, 4 members appointed by the monarch, and the chairman of the Civil Service Commission; justices of both courts eligible for retirement at age 65 with mandatory retirement at age 75",
+			"subordinate_courts": "magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Ngwane National Liberatory Congress",
+					"name_alternative": "NNLC",
+					"leaders": [
+						"Dr. Alvit DLAMINI"
+					]
+				},
+				{
+					"name": "People's United Democratic Movement",
+					"name_alternative": "PUDEMO",
+					"leaders": [
+						"Mario MASUKU"
+					]
+				},
+				{
+					"name": "Swazi Democratic Party",
+					"name_alternative": "SWADEPA",
+					"leaders": [
+						"Jan SITHOLE"
+					]
+				}
+			],
+			"note": "political parties exist, but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations: African United Democratic Party or AUDP [Sibusiso DLAMINI]"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SACU"
+			},
+			{
+				"organization": "SADC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Njabuliso Busisiwe Sikhulile GWEBU (since 24 April 2017)",
+				"chancery": "1712 New Hampshire Avenue, NW, Washington, DC 20009",
+				"telephone": "[1] (202) 234-5002",
+				"fax": "[1] (202) 234-8254"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Lisa J. PETERSON (since February 2016)",
+				"telephone": "(268)404-6441; EMER: +(268)7602-8414",
+				"embassy": "7th Floor, Central Bank Building, Mahlokohla Street, Mbabane",
+				"mailing_address": "PO Box 199, Mbabane, Eswatini",
+				"fax": "[268] 2416-3344"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				},
+				{
+					"symbol": "elephant"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nkulunkulu Mnikati wetibusiso temaSwati\" (Oh God, Bestower of the Blessings of the Swazi)",
+			"lyrics_music": "Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT",
+			"note": "adopted 1968; uses elements of both ethnic Swazi and Western music styles",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/WZ.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.\nThe manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.\nEswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 11600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11410000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 11260000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 157,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 4417000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 0.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 168
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 10100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 10100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 139,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 64,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 21.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 13.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 47.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -46.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 45,
+							"units": "%"
+						},
+						"services": {
+							"value": 48.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 25.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 29.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 23.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 59
+		},
+		"agriculture_products": {
+			"products": [
+				"sugarcane",
+				"corn",
+				"cotton",
+				"citrus",
+				"pineapples",
+				"cattle",
+				"goats"
+			]
+		},
+		"industries": {
+			"industries": [
+				"soft drink concentrates",
+				"coal",
+				"forestry",
+				"sugar processing",
+				"textiles",
+				"apparel"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.6,
+			"global_rank": 48,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 427900,
+				"global_rank": 157,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 10.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 30.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 58.9,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 28,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 28,
+					"units": "%",
+					"date": "2013"
+				}
+			],
+			"global_rank": 203
+		},
+		"population_below_poverty_line": {
+			"value": 63,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 40.1,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1263000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1639000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 28.6,
+			"global_rank": 94,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -8.5,
+			"global_rank": 201,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 28.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 25.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 168
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 6.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 188
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 604000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 642000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 55
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1830000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1577000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 145
+			},
+			"commodities": {
+				"by_commodity": [
+					"soft drink concentrates",
+					"sugar",
+					"timber",
+					"cotton yarn",
+					"refrigerators",
+					"citrus",
+					"canned fruit"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 94
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1451000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1266000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 175
+			},
+			"commodities": {
+				"by_commodity": [
+					"motor vehicles",
+					"machinery",
+					"transport equipment",
+					"foodstuffs",
+					"petroleum products",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 81.6
+					},
+					{
+						"name": "China",
+						"percent": 5.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 563100000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 564400000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 147
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 526299999.99999994,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 468900000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 177
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 14.44,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 14.6924,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 14.6924,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 12.7581,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 10.8469,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "emalangeni per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 900000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 65.8,
+					"units": "%",
+					"note": "2016"
+				},
+				"urban_electrification": {
+					"value": 82.8,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 61.2,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2017"
+			},
+			"production": {
+				"kWh": 381000000,
+				"global_rank": 173,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1431000000,
+				"global_rank": 149,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 132,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1077000000,
+				"global_rank": 69,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 295900,
+				"global_rank": 160,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 39,
+					"global_rank": 172,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 87,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 20,
+					"global_rank": 87,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 41,
+					"global_rank": 6,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 133,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 120,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 124,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 129,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 142,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 5300,
+				"global_rank": 175,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 152,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 5279,
+				"global_rank": 169,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 129,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 143,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 101,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 122,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 133,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 1140000,
+			"global_rank": 166,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 40003,
+				"subscriptions_per_one_hundred_inhabitants": 3.65,
+				"global_rank": 162,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1025061,
+				"subscriptions_per_one_hundred_inhabitants": 93.53,
+				"global_rank": 162,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 state-owned TV station; satellite dishes are able to access South African providers; state-owned radio network with 3 channels; 1 private radio station (2019)",
+		"internet": {
+			"country_code": ".sz",
+			"users": {
+				"total": 510984,
+				"percent_of_population": 47,
+				"global_rank": 151,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "3",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 14,
+					"global_rank": 148,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 12,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 7,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 301,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 301,
+				"units": "km\n1.067-m"
+			},
+			"global_rank": 122,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 3769,
+				"units": "km"
+			},
+			"global_rank": 157,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 61
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age for male and female voluntary military service; no conscription; compulsory HIV testing required, only HIV-negative applicants accepted",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in 2006, Swati king advocated resorting to ICJ to claim parts of Mpumalanga and KwaZulu-Natal from South Africa"
+		]
+	}
+}

@@ -1,0 +1,981 @@
+{
+	"name": "Turks And Caicos Islands",
+	"introduction": {
+		"background": "The islands were part of the UK's Jamaican colony until 1962, when they assumed the status of a separate Crown colony upon Jamaica's independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed and the islands remain a British overseas territory. Grand Turk island suffered extensive damage from Hurricane Maria on 22 September 2017 resulting in loss of power and communications as well as damage to housing and businesses."
+	},
+	"geography": {
+		"location": "two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 21,
+				"minutes": 45,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 71,
+				"minutes": 35,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 948,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 948,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 186,
+			"comparative": "2.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 389,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; marine; moderated by trade winds; sunny and relatively dry",
+		"terrain": "low, flat limestone; extensive marshes and mangrove swamps",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Blue Hill on Providenciales and Flamingo Hill on East Caicos",
+				"elevation": {
+					"value": 48,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"spiny lobster",
+				"conch"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 1.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 36.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 62.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk",
+		"natural_hazards": [
+			{
+				"description": "frequent hurricanes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited natural freshwater resources",
+				"private cisterns collect rainwater"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 55926,
+			"global_rank": 207,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "none",
+			"adjective": "none"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "black",
+					"percent": 87.6
+				},
+				{
+					"name": "white",
+					"percent": 7.9
+				},
+				{
+					"name": "mixed",
+					"percent": 2.5
+				},
+				{
+					"name": "East Indian",
+					"percent": 1.3
+				},
+				{
+					"name": "other",
+					"percent": 0.7
+				}
+			],
+			"date": "2006"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 72.8,
+					"breakdown": [
+						{
+							"name": "Baptist",
+							"percent": 35.8
+						},
+						{
+							"name": "Church of God",
+							"percent": 11.7
+						},
+						{
+							"name": "Anglican",
+							"percent": 10
+						},
+						{
+							"name": "Methodist",
+							"percent": 9.3
+						},
+						{
+							"name": "Seventh-Day Adventist",
+							"percent": 6
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 11.4
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.8
+				},
+				{
+					"name": "other",
+					"percent": 14
+				}
+			],
+			"date": "2006"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 21.33,
+				"males": 6077,
+				"females": 5852
+			},
+			"15_to_24": {
+				"percent": 13.19,
+				"males": 3689,
+				"females": 3687
+			},
+			"25_to_54": {
+				"percent": 52.51,
+				"males": 14729,
+				"females": 14637
+			},
+			"55_to_64": {
+				"percent": 7.81,
+				"males": 2297,
+				"females": 2069
+			},
+			"65_and_over": {
+				"percent": 5.17,
+				"males": 1364,
+				"females": 1525
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 34.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 34.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 34.4,
+				"units": "years"
+			},
+			"global_rank": 90,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2,
+			"global_rank": 48,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.1,
+			"global_rank": 134,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3.4,
+			"global_rank": 222,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 8.9,
+			"global_rank": 8,
+			"date": "2020"
+		},
+		"population_distribution": "eight of the thirty islands are inhabited; the island of Providenciales is the most populated, but the most densely populated is Grand Turk",
+		"urbanization": {
+			"urban_population": {
+				"value": 93.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.77,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Grand Turk",
+					"population": 5000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.11,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 9.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 11.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 137,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 80.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 77.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.3,
+				"units": "years"
+			},
+			"global_rank": 44,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.7,
+			"global_rank": 175,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 94.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 5.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 88,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 12,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.8,
+			"global_rank": 149,
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"date": "2015"
+		},
+		"note": "destination and transit point for illegal Haitian immigrants bound for the Bahamas and the US"
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Turks and Caicos Islands",
+			"abbreviation": "TCI",
+			"etymology": "the Turks Islands are named after the Turk's cap cactus (native to the islands and appearing on the flag and coat of arms), while the Caicos Islands derive from the native term \"caya hico\" meaning \"string of islands\""
+		},
+		"government_type": "parliamentary democracy",
+		"capital": {
+			"name": "Grand Turk (Cockburn Town)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 21,
+					"minutes": 28,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 71,
+					"minutes": 8,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"etymology": "named after Sir Francis Cockburn, who served as governor of the Bahamas from 1837 to 1844"
+		},
+		"independence": {
+			"note": "overseas territory of the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Birthday of Queen ELIZABETH II",
+				"day": "usually celebrated the Monday after the second Saturday in June"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest signed 7 August 2012, effective 15 October 2012 (The Turks and Caicos Constitution Order 2011)",
+			"amendments": "NA"
+		},
+		"legal_system": "mixed legal system of English common law and civil law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel DAKIN (since 15 July 2019)",
+			"head_of_government": "Premier Sharlene CARTWRIGHT-ROBINSON (since 20 December 2016); first female Premier of Turks and Caicos",
+			"cabinet": "Cabinet appointed by the governor from among members of the House of Assembly",
+			"elections_appointments": "the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor"
+		},
+		"legislative_branch": {
+			"description": "unicameral House of Assembly (19 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor; members serve 4-year terms)",
+			"elections": "last held on 15 December 2016 (next to be held in 2020)",
+			"election_results": "percent of vote - NA; seats by party - PDM 10, PNP 5; composition - men 15, women 6, percent of women 28.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high-level judicial officials; Supreme Court judges serve until mandatory retirement at age 65, but terms can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment",
+			"subordinate_courts": "magistrates' courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "People's Democratic Movement",
+					"name_alternative": "PDM",
+					"leaders": [
+						"Sharlene CARTWRIGHT-ROBINSON"
+					]
+				},
+				{
+					"name": "Progressive National Party",
+					"name_alternative": "PNP",
+					"leaders": [
+						"Washington MISICK"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Caricom ",
+				"note": "associate"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "Interpol ",
+				"note": "subbureau"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "blue with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turk's cap cactus - three common elements of the islands' biota"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "conch shell"
+				},
+				{
+					"symbol": "Turk's cap cactus"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "This Land of Ours",
+			"lyrics_music": "Conrad HOWELL",
+			"note": "serves as a local anthem; as a territory of the UK, \"God Save the Queen\" is the official anthem (see United Kingdom)"
+		}
+	},
+	"economy": {
+		"overview": "The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 632000000,
+						"units": "USD",
+						"date": "2007"
+					},
+					{
+						"value": 568300000,
+						"units": "USD",
+						"date": "2006"
+					}
+				],
+				"global_rank": 210
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 11.2,
+						"units": "%",
+						"date": "2007"
+					}
+				],
+				"global_rank": 4
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 29100,
+						"units": "USD",
+						"date": "2007"
+					}
+				],
+				"global_rank": 72
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 49,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 21.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 69.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -56.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 8.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 90.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"corn",
+				"beans",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"citrus fruits",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"offshore financial services"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3,
+			"global_rank": 106,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4848,
+				"global_rank": 220,
+				"date": "1990"
+			},
+			"by_occupation": {
+				"note": "about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 10,
+					"units": "%",
+					"date": "1997"
+				}
+			],
+			"global_rank": 139
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 247300000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 224300000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 158
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 24770000,
+						"units": "USD",
+						"date": "2008"
+					}
+				],
+				"global_rank": 208
+			},
+			"commodities": {
+				"by_commodity": [
+					"lobster",
+					"dried",
+					"fresh conch",
+					"conch shells"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 591300000,
+						"units": "USD",
+						"date": "2008"
+					}
+				],
+				"global_rank": 197
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"beverages",
+					"tobacco",
+					"clothing",
+					"manufactures",
+					"construction materials"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 95.7,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 42.7,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 235000000,
+				"global_rank": 188,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 218600000,
+				"global_rank": 191,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 211,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 213,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 82000,
+				"global_rank": 183,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 21,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 201,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 208,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 211,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 209,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 209,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 207,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 207,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 210,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 1420,
+				"global_rank": 201,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 211,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1369,
+				"global_rank": 197,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 208,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 208,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 203,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 204,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 202,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 221800,
+			"global_rank": 198,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 6096,
+				"subscriptions_per_one_hundred_inhabitants": 11.12,
+				"global_rank": 203,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations",
+		"internet": {
+			"country_code": ".tc"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 22,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VQ-T",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 8,
+					"global_rank": 164,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 6,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 2,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 121,
+				"units": "km"
+			},
+			"paved": {
+				"value": 24,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 97,
+				"units": "km"
+			},
+			"global_rank": 212,
+			"date": "2003"
+		},
+		"merchant_marine": {
+			"total": 4,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 3
+				}
+			],
+			"global_rank": 169,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Cockburn Harbour",
+				"Grand Turk",
+				"Providenciales"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"have received Haitians fleeing economic and civil disorder"
+		],
+		"illicit_drugs": {
+			"note": "transshipment point for South American narcotics destined for the US and Europe"
+		}
+	}
+}

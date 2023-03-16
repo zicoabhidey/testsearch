@@ -1,0 +1,1556 @@
+{
+	"name": "Solomon Islands",
+	"introduction": {
+		"background": "The UK established a protectorate over the Solomon Islands in the 1890s. Some of the bitterest fighting of World War II occurred on this archipelago and the Guadalcanal Campaign (August 1942-February 1943) proved a turning point in the Pacific War, since after the operation the Japanese lost their strategic initiative and remained on the defensive until thier final defeat in 1945. Self-government for the Solomon Islands came in 1976 and independence two years later. Ethnic violence, government malfeasance, endemic crime, and a narrow economic base have undermined stability and civil society. In June 2003, then Prime Minister Sir Allan KEMAKEZA sought the assistance of Australia in reestablishing law and order; the following month, an Australian-led multinational force arrived to restore peace and disarm ethnic militias. The Regional Assistance Mission to the Solomon Islands (RAMSI), which ended in June 2017, was generally effective in restoring law and order and rebuilding government institutions."
+	},
+	"geography": {
+		"location": "Oceania, group of islands in the South Pacific Ocean, east of Papua New Guinea",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 159,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 28896,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 27986,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 910,
+				"units": "sq km"
+			},
+			"global_rank": 144,
+			"comparative": "slightly smaller than Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 5313,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "measured from claimed archipelagic baselines"
+			}
+		},
+		"climate": "tropical monsoon; few temperature and weather extremes",
+		"terrain": "mostly rugged mountains with some low coral atolls",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Popomanaseu",
+				"elevation": {
+					"value": 2335,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"forests",
+				"gold",
+				"bauxite",
+				"phosphates",
+				"lead",
+				"zinc",
+				"nickel"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 3.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 78.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 17.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"note": "NA",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port",
+		"natural_hazards": [
+			{
+				"description": "tropical cyclones, but rarely destructive",
+				"type": "hazard"
+			},
+			{
+				"description": "geologically active region with frequent earthquakes, tremors, and volcanic activity",
+				"type": "hazard"
+			},
+			{
+				"description": "tsunamis",
+				"type": "hazard"
+			},
+			{
+				"description": "Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"soil erosion",
+				"many of the surrounding coral reefs are dead or dying",
+				"effects of climate change and rising sea levels"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Environmental Modification",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 685097,
+			"global_rank": 167,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Solomon Islander(s)",
+			"adjective": "Solomon Islander"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Melanesian",
+					"percent": 95.3
+				},
+				{
+					"name": "Polynesian",
+					"percent": 3.1
+				},
+				{
+					"name": "Micronesian",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 0.3
+				}
+			],
+			"date": "2009"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Melanesian pidgin",
+					"note": "in much of the country is lingua franca"
+				},
+				{
+					"name": "English",
+					"breakdown": [
+						{
+							"name": "official but spoken by only of the population",
+							"percent": 1
+						}
+					]
+				},
+				{
+					"name": "indigenous languages",
+					"percent": 120
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 73.4,
+					"breakdown": [
+						{
+							"name": "Church of Melanesia",
+							"percent": 31.9
+						},
+						{
+							"name": "South Sea Evangelical",
+							"percent": 17.1
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 11.7
+						},
+						{
+							"name": "United Church",
+							"percent": 10.1
+						},
+						{
+							"name": "Christian Fellowship Church",
+							"percent": 2.5
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 19.6
+				},
+				{
+					"name": "other Christian",
+					"percent": 2.9
+				},
+				{
+					"name": "other",
+					"percent": 4
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.1
+				}
+			],
+			"date": "2009"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 32.99,
+				"males": 116397,
+				"females": 109604
+			},
+			"15_to_24": {
+				"percent": 19.82,
+				"males": 69914,
+				"females": 65874
+			},
+			"25_to_54": {
+				"percent": 37.64,
+				"males": 131201,
+				"females": 126681
+			},
+			"55_to_64": {
+				"percent": 5.04,
+				"males": 17844,
+				"females": 16704
+			},
+			"65_and_over": {
+				"percent": 4.51,
+				"males": 14461,
+				"females": 16417
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 77.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 71.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 15.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 23.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 23.7,
+				"units": "years"
+			},
+			"global_rank": 176,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.84,
+			"global_rank": 56,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 23.6,
+			"global_rank": 53,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3.8,
+			"global_rank": 217,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.6,
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population lives along the coastal regions; about one in five live in urban areas, and of these some two-thirds reside in Honiara, the largest town and chief port",
+		"urbanization": {
+			"urban_population": {
+				"value": 24.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.91,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Honiara",
+					"population": 82000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.88,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.04,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.6,
+			"date": "2015"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 104,
+			"global_rank": 69,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 13.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 15.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 11.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 102,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 79,
+				"units": "years"
+			},
+			"global_rank": 103,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.97,
+			"global_rank": 52,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 29.3,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.19,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.4,
+			"date": "2012"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 95,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 67.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 73.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 32.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 26.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 95.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 22,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 39.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 4.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 78,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 60.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.5,
+			"global_rank": 76,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 16.2,
+			"global_rank": 37,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 9.9,
+			"global_rank": 3,
+			"date": "2010"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 1.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 1,
+				"units": "%"
+			},
+			"female": {
+				"value": 1.6,
+				"units": "%"
+			},
+			"global_rank": 176,
+			"date": "2013"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Solomon Islands",
+			"local_long_form": "none",
+			"local_short_form": "Solomon Islands",
+			"former": "British Solomon Islands",
+			"etymology": "Spanish explorer Alvaro de MENDANA named the isles in 1568 after the wealthy biblical King SOLOMON in the mistaken belief that the islands contained great riches"
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Honiara",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 9,
+					"minutes": 26,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 159,
+					"minutes": 57,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 11,
+				"note": "16 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name derives from \"nagho ni ara,\" which in one of the Guadalcanal languages roughly translates as \"facing the eastern wind\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "Central",
+				"type": ""
+			},
+			{
+				"name": "Choiseul",
+				"type": ""
+			},
+			{
+				"name": "Guadalcanal",
+				"type": ""
+			},
+			{
+				"name": "Honiara",
+				"type": ""
+			},
+			{
+				"name": "Isabel",
+				"type": ""
+			},
+			{
+				"name": "Makira and Ulawa",
+				"type": ""
+			},
+			{
+				"name": "Malaita",
+				"type": ""
+			},
+			{
+				"name": "Rennell and Bellona",
+				"type": ""
+			},
+			{
+				"name": "Temotu",
+				"type": ""
+			},
+			{
+				"name": "Western",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1978-07-07",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "7 July",
+				"original_year": "1978"
+			}
+		],
+		"constitution": {
+			"history": "adopted 31 May 1978, effective 7 July 1978",
+			"note": "in late 2017, provincial leaders agreed to adopt a new federal constitution, with passage expected in 2018, but it has been postponed indefinitely",
+			"amendments": "proposed by the National Parliament; passage of constitutional sections, including those on fundamental rights and freedoms, the legal system, Parliament, alteration of the constitution and the ombudsman, requires three-fourths majority vote by Parliament and assent of the governor general; passage of other amendments requires two-thirds majority vote and assent of the governor general; amended several times, last in 2014"
+		},
+		"legal_system": "mixed legal system of English common law and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of the Solomon Islands",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 21,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General David VUNAGI (since 8 July 2019)",
+			"head_of_government": "Prime Minister Rick HOU (since 16 November 2017)",
+			"cabinet": "Cabinet appointed by the governor general on the advice of the prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament",
+			"election_results": "Manasseh SOGAVARE (independent) defeated in no-confidence vote on 6 November 2017; Rick HOU elected prime minister on 15 November 2017"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)",
+			"elections": "last held on 19 November 2014 (next to be held 3 April 2019)",
+			"election_results": "percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, other 20.8%, independent 56.3%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 49, women 1, percent of women 2%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)",
+			"judge_selection_and_term_of_office": "Court of Appeal and High Court president, chief justices, and puisne judges appointed by the governor general upon recommendation of the Judicial and Legal Service Commission, chaired by the chief justice and includes 5 members, mostly judicial officials and legal professionals; all judges serve until retirement at age 60",
+			"subordinate_courts": "Magistrates' Courts; Customary Land Appeal Court; local courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Alliance Party",
+					"name_alternative": "DAP",
+					"leaders": [
+						"Steve ABANA"
+					]
+				},
+				{
+					"name": "Kadere Party of Solomon Islands",
+					"name_alternative": "KPSI",
+					"leaders": [
+						"Peter BOYERS"
+					]
+				},
+				{
+					"name": "People's Alliance Party",
+					"name_alternative": "PAP",
+					"leaders": [
+						"Nathaniel WAENA"
+					]
+				},
+				{
+					"name": "Solomon Islands People First Party",
+					"name_alternative": "SIPFP",
+					"leaders": [
+						"Dr. Jimmie RODGERS"
+					]
+				},
+				{
+					"name": "Solomon Islands Party for Rural Advancement",
+					"name_alternative": "SIPRA",
+					"leaders": [
+						"Manasseh MAELANGA"
+					]
+				},
+				{
+					"name": "United Democratic Party",
+					"name_alternative": "UDP",
+					"leaders": [
+						"Sir Thomas Ko CHAN"
+					]
+				}
+			],
+			"note": "in general, Solomon Islands politics is characterized by fluid coalitions"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "ESCAP"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WFTU"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Janice MOSE",
+				"chancery": "800 Second Avenue, Suite 400L, New York, NY 10017",
+				"telephone": "[1] (212) 599-6192, 6193",
+				"fax": "[1] (212) 661-8925"
+			}
+		},
+		"flag_description": {
+			"description": "divided diagonally by a thin yellow stripe from the lower hoist-side corner; the upper triangle (hoist side) is blue with five white five-pointed stars arranged in an X pattern; the lower triangle is green; blue represents the ocean, green the land, and yellow sunshine; the five stars stand for the five main island groups of the Solomon Islands"
+		},
+		"national_symbol": {
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "God Save Our Solomon Islands",
+			"lyrics_music": "Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA",
+			"note": "adopted 1978"
+		}
+	},
+	"economy": {
+		"overview": "The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1330000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1285000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1242000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 200,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1298000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.5,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 100
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 207,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"exports_of_goods_and_services": {
+							"value": 25.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -49.6,
+							"units": "%"
+						}
+					},
+					"household_consumption": "NA",
+					"government_consumption": "NA",
+					"investment_in_fixed_capital": "NA",
+					"investment_in_inventories": "NA",
+					"date": "2011"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 34.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 7.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 58.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 14.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 145
+		},
+		"agriculture_products": {
+			"products": [
+				"cocoa",
+				"coconuts",
+				"palm kernels",
+				"rice",
+				"fruit",
+				"cattle",
+				"pigs",
+				"fish",
+				"timber"
+			]
+		},
+		"industries": {
+			"industries": [
+				"fish",
+				"tuna",
+				"mining",
+				"timber"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.6,
+			"global_rank": 83,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 202500,
+				"global_rank": 171,
+				"date": "2007"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 75,
+						"units": "%"
+					},
+					"industry": {
+						"value": 5,
+						"units": "%"
+					},
+					"services": {
+						"value": 20,
+						"units": "%"
+					}
+				},
+				"date": "2000"
+			}
+		},
+		"unemployment_rate": {
+			"note": "NA"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 532500000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 570500000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 41,
+			"global_rank": 33,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.9,
+			"global_rank": 130,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 9.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 7.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 198
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 29
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -54000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -49000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 81
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 468600000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 419900000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 176
+			},
+			"commodities": {
+				"by_commodity": [
+					"timber",
+					"fish",
+					"copra",
+					"palm oil",
+					"cocoa",
+					"coconut oil"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 64.5
+					},
+					{
+						"name": "Italy",
+						"percent": 6.2
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.6
+					},
+					{
+						"name": "Philippines",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 462100000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 419300000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 199
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"plant",
+					"equipment",
+					"manufactured goods",
+					"fuels",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 21.9
+					},
+					{
+						"name": "Australia",
+						"percent": 19.6
+					},
+					{
+						"name": "Singapore",
+						"percent": 10.7
+					},
+					{
+						"name": "Vietnam",
+						"percent": 7.5
+					},
+					{
+						"name": "NZ",
+						"percent": 6.2
+					},
+					{
+						"name": "Papua New Guinea",
+						"percent": 5
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 421000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 194
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 757000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 643000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 171
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 7.9,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 7.94,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 7.94,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 7.9147,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 7.3754,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Solomon Islands dollars (SBD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 47.9,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 69.6,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 41.5,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 103000000,
+				"global_rank": 200,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 95790000,
+				"global_rank": 202,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 199,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 201,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 38000,
+				"global_rank": 198,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 92,
+					"global_rank": 52,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 184,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 201,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 8,
+					"global_rank": 90,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 201,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 195,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 197,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 197,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 203,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 1600,
+				"global_rank": 199,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 203,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1577,
+				"global_rank": 195,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 197,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 198,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 185,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 189,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 195,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 233500,
+			"global_rank": 196,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7130,
+				"subscriptions_per_one_hundred_inhabitants": 1.06,
+				"global_rank": 198,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 480124,
+				"subscriptions_per_one_hundred_inhabitants": 71.38,
+				"global_rank": 173,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Solomon Islands Broadcasting Corporation (SIBC) does not broadcast television; multi-channel pay-TV is available; SIBC operates 2 national radio stations and 2 provincial stations; there are 2 local commercial radio stations; Radio Australia is available via satellite feed (since 2009) (2019)",
+		"internet": {
+			"country_code": ".sb",
+			"users": {
+				"total": 78686,
+				"percent_of_population": 11.92,
+				"global_rank": 181,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 427806,
+				"annual_freight_traffic_on_registered_air_carriers": 3840000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "H4",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 36,
+					"global_rank": 109,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 35,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 10,
+					"under_914_metres": 24,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1390,
+				"units": "km"
+			},
+			"paved": {
+				"value": 34,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 1356,
+				"units": "km"
+			},
+			"note": "includes 920 km of private plantation roads",
+			"global_rank": 175,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 23,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 7
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 15
+				}
+			],
+			"global_rank": 141,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Honiara",
+				"Malloco Bay",
+				"Viru Harbor",
+				"Tulaghi"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"since 2003, the Regional Assistance Mission to Solomon Islands, consisting of police, military, and civilian advisors drawn from 15 countries, has assisted in reestablishing and maintaining civil and political order while reinforcing regional stability and security"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "the Solomon Islands is a source and destination country for local adults and children and Southeast Asian men and women subjected to forced labor and forced prostitution; women from China, Indonesia, Malaysia, and the Philippines are recruited for legitimate work and upon arrival are forced into prostitution; men from Indonesia and Malaysia recruited to work in the Solomon Islands’ mining and logging industries may be subjected to forced labor; local children are forced into prostitution near foreign logging camps, on fishing vessels, at hotels, and entertainment venues; some local children are also sold by their parents for marriage to foreign workers or put up for \"informal adoption\" to pay off debts and then find themselves forced into domestic servitude or forced prostitution",
+			"tier_rating": "Tier 2 Watch List – the Solomon Islands does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, the Solomon Islands was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government gazetted implementing regulations for the 2012 immigration act prohibiting transnational trafficking, but the penalties are not sufficiently stringent because they allow the option of paying a fine; a new draft law to address these weaknesses awaits parliamentary review; no new trafficking investigations were conducted, even after labor inspections at logging and fishing companies, no existing cases led to prosecutions or convictions, and no funding was allocated for national anti-trafficking efforts; authorities did not identify or protect any victims and lack any procedures or shelters to do so; civil society and religious organizations provide most of the limited services available; a lack of understanding of the crime of trafficking remains a serious challenge (2015)"
+		}
+	}
+}

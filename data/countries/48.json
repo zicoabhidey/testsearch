@@ -1,0 +1,1802 @@
+{
+	"name": "Chad",
+	"introduction": {
+		"background": "The Kanem Empire (c.700-1380) and its successor the Bornu Empire (1380s-1893) existed in Chad's southern Sahelian strip and focused on controlling the trans-Saharan trade routes that passed through the region. By 1920, France conquered the territory and incorporated it as part of French Equatorial Africa. Chad attained independence in 1960, but then endured three decades of civil warfare, as well as invasions by Libya, before peace was restored in 1990. The government eventually drafted a democratic constitution and held flawed presidential elections in 1996 and 2001. In 1998, a rebellion broke out in northern Chad, which has sporadically flared up despite several peace agreements between the government and insurgents. In June 2005, President Idriss DEBY held a referendum successfully removing constitutional term limits and won another controversial election in 2006. Sporadic rebel campaigns continued throughout 2006 and 2007. The capital experienced a significant insurrection in early 2008, but has had no significant rebel threats since then, in part due to Chad's 2010 rapprochement with Sudan, which previously used Chadian rebels as proxies. Nevertheless, a state of emergency continues to be in place in the Sila and Ouaddai regions bordering Sudan. In late 2015, the government imposed a state of emergency in the Lake Chad region following multiple attacks by the terrorist group Boko Haram throughout the year; Boko Haram also launched several bombings in N'Djamena in mid-2015. A state of emergency is also emplaced in the western Tibesti region bordering Niger where rival ethnic groups are fighting. DEBY in 2016 was reelected to his fifth term in an election that was peaceful but flawed. A new constitution promulgated in 2018 allows DEBY to run for two additional consecutive terms of six years when his current term comes to an end in 2021. As of 2020, the country continued to face multiple challenges, including widespread poverty, an economy severely weakened by the drop in international oil prices, and insurgencies led by rebel militants in the north and Boko Haram in the Lake Chad Basin. In late 2019, the government was forced to declare a state of emergency in three eastern provinces for four months to stop a cycle of interethnic violence, and the army has suffered heavy losses to Islamic terror groups in the Lake Chad area. In March 2020, Boko Haram fighters attacked a Chadian military camp in the Lake Chad region, killing nearly 100 soldiers; it was the deadliest attack in the history of the Chadian military. (2019)"
+	},
+	"geography": {
+		"location": "Central Africa, south of Libya",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 19,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1284000,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1259200,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 24800,
+				"units": "sq km"
+			},
+			"global_rank": 22,
+			"comparative": "almost nine times the size of New York state; slightly more than three times the size of California"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 6406,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Cameroon",
+					"border_length": {
+						"value": 1116,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Central African Republic",
+					"border_length": {
+						"value": 1556,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Libya",
+					"border_length": {
+						"value": 1050,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Niger",
+					"border_length": {
+						"value": 1196,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Nigeria",
+					"border_length": {
+						"value": 85,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sudan",
+					"border_length": {
+						"value": 1403,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "tropical in south, desert in north",
+		"terrain": "broad, arid plains in center, desert in north, mountains in northwest, lowlands in south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 543,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Djourab",
+				"elevation": {
+					"value": 160,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Emi Koussi",
+				"elevation": {
+					"value": 3445,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"uranium",
+				"natron",
+				"kaolin",
+				"fish",
+				"Lake Chad",
+				"gold",
+				"limestone",
+				"sand",
+				"gravel",
+				"salt"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 39.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 3.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 35.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 9.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 51.3,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 300,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "hot, dry, dusty harmattan winds occur in north",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "locust plagues",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"inadequate supplies of potable water",
+				"improper waste disposal in rural areas and poor farming practices contribute to soil and water pollution",
+				"desertification"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea",
+					"Marine Dumping"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 16877357,
+			"global_rank": 71,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Chadian(s)",
+			"adjective": "Chadian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Sara",
+					"percent": 30.5,
+					"note": "Ngambaye/Sara/Madjingaye/Mbaye"
+				},
+				{
+					"name": "Kanembu/Bornu/Buduma",
+					"percent": 9.8
+				},
+				{
+					"name": "Arab",
+					"percent": 9.7
+				},
+				{
+					"name": "Wadai/Maba/Masalit/Mimi",
+					"percent": 7
+				},
+				{
+					"name": "Gorane",
+					"percent": 5.8
+				},
+				{
+					"name": "Masa/Musseye/Musgum",
+					"percent": 4.9
+				},
+				{
+					"name": "Bulala/Medogo/Kuka",
+					"percent": 3.7
+				},
+				{
+					"name": "Marba/Lele/Mesme",
+					"percent": 3.5
+				},
+				{
+					"name": "Mundang",
+					"percent": 2.7
+				},
+				{
+					"name": "Bidiyo/Migaama/Kenga/Dangleat",
+					"percent": 2.5
+				},
+				{
+					"name": "Dadjo/Kibet/Muro",
+					"percent": 2.4
+				},
+				{
+					"name": "Tupuri/Kera",
+					"percent": 2
+				},
+				{
+					"name": "Gabri/Kabalaye/Nanchere/Somrai",
+					"percent": 2
+				},
+				{
+					"name": "Fulani/Fulbe/Bodore",
+					"percent": 1.8
+				},
+				{
+					"name": "Karo/Zime/Peve",
+					"percent": 1.3
+				},
+				{
+					"name": "Baguirmi/Barma",
+					"percent": 1.2
+				},
+				{
+					"name": "Zaghawa/Bideyat/Kobe",
+					"percent": 1.1
+				},
+				{
+					"name": "Tama/Assongori/Mararit",
+					"percent": 1.1
+				},
+				{
+					"name": "Mesmedje/Massalat/Kadjakse",
+					"percent": 0.8
+				},
+				{
+					"name": "other Chadian ethnicities",
+					"percent": 3.4
+				},
+				{
+					"name": "Chadians of foreign ethnicities",
+					"percent": 0.9
+				},
+				{
+					"name": "foreign nationals",
+					"percent": 0.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.7,
+					"note": "2014-15 est."
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "Sara",
+					"note": "in south"
+				},
+				{
+					"name": "more than different languages and dialects",
+					"percent": 120
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 52.1
+				},
+				{
+					"name": "Protestant",
+					"percent": 23.9
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 20
+				},
+				{
+					"name": "animist",
+					"percent": 0.3
+				},
+				{
+					"name": "other Christian",
+					"percent": 0.2
+				},
+				{
+					"name": "none",
+					"percent": 2.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.7,
+					"note": "2014-15 est."
+				}
+			]
+		},
+		"demographic_profile": "Despite the start of oil production in 2003, 40% of Chad’s population lives below the poverty line. The population will continue to grow rapidly because of the country’s very high fertility rate and large youth cohort – more than 65% of the populace is under the age of 25 – although the mortality rate is high and life expectancy is low. Chad has the world’s third highest maternal mortality rate. Among the primary risk factors are poverty, anemia, rural habitation, high fertility, poor education, and a lack of access to family planning and obstetric care. Impoverished, uneducated adolescents living in rural areas are most affected. To improve women’s reproductive health and reduce fertility, Chad will need to increase women’s educational attainment, job participation, and knowledge of and access to family planning. Only about a quarter of women are literate, less than 5% use contraceptives, and more than 40% undergo genital cutting.\nAs of October 2017, more than 320,000 refugees from Sudan and more than 75,000 from the Central African Republic strain Chad’s limited resources and create tensions in host communities. Thousands of new refugees fled to Chad in 2013 to escape worsening violence in the Darfur region of Sudan. The large refugee populations are hesitant to return to their home countries because of continued instability. Chad was relatively stable in 2012 in comparison to other states in the region, but past fighting between government forces and opposition groups and inter-communal violence have left nearly 60,000 of its citizens displaced in the eastern part of the country.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 47.43,
+				"males": 4050505,
+				"females": 3954413
+			},
+			"15_to_24": {
+				"percent": 19.77,
+				"males": 1676495,
+				"females": 1660417
+			},
+			"25_to_54": {
+				"percent": 27.14,
+				"males": 2208181,
+				"females": 2371490
+			},
+			"55_to_64": {
+				"percent": 3.24,
+				"males": 239634,
+				"females": 306477
+			},
+			"65_and_over": {
+				"percent": 2.43,
+				"males": 176658,
+				"females": 233087
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 96,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 91.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 4.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 20.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 16.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 15.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 16.5,
+				"units": "years"
+			},
+			"global_rank": 224,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 3.18,
+			"global_rank": 7,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 41.7,
+			"global_rank": 6,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10,
+			"global_rank": 38,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.1,
+			"global_rank": 102,
+			"date": "2020"
+		},
+		"population_distribution": "the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 23.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.88,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "N'Djamena",
+					"population": 1423000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.78,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.76,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 17.9,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 1140,
+			"global_rank": 2,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 68.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 74.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 62.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 5,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 58.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 56.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 60.1,
+				"units": "years"
+			},
+			"global_rank": 221,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 5.68,
+			"global_rank": 5,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 5.7,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.04,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 86.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 46.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 55.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 13.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 53.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 44.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 56.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 3.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 15.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 43.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 96.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 84.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.2,
+				"global_rank": 38,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 120000,
+				"global_rank": 40,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 3200,
+				"global_rank": 32,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.1,
+			"global_rank": 170,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 29.4,
+			"global_rank": 7,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.9,
+			"global_rank": 140,
+			"date": "2013"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write French or Arabic",
+			"total_population": {
+				"value": 22.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 31.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 14,
+				"units": "%"
+			},
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 7,
+				"units": "years"
+			},
+			"male": {
+				"value": 9,
+				"units": "years"
+			},
+			"female": {
+				"value": 6,
+				"units": "years"
+			},
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Chad",
+			"conventional_short_form": "Chad",
+			"local_long_form": "Republique du Tchad/Jumhuriyat Tshad",
+			"local_short_form": "Tchad/Tshad",
+			"etymology": "named for Lake Chad, which lies along the country's western border; the word \"tsade\" means \"large body of water\" or \"lake\" in several local native languages",
+			"note": "the only country whose name is composed of a single syllable with a single vowel"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "N'Djamena",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 12,
+					"minutes": 6,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 15,
+					"minutes": 2,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name taken from the Arab name of a nearby village, Nijamina, meaning \"place of rest\""
+		},
+		"independence": {
+			"date": "1960-08-11",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "11 August",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018",
+			"amendments": "proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly; amended 2005, 2013"
+		},
+		"legal_system": "mixed legal system of civil and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "both parents must be citizens of Chad",
+			"dual_citizenship_recognized": "Chadian law does not address dual citizenship",
+			"residency_requirement_for_naturalization": "15 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Idriss DEBY Itno, Lt. Gen. (since 4 December 1990)",
+			"head_of_government": "President Idriss DEBY Itno, Lt. Gen. (since 4 December 1990); prime minister position eliminated under the 2018 constitution",
+			"cabinet": "Council of Ministers",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 10 April 2016 (next to be held in April 2021)",
+			"election_results": "Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)",
+			"elections": "last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)",
+			"election_results": "percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%",
+			"note": "the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists)",
+			"judge_selection_and_term_of_office": "Supreme Court chief justice selected by the president; councilors - 8 designated by the president and 7 by the speaker of the National Assembly; chief justice and councilors appointed for life; Constitutional Council judges - 2 appointed by the president and 1 by the speaker of the National Assembly; jurists - 3 each by the president and by the speaker of the National Assembly; judges appointed for 9-year terms",
+			"subordinate_courts": "High Court of Justice; Courts of Appeal; tribunals; justices of the peace"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Chadian Convention for Peace and Development",
+					"name_alternative": "CTPD",
+					"leaders": [
+						"Laoukein Kourayo MEDAR"
+					]
+				},
+				{
+					"name": "Federation Action for the Republic",
+					"name_alternative": "FAR",
+					"leaders": [
+						"Ngarledjy YORONGAR"
+					]
+				},
+				{
+					"name": "Framework of Popular Action for Solidarity and Unity of the Republic",
+					"name_alternative": "CAP-SUR",
+					"leaders": [
+						"Joseph Djimrangar DADNADJI"
+					]
+				},
+				{
+					"name": "National Rally for Development and Progress",
+					"name_alternative": "Viva-RNDP",
+					"leaders": [
+						"Dr. Nouradine Delwa Kassire COUMAKOYE"
+					]
+				},
+				{
+					"name": "National Union for Democracy and Renewal",
+					"name_alternative": "UNDR",
+					"leaders": [
+						"Saleh KEBZABO"
+					]
+				},
+				{
+					"name": "Party for Liberty and Development",
+					"name_alternative": "PLD",
+					"leaders": [
+						"Ahmat ALHABO"
+					]
+				},
+				{
+					"name": "Party for Unity and Reconciliation"
+				},
+				{
+					"name": "Patriotic Salvation Movement",
+					"name_alternative": "MPS",
+					"leaders": [
+						"Idriss DEBY"
+					]
+				},
+				{
+					"name": "Rally for Democracy and Progress",
+					"name_alternative": "RDPRNDT/Le Reveil [Albert Pahimi PADACKE]",
+					"leaders": [
+						"Mahamat Allahou TAHER"
+					]
+				},
+				{
+					"name": "Social Democratic Party for a Change-over of Power",
+					"name_alternative": "PDSA",
+					"leaders": [
+						"Malloum YOBODA"
+					]
+				},
+				{
+					"name": "Union for Renewal and Democracy",
+					"name_alternative": "URD",
+					"leaders": [
+						"Felix Romadoumngar NIALBE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "BDEAC"
+			},
+			{
+				"organization": "CEMAC"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Ngote Gali KOUTOU (since 22 June 2018)",
+				"chancery": "2401 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 652-1312",
+				"fax": "[1] (202) 758-0431"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Thomas R. GENTON (since 16 August 2019)",
+				"telephone": "[235] 2251-5017",
+				"embassy": "US Embassy N’Djamena, B.P. 413, N’Djamena",
+				"mailing_address": "B. P. 413, N'Djamena",
+				"fax": "[235] 2253-9102"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice",
+			"note": "almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on the flag of France"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "goat ",
+					"note": "north"
+				},
+				{
+					"symbol": "lion ",
+					"note": "south"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"La Tchadienne\" (The Chadian)",
+			"lyrics_music": "Louis GIDROL and his students/Paul VILLARD",
+			"note": "adopted 1960"
+		}
+	},
+	"economy": {
+		"overview": "Chad’s landlocked location results in high transportation costs for imported goods and dependence on neighboring countries. Oil and agriculture are mainstays of Chad’s economy. Oil provides about 60% of export revenues, while cotton, cattle, livestock, and gum arabic provide the bulk of Chad's non-oil export earnings. The services sector contributes less than one-third of GDP and has attracted foreign investment mostly through telecommunications and banking.\nNearly all of Chad’s fuel is provided by one domestic refinery, and unanticipated shutdowns occasionally result in shortages. The country regulates the price of domestic fuel, providing an incentive for black market sales.\nAlthough high oil prices and strong local harvests supported the economy in the past, low oil prices now stress Chad’s fiscal position and have resulted in significant government cutbacks. Chad relies on foreign assistance and foreign capital for most of its public and private sector investment. Investment in Chad is difficult due to its limited infrastructure, lack of trained workers, extensive government bureaucracy, and corruption. Chad obtained a three-year extended credit facility from the IMF in 2014 and was granted debt relief under the Heavily Indebted Poor Countries Initiative in April 2015.\nIn 2018, economic policy will be driven by efforts that started in 2016 to reverse the recession and to repair damage to public finances and exports. The government is implementing an emergency action plan to counterbalance the drop in oil revenue and to diversify the economy. Chad’s national development plan (NDP) cost just over $9 billion with a financing gap of $6.7 billion. The NDP emphasized the importance of private sector participation in Chad’s development, as well as the need to improve the business environment, particularly in priority sectors such as mining and agriculture.\nThe Government of Chad reached a deal with Glencore and four other banks on the restructuring of a $1.45 billion oil-backed loan in February 2018, after a long negotiation. The new terms include an extension of the maturity to 2030 from 2022, a two-year grace period on principal repayments, and a lower interest rate of the London Inter-bank Offer Rate (Libor) plus 2% - down from Libor plus 7.5%. The original Glencore loan was to be repaid with crude oil assets, however, Chad's oil sales were hit by the downturn in the price of oil. Chad had secured a $312 million credit from the IMF in June 2017, but release of those funds hinged on restructuring the Glencore debt. Chad had already cut public spending to try to meet the terms of the IMF program, but that prompted strikes and protests in a country where nearly 40% of the population lives below the poverty line. Multinational partners, such as the African Development Bank, the EU, and the World Bank are likely to continue budget support in 2018, but Chad will remain at high debt risk, given its dependence on oil revenue and pressure to spend on subsidies and security.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 28620000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 29550000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 31580000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 134,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 9872000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -3.1,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -6.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 211
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2700,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 202,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 75.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 4.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 35.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -39.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 52.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 14.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 33.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 15.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 7.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 13.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 133
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"sorghum",
+				"millet",
+				"peanuts",
+				"sesame",
+				"corn",
+				"rice",
+				"potatoes",
+				"onions",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"cattle",
+				"sheep",
+				"goats",
+				"camels"
+			]
+		},
+		"industries": {
+			"industries": [
+				"oil",
+				"cotton textiles",
+				"brewing",
+				"natron",
+				"sodium carbonate",
+				"soap",
+				"cigarettes",
+				"construction materials"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -4,
+			"global_rank": 192,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 5654000,
+				"global_rank": 72,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 80,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"unemployment_rate": {
+			"note": "NA"
+		},
+		"population_below_poverty_line": {
+			"value": 46.7,
+			"units": "%",
+			"date": "2011"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30.8,
+				"units": "%"
+			},
+			"date": "2003"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1337000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1481000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 13.5,
+			"global_rank": 206,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.5,
+			"global_rank": 89,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 52.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 52.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 94
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 2
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -558000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -926000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 124
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2464000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2187000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 132
+			},
+			"commodities": {
+				"by_commodity": [
+					"oil",
+					"livestock",
+					"cotton",
+					"sesame",
+					"gum arabic",
+					"shea butter"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 38.7
+					},
+					{
+						"name": "China",
+						"percent": 16.6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 15.7
+					},
+					{
+						"name": "UAE",
+						"percent": 12.2
+					},
+					{
+						"name": "India",
+						"percent": 6.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2160000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1997000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 164
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transportation equipment",
+					"industrial goods",
+					"foodstuffs",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 19.9
+					},
+					{
+						"name": "Cameroon",
+						"percent": 17.2
+					},
+					{
+						"name": "France",
+						"percent": 17
+					},
+					{
+						"name": "US",
+						"percent": 5.4
+					},
+					{
+						"name": "India",
+						"percent": 4.9
+					},
+					{
+						"name": "Senegal",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 22900000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 20920000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 190
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1724000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1281000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 153
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 605.3,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 591.45,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 494.42,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 15000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 9,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 32,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 1,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 224300000,
+				"global_rank": 190,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 208600000,
+				"global_rank": 192,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 120,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 134,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 48200,
+				"global_rank": 192,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 98,
+					"global_rank": 28,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 65,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 164,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 123,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 132000,
+				"global_rank": 40,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 70440,
+				"global_rank": 37,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 109,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 1500000000,
+				"global_rank": 38,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 130,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 2300,
+				"global_rank": 193,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 143,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 2285,
+				"global_rank": 189,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 116,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 132,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 82,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 122,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 342200,
+			"global_rank": 190,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 6540,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 201,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 7857758,
+				"subscriptions_per_one_hundred_inhabitants": 48.06,
+				"global_rank": 99,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 state-owned TV station; 2 privately-owned TV stations; state-owned radio network, Radiodiffusion Nationale Tchadienne (RNT), operates national and regional stations; over 10 private radio stations; some stations rebroadcast programs from international broadcasters (2017)",
+		"internet": {
+			"country_code": ".td",
+			"users": {
+				"total": 1029153,
+				"percent_of_population": 6.5,
+				"global_rank": 140,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 3,
+				"date": "2020"
+			},
+			"airports": {
+				"total": {
+					"airports": 59,
+					"global_rank": 80,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 9,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 4,
+					"1524_to_2437_metres": 2,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 50,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 14,
+					"914_to_1523_metres": 22,
+					"under_914_metres": 11,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "oil",
+					"length": 582,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 40000,
+				"units": "km"
+			},
+			"note": "consists of 25,000 km of national and regional roads and 15,000 km of local roads; 206 km of urban roads are paved",
+			"global_rank": 89,
+			"date": "2018"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 42
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 20,
+			"note": "20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21; while provisions for military service have not been repealed, they have never been fully implemented",
+			"date": "2015"
+		},
+		"note": "the ANT is chiefly focused on counterinsurgency/counter-terrorist operations against Boko Haram (BH) and the Islamic State in West Africa (ISWA) in the Lake Chad Basin area (primarily the Lac Province) and countering the terrorist threat in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; also in 2020, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants\nChad is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Niger; Chad has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; Chad hosts the headquarters of Operation Barkhane in N’Djamena\nChad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight BH as part of the MNJTF mission (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad",
+			"Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence",
+			"only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 361945,
+						"country_of_origin": "Sudan"
+					},
+					{
+						"people": 95051,
+						"country_of_origin": "Central African Republic"
+					},
+					{
+						"people": 15843,
+						"country_of_origin": "Nigeria"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 236426,
+				"note": "majority are in the east",
+				"date": "2020"
+			}
+		}
+	}
+}

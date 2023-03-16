@@ -1,0 +1,1844 @@
+{
+	"name": "Finland",
+	"introduction": {
+		"background": "Finland was a province and then a grand duchy under Sweden from the 12th to the 19th centuries, and an autonomous grand duchy of Russia after 1809. It gained complete independence in 1917. During World War II, Finland successfully defended its independence through cooperation with Germany and resisted subsequent invasions by the Soviet Union - albeit with some loss of territory. In the subsequent half century, Finland transformed from a farm/forest economy to a diversified modern industrial economy; per capita income is among the highest in Western Europe. A member of the EU since 1995, Finland was the only Nordic state to join the euro single currency at its initiation in January 1999. In the 21st century, the key features of Finland's modern welfare state are high quality education, promotion of equality, and a national social welfare system - currently challenged by an aging population and the fluctuations of an export-driven economy."
+	},
+	"geography": {
+		"location": "Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden and Russia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 64,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 26,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 338145,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 303815,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 34330,
+				"units": "sq km"
+			},
+			"global_rank": 66,
+			"comparative": "slightly more than two times the size of Georgia; slightly smaller than Montana"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2563,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Norway",
+					"border_length": {
+						"value": 709,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sweden",
+					"border_length": {
+						"value": 545,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia",
+					"border_length": {
+						"value": 1309,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1250,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm",
+				"note": "in the Gulf of Finland - 3 nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			},
+			"exclusive_fishing_zone": {
+				"value": 12,
+				"note": "nm; extends to continental shelf boundary with Sweden, Estonia, and Russia"
+			}
+		},
+		"climate": "cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes",
+		"terrain": "mostly low, flat to rolling plains interspersed with lakes and low hills",
+		"elevation": {
+			"mean_elevation": {
+				"value": 164,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Baltic Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Halti (alternatively Haltia, Haltitunturi, Haltiatunturi)",
+				"elevation": {
+					"value": 1328,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"iron ore",
+				"copper",
+				"lead",
+				"zinc",
+				"chromite",
+				"nickel",
+				"gold",
+				"silver",
+				"limestone"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 7.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 7.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 72.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 19.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 690,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated",
+		"natural_hazards": [
+			{
+				"description": "severe winters in the north",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited air pollution in urban centers",
+				"some water pollution from industrial wastes",
+				"agricultural chemicals",
+				"habitat loss threatens wildlife populations"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5571665,
+			"global_rank": 116,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Finn(s)",
+			"adjective": "Finnish"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Finn"
+				},
+				{
+					"name": "Swede"
+				},
+				{
+					"name": "Russian"
+				},
+				{
+					"name": "Estonian"
+				},
+				{
+					"name": "Romani"
+				},
+				{
+					"name": "Sami"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Finnish",
+					"percent": 87.6,
+					"note": "official"
+				},
+				{
+					"name": "Swedish",
+					"percent": 5.2,
+					"note": "official"
+				},
+				{
+					"name": "Russian",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 5.8
+				}
+			],
+			"date": "2018"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Lutheran",
+					"percent": 69.8
+				},
+				{
+					"name": "Greek Orthodox",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 1.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 27.4
+				}
+			],
+			"date": "2018"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.41,
+				"males": 467220,
+				"females": 447005
+			},
+			"15_to_24": {
+				"percent": 10.95,
+				"males": 312179,
+				"females": 297717
+			},
+			"25_to_54": {
+				"percent": 37.37,
+				"males": 1064326,
+				"females": 1017545
+			},
+			"55_to_64": {
+				"percent": 13.02,
+				"males": 357687,
+				"females": 367610
+			},
+			"65_and_over": {
+				"percent": 22.26,
+				"males": 543331,
+				"females": 697045
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 62.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 25.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 36.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 2.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 41.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 44.4,
+				"units": "years"
+			},
+			"global_rank": 31,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.3,
+			"global_rank": 171,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.6,
+			"global_rank": 186,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.3,
+			"global_rank": 31,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.6,
+			"global_rank": 40,
+			"date": "2020"
+		},
+		"population_distribution": "the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated",
+		"urbanization": {
+			"urban_population": {
+				"value": 85.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.42,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Helsinki",
+					"population": 1305000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.78,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.2,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 3,
+			"global_rank": 177,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 222,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.4,
+				"units": "years"
+			},
+			"global_rank": 33,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.74,
+			"global_rank": 163,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 85.5,
+			"units": "%",
+			"note": "percent of women aged 18-49",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.81,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 122,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 4000,
+				"global_rank": 125,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.2,
+			"global_rank": 80,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.9,
+			"global_rank": 14,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 19,
+				"units": "years"
+			},
+			"male": {
+				"value": 20,
+				"units": "years"
+			},
+			"female": {
+				"value": 20,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 17,
+				"units": "%"
+			},
+			"male": {
+				"value": 17.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.8,
+				"units": "%"
+			},
+			"global_rank": 77,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Finland",
+			"conventional_short_form": "Finland",
+			"local_long_form": "Suomen tasavalta/Republiken Finland",
+			"local_short_form": "Suomi/Finland",
+			"etymology": "name may derive from the ancient Fenni peoples who are first described as living in northeastern Europe in the first centuries A.D."
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Helsinki",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 60,
+					"minutes": 10,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 24,
+					"minutes": 56,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the name may derive from the Swedish \"helsing,\" an archaic name for \"neck\" (\"hals\"), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; \"fors\" refers to \"rapids,\" so \"helsing fors\" meaning becomes \"the narrows' rapids\""
+		},
+		"independence": {
+			"date": "1917-12-06",
+			"note": "from Russia"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "6 December",
+				"original_year": "1917"
+			}
+		],
+		"constitution": {
+			"history": "previous 1906, 1919; latest drafted 17 June 1997, approved by Parliament 11 June 1999, entered into force 1 March 2000",
+			"amendments": "proposed by Parliament; passage normally requires simple majority vote in two readings in the first parliamentary session and at least two-thirds majority vote in a single reading by the newly elected Parliament; proposals declared \"urgent\" by five-sixths of Parliament members can be passed by at least two-thirds majority vote in the first parliamentary session only; amended several times, last in 2012"
+		},
+		"legal_system": "civil law system based on the Swedish model",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Finland",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "6 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Sauli NIINISTO (since 1 March 2012)",
+			"head_of_government": "Prime Minister Sanna MARIN (since 10 December 2019)",
+			"cabinet": "Council of State or Valtioneuvosto appointed by the president, responsible to Parliament",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament",
+			"election_results": "Sauli NIINISTO reelected president; percent of vote Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)",
+			"elections": "last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)",
+			"election_results": "percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party  13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities",
+			"judge_selection_and_term_of_office": "Supreme Court and Supreme Administrative Court judges appointed by the president of the republic; judges serve until mandatory retirement at age 68",
+			"subordinate_courts": "6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Aland Coalition ",
+					"note": "a coalition of several political parties on the Aland Islands"
+				},
+				{
+					"name": "Center Party",
+					"name_alternative": "Kesk",
+					"leaders": [
+						"Katri KULMUNI"
+					]
+				},
+				{
+					"name": "Christian Democrats",
+					"name_alternative": "KD",
+					"leaders": [
+						"Sari ESSAYAH"
+					]
+				},
+				{
+					"name": "Finns Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Jussi HALLA-AHO"
+					]
+				},
+				{
+					"name": "Green League",
+					"name_alternative": "Vihr",
+					"leaders": [
+						"Pekka HAAVISTO"
+					]
+				},
+				{
+					"name": "Left Alliance",
+					"name_alternative": "Vas",
+					"leaders": [
+						"Li ANDERSSON"
+					]
+				},
+				{
+					"name": "National Coalition Party",
+					"name_alternative": "Kok",
+					"leaders": [
+						"Petteri ORPO"
+					]
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "SDP",
+					"leaders": [
+						"Antti RINNE"
+					]
+				},
+				{
+					"name": "Swedish People's Party",
+					"name_alternative": "SFP",
+					"leaders": [
+						"Anna-Maja HENRIKSSON"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-9"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mikko Tapani HAUTALA (since 17 September 2020)",
+				"chancery": "3301 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 298-5800",
+				"fax": "[1] (202) 298-6030",
+				"consulates_general": "Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Robert \"Bob\" Frank PENCE (since 24 May 2018)",
+				"telephone": "[358] (9) 6162-50",
+				"embassy": "Itainen Puistotie 14B, 00140 Helsinki",
+				"mailing_address": "APO AE 09723",
+				"fax": "[358] (9) 6162-5135"
+			}
+		},
+		"flag_description": {
+			"description": "white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Maamme\" (Our Land)",
+			"lyrics_music": "Johan Ludvig RUNEBERG/Fredrik PACIUS",
+			"note": "in use since 1848; although never officially adopted by law, the anthem has been popular since it was first sung by a student group in 1848; Estonia's anthem uses the same melody as that of Finland",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/FI.mp3?1538604753"
+		}
+	},
+	"economy": {
+		"overview": "Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.\nFinland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.\nFinland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.\nFinland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 244900000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 238200000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 232400000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 62,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 252800000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.15,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.52,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.27,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 168
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 44500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 43400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 42500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 38,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 54.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 22.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 38.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -38.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 69.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 23.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 20,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 73
+		},
+		"agriculture_products": {
+			"products": [
+				"barley",
+				"wheat",
+				"sugar beets",
+				"potatoes",
+				"dairy cattle",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"metals",
+				"metal products",
+				"electronics",
+				"machinery",
+				"scientific instruments",
+				"shipbuilding",
+				"pulp",
+				"paper",
+				"foodstuffs",
+				"chemicals",
+				"textiles",
+				"clothing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.2,
+			"global_rank": 39,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2520000,
+				"global_rank": 113,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 75.3,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.63,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 7.38,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 105
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 6.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 45.2,
+				"units": "%"
+			},
+			"date": "2013"
+		},
+		"budget": {
+			"revenues": {
+				"value": 134199999999.99998,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 135600000000,
+				"units": "USD"
+			},
+			"note": "Central Government Budget data; these numbers represent a significant reduction from previous official reporting",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 53.1,
+			"global_rank": 11,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.6,
+			"global_rank": 64,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 61.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 62.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 72,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 41
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -603000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -4908000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 127
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 67730000000.00001,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 51900000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 43
+			},
+			"commodities": {
+				"by_commodity": [
+					"electrical",
+					"optical equipment",
+					"machinery",
+					"transport equipment",
+					"paper",
+					"pulp",
+					"chemicals",
+					"basic metals",
+					"timber"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 14.2
+					},
+					{
+						"name": "Sweden",
+						"percent": 10.1
+					},
+					{
+						"name": "US",
+						"percent": 7
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6.8
+					},
+					{
+						"name": "China",
+						"percent": 5.7
+					},
+					{
+						"name": "Russia",
+						"percent": 5.7
+					},
+					{
+						"name": "UK",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 65260000000.00001,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 58180000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 47
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"petroleum",
+					"petroleum products",
+					"chemicals",
+					"transport equipment",
+					"iron",
+					"steel",
+					"machinery",
+					"computers",
+					"electronic industry products",
+					"textile yarn",
+					"fabrics",
+					"grains"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 17.7
+					},
+					{
+						"name": "Sweden",
+						"percent": 15.8
+					},
+					{
+						"name": "Russia",
+						"percent": 13.1
+					},
+					{
+						"name": "Netherlands",
+						"percent": 8.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 10510000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 11200000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 73
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 150600000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				},
+				{
+					"value": 147800000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 42
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 66540000000.00001,
+				"global_rank": 43,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 82790000000,
+				"global_rank": 35,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 3159000000,
+				"global_rank": 43,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 22110000000,
+				"global_rank": 8,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 16270000,
+				"global_rank": 50,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 41,
+					"global_rank": 165,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 17,
+					"global_rank": 12,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 20,
+					"global_rank": 88,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 23,
+					"global_rank": 30,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 138,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 125,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 236700,
+				"global_rank": 27,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 133,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 310600,
+				"global_rank": 40,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 217100,
+				"global_rank": 55,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 166200,
+				"global_rank": 34,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 122200,
+				"global_rank": 48,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 134,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2350000000,
+				"global_rank": 81,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 4000000,
+				"global_rank": 54,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 2322000000,
+				"global_rank": 49,
+				"date": "2017"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 46010000,
+			"global_rank": 64,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 269980,
+				"subscriptions_per_one_hundred_inhabitants": 4.86,
+				"global_rank": 113,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 7179481,
+				"subscriptions_per_one_hundred_inhabitants": 129.24,
+				"global_rank": 103,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio",
+		"internet": {
+			"country_code": ".fi\nnote - Aland Islands assigned .ax",
+			"users": {
+				"total": 4922163,
+				"percent_of_population": 88.89,
+				"global_rank": 84,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 77,
+				"annual_passenger_traffic_on_registered_air_carriers": 13364839,
+				"annual_freight_traffic_on_registered_air_carriers": 957640000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OH",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 148,
+					"global_rank": 37,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 74,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 26,
+					"1524_to_2437_metres": 10,
+					"914_to_1523_metres": 21,
+					"under_914_metres": 14,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 74,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 71,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas transmission pipes",
+					"length": 1288,
+					"units": "km"
+				},
+				{
+					"type": "distribution pipes",
+					"length": 1976,
+					"units": "km"
+				}
+			],
+			"date": "2016"
+		},
+		"railways": {
+			"total": {
+				"length": 5926,
+				"units": "km"
+			},
+			"broad_gauge": {
+				"length": 5926,
+				"electrified": 3270,
+				"units": "km\n1.524-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 32,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 454000,
+				"units": "km"
+			},
+			"highways": {
+				"value": 78000,
+				"units": "km",
+				"note": "50,000 paved, including 700 km of expressways; 28,000 unpaved"
+			},
+			"private_and_forest_roads": {
+				"value": 350000,
+				"units": "km"
+			},
+			"urban": {
+				"value": 26000,
+				"units": "km"
+			},
+			"global_rank": 16,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 8000,
+			"units": "km",
+			"note": "includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km",
+			"global_rank": 17,
+			"date": "2013"
+		},
+		"merchant_marine": {
+			"total": 269,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 8
+				},
+				{
+					"type": "container ship",
+					"count": 1
+				},
+				{
+					"type": "general cargo",
+					"count": 79
+				},
+				{
+					"type": "oil tanker",
+					"count": 4
+				},
+				{
+					"type": "other",
+					"count": 177
+				}
+			],
+			"global_rank": 56,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Helsinki",
+				"Kotka",
+				"Naantali",
+				"Porvoo",
+				"Raahe",
+				"Rauma"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 80
+		},
+		"service_age_and_obligation": {
+			"note": "at age 18, all Finnish men are obligated to serve 6-12 months of service within a branch of the military or the Border Guard, and women may volunteer for service; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 60",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 8862,
+						"country_of_origin": "Iraq"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 2801,
+				"date": "2019"
+			}
+		}
+	}
+}

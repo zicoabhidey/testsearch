@@ -1,0 +1,1578 @@
+{
+	"name": "Turkmenistan",
+	"introduction": {
+		"background": "Present-day Turkmenistan covers territory that has been at the crossroads of civilizations for centuries. The area was ruled in antiquity by various Persian empires, and was conquered by Alexander the Great, Muslim armies, the Mongols, Turkic warriors, and eventually the Russians. In medieval times, Merv (located in present-day Mary province) was one of the great cities of the Islamic world and an important stop on the Silk Road. Annexed by Russia in the late 1800s, Turkmenistan later figured prominently in the anti-Bolshevik movement in Central Asia. In 1924, Turkmenistan became a Soviet republic; it achieved independence upon the dissolution of the USSR in 1991. President for Life Saparmyrat NYYAZOW died in December 2006, and Gurbanguly BERDIMUHAMEDOW, a deputy chairman under NYYAZOW, emerged as the country's new president. BERDIMUHAMEDOW won Turkmenistan's first multi-candidate presidential election in February 2007, and again in 2012 and in 2017 with over 97% of the vote in both instances, in elections widely regarded as undemocratic.\nTurkmenistan has sought new export markets for its extensive hydrocarbon/natural gas reserves, which have yet to be fully exploited. As of late 2019, Turkmenistan exported the majority of its gas to China and small levels of gas were also being sent to Russia. Turkmenistan's reliance on gas exports has made the economy vulnerable to fluctuations in the global energy market, and economic hardships since the drop in energy prices in 2014 have led many Turkmenistanis to emigrate, mostly to Turkey."
+	},
+	"geography": {
+		"location": "Central Asia, bordering the Caspian Sea, between Iran and Kazakhstan",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 40,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 60,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 488100,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 469930,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 18170,
+				"units": "sq km"
+			},
+			"global_rank": 54,
+			"comparative": "slightly more than three times the size of Georgia; slightly larger than California"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4158,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Afghanistan",
+					"border_length": {
+						"value": 804,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Iran",
+					"border_length": {
+						"value": 1148,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kazakhstan",
+					"border_length": {
+						"value": 413,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uzbekistan",
+					"border_length": {
+						"value": 1793,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked; note - Turkmenistan borders the Caspian Sea 1,768 km"
+		},
+		"climate": "subtropical desert",
+		"terrain": "flat-to-rolling sandy desert with dunes rising to mountains in the south; low mountains along border with Iran; borders Caspian Sea in west",
+		"elevation": {
+			"mean_elevation": {
+				"value": 230,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Vpadina Akchanaya (Sarygamysh Koli is a lake in northern Turkmenistan with a water level that fluctuates above and below the elevation of Vpadina Akchanaya, the lake has dropped as low as",
+				"elevation": {
+					"value": -110
+				},
+				"note": "m) -81 m"
+			},
+			"highest_point": {
+				"name": "Gora Ayribaba",
+				"elevation": {
+					"value": 3139,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"sulfur",
+				"salt"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 72,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 4.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 67.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 8.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 19.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 19950,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat",
+		"natural_hazards": [
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "mudslides",
+				"type": "hazard"
+			},
+			{
+				"description": "droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "dust storms",
+				"type": "hazard"
+			},
+			{
+				"description": "floods",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"contamination of soil and groundwater with agricultural chemicals",
+				"pesticides",
+				"salination",
+				"water logging of soil due to poor irrigation methods",
+				"Caspian Sea pollution",
+				"diversion of a large share of the flow of the Amu Darya into irrigation contributes to that river's inability to replenish the Aral Sea",
+				"soil erosion",
+				"desertification"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5528627,
+			"global_rank": 117,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Turkmenistani(s)",
+			"adjective": "Turkmenistani"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Turkmen",
+					"percent": 85
+				},
+				{
+					"name": "Uzbek",
+					"percent": 5
+				},
+				{
+					"name": "Russian",
+					"percent": 4
+				},
+				{
+					"name": "other",
+					"percent": 6
+				}
+			],
+			"date": "2003"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Turkmen",
+					"percent": 72,
+					"note": "official"
+				},
+				{
+					"name": "Russian",
+					"percent": 12
+				},
+				{
+					"name": "Uzbek",
+					"percent": 9
+				},
+				{
+					"name": "other",
+					"percent": 7
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 89
+				},
+				{
+					"name": "Eastern Orthodox",
+					"percent": 9
+				},
+				{
+					"name": "unknown",
+					"percent": 2
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 25.44,
+				"males": 713441,
+				"females": 693042
+			},
+			"15_to_24": {
+				"percent": 16.48,
+				"males": 458566,
+				"females": 452469
+			},
+			"25_to_54": {
+				"percent": 44.14,
+				"males": 1214581,
+				"females": 1226027
+			},
+			"55_to_64": {
+				"percent": 8.56,
+				"males": 221935,
+				"females": 251238
+			},
+			"65_and_over": {
+				"percent": 5.38,
+				"males": 129332,
+				"females": 167996
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 47.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 29.7,
+				"units": "years"
+			},
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.06,
+			"global_rank": 100,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.3,
+			"global_rank": 86,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.1,
+			"global_rank": 162,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.7,
+			"global_rank": 161,
+			"date": "2020"
+		},
+		"population_distribution": "the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat",
+		"urbanization": {
+			"urban_population": {
+				"value": 52.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.46,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Ashgabat",
+					"population": 846000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.88,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 7,
+			"global_rank": 157,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 30.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 37.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 24.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 53,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 71.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 68.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 74.5,
+				"units": "years"
+			},
+			"global_rank": 162,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.04,
+			"global_rank": 108,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 50.2,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.22,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 18.6,
+			"global_rank": 117,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 3.2,
+			"global_rank": 98,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.1,
+			"global_rank": 138,
+			"date": "2012"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.6,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2019"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Turkmenistan",
+			"local_long_form": "none",
+			"local_short_form": "Turkmenistan",
+			"former": "Turkmen Soviet Socialist Republic",
+			"etymology": "the suffix \"-stan\" means \"place of\" or \"country,\" so Turkmenistan literally means the \"Land of the Turkmen [people]\""
+		},
+		"government_type": "presidential republic; authoritarian",
+		"capital": {
+			"name": "Ashgabat (Ashkhabad)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 37,
+					"minutes": 57,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 58,
+					"minutes": 23,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 5,
+				"note": "10 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "derived from the Persian words \"eshq\" meaning \"love\" and \"abad\" meaning \"inhabited place\" or \"city,\" and so loosely translates as \"the city of love\""
+		},
+		"independence": {
+			"date": "1991-10-27",
+			"note": "from the Soviet Union"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "27 October",
+				"original_year": "1991"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 14 September 2016",
+			"amendments": "proposed by the National Assembly; passage requires two-thirds majority vote of the total Assembly membership or absolute majority approval in a referendum; amended 2017"
+		},
+		"legal_system": "civil law system with Islamic (sharia) law influences",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Turkmenistan",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007); note - the president is both chief of state and head of government",
+			"head_of_government": "President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)",
+			"cabinet": "Cabinet of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 February 2017 (next to be held in February 2024)",
+			"election_results": "Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Mejlis (125 seats; members directly elected from single-seat constituencies by absolute majority vote; members serve 5-year terms)",
+			"elections": "last held on 25 March 2018, although interim elections are held on an ad hoc basis to fill vacant sets",
+			"election_results": "percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)",
+			"judge_selection_and_term_of_office": "judges appointed by the president for 5-year terms",
+			"subordinate_courts": "High Commercial Court; appellate courts; provincial, district, and city courts; military courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Agrarian Party of Turkmenistan",
+					"name_alternative": "APT",
+					"leaders": [
+						"Basim ANNAGURBANOW"
+					]
+				},
+				{
+					"name": "Democratic Party of Turkmenistan",
+					"name_alternative": "DPT",
+					"leaders": [
+						"Ata SERDAROW"
+					]
+				},
+				{
+					"name": "Party of Industrialists and Entrepreneurs",
+					"name_alternative": "PIE",
+					"leaders": [
+						"Saparmyrat OWGANOW"
+					]
+				}
+			],
+			"note": "all of these parties support President BERDIMUHAMEDOW; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "CIS "
+			},
+			{
+				"organization": "has not ratified the 1993 CIS charter although it participates in meetings and held the chairmanship of the CIS in 2012",
+				"note": ""
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECO"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Meret ORAZOW (since 14 February 2001)",
+				"chancery": "2207 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 588-1500",
+				"fax": "[1] (202) 588-0697"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Matthew S. KLIMOW (since 26 June 2019)",
+				"telephone": "[993] (12) 94-00-45",
+				"embassy": "No. 9 1984 Street (formerly Pushkin Street), Ashgabat 744000",
+				"mailing_address": "7070 Ashgabat Place, Washington, DC 20521-7070",
+				"fax": "[993] (12) 94-26-14"
+			}
+		},
+		"flag_description": {
+			"description": "green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life",
+			"note": "the flag of Turkmenistan is the most intricate of all national flags"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Akhal-Teke horse"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Garassyz, Bitarap Turkmenistanyn\" (Independent, Neutral, Turkmenistan State Anthem)",
+			"lyrics_music": "collective/Veli MUKHATOV",
+			"note": "adopted 1997, lyrics revised in 2008, to eliminate references to deceased President Saparmurat NYYAZOW",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TX.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and significant natural gas and oil resources. The two largest crops are cotton, most of which is produced for export, and wheat, which is domestically consumed. Although agriculture accounts for almost 8% of GDP, it continues to employ nearly half of the country's workforce. Hydrocarbon exports, the bulk of which is natural gas going to China, make up 25% of Turkmenistan’s GDP. Ashgabat has explored two initiatives to bring gas to new markets: a trans-Caspian pipeline that would carry gas to Europe and the Turkmenistan-Afghanistan-Pakistan-India gas pipeline. Both face major financing, political, and security hurdles and are unlikely to be completed soon.\nTurkmenistan’s autocratic governments under presidents NIYAZOW (1991-2006) and BERDIMUHAMEDOW (since 2007) have made little progress improving the business climate, privatizing state-owned industries, combatting corruption, and limiting economic development outside the energy sector. High energy prices in the mid-2000s allowed the government to undertake extensive development and social spending, including providing heavy utility subsidies.\nLow energy prices since mid-2014 are hampering Turkmenistan’s economic growth and reducing government revenues. The government has cut subsidies in several areas, and wage arrears have increased. In January 2014, the Central Bank of Turkmenistan devalued the manat by 19%, and downward pressure on the currency continues. There is a widening spread between the official exchange rate (3.5 TMM per US dollar) and the black market exchange rate (approximately 14 TMM per US dollar). Currency depreciation and conversion restrictions, corruption, isolationist policies, and declining spending on public services have resulted in a stagnate economy that is nearing crisis. Turkmenistan claims substantial foreign currency reserves, but non-transparent data limit international institutions’ ability to verify this information.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 103700000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 97410000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 91720000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 84,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 37930000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 6.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6.5,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 24
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 18200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 17300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 97,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 50,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 10,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 28.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 26.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -14.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 7.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 44.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 47.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 23.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 18.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 70
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"grain",
+				"melons",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"natural gas",
+				"oil",
+				"petroleum products",
+				"textiles",
+				"food processing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1,
+			"global_rank": 160,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2305000,
+				"global_rank": 115,
+				"date": "2013"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 48.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 14,
+						"units": "%"
+					},
+					"services": {
+						"value": 37.8,
+						"units": "%"
+					}
+				},
+				"date": "2004"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 10.6,
+					"units": "%",
+					"date": "2013"
+				}
+			],
+			"global_rank": 155
+		},
+		"population_below_poverty_line": {
+			"value": 0.2,
+			"units": "%",
+			"date": "2012"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31.7,
+				"units": "%"
+			},
+			"date": "1998"
+		},
+		"budget": {
+			"revenues": {
+				"value": 5657000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 6714000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 14.9,
+			"global_rank": 197,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.8,
+			"global_rank": 126,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 167
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 198
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -4359000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -7207000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 182
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 7458000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6987000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 99
+			},
+			"commodities": {
+				"by_commodity": [
+					"gas",
+					"crude oil",
+					"petrochemicals",
+					"textiles",
+					"cotton fiber"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 83.7
+					},
+					{
+						"name": "Turkey",
+						"percent": 5.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4571000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5215000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 135
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"chemicals",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Turkey",
+						"percent": 24.2
+					},
+					{
+						"name": "Algeria",
+						"percent": 14.4
+					},
+					{
+						"name": "Germany",
+						"percent": 9.8
+					},
+					{
+						"name": "China",
+						"percent": 8.9
+					},
+					{
+						"name": "Russia",
+						"percent": 8
+					},
+					{
+						"name": "US",
+						"percent": 6.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 24910000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 25050000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 56
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 539400000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 425300000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 176
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 4.125,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.5,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.5,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.5,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.85,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Turkmenistani manat (TMM) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 21180000000,
+				"global_rank": 74,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 15090000000,
+				"global_rank": 80,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 3201000000,
+				"global_rank": 41,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 212,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 4001000.0000000005,
+				"global_rank": 88,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 20,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 200,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 207,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 210,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 244000,
+				"global_rank": 32,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 67790,
+				"global_rank": 38,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 206,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 600000000,
+				"global_rank": 43,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 191100,
+				"global_rank": 52,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 160000,
+				"global_rank": 63,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 53780,
+				"global_rank": 53,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 214,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 77450000000,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 39310000000,
+				"global_rank": 27,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 38140000000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 203,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 7504000000000,
+				"global_rank": 5,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 100500000,
+			"global_rank": 44,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 648223,
+				"subscriptions_per_one_hundred_inhabitants": 11.85,
+				"global_rank": 87,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 8908821,
+				"subscriptions_per_one_hundred_inhabitants": 162.86,
+				"global_rank": 93,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "broadcast media is government controlled and censored; 7 state-owned TV and 4 state-owned radio networks; satellite dishes and programming provide an alternative to the state-run media; officials sometimes limit access to satellite TV by removing satellite dishes",
+		"internet": {
+			"country_code": ".tm",
+			"users": {
+				"total": 1149840,
+				"percent_of_population": 21.25,
+				"global_rank": 135,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 27,
+				"annual_passenger_traffic_on_registered_air_carriers": 2457474,
+				"annual_freight_traffic_on_registered_air_carriers": 16920000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "EZ",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 26,
+					"global_rank": 126,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 21,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 9,
+					"1524_to_2437_metres": 9,
+					"914_to_1523_metres": 2,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 5,
+					"1524_to_2437_metres": 1,
+					"under_914_metres": 4,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 7500,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 1501,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 5113,
+				"units": "km"
+			},
+			"broad_gauge": {
+				"length": 5113,
+				"units": "km\n1.520-m"
+			},
+			"global_rank": 38,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 58592,
+				"units": "km"
+			},
+			"paved": {
+				"value": 47577,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 11015,
+				"units": "km"
+			},
+			"global_rank": 78,
+			"date": "2002"
+		},
+		"waterways": {
+			"value": 1300,
+			"units": "km",
+			"note": "Amu Darya River and Kara Kum Canal are important inland waterways",
+			"global_rank": 55,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 71,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 6
+				},
+				{
+					"type": "oil tanker",
+					"count": 8
+				},
+				{
+					"type": "other",
+					"count": 57
+				}
+			],
+			"global_rank": 102,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Caspian Sea - Turkmenbasy"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-27 years of age for compulsory male military service; 2-year conscript service obligation; 20 years of age for voluntary service; males may enroll in military schools from age 15",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"cotton monoculture in Uzbekistan and Turkmenistan creates water-sharing difficulties for Amu Darya river states",
+			"field demarcation of the boundaries with Kazakhstan commenced in 2005",
+			"bilateral talks continue with Azerbaijan on dividing the seabed and contested oilfields in the middle of the Caspian"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 3688,
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Turkmenistan is a source country for men, women, and children subjected to forced labor and sex trafficking; Turkmenistanis who migrate abroad are forced to work in the textile, agriculture, construction, and domestic service industries, while women and girls may also be sex trafficked; in 2014, men surpassed women as victims; Turkey and Russia are primary trafficking destinations, followed by the Middle East, South and Central Asia, and other parts of Europe; Turkmenistanis also experience forced labor domestically in the informal construction industry; participation in the cotton harvest is still mandatory for some public sector employees",
+			"tier_rating": "Tier 2 Watch List – Turkmenistan does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Turkmenistan was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government made some progress in its law enforcement efforts in 2014, convicting more offenders than in 2013; authorities did not make adequate efforts to identify and protect victims and did not fund international organizations or NGOs that offered protective services; some victims were punished for crimes as a result of being trafficked (2015)"
+		},
+		"illicit_drugs": {
+			"note": "transit country for Afghan narcotics bound for Russian and Western European markets; transit point for heroin precursor chemicals bound for Afghanistan"
+		}
+	}
+}

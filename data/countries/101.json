@@ -1,0 +1,1789 @@
+{
+	"name": "Guyana",
+	"introduction": {
+		"background": "Originally a Dutch colony in the 17th century, by 1815 Guyana had become a British possession. The abolition of slavery led to settlement of urban areas by former slaves and the importation of indentured servants from India to work the sugar plantations. The resulting ethnocultural divide has persisted and has led to turbulent politics. Guyana achieved independence from the UK in 1966, and since then it has been ruled mostly by socialist-oriented governments. In 1992, Cheddi JAGAN was elected president in what is considered the country's first free and fair election since independence. After his death five years later, his wife, Janet JAGAN, became president but resigned in 1999 due to poor health. Her successor, Bharrat JAGDEO, was elected in 2001 and again in 2006. Early elections held in May 2015 resulted in the first change in governing party and the replacement of President Donald RAMOTAR by current President David GRANGER. After a December 2018 no-confidence vote against the GRANGER government, national elections will be held before the scheduled spring 2020 date."
+	},
+	"geography": {
+		"location": "Northern South America, bordering the North Atlantic Ocean, between Suriname and Venezuela",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 5,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 59,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 214969,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 196849,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 18120,
+				"units": "sq km"
+			},
+			"global_rank": 86,
+			"comparative": "slightly smaller than Idaho; almost twice the size of Tennessee"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2933,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Brazil",
+					"border_length": {
+						"value": 1308,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Suriname",
+					"border_length": {
+						"value": 836,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Venezuela",
+					"border_length": {
+						"value": 789,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 459,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the outer edge of the continental margin"
+			}
+		},
+		"climate": "tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)",
+		"terrain": "mostly rolling highlands; low coastal plain; savanna in south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 207,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Laberintos del Norte on Mount Roraima",
+				"elevation": {
+					"value": 2775,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"bauxite",
+				"gold",
+				"diamonds",
+				"hardwood timber",
+				"shrimp",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 8.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 6.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 77.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 14.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 1430,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "flash flood threat during rainy seasons",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution from sewage and agricultural and industrial chemicals",
+				"deforestation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 750204,
+			"global_rank": 166,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Guyanese (singular and plural)",
+			"adjective": "Guyanese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "East Indian",
+					"percent": 39.8
+				},
+				{
+					"name": "African descent",
+					"percent": 29.3
+				},
+				{
+					"name": "mixed",
+					"percent": 19.9
+				},
+				{
+					"name": "Amerindian",
+					"percent": 10.5
+				},
+				{
+					"name": "other",
+					"percent": 0.5,
+					"note": "includes Portuguese, Chinese, white"
+				}
+			],
+			"date": "2012"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Guyanese Creole"
+				},
+				{
+					"name": "Amerindian languages",
+					"note": "including Caribbean and Arawak languages"
+				},
+				{
+					"name": "Indian languages",
+					"note": "including Caribbean Hindustani, a dialect of Hindi"
+				},
+				{
+					"name": "Chinese"
+				}
+			],
+			"date": "2014"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 34.8,
+					"breakdown": [
+						{
+							"name": "Pentecostal",
+							"percent": 22.8
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 5.4
+						},
+						{
+							"name": "Anglican",
+							"percent": 5.2
+						},
+						{
+							"name": "Methodist",
+							"percent": 1.4
+						}
+					]
+				},
+				{
+					"name": "Hindu",
+					"percent": 24.8
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 7.1
+				},
+				{
+					"name": "Muslim",
+					"percent": 6.8
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.3
+				},
+				{
+					"name": "Rastafarian",
+					"percent": 0.5
+				},
+				{
+					"name": "other Christian",
+					"percent": 20.8
+				},
+				{
+					"name": "other",
+					"percent": 0.9
+				},
+				{
+					"name": "none",
+					"percent": 3.1
+				}
+			],
+			"date": "2012"
+		},
+		"demographic_profile": "Guyana is the only English-speaking country in South America and shares cultural and historical bonds with the Anglophone Caribbean. Guyana's two largest ethnic groups are the Afro-Guyanese (descendants of African slaves) and the Indo-Guyanese (descendants of Indian indentured laborers), which together comprise about three quarters of Guyana's population. Tensions periodically have boiled over between the two groups, which back ethnically based political parties and vote along ethnic lines. Poverty reduction has stagnated since the late 1990s. About one-third of the Guyanese population lives below the poverty line; indigenous people are disproportionately affected. Although Guyana's literacy rate is reported to be among the highest in the Western Hemisphere, the level of functional literacy is considerably lower, which has been attributed to poor education quality, teacher training, and infrastructure.\nGuyana's emigration rate is among the highest in the world - more than 55% of its citizens reside abroad - and it is one of the largest recipients of remittances relative to GDP among Latin American and Caribbean counties. Although remittances are a vital source of income for most citizens, the pervasive emigration of skilled workers deprives Guyana of professionals in healthcare and other key sectors. More than 80% of Guyanese nationals with tertiary level educations have emigrated. Brain drain and the concentration of limited medical resources in Georgetown hamper Guyana's ability to meet the health needs of its predominantly rural population. Guyana has one of the highest HIV prevalence rates in the region and continues to rely on international support for its HIV treatment and prevention programs.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 23.91,
+				"males": 91317,
+				"females": 88025
+			},
+			"15_to_24": {
+				"percent": 21.23,
+				"males": 81294,
+				"females": 77987
+			},
+			"25_to_54": {
+				"percent": 39.48,
+				"males": 154825,
+				"females": 141385
+			},
+			"55_to_64": {
+				"percent": 8.37,
+				"males": 29385,
+				"females": 33386
+			},
+			"65_and_over": {
+				"percent": 7.01,
+				"males": 21325,
+				"females": 31275
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 42.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 10.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 9.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 27.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 27.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 27.9,
+				"units": "years"
+			},
+			"global_rank": 146,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.72,
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 15.5,
+			"global_rank": 113,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.5,
+			"global_rank": 103,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 84,
+			"date": "2020"
+		},
+		"population_distribution": "population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 26.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.83,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Georgetown",
+					"population": 110000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.88,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.68,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.02,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 20.8,
+			"date": "2009"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 667,
+			"global_rank": 9,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 27.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 31.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 23.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 64,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 69.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 66.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 72.6,
+				"units": "years"
+			},
+			"global_rank": 168,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.89,
+			"global_rank": 131,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 33.9,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.8,
+			"date": "2018"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.7,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 95.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 38.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 26.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 97.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 95.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 4.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.4,
+				"global_rank": 33,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 8700,
+				"global_rank": 109,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.2,
+			"global_rank": 103,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 8.2,
+			"global_rank": 70,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.3,
+			"global_rank": 25,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over has ever attended school",
+			"total_population": {
+				"value": 88.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 87.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 89.8,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2012"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 21.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 17.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 27.7,
+				"units": "%"
+			},
+			"global_rank": 58,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Cooperative Republic of Guyana",
+			"conventional_short_form": "Guyana",
+			"former": "British Guiana",
+			"etymology": "the name is derived from Guiana, the original name for the region that included British Guiana, Dutch Guiana, and French Guiana; ultimately the word is derived from an indigenous Amerindian language and means \"Land of Many Waters\" (referring to the area's multitude of rivers and streams)"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Georgetown",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 6,
+					"minutes": 48,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 58,
+					"minutes": 9,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "when the British took possession of the town from the Dutch in 1812, they renamed it Georgetown in honor of King George III (1738-1820)"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Barima-Waini",
+				"type": ""
+			},
+			{
+				"name": "Cuyuni-Mazaruni",
+				"type": ""
+			},
+			{
+				"name": "Demerara-Mahaica",
+				"type": ""
+			},
+			{
+				"name": "East Berbice-Corentyne",
+				"type": ""
+			},
+			{
+				"name": "Essequibo Islands-West Demerara",
+				"type": ""
+			},
+			{
+				"name": "Mahaica-Berbice",
+				"type": ""
+			},
+			{
+				"name": "Pomeroon-Supenaam",
+				"type": ""
+			},
+			{
+				"name": "Potaro-Siparuni",
+				"type": ""
+			},
+			{
+				"name": "Upper Demerara-Berbice",
+				"type": ""
+			},
+			{
+				"name": "Upper Takutu-Upper Essequibo",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1966-05-26",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Republic Day",
+				"day": "23 February",
+				"original_year": "1970"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest promulgated 6 October 1980",
+			"amendments": "proposed by the National Assembly; passage of amendments affecting constitutional articles, such as national sovereignty, government structure and powers, and constitutional amendment procedures, requires approval by the Assembly membership, approval in a referendum, and assent of the president; other amendments only require Assembly approval; amended many times, last in 2016"
+		},
+		"legal_system": "common law system, based on the English model, with some Roman-Dutch civil law influence",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "na"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 20 May 2015); Vice Presidents Bharrat JAGDEO (since 20 May 2015), Sydney ALLICOCK (since 2 August 2020), Khemraj RAMJATTAN (since 2 August 2020); Prime Minister Mark PHILLIPS (since 2 August 2020); note - the president is both chief of state and head of government",
+			"head_of_government": "President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 20 May 2015); Vice Presidents Bharrat JAGDEO (since 20 May 2015), Sydney ALLICOCK (since 2 August 2020), Khemraj RAMJATTAN (since 2 August 2020)",
+			"cabinet": "Cabinet of Ministers appointed by the president, responsible to the National Assembly",
+			"elections_appointments": "the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 2 March 2020 (next to be held in 2025); prime minister appointed by the president",
+			"election_results": "Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed list proportional representation vote; members serve 5-year terms)",
+			"elections": "last held on 2 March 2020 (next to be held in 2025)",
+			"election_results": "percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 22, percent of women 33.8%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "Court of Appeal and High Court chief justices appointed by the president; other judges of both courts appointed by the Judicial Service Commission, a body appointed by the president; judges appointed for life with retirement at age 65",
+			"subordinate_courts": "Land Court; magistrates' courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "A New and United Guyana",
+					"name_alternative": "ANUG",
+					"leaders": [
+						"Ralph RAMKARRAN"
+					]
+				},
+				{
+					"name": "A Partnership for National Unity",
+					"name_alternative": "APNU",
+					"leaders": [
+						"David A. GRANGER"
+					]
+				},
+				{
+					"name": "Alliance for Change",
+					"name_alternative": "AFC",
+					"leaders": [
+						"Raphael TROTMAN"
+					]
+				},
+				{
+					"name": "Justice for All Party",
+					"leaders": [
+						"C.N. SHARMA"
+					]
+				},
+				{
+					"name": "Liberty and Justice Party",
+					"name_alternative": "LJP",
+					"leaders": [
+						"Lenox SHUMAN"
+					]
+				},
+				{
+					"name": "National Independent Party",
+					"name_alternative": "NIP",
+					"leaders": [
+						"Saphier Husain SUBEDAR"
+					]
+				},
+				{
+					"name": "People's Progressive Party/Civic",
+					"name_alternative": "PPP/C",
+					"leaders": [
+						"Bharrat JAGDEO"
+					]
+				},
+				{
+					"name": "The New Movement",
+					"name_alternative": "TNM",
+					"leaders": [
+						"joint leadership of several medical doctors"
+					]
+				},
+				{
+					"name": "The United Force",
+					"name_alternative": "TUF",
+					"leaders": [
+						"Manzoor NADIR"
+					]
+				},
+				{
+					"name": "United Republican Party",
+					"name_alternative": "URP",
+					"leaders": [
+						"Vishnu BANDHU"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Riyad David INSANALLY (since 16 Sept 2016)",
+				"chancery": "2490 Tracy Place NW, Washington, DC 20008",
+				"telephone": "[1] (202) 265-6900",
+				"fax": "[1] (202) 232-1297",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Sarah-Ann LYNCH (since 13 March 2019)",
+				"telephone": "[592] 225-4900 through 4909",
+				"embassy": "US Embassy, 100 Young and Duke Streets, Kingston, Georgetown",
+				"mailing_address": "P. O. Box 10507, Georgetown; US Embassy, 3170 Georgetown Place, Washington DC 20521-3170",
+				"fax": "[592] 225-8497"
+			}
+		},
+		"flag_description": {
+			"description": "green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana's rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance; also referred to by its nickname The Golden Arrowhead"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Canje pheasant ",
+					"note": "hoatzin"
+				},
+				{
+					"symbol": "jaguar"
+				},
+				{
+					"symbol": "Victoria Regia water lily"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Dear Land of Guyana, of Rivers and Plains",
+			"lyrics_music": "Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER",
+			"note": "adopted 1966",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/GY.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Guyana closed or consolidated several sugar estates in 2017, reducing production of sugar to a forecasted 147,000 tons in 2018, less than half of 2017 production. Much of Guyana's growth in recent years has come from a surge in gold production. With a record-breaking 700,000 ounces of gold produced in 2016, Gold production in Guyana has offset the economic effects of declining sugar production. In January 2018, estimated 3.2 billion barrels of oil were found offshore and Guyana is scheduled to become a petroleum producer by March 2020.\nGuyana's entrance into the Caricom Single Market and Economy in January 2006 broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite these improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 52% in 2017. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Chronic problems include a shortage of skilled labor and a deficient infrastructure.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 6301000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6169000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5969000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 171,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 3561000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.1,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 146
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 7800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 151,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 71.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 25.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 47.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -63,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 15.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 15.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 69.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 10.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 8.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 161
+		},
+		"agriculture_products": {
+			"products": [
+				"sugarcane",
+				"rice",
+				"edible oils",
+				"beef",
+				"pork",
+				"poultry",
+				"shrimp",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"bauxite",
+				"sugar",
+				"rice milling",
+				"timber",
+				"textiles",
+				"gold mining"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -5,
+			"global_rank": 196,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 313800,
+				"global_rank": 162,
+				"date": "2013"
+			},
+			"by_occupation": {
+				"agriculture": "NA",
+				"industry": "NA",
+				"services": "NA"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11.1,
+					"units": "%",
+					"date": "2013"
+				},
+				{
+					"value": 11.3,
+					"units": "%",
+					"date": "2012"
+				}
+			],
+			"global_rank": 151
+		},
+		"population_below_poverty_line": {
+			"value": 35,
+			"units": "%",
+			"date": "2006"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 33.8,
+				"units": "%"
+			},
+			"date": "1999"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1002000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1164000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 28.1,
+			"global_rank": 96,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.5,
+			"global_rank": 165,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 52.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 50.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 95
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 105
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -237000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 13000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 100
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1439000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1380000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 149
+			},
+			"commodities": {
+				"by_commodity": [
+					"sugar",
+					"gold",
+					"bauxite",
+					"alumina",
+					"rice",
+					"shrimp",
+					"molasses",
+					"rum",
+					"timber"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Canada",
+						"percent": 24.9
+					},
+					{
+						"name": "US",
+						"percent": 16.5
+					},
+					{
+						"name": "Panama",
+						"percent": 9.6
+					},
+					{
+						"name": "UK",
+						"percent": 7.7
+					},
+					{
+						"name": "Jamaica",
+						"percent": 5.1
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1626000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1341000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 173
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactures",
+					"machinery",
+					"petroleum",
+					"food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 27.5
+					},
+					{
+						"name": "US",
+						"percent": 26.5
+					},
+					{
+						"name": "China",
+						"percent": 8.9
+					},
+					{
+						"name": "Suriname",
+						"percent": 6.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 565400000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 581000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 146
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1690000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1542000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 156
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 207,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 206.5,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 206.5,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 206.5,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 206.45,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Guyanese dollars (GYD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 84.2,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 90.2,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 81.9,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 1010000000,
+				"global_rank": 151,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 790100000,
+				"global_rank": 161,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 146,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 158,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 428000,
+				"global_rank": 151,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 89,
+					"global_rank": 57,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 105,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 177,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 11,
+					"global_rank": 78,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 147,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 135,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 139,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 143,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 155,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 14000,
+				"global_rank": 154,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 164,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 13720,
+				"global_rank": 140,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 144,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 157,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 119,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 137,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 145,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2131000,
+			"global_rank": 158,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 130497,
+				"subscriptions_per_one_hundred_inhabitants": 17.52,
+				"global_rank": 131,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 617998,
+				"subscriptions_per_one_hundred_inhabitants": 82.97,
+				"global_rank": 169,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "government-dominated broadcast media; the National Communications Network (NCN) TV is state-owned; a few private TV stations relay satellite services; the state owns and operates 2 radio stations broadcasting on multiple frequencies capable of reaching the entire country; government limits on licensing of new private radio stations has constrained competition in broadcast media",
+		"internet": {
+			"country_code": ".gy",
+			"users": {
+				"total": 276498,
+				"percent_of_population": 37.33,
+				"global_rank": 168,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "8R",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 117,
+					"global_rank": 48,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 11,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 8,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 106,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 16,
+					"under_914_metres": 89,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 3995,
+				"units": "km"
+			},
+			"paved": {
+				"value": 799,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3196,
+				"units": "km"
+			},
+			"global_rank": 155,
+			"date": "2019"
+		},
+		"waterways": {
+			"value": 330,
+			"units": "km",
+			"note": "the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively",
+			"global_rank": 91,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 56,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 28
+				},
+				{
+					"type": "oil tanker",
+					"count": 6
+				},
+				{
+					"type": "other",
+					"count": 22
+				}
+			],
+			"global_rank": 112,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Georgetown"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 65
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age or older for voluntary military service; no conscription",
+			"date": "2014"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary",
+			"Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters",
+			"Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Guyana is a source and destination country for men, women, and children subjected to sex trafficking and forced labor – children are particularly vulnerable; women and girls from Guyana, Venezuela, Suriname, Brazil, and the Dominican Republic are forced into prostitution in Guyana’s interior mining communities and urban areas; forced labor is reported in mining, agriculture, forestry, domestic service, and shops; Guyanese nationals are also trafficked to Suriname, Jamaica, and other Caribbean countries for sexual exploitation and forced labor",
+			"tier_rating": "Tier 2 Watch List – Guyana does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Guyana was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government released its anti-trafficking action plan in June 2014 but made uneven efforts to implement it; law enforcement was weak, investigating seven trafficking cases, prosecuting four alleged traffickers, and convicting one trafficker – a police officer – who was released on bail pending appeal; in 2014, as in previous years, Guyanese courts dismissed the majority of ongoing trafficking prosecutions; the government referred some victims to care services, which were provided by NGOs with little or no government support (2015)"
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for narcotics from South America - primarily Venezuela - to Europe and the US; producer of cannabis; rising money laundering related to drug trafficking and human smuggling"
+		}
+	}
+}

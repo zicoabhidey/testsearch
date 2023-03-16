@@ -1,0 +1,1865 @@
+{
+	"name": "Mali",
+	"introduction": {
+		"background": "Present-day Mali is named for the Mali Empire that at its peak in the 14th century covered an area about twice the size of modern-day France and stretched to the west coast of Africa. In the late 19th century, France seized control of Mali. The Sudanese Republic and Senegal became independent of France in 1960 as the Mali Federation. When Senegal withdrew after only a few months, what formerly made up the Sudanese Republic was renamed Mali. Rule by dictatorship was brought to a close in 1991 by a military coup that ushered in a period of democratic rule. President Alpha Oumar KONARE won Mali's first two democratic presidential elections in 1992 and 1997. In keeping with Mali's two-term constitutional limit, he stepped down in 2002 and was succeeded by Amadou Toumani TOURE, who was elected to a second term in a 2007 election that was widely judged to be free and fair. Malian returnees from Libya in 2011 exacerbated tensions in northern Mali, and Tuareg ethnic militias rebelled in January 2012. Low- and mid-level soldiers, frustrated with the poor handling of the rebellion, overthrew TOURE on 22 March. Intensive mediation efforts led by the Economic Community of West African States (ECOWAS) returned power to a civilian administration in April with the appointment of Interim President Dioncounda TRAORE.\nThe post-coup chaos led to rebels expelling the Malian military from the country's three northern regions and allowed Islamic militants to set up strongholds. Hundreds of thousands of northern Malians fled the violence to southern Mali and neighboring countries, exacerbating regional food shortages in host communities. A French-led international military intervention to retake the three northern regions began in January 2013 and within a month, most of the north had been retaken. In a democratic presidential election conducted in July and August of 2013, Ibrahim Boubacar KEITA was elected president. The Malian Government and northern armed groups signed an internationally mediated peace accord in June 2015, however, the parties to the peace accord have made little progress in the accord's implementation, despite a June 2017 target for its completion. Furthermore, extremist groups outside the peace process made steady inroads into rural areas of central Mali following the consolidation of three major terrorist organizations in March 2017. In central and northern Mali, terrorist groups have exploited age-old ethnic rivalries between pastoralists and sedentary communities and inflicted serious losses on the Malian military. Intercommunal violence incidents such as targeted killings occur with increasing regularity. KEITA was reelected president in 2018 in an election that was deemed credible by international observers, despite some security and logistic shortfalls."
+	},
+	"geography": {
+		"location": "interior Western Africa, southwest of Algeria, north of Guinea, Cote d'Ivoire, and Burkina Faso, west of Niger",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 17,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 4,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1240192,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1220190,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 20002,
+				"units": "sq km"
+			},
+			"global_rank": 25,
+			"comparative": "slightly less than twice the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 7908,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Algeria",
+					"border_length": {
+						"value": 1359,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Burkina Faso",
+					"border_length": {
+						"value": 1325,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Cote d'Ivoire",
+					"border_length": {
+						"value": 599,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guinea",
+					"border_length": {
+						"value": 1062,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mauritania",
+					"border_length": {
+						"value": 2236,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Niger",
+					"border_length": {
+						"value": 838,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Senegal",
+					"border_length": {
+						"value": 489,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)",
+		"terrain": "mostly flat to rolling northern plains covered by sand; savanna in south, rugged hills in northeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 343,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Senegal River",
+				"elevation": {
+					"value": 23,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Hombori Tondo",
+				"elevation": {
+					"value": 1155,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"gold",
+				"phosphates",
+				"kaolin",
+				"salt",
+				"limestone",
+				"uranium",
+				"gypsum",
+				"granite",
+				"hydropower",
+				"note",
+				"bauxite",
+				"iron ore",
+				"manganese",
+				"tin",
+				"copper deposits are known but not exploited"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 34.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 5.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 28.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 10.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 55.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 3780,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "hot, dust-laden harmattan haze common during dry seasons",
+				"type": "hazard"
+			},
+			{
+				"description": "recurring droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "occasional Niger River flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"soil erosion",
+				"desertification",
+				"loss of pasture land",
+				"inadequate supplies of potable water"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 19553397,
+			"global_rank": 62,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Malian(s)",
+			"adjective": "Malian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Bambara",
+					"percent": 33.3
+				},
+				{
+					"name": "Fulani",
+					"percent": 13.3,
+					"note": "Peuhl"
+				},
+				{
+					"name": "Sarakole/Soninke/Marka",
+					"percent": 9.8
+				},
+				{
+					"name": "Senufo/Manianka",
+					"percent": 9.6
+				},
+				{
+					"name": "Malinke",
+					"percent": 8.8
+				},
+				{
+					"name": "Dogon",
+					"percent": 8.7
+				},
+				{
+					"name": "Sonrai",
+					"percent": 5.9
+				},
+				{
+					"name": "Bobo",
+					"percent": 2.1
+				},
+				{
+					"name": "Tuareg/Bella",
+					"percent": 1.7
+				},
+				{
+					"name": "other Malian",
+					"percent": 6
+				},
+				{
+					"name": "from members of Economic Community of West Africa .4%"
+				},
+				{
+					"name": "other .3%"
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "Bambara",
+					"percent": 46.3
+				},
+				{
+					"name": "Peuhl/Foulfoulbe",
+					"percent": 9.4
+				},
+				{
+					"name": "Dogon",
+					"percent": 7.2
+				},
+				{
+					"name": "Maraka/Soninke",
+					"percent": 6.4
+				},
+				{
+					"name": "Malinke",
+					"percent": 5.6
+				},
+				{
+					"name": "Sonrhai/Djerma",
+					"percent": 5.6
+				},
+				{
+					"name": "Minianka",
+					"percent": 4.3
+				},
+				{
+					"name": "Tamacheq",
+					"percent": 3.5
+				},
+				{
+					"name": "Senoufo",
+					"percent": 2.6
+				},
+				{
+					"name": "Bobo",
+					"percent": 2.1
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.7
+				},
+				{
+					"name": "other",
+					"percent": 6.3
+				}
+			],
+			"note": "Mali has 13 national languages in addition to its official language",
+			"date": "2009"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 93.9
+				},
+				{
+					"name": "Christian",
+					"percent": 2.8
+				},
+				{
+					"name": "animist .7%"
+				},
+				{
+					"name": "none",
+					"percent": 2.5
+				}
+			],
+			"date": "2018"
+		},
+		"demographic_profile": "Mali’s total population is expected to double by 2035; its capital Bamako is one of the fastest-growing cities in Africa. A young age structure, a declining mortality rate, and a sustained high total fertility rate of 6 children per woman – the third highest in the world – ensure continued rapid population growth for the foreseeable future. Significant outmigration only marginally tempers this growth. Despite decreases, Mali’s infant, child, and maternal mortality rates remain among the highest in Sub-Saharan Africa because of limited access to and adoption of family planning, early childbearing, short birth intervals, the prevalence of female genital cutting, infrequent use of skilled birth attendants, and a lack of emergency obstetrical and neonatal care.\nMali’s high total fertility rate has been virtually unchanged for decades, as a result of the ongoing preference for large families, early childbearing, the lack of female education and empowerment, poverty, and extremely low contraceptive use. Slowing Mali’s population growth by lowering its birth rate will be essential for poverty reduction, improving food security, and developing human capital and the economy.\nMali has a long history of seasonal migration and emigration driven by poverty, conflict, demographic pressure, unemployment, food insecurity, and droughts. Many Malians from rural areas migrate during the dry period to nearby villages and towns to do odd jobs or to adjoining countries to work in agriculture or mining. Pastoralists and nomads move seasonally to southern Mali or nearby coastal states. Others migrate long term to Mali’s urban areas, Cote d’Ivoire, other neighboring countries, and in smaller numbers to France, Mali’s former colonial ruler. Since the early 1990s, Mali’s role has grown as a transit country for regional migration flows and illegal migration to Europe. Human smugglers and traffickers exploit the same regional routes used for moving contraband drugs, arms, and cigarettes.\nBetween early 2012 and 2013, renewed fighting in northern Mali between government forces and Tuareg secessionists and their Islamist allies, a French-led international military intervention, as well as chronic food shortages, caused the displacement of hundreds of thousands of Malians. Most of those displaced domestically sought shelter in urban areas of southern Mali, except for pastoralist and nomadic groups, who abandoned their traditional routes, gave away or sold their livestock, and dispersed into the deserts of northern Mali or crossed into neighboring countries. Almost all Malians who took refuge abroad (mostly Tuareg and Maure pastoralists) stayed in the region, largely in Mauritania, Niger, and Burkina Faso.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 47.69,
+				"males": 4689121,
+				"females": 4636685
+			},
+			"15_to_24": {
+				"percent": 19,
+				"males": 1768772,
+				"females": 1945582
+			},
+			"25_to_54": {
+				"percent": 26.61,
+				"males": 2395566,
+				"females": 2806830
+			},
+			"55_to_64": {
+				"percent": 3.68,
+				"males": 367710,
+				"females": 352170
+			},
+			"65_and_over": {
+				"percent": 3.02,
+				"males": 293560,
+				"females": 297401
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 98,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 93.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 4.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 20.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 15.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 16.7,
+				"units": "years"
+			},
+			"global_rank": 225,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.95,
+			"global_rank": 9,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 42.2,
+			"global_rank": 4,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9,
+			"global_rank": 63,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3.9,
+			"global_rank": 188,
+			"date": "2020"
+		},
+		"population_distribution": "the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 43.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.86,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bamako",
+					"population": 2618000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.91,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.99,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 18.9,
+			"date": "2018"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 562,
+			"global_rank": 15,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 64,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 69.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 58.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 9,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 61.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 59.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 63.9,
+				"units": "years"
+			},
+			"global_rank": 211,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 5.72,
+			"global_rank": 4,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 17.2,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.14,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.1,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 72.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 82.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 27.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 17.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 82.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 34.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 54.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 17.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 65.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 45.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.2,
+				"global_rank": 39,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 140000,
+				"global_rank": 38,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 5800,
+				"global_rank": 24,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 8.6,
+			"global_rank": 149,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 18.6,
+			"global_rank": 28,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.1,
+			"global_rank": 134,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 35.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 46.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 25.7,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 8,
+				"units": "years"
+			},
+			"male": {
+				"value": 8,
+				"units": "years"
+			},
+			"female": {
+				"value": 7,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 16.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 15.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 18.8,
+				"units": "%"
+			},
+			"global_rank": 79,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Mali",
+			"conventional_short_form": "Mali",
+			"local_long_form": "Republique de Mali",
+			"local_short_form": "Mali",
+			"former": "French Sudan and Sudanese Republic",
+			"etymology": "name derives from the West African Mali Empire of the 13th to 16th centuries A.D."
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Bamako",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 12,
+					"minutes": 39,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 8,
+					"minutes": 0,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name in the Bambara language can mean either \"crocodile tail\" or \"crocodile river\" and three crocodiles appear on the city seal"
+		},
+		"independence": {
+			"date": "1960-09-22",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "22 September",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest drafted August 1991, approved by referendum 12 January 1992, effective 25 February 1992, suspended briefly in 2012",
+			"amendments": "proposed by the president of the republic or by members of the National Assembly; passage requires two-thirds majority vote by the Assembly and approval in a referendum; constitutional sections on the integrity of the state, its republican and secular form of government, and its multiparty system cannot be amended; amended 1999"
+		},
+		"legal_system": "civil law system based on the French civil law model and influenced by customary law; judicial review of legislative acts in the Constitutional Court",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICC jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Mali",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President of transitional government, Bah NDAW (since 25 September 2020); vice president of the transitional government, Assimi GOITA (since 25 September 2020); former president Ibrahim Boubacar KEITA was deposed by the Malian military on 18 August 2020; on 21 September, a group of 17 electors chosen by the Malian military junta, called the National Committee for the Salvation of the People (NCSP), selected former Malian defense minister and chairman of the NCSP, Bah NDAW, as transitional president, and retired Malian Army Colonel Assimi GOITA as transitional vice president; the transitional government was inaugurated on 25 September 2020",
+			"head_of_government": "Prime Minister Moctar OUANE (appointed by the transitional government on 27 Sep 2020; former PM Boubou CISSE was removed on 18 August 2020 following the military coup)",
+			"cabinet": "Council of Ministers appointed by the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with a runoff on 12 August 2018; prime minister appointed by the president",
+			"election_results": "Ibrahim Boubacar KEITA elected president in second round; percent of vote - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)\nnote - the National Assembly was dissolved on 18 August 2020 following a military coup and the resignation of President KEITA",
+			"elections": "last held on 30 March and 19 April 2020 (prior to the August 2020 coup, the next election was scheduled to be held in 2025)",
+			"election_results": "percent of vote by party - NA; seats by party - NA composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sectons); Constitutional Court (consists of 9 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the Ministry of Justice to serve 5-year terms; Constitutional Court judges selected - 3 each by the president, the National Assembly, and the Supreme Council of the Magistracy; members serve single renewable 7-year terms",
+			"subordinate_courts": "Court of Appeal; High Court of Justice (jurisdiction limited to cases of high treason or criminal offenses by the president or ministers while in office); administrative courts (first instance and appeal); commercial courts; magistrate courts; labor courts; juvenile courts; special court of state security"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "African Solidarity for Democracy and Independence",
+					"name_alternative": "SADI",
+					"leaders": [
+						"Oumar MARIKO"
+					]
+				},
+				{
+					"name": "Alliance for Democracy in Mali-Pan-African Party for Liberty, Solidarity, Justice",
+					"name_alternative": "ADEMA-PASJ",
+					"leaders": [
+						"Tiemoko SANGARE"
+					]
+				},
+				{
+					"name": "Alliance for Democracy and Progress",
+					"name_alternative": "ADP-Maliba",
+					"leaders": [
+						"Amadou THIAM"
+					]
+				},
+				{
+					"name": "Alliance for the Solidarity of Mali-Convergence of Patriotic Forces",
+					"name_alternative": "ASMA-CFP",
+					"leaders": [
+						"Soumeylou Boubeye MAIGA"
+					]
+				},
+				{
+					"name": "Alternative Forces for Renewal and Emergence",
+					"name_alternative": "FARE",
+					"leaders": [
+						"Modibo SIDIBE"
+					]
+				},
+				{
+					"name": "Convergence for the Development of Mali",
+					"name_alternative": "CODEM",
+					"leaders": [
+						"Housseyni Amion GUINDO"
+					]
+				},
+				{
+					"name": "Democratic Alliance for Peace",
+					"name_alternative": "ADP-Maliba",
+					"leaders": [
+						"Aliou Boubacar DIALLO"
+					]
+				},
+				{
+					"name": "Economic and Social Development Party",
+					"name_alternative": "PDES",
+					"leaders": [
+						"Jamille BITTAR"
+					]
+				},
+				{
+					"name": "Front for Democracy and the Republic",
+					"name_alternative": "FDR",
+					"note": "coalition of smaller opposition parties"
+				},
+				{
+					"name": "National Congress for Democratic Initiative",
+					"name_alternative": "CNID",
+					"leaders": [
+						"Mountaga TALL"
+					]
+				},
+				{
+					"name": "Party for National Renewal",
+					"name_alternative": "PARENA",
+					"leaders": [
+						"Tiebile DRAME"
+					]
+				},
+				{
+					"name": "Patriotic Movement for Renewal",
+					"name_alternative": "MPR",
+					"leaders": [
+						"Choguel Kokalla MAIGA"
+					]
+				},
+				{
+					"name": "Rally for Mali",
+					"name_alternative": "RPM",
+					"leaders": [
+						"Boucary TRETA"
+					]
+				},
+				{
+					"name": "Union for Republic and Democracy",
+					"name_alternative": "URD",
+					"leaders": [
+						"Younoussi TOURE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "ECOWAS"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WADB ",
+				"note": "regional"
+			},
+			{
+				"organization": "WAEMU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mahamadou NIMAGA (since 22 June 2018)",
+				"chancery": "2130 R Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 332-2249, 939-8950",
+				"fax": "[1] (202) 332-6603"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Dennis B. HANKINS (since 15 March 2019)",
+				"telephone": "[223] 2070-2300",
+				"embassy": "ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of the Bamako central district), Porte 297, Bamako",
+				"mailing_address": "ACI 2000, Rue 243, Porte 297, Bamako",
+				"fax": "[223] 2070-2479"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of green (hoist side), yellow, and red",
+			"note": "uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Great Mosque of Djenne"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Le Mali\" (Mali)",
+			"lyrics_music": "Seydou Badian KOUYATE/Banzoumana SISSOKO",
+			"note": "adopted 1962; also known as \"Pour L'Afrique et pour toi, Mali\" (For Africa and for You, Mali) and \"A ton appel Mali\" (At Your Call, Mali)"
+		}
+	},
+	"economy": {
+		"overview": "Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.\nEconomic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.\nMali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 41220000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 39100000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 36970000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 117,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 15370000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 5.8,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6.2,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 35
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 206,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 82.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 19.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 22.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -41.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 41.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 18.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 40.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 16.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 15.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 126
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"millet",
+				"rice",
+				"corn",
+				"vegetables",
+				"peanuts",
+				"cattle",
+				"sheep",
+				"goats"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food processing",
+				"construction",
+				"phosphate",
+				"gold mining"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.3,
+			"global_rank": 37,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 6447000,
+				"global_rank": 69,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 80,
+						"units": "%"
+					},
+					"industry_and_services": {
+						"value": 20,
+						"units": "%"
+					}
+				},
+				"date": "2005"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 122
+		},
+		"population_below_poverty_line": {
+			"value": 36.1,
+			"units": "%",
+			"date": "2005"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.8,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 3075000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 3513000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20,
+			"global_rank": 153,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.9,
+			"global_rank": 128,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 35.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 36,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 150
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -1.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 94
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -886000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1014999999.9999999,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 141
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3060000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2803000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 129
+			},
+			"commodities": {
+				"by_commodity": [
+					"cotton",
+					"gold",
+					"livestock"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Switzerland",
+						"percent": 31.8
+					},
+					{
+						"name": "UAE",
+						"percent": 15.4
+					},
+					{
+						"name": "Burkina Faso",
+						"percent": 7.8
+					},
+					{
+						"name": "Cote d'Ivoire",
+						"percent": 7.3
+					},
+					{
+						"name": "South Africa",
+						"percent": 5
+					},
+					{
+						"name": "Bangladesh",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3644000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3403000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 142
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"machinery",
+					"equipment",
+					"construction materials",
+					"foodstuffs",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Senegal",
+						"percent": 24.4
+					},
+					{
+						"name": "China",
+						"percent": 13.2
+					},
+					{
+						"name": "Cote d'Ivoire",
+						"percent": 9
+					},
+					{
+						"name": "France",
+						"percent": 7.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 647800000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 395700000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 144
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 4192000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3981000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 137
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 605.3,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 591.45,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 494.42,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Communaute Financiere Africaine francs (XOF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 10000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 50,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 78,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 28,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 2489000000,
+				"global_rank": 136,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2982000000,
+				"global_rank": 136,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 166,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 800000000,
+				"global_rank": 73,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 590000,
+				"global_rank": 140,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 68,
+					"global_rank": 113,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 138,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 31,
+					"global_rank": 68,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 160,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 170,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 161,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 161,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 165,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 173,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 22000,
+				"global_rank": 134,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 178,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 20610,
+				"global_rank": 119,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 166,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 172,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 147,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 154,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 167,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 3388000,
+			"global_rank": 143,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 227831,
+				"subscriptions_per_one_hundred_inhabitants": 1.2,
+				"global_rank": 119,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 21850850,
+				"subscriptions_per_one_hundred_inhabitants": 115.09,
+				"global_rank": 55,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "national public TV broadcaster; 2 privately owned companies provide subscription services to foreign multi-channel TV packages; national public radio broadcaster supplemented by a large number of privately owned and community broadcast stations; transmissions of multiple international broadcasters are available (2019)",
+		"internet": {
+			"country_code": ".ml",
+			"users": {
+				"total": 2395886,
+				"percent_of_population": 13,
+				"global_rank": 111,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 0,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TZ, TT",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 25,
+					"global_rank": 127,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 8,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 4,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 17,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 9,
+					"under_914_metres": 5,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 593,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 593,
+				"units": "km\n1.000-m"
+			},
+			"global_rank": 110,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 139107,
+				"units": "km"
+			},
+			"global_rank": 38,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 1800,
+			"units": "km",
+			"note": "downstream of Koulikoro; low water levels on the River Niger cause problems in dry years; in the months before the rainy season the river is not navigable by commercial vessels",
+			"global_rank": 43,
+			"date": "2011"
+		},
+		"ports_and_terminals": {
+			"river_ports": [
+				"Koulikoro (Niger)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 34
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for selective compulsory and voluntary military service (men and women); 2-year conscript service obligation",
+			"date": "2014"
+		},
+		"note": "since 2017, the FAMa, along with other government security and paramilitary forces, has conducted multiple major operations against militants in the eastern, central, and northern parts of the country; up to 4,000 troops reportedly have been deployed; the stated objectives for the most recent operation (Operation Maliko in early 2020) was to end terrorist activity and restore government authority in seven of the country’s 10 regions, including Mopti, Ségou, Gao, Kidal, Ménaka, Taoudénit, and Timbuktu (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"demarcation is underway with Burkina Faso"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 16938,
+						"country_of_origin": "Niger"
+					},
+					{
+						"people": 15316,
+						"country_of_origin": "Mauritania"
+					},
+					{
+						"people": 12890,
+						"country_of_origin": "Burkina Faso"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 287496,
+				"note": "Tuareg rebellion since 2012",
+				"date": "2020"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Mali is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; internal trafficking is more prevalent than transnational trafficking, but foreign women and girls are forced into domestic servitude, agricultural labor, and support roles in gold mines, as well as subjected to sex trafficking; Malian boys are forced to work in agricultural settings, gold mines, the informal commercial sector and to beg within Mali and neighboring countries; Malians and other Africans who travel through Mali to Mauritania, Algeria, or Libya in hopes of reaching Europe are particularly at risk of becoming victims of human trafficking; men and boys, primarily of Songhai ethnicity, are subjected to debt bondage in the salt mines of Taoudenni in northern Mali; some members of Mali's Tamachek community are subjected to hereditary slavery-related practices; Malian women and girls are victims of sex trafficking in Gabon, Libya, Lebanon, and Tunisia; the recruitment of child soldiers by armed groups in northern Mali decreased",
+			"tier_rating": "Tier 2 Watch List - Mali does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Mali was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; officials failed to distribute the 2012 anti-trafficking law to judicial and law enforcement personnel, perpetuating a lack of understanding and awareness of the legislation; anti-trafficking law enforcement efforts decreased in 2014, with only one case investigated and no prosecutions or convictions; fewer victims were identified, and the government did not support the privately funded NGOs and international organizations it relied upon to provide victims with services; the government did not conduct any awareness-raising campaigns, workshops, or training sessions (2015)"
+		}
+	}
+}

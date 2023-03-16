@@ -1,0 +1,1523 @@
+{
+	"name": "Grenada",
+	"introduction": {
+		"background": "Carib Indians inhabited Grenada when Christopher COLUMBUS discovered the island in 1498, but it remained uncolonized for more than a century. The French settled Grenada in the 17th century, established sugar estates, and imported large numbers of African slaves. Britain took the island in 1762 and vigorously expanded sugar production. In the 19th century, cacao eventually surpassed sugar as the main export crop; in the 20th century, nutmeg became the leading export. In 1967, Britain gave Grenada autonomy over its internal affairs. Full independence was attained in 1974 making Grenada one of the smallest independent countries in the Western Hemisphere. In 1979, a leftist New Jewel Movement seized power under Maurice BISHOP ushering in the Grenada Revolution. On 19 October 1983, factions within the revolutionary government overthrew and killed BISHOP and members of his party. Six days later the island was invaded by US forces and those of six other Caribbean nations, which quickly captured the ringleaders and their hundreds of Cuban advisers. The rule of law was restored and democratic elections were reinstituted the following year and have continued since then."
+	},
+	"geography": {
+		"location": "Caribbean, island between the Caribbean Sea and Atlantic Ocean, north of Trinidad and Tobago",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 12,
+				"minutes": 7,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 61,
+				"minutes": 40,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 344,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 344,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 208,
+			"comparative": "twice the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 121,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; tempered by northeast trade winds",
+		"terrain": "volcanic in origin with central mountains",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Saint Catherine",
+				"elevation": {
+					"value": 840,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"tropical fruit"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 32.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 8.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 20.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 2.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 50,
+					"units": "%"
+				},
+				"other": {
+					"value": 17.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 20,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast",
+		"natural_hazards": [
+			{
+				"description": "lies on edge of hurricane belt",
+				"type": "hazard"
+			},
+			{
+				"description": "hurricane season lasts from June to November",
+				"type": "hazard"
+			},
+			{
+				"description": "Mount Saint Catherine (840 m) lies on the island of Grenada; Kick 'em Jenny, an active submarine volcano (seamount) on the Caribbean Sea floor, lies about 8 km north of the island of Grenada; these two volcanoes are at the southern end of the volcanic island arc of the Lesser Antilles that extends up to the Netherlands dependency of Saba in the north",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation causing habitat destruction and species loss",
+				"coastal erosion and contamination",
+				"pollution and sedimentation",
+				"inadequate solid waste management"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 113094,
+			"global_rank": 190,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Grenadian(s)",
+			"adjective": "Grenadian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "African descent",
+					"percent": 82.4
+				},
+				{
+					"name": "mixed",
+					"percent": 13.3
+				},
+				{
+					"name": "East Indian",
+					"percent": 2.2
+				},
+				{
+					"name": "other",
+					"percent": 1.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.9
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "French patois"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 49.2,
+					"breakdown": [
+						{
+							"name": "includes Pentecostal",
+							"percent": 17.2
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 13.2
+						},
+						{
+							"name": "Anglican",
+							"percent": 8.5
+						},
+						{
+							"name": "Baptist",
+							"percent": 3.2
+						},
+						{
+							"name": "Church of God",
+							"percent": 2.4
+						},
+						{
+							"name": "Evangelical",
+							"percent": 1.9
+						},
+						{
+							"name": "Methodist",
+							"percent": 1.6
+						},
+						{
+							"name": "other",
+							"percent": 1.2
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 36
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.2
+				},
+				{
+					"name": "Rastafarian",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 5.5
+				},
+				{
+					"name": "none",
+					"percent": 5.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.3
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 23.23,
+				"males": 13709,
+				"females": 12564
+			},
+			"15_to_24": {
+				"percent": 14.14,
+				"males": 8034,
+				"females": 7959
+			},
+			"25_to_54": {
+				"percent": 40.05,
+				"males": 23104,
+				"females": 22187
+			},
+			"55_to_64": {
+				"percent": 11.69,
+				"males": 6734,
+				"females": 6490
+			},
+			"65_and_over": {
+				"percent": 10.89,
+				"males": 5774,
+				"females": 6539
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 50.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 35.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 14.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 6.8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 33.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 33.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 33.4,
+				"units": "years"
+			},
+			"global_rank": 99,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.38,
+			"global_rank": 164,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.6,
+			"global_rank": 125,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.3,
+			"global_rank": 78,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -2.6,
+			"global_rank": 171,
+			"date": "2020"
+		},
+		"population_distribution": "approximately one-third of the population is found in the capital of St. George's; the island's population is concentrated along the coast",
+		"urbanization": {
+			"urban_population": {
+				"value": 36.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.76,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Saint George'S",
+					"population": 39000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.88,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.03,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 25,
+			"global_rank": 122,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 8.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 8.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 141,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.1,
+				"units": "years"
+			},
+			"global_rank": 119,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.96,
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.41,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 96.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 3.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 93.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 6.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.5,
+				"global_rank": 69,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 500,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.3,
+			"global_rank": 90,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.2,
+			"global_rank": 131,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 98.6,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 19,
+				"units": "years"
+			},
+			"male": {
+				"value": 18,
+				"units": "years"
+			},
+			"female": {
+				"value": 19,
+				"units": "years"
+			},
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Grenada",
+			"etymology": "derivation of the name remains obscure; some sources attribute the designation to Spanish influence (most likely named for the Spanish city of Granada), with subsequent French and English interpretations resulting in the present-day Grenada; in Spanish \"granada\" means \"pomegranate\""
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Saint George's",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 12,
+					"minutes": 3,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 61,
+					"minutes": 45,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the 1763 Treaty of Paris transferred possession of Grenada from France to Great Britain; the new administration renamed Ville de Fort Royal (Fort Royal Town) to Saint George's Town, after the patron saint of England; eventually the name became simply Saint George's"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Carriacou and Petite Martinique",
+				"type": ""
+			},
+			{
+				"name": "Saint Andrew",
+				"type": ""
+			},
+			{
+				"name": "Saint David",
+				"type": ""
+			},
+			{
+				"name": "Saint George",
+				"type": ""
+			},
+			{
+				"name": "Saint John",
+				"type": ""
+			},
+			{
+				"name": "Saint Mark",
+				"type": ""
+			},
+			{
+				"name": "Saint Patrick",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1974-02-07",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "7 February",
+				"original_year": "1974"
+			}
+		],
+		"constitution": {
+			"history": "previous 1967; latest presented 19 December 1973, effective 7 February 1974, suspended 1979 following a revolution but restored in 1983",
+			"amendments": "proposed by either house of Parliament; passage requires two-thirds majority vote by the membership in both houses and assent of the governor general; passage of amendments to constitutional sections, such as personal rights and freedoms, the structure, authorities, and procedures of the branches of government, the delimitation of electoral constituencies, or the procedure for amending the constitution, also requires two-thirds majority approval in a referendum; amended 1991, 1992"
+		},
+		"legal_system": "common law based on English model",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years for persons from a non-Caribbean state and 4 years for a person from a Caribbean state"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cecile LA GRENADE (since 7 May 2013)",
+			"head_of_government": "Prime Minister Keith MITCHELL (since 20 February 2013)",
+			"cabinet": "Cabinet appointed by the governor general on the advice of the prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)\nHouse of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - last appointments on 27 April 2018 (next no later than2023)\nHouse of Representatives - last held on 13 March 2018 (next no later than 2023)",
+			"election_results": "Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%\nHouse of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%"
+		},
+		"judicial_branch": {
+			"highest_courts": "regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62",
+			"subordinate_courts": "magistrates' courts; Court of Magisterial Appeals"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "National Democratic Congress",
+					"name_alternative": "NDC",
+					"leaders": [
+						"Nazim BURKE"
+					]
+				},
+				{
+					"name": "New National Party",
+					"name_alternative": "NNP",
+					"leaders": [
+						"Keith MITCHELL"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt ",
+				"note": "signatory"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Yolande Yvonne SMITH (since 8 April 2019)",
+				"chancery": "1701 New Hampshire Avenue NW, Washington, DC 20009",
+				"telephone": "[1] (202) 265-2561",
+				"fax": "[1] (202) 265-2468",
+				"consulates_general": "Miami"
+			},
+			"from_united_states": {
+				"chief_of_mission": "the US does not have an official embassy in Grenada; the US Ambassador to Barbados is accredited to Grenada",
+				"telephone": "[1] (473) 444-1173 through 1176",
+				"embassy": "Lance-aux-Epines Stretch, Saint George's",
+				"mailing_address": "P. O. Box 54, Saint George's",
+				"fax": "[1] (473) 444-4820"
+			}
+		},
+		"flag_description": {
+			"description": "a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; there are seven yellow, five-pointed stars with three centered in the top red border, three centered in the bottom red border, and one on a red disk superimposed at the center of the flag; there is also a symbolic nutmeg pod on the hoist-side triangle (Grenada is a leading nutmeg producer); the seven stars stand for the seven administrative divisions, with the central star denoting the capital, St. George's; yellow represents the sun and the warmth of the people, green stands for vegetation and agriculture, and red symbolizes harmony, unity, and courage"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Grenada dove"
+				},
+				{
+					"symbol": "bougainvillea flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Hail Grenada",
+			"lyrics_music": "Irva Merle BAPTISTE/Louis Arnold MASANTO",
+			"note": "adopted 1974"
+		}
+	},
+	"economy": {
+		"overview": "Grenada relies on tourism and revenue generated by St. George’s University - a private university offering degrees in medicine, veterinary medicine, public health, the health sciences, nursing, arts and sciences, and business - as its main source of foreign exchange. In the past two years the country expanded its sources of revenue, including from selling passports under its citizenship by investment program. These projects produced a resurgence in the construction and manufacturing sectors of the economy.\nIn 2017, Grenada experienced its fifth consecutive year of growth and the government successfully marked the completion of its five-year structural adjustment program that included among other things austerity measures, increased tax revenue and debt restructuring. Public debt-to-GDP was reduced from 100% of GDP in 2013 to 71.8% in 2017.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1634000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1555000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1500000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 198,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1119000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.1,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 46
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 15100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 14000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 110,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 63,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 12,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 60,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -55,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 15.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 77.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 11.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 17,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 13.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 153
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"cocoa",
+				"nutmeg",
+				"mace",
+				"soursop",
+				"citrus",
+				"avocados",
+				"root crops",
+				"corn",
+				"vegetables",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food",
+				"beverages",
+				"textiles",
+				"light assembly operations",
+				"tourism",
+				"construction",
+				"education",
+				"call-center operations"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 10,
+			"global_rank": 16,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 55270,
+				"global_rank": 189,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 11,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20,
+						"units": "%"
+					},
+					"services": {
+						"value": 69,
+						"units": "%"
+					}
+				},
+				"date": "2008"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 24,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 28.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 195
+		},
+		"population_below_poverty_line": {
+			"value": 38,
+			"units": "%",
+			"date": "2008"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 288400000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 252300000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 25.8,
+			"global_rank": 116,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 3.2,
+			"global_rank": 12,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 70.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 82,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 50
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 45
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -77000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -34000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 83
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 39900000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 44200000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 205
+			},
+			"commodities": {
+				"by_commodity": [
+					"nutmeg",
+					"bananas",
+					"cocoa",
+					"fruit",
+					"vegetables",
+					"clothing",
+					"mace",
+					"chocolate",
+					"fish"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 25.3
+					},
+					{
+						"name": "Japan",
+						"percent": 10.1
+					},
+					{
+						"name": "Guyana",
+						"percent": 8.7
+					},
+					{
+						"name": "Dominica",
+						"percent": 6.6
+					},
+					{
+						"name": "St. Lucia",
+						"percent": 6.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.7
+					},
+					{
+						"name": "Barbados",
+						"percent": 4.1
+					},
+					{
+						"name": "St. Kitts and Nevis",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 316000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 314700000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 203
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"manufactured goods",
+					"machinery",
+					"chemicals",
+					"fuel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 31.7
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 24.9
+					},
+					{
+						"name": "China",
+						"percent": 6.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 199100000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 198000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 175
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 793500000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 682300000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 168
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "East Caribbean dollars (XCD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 92.3,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 92.3,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 92.3,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 202100000,
+				"global_rank": 192,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 185100000,
+				"global_rank": 194,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 142,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 154,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 51100,
+				"global_rank": 191,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 96,
+					"global_rank": 39,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 100,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 174,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 4,
+					"global_rank": 112,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 143,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 131,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 134,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 139,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 151,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 2000,
+				"global_rank": 194,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 160,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1886,
+				"global_rank": 191,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 139,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 152,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 114,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 132,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 141,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 283600,
+			"global_rank": 193,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 33011,
+				"subscriptions_per_one_hundred_inhabitants": 29.3,
+				"global_rank": 170,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 115008,
+				"subscriptions_per_one_hundred_inhabitants": 102.08,
+				"global_rank": 192,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple publicly and privately owned television and radio stations; Grenada Information Service (GIS) is government-owned and provides television and radio services; the Grenada Broadcasting Network, jointly owned by the government and the Caribbean Communications Network of Trinidad and Tobago, operates a TV station and 2 radio stations; Meaningful Television (MTV) broadcasts island-wide and is part of a locally-owned media house, Moving Target Company, that also includes an FM radio station and a weekly newspaper; multi-channel cable TV subscription service is provided by Columbus Communications Grenada (FLOW GRENADA) and is available island wide; approximately 25 private radio stations also broadcast throughout the country (2019)",
+		"internet": {
+			"country_code": ".gd",
+			"users": {
+				"total": 66281,
+				"percent_of_population": 59.07,
+				"global_rank": 191,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "J3",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 3,
+					"global_rank": 195,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 3,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 1,
+					"under_914_metres": 1,
+					"date": "2017"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1127,
+				"units": "km"
+			},
+			"paved": {
+				"value": 902,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 225,
+				"units": "km"
+			},
+			"global_rank": 182,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 6,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 3
+				},
+				{
+					"type": "other",
+					"count": 3
+				}
+			],
+			"global_rank": 163,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Saint George's"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"illicit_drugs": {
+			"note": "small-scale cannabis cultivation; lesser transshipment point for marijuana and cocaine to US"
+		}
+	}
+}

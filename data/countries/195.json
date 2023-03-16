@@ -1,0 +1,1557 @@
+{
+	"name": "Saint Lucia",
+	"introduction": {
+		"background": "The island, with its fine natural harbor at Castries and burgeoning sugar industry, was contested between England and France throughout the 17th and early 18th centuries (changing possession 14 times); it was finally ceded to the UK in 1814 and became part of the British Windward Islands colony. Even after the abolition of slavery on its plantations in 1834, Saint Lucia remained an agricultural island, dedicated to producing tropical commodity crops. In the mid-20th century, Saint Lucia joined the West Indies Federation (1958–1962) and in 1967 became one of the six members of the West Indies Associated States, with internal self-government. In 1979, Saint Lucia gained full independence."
+	},
+	"geography": {
+		"location": "Caribbean, island between the Caribbean Sea and North Atlantic Ocean, north of Trinidad and Tobago",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 53,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 60,
+				"minutes": 58,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 616,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 606,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 10,
+				"units": "sq km"
+			},
+			"global_rank": 193,
+			"comparative": "three and a half times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 158,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August",
+		"terrain": "volcanic and mountainous with broad, fertile valleys",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Gimie",
+				"elevation": {
+					"value": 948,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"forests",
+				"sandy beaches",
+				"minerals",
+				"pumice",
+				"mineral springs",
+				"geothermal potential"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 17.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 4.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 11.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 77,
+					"units": "%"
+				},
+				"other": {
+					"value": 5.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 30,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries",
+		"natural_hazards": [
+			{
+				"description": "hurricanes",
+				"type": "hazard"
+			},
+			{
+				"description": "Mount Gimie (948 m), also known as Qualibou, is a caldera on the west of the island; the iconic twin pyramidal peaks of Gros Piton (771 m) and Petit Piton (743 m) are lava dome remnants associated with the Soufriere volcano; there have been no historical magmatic eruptions, but a minor steam eruption in 1766 spread a thin layer of ash over a wide area; Saint Lucia is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"soil erosion",
+				"particularly in the northern region"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 166487,
+			"global_rank": 187,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Saint Lucian(s)",
+			"adjective": "Saint Lucian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "black/African descent",
+					"percent": 85.3
+				},
+				{
+					"name": "mixed",
+					"percent": 10.9
+				},
+				{
+					"name": "East Indian",
+					"percent": 2.2
+				},
+				{
+					"name": "other",
+					"percent": 1.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.1
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "French patois"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 61.5
+				},
+				{
+					"name": "Protestant",
+					"percent": 25.5,
+					"breakdown": [
+						{
+							"name": "includes Seventh Day Adventist",
+							"percent": 10.4
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 8.9
+						},
+						{
+							"name": "Baptist",
+							"percent": 2.2
+						},
+						{
+							"name": "Anglican",
+							"percent": 1.6
+						},
+						{
+							"name": "Church of God",
+							"percent": 1.5
+						},
+						{
+							"name": "other Protestant",
+							"percent": 0.9
+						}
+					]
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.4,
+					"breakdown": [
+						{
+							"name": "includes Evangelical and Jehovah's Witness",
+							"percent": 1.1
+						}
+					]
+				},
+				{
+					"name": "Rastafarian",
+					"percent": 1.9
+				},
+				{
+					"name": "other",
+					"percent": 0.4
+				},
+				{
+					"name": "none",
+					"percent": 5.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.4
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 19.24,
+				"males": 16484,
+				"females": 15546
+			},
+			"15_to_24": {
+				"percent": 13.6,
+				"males": 11475,
+				"females": 11165
+			},
+			"25_to_54": {
+				"percent": 42.83,
+				"males": 34436,
+				"females": 36868
+			},
+			"55_to_64": {
+				"percent": 11.23,
+				"males": 8624,
+				"females": 10075
+			},
+			"65_and_over": {
+				"percent": 13.1,
+				"males": 9894,
+				"females": 11920
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 39.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 25,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 14.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 36.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 35.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 38,
+				"units": "years"
+			},
+			"global_rank": 75,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.29,
+			"global_rank": 172,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.5,
+			"global_rank": 155,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.1,
+			"global_rank": 90,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.7,
+			"global_rank": 160,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is found on the periphery of the island, with a larger concentration in the north around the capital of Castries",
+		"urbanization": {
+			"urban_population": {
+				"value": 18.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.8,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Castries",
+					"population": 22000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.86,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.83,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 117,
+			"global_rank": 67,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 10.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 130,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 78.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 75.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.4,
+				"units": "years"
+			},
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.73,
+			"global_rank": 167,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 55.5,
+			"units": "%",
+			"date": "2011"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.64,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 95.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 4.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.6,
+				"global_rank": 64,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1000,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 19.7,
+			"global_rank": 111,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 2.8,
+			"global_rank": 104,
+			"date": "2012"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.8,
+			"global_rank": 115,
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 46.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 42.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 51,
+				"units": "%"
+			},
+			"global_rank": 6,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Saint Lucia",
+			"etymology": "named after Saint LUCY of Syracuse by French sailors who were shipwrecked on the island on 13 December 1502, the saint's feast day; Saint Lucia is the only country named specifically after a woman",
+			"note": "pronounced saynt-looshya"
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Castries",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 14,
+					"minutes": 0,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 61,
+					"minutes": 0,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de Castries (1727-1801), who was then the French Minister of the Navy and Colonies"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Anse-la-Raye",
+				"type": ""
+			},
+			{
+				"name": "Canaries",
+				"type": ""
+			},
+			{
+				"name": "Castries",
+				"type": ""
+			},
+			{
+				"name": "Choiseul",
+				"type": ""
+			},
+			{
+				"name": "Dennery",
+				"type": ""
+			},
+			{
+				"name": "Gros-Islet",
+				"type": ""
+			},
+			{
+				"name": "Laborie",
+				"type": ""
+			},
+			{
+				"name": "Micoud",
+				"type": ""
+			},
+			{
+				"name": "Soufriere",
+				"type": ""
+			},
+			{
+				"name": "Vieux-Fort",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1979-02-22",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "22 February",
+				"original_year": "1979"
+			}
+		],
+		"constitution": {
+			"history": "previous 1958, 1960 (preindependence); latest presented 20 December 1978, effective 22 February 1979",
+			"amendments": "proposed by Parliament; passage requires at least two-thirds majority vote by the House of Assembly membership in the final reading and assent of the governor general; passage of amendments to various constitutional sections, such as those on fundamental rights and freedoms, government finances, the judiciary, and procedures for amending the constitution, require at least three-quarters majority vote by the House and assent of the governor general; passage of amendments approved by the House but rejected by the Senate require a majority of votes cast in a referendum"
+		},
+		"legal_system": "English common law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Saint Lucia",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "8 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Neville CENAC (since 12 January 2018)",
+			"head_of_government": "Prime Minister Allen CHASTANET (since 7 June 2016)",
+			"cabinet": "Cabinet appointed by the governor general on the advice of the prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)\nHouse of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - last appointments on 12 July 2016 (next in 2021)\nHouse of Assembly - last held on 6 June 2016 (next to be held in 2021)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%\nHouse of Assembly - percent of vote by party - UWP 54.8%, SLP 44.1%, other 1.1%; seats by party - UWP 11, SLP 6; composition - men 14, women 3, percent of women 17.6%; note - total Parliament percent of women 21.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice",
+			"judge_selection_and_term_of_office": "chief justice of Eastern Caribbean Supreme Court appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, an independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62",
+			"subordinate_courts": "magistrate's court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Lucian People's Movement",
+					"name_alternative": "LPM",
+					"leaders": [
+						"Therold PRUDENT"
+					]
+				},
+				{
+					"name": "Saint Lucia Labor Party",
+					"name_alternative": "SLP",
+					"leaders": [
+						"Philip J. PIERRE"
+					]
+				},
+				{
+					"name": "United Workers Party",
+					"name_alternative": "UWP",
+					"leaders": [
+						"Allen CHASTANET"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECS"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Anton Edsel EDMUNDS (since 8 September 2017)",
+				"chancery": "1628 K Street NW, Suite 1250, Washington, DC 20006",
+				"telephone": "[1] (202) 364-6792 through 6795",
+				"fax": "[1] (202) 364-6723",
+				"consulates_general": "New York"
+			}
+		},
+		"flag_description": {
+			"description": "cerulean blue with a gold isosceles triangle below a black arrowhead; the upper edges of the arrowhead have a white border; the blue color represents the sky and sea, gold stands for sunshine and prosperity, and white and black the racial composition of the island (with the latter being dominant); the two major triangles invoke the twin Pitons (Gros Piton and Petit Piton), cone-shaped volcanic plugs that are a symbol of the island"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "twin pitons ",
+					"note": "volcanic peaks"
+				},
+				{
+					"symbol": "Saint Lucia parrot"
+				}
+			],
+			"colors": [
+				{
+					"color": "cerulean blue"
+				},
+				{
+					"color": "gold"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Sons and Daughters of St. Lucia",
+			"lyrics_music": "Charles JESSE/Leton Felix THOMAS",
+			"note": "adopted 1967"
+		}
+	},
+	"economy": {
+		"overview": "The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.\nSaint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.\nSt. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2542000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2469000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2388000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 191,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1686000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -0.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 115
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 14400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 13800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 117,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 66.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 62.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -56.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 14.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 82.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 19.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 24.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 102
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"coconuts",
+				"vegetables",
+				"citrus",
+				"root crops",
+				"cocoa"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"clothing",
+				"assembly of electronic components",
+				"beverages",
+				"corrugated cardboard boxes",
+				"lime processing",
+				"coconut processing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6,
+			"global_rank": 42,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 79700,
+				"global_rank": 183,
+				"date": "2012"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 21.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 53.6,
+						"units": "%"
+					}
+				},
+				"date": "2002"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 20,
+					"units": "%",
+					"date": "2003"
+				}
+			],
+			"global_rank": 186
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 398200000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 392800000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 23.6,
+			"global_rank": 125,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0.3,
+			"global_rank": 41,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 70.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 69.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 49
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -3.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 15
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 21000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -31000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 61
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 185100000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 188200000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 191
+			},
+			"commodities": {
+				"by_commodity": [
+					"bananas",
+					"clothing",
+					"cocoa",
+					"avocados",
+					"mangoes",
+					"coconut oil"
+				],
+				"date": "2010"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 67.6
+					},
+					{
+						"name": "UK",
+						"percent": 5.9
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 5.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 575900000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 196
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"manufactured goods",
+					"machinery",
+					"transportation equipment",
+					"chemicals",
+					"fuels"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 53.3
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 10.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 321800000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 320700000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 166
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 570600000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 529000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 175
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "East Caribbean dollars (XCD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 97.8,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 94.9,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 98.4,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 369000000,
+				"global_rank": 174,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 343200000,
+				"global_rank": 181,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 189,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 191,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 89000,
+				"global_rank": 180,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 99,
+					"global_rank": 25,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 173,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 196,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 165,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 192,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 185,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 187,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 187,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 194,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 3100,
+				"global_rank": 187,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 195,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 3113,
+				"global_rank": 184,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 189,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 191,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 174,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 180,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 186,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 437900,
+			"global_rank": 186,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 33285,
+				"subscriptions_per_one_hundred_inhabitants": 20.05,
+				"global_rank": 169,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 168797,
+				"subscriptions_per_one_hundred_inhabitants": 101.68,
+				"global_rank": 187,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "3 privately owned TV stations; 1 public TV station operating on a cable network; multi-channel cable TV service available; a mix of state-owned and privately owned broadcasters operate nearly 25 radio stations including repeater transmission stations",
+		"internet": {
+			"country_code": ".lc",
+			"users": {
+				"total": 84112,
+				"percent_of_population": 50.82,
+				"global_rank": 180,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "J6",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 2,
+					"global_rank": 204,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1210,
+				"units": "km"
+			},
+			"paved": {
+				"value": 847,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 363,
+				"units": "km"
+			},
+			"global_rank": 179,
+			"date": "2011"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Castries",
+				"Cul-de-Sac",
+				"Vieux-Fort"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "St. Lucia is a member of the Regional Security System (RSS), an international agreement for the defense and security of the eastern Caribbean region."
+	},
+	"transnational_issues": {
+		"disputes": [
+			"joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea"
+		],
+		"illicit_drugs": {
+			"note": "transit point for South American drugs destined for the US and Europe"
+		}
+	}
+}

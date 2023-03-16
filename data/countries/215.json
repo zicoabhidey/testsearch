@@ -1,0 +1,1436 @@
+{
+	"name": "South Sudan",
+	"introduction": {
+		"background": "British explorer Samuel BAKER established the colony of Equatoria in 1870, in the name of the Ottoman Khedive of Egypt who claimed the territory. Headquartered in Gondokoro (near modern day Juba), Equatoria in theory composed most of what is now South Sudan. After being cut off from colonial administration during the Mahdist War from 1885-1898, Equatoria was made a state under the Anglo-Egyptian condominium in 1899. It was largely left to itself over the following decades, but Christian missionaries converted much of the population and facilitated the spread of English, rather than Arabic. Equatoria was ruled by British colonial administrators separately from what is now Sudan until the two colonies were combined at the 1947 Juba Conference, as part of British plans to prepare the region for independence. When Sudan gained its independence in 1956, it was with the understanding that the southerners would be able to participate fully in the political system. When the Arab Khartoum government reneged on its promises, a mutiny began that led to two prolonged periods of conflict (1955-1972 and 1983-2005) in which perhaps 2.5 million people died - mostly civilians - due to starvation and drought. Ongoing peace talks finally resulted in a Comprehensive Peace Agreement, signed in January 2005. As part of this agreement, the south was granted a six-year period of autonomy to be followed by a referendum on final status. The result of this referendum, held in January 2011, was a vote of 98% in favor of secession.\nSince independence on 9 July 2011, South Sudan has struggled with good governance and nation building and has attempted to control opposition forces operating in its territory. Economic conditions have deteriorated since January 2012 when the government decided to shut down oil production following bilateral disagreements with Sudan. In December 2013, conflict between government and opposition forces killed tens of thousands and led to a dire humanitarian crisis with millions of South Sudanese displaced and food insecure. The warring parties signed a peace agreement in August 2015 that created a transitional government of national unity in April 2016. However, in July 2016, fighting broke out in Juba between the two principal signatories, plunging the country back into conflict. A \"revitalized\" peace agreement was signed in September 2018 ending the fighting. Under the agreement, the government and various rebel groups agreed that the sides would form a unified national army and create a transitional government by May 2019. The agreement was extended until November 2019 and then subsequently to February 2020. However, implementation has been stalled, in part by a failure to agree on the country's internal political boundaries."
+	},
+	"geography": {
+		"location": "East-Central Africa; south of Sudan, north of Uganda and Kenya, west of Ethiopia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 30,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 644329,
+				"units": "sq km"
+			},
+			"global_rank": 43,
+			"comparative": "more than four times the size of Georgia; slightly smaller than Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 6018,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Central African Republic",
+					"border_length": {
+						"value": 1055,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Democratic Republic of the Congo",
+					"border_length": {
+						"value": 714,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ethiopia",
+					"border_length": {
+						"value": 1299,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kenya",
+					"border_length": {
+						"value": 317,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sudan",
+					"border_length": {
+						"value": 2158,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uganda",
+					"border_length": {
+						"value": 475,
+						"units": "km"
+					}
+				}
+			],
+			"note": "South Sudan-Sudan boundary represents 1 January 1956 alignment; final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan"
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north",
+		"terrain": "plains in the north and center rise to southern highlands along the border with Uganda and Kenya; the White Nile, flowing north out of the uplands of Central Africa, is the major geographic feature of the country; The Sudd (a name derived from floating vegetation that hinders navigation) is a large swampy area of more than 100,000 sq km fed by the waters of the White Nile that dominates the center of the country",
+		"elevation": {
+			"lowest_point": {
+				"name": "White Nile",
+				"elevation": {
+					"value": 381,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Kinyeti",
+				"elevation": {
+					"value": 3187,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower",
+				"fertile agricultural land",
+				"gold",
+				"diamonds",
+				"petroleum",
+				"hardwoods",
+				"limestone",
+				"iron ore",
+				"copper",
+				"chromium ore",
+				"zinc",
+				"tungsten",
+				"mica",
+				"silver"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 100,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 100,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 0,
+					"units": "%"
+				}
+			}
+		},
+		"irrigated_land": {
+			"value": 1000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map",
+		"environment": {
+			"current_issues": [
+				"water pollution",
+				"inadequate supplies of potable water",
+				"wildlife conservation and loss of biodiversity",
+				"deforestation",
+				"soil erosion",
+				"desertification",
+				"periodic drought"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 10561244,
+			"global_rank": 87,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "South Sudanese (singular and plural)",
+			"adjective": "South Sudanese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Dinka",
+					"percent": 35.8,
+					"note": "Jieng"
+				},
+				{
+					"name": "Nuer",
+					"percent": 15.6,
+					"note": "Naath"
+				},
+				{
+					"name": "Shilluk",
+					"note": "Chollo"
+				},
+				{
+					"name": "Azande"
+				},
+				{
+					"name": "Bari"
+				},
+				{
+					"name": "Kakwa"
+				},
+				{
+					"name": "Kuku"
+				},
+				{
+					"name": "Murle"
+				},
+				{
+					"name": "Mandari"
+				},
+				{
+					"name": "Didinga"
+				},
+				{
+					"name": "Ndogo"
+				},
+				{
+					"name": "Bviri"
+				},
+				{
+					"name": "Lndi"
+				},
+				{
+					"name": "Anuak"
+				},
+				{
+					"name": "Bongo"
+				},
+				{
+					"name": "Lango"
+				},
+				{
+					"name": "Dungotona"
+				},
+				{
+					"name": "Acholi"
+				},
+				{
+					"name": "Baka"
+				},
+				{
+					"name": "Fertit"
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Arabic",
+					"note": "includes Juba and Sudanese variants"
+				},
+				{
+					"name": "regional languages include Dinka"
+				},
+				{
+					"name": "Nuer"
+				},
+				{
+					"name": "Bari"
+				},
+				{
+					"name": "Zande"
+				},
+				{
+					"name": "Shilluk"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "animist"
+				},
+				{
+					"name": "Christian"
+				},
+				{
+					"name": "Muslim"
+				}
+			]
+		},
+		"demographic_profile": "South Sudan, independent from Sudan since July 2011 after decades of civil war, is one of the world’s poorest countries and ranks among the lowest in many socioeconomic categories. Problems are exacerbated by ongoing tensions with Sudan over oil revenues and land borders, fighting between government forces and rebel groups, and inter-communal violence. Most of the population lives off of farming, while smaller numbers rely on animal husbandry; more than 80% of the populace lives in rural areas. The maternal mortality rate is among the world’s highest for a variety of reasons, including a shortage of health care workers, facilities, and supplies; poor roads and a lack of transport; and cultural beliefs that prevent women from seeking obstetric care. Most women marry and start having children early, giving birth at home with the assistance of traditional birth attendants, who are unable to handle complications.\nEducational attainment is extremely poor due to the lack of schools, qualified teachers, and materials. Less than a third of the population is literate (the rate is even lower among women), and half live below the poverty line. Teachers and students are also struggling with the switch from Arabic to English as the language of instruction. Many adults missed out on schooling because of warfare and displacement.\nAlmost 2 million South Sudanese have sought refuge in neighboring countries since the current conflict began in December 2013. Another 1.96 million South Sudanese are internally displaced as of August 2017. Despite South Sudan’s instability and lack of infrastructure and social services, more than 240,000 people have fled to South Sudan to escape fighting in Sudan.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 41.58,
+				"males": 2238534,
+				"females": 2152685
+			},
+			"15_to_24": {
+				"percent": 21.28,
+				"males": 1153108,
+				"females": 1094568
+			},
+			"25_to_54": {
+				"percent": 30.67,
+				"males": 1662409,
+				"females": 1577062
+			},
+			"55_to_64": {
+				"percent": 3.93,
+				"males": 228875,
+				"females": 186571
+			},
+			"65_and_over": {
+				"percent": 2.53,
+				"males": 153502,
+				"females": 113930
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 80.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 74.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 16.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 18.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 18.3,
+				"units": "years"
+			},
+			"global_rank": 209,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.7,
+			"global_rank": 16,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 38.8,
+			"global_rank": 10,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 11.4,
+			"global_rank": 20,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.2,
+			"global_rank": 73,
+			"date": "2020"
+		},
+		"population_distribution": "clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 20.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.1,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Juba",
+					"population": 403000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.23,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.35,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.06,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 1150,
+			"global_rank": 1,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 69.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 76,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 63.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 4,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 55.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 54.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 56.5,
+				"units": "years"
+			},
+			"global_rank": 223,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 5.54,
+			"global_rank": 6,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 4,
+			"units": "%",
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 85.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 71.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 74.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 14.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 28.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 25.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 54.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 10.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 19.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 45.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 89.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 80.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 2.4,
+				"global_rank": 21,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 190000,
+				"global_rank": 34,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 9100,
+				"global_rank": 20,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever",
+				"Trypanosomiasis-Gambiense (African sleeping sickness)"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.6,
+			"global_rank": 165,
+			"date": "2014"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 27.7,
+			"global_rank": 9,
+			"date": "2010"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 1,
+			"global_rank": 175,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 34.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 40.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 28.9,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 38.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 39.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 37.4,
+				"units": "%"
+			},
+			"global_rank": 14,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of South Sudan",
+			"conventional_short_form": "South Sudan",
+			"etymology": "self-descriptive name from the country's former position within Sudan prior to independence; the name \"Sudan\" derives from the Arabic \"bilad-as-sudan\" meaning \"Land of the Black [peoples]\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Juba",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 4,
+					"minutes": 51,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 31,
+					"minutes": 37,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name derives from Djouba, another name for the Bari people of South Sudan"
+		},
+		"independence": {
+			"date": "2011-07-09",
+			"note": "from Sudan"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "9 July",
+				"original_year": "2011"
+			}
+		],
+		"constitution": {
+			"history": "previous 2005 (preindependence); latest signed 7 July 2011, effective 9 July 2011 (Transitional Constitution of the Republic of South Sudan, 2011)",
+			"amendments": "proposed by the National Legislature or by the president of the republic; passage requires submission of the proposal to the Legislature at least one month prior to consideration, approval by at least two-thirds majority vote in both houses of the Legislature, and assent of the president; amended 2013, 2015, 2018"
+		},
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of South Sudan",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Salva KIIR Mayardit (since 9 July 2011); First Vice President Riek MACHAR Teny Dhurgon (since 22 February 2020); Vice President James Wani IGGA (since 26 April 2016); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government",
+			"head_of_government": "President Salva KIIR Mayardit (since 9 July 2011); First Vice President Taban Deng GAI (since 26 July 2016); Vice President James Wani IGGA (since 26 April 2016); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government",
+			"cabinet": "National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (next election scheduled for 2015 postponed to 2018 and again to 2021)",
+			"election_results": "Salva KIIR Mayardit elected president; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Legislature consists of: Council of States, established by presidential decree in August 2011 (50 seats; 20 former members of the Council of States and 30 appointed representatives)\nTransitional National Legislative Assembly, established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan (400 seats; 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the 2016 Agreement); the TNLA will be expanded to 550 members after the transitional government forms",
+			"elections": "Council of States - established and members appointed 1 August 2011\nNational Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; current parliamentary term extended until 2021)",
+			"election_results": "Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%\nNational Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of South Sudan (consists of the chief and deputy chief justices, 9 other justices and normally organized into panels of 3 justices, except when sitting as a Constitutional panel of all 9 justices chaired by the chief justice)",
+			"judge_selection_and_term_of_office": "justices appointed by the president upon proposal of the Judicial Service Council, a 9-member judicial and administrative body; justice tenure set by the National Legislature",
+			"subordinate_courts": "national level - Courts of Appeal; High Courts; County Courts; state level - High Courts; County Courts; customary courts; other specialized courts and tribunals"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Change",
+					"name_alternative": "DC",
+					"leaders": [
+						"Onyoti Adigo NYIKWEC"
+					],
+					"note": "formerly Sudan People's Liberation Movement-Democratic Movement or SPLM-DC"
+				},
+				{
+					"name": "Sudan People's Liberation Movement",
+					"name_alternative": "SPLM",
+					"leaders": [
+						"Salva KIIR Mayardit"
+					]
+				},
+				{
+					"name": "Sudan People’s Liberation Movement-In Opposition",
+					"name_alternative": "SPLM-IO",
+					"leaders": [
+						"Riek MACHAR Teny Dhurgon"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Philip Jada NATANA (since 17 September 2018)",
+				"chancery": "1015 31st Street NW, Third Floor, Washington, DC 20007",
+				"telephone": "[1] (202) 293-7940",
+				"fax": "[1] (202) 293-7941"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Thomas HUSHEK (since 5 June 2018)",
+				"telephone": "[211] 912-105-188",
+				"embassy": "Kololo Road adjacent to the EU's compound, Juba"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan",
+			"note": "resembles the flag of Kenya; one of only two national flags to display six colors as part of its primary design, the other is South Africa's"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "African fish eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "South Sudan Oyee! (Hooray!)",
+			"lyrics_music": "collective of 49 poets/Juba University students and teachers",
+			"note": "adopted 2011; anthem selected in a national contest"
+		}
+	},
+	"economy": {
+		"overview": "Industry and infrastructure in landlocked South Sudan are severely underdeveloped and poverty is widespread, following several decades of civil war with Sudan. Continued fighting within the new nation is disrupting what remains of the economy. The vast majority of the population is dependent on subsistence agriculture and humanitarian assistance. Property rights are insecure and price signals are weak, because markets are not well-organized.\nSouth Sudan has little infrastructure – about 10,000 kilometers of roads, but just 2% of them paved. Electricity is produced mostly by costly diesel generators, and indoor plumbing and potable water are scarce, so less than 2% of the population has access to electricity. About 90% of consumed goods, capital, and services are imported from neighboring countries – mainly Uganda, Kenya and Sudan. Chinese investment plays a growing role in the infrastructure and energy sectors.\nNevertheless, South Sudan does have abundant natural resources. South Sudan holds one of the richest agricultural areas in Africa, with fertile soils and abundant water supplies. Currently the region supports 10-20 million head of cattle. At independence in 2011, South Sudan produced nearly three-fourths of former Sudan's total oil output of nearly a half million barrels per day. The Government of South Sudan relies on oil for the vast majority of its budget revenues, although oil production has fallen sharply since independence. South Sudan is one of the most oil-dependent countries in the world, with 98% of the government’s annual operating budget and 80% of its gross domestic product (GDP) derived from oil. Oil is exported through a pipeline that runs to refineries and shipping facilities at Port Sudan on the Red Sea. The economy of South Sudan will remain linked to Sudan for some time, given the existing oil infrastructure. The outbreak of conflict in December 2013, combined with falling crude oil production and prices, meant that GDP fell significantly between 2014 and 2017. Since the second half of 2017 oil production has risen, and is currently about 130,000 barrels per day.\nPoverty and food insecurity has risen due to displacement of people caused by the conflict. With famine spreading, 66% of the population in South Sudan is living on less than about $2 a day, up from 50.6% in 2009, according to the World Bank. About 80% of the population lives in rural areas, with agriculture, forestry and fishing providing the livelihood for a majority of the households. Much of rural sector activity is focused on low-input, low-output subsistence agriculture.\nSouth Sudan is burdened by considerable debt because of increased military spending and high levels of government corruption. Economic mismanagement is prevalent. Civil servants, including police and the military, are not paid on time, creating incentives to engage in looting and banditry. South Sudan has received more than $11 billion in foreign aid since 2005, largely from the US, the UK, and the EU. Inflation peaked at over 800% per year in October 2016 but dropped to 118% in 2017. The government has funded its expenditures by borrowing from the central bank and foreign sources, using forward sales of oil as collateral. The central bank’s decision to adopt a managed floating exchange rate regime in December 2015 triggered a 97% depreciation of the currency and spawned a growing black market.\nLong-term challenges include rooting out public sector corruption, improving agricultural productivity, alleviating poverty and unemployment, improving fiscal transparency - particularly in regard to oil revenues, taming inflation, improving government revenues, and creating a rules-based business environment.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 20010000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 21100000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 24520000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 149,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 3060000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -5.2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -13.9,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -0.2,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 218
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 220,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 34.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 10.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 64.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -27.2,
+							"units": "%"
+						}
+					},
+					"date": "2011"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 3.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 18.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 7.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 179
+		},
+		"agriculture_products": {
+			"products": [
+				"sorghum",
+				"maize",
+				"rice",
+				"millet",
+				"wheat",
+				"gum arabic",
+				"sugarcane",
+				"mangoes",
+				"papayas",
+				"bananas",
+				"sweet potatoes",
+				"sunflower seeds",
+				"cotton",
+				"sesame seeds",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"beans",
+				"peanuts",
+				"cattle",
+				"sheep"
+			]
+		},
+		"population_below_poverty_line": {
+			"value": 66,
+			"units": "%",
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 259600000.00000003,
+				"units": "USD",
+				"note": "FY2017/18 est."
+			},
+			"expenditures": {
+				"value": 298600000,
+				"units": "USD",
+				"note": "FY2017/18 est."
+			}
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 8.5,
+			"global_rank": 218
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.3,
+			"global_rank": 87
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 62.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 86.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 69
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 187.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 379.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 225
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -154000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 39000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 94
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1130000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 155
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3795000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 140
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 73000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 184
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "South Sudanese pounds (SSP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 11000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 1,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 4,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 1,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 412800000,
+				"global_rank": 169,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 391800000,
+				"global_rank": 175,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 201,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 203,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 80400,
+				"global_rank": 185,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 18,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 186,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 203,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 168,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 150200,
+				"global_rank": 39,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 147300,
+				"global_rank": 32,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 199,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 3750000000,
+				"global_rank": 26,
+				"date": "2017-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 205,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 8000,
+				"global_rank": 165,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 205,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 7160,
+				"global_rank": 157,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 199,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 200,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 188,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 191,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 63710000000,
+				"global_rank": 59,
+				"date": "2016-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 1224000,
+			"global_rank": 163,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 0,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 225,
+				"date": "2018"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 3439784,
+				"subscriptions_per_one_hundred_inhabitants": 33.46,
+				"global_rank": 136,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a single TV channel and a radio station are controlled by the government; several community and commercial FM stations are operational, mostly sponsored by outside aid donors; some foreign radio broadcasts are available (2019)",
+		"internet": {
+			"country_code": ".ss",
+			"users": {
+				"total": 814326,
+				"percent_of_population": 7.98,
+				"global_rank": 143,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 2,
+				"annual_freight_traffic_on_registered_air_carriers": 0,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "Z8",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 89,
+					"global_rank": 63,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 4,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 1,
+					"date": "2020"
+				},
+				"unpaved": {
+					"total": 84,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 12,
+					"914_to_1523_metres": 38,
+					"under_914_metres": 33,
+					"date": "2020"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2020"
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 248,
+				"units": "km"
+			},
+			"note": "a narrow gauge, single-track railroad between Babonosa (Sudan) and Wau, the only existing rail system, was repaired in 2010 with $250 million in UN funds, but is not currently operational",
+			"global_rank": 126,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 90200,
+				"units": "km"
+			},
+			"paved": {
+				"value": 300,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 89900,
+				"units": "km"
+			},
+			"note": "most of the road network is unpaved and much of it is in disrepair",
+			"global_rank": 55,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 3.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 4.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 10,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 19
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for compulsory and voluntary military service; the Government of South Sudan signed agreements in March 2012 and August 2015 that included the demobilization of all child soldiers within the armed forces and opposition, but the recruitment of child soldiers by the warring parties continues; as of the end of 2018, UNICEF estimated that more than 19,000 child soldiers had been used in the country's civil war since it began in December 2013",
+			"date": "2018"
+		},
+		"note": "under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, progress has been slow, and as of August 2020 armed clashes continued to occur between government forces and armed militant groups\nthe United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had more than 18,000 personnel deployed in the country as of May 2020\nUnited Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 4,000 personnel deployed as of March 2020 (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation",
+			"final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan",
+			"periodic violent skirmishes with South Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic",
+			"the boundary that separates Kenya and South Sudan's sovereignty is unclear in the \"Ilemi Triangle,\" which Kenya has administered since colonial times"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 729530,
+						"country_of_origin": "Sudan",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 16176,
+						"country_of_origin": "Democratic Republic of the Congo",
+						"note": "refugees and asylum seekers"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 1660000,
+				"note": "alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA; ; "
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "South Sudan is a source and destination country for men, women, and children subjected to forced labor and sex trafficking; South Sudanese women and girls, particularly those who are internally displaced, orphaned, refugees, or from rural areas, are vulnerable to forced labor and sexual exploitation, often in urban centers; children may be victims of forced labor in construction, market vending, shoe shining, car washing, rock breaking, brick making, delivery cart pulling, and begging; girls are also forced into marriages and subsequently subjected to sexual slavery or domestic servitude; women and girls migrate willingly from Uganda, Kenya, Ethiopia, Eritrea, and the Democratic Republic of the Congo to South Sudan with the promise of legitimate jobs and are forced into the sex trade; inter-ethnic abductions and abductions by criminal groups continue, with abductees subsequently forced into domestic servitude, herding, or sex trafficking; in 2014, the recruitment and use of child soldiers increased significantly within government security forces and was also prevalent among opposition forces",
+			"tier_rating": "Tier 3 – South Sudan does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; despite the government’s formal recommitment to an action plan to eliminate the recruitment and use of child soldiers by 2016, the practice expanded during 2014, and the government did not hold any officers criminally responsible; government officials reportedly are complicit in trafficking offenses but these activities continue to go uninvestigated; authorities reportedly identified five trafficking victims but did not transfer them to care facilities; law enforcement continued to arrest and imprison individuals for prostitution, including trafficking victims; no known steps were taken to address the exploitation of South Sudanese nationals working abroad or foreign workers in South Sudan (2015)"
+		}
+	}
+}

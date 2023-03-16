@@ -1,0 +1,1963 @@
+{
+	"name": "Senegal",
+	"introduction": {
+		"background": "A Jolof Empire ruled parts of Senegal from 1350 to 1549. Various European powers, including Portugal, the Netherlands, France, and Great Britain, competed for trade in the area from the 15th century onward. A slave station on the island of Goree, next to modern Dakar, was used as a base to purchase slaves from the warring chiefdoms on the mainland. Having abolished slavery in 1815, the French began to expand onto the Senegalese mainland in the second half of the 19th century and made it a French colony. The French colonies of Senegal and French Sudan were merged in 1959 and granted independence in 1960 as the Mali Federation. The union broke up after only a few months. Senegal joined with The Gambia to form the nominal confederation of Senegambia in 1982. The envisaged integration of the two countries was never implemented, and the union was dissolved in 1989. The Movement of Democratic Forces in the Casamance has led a low-level separatist insurgency in southern Senegal since the 1980s. Several attempts at reaching a comprehensive peace agreement have failed to resolve the conflict but, despite sporadic incidents of violence, an unofficial cease-fire has remained largely in effect since 2012. Senegal remains one of the most stable democracies in Africa and has a long history of participating in international peacekeeping and regional mediation. Senegal was ruled by the Socialist Party of Senegal, first under President Léopold Sédar SENGHOR, and then President Abdou DIOUF, for 40 years until Abdoulaye WADE was elected president in 2000. He was re-elected in 2007 and during his two terms amended Senegal's constitution over a dozen times to increase executive power and weaken the opposition. His decision to run for a third presidential term sparked a large public backlash that led to his defeat in a March 2012 runoff with Macky SALL. A 2016 constitutional referendum reduced the term to five years with a maximum of two consecutive terms for future presidents - the change did not apply to SALL's first term. SALL won his bid for re-election in February 2019; his term will end in 2024. A month after the election, the National Assembly voted to abolish the office of the prime minister. Opposition organizations and civil society have criticized the decision as a further concentration of power in the executive branch at the expense of the legislative and judicial branches."
+	},
+	"geography": {
+		"location": "Western Africa, bordering the North Atlantic Ocean, between Guinea-Bissau and Mauritania",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 14,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 14,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 196722,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 192530,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 4192,
+				"units": "sq km"
+			},
+			"global_rank": 89,
+			"comparative": "slightly smaller than South Dakota; slightly larger than twice the size of Indiana"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2684,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "The Gambia",
+					"border_length": {
+						"value": 749,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guinea",
+					"border_length": {
+						"value": 363,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guinea-Bissau",
+					"border_length": {
+						"value": 341,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mali",
+					"border_length": {
+						"value": 489,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mauritania",
+					"border_length": {
+						"value": 742,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 531,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind",
+		"terrain": "generally low, rolling, plains rising to foothills in southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 69,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed elevation",
+				"elevation": {
+					"value": 2.8,
+					"units": "km"
+				},
+				"note": "southeast of Nepen Diaka 648 m"
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"phosphates",
+				"iron ore"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 46.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 17.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 29.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 43.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 9.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 1200,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "lowlands seasonally flooded",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"overgrazing",
+				"soil erosion",
+				"desertification",
+				"periodic droughts",
+				"seasonal flooding",
+				"overfishing",
+				"weak environmental protective laws",
+				"wildlife populations threatened by poaching"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 15736368,
+			"global_rank": 72,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Senegalese (singular and plural)",
+			"adjective": "Senegalese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Wolof",
+					"percent": 37.1
+				},
+				{
+					"name": "Pular",
+					"percent": 26.2
+				},
+				{
+					"name": "Serer",
+					"percent": 17
+				},
+				{
+					"name": "Mandinka",
+					"percent": 5.6
+				},
+				{
+					"name": "Jola",
+					"percent": 4.5
+				},
+				{
+					"name": "Soninke",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 8.3,
+					"note": "includes Europeans and persons of Lebanese descent"
+				}
+			],
+			"date": "2017"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "Wolof"
+				},
+				{
+					"name": "Pular"
+				},
+				{
+					"name": "Jola"
+				},
+				{
+					"name": "Mandinka"
+				},
+				{
+					"name": "Serer"
+				},
+				{
+					"name": "Soninke"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 95.9,
+					"note": "most adhere to one of the four main Sufi brotherhoods"
+				},
+				{
+					"name": "Christian",
+					"percent": 4.1,
+					"note": "mostly Roman Catholic"
+				}
+			],
+			"date": "2016"
+		},
+		"demographic_profile": "Senegal has a large and growing youth population but has not been successful in developing its potential human capital. Senegal’s high total fertility rate of almost 4.5 children per woman continues to bolster the country’s large youth cohort – more than 60% of the population is under the age of 25. Fertility remains high because of the continued desire for large families, the low use of family planning, and early childbearing. Because of the country’s high illiteracy rate (more than 40%), high unemployment (even among university graduates), and widespread poverty, Senegalese youths face dim prospects; women are especially disadvantaged.\nSenegal historically was a destination country for economic migrants, but in recent years West African migrants more often use Senegal as a transit point to North Africa – and sometimes illegally onward to Europe. The country also has been host to several thousand black Mauritanian refugees since they were expelled from their homeland during its 1989 border conflict with Senegal. The country’s economic crisis in the 1970s stimulated emigration; departures accelerated in the 1990s. Destinations shifted from neighboring countries, which were experiencing economic decline, civil wars, and increasing xenophobia, to Libya and Mauritania because of their booming oil industries and to developed countries (most notably former colonial ruler France, as well as Italy and Spain). The latter became attractive in the 1990s because of job opportunities and their periodic regularization programs (legalizing the status of illegal migrants).\nAdditionally, about 16,000 Senegalese refugees still remain in The Gambia and Guinea-Bissau as a result of more than 30 years of fighting between government forces and rebel separatists in southern Senegal’s Casamance region.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 40.38,
+				"males": 3194454,
+				"females": 3160111
+			},
+			"15_to_24": {
+				"percent": 20.35,
+				"males": 1596896,
+				"females": 1606084
+			},
+			"25_to_54": {
+				"percent": 31.95,
+				"males": 2327424,
+				"females": 2700698
+			},
+			"55_to_64": {
+				"percent": 4.21,
+				"males": 283480,
+				"females": 378932
+			},
+			"65_and_over": {
+				"percent": 3.1,
+				"males": 212332,
+				"females": 275957
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 84.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 78.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 17.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 19.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.3,
+				"units": "years"
+			},
+			"global_rank": 204,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.31,
+			"global_rank": 30,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 31.8,
+			"global_rank": 29,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.6,
+			"global_rank": 102,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.3,
+			"global_rank": 149,
+			"date": "2020"
+		},
+		"population_distribution": "the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 48.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.73,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Dakar",
+					"population": 3140000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.86,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.75,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.9,
+			"date": "2018"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 315,
+			"global_rank": 35,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 45.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 51.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 40,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 63.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 61.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 65.4,
+				"units": "years"
+			},
+			"global_rank": 206,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.04,
+			"global_rank": 30,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 27.8,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.07,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.3,
+			"date": "2008"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 92.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 74.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 83.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 6.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 25.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 16.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 91.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 48.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 68.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 8.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 51.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 31.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 82,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 41000,
+				"global_rank": 66,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1200,
+				"global_rank": 55,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 8.8,
+			"global_rank": 146,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 13.3,
+			"global_rank": 46,
+			"date": "2019"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.8,
+			"global_rank": 74,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 51.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 64.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 39.8,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 8,
+				"units": "years"
+			},
+			"female": {
+				"value": 9,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 8.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 7.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 8.9,
+				"units": "%"
+			},
+			"global_rank": 142,
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Senegal",
+			"conventional_short_form": "Senegal",
+			"local_long_form": "Republique du Senegal",
+			"local_short_form": "Senegal",
+			"former": "Senegambia (along with The Gambia), Mali Federation",
+			"etymology": "named for the Senegal River that forms the northern border of the country; many theories exist for the origin of the river name; perhaps the most widely cited derives the name from \"Azenegue,\" the Portuguese appellation for the Berber Zenaga people who lived north of the river"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Dakar",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 14,
+					"minutes": 44,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 17,
+					"minutes": 38,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the Atlantic coast trading settlement of Ndakaaru came to be called \"Dakar\" by French colonialists"
+		},
+		"independence": {
+			"date": "1960-04-04",
+			"note": "from France; note - complete independence achieved upon dissolution of federation with Mali on 20 August 1960"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "4 April",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "previous 1959 (preindependence), 1963; latest adopted by referendum 7 January 2001, promulgated 22 January 2001",
+			"amendments": "proposed by the president of the republic or by the National Assembly; passage requires Assembly approval and approval in a referendum; the president can bypass a referendum and submit an amendment directly to the Assembly, which requires at least three-fifths majority vote; the republican form of government is not amendable; amended several times, last in 2019"
+		},
+		"legal_system": "civil law system based on French law; judicial review of legislative acts in Constitutional Court",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Senegal",
+			"dual_citizenship_recognized": "no, but Senegalese citizens do not automatically lose their citizenship if they acquire citizenship in another state",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Macky SALL (since 2 April 2012)",
+			"head_of_government": "President Macky SALL (since 2 April 2012)",
+			"cabinet": "Council of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)",
+			"election_results": "Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Assemblée Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)",
+			"elections": "National Assembly - last held on 2 July 2017 (next to be held in July 2022)",
+			"election_results": "National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the president of the republic upon recommendation of the Superior Council of the Magistrates, a body chaired by the president and minister of justice; judge tenure varies, with mandatory retirement either at 65 or 68 years; Constitutional Council members appointed - 5 by the president and 2 by the National Assembly speaker; judges serve 6-year terms, with renewal of 2 members every 2 years",
+			"subordinate_courts": "High Court of Justice (for crimes of high treason by the president); Courts of Appeal; Court of Auditors; assize courts; regional and district courts; Labor Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for the Republic-Yakaar",
+					"name_alternative": "APR-Yakaar",
+					"leaders": [
+						"Macky SALL"
+					]
+				},
+				{
+					"name": "Alliance of Forces of Progress",
+					"name_alternative": "AFP",
+					"leaders": [
+						"Moustapha NIASSE"
+					]
+				},
+				{
+					"name": "Alliance for Citizenship and Labor",
+					"name_alternative": "ACT",
+					"leaders": [
+						"Abdoul MBAYE"
+					]
+				},
+				{
+					"name": "And-Jef/African Party for Democracy and Socialism",
+					"name_alternative": "AJ/PADS",
+					"leaders": [
+						"Mamadou DIOP Decriox"
+					]
+				},
+				{
+					"name": "Benno Bokk Yakaar",
+					"name_alternative": "BBY",
+					"leaders": [
+						"Macky SALL"
+					],
+					"note": "United in Hope; coalition includes AFP, APR, BGC, LD-MPT, PIT, PS, UNP"
+				},
+				{
+					"name": "Bokk Gis Gis coalition",
+					"leaders": [
+						"Pape DIOP"
+					]
+				},
+				{
+					"name": "Citizen Movement for National Reform",
+					"name_alternative": "MCRN-Bes Du Nakk",
+					"leaders": [
+						"Mansour Sy DJAMIL"
+					]
+				},
+				{
+					"name": "Democratic League-Labor Party Movement",
+					"name_alternative": "LD-MPT",
+					"leaders": [
+						"Abdoulaye BATHILY"
+					]
+				},
+				{
+					"name": "Dare the Future movement",
+					"leaders": [
+						"Aissata Tall SALL"
+					]
+				},
+				{
+					"name": "Front for Socialism and Democracy/Benno Jubel",
+					"name_alternative": "FSD/BJ",
+					"leaders": [
+						"Cheikh Abdoulaye Bamba DIEYE"
+					]
+				},
+				{
+					"name": "Gainde Centrist Bloc",
+					"name_alternative": "BGC",
+					"leaders": [
+						"Jean-Paul DIAS"
+					]
+				},
+				{
+					"name": "General Alliance for the Interests of the Republic",
+					"name_alternative": "AGIR",
+					"leaders": [
+						"Thierno BOCOUM"
+					]
+				},
+				{
+					"name": "Grand Party",
+					"name_alternative": "GP",
+					"leaders": [
+						"Malick GAKOU"
+					]
+				},
+				{
+					"name": "Independence and Labor Party",
+					"name_alternative": "PIT",
+					"leaders": [
+						"Magatte THIAM"
+					]
+				},
+				{
+					"name": "Madicke 2019 coalition",
+					"leaders": [
+						"Madicke NIANG"
+					]
+				},
+				{
+					"name": "National Union for the People",
+					"name_alternative": "UNP",
+					"leaders": [
+						"Souleymane Ndene NDIAYE"
+					]
+				},
+				{
+					"name": "Only Senegal movement",
+					"leaders": [
+						"Pierre Goudiaby ATEPA"
+					]
+				},
+				{
+					"name": "Party for Truth and Development",
+					"name_alternative": "PVD",
+					"leaders": [
+						"Cheikh Ahmadou Kara MBAKE"
+					]
+				},
+				{
+					"name": "Party of Unity and Rally",
+					"name_alternative": "PUR",
+					"leaders": [
+						"El Hadji SALL"
+					]
+				},
+				{
+					"name": "Patriotic Convergence Kaddu Askan Wi",
+					"name_alternative": "CP-Kaddu Askan Wi",
+					"leaders": [
+						"Abdoulaye BALDE"
+					]
+				},
+				{
+					"name": "Patriots of Senegal for Ethics, Work and Fraternity",
+					"name_alternative": "",
+					"leaders": [
+						"Ousmane SONKO"
+					],
+					"note": "PASTEF"
+				},
+				{
+					"name": "Rewmi Party",
+					"leaders": [
+						"Idrissa SECK"
+					]
+				},
+				{
+					"name": "Senegalese Democratic Party",
+					"name_alternative": "PDS",
+					"leaders": [
+						"Abdoulaye WADE"
+					]
+				},
+				{
+					"name": "Socialist Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Ousmane Tanor DIENG"
+					]
+				},
+				{
+					"name": "Tekki Movement",
+					"leaders": [
+						"Mamadou Lamine DIALLO"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CPLP ",
+				"note": "associate"
+			},
+			{
+				"organization": "ECOWAS"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WADB ",
+				"note": "regional"
+			},
+			{
+				"organization": "WAEMU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mansour KANE (since 6 January 2020)",
+				"chancery": "2215 M Street NW, Washington, DC 20007",
+				"telephone": "[1] (202) 234-0540",
+				"fax": "[1] (202) 629-2961",
+				"consulates_general": "Houston, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Tulinabo S. MUSHINGI (since August 2017); note - also accredited to Guinea-Bissau",
+				"telephone": "[221] 33-879-4000",
+				"embassy": "Route des Almadies, Dakar",
+				"mailing_address": "B.P. 49, Dakar",
+				"fax": "[221] 33-822-2991"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope",
+			"note": "uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Mali and the reverse of those on the flag of neighboring Guinea"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Pincez Tous vos Koras, Frappez les Balafons\" (Pluck Your Koras, Strike the Balafons)",
+			"lyrics_music": "Leopold Sedar SENGHOR/Herbert PEPPER",
+			"note": "adopted 1960; lyrics written by Leopold Sedar SENGHOR, Senegal's first president; the anthem sometimes played incorporating the Koras (harp-like stringed instruments) and Balafons (types of xylophones) mentioned in the title",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SG.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.\nPresident Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.\nSenegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.\nThe government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 54800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 51150000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 48150000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 107,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 21110000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 6.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 16
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 188,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 71.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 25.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 3.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 27,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -42.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 16.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 24.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 58.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 21.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 20.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 86
+		},
+		"agriculture_products": {
+			"products": [
+				"peanuts",
+				"millet",
+				"corn",
+				"sorghum",
+				"rice",
+				"cotton",
+				"tomatoes",
+				"green vegetables",
+				"cattle",
+				"poultry",
+				"pigs",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"agricultural",
+				"fish processing",
+				"phosphate mining",
+				"fertilizer production",
+				"petroleum refining",
+				"zircon",
+				"gold mining",
+				"construction materials",
+				"ship construction",
+				"repair"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 7.7,
+			"global_rank": 26,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 6966000,
+				"global_rank": 65,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 77.5,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22.5,
+						"units": "%"
+					},
+					"industry_and_services": {
+						"value": 22.5,
+						"units": "%"
+					}
+				},
+				"date": "2007"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 48,
+					"units": "%",
+					"date": "2007"
+				}
+			],
+			"global_rank": 216
+		},
+		"population_below_poverty_line": {
+			"value": 46.7,
+			"units": "%",
+			"date": "2011"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31.1,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"budget": {
+			"revenues": {
+				"value": 4139000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4900000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 19.6,
+			"global_rank": 155,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.6,
+			"global_rank": 151,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 48.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 47.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 108
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 73
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1547000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -769000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 160
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2362000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2498000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 133
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"groundnuts (peanuts)",
+					"petroleum products",
+					"phosphates",
+					"cotton"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Mali",
+						"percent": 14.8
+					},
+					{
+						"name": "Switzerland",
+						"percent": 11.4
+					},
+					{
+						"name": "India",
+						"percent": 6
+					},
+					{
+						"name": "Cote dIvoire",
+						"percent": 5.3
+					},
+					{
+						"name": "UAE",
+						"percent": 5.1
+					},
+					{
+						"name": "The",
+						"percent": 4.2
+					},
+					{
+						"name": "Spain",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5217000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4966000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 125
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"beverages",
+					"capital goods",
+					"fuels"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "France",
+						"percent": 16.3
+					},
+					{
+						"name": "China",
+						"percent": 10.4
+					},
+					{
+						"name": "Nigeria",
+						"percent": 8
+					},
+					{
+						"name": "India",
+						"percent": 7.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.8
+					},
+					{
+						"name": "Spain",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1827000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 116900000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 122
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 8571000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 6327000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 119
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 617.4,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 591.45,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 494.42,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Communaute Financiere Africaine francs (XOF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 5000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 71,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 94,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 50,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 4167000000,
+				"global_rank": 126,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3497000000,
+				"global_rank": 133,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 195,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 197,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 977000,
+				"global_rank": 129,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 82,
+					"global_rank": 79,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 179,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 7,
+					"global_rank": 127,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 11,
+					"global_rank": 80,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 197,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 190,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 17880,
+				"global_rank": 65,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 192,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 17590,
+				"global_rank": 90,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 48000,
+				"global_rank": 107,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 4063,
+				"global_rank": 94,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 32050,
+				"global_rank": 98,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 59460000,
+				"global_rank": 85,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 59460000,
+				"global_rank": 111,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 180,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 186,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 191,
+				"date": "2012-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 8644000,
+			"global_rank": 113,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 195288,
+				"subscriptions_per_one_hundred_inhabitants": 1.27,
+				"global_rank": 122,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 16871654,
+				"subscriptions_per_one_hundred_inhabitants": 109.72,
+				"global_rank": 63,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs from five cities in Senegal; in most regions of the country, viewers can receive TV programming from at least 7 private broadcasters; a wide range of independent TV programming is available via satellite; RTS operates a national radio network and a number of regional FM stations; at least 7 community radio stations and 18 private-broadcast radio stations are available; transmissions of at least 5 international broadcasters are accessible on FM in Dakar (2019)",
+		"internet": {
+			"country_code": ".sn",
+			"users": {
+				"total": 6909635,
+				"percent_of_population": 46,
+				"global_rank": 72,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 11,
+				"annual_passenger_traffic_on_registered_air_carriers": 21038,
+				"annual_freight_traffic_on_registered_air_carriers": 40000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "6V",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 20,
+					"global_rank": 135,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 9,
+					"over_3047_metres": 2,
+					"1524_to_2437_metres": 6,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 11,
+					"1524_to_2437_metres": 7,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 43,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 8,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 906,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 906,
+				"units": "km\n1.000-m"
+			},
+			"global_rank": 94,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 16665,
+				"units": "km"
+			},
+			"paved": {
+				"value": 6126,
+				"units": "km",
+				"note": "includes 241 km of expressways"
+			},
+			"unpaved": {
+				"value": 10539,
+				"units": "km"
+			},
+			"global_rank": 120,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 1000,
+			"units": "km",
+			"note": "primarily on the Senegal, Saloum, and Casamance Rivers",
+			"global_rank": 63,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 32,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 4
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 27
+				}
+			],
+			"global_rank": 130,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Dakar"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 84
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008",
+			"date": "2016"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"cross-border trafficking in persons, timber, wildlife, and cannabis",
+			"rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 14114,
+						"country_of_origin": "Mauritania"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 8400,
+				"note": "clashes between government troops and separatists in Casamance region in the 1990s and early 2000s",
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for Southwest and Southeast Asian heroin and South American cocaine moving to Europe and North America; illicit cultivator of cannabis"
+		}
+	}
+}

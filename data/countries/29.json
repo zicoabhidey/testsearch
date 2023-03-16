@@ -1,0 +1,1540 @@
+{
+	"name": "Bhutan",
+	"introduction": {
+		"background": "Following Britain’s victory in the 1865 Duar War, Britain and Bhutan signed the Treaty of Sinchulu, under which Bhutan would receive an annual subsidy in exchange for ceding land to British India. Ugyen WANGCHUCK - who had served as the de facto ruler of an increasingly unified Bhutan and had improved relations with the British toward the end of the 19th century - was named king in 1907. Three years later, a treaty was signed whereby the British agreed not to interfere in Bhutanese internal affairs, and Bhutan allowed Britain to direct its foreign affairs. Bhutan negotiated a similar arrangement with independent India in 1949. The Indo-Bhutanese Treaty of Friendship returned to Bhutan a small piece of the territory annexed by the British, formalized the annual subsidies the country received, and defined India's responsibilities in defense and foreign relations. Under a succession of modernizing monarchs beginning in the 1950s, Bhutan joined the UN in 1971 and slowly continued its engagement beyond its borders.\nIn 2005, King Jigme Singye WANGCHUCK unveiled the draft of Bhutan's first constitution - which introduced major democratic reforms - and held a national referendum for its approval. The King abdicated the throne in 2006 in favor of his son, Jigme Khesar Namgyel WANGCHUCK. In 2007, India and Bhutan renegotiated their treaty, eliminating the clause that stated that Bhutan would be \"guided by\" India in conducting its foreign policy, although Thimphu continues to coordinate closely with New Delhi. In 2008, Bhutan held its first parliamentary election in accordance with the constitution. Bhutan experienced a peaceful turnover of power following a parliamentary election in 2013, which resulted in the defeat of the incumbent party. In 2018, the incumbent party again lost the parliamentary election. Of the more than 100,000 ethnic Nepali - predominantly Lhotshampa - refugees who fled or were forced out of Bhutan in the 1990s, about 6,500 remain displaced in Nepal."
+	},
+	"geography": {
+		"location": "Southern Asia, between China and India",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 27,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 90,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 38394,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 38394,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 137,
+			"comparative": "slightly larger than Maryland; about one-half the size of Indiana"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1136,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "China",
+					"border_length": {
+						"value": 477,
+						"units": "km"
+					}
+				},
+				{
+					"country": "India",
+					"border_length": {
+						"value": 659,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas",
+		"terrain": "mostly mountainous with some fertile valleys and savanna",
+		"elevation": {
+			"mean_elevation": {
+				"value": 2220,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Drangeme Chhu",
+				"elevation": {
+					"value": 97,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Gangkar Puensum",
+				"elevation": {
+					"value": 7570,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"hydropower",
+				"gypsum",
+				"calcium carbonate"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 13.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 85.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 0.9,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 320,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"natural_hazards": [
+			{
+				"description": "violent storms from the Himalayas are the source of the country's Bhutanese name, which translates as Land of the Thunder Dragon",
+				"type": "hazard"
+			},
+			{
+				"description": "frequent landslides during the rainy season",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil erosion",
+				"limited access to potable water",
+				"wildlife conservation",
+				"industrial pollution",
+				"waste disposal"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 782318,
+			"global_rank": 165,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Bhutanese (singular and plural)",
+			"adjective": "Bhutanese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Ngalop",
+					"percent": 50,
+					"note": "also known as Bhote"
+				},
+				{
+					"name": "ethnic Nepali",
+					"percent": 35,
+					"note": "predominantly Lhotshampas"
+				},
+				{
+					"name": "indigenous or migrant tribes",
+					"percent": 15
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Sharchhopka",
+					"percent": 28
+				},
+				{
+					"name": "Dzongkha",
+					"percent": 24,
+					"note": "official"
+				},
+				{
+					"name": "Lhotshamkha",
+					"percent": 22
+				},
+				{
+					"name": "other",
+					"percent": 26,
+					"note": "includes foreign languages"
+				}
+			],
+			"date": "2005"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Lamaistic Buddhist",
+					"percent": 75.3
+				},
+				{
+					"name": "Indian- and Nepali-influenced Hinduism",
+					"percent": 22.1
+				},
+				{
+					"name": "other",
+					"percent": 2.6
+				}
+			],
+			"date": "2005"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 24.52,
+				"males": 98113,
+				"females": 93740
+			},
+			"15_to_24": {
+				"percent": 17.77,
+				"males": 70768,
+				"females": 68211
+			},
+			"25_to_54": {
+				"percent": 44.72,
+				"males": 184500,
+				"females": 165374
+			},
+			"55_to_64": {
+				"percent": 6.39,
+				"males": 26714,
+				"females": 23280
+			},
+			"65_and_over": {
+				"percent": 6.6,
+				"males": 26797,
+				"females": 24821
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 45.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 36.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 11.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 29.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 28.6,
+				"units": "years"
+			},
+			"global_rank": 136,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.02,
+			"global_rank": 103,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 16.3,
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.3,
+			"global_rank": 147,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 78,
+			"date": "2020"
+		},
+		"urbanization": {
+			"urban_population": {
+				"value": 42.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.98,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Thimphu",
+					"population": 203000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.12,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.15,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.08,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.08,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 183,
+			"global_rank": 51,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 27,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 27.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 27,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 65,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 72.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 71,
+				"units": "years"
+			},
+			"female": {
+				"value": 73.2,
+				"units": "years"
+			},
+			"global_rank": 154,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.82,
+			"global_rank": 147,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 65.6,
+			"units": "%",
+			"date": "2010"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.4,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.7,
+			"date": "2012"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 99.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 87.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 72.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 78.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 12.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 27.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 21.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 84,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1300,
+				"global_rank": 140,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.4,
+			"global_rank": 167,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 12.7,
+			"global_rank": 49,
+			"date": "2010"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.6,
+			"global_rank": 18,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 66.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 75,
+				"units": "%"
+			},
+			"female": {
+				"value": 57.1,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 10.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 8.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 12.7,
+				"units": "%"
+			},
+			"global_rank": 119,
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Bhutan",
+			"conventional_short_form": "Bhutan",
+			"local_long_form": "Druk Gyalkhap",
+			"local_short_form": "Druk Yul",
+			"etymology": "named after the Bhotia, the ethnic Tibetans who migrated from Tibet to Bhutan; \"Bod\" is the Tibetan name for their land; the Bhutanese name \"Druk Yul\" means \"Land of the Thunder Dragon\""
+		},
+		"government_type": "constitutional monarchy",
+		"capital": {
+			"name": "Thimphu",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 27,
+					"minutes": 28,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 89,
+					"minutes": 38,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 6,
+				"note": "11 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that \"thim\" means \"dissolve\" and \"phu\" denotes \"high ground\" to express the meaning of \"dissolving high ground,\" in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Bumthang",
+				"type": ""
+			},
+			{
+				"name": "Chhukha",
+				"type": ""
+			},
+			{
+				"name": "Dagana",
+				"type": ""
+			},
+			{
+				"name": "Gasa",
+				"type": ""
+			},
+			{
+				"name": "Haa",
+				"type": ""
+			},
+			{
+				"name": "Lhuentse",
+				"type": ""
+			},
+			{
+				"name": "Mongar",
+				"type": ""
+			},
+			{
+				"name": "Paro",
+				"type": ""
+			},
+			{
+				"name": "Pemagatshel",
+				"type": ""
+			},
+			{
+				"name": "Punakha",
+				"type": ""
+			},
+			{
+				"name": "Samdrup Jongkhar",
+				"type": ""
+			},
+			{
+				"name": "Samtse",
+				"type": ""
+			},
+			{
+				"name": "Sarpang",
+				"type": ""
+			},
+			{
+				"name": "Thimphu",
+				"type": ""
+			},
+			{
+				"name": "Trashigang",
+				"type": ""
+			},
+			{
+				"name": "Trashi Yangtse",
+				"type": ""
+			},
+			{
+				"name": "Trongsa",
+				"type": ""
+			},
+			{
+				"name": "Tsirang",
+				"type": ""
+			},
+			{
+				"name": "Wangdue Phodrang",
+				"type": ""
+			},
+			{
+				"name": "Zhemgang",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1907-12-17",
+			"note": "became a unified kingdom under its first hereditary king; 8 August 1949 (Treaty of Friendship with India maintains Bhutanese independence)"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "17 December",
+				"original_year": "1907",
+				"note": "Ugyen WANGCHUCK became first hereditary king"
+			}
+		],
+		"constitution": {
+			"history": "previous governing documents were various royal decrees; first constitution drafted November 2001 to March 2005, ratified 18 July 2008",
+			"amendments": "proposed as a motion by simple majority vote in a joint session of Parliament; passage requires at least a three-fourths majority vote in a joint session of the next Parliament and assent by the king"
+		},
+		"legal_system": "civil law based on Buddhist religious law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Bhutan",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006); note - King Jigme Singye WANGCHUCK abdicated the throne on 14 December 2006 to his son",
+			"head_of_government": "Prime Minister Lotay TSHERING (since 7 November 2018)",
+			"cabinet": "Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms",
+			"elections_appointments": "the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Chi Tshog consists of: non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)\nNational Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies by proportional representation vote to serve 5-year terms)",
+			"elections": "National Council election last held on 20 April 2018 (next to be held in 2023)\nNational Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)",
+			"election_results": "National Council - seats by party - independent 20 (all candidates ran as independents); composition - men 23, women 2, percent of women 8%\nNational Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and 4 associate justices); note - the Supreme Court has sole jurisdiction in constitutional matters",
+			"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the monarch upon the advice of the National Judicial Commission, a 4-member body to include the Legislative Committee of the National Assembly, the attorney general, the Chief Justice of Bhutan and the senior Associate Justice of the Supreme Court; other judges (drangpons) appointed by the monarch from among the High Court judges selected by the National Judicial Commission; chief justice serves a 5-year term or until reaching age 65 years, whichever is earlier; the 4 other judges serve 10-year terms or until age 65, whichever is earlier",
+			"subordinate_courts": "High Court (first appellate court); District or Dzongkhag Courts; sub-district or Dungkhag Courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Bhutan Kuen-Nyam Party",
+					"name_alternative": "BKP"
+				},
+				{
+					"name": "Bhutan Peace and Prosperity Party",
+					"name_alternative": "DPT",
+					"leaders": [
+						"Pema GYAMTSHO"
+					],
+					"note": "Druk Phuensum Tshogpa; Druk Chirwang Tshogpa or DCT merged with DPT in March 2018"
+				},
+				{
+					"name": "People's Democratic Party",
+					"name_alternative": "PDP",
+					"leaders": [
+						"Tshering TOBGAY"
+					]
+				},
+				{
+					"name": "United Party of Bhutan",
+					"name_alternative": "DNT",
+					"leaders": [
+						"Lotay TSHERING"
+					],
+					"note": "Druk Nyamrup Tshogpa"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "BIMSTEC"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "SAARC"
+			},
+			{
+				"organization": "SACEP"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "none; the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US; the permanent representative to the UN is Doma TSHERING (since 13 September 2017); address: 343 East 43rd Street, New York, NY 10017; telephone [1] (212) 682-2268; FAX [1] (212) 661-0551",
+				"consulates_general": "New York"
+			}
+		},
+		"flag_description": {
+			"description": "divided diagonally from the lower hoist-side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side; the dragon, called the Druk (Thunder Dragon), is the emblem of the nation; its white color stands for purity and the jewels in its claws symbolize wealth; the background colors represent spiritual and secular powers within Bhutan: the orange is associated with Buddhism, while the yellow denotes the ruling dynasty"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "thunder dragon known as Druk Gyalpo"
+				}
+			],
+			"colors": [
+				{
+					"color": "orange"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Druk tsendhen\" (The Thunder Dragon Kingdom)",
+			"lyrics_music": "Gyaldun Dasho Thinley DORJI/Aku TONGMI",
+			"note": "adopted 1953"
+		}
+	},
+	"economy": {
+		"overview": "Bhutan's small economy is based largely on hydropower, agriculture, and forestry, which provide the main livelihood for more than half the population. Because rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive, industrial production is primarily of the cottage industry type. The economy is closely aligned with India's through strong trade and monetary links and is dependent on India for financial assistance and migrant laborers for development projects, especially for road construction. Bhutan signed a pact in December 2014 to expand duty-free trade with Bangladesh.\nMultilateral development organizations administer most educational, social, and environment programs, and take into account the government's desire to protect the country's environment and cultural traditions. For example, the government is cautious in its expansion of the tourist sector, restricing visits to environmentally conscientious tourists. Complicated controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance continue to hamper foreign investment.\nBhutan’s largest export - hydropower to India - could spur sustainable growth in the coming years if Bhutan resolves chronic delays in construction. Bhutan’s hydropower exports comprise 40% of total exports and 25% of the government’s total revenue. Bhutan currently taps only 6.5% of its 24,000-megawatt hydropower potential and is behind schedule in building 12 new hydropower dams with a combined capacity of 10,000 megawatts by 2020 in accordance with a deal signed in 2008 with India. The high volume of imported materials to build hydropower plants has expanded Bhutan's trade and current account deficits. Bhutan also signed a memorandum of understanding with Bangladesh and India in July 2017 to jointly construct a new hydropower plant for exporting electricity to Bangladesh.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 7205000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6710000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6252000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 167,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2405000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 7.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6.2,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 14
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 9000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 145,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 58,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 16.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 47.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 26,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -48,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 16.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 41.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 42,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 40.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 33.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 32,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 8
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"corn",
+				"root crops",
+				"citrus",
+				"dairy products",
+				"eggs"
+			]
+		},
+		"industries": {
+			"industries": [
+				"cement",
+				"wood products",
+				"processed fruits",
+				"alcoholic beverages",
+				"calcium carbide",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.3,
+			"global_rank": 36,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 397900,
+				"global_rank": 159,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 58,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20,
+						"units": "%"
+					},
+					"services": {
+						"value": 22,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 44
+		},
+		"population_below_poverty_line": {
+			"value": 12,
+			"units": "%",
+			"date": "2012"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30.6,
+				"units": "%"
+			},
+			"date": "2012"
+		},
+		"budget": {
+			"revenues": {
+				"value": 655300000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 737400000,
+				"units": "USD"
+			},
+			"note": "the Government of India finances nearly one-quarter of Bhutan's budget expenditures",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 27.2,
+			"global_rank": 101,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.4,
+			"global_rank": 142,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 106.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 114.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 12
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 183
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -547000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -621000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 123
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 554600000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 495300000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 173
+			},
+			"commodities": {
+				"by_commodity": [
+					"electricity (to India)",
+					"ferrosilicon",
+					"cement",
+					"cardamom",
+					"calcium carbide",
+					"steel rods/bars",
+					"dolomite",
+					"gypsum"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 95.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1024999999.9999999,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1030000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 185
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuel",
+					"lubricants",
+					"airplanes",
+					"machinery",
+					"parts",
+					"rice",
+					"motor vehicles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 89.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1206000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1127000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 129
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 2671000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2355000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 146
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 64.97,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 67.2,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 67.2,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 64.15,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 61.03,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "ngultrum (BTN) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 7883000000,
+				"global_rank": 110,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2184000000,
+				"global_rank": 141,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 5763000000,
+				"global_rank": 32,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 84000000,
+				"global_rank": 101,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1632000,
+				"global_rank": 120,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 1,
+					"global_rank": 211,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 51,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 99,
+					"global_rank": 2,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 177,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 112,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 95,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 98,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 108,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 120,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 3000,
+				"global_rank": 188,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 132,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 3120,
+				"global_rank": 183,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 123,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 71,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 93,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 112,
+				"date": "2016"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 604900,
+			"global_rank": 181,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 21916,
+				"subscriptions_per_one_hundred_inhabitants": 2.83,
+				"global_rank": 174,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 740026,
+				"subscriptions_per_one_hundred_inhabitants": 95.56,
+				"global_rank": 165,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned TV station established in 1999; cable TV service offers dozens of Indian and other international channels; first radio station, privately launched in 1973, is now state-owned; 5 private radio stations are currently broadcasting (2012)",
+		"internet": {
+			"country_code": ".bt",
+			"users": {
+				"total": 368714,
+				"percent_of_population": 48.11,
+				"global_rank": 160,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 275849,
+				"annual_freight_traffic_on_registered_air_carriers": 690000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "A5",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 2,
+					"global_rank": 197,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 1,
+					"914_to_1523_metres": 1,
+					"date": "2012"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 12205,
+				"units": "km"
+			},
+			"urban": {
+				"value": 437,
+				"units": "km"
+			},
+			"global_rank": 132,
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"lacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China’s Chumbi salient"
+		]
+	}
+}

@@ -1,0 +1,1243 @@
+{
+	"name": "French Polynesia",
+	"introduction": {
+		"background": "The French annexed various Polynesian island groups during the 19th century. In 1966, the French Government began testing nuclear weapons on the uninhabited Mururoa Atoll; following mounting opposition, the tests were moved underground in 1975. In September 1995, France stirred up widespread protests by resuming nuclear testing after a three-year moratorium. The tests were halted in January 1996. In recent years, French Polynesia's autonomy has been considerably expanded."
+	},
+	"geography": {
+		"location": "Oceania, five archipelagoes (Archipel des Tuamotu, Iles Gambier, Iles Marquises, Iles Tubuai, Society Islands) in the South Pacific Ocean about halfway between South America and Australia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 140,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 4167,
+				"units": "sq km",
+				"note": "118 islands and atolls; 67 are inhabited"
+			},
+			"land": {
+				"value": 3827,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 340,
+				"units": "sq km"
+			},
+			"global_rank": 175,
+			"comparative": "slightly less than one-third the size of Connecticut"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 2525,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical, but moderate",
+		"terrain": "mixture of rugged high islands and low islands with reefs",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mont Orohena",
+				"elevation": {
+					"value": 2241,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"fish",
+				"cobalt",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 12.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 6.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 5.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 43.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 43.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 10,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population",
+		"natural_hazards": [
+			{
+				"description": "occasional cyclonic storms in January",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"sea level rise",
+				"extreme weather events (cyclones",
+				"storms",
+				"and tsunamis producing floods",
+				"landslides",
+				"erosion",
+				"and reef damage)",
+				"droughts",
+				"fresh water scarcity"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 295121,
+			"global_rank": 181,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "French Polynesian(s)",
+			"adjective": "French Polynesian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Polynesian",
+					"percent": 78
+				},
+				{
+					"name": "Chinese",
+					"percent": 12
+				},
+				{
+					"name": "local French",
+					"percent": 6
+				},
+				{
+					"name": "metropolitan French",
+					"percent": 4
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"percent": 70,
+					"note": "official"
+				},
+				{
+					"name": "Polynesian",
+					"percent": 28.2,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 1.8
+				}
+			],
+			"date": "2012"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 54
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 30
+				},
+				{
+					"name": "other",
+					"percent": 10
+				},
+				{
+					"name": "no religion",
+					"percent": 6
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 21.69,
+				"males": 32920,
+				"females": 31100
+			},
+			"15_to_24": {
+				"percent": 14.72,
+				"males": 22640,
+				"females": 20793
+			},
+			"25_to_54": {
+				"percent": 44.24,
+				"males": 66921,
+				"females": 63636
+			},
+			"55_to_64": {
+				"percent": 10.31,
+				"males": 15610,
+				"females": 14823
+			},
+			"65_and_over": {
+				"percent": 9.04,
+				"males": 12854,
+				"females": 13824
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 45.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 32.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 33.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 33,
+				"units": "years"
+			},
+			"female": {
+				"value": 33.5,
+				"units": "years"
+			},
+			"global_rank": 98,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.79,
+			"global_rank": 128,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14,
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.5,
+			"global_rank": 183,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.7,
+			"global_rank": 131,
+			"date": "2020"
+		},
+		"population_distribution": "the majority of the population lives in the Society Islands, one of five archipelagos that includes the most populous island - Tahiti - with approximately 70% of the nation's population",
+		"urbanization": {
+			"urban_population": {
+				"value": 62,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.01,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Papeete",
+					"population": 136000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.93,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.05,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 75.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 80.4,
+				"units": "years"
+			},
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.83,
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.13,
+			"date": "2009"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 96.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 3.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 56.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 54.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 59.7,
+				"units": "%"
+			},
+			"global_rank": 1,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Overseas Lands of French Polynesia",
+			"conventional_short_form": "French Polynesia",
+			"local_long_form": "Pays d'outre-mer de la Polynesie Francaise",
+			"local_short_form": "Polynesie Francaise",
+			"former": "Establishments in Oceania, French Establishments in Oceania",
+			"etymology": "the term \"Polynesia\" is an 18th-century construct composed of two Greek words, \"poly\" (many) and \"nesoi\" (islands), and refers to the more than 1,000 islands scattered over the central and southern Pacific Ocean"
+		},
+		"government_type": "parliamentary democracy (Assembly of French Polynesia); an overseas collectivity of France",
+		"capital": {
+			"name": "Papeete (located on Tahiti)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 17,
+					"minutes": 32,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 149,
+					"minutes": 34,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -10,
+				"note": "5 hours behind Washington, DC, during Standard Time"
+			},
+			"etymology": "the name means \"water basket\" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area"
+		},
+		"independence": {
+			"note": "overseas lands of France"
+		},
+		"national_holidays": [
+			{
+				"name": "Fete de la Federation",
+				"day": "14 July",
+				"original_year": "1880",
+				"note": "the local holiday is Internal Autonomy Day, 29 June"
+			}
+		],
+		"constitution": {
+			"history": "4 October 1958 (French Constitution)",
+			"amendments": "French constitution amendment procedures apply"
+		},
+		"legal_system": "the laws of France, where applicable, apply",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Dominique SORAIN (since 10 July 2019)",
+			"head_of_government": "President of French Polynesia Edouard FRITCH (since 12 September 2014)",
+			"cabinet": "Council of Ministers approved by the Assembly from a list of its members submitted by the president",
+			"elections_appointments": "French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)"
+		},
+		"legislative_branch": {
+			"description": "unicameral Assembly of French Polynesia or Assemblée de la Polynésie française (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)\nFrench Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms",
+			"elections": "Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023)\nFrench Senate - last held in September 2017 (next to be held in September 2020)\nFrench National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)",
+			"election_results": "Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6%\nFrench Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3%\nFrench National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)",
+			"judge_selection_and_term_of_office": "judges assigned from France normally for 3 years",
+			"subordinate_courts": "Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "A Tia Porinetia",
+					"leaders": [
+						"Teva ROHFRITSCH"
+					]
+				},
+				{
+					"name": "Alliance for a New Democracy",
+					"name_alternative": "ADN",
+					"note": "includes The New Star [Philip SCHYLE], This Country is Yours [Nicole BOUTEAU]"
+				},
+				{
+					"name": "New Fatherland Party ",
+					"leaders": [
+						"Emile VERNAUDON"
+					],
+					"note": "Ai'a Api"
+				},
+				{
+					"name": "Our Home alliance"
+				},
+				{
+					"name": "People's Servant Party ",
+					"leaders": [
+						"Oscar TEMARU"
+					],
+					"note": "Tavini Huiraatira"
+				},
+				{
+					"name": "Popular Rally ",
+					"leaders": [
+						"Gaston FLOSSE"
+					],
+					"note": "Tahoeraa Huiraatira"
+				},
+				{
+					"name": "Tapura Huiraatira",
+					"leaders": [
+						"Edouard FRITICH"
+					]
+				},
+				{
+					"name": "Tavini Huiraatira",
+					"leaders": [
+						"James CHANCELOR"
+					]
+				},
+				{
+					"name": "Union for Democracy alliance",
+					"name_alternative": "UPD",
+					"leaders": [
+						"Oscar TEMARU"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "PIF ",
+				"note": "associate member"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"flag_description": {
+			"description": "two red horizontal bands encase a wide white band in a 1:2:1 ratio; centered on the white band is a disk with a blue and white wave pattern depicting the sea on the lower half and a gold and white ray pattern depicting the sun on the upper half; a Polynesian canoe rides on the wave pattern; the canoe has a crew of five represented by five stars that symbolize the five island groups; red and white are traditional Polynesian colors",
+			"note": "identical to the red-white-red flag of Tahiti, the largest and most populous of the islands in French Polynesia, but which has no emblem in the white band; the flag of France is used for official occasions"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "outrigger canoe"
+				},
+				{
+					"symbol": "Tahitian gardenia  flower",
+					"note": "Gardenia taitensis"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ia Ora 'O Tahiti Nui\" (Long Live Tahiti Nui)",
+			"lyrics_music": "Maeva BOUGES, Irmine TEHEI, Angele TEROROTUA, Johanna NOUVEAU, Patrick AMARU, Louis MAMATUI, and Jean-Pierre CELESTIN (the compositional group created both the lyrics and music)",
+			"note": "adopted 1993; serves as a local anthem; as a territory of France, \"La Marseillaise\" is official (see France)"
+		},
+		"note": "under certain acts of France, French Polynesia has acquired autonomy in all areas except those relating to police, monetary policy, tertiary education, immigration, and defense and foreign affairs; the duties of its president are fashioned after those of the French prime minister"
+	},
+	"economy": {
+		"overview": "Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply.\nAfter growing at an average yearly rate of 4.2% from 1997-2007, the economic and financial crisis in 2008 marked French Polynesia’s entry into recession. However, since 2014, French Polynesia has shown signs of recovery. Business turnover reached 1.8% year-on-year in September 2016, tourism increased 1.8% in 2015, and GDP grew 2.0% in 2015.\nFrench Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2012. Tourism employs 17% of the workforce. Pearl farming is the second biggest industry, accounting for 54% of exports in 2015; however, the output has decreased to 12.5 tons – the lowest level since 2008. A small manufacturing sector predominantly processes commodities from French Polynesia’s primary sector - 8% of total economy in 2012 - including agriculture and fishing.\nFrance has agreed to finance infrastructure, marine businesses, and cultural and ecological sites at roughly $80 million per year between 2015 and 2020. Japan, the US, and China are French Polynesia’s three largest trade partners.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5490000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 5383000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 6963000000,
+						"units": "USD",
+						"date": "2010"
+					}
+				],
+				"global_rank": 177
+			},
+			"official_exchange_rate": {
+				"USD": 4795000000,
+				"date": "2015"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": -2.7,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": -2.5,
+						"units": "%",
+						"date": "2010"
+					}
+				],
+				"global_rank": 150
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 17000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 20100,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 22700,
+						"units": "USD",
+						"date": "2010"
+					}
+				],
+				"global_rank": 104
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 66.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 33.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 19.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 17.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -37.5,
+							"units": "%"
+						}
+					},
+					"date": "2014"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 13,
+							"units": "%"
+						},
+						"services": {
+							"value": 84.5,
+							"units": "%"
+						}
+					},
+					"date": "2009"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"coconuts",
+				"vanilla",
+				"vegetables",
+				"fruits",
+				"coffee",
+				"poultry",
+				"beef",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"pearls",
+				"agricultural processing",
+				"handicrafts",
+				"phosphates"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 126300,
+				"global_rank": 179,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 13,
+						"units": "%"
+					},
+					"industry": {
+						"value": 19,
+						"units": "%"
+					},
+					"services": {
+						"value": 68,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 21.8,
+					"units": "%",
+					"date": "2012"
+				},
+				{
+					"value": 11.7,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 190
+		},
+		"population_below_poverty_line": {
+			"value": 19.7,
+			"units": "%",
+			"date": "2009"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 1891000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1833000000,
+				"units": "USD",
+				"note": "2011"
+			},
+			"date": "2012"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.4,
+			"global_rank": 46,
+			"date": "2012"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.2,
+			"global_rank": 28,
+			"date": "2012"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 0.3,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 10
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 207700000,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 158800000,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"global_rank": 58
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1245000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 1168000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 152
+			},
+			"commodities": {
+				"by_commodity": [
+					"cultured pearls",
+					"coconut products",
+					"mother-of-pearl",
+					"vanilla",
+					"shark meat"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Japan",
+						"percent": 23.1
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 21.5
+					},
+					{
+						"name": "Kyrgyzstan",
+						"percent": 15.9
+					},
+					{
+						"name": "US",
+						"percent": 15.9
+					},
+					{
+						"name": "France",
+						"percent": 12.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2235000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 2271000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 162
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuels",
+					"foodstuffs",
+					"machinery",
+					"equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "France",
+						"percent": 27.9
+					},
+					{
+						"name": "South Korea",
+						"percent": 12.1
+					},
+					{
+						"name": "US",
+						"percent": 10.1
+					},
+					{
+						"name": "China",
+						"percent": 7.3
+					},
+					{
+						"name": "NZ",
+						"percent": 6.7
+					},
+					{
+						"name": "Singapore",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 110.2,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 107.84,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 107.84,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 89.85,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 90.56,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Comptoirs Francais du Pacifique francs (XPF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 677300000,
+				"global_rank": 158,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 629900000,
+				"global_rank": 164,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 136,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 150,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 253000,
+				"global_rank": 163,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 70,
+					"global_rank": 108,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 92,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 19,
+					"global_rank": 89,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 11,
+					"global_rank": 77,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 139,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 127,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 129,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 134,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 147,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 6600,
+				"global_rank": 168,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 157,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 6785,
+				"global_rank": 160,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 135,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 148,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 127,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 137,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 1030000,
+			"global_rank": 168,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 63769,
+				"subscriptions_per_one_hundred_inhabitants": 21.78,
+				"global_rank": 152,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 305233,
+				"subscriptions_per_one_hundred_inhabitants": 104.25,
+				"global_rank": 179,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "French public overseas broadcaster Reseau Outre-Mer provides 2 TV channels and 1 radio station; 1 government-owned TV station; a small number of privately owned radio stations (2019)",
+		"internet": {
+			"country_code": ".pf",
+			"users": {
+				"total": 211101,
+				"percent_of_population": 72.7,
+				"global_rank": 174,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 19,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "F-OH",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 54,
+					"global_rank": 86,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 45,
+					"over_3047_metres": 2,
+					"1524_to_2437_metres": 5,
+					"914_to_1523_metres": 33,
+					"under_914_metres": 5,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 9,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 5,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 2590,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1735,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 855,
+				"units": "km"
+			},
+			"global_rank": 167,
+			"date": "1999"
+		},
+		"merchant_marine": {
+			"total": 17,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 10
+				},
+				{
+					"type": "other",
+					"count": 7
+				}
+			],
+			"global_rank": 145,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Papeete"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France and France maintains forces in French Polynesia (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

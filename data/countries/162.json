@@ -1,0 +1,1843 @@
+{
+	"name": "Nepal",
+	"introduction": {
+		"background": "During the late 18th-early 19th centuries, the principality of Gorkha united many of the other principalities and states of the sub-Himalayan region into a Nepali Kingdom. Nepal retained its independence following the Anglo-Nepalese War of 1814-16 and the subsequent peace treaty laid the foundations for two centuries of amicable relations between Britain and Nepal. (The Brigade of Gurkhas continues to serve in the British Army to the present day.) In 1951, the Nepali monarch ended the century-old system of rule by hereditary premiers and instituted a cabinet system that brought political parties into the government. That arrangement lasted until 1960, when political parties were again banned, but was reinstated in 1990 with the establishment of a multiparty democracy within the framework of a constitutional monarchy.\nAn insurgency led by Maoists broke out in 1996. During the ensuing 10-year civil war between Maoist and government forces, the monarchy dissolved the cabinet and parliament and re-assumed absolute power in 2002, after the crown prince massacred the royal family in 2001. A peace accord in 2006 led to the promulgation of an interim constitution in 2007. Following a nationwide Constituent Assembly (CA) election in 2008, the newly formed CA declared Nepal a federal democratic republic, abolished the monarchy, and elected the country's first president. After the CA failed to draft a constitution by a 2012 deadline set by the Supreme Court, then-Prime Minister Baburam BHATTARAI dissolved the CA. Months of negotiations ensued until 2013 when the major political parties agreed to create an interim government headed by then-Chief Justice Khil Raj REGMI with a mandate to hold elections for a new CA. Elections were held in 2013, in which the Nepali Congress (NC) won the largest share of seats in the CA and in 2014 formed a coalition government with the second-place Communist Party of Nepal-Unified Marxist-Leninist (UML) with NC President Sushil KOIRALA serving as prime minister. Nepal's new constitution came into effect in 2015, at which point the CA became the Parliament. Khagda Prasad Sharma OLI served as the first post-constitution prime minister from 2015 to 2016. OLI resigned ahead of a no-confidence motion against him, and Parliament elected Communist Party of Nepal-Maoist (CPN-M) leader Pushpa Kamal DAHAL (aka \"Prachanda\") prime minister. The constitution provided for a transitional period during which three sets of elections – local, provincial, and national – needed to take place. The first local elections in 20 years occurred in three phases between May and September 2017, and state and federal elections proceeded in two phases in November and December 2017. The parties headed by OLI and DAHAL ran in coalition and swept the parliamentary elections, and OLI, who led the larger of the two parties, was sworn in as prime minister in February 2018. In May 2018, OLI and DAHAL announced the merger of their parties - the UML and CPN-M - to establish the Nepal Communist Party (NCP), which is now the ruling party in Parliament."
+	},
+	"geography": {
+		"location": "Southern Asia, between China and India",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 28,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 84,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 147181,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 143351,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 3830,
+				"units": "sq km"
+			},
+			"global_rank": 96,
+			"comparative": "slightly larger than New York state"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 3159,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "China",
+					"border_length": {
+						"value": 1389,
+						"units": "km"
+					}
+				},
+				{
+					"country": "India",
+					"border_length": {
+						"value": 1770,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "varies from cool summers and severe winters in north to subtropical summers and mild winters in south",
+		"terrain": "Tarai or flat river plain of the Ganges in south; central hill region with rugged Himalayas in north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 2565,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Kanchan Kalan",
+				"elevation": {
+					"value": 70,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Everest (highest peak in Asia and highest point on earth above sea level)",
+				"elevation": {
+					"value": 8848,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"quartz",
+				"water",
+				"timber",
+				"hydropower",
+				"scenic beauty",
+				"lignite",
+				"copper",
+				"cobalt",
+				"iron ore"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 28.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 15.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 12.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 25.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 45.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 13320,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low",
+		"natural_hazards": [
+			{
+				"description": "severe thunderstorms",
+				"type": "hazard"
+			},
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "drought and famine depending on the timing, intensity, and duration of the summer monsoons",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation (overuse of wood for fuel and lack of alternatives)",
+				"forest degradation",
+				"soil erosion",
+				"contaminated water (with human and animal wastes",
+				"agricultural runoff",
+				"and industrial effluents)",
+				"unmanaged solid-waste",
+				"wildlife conservation",
+				"vehicular emissions"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 30327877,
+			"global_rank": 46,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Nepali (singular and plural)",
+			"adjective": "Nepali"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Chhettri",
+					"percent": 16.6
+				},
+				{
+					"name": "Brahman-Hill",
+					"percent": 12.2
+				},
+				{
+					"name": "Magar",
+					"percent": 7.1
+				},
+				{
+					"name": "Tharu",
+					"percent": 6.6
+				},
+				{
+					"name": "Tamang",
+					"percent": 5.8
+				},
+				{
+					"name": "Newar",
+					"percent": 5
+				},
+				{
+					"name": "Kami",
+					"percent": 4.8
+				},
+				{
+					"name": "Muslim",
+					"percent": 4.4
+				},
+				{
+					"name": "Yadav",
+					"percent": 4
+				},
+				{
+					"name": "Rai",
+					"percent": 2.3
+				},
+				{
+					"name": "Gurung",
+					"percent": 2
+				},
+				{
+					"name": "Damai/Dholii",
+					"percent": 1.8
+				},
+				{
+					"name": "Thakuri",
+					"percent": 1.6
+				},
+				{
+					"name": "Limbu",
+					"percent": 1.5
+				},
+				{
+					"name": "Sarki",
+					"percent": 1.4
+				},
+				{
+					"name": "Teli",
+					"percent": 1.4
+				},
+				{
+					"name": "Chamar/Harijan/Ram",
+					"percent": 1.3
+				},
+				{
+					"name": "Koiri/Kushwaha",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 19
+				}
+			],
+			"note": "125 caste/ethnic groups were reported in the 2011 national census",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Nepali",
+					"percent": 44.6,
+					"note": "official"
+				},
+				{
+					"name": "Maithali",
+					"percent": 11.7
+				},
+				{
+					"name": "Bhojpuri",
+					"percent": 6
+				},
+				{
+					"name": "Tharu",
+					"percent": 5.8
+				},
+				{
+					"name": "Tamang",
+					"percent": 5.1
+				},
+				{
+					"name": "Newar",
+					"percent": 3.2
+				},
+				{
+					"name": "Bajjika",
+					"percent": 3
+				},
+				{
+					"name": "Magar",
+					"percent": 3
+				},
+				{
+					"name": "Doteli",
+					"percent": 3
+				},
+				{
+					"name": "Urdu",
+					"percent": 2.6
+				},
+				{
+					"name": "Avadhi",
+					"percent": 1.9
+				},
+				{
+					"name": "Limbu",
+					"percent": 1.3
+				},
+				{
+					"name": "Gurung",
+					"percent": 1.2
+				},
+				{
+					"name": "Baitadeli",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 6.4
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.2
+				}
+			],
+			"note": "123 languages reported as mother tongue in 2011 national census; many in government and business also speak English",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Hindu",
+					"percent": 81.3
+				},
+				{
+					"name": "Buddhist",
+					"percent": 9
+				},
+				{
+					"name": "Muslim",
+					"percent": 4.4
+				},
+				{
+					"name": "Kirant",
+					"percent": 3.1
+				},
+				{
+					"name": "Christian",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 0.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.2
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 28.36,
+				"males": 4526786,
+				"females": 4073642
+			},
+			"15_to_24": {
+				"percent": 20.93,
+				"males": 3276431,
+				"females": 3070843
+			},
+			"25_to_54": {
+				"percent": 38.38,
+				"males": 5251553,
+				"females": 6387365
+			},
+			"55_to_64": {
+				"percent": 6.64,
+				"males": 954836,
+				"females": 1059360
+			},
+			"65_and_over": {
+				"percent": 5.69,
+				"males": 852969,
+				"females": 874092
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 44.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 11.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 25.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 26.9,
+				"units": "years"
+			},
+			"global_rank": 161,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.98,
+			"global_rank": 107,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.1,
+			"global_rank": 89,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.7,
+			"global_rank": 177,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3.1,
+			"global_rank": 178,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low",
+		"urbanization": {
+			"urban_population": {
+				"value": 20.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.15,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Kathmandu",
+					"population": 1424000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.11,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.82,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.98,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 20.8,
+			"date": "2016"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 186,
+			"global_rank": 49,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 25.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 26.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 23.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 68,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 71.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 72.6,
+				"units": "years"
+			},
+			"global_rank": 160,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.96,
+			"global_rank": 117,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 52.6,
+			"units": "%",
+			"date": "2016"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.91,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.3,
+			"date": "2012"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 91.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 91.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 91.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 8.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 8.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 8.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 91.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 71.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 75.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 28.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 24.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 127,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 30000,
+				"global_rank": 75,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"Japanese encephalitis",
+				"malaria",
+				"dengue fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 4.1,
+			"global_rank": 187,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 27.2,
+			"global_rank": 11,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.2,
+			"global_rank": 56,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 67.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 78.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 59.7,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 21.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 19.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 23.9,
+				"units": "%"
+			},
+			"global_rank": 59,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Federal Democratic Republic of Nepal",
+			"conventional_short_form": "Nepal",
+			"local_long_form": "Sanghiya Loktantrik Ganatantra Nepal",
+			"local_short_form": "Nepal",
+			"etymology": "the Newar people of the Kathmandu Valley and surrounding areas apparently gave their name to the country; the terms \"Nepal,\" \"Newar,\" \"Nepar,\" and \"Newal\" are phonetically different forms of the same word"
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "Kathmandu",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 27,
+					"minutes": 43,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 85,
+					"minutes": 19,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 5.75,
+				"note": "10.75 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, \"kastha\" means \"wood\" and \"mandapa\" means \"pavilion\"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Gandaki Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Karnali Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Province No. One",
+				"type": ""
+			},
+			{
+				"name": "Province No. Two",
+				"type": ""
+			},
+			{
+				"name": "Province No. Three",
+				"type": ""
+			},
+			{
+				"name": "Province No. Five",
+				"type": ""
+			},
+			{
+				"name": "Sudurpashchim Pradesh",
+				"type": ""
+			}
+		],
+		"independence": {
+			"note": "unified by Prithvi Narayan SHAH"
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "20 September",
+				"original_year": "2015",
+				"note": "marks the promulgation of Nepal’s constitution in 2015 and replaces the previous 28 May Republic Day as the official national day in Nepal"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved by the Second Constituent Assembly 16 September 2015, signed by the president and effective 20 September 2015",
+			"amendments": "proposed as a bill by either house of the Federal Parliament; bills affecting a state border or powers delegated to a state must be submitted to the affected state assembly; passage of such bills requires a majority vote of that state assembly membership; bills not requiring state assembly consent require at least two-thirds majority vote by the membership of both houses of the Federal Parliament; parts of the constitution on the sovereignty, territorial integrity, independence, and sovereignty vested in the people cannot be amended; last amended 2016"
+		},
+		"legal_system": "English common law and Hindu legal concepts; note - new criminal and civil codes came into effect on 17 August 2018",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "15 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Bidhya Devi BHANDARI (since October 2015)",
+			"head_of_government": "Prime Minister Khadga Prasad (KP) Sharma OLI (since 15 February 2018); deputy prime ministers Ishwar POKHREL, Upendra YADAV (since 1 June 2018) (an)",
+			"cabinet": "Council of Ministers appointed by the prime minister; cabinet dominated by the Nepal Communist Party",
+			"elections_appointments": "president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held 13 March 2018 (next to be held in 2023); prime minister indirectly elected by the Federal Parliament",
+			"election_results": "Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730",
+			"head_of_state": "President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015)"
+		},
+		"legislative_branch": {
+			"description": "bicameral Federal Parliament consists of: National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)\nHouse of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by party-list proportional representation vote; members serve 5-year terms)",
+			"elections": "first election for the National Assembly held on 7 February 2018 (next to be held in 2024)\nfirst election for House of Representatives held on 26 November and 7 December 2017 (next to be held in 2022)",
+			"election_results": "National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%\nHouse of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, other 4, independent 1; composition - men 185, women 90, percent of women 32.7%; note - total Federal Parliament percent of women 33.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and up to 20 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the president upon the recommendation of the Constitutional Council, a 5-member, high-level advisory body headed by the prime minister; other judges appointed by the president upon the recommendation of the Judicial Council, a 5-member advisory body headed by the chief justice; the chief justice serves a 6-year term; judges serve until age 65",
+			"subordinate_courts": "High Court; district courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Naya Shakti Party, Nepal",
+					"leaders": [
+						"Baburam BHATTARAI"
+					]
+				},
+				{
+					"name": "Nepal Communist Party",
+					"name_alternative": "NCP",
+					"leaders": [
+						"Khadga Prasad OLI",
+						"Pushpa Kamal DAHAL"
+					]
+				},
+				{
+					"name": "Nepali Congress",
+					"name_alternative": "NC",
+					"leaders": [
+						"Sher Bahadur DEUBA"
+					]
+				},
+				{
+					"name": "Nepal Mazdoor Kisan Party",
+					"leaders": [
+						"Narayan Man BIJUKCHHE"
+					]
+				},
+				{
+					"name": "Rastriya Janamorcha",
+					"leaders": [
+						"Chitra Bahadur K.C."
+					]
+				},
+				{
+					"name": "Rastriya Janata Party",
+					"name_alternative": "RJPN",
+					"leaders": [
+						"Mahanta THAKUR"
+					]
+				},
+				{
+					"name": "Rastriya Prajatantra party",
+					"name_alternative": "RPP",
+					"leaders": [
+						"Kamal THAPA"
+					]
+				}
+			],
+			"note": "the Election Commission of Nepal granted ballot access under the proportional system to 88 political parties for the November-December 2017 House of Representatives election to the Federal Parliament; of these, the following 8 parties won seats: Federal Socialist Forum, Nepal or FSFN [Upendra YADAV]"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "BIMSTEC"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "SAARC"
+			},
+			{
+				"organization": "SACEP"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNDOF"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Arjun Kumar KARKI (since 18 May 2015)",
+				"chancery": "2730 34th Place NW, Washington, DC 20007",
+				"telephone": "[1] (202) 667-4550",
+				"fax": "[1] (202) 667-5534",
+				"consulates_general": "Chicago (IL), New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Randy BERRY (since 25 October 2018)",
+				"telephone": "[977] (1) 423-4000",
+				"embassy": "Maharajgunj, Kathmandu",
+				"mailing_address": "US Embassy, Maharajgunj Chakrapath, Kathmandu, Nepal 44600",
+				"fax": "[977] (1) 400-7272"
+			}
+		},
+		"flag_description": {
+			"description": "crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (Nepal's national flower) and is a sign of victory and bravery, the blue border signifies peace and harmony; the two right triangles are a combination of two single pennons (pennants) that originally symbolized the Himalaya Mountains while their charges represented the families of the king (upper) and the prime minister, but today they are understood to denote Hinduism and Buddhism, the country's two main religions; the moon represents the serenity of the Nepalese people and the shade and cool weather in the Himalayas, while the sun depicts the heat and higher temperatures of the lower parts of Nepal; the moon and the sun are also said to express the hope that the nation will endure as long as these heavenly bodies",
+			"note": "Nepal is the only country in the world whose flag is not rectangular or square"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "rhododendron blossom"
+				},
+				{
+					"symbol": "national color: red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Sayaun Thunga Phool Ka\" (Hundreds of Flowers)",
+			"lyrics_music": "Pradeep Kumar RAI/Ambar GURUNG",
+			"note": "adopted 2007; after the abolition of the monarchy in 2006, a new anthem was required because of the previous anthem's praise for the king",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/NP.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Nepal is among the least developed countries in the world, with about one-quarter of its population living below the poverty line. Nepal is heavily dependent on remittances, which amount to as much as 30% of GDP. Agriculture is the mainstay of the economy, providing a livelihood for almost two-thirds of the population but accounting for less than a third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain.\nNepal has considerable scope for exploiting its potential in hydropower, with an estimated 42,000 MW of commercially feasible capacity. Nepal has signed trade and investment agreements with India, China, and other countries, but political uncertainty and a difficult business climate have hampered foreign investment. The United States and Nepal signed a $500 million Millennium Challenge Corporation Compact in September 2017 which will expand Nepal’s electricity infrastructure and help maintain transportation infrastructure.\nMassive earthquakes struck Nepal in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Although political gridlock and lack of capacity have hindered post-earthquake recovery, government-led reconstruction efforts have progressively picked up speed, although many hard hit areas still have seen little assistance. Additional challenges to Nepal's growth include its landlocked geographic location, inconsistent electricity supply, and underdeveloped transportation infrastructure.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 79190000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 73390000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 72960000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 95,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 24880000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 0.6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.3,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 9
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 195,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 78,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 33.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 8.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 9.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -42,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 27,
+							"units": "%"
+						},
+						"industry": {
+							"value": 13.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 59.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 45.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 40.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 44,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 7
+		},
+		"agriculture_products": {
+			"products": [
+				"pulses",
+				"rice",
+				"corn",
+				"wheat",
+				"sugarcane",
+				"jute",
+				"root crops",
+				"milk",
+				"water buffalo meat"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"carpets",
+				"textiles",
+				"small rice",
+				"jute",
+				"sugar",
+				"oilseed mills",
+				"cigarettes",
+				"cement",
+				"brick production"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 12.4,
+			"global_rank": 7,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 16810000,
+				"global_rank": 32,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 69,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12,
+						"units": "%"
+					},
+					"services": {
+						"value": 19,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 37
+		},
+		"population_below_poverty_line": {
+			"value": 25.2,
+			"units": "%",
+			"date": "2011"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 29.5,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"budget": {
+			"revenues": {
+				"value": 5925000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 5945000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 23.8,
+			"global_rank": 122,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.1,
+			"global_rank": 48,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 26.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 27.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 171
+		},
+		"fiscal_year": {
+			"start": "16 July",
+			"end": "15 July"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 9.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 168
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -93000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1339000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 85
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 818700000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 761600000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 168
+			},
+			"commodities": {
+				"by_commodity": [
+					"clothing",
+					"pulses",
+					"carpets",
+					"textiles",
+					"juice",
+					"jute goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 53.1
+					},
+					{
+						"name": "US",
+						"percent": 11.8
+					},
+					{
+						"name": "Turkey",
+						"percent": 7.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 10000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8764000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 101
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum products",
+					"machinery",
+					"equipment",
+					"gold",
+					"electrical goods",
+					"medicine"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 70.2
+					},
+					{
+						"name": "China",
+						"percent": 7.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 9091000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 8506000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 76
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 5849000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 4321000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 129
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 104,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 107.38,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 107.38,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 102.41,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 99.53,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Nepalese rupees (NPR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 2000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 93,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 94,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 93,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 4244000000,
+				"global_rank": 125,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 4983000000,
+				"global_rank": 124,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 2690000,
+				"global_rank": 94
+			},
+			"imports": {
+				"kWh": 2175000000,
+				"global_rank": 57,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 943100,
+				"global_rank": 130,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 5,
+					"global_rank": 203,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 152,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 92,
+					"global_rank": 10,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 128,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 181,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 173,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 174,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 176,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 185,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 27000,
+				"global_rank": 126,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 187,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 26120,
+				"global_rank": 106,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 177,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 181,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 159,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 164,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 175,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 8396000,
+			"global_rank": 115,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 855926,
+				"subscriptions_per_one_hundred_inhabitants": 2.85,
+				"global_rank": 80,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 41880311,
+				"subscriptions_per_one_hundred_inhabitants": 139.45,
+				"global_rank": 36,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state operates 3 TV stations, as well as national and regional radio stations; 117 television channels are licensed, among those 71 are cable television channels, three are distributed through Direct-To-Home (DTH) system, and four are digital terrestrial; 736 FM radio stations are licensed and at least 314 of those radio stations are community radio stations (2019)",
+		"internet": {
+			"country_code": ".np",
+			"users": {
+				"total": 10103980,
+				"percent_of_population": 34,
+				"global_rank": 52,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 39,
+				"annual_passenger_traffic_on_registered_air_carriers": 3296953,
+				"annual_freight_traffic_on_registered_air_carriers": 4660000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "9N",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 47,
+					"global_rank": 92,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 11,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 36,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 29,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 59,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 59,
+				"units": "km\n0.762-m"
+			},
+			"global_rank": 131,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 27990,
+				"units": "km"
+			},
+			"paved": {
+				"value": 11890,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 16100,
+				"units": "km"
+			},
+			"global_rank": 100,
+			"date": "2016"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 75
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service (including women); no conscription",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River",
+			"India has instituted a stricter border regime to restrict transit of illegal cross-border activities"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 12540,
+						"country_of_origin": "Tibet/China"
+					},
+					{
+						"people": 6396,
+						"country_of_origin": "Bhutan"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"note": "undetermined , note - the UNHCR is working with the Nepali Government to address the large number of individuals lacking citizenship certificates in Nepal; smaller numbers of Bhutanese Hindu refugees of Nepali origin (the Lhotshampa) who were stripped of Bhutanese nationality and forced to flee their country in the late 1980s and early 1990s - and undocumented Tibetan refugees who arrived in Nepal prior to the 1990s - are considered stateless",
+				"date": "2016"
+			}
+		},
+		"illicit_drugs": {
+			"note": "illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West"
+		}
+	}
+}

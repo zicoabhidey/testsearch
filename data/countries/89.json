@@ -1,0 +1,1826 @@
+{
+	"name": "Georgia",
+	"introduction": {
+		"background": "The region of present day Georgia contained the ancient kingdoms of Colchis and Kartli-Iberia. The area came under Roman influence in the first centuries A.D., and Christianity became the state religion in the 330s. Domination by Persians, Arabs, and Turks was followed by a Georgian golden age (11th-13th centuries) that was cut short by the Mongol invasion of 1236. Subsequently, the Ottoman and Persian empires competed for influence in the region. Georgia was absorbed into the Russian Empire in the 19th century. Independent for three years (1918-1921) following the Russian revolution, it was forcibly incorporated into the USSR in 1921 and regained its independence when the Soviet Union dissolved in 1991.\nMounting public discontent over rampant corruption and ineffective government services, followed by an attempt by the incumbent Georgian Government to manipulate parliamentary elections in November 2003, touched off widespread protests that led to the resignation of Eduard SHEVARDNADZE, president since 1995. In the aftermath of that popular movement, which became known as the \"Rose Revolution,\" new elections in early 2004 swept Mikheil SAAKASHVILI into power along with his United National Movement (UNM) party. Progress on market reforms and democratization has been made in the years since independence, but this progress has been complicated by Russian assistance and support to the separatist regions of Abkhazia and South Ossetia. Periodic flare-ups in tension and violence culminated in a five-day conflict in August 2008 between Russia and Georgia, including the invasion of large portions of undisputed Georgian territory. Russian troops pledged to pull back from most occupied Georgian territory, but in late August 2008 Russia unilaterally recognized the independence of Abkhazia and South Ossetia, and Russian military forces remain in those regions.\nBillionaire Bidzina IVANISHVILI's unexpected entry into politics in October 2011 brought the divided opposition together under his Georgian Dream coalition, which won a majority of seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat, SAAKASHVILI named IVANISHVILI as prime minister and allowed Georgian Dream to create a new government. Giorgi MARGVELASHVILI was inaugurated as president on 17 November 2013, ending a tense year of power-sharing between SAAKASHVILI and IVANISHVILI. At the time, these changes in leadership represented unique examples of a former Soviet state that emerged to conduct democratic and peaceful government transitions of power. IVANISHVILI voluntarily resigned from office after the presidential succession, and Georgia's legislature on 20 November 2013 confirmed Irakli GARIBASHVILI as his replacement. GARIBASHVILI was replaced by Giorgi KVIRIKASHVILI in December 2015. KVIRIKASHVILI remained prime minister following Georgian Dream’s success in the October 2016 parliamentary elections, where the party won a constitutional majority. IVANISHVILI reemerged as Georgian Dream party chairman in April 2018. KVIRIKASHVILI resigned in June 2018 and was replaced by Mamuka BAKHTADZE. In September 2019, BAKHTADZE resigned and Giorgi GAKHARIA was named the country's new head of government, Georgia's fifth prime minister in seven years. Popular and government support for integration with the West is high in Georgia. Joining the EU and NATO are among the country's top foreign policy goals."
+	},
+	"geography": {
+		"location": "Southwestern Asia, bordering the Black Sea, between Turkey and Russia, with a sliver of land north of the Caucasus extending into Europe; note - Georgia views itself as part of Europe; geopolitically, it can be classified as falling within Europe, the Middle East, or both",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 42,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 43,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 69700,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 69700,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "approximately 12,560 sq km, or about 18% of Georgia's area, is Russian occupied; the seized area includes all of Abkhazia and the breakaway region of South Ossetia, which consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti",
+			"global_rank": 122,
+			"comparative": "slightly smaller than South Carolina; slightly larger than West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1814,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Armenia",
+					"border_length": {
+						"value": 219,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Azerbaijan",
+					"border_length": {
+						"value": 428,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia",
+					"border_length": {
+						"value": 894,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Turkey",
+					"border_length": {
+						"value": 273,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 310,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "warm and pleasant; Mediterranean-like on Black Sea coast",
+		"terrain": "largely mountainous with Great Caucasus Mountains in the north and Lesser Caucasus Mountains in the south; Kolkhet'is Dablobi (Kolkhida Lowland) opens to the Black Sea in the west; Mtkvari River Basin in the east; fertile soils in river valley flood plains and foothills of Kolkhida Lowland",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1432,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Black Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mt'a Shkhara",
+				"elevation": {
+					"value": 5193,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"hydropower",
+				"manganese deposits",
+				"iron ore",
+				"copper",
+				"minor coal deposits",
+				"minor oil deposits",
+				"tea",
+				"citrus"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 35.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 5.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 27.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 39.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 4330,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest",
+		"natural_hazards": [
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution",
+				"particularly in Rust'avi",
+				"heavy water pollution of Mtkvari River and the Black Sea",
+				"inadequate supplies of potable water",
+				"soil pollution from toxic chemicals",
+				"land and forest degradation",
+				"biodiversity loss",
+				"waste management"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 3997000,
+			"global_rank": 129,
+			"date": "2019"
+		},
+		"nationality": {
+			"noun": "Georgian(s)",
+			"adjective": "Georgian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Georgian",
+					"percent": 86.8
+				},
+				{
+					"name": "Azeri",
+					"percent": 6.3
+				},
+				{
+					"name": "Armenian",
+					"percent": 4.5
+				},
+				{
+					"name": "other",
+					"percent": 2.3,
+					"note": "includes Russian, Ossetian, Yazidi, Ukrainian, Kist, Greek"
+				}
+			],
+			"date": "2014"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Georgian",
+					"percent": 87.6,
+					"note": "official"
+				},
+				{
+					"name": "Azeri",
+					"percent": 6.2
+				},
+				{
+					"name": "Armenian",
+					"percent": 3.9
+				},
+				{
+					"name": "Russian",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 1
+				}
+			],
+			"note": "Abkhaz is the official language in Abkhazia",
+			"date": "2014"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Orthodox",
+					"percent": 83.4,
+					"note": "official"
+				},
+				{
+					"name": "Muslim",
+					"percent": 10.7
+				},
+				{
+					"name": "Armenian Apostolic",
+					"percent": 2.9
+				},
+				{
+					"name": "other",
+					"percent": 1.2,
+					"note": "includes Catholic, Jehovah's Witness, Yazidi, Protestant, Jewish"
+				},
+				{
+					"name": "none",
+					"percent": 0.5
+				},
+				{
+					"name": "unspecified/no answer",
+					"percent": 1.2
+				}
+			],
+			"date": "2014"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.42,
+				"males": 472731,
+				"females": 435174
+			},
+			"15_to_24": {
+				"percent": 10.9,
+				"males": 286518,
+				"females": 250882
+			},
+			"25_to_54": {
+				"percent": 40.59,
+				"males": 984942,
+				"females": 1016353
+			},
+			"55_to_64": {
+				"percent": 13.24,
+				"males": 288650,
+				"females": 364117
+			},
+			"65_and_over": {
+				"percent": 16.85,
+				"males": 326219,
+				"females": 504444
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 31.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 23.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 38.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 35.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 41.4,
+				"units": "years"
+			},
+			"global_rank": 60,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.05,
+			"global_rank": 189,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.6,
+			"global_rank": 169,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 11,
+			"global_rank": 21,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.1,
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"population_distribution": "settlement concentrated in the central valley, particularly in the capital city of Tbilisi in the east; smaller urban agglomerations dot the Black Sea coast, with Bat'umi being the largest",
+		"urbanization": {
+			"urban_population": {
+				"value": 59.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.42,
+				"units": "%"
+			},
+			"note": "data include Abkhazia and South Ossetia",
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Tbilisi",
+					"population": 1078000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.14,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.79,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.65,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.92,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 25.4,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 25,
+			"global_rank": 121,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 13.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 15.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 11.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 101,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.3,
+				"units": "years"
+			},
+			"global_rank": 85,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.75,
+			"global_rank": 160,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 40.6,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 6.13,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.9,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 96.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 3.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 97,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 82.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 91.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 17.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 8.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 87,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 9100,
+				"global_rank": 107,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.7,
+			"global_rank": 86,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1.1,
+			"global_rank": 126,
+			"date": "2009"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.8,
+			"global_rank": 111,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.3,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 29.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 26.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 35.3,
+				"units": "%"
+			},
+			"global_rank": 29,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Georgia",
+			"local_long_form": "none",
+			"local_short_form": "Sak'art'velo",
+			"former": "Georgian Soviet Socialist Republic",
+			"etymology": "the Western name may derive from the Persian designation \"gurgan\" meaning \"Land of the Wolves\"; the native name \"Sak'art'velo\" means \"Land of the Kartvelians\" and refers to the core central Georgian region of Kartli"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Tbilisi",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 41,
+					"minutes": 41,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 44,
+					"minutes": 50,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 4,
+				"note": "9 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name in Georgian means \"warm place,\" referring to the numerous sulfuric hot springs in the area"
+		},
+		"administrative_divisions": [
+			{
+				"name": "mkhare)",
+				"type": ""
+			},
+			{
+				"name": "1 city (kalaki)",
+				"type": ""
+			},
+			{
+				"name": "and 2 autonomous republics (avtomnoy respubliki",
+				"type": ""
+			},
+			{
+				"name": "singular - avtom respublika)",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1991-04-09",
+			"note": "from the Soviet Union; notable earlier date: A.D. 1008 (Georgia unified under King BAGRAT III)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "26 May",
+				"original_year": "1918",
+				"note": "26 May 1918 was the date of independence from Soviet Russia, 9 April 1991 was the date of independence from the Soviet Union"
+			}
+		],
+		"constitution": {
+			"history": "previous 1921, 1978 (based on 1977 Soviet Union constitution); latest approved 24 August 1995, effective 17 October 1995",
+			"amendments": "proposed as a draft law supported by more than one half of the Parliament membership or by petition of at least 200,000 voters; passage requires support by at least three fourths of the Parliament membership in two successive sessions three months apart and the signature and promulgation by the president of Georgia; amended several times, last in 2020 (legislative electoral system revised)"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Georgia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Salome ZOURABICHVILI (since 16 December 2018)",
+			"head_of_government": "Prime Minister Giorgi GAKHARIA (since 8 September 2019)",
+			"cabinet": "Cabinet of Ministers",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president\nnote - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term",
+			"election_results": "Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Giorgi GAKHARIA approved as prime minister by Parliamentary vote 98-0"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)",
+			"elections": "last held on 31 October and 21 November 2020 (next to be held in October 2024)",
+			"election_results": "percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by the High Council of Justice (a 14-member body consisting of the Supreme Court chairperson, common court judges, and appointees of the president of Georgia) and appointed by Parliament; judges appointed for life; Constitutional Court judges appointed 3 each by the president, by Parliament, and by the Supreme Court judges; judges appointed for 10-year terms",
+			"subordinate_courts": "Courts of Appeal; regional (town) and district courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance of Patriots",
+					"leaders": [
+						"Irma INASHVILI"
+					]
+				},
+				{
+					"name": "Democratic Movement-United Georgia",
+					"leaders": [
+						"Nino BURJANADZE"
+					]
+				},
+				{
+					"name": "Citizens Party"
+				},
+				{
+					"name": "Development Movement",
+					"leaders": [
+						"Davit USPASHVILI"
+					]
+				},
+				{
+					"name": "European Georgia-Movement for Liberty",
+					"leaders": [
+						"Davit BAKRADZE"
+					]
+				},
+				{
+					"name": "For Justice Party",
+					"leaders": [
+						"Eka BESELIA"
+					]
+				},
+				{
+					"name": "Free Democrats",
+					"name_alternative": "FD",
+					"leaders": [
+						"Shalva SHAVGULIDZE"
+					]
+				},
+				{
+					"name": "Georgian Dream-Democratic Georgia",
+					"leaders": [
+						"Bidzina IVANISHVILI"
+					]
+				},
+				{
+					"name": "Girchi ",
+					"leaders": [
+						"Zurab JAPARIDZE"
+					],
+					"note": "Pinecone"
+				},
+				{
+					"name": "Industry Will Save Georgia",
+					"name_alternative": "IWSG",
+					"leaders": [
+						"Giorgi TOPADZE"
+					],
+					"note": "Industrialists"
+				},
+				{
+					"name": "Labor Party",
+					"leaders": [
+						"Shalva NATELASHVILI"
+					]
+				},
+				{
+					"name": "Lelo for Georgia",
+					"leaders": [
+						"Mamuka KHAZARADZE"
+					]
+				},
+				{
+					"name": "New Georgia",
+					"leaders": [
+						"Giorgi VASHADZE"
+					]
+				},
+				{
+					"name": "Republican Party",
+					"leaders": [
+						"Khatuna SAMNIDZE"
+					]
+				},
+				{
+					"name": "Strategy Aghmashenebeli",
+					"leaders": [
+						"Giorgi VASHADZE"
+					]
+				},
+				{
+					"name": "United National Movement",
+					"name_alternative": "UNM",
+					"leaders": [
+						"Grigol VASHADZE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "BSEC"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CPLP ",
+				"note": "associate"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-11"
+			},
+			{
+				"organization": "GCTU"
+			},
+			{
+				"organization": "GUAM"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador David BAKRADZE (since 18 January 2017)",
+				"chancery": "1824 R Street NW, Washington, DC 20009",
+				"telephone": "[1] (202) 387-2390",
+				"fax": "[1] (202) 387-0864",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Kelly C. DEGNAN (since 31 January 2020)",
+				"telephone": "[995] (32) 227-70-00",
+				"embassy": "11 George Balanchine Street, Tbilisi, 0131",
+				"mailing_address": "7060 T'bilisi Place, Washington, DC 20521-7060",
+				"fax": "[995] (32) 253-23-10"
+			}
+		},
+		"flag_description": {
+			"description": "white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; sometimes referred to as the Five-Cross Flag; although adopted as the official Georgian flag in 2004, the five-cross design appears to date back to the 14th century"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Saint George"
+				},
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Tavisupleba\" (Liberty)",
+			"lyrics_music": "Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMADSE)",
+			"note": "adopted 2004; after the Rose Revolution, a new anthem with music based on the operas \"Abesalom da Eteri\" and \"Daisi\" was adopted",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/GG.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.\nGeorgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.\nGeorgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.\nThe country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 39850000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 37960000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 36910000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 119,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 15160000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.8,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 47
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 10700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 9900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 138,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 62.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 29.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 2.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 50.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -62.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 8.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 23.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 67.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 23,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 75
+		},
+		"agriculture_products": {
+			"products": [
+				"citrus",
+				"grapes",
+				"tea",
+				"hazelnuts",
+				"vegetables",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"steel",
+				"machine tools",
+				"electrical appliances",
+				"mining",
+				"manganese",
+				"copper",
+				"gold",
+				"chemicals",
+				"wood products",
+				"wine"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.7,
+			"global_rank": 34,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 686000,
+				"global_rank": 150,
+				"date": "2019"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 55.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 8.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 35.5,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 160
+		},
+		"population_below_poverty_line": {
+			"value": 9.2,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31.3,
+				"units": "%"
+			},
+			"date": "2008"
+		},
+		"budget": {
+			"revenues": {
+				"value": 4352000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4925000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 28.7,
+			"global_rank": 91,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.8,
+			"global_rank": 153,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 44.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 44.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 116,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities; Georgia does not maintain intragovernmental debt or social funds"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 185
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1348000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1840000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 156
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3566000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2831000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 121
+			},
+			"commodities": {
+				"by_commodity": [
+					"vehicles",
+					"ferro-alloys",
+					"fertilizers",
+					"nuts",
+					"scrap metal",
+					"gold",
+					"copper ores"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 14.5
+					},
+					{
+						"name": "Azerbaijan",
+						"percent": 10
+					},
+					{
+						"name": "Turkey",
+						"percent": 7.9
+					},
+					{
+						"name": "Armenia",
+						"percent": 7.7
+					},
+					{
+						"name": "China",
+						"percent": 7.6
+					},
+					{
+						"name": "Bulgaria",
+						"percent": 6.6
+					},
+					{
+						"name": "Ukraine",
+						"percent": 4.6
+					},
+					{
+						"name": "US",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 7415000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6747000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 114
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuels",
+					"vehicles",
+					"machinery",
+					"parts",
+					"grain",
+					"other foods",
+					"pharmaceuticals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Turkey",
+						"percent": 17.2
+					},
+					{
+						"name": "Russia",
+						"percent": 9.9
+					},
+					{
+						"name": "China",
+						"percent": 9.2
+					},
+					{
+						"name": "Azerbaijan",
+						"percent": 7.6
+					},
+					{
+						"name": "Ukraine",
+						"percent": 5.6
+					},
+					{
+						"name": "Germany",
+						"percent": 5.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3039000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2756000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 108
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 16989999999.999998,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 14080000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 100
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.535,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.3668,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.3668,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.2694,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.7657,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "laris (GEL) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 13240000000,
+				"global_rank": 91,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 12370000000,
+				"global_rank": 87,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 560000000,
+				"global_rank": 66,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1329000000,
+				"global_rank": 63,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 4641000,
+				"global_rank": 84,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 35,
+					"global_rank": 179,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 95,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 65,
+					"global_rank": 22,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 187,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 400,
+				"global_rank": 93,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 3006,
+				"global_rank": 68,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 2660,
+				"global_rank": 78,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 35000000,
+				"global_rank": 80,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 247,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 27000,
+				"global_rank": 122,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 2052,
+				"global_rank": 104,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 28490,
+				"global_rank": 101,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 7363000,
+				"global_rank": 95,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2294000000,
+				"global_rank": 83,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 109,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 2294000000,
+				"global_rank": 50,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 8494999999.999999,
+				"global_rank": 80,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 9912000,
+			"global_rank": 109,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 638092,
+				"subscriptions_per_one_hundred_inhabitants": 12.95,
+				"global_rank": 88,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 6638125,
+				"subscriptions_per_one_hundred_inhabitants": 134.72,
+				"global_rank": 106,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "The Tbilisi-based Georgian Public Broadcaster (GPB) includes Channel 1, Channel 2 as well as the Batumi-based Adjara TV, and the State Budget funds all three; there are also a number of independent commercial television broadcasters, such as Imedi, Rustavi 2, Pirveli TV, Maestro, Kavkasia, Georgian Dream Studios (GDS), Obiektivi, Mtavari Arkhi, and a small Russian language operator TOK TV; Tabula and Post TV are web-based television outlets; all of these broadcasters and web-based television outlets, except GDS, carry the news; the Georgian Orthodox Church also operates a satellite-based television station called Unanimity; there are 26 regional television broadcasters across Georgia that are members of the Georgian Association of Regional Broadcasters and/or the Alliance of Georgian Broadcasters; the broadcaster organizations seek to strengthen the regional media's capacities and distribution of regional products: a nationwide digital switchover occurred in 2015; there are several dozen private radio stations; GPB operates 2 radio stations (2019)",
+		"internet": {
+			"country_code": ".ge",
+			"users": {
+				"total": 3151218,
+				"percent_of_population": 63.97,
+				"global_rank": 97,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 12,
+				"annual_passenger_traffic_on_registered_air_carriers": 516034,
+				"annual_freight_traffic_on_registered_air_carriers": 750000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "4L",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 22,
+					"global_rank": 134,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 18,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 4,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1596,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 1175,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 1363,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 37,
+				"electrified": 37,
+				"units": "km\n0.912-m",
+				"gauge": "gauge"
+			},
+			"broad_gauge": {
+				"length": 1326,
+				"electrified": 1251,
+				"units": "km\n1.520-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 84,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 20295,
+				"units": "km"
+			},
+			"global_rank": 113,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 82,
+			"by_type": [
+				{
+					"type": "bulk carrier 3general cargo",
+					"count": 22
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 55
+				}
+			],
+			"global_rank": 99,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Black Sea - Bat'umi",
+				"P'ot'i"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 50
+		},
+		"service_age_and_obligation": {
+			"note": "conscription reinstated in 2017; 18 to 27 years of age for compulsory and voluntary active duty military service; conscript service obligation is 12 months",
+			"date": "2019"
+		},
+		"note": "Georgia does not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but large numbers of Russian servicemen have been stationed in these regions since the 2008 Russia-Georgia War (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 301000,
+				"note": "displaced in the 1990s as a result of armed conflict in the breakaway republics of Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South Ossetia",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 559,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "limited cultivation of cannabis and opium poppy, mostly for domestic consumption; used as transshipment point for opiates via Central Asia to Western Europe and Russia"
+		}
+	}
+}

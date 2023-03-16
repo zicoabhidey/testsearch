@@ -1,0 +1,1870 @@
+{
+	"name": "Greece",
+	"introduction": {
+		"background": "Greece achieved independence from the Ottoman Empire in 1830. During the second half of the 19th century and the first half of the 20th century, it gradually added neighboring islands and territories, most with Greek-speaking populations. In World War II, Greece was first invaded by Italy (1940) and subsequently occupied by Germany (1941-44); fighting endured in a protracted civil war between supporters of the king and other anti-communist and communist rebels. Following the latter's defeat in 1949, Greece joined NATO in 1952. In 1967, a group of military officers seized power, establishing a military dictatorship that suspended many political liberties and forced the king to flee the country. In 1974 following the collapse of the dictatorship, democratic elections and a referendum created a parliamentary republic and abolished the monarchy. In 1981, Greece joined the EC (now the EU); it became the 12th member of the European Economic and Monetary Union (EMU) in 2001. Greece has suffered a severe economic crisis since late 2009, due to nearly a decade of chronic overspending and structural rigidities. Beginning in 2010, Greece entered three bailout agreements - with the European Commission, the European Central Bank (ECB), the IMF, and the third in 2015 with the European Stability Mechanism (ESM) - worth in total about $300 billion. The Greek Government formally exited the third bailout in August 2018."
+	},
+	"geography": {
+		"location": "Southern Europe, bordering the Aegean Sea, Ionian Sea, and the Mediterranean Sea, between Albania and Turkey",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 39,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 22,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 131957,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 130647,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1310,
+				"units": "sq km"
+			},
+			"global_rank": 98,
+			"comparative": "slightly smaller than Alabama"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1110,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Albania",
+					"border_length": {
+						"value": 212,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Bulgaria",
+					"border_length": {
+						"value": 472,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Macedonia",
+					"border_length": {
+						"value": 234,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Turkey",
+					"border_length": {
+						"value": 192,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 13676,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "temperate; mild, wet winters; hot, dry summers",
+		"terrain": "mountainous with ranges extending into the sea as peninsulas or chains of islands",
+		"elevation": {
+			"mean_elevation": {
+				"value": 498,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Mediterranean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Olympus",
+				"elevation": {
+					"value": 2917
+				}
+			},
+			"note": "Mount Olympus actually has 52 peaks but its highest point, Mytikas (meaning \"nose\"), rises to 2,917 meters; in Greek mythology, Olympus' Mytikas peak was the home of the Greek gods"
+		},
+		"natural_resources": {
+			"resources": [
+				"lignite",
+				"petroleum",
+				"iron ore",
+				"bauxite",
+				"lead",
+				"zinc",
+				"nickel",
+				"magnesite",
+				"marble",
+				"salt",
+				"hydropower potential"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 63.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 19.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 8.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 34.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 30.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 6.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 15550,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters",
+		"natural_hazards": [
+			{
+				"description": "severe earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "Santorini (367 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; although there have been very few eruptions in recent centuries, Methana and Nisyros in the Aegean are classified as historically active",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution",
+				"air emissions from transport and electricity power stations",
+				"water pollution",
+				"degradation of coastal zones",
+				"loss of biodiversity in terrestrial and marine ecosystems",
+				"increasing municipal and industrial waste"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Sulfur 94",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Volatile Organic Compounds"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 10607051,
+			"global_rank": 86,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Greek(s)",
+			"adjective": "Greek"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Greek",
+					"percent": 91.6
+				},
+				{
+					"name": "Albanian",
+					"percent": 4.4
+				},
+				{
+					"name": "other",
+					"percent": 4
+				}
+			],
+			"note": "data represent citizenship; Greece does not collect data on ethnicity",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Greek",
+					"percent": 99,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 1,
+					"note": "includes English and French"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Greek Orthodox",
+					"note": "official"
+				}
+			],
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.53,
+				"males": 794918,
+				"females": 745909
+			},
+			"15_to_24": {
+				"percent": 10.34,
+				"males": 577134,
+				"females": 519819
+			},
+			"25_to_54": {
+				"percent": 39.6,
+				"males": 2080443,
+				"females": 2119995
+			},
+			"55_to_64": {
+				"percent": 13.1,
+				"males": 656404,
+				"females": 732936
+			},
+			"65_and_over": {
+				"percent": 22.43,
+				"males": 1057317,
+				"females": 1322176
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 56.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 21.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 34.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 2.9,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 45.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 43.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 46.8,
+				"units": "years"
+			},
+			"global_rank": 9,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.31,
+			"global_rank": 220,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 7.8,
+			"global_rank": 225,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 12,
+			"global_rank": 17,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.9,
+			"global_rank": 61,
+			"date": "2020"
+		},
+		"population_distribution": "one-third of the population lives in and around metropolitan Athens; the remainder of the country has moderate population density mixed with sizeable urban clusters",
+		"urbanization": {
+			"urban_population": {
+				"value": 79.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.22,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Athens",
+					"population": 3153000,
+					"is_capital": true
+				},
+				{
+					"place": "Thessaloniki",
+					"population": 812000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.11,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.8,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.9,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 3,
+			"global_rank": 178,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 194,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.8,
+				"units": "years"
+			},
+			"global_rank": 38,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.38,
+			"global_rank": 217,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 5.48,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.2,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 97,
+				"date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 14000,
+				"global_rank": 93,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2017"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 24.9,
+			"global_rank": 54,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 96.9,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 20,
+				"units": "years"
+			},
+			"male": {
+				"value": 20,
+				"units": "years"
+			},
+			"female": {
+				"value": 20,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 39.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 36.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 43.9,
+				"units": "%"
+			},
+			"global_rank": 11,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Hellenic Republic",
+			"conventional_short_form": "Greece",
+			"local_long_form": "Elliniki Dimokratia",
+			"local_short_form": "Ellas or Ellada",
+			"former": "Hellenic State, Kingdom of Greece",
+			"etymology": "the English name derives from the Roman (Latin) designation \"Graecia,\" meaning \"Land of the Greeks\"; the Greeks call their country \"Hellas\" or \"Ellada\""
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Athens",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 37,
+					"minutes": 59,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 23,
+					"minutes": 44,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "Athens is the oldest European capital city; according to tradition, the city is named after Athena, the Greek goddess of wisdom; in actuality, the appellation probably derives from a lost name in a pre-Hellenic language"
+		},
+		"administrative_divisions": [
+			{
+				"name": "perifereia) and 1 autonomous monastic state",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1830-02-03",
+			"note": "from the Ottoman Empire; note - 25 March 1821, outbreak of the national revolt against the Ottomans; 3 February 1830, signing of the London Protocol recognizing Greek independence by Great Britain, France, and Russia"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "25 March",
+				"original_year": "1821"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest entered into force 11 June 1975",
+			"amendments": "proposed by at least 50 members of Parliament and agreed by three-fifths majority vote in two separate ballots at least 30 days apart; passage requires absolute majority vote by the next elected Parliament; entry into force finalized through a \"special parliamentary resolution\"; articles on human rights and freedoms and the form of government cannot be amended; amended 1986, 2001, 2008"
+		},
+		"legal_system": "civil legal system based on Roman law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Greece",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 17,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Ekaterini SAKELLAROPOULOU (since 13 March 2020)",
+			"head_of_government": "Prime Minister Kyriakos MITSOTAKIS (since 8 July 2019)",
+			"cabinet": "Cabinet appointed by the president on the recommendation of the prime minister",
+			"elections_appointments": "president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on 22 January 2020 (next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament",
+			"election_results": "Katerina SAKELLAROPOULOU (independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU is Greece's first woman president"
+		},
+		"legislative_branch": {
+			"description": "unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years);  note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold",
+			"elections": "last held on 7 July 2019 (next to be held by July 2023)",
+			"election_results": "percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by presidential decree on the advice of the Supreme Judicial Council (SJC), which includes the president of the Supreme Court, other judges, and the prosecutor of the Supreme Court; judges appointed for life following a 2-year probationary period; Council of State president appointed by the Greek Cabinet to serve a 4-year term; other judge appointments and tenure NA; Court of Audit president appointed by decree of the president of the republic on the advice of the SJC; court president serves a 4-year term or until age 67; tenure of vice presidents, councilors, and judges NA",
+			"subordinate_courts": "Courts of Appeal and Courts of First Instance (district courts)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Anticapitalist Left Cooperation for the Overthrow",
+					"name_alternative": "ANTARSYA",
+					"leaders": [
+						"collective leadership"
+					]
+				},
+				{
+					"name": "Coalition of the Radical Left",
+					"name_alternative": "SYRIZA",
+					"leaders": [
+						"Alexios  TSIPRAS"
+					],
+					"note": "Alexis"
+				},
+				{
+					"name": "Communist Party of Greece",
+					"name_alternative": "KKE",
+					"leaders": [
+						"Dimitrios KOUTSOUMBAS"
+					]
+				},
+				{
+					"name": "Democratic Left",
+					"name_alternative": "DIMAR",
+					"leaders": [
+						"Athanasios  THEOCHAROPOULOS"
+					],
+					"note": "Thanasis"
+				},
+				{
+					"name": "European Realistic Disobedience Front",
+					"name_alternative": "MeRA25",
+					"leaders": [
+						"Yanis VAROUFAKIS"
+					]
+				},
+				{
+					"name": "Greek Solution",
+					"leaders": [
+						"Kyriakos VELOPOULOS"
+					]
+				},
+				{
+					"name": "Independent Greeks",
+					"name_alternative": "ANEL",
+					"leaders": [
+						"Panagiotis  KAMMENOS"
+					],
+					"note": "Panos"
+				},
+				{
+					"name": "Movement for Change",
+					"name_alternative": "KINAL�",
+					"leaders": [
+						"Foteini  GENIMMATA"
+					],
+					"note": "Fofi"
+				},
+				{
+					"name": "New Democracy",
+					"name_alternative": "ND",
+					"leaders": [
+						"Kyriakos MITSOTAKIS"
+					]
+				},
+				{
+					"name": "People's Association-Golden Dawn",
+					"leaders": [
+						"Nikolaos MICHALOLIAKOS"
+					]
+				},
+				{
+					"name": "Popular Unity",
+					"name_alternative": "LAE",
+					"leaders": [
+						"Panagiotis LAFAZANIS"
+					]
+				},
+				{
+					"name": "The River ",
+					"leaders": [
+						"Stavros THEODORAKIS"
+					],
+					"note": "To Potami"
+				},
+				{
+					"name": "Union of Centrists",
+					"name_alternative": "EK",
+					"leaders": [
+						"Vasileios  LEVENTIS"
+					],
+					"note": "Vasilis"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Theocharis LALAKOS (since 27 June 2016)",
+				"chancery": "2217 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 939-1300",
+				"fax": "[1] (202) 939-1324",
+				"consulates_general": "Boston, Chicago, Los Angeles, New York, Tampa (FL), San Francisco",
+				"consulates": "Atlanta, Houston"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Geoffrey R. PYATT (since 24 October 2016)",
+				"telephone": "[30] (210) 721-2951",
+				"embassy": "91 Vasillisis Sophias Avenue, 10160 Athens",
+				"mailing_address": "PSC 108, APO AE 09842-0108",
+				"fax": "[30] (210) 645-6282",
+				"consulates_general": "Thessaloniki"
+			}
+		},
+		"flag_description": {
+			"description": "nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors",
+			"note": "Greek legislation states that the flag colors are cyan and white, but cyan can mean \"blue\" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Greek cross ",
+					"note": "white cross on blue field, arms equal length"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ymnos eis tin Eleftherian\" (Hymn to Liberty)",
+			"lyrics_music": "Dionysios SOLOMOS/Nikolaos MANTZAROS",
+			"note": "adopted 1864; the anthem is based on a 158-stanza poem by the same name, which was inspired by the Greek Revolution of 1821 against the Ottomans (only the first two stanzas are used); Cyprus also uses \"Hymn to Liberty\" as its anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/GR.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "Greece has a capitalist economy with a public sector accounting for about 40% of GDP and with per capita GDP about two-thirds that of the leading euro-zone economies. Tourism provides 18% of GDP. Immigrants make up nearly one-fifth of the work force, mainly in agricultural and unskilled jobs. Greece is a major beneficiary of EU aid, equal to about 3.3% of annual GDP.\nThe Greek economy averaged growth of about 4% per year between 2003 and 2007, but the economy went into recession in 2009 as a result of the world financial crisis, tightening credit conditions, and Athens' failure to address a growing budget deficit. By 2013, the economy had contracted 26%, compared with the pre-crisis level of 2007. Greece met the EU's Growth and Stability Pact budget deficit criterion of no more than 3% of GDP in 2007-08, but violated it in 2009, when the deficit reached 15% of GDP. Deteriorating public finances, inaccurate and misreported statistics, and consistent underperformance on reforms prompted major credit rating agencies to downgrade Greece's international debt rating in late 2009 and led the country into a financial crisis. Under intense pressure from the EU and international market participants, the government accepted a bailout program that called on Athens to cut government spending, decrease tax evasion, overhaul the civil-service, health-care, and pension systems, and reform the labor and product markets. Austerity measures reduced the deficit to 1.3% in 2017. Successive Greek governments, however, failed to push through many of the most unpopular reforms in the face of widespread political opposition, including from the country's powerful labor unions and the general public.\nIn April 2010, a leading credit agency assigned Greek debt its lowest possible credit rating, and in May 2010, the IMF and euro-zone governments provided Greece emergency short- and medium-term loans worth $147 billion so that the country could make debt repayments to creditors. Greece, however, struggled to meet the targets set by the EU and the IMF, especially after Eurostat - the EU's statistical office - revised upward Greece's deficit and debt numbers for 2009 and 2010. European leaders and the IMF agreed in October 2011 to provide Athens a second bailout package of $169 billion. The second deal called for holders of Greek government bonds to write down a significant portion of their holdings to try to alleviate Greece’s government debt burden. However, Greek banks, saddled with a significant portion of sovereign debt, were adversely affected by the write down and $60 billion of the second bailout package was set aside to ensure the banking system was adequately capitalized.\nIn 2014, the Greek economy began to turn the corner on the recession. Greece achieved three significant milestones: balancing the budget - not including debt repayments; issuing government debt in financial markets for the first time since 2010; and generating 0.7% GDP growth — the first economic expansion since 2007.\nDespite the nascent recovery, widespread discontent with austerity measures helped propel the far-left Coalition of the Radical Left (SYRIZA) party into government in national legislative elections in January 2015. Between January and July 2015, frustrations grew between the SYRIZA-led government and Greece’s EU and IMF creditors over the implementation of bailout measures and disbursement of funds. The Greek government began running up significant arrears to suppliers, while Greek banks relied on emergency lending, and Greece’s future in the euro zone was called into question. To stave off a collapse of the banking system, Greece imposed capital controls in June 2015, then became the first developed nation to miss a loan payment to the IMF, rattling international financial markets. Unable to reach an agreement with creditors, Prime Minister Alexios TSIPRAS held a nationwide referendum on 5 July on whether to accept the terms of Greece’s bailout, campaigning for the ultimately successful \"no\" vote. The TSIPRAS government subsequently agreed, however, to a new $96 billion bailout in order to avert Greece’s exit from the monetary bloc. On 20 August 2015, Greece signed its third bailout, allowing it to cover significant debt payments to its EU and IMF creditors and to ensure the banking sector retained access to emergency liquidity. The TSIPRAS government — which retook office on 20 September 2015 after calling new elections in late August — successfully secured disbursal of two delayed tranches of bailout funds. Despite the economic turmoil, Greek GDP did not contract as sharply as feared, boosted in part by a strong tourist season.\nIn 2017, Greece saw improvements in GDP and unemployment. Unfinished economic reforms, a massive non-performing loan problem, and ongoing uncertainty regarding the political direction of the country hold the economy back. Some estimates put Greece’s black market at 20- to 25% of GDP, as more people have stopped reporting their income to avoid paying taxes that, in some cases, have risen to 70% of an individual’s gross income.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 299300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 295300000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 296000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 56,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 200700000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.87,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.91,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 1.44,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 145
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 27800,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 27400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 27300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 75,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 69.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 20.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 12.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 33.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -34.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 4.1,
+							"units": "%"
+						},
+						"industry": {
+							"value": 16.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 79.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 10.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 9.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 9.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 159
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"corn",
+				"barley",
+				"sugar beets",
+				"olives",
+				"tomatoes",
+				"wine",
+				"tobacco",
+				"potatoes",
+				"beef",
+				"dairy products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"food",
+				"tobacco processing",
+				"textiles",
+				"chemicals",
+				"metal products",
+				"mining",
+				"petroleum"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.5,
+			"global_rank": 85,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4000000,
+				"global_rank": 90,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 12.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15,
+						"units": "%"
+					},
+					"services": {
+						"value": 72.4,
+						"units": "%"
+					}
+				},
+				"date": "2015-10-30"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 17.3,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 19.34,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 182
+		},
+		"population_below_poverty_line": {
+			"value": 36,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 26.7,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 97990000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 96350000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 48.8,
+			"global_rank": 17,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0.8,
+			"global_rank": 36,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 181.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 183.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 2
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 59
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -3114000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -6245000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 175
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 31540000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 27100000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 63
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"beverages",
+					"manufactured goods",
+					"petroleum products",
+					"chemicals",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Italy",
+						"percent": 10.6
+					},
+					{
+						"name": "Germany",
+						"percent": 7.1
+					},
+					{
+						"name": "Turkey",
+						"percent": 6.8
+					},
+					{
+						"name": "Cyprus",
+						"percent": 6.5
+					},
+					{
+						"name": "Bulgaria",
+						"percent": 4.9
+					},
+					{
+						"name": "Lebanon",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 52270000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 45450000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 52
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"fuels",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 10.4
+					},
+					{
+						"name": "Italy",
+						"percent": 8.2
+					},
+					{
+						"name": "Russia",
+						"percent": 6.8
+					},
+					{
+						"name": "Iraq",
+						"percent": 6.3
+					},
+					{
+						"name": "South Korea",
+						"percent": 6.1
+					},
+					{
+						"name": "China",
+						"percent": 5.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.3
+					},
+					{
+						"name": "France",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 7807000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 6026000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 80
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 506600000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 468200000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 23
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 52050000000,
+				"global_rank": 53,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 56890000000,
+				"global_rank": 45,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1036999999.9999999,
+				"global_rank": 58,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 9833000000,
+				"global_rank": 27,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 19170000,
+				"global_rank": 46,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 57,
+					"global_rank": 137,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 98,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 14,
+					"global_rank": 105,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 29,
+					"global_rank": 19,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 4100,
+				"global_rank": 80,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 3229,
+				"global_rank": 67,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 484300,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 10000000,
+				"global_rank": 90,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 655400,
+				"global_rank": 28,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 304100,
+				"global_rank": 43,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 371900,
+				"global_rank": 22,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 192200,
+				"global_rank": 35,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 8000000,
+				"global_rank": 93,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 4927000000,
+				"global_rank": 61,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 112,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 4984000000,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 991100000,
+				"global_rank": 100,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 69370000,
+			"global_rank": 51,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 5080386,
+				"subscriptions_per_one_hundred_inhabitants": 47.75,
+				"global_rank": 29,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 12070571,
+				"subscriptions_per_one_hundred_inhabitants": 113.45,
+				"global_rank": 75,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "broadcast media dominated by the private sector; roughly 150 private TV channels, about 10 of which broadcast nationwide; 1 government-owned terrestrial TV channel with national coverage; 3 privately owned satellite channels; multi-channel satellite and cable TV services available; upwards of 1,500 radio stations, all of them privately owned; government-owned broadcaster has 2 national radio stations",
+		"internet": {
+			"country_code": ".gr",
+			"users": {
+				"total": 7783381,
+				"percent_of_population": 72.95,
+				"global_rank": 61,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 11,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 97,
+				"annual_passenger_traffic_on_registered_air_carriers": 15125933,
+				"annual_freight_traffic_on_registered_air_carriers": 21910000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "SX",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 77,
+					"global_rank": 69,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 68,
+					"over_3047_metres": 6,
+					"2438_to_3047_metres": 15,
+					"1524_to_2437_metres": 19,
+					"914_to_1523_metres": 18,
+					"under_914_metres": 10,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 9,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 7,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 9,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1329,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 94,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 2548,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 1565,
+				"electrified": 764,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 961,
+				"units": "km\n1.000-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 67,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 117000,
+				"units": "km"
+			},
+			"global_rank": 42,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 6,
+			"units": "km",
+			"note": "the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km",
+			"global_rank": 106,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 1308,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 180
+				},
+				{
+					"type": "container ship",
+					"count": 6
+				},
+				{
+					"type": "general cargo",
+					"count": 95
+				},
+				{
+					"type": "oil tanker",
+					"count": 375
+				},
+				{
+					"type": "other",
+					"count": 652
+				}
+			],
+			"global_rank": 22,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Aspropyrgos",
+				"Pachi",
+				"Piraeus",
+				"Thessaloniki"
+			],
+			"oil_terminals": [
+				"Agioi Theodoroi"
+			],
+			"container_ports": [
+				{
+					"place": "Piraeus",
+					"twenty_foot_equivalent_units": 4145079
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Revithoussa"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.28,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.48,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.34,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.38,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 41
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 19,
+			"note": "19-45 years of age for compulsory military service; during wartime the law allows for recruitment beginning January of the year of inductee's 18th birthday, thus including 17 year olds; 18 years of age for volunteers; conscript service obligation is 1 year for the Army and 9 months for the Air Force and Navy; women are eligible for voluntary military service",
+			"date": "2014"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Greece and Turkey continue discussions to resolve their complex maritime, air, territorial, and boundary disputes in the Aegean Sea",
+			"the mass migration of unemployed Albanians still remains a problem for developed countries, chiefly Greece and Italy"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 26696,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 17685,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 9614,
+						"country_of_origin": "Afghanistan"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 4734,
+				"date": "2019"
+			},
+			"note": "1,203,437 estimated refugee and migrant arrivals (January 2015-November 2020), as of the end of December 2019, an estimated 112,300 migrants and refugees were stranded in Greece since 2015-16; 50,215 migrant arrivals in 2018"
+		},
+		"illicit_drugs": {
+			"note": "a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime"
+		}
+	}
+}

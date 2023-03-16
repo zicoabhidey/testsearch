@@ -1,0 +1,1724 @@
+{
+	"name": "El Salvador",
+	"introduction": {
+		"background": "El Salvador achieved independence from Spain in 1821 and from the Central American Federation in 1839. A 12-year civil war, which cost about 75,000 lives, was brought to a close in 1992 when the government and leftist rebels signed a treaty that provided for military and political reforms. El Salvador is beset by one of the world's highest homicide rates and pervasive criminal gangs."
+	},
+	"geography": {
+		"location": "Central America, bordering the North Pacific Ocean, between Guatemala and Honduras",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 50,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 88,
+				"minutes": 55,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 21041,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 20721,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 320,
+				"units": "sq km"
+			},
+			"global_rank": 154,
+			"comparative": "about the same size as New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 590,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Guatemala",
+					"border_length": {
+						"value": 199,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Honduras",
+					"border_length": {
+						"value": 391,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 307,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands",
+		"terrain": "mostly mountains with narrow coastal belt and central plateau",
+		"elevation": {
+			"mean_elevation": {
+				"value": 442,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Cerro El Pital",
+				"elevation": {
+					"value": 2730,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower",
+				"geothermal power",
+				"petroleum",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 74.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 33.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 10.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 30.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 13.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 11.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 452,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador",
+		"natural_hazards": [
+			{
+				"description": "known as the Land of Volcanoes",
+				"type": "hazard"
+			},
+			{
+				"description": "frequent and sometimes destructive earthquakes and volcanic activity",
+				"type": "hazard"
+			},
+			{
+				"description": "extremely susceptible to hurricanes",
+				"type": "hazard"
+			},
+			{
+				"description": "significant volcanic activity; San Salvador (1,893 m), which last erupted in 1917, has the potential to cause major harm to the country's capital, which lies just below the volcano's slopes; San Miguel (2,130 m), which last erupted in 2002, is one of the most active volcanoes in the country; other historically active volcanoes include Conchaguita, Ilopango, Izalco, and Santa Ana",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"soil erosion",
+				"water pollution",
+				"contamination of soils from disposal of toxic wastes"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 6481102,
+			"global_rank": 109,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Salvadoran(s)",
+			"adjective": "Salvadoran"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 86.3
+				},
+				{
+					"name": "white",
+					"percent": 12.7
+				},
+				{
+					"name": "Amerindian",
+					"percent": 0.2,
+					"note": "includes Lenca, Kakawira, Nahua-Pipil"
+				},
+				{
+					"name": "black",
+					"percent": 0.1
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				}
+			],
+			"date": "2007"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				},
+				{
+					"name": "Nawat",
+					"note": "among some Amerindians"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 50
+				},
+				{
+					"name": "Protestant",
+					"percent": 36
+				},
+				{
+					"name": "other",
+					"percent": 2
+				},
+				{
+					"name": "none",
+					"percent": 12
+				}
+			],
+			"date": "2014"
+		},
+		"demographic_profile": "El Salvador is the smallest and most densely populated country in Central America. It is well into its demographic transition, experiencing slower population growth, a decline in its number of youths, and the gradual aging of its population. The increased use of family planning has substantially lowered El Salvador's fertility rate, from approximately 6 children per woman in the 1970s to replacement level today. A 2008 national family planning survey showed that female sterilization remained the most common contraception method in El Salvador - its sterilization rate is among the highest in Latin America and the Caribbean - but that the use of injectable contraceptives is growing. Fertility differences between rich and poor and urban and rural women are narrowing.\nSalvadorans fled during the 1979 to 1992 civil war mainly to the United States but also to Canada and to neighboring Mexico, Guatemala, Honduras, Nicaragua, and Costa Rica. Emigration to the United States increased again in the 1990s and 2000s as a result of deteriorating economic conditions, natural disasters (Hurricane Mitch in 1998 and earthquakes in 2001), and family reunification. At least 20% of El Salvador's population lives abroad. The remittances they send home account for close to 20% of GDP, are the second largest source of external income after exports, and have helped reduce poverty.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 25.83,
+				"males": 857003,
+				"females": 817336
+			},
+			"15_to_24": {
+				"percent": 18.82,
+				"males": 619368,
+				"females": 600501
+			},
+			"25_to_54": {
+				"percent": 40.51,
+				"males": 1221545,
+				"females": 1404163
+			},
+			"55_to_64": {
+				"percent": 7.23,
+				"males": 198029,
+				"females": 270461
+			},
+			"65_and_over": {
+				"percent": 7.6,
+				"males": 214717,
+				"females": 277979
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 54.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 41.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 27.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 26.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 29.3,
+				"units": "years"
+			},
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.83,
+			"global_rank": 126,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.6,
+			"global_rank": 82,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.9,
+			"global_rank": 170,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -4.8,
+			"global_rank": 195,
+			"date": "2020"
+		},
+		"population_distribution": "athough it is the smallest country in land area in Central America, El Salvador has a population that is 18 times larger than Belize; at least 20% of the population lives abroad; high population density country-wide, with particular concentration around the capital of San Salvador",
+		"urbanization": {
+			"urban_population": {
+				"value": 73.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.57,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "San Salvador",
+					"population": 1106000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.87,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.73,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.92,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 20.8,
+			"date": "2008"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 46,
+			"global_rank": 95,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 13.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 109,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.6,
+				"units": "years"
+			},
+			"global_rank": 124,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.09,
+			"global_rank": 100,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 71.9,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.57,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.2,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 92.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 7.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 94.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 5.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.6,
+				"global_rank": 62,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 27000,
+				"global_rank": 79,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea"
+			],
+			"vectorborne_diseases": [
+				"dengue fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 24.6,
+			"global_rank": 57,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 5,
+			"global_rank": 82,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.8,
+			"global_rank": 110,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 88.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 90.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 86.7,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 9.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 8.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 11.7,
+				"units": "%"
+			},
+			"global_rank": 128,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of El Salvador",
+			"conventional_short_form": "El Salvador",
+			"local_long_form": "Republica de El Salvador",
+			"local_short_form": "El Salvador",
+			"etymology": "name is an abbreviation of the original Spanish conquistador designation for the area \"Provincia de Nuestro Senor Jesus Cristo, el Salvador del Mundo\" (Province of Our Lord Jesus Christ, the Saviour of the World), which became simply \"El Salvador\" (The Savior)"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "San Salvador",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 13,
+					"minutes": 42,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 89,
+					"minutes": 12,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -6,
+				"note": "1 hour behind Washington, DC, during Standard Time"
+			},
+			"etymology": "Spanish for \"Holy Savior\" (referring to Jesus Christ)"
+		},
+		"independence": {
+			"date": "1821-09-15",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "15 September",
+				"original_year": "1821"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest drafted 16 December 1983, enacted 23 December 1983",
+			"amendments": "proposals require agreement by absolute majority of the Legislative Assembly membership; passage requires at least two-thirds majority vote of the Assembly; constitutional articles on basic principles, and citizen rights and freedoms cannot be amended; amended many times, last in 2018"
+		},
+		"legal_system": "civil law system with minor common law influence; judicial review of legislative acts in the Supreme Court",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President Felix Augusto Antonio ULLOA Garay (since 1 June 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President Felix Augusto Antonio ULLOA Garay (since 1 June 2019)",
+			"cabinet": "Council of Ministers selected by the president",
+			"elections_appointments": "president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 3 February 2019 (next to be held on February 2024)",
+			"election_results": "Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.72%, Hugo MARTINEZ (FMLN) 14.41%, other 0.77%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote to serve 3-year terms)",
+			"elections": "last held on 4 March 2018 (next to be held in March 2021)",
+			"election_results": "percent of vote by party - ARENA 42.3%, FMLN 24.4%, GANA 11.5%, PCN 10.8%, PDC 3.2%, CD 0.9%, Independent 0.7%, other 6.2%; seats by party - ARENA 37, FMLN 23, GANA 11, PCN 8, PDC 3, CD 1, independent 1; composition -men 58, women 26, percent of women 31%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Corte Suprema de Justicia (consists of 16 judges and 16 substitutes judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)",
+			"judge_selection_and_term_of_office": "judges elected by the Legislative Assembly on the recommendation of both the National Council of the Judicature, an independent body elected by the Legislative Assembly, and the Bar Association; judges elected for 9-year terms, with renewal of one-third of membership every 3 years; consecutive reelection is allowed",
+			"subordinate_courts": "Appellate Courts; Courts of First Instance; Courts of Peace"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Christian Democratic Party",
+					"name_alternative": "PDC",
+					"leaders": [
+						"Rodolfo Antonio PARKER Soto"
+					]
+				},
+				{
+					"name": "Democratic Change",
+					"name_alternative": "CD",
+					"leaders": [
+						"Douglas AVILES"
+					],
+					"note": "Cambio Democratico; formerly United Democratic Center or CDU"
+				},
+				{
+					"name": "Farabundo Marti National Liberation Front",
+					"name_alternative": "FMLN",
+					"leaders": [
+						"Medardo GONZALEZ"
+					]
+				},
+				{
+					"name": "Great Alliance for National Unity",
+					"name_alternative": "GANA",
+					"leaders": [
+						"Jose Andres ROVIRA Caneles"
+					]
+				},
+				{
+					"name": "National Coalition Party",
+					"name_alternative": "PCN",
+					"leaders": [
+						"Manuel RODRIGUEZ"
+					]
+				},
+				{
+					"name": "Nationalist Republican Alliance",
+					"name_alternative": "ARENA",
+					"leaders": [
+						"Mauricio INTERIANO"
+					]
+				},
+				{
+					"name": "Nuevas Ideas",
+					"leaders": [
+						"Federico Gerardo ANLIKER"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "CACM"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-11"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "SICA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Werner Matias ROMERO Guerra (since 9 June 2019)",
+				"chancery": "1400 16th Street NW, Suite 100, Washington, DC 20036",
+				"telephone": "[1] (202) 595-7500",
+				"fax": "[1] (202) 232-1928",
+				"consulates_general": "Atlanta, Boston, Brentwood (NY), Chicago, Dallas, Doral (FL), Doraville (GA), Houston, Las Vegas (NV), Los Angeles, McAllen (TX), New York, Nogales (AZ), San Francisco, Silver Spring (MD), Tucson (AZ), Washington, DC, Woodbridge (VA)",
+				"consulates": "Elizabeth (NJ), Newark (NJ), Seattle, Woodbridge (VA)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Ronald D. JOHNSON (since 6 September 2019)",
+				"telephone": "[503] 2501-2999",
+				"embassy": "Final Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad, San Salvador",
+				"mailing_address": "Unit 3450, APO AA 34023; 3450 San Salvador Place, Washington, DC 20521-3450",
+				"fax": "[503] 2501-2150"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity",
+			"note": "similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "turquoise-browed motmot ",
+					"note": "bird"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional de El Salvador\" (National Anthem of El Salvador)",
+			"lyrics_music": "Juan Jose CANAS/Juan ABERLE",
+			"note": "officially adopted 1953, in use since 1879; at:20 minutes, the anthem of El Salvador is one of the world's longest",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/ES.mp3?1538604753"
+		}
+	},
+	"economy": {
+		"overview": "The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.\nIn 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.\nThe Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 51170000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 50010000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 48750000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 109,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 24810000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.3,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 121
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 7700,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 152,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 84.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 27.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -44.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 12,
+							"units": "%"
+						},
+						"industry": {
+							"value": 27.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 60.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 14.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 13,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 12.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 137
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"sugar",
+				"corn",
+				"rice",
+				"beans",
+				"oilseed",
+				"cotton",
+				"sorghum",
+				"beef",
+				"dairy products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food processing",
+				"beverages",
+				"petroleum",
+				"chemicals",
+				"fertilizer",
+				"textiles",
+				"furniture",
+				"light metals"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.6,
+			"global_rank": 81,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2908000,
+				"global_rank": 105,
+				"date": "2019"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 21,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20,
+						"units": "%"
+					},
+					"services": {
+						"value": 58,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 113,
+			"note": "data are official rates; but underemployment is high"
+		},
+		"population_below_poverty_line": {
+			"value": 32.7,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 32.3,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 5886000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 6517000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 23.7,
+			"global_rank": 123,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.5,
+			"global_rank": 114,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 67.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 66.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 54,
+			"note": "El Salvador's total public debt includes non-financial public sector debt, financial public sector debt, and central bank debt"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 51
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -501000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -500000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 122
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4662000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5420000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 111
+			},
+			"commodities": {
+				"by_commodity": [
+					"offshore assembly exports",
+					"coffee",
+					"sugar",
+					"textiles",
+					"apparel",
+					"ethanol",
+					"chemicals",
+					"electricity",
+					"iron",
+					"steel manufactures"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 45.7
+					},
+					{
+						"name": "Honduras",
+						"percent": 13.9
+					},
+					{
+						"name": "Guatemala",
+						"percent": 13.5
+					},
+					{
+						"name": "Nicaragua",
+						"percent": 6.7
+					},
+					{
+						"name": "Costa Rica",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 9499000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8954000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 103
+			},
+			"commodities": {
+				"by_commodity": [
+					"raw materials",
+					"consumer goods",
+					"capital goods",
+					"fuels",
+					"foodstuffs",
+					"petroleum",
+					"electricity"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 36.7
+					},
+					{
+						"name": "Guatemala",
+						"percent": 10.5
+					},
+					{
+						"name": "China",
+						"percent": 8.7
+					},
+					{
+						"name": "Mexico",
+						"percent": 7.4
+					},
+					{
+						"name": "Honduras",
+						"percent": 6.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3567000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3238000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 104
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 15510000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 16320000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 102
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2017"
+				}
+			],
+			"note": "the US dollar is used as a medium of exchange and circulates freely in the economy"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 400000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 98.6,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 98.6,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 98.8,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 5830000000,
+				"global_rank": 116,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 5928000000,
+				"global_rank": 116,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 89600000,
+				"global_rank": 82,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 1066000000,
+				"global_rank": 70,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1983000,
+				"global_rank": 113,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 49,
+					"global_rank": 154,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 83,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 23,
+					"global_rank": 84,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 29,
+					"global_rank": 18,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 130,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 117,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 120,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 126,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 138,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 52000,
+				"global_rank": 103,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 347,
+				"global_rank": 115,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 49280,
+				"global_rank": 82,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 126,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 141,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 98,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 119,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 130,
+				"date": "2017-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7331000,
+			"global_rank": 124,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 882498,
+				"subscriptions_per_one_hundred_inhabitants": 13.73,
+				"global_rank": 79,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 9442667,
+				"subscriptions_per_one_hundred_inhabitants": 146.91,
+				"global_rank": 91,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple privately owned national terrestrial TV networks, supplemented by cable TV networks that carry international channels; hundreds of commercial radio broadcast stations and 1 government-owned radio broadcast station; transition to digital transmission to begin in 2018 along with adaptation of the Japanese-Brazilian Digital Standard (ISDB-T)",
+		"internet": {
+			"country_code": ".sv",
+			"users": {
+				"total": 2153776,
+				"percent_of_population": 33.82,
+				"global_rank": 120,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 13,
+				"annual_passenger_traffic_on_registered_air_carriers": 2545105,
+				"annual_freight_traffic_on_registered_air_carriers": 10730000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "YS",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 68,
+					"global_rank": 73,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 5,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 63,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 11,
+					"under_914_metres": 51,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 13,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 12.5,
+				"units": "km\n0.914-m"
+			},
+			"global_rank": 135,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 9012,
+				"units": "km"
+			},
+			"paved": {
+				"value": 5341,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3671,
+				"units": "km"
+			},
+			"global_rank": 138,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 2,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 2
+				}
+			],
+			"global_rank": 173,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Puerto Cutuco"
+			],
+			"oil_terminals": [
+				"Acajutla offshore terminal"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.95,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 103
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"International Court of Justice (ICJ) ruled on the delimitation of \"bolsones\" (disputed areas) along the El Salvador-Honduras boundary, in 1992, with final agreement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003",
+			"the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca advocating Honduran access to the Pacific",
+			"El Salvador continues to claim tiny Conejo Island, not identified in the ICJ decision, off Honduras in the Gulf of Fonseca"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 71500,
+				"date": "2018"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for cocaine; small amounts of marijuana produced for local consumption; significant use of cocaine"
+		}
+	}
+}

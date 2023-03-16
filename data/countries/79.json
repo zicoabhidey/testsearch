@@ -1,0 +1,1919 @@
+{
+	"name": "Ethiopia",
+	"introduction": {
+		"background": "Unique among African countries, the ancient Ethiopian monarchy maintained its freedom from colonial rule with the exception of a short-lived Italian occupation from 1936-41. In 1974, a military junta, the Derg, deposed Emperor Haile SELASSIE (who had ruled since 1930) and established a socialist state. Torn by bloody coups, uprisings, wide-scale drought, and massive refugee problems, the regime was finally toppled in 1991 by a coalition of rebel forces, the Ethiopian People's Revolutionary Democratic Front (EPRDF). A constitution was adopted in 1994, and Ethiopia's first multiparty elections were held in 1995.\nA border war with Eritrea in the late 1990s ended with a peace treaty in December 2000. In November 2007, the Eritrea-Ethiopia Border Commission (EEBC) issued specific coordinates as virtually demarcating the border and pronounced its work finished. Alleging that the EEBC acted beyond its mandate in issuing the coordinates, Ethiopia did not accept them and maintained troops in previously contested areas pronounced by the EEBC as belonging to Eritrea. This intransigence resulted in years of heightened tension between the two countries. In August 2012, longtime leader Prime Minister MELES Zenawi died in office and was replaced by his Deputy Prime Minister HAILEMARIAM Desalegn, marking the first peaceful transition of power in decades. Following a wave of popular dissent and anti-government protest that began in 2015, HAILEMARIAM resigned in February 2018 and ABIY Ahmed Ali took office in April 2018 as Ethiopia's first ethnic Oromo prime minister. In June 2018, ABIY announced Ethiopia would accept the border ruling of 2000, prompting rapprochement between Ethiopia and Eritrea that was marked with a peace agreement in July 2018 and a reopening of the border in September 2018. In November 2019, Ethiopia's nearly 30-year ethnic-based ruling coalition - the EPRDF - merged into a single unity party called the Prosperity Party, however, one of the four constituent parties refused to join."
+	},
+	"geography": {
+		"location": "Eastern Africa, west of Somalia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 38,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1104300,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1096570,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 7730,
+				"units": "sq km"
+			},
+			"note": "area numbers are approximate since a large portion of the Ethiopia-Somalia border is undefined",
+			"global_rank": 28,
+			"comparative": "slightly less than twice the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 5925,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Djibouti",
+					"border_length": {
+						"value": 342,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Eritrea",
+					"border_length": {
+						"value": 1033,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kenya",
+					"border_length": {
+						"value": 867,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Somalia",
+					"border_length": {
+						"value": 1640,
+						"units": "km"
+					}
+				},
+				{
+					"country": "South Sudan",
+					"border_length": {
+						"value": 1299,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sudan",
+					"border_length": {
+						"value": 744,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "tropical monsoon with wide topographic-induced variation",
+		"terrain": "high plateau with central mountain range divided by Great Rift Valley",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1330,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Danakil Depression",
+				"elevation": {
+					"value": -125,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Ras Dejen",
+				"elevation": {
+					"value": 4550,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"small reserves of gold",
+				"platinum",
+				"copper",
+				"potash",
+				"natural gas",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 36.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 15.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 20,
+					"units": "%"
+				},
+				"forest": {
+					"value": 12.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 51.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 2900,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "geologically active Great Rift Valley susceptible to earthquakes, volcanic eruptions",
+				"type": "hazard"
+			},
+			{
+				"description": "frequent droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity in the Great Rift Valley; Erta Ale (613 m), which has caused frequent lava flows in recent years, is the country's most active volcano; Dabbahu became active in 2005, forcing evacuations; other historically active volcanoes include Alayta, Dalaffilla, Dallol, Dama Ali, Fentale, Kone, Manda Hararo, and Manda-Inakir",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"overgrazing",
+				"soil erosion",
+				"desertification",
+				"loss of biodiversity",
+				"water shortages in some areas from water-intensive farming and poor management",
+				"industrial pollution and pesticides contribute to air",
+				"water",
+				"and soil pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": [
+					"Environmental Modification",
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 108113150,
+			"global_rank": 13,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Ethiopian(s)",
+			"adjective": "Ethiopian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Oromo",
+					"percent": 34.9
+				},
+				{
+					"name": "Amhara",
+					"percent": 27.9,
+					"note": "Amara"
+				},
+				{
+					"name": "Tigray",
+					"percent": 7.3,
+					"note": "Tigrinya"
+				},
+				{
+					"name": "Sidama",
+					"percent": 4.1
+				},
+				{
+					"name": "Welaita",
+					"percent": 3
+				},
+				{
+					"name": "Gurage",
+					"percent": 2.8
+				},
+				{
+					"name": "Somali",
+					"percent": 2.7,
+					"note": "Somalie"
+				},
+				{
+					"name": "Hadiya",
+					"percent": 2.2
+				},
+				{
+					"name": "Afar  .6%",
+					"note": "Affar"
+				},
+				{
+					"name": "other",
+					"percent": 12.6
+				}
+			],
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Oromo",
+					"percent": 33.8,
+					"note": "official working language in the State of Oromiya"
+				},
+				{
+					"name": "Amharic",
+					"percent": 29.3,
+					"note": "official national language"
+				},
+				{
+					"name": "Somali",
+					"percent": 6.2,
+					"note": "official working language of the State of Sumale"
+				},
+				{
+					"name": "Tigrigna",
+					"percent": 5.9,
+					"note": "Tigrinya; official working language of the State of Tigray"
+				},
+				{
+					"name": "Sidamo",
+					"percent": 4
+				},
+				{
+					"name": "Wolaytta",
+					"percent": 2.2
+				},
+				{
+					"name": "Gurage",
+					"percent": 2
+				},
+				{
+					"name": "Afar",
+					"percent": 1.7,
+					"note": "official working language of the State of Afar"
+				},
+				{
+					"name": "Hadiyya",
+					"percent": 1.7
+				},
+				{
+					"name": "Gamo",
+					"percent": 1.5
+				},
+				{
+					"name": "Gedeo",
+					"percent": 1.3
+				},
+				{
+					"name": "Opuuo",
+					"percent": 1.2
+				},
+				{
+					"name": "Kafa",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 8.1
+				},
+				{
+					"name": "English",
+					"note": "major foreign language taught in schools"
+				},
+				{
+					"name": "Arabic"
+				}
+			],
+			"date": "2007"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Ethiopian Orthodox",
+					"percent": 43.8
+				},
+				{
+					"name": "Muslim",
+					"percent": 31.3
+				},
+				{
+					"name": "Protestant",
+					"percent": 22.8
+				},
+				{
+					"name": "Catholic",
+					"percent": 0.7
+				},
+				{
+					"name": "traditional .6%"
+				},
+				{
+					"name": "other",
+					"percent": 0.8
+				}
+			],
+			"date": "2016"
+		},
+		"demographic_profile": "Ethiopia is a predominantly agricultural country – more than 80% of the population lives in rural areas – that is in the early stages of demographic transition. Infant, child, and maternal mortality have fallen sharply over the past decade, but the total fertility rate has declined more slowly and the population continues to grow. The rising age of marriage and the increasing proportion of women remaining single have contributed to fertility reduction. While the use of modern contraceptive methods among married women has increased significantly from 6 percent in 2000 to 27 percent in 2012, the overall rate is still quite low.\nEthiopia’s rapid population growth is putting increasing pressure on land resources, expanding environmental degradation, and raising vulnerability to food shortages. With more than 40 percent of the population below the age of 15 and a fertility rate of over 5 children per woman (and even higher in rural areas), Ethiopia will have to make further progress in meeting its family planning needs if it is to achieve the age structure necessary for reaping a demographic dividend in the coming decades.\nPoverty, drought, political repression, and forced government resettlement have driven Ethiopia’s internal and external migration since the 1960s. Before the 1974 revolution, only small numbers of the Ethiopian elite went abroad to study and then returned home, but under the brutal Derg regime thousands fled the country, primarily as refugees. Between 1982 and 1991 there was a new wave of migration to the West for family reunification. Since the defeat of the Derg in 1991, Ethiopians have migrated to escape violence among some of the country’s myriad ethnic groups or to pursue economic opportunities. Internal and international trafficking of women and children for domestic work and prostitution is a growing problem.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 39.81,
+				"males": 21657152,
+				"females": 21381628
+			},
+			"15_to_24": {
+				"percent": 19.47,
+				"males": 10506144,
+				"females": 10542128
+			},
+			"25_to_54": {
+				"percent": 32.92,
+				"males": 17720540,
+				"females": 17867298
+			},
+			"55_to_64": {
+				"percent": 4.42,
+				"males": 2350606,
+				"females": 2433319
+			},
+			"65_and_over": {
+				"percent": 3.38,
+				"males": 1676478,
+				"females": 1977857
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 76.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 70.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 16,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 19.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 19.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.1,
+				"units": "years"
+			},
+			"global_rank": 198,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.56,
+			"global_rank": 20,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 31.6,
+			"global_rank": 30,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.9,
+			"global_rank": 171,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.2,
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"population_distribution": "highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 21.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.63,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Addis Ababa",
+					"population": 4794000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 20,
+			"date": "2016"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 401,
+			"global_rank": 26,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 35.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 40.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 30.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 44,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 67.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 65.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 69.7,
+				"units": "years"
+			},
+			"global_rank": 180,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.14,
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 40.1,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.1,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.3,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 61.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 68.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 38.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 31.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 49.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 5.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 14.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 50.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 94.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 85.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.1,
+				"global_rank": 43,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 670000,
+				"global_rank": 13,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 12000,
+				"global_rank": 19,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 4.5,
+			"global_rank": 185,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 21.1,
+			"global_rank": 20,
+			"date": "2019"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.7,
+			"global_rank": 78,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 51.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 57.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 44.4,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 8,
+				"units": "years"
+			},
+			"female": {
+				"value": 8,
+				"units": "years"
+			},
+			"date": "2012"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 25.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 17.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 30.9,
+				"units": "%"
+			},
+			"global_rank": 49,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Federal Democratic Republic of Ethiopia",
+			"conventional_short_form": "Ethiopia",
+			"local_long_form": "Ityop'iya Federalawi Demokrasiyawi Ripeblik",
+			"local_short_form": "Ityop'iya",
+			"former": "Abyssinia, Italian East Africa",
+			"abbreviation": "FDRE",
+			"etymology": "the country name derives from the Greek word \"Aethiopia,\" which in classical times referred to lands south of Egypt in the Upper Nile region"
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "Addis Ababa",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 9,
+					"minutes": 2,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 38,
+					"minutes": 42,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name in Amharic means \"new flower\" and was bestowed on the city in 1889, three years after its founding"
+		},
+		"administrative_divisions": [
+			{
+				"name": "kilil) and 2 self-governing administrations",
+				"type": ""
+			}
+		],
+		"national_holidays": [
+			{
+				"name": "Derg Downfall Day",
+				"day": "28 May",
+				"original_year": "1991",
+				"note": "defeat of MENGISTU regime"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest drafted June 1994, adopted 8 December 1994, entered into force 21 August 1995",
+			"amendments": "proposals submitted for discussion require two-thirds majority approval in either house of Parliament or majority approval of one-third of the State Councils; passage of amendments other than constitutional articles on fundamental rights and freedoms and the initiation and amendment of the constitution requires two-thirds majority vote in a joint session of Parliament and majority vote by two thirds of the State Councils; passage of amendments affecting rights and freedoms and amendment procedures requires two-thirds majority vote in each house of Parliament and majority vote by all the State Councils"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Ethiopia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "4 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President SAHLE-WORK Zewde (since 25 October 2018)",
+			"head_of_government": "Prime Minister ABIY Ahmed (since 2 April 2018); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012); note - Prime Minister HAILEMARIAM Desalegn (since 21 September 2012) resigned on 15 February 2018 and continued as caretaker until the new prime minister was sworn into office on 2 April 2018",
+			"cabinet": "Council of Ministers selected by the prime minister and approved by the House of People's Representatives",
+			"elections_appointments": "president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); snap election held on 25 October 2018 due to resignation of President MULATA Teshome (next election postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections",
+			"election_results": "SAHLE-WORK Zewde elected president; Parliament vote - 659 (unanimous)",
+			"note": "SAHLE-WORK Zewde is the first female elected head of state in Ethiopia; she is currently the only female president in Africa. Former President Dr. Mulatu TESHOME resigned on 25 October 2018, one year ahead of finishing his six-year term."
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: House of Federation or Yefedereshein Mikir Bete (153 seats; members indirectly elected by state assemblies to serve 5-year terms)\nHouse of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)",
+			"elections": "House of Federation - last held 24 May 2015 (next originally scheduled on 29 August 2020 but postponed a year due to the COVID-19 pandemic)\nHouse of People's Representatives - last held on 24 May 2015 (next originally scheduled on 29 August 2020 but postponed to 2021 due to the COVID-19 pandemic)",
+			"election_results": "House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 104, women 49, percent of women 32%\nHouse of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - EPRDF 501, SPDP 24, BGPDUP 9, ANDP 8, GPUDM 3, APDO 1, HNL 1; composition - men 335, women 212, percent of women  38.8%; note - total Parliament percent of women 37.3%",
+			"note": "House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation"
+		},
+		"judicial_branch": {
+			"highest_courts": "Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues",
+			"judge_selection_and_term_of_office": "president and vice president of Federal Supreme Court recommended by the prime minister and appointed by the House of People's Representatives; other Supreme Court judges nominated by the Federal Judicial Administrative Council (a 10-member body chaired by the president of the Federal Supreme Court) and appointed by the House of People's Representatives; judges serve until retirement at age 60",
+			"subordinate_courts": "federal high courts and federal courts of first instance; state court systems (mirror structure of federal system); sharia courts and customary and traditional courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Afar National Democratic Party",
+					"name_alternative": "ANDP",
+					"leaders": [
+						"Taha AHMED"
+					]
+				},
+				{
+					"name": "Argoba People Democratic Organization",
+					"name_alternative": "APDO"
+				},
+				{
+					"name": "Benishangul Gumuz People's Democratic Unity Party",
+					"name_alternative": "BGPDUP"
+				},
+				{
+					"name": "Ethiopian Federal Democratic Unity Forum or MEDREK or FORUM ",
+					"name_alternative": "",
+					"leaders": [
+						"Beyene PETROS"
+					],
+					"note": "includes ESD-SCUP, OFC, SLM, UTDS"
+				},
+				{
+					"name": "Ethiopia Citizens for Social Justice",
+					"name_alternative": "ECSJ Party , All Ethiopian Democratic Party , Semayawi Party, New Generation Party, Gambella Regional Movement , Unity for Democracy and Justice  Party",
+					"leaders": [
+						"Berhanu Negu"
+					],
+					"note": "formed in May 2019 from 7 other parties, including Patriotic Genbot 7, Ethiopian Democratic Party (EDP; AEDP; GRM; UDJ; "
+				},
+				{
+					"name": "Prosperity Party",
+					"name_alternative": "PP ,  Oromo People's Democratic Organization , Southern Ethiopian People's Democratic Movement  , Tigray People's Liberation Front , plus other ERPRF allies",
+					"leaders": [
+						"ABIY Ahmed"
+					],
+					"note": "created in November 2019 from member parties of the former Ethiopian People's Revolutionary Democratic Front or EPRDF, which included the Amhara National Democratic Movement (ANDM; OPDO; SEPDM; TPLF"
+				},
+				{
+					"name": "Ethiopian Social Democracy-Southern Coalition Unity Party",
+					"name_alternative": "ESD-SCUP"
+				},
+				{
+					"name": "Gambella Peoples Unity Democratic Movement",
+					"name_alternative": "GPUDM"
+				},
+				{
+					"name": "Harari National League",
+					"name_alternative": "HNL",
+					"leaders": [
+						"Murad ABDULHADI"
+					]
+				},
+				{
+					"name": "Oromo Fderalist Congress",
+					"name_alternative": "OFC"
+				},
+				{
+					"name": "Sidama Liberaton Movement",
+					"name_alternative": "SLM"
+				},
+				{
+					"name": "Somali People's Democratic Party",
+					"name_alternative": "SPDP"
+				},
+				{
+					"name": "Union of Tigraians for Democracy & Sovergnty",
+					"name_alternative": "UTDS"
+				},
+				{
+					"name": "Tigray Independence Party ",
+					"leaders": [
+						"Girmay BERHE"
+					],
+					"note": "2020"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Ato FITSUM Arega (since 9 April 2019)",
+				"chancery": "3506 International Drive NW, Washington, DC 20008",
+				"telephone": "[1] (202) 364-1200",
+				"fax": "[1] (202) 587-0195",
+				"consulates_general": "Los Angeles, Seattle",
+				"consulates": "Houston, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Michael RAYNOR (since 3 October 2017)",
+				"telephone": "[251] 11 130-6000",
+				"embassy": "Entoto Street, P.O. Box 1014, Addis Ababa",
+				"mailing_address": "P.O. Box 1014, Addis Ababa",
+				"fax": "[251] 11 124-2401"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia",
+			"note": "Ethiopia is the oldest independent country in Africa, and the three main colors of her flag (adopted ca. 1895) were so often appropriated by other African countries upon independence that they became known as the Pan-African colors; the emblem in the center of the current flag was added in 1996"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Abyssinian lion ",
+					"note": "traditional"
+				},
+				{
+					"symbol": "yellow pentagram with five rays of light on a blue field ",
+					"note": "promoted by current government"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Whedefit Gesgeshi Woud Enat Ethiopia\" (March Forward, Dear Mother Ethiopia)",
+			"lyrics_music": "DEREJE Melaku Mengesha/SOLOMON Lulu",
+			"note": "adopted 1992",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/ET.mp3?1538604753"
+		}
+	},
+	"economy": {
+		"overview": "Ethiopia - the second most populous country in Africa - is a one-party state with a planned economy. For more than a decade before 2016, GDP grew at a rate between 8% and 11% annually – one of the fastest growing states among the 188 IMF member countries. This growth was driven by government investment in infrastructure, as well as sustained progress in the agricultural and service sectors. More than 70% of Ethiopia’s population is still employed in the agricultural sector, but services have surpassed agriculture as the principal source of GDP.\nEthiopia has the lowest level of income-inequality in Africa and one of the lowest in the world, with a Gini coefficient comparable to that of the Scandinavian countries. Yet despite progress toward eliminating extreme poverty, Ethiopia remains one of the poorest countries in the world, due both to rapid population growth and a low starting base. Changes in rainfall associated with world-wide weather patterns resulted in the worst drought in 30 years in 2015-16, creating food insecurity for millions of Ethiopians.\nThe state is heavily engaged in the economy. Ongoing infrastructure projects include power production and distribution, roads, rails, airports and industrial parks. Key sectors are state-owned, including telecommunications, banking and insurance, and power distribution. Under Ethiopia's constitution, the state owns all land and provides long-term leases to tenants. Title rights in urban areas, particularly Addis Ababa, are poorly regulated, and subject to corruption.\nEthiopia’s foreign exchange earnings are led by the services sector - primarily the state-run Ethiopian Airlines - followed by exports of several commodities. While coffee remains the largest foreign exchange earner, Ethiopia is diversifying exports, and commodities such as gold, sesame, khat, livestock and horticulture products are becoming increasingly important. Manufacturing represented less than 8% of total exports in 2016, but manufacturing exports should increase in future years due to a growing international presence.\nThe banking, insurance, telecommunications, and micro-credit industries are restricted to domestic investors, but Ethiopia has attracted roughly $8.5 billion in foreign direct investment (FDI), mostly from China, Turkey, India and the EU; US FDI is $567 million. Investment has been primarily in infrastructure, construction, agriculture/horticulture, agricultural processing, textiles, leather and leather products.\nTo support industrialization in sectors where Ethiopia has a comparative advantage, such as textiles and garments, leather goods, and processed agricultural products, Ethiopia plans to increase installed power generation capacity by 8,320 MW, up from a capacity of 2,000 MW, by building three more major dams and expanding to other sources of renewable energy. In 2017, the government devalued the birr by 15% to increase exports and alleviate a chronic foreign currency shortage in the country.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 200600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 181000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 167600000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 64,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 80870000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 10.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 8,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 10.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 5
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 204,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 69.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 10,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 43.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 8.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -31.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 34.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 21.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 43.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 32.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 32.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 32.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 26
+		},
+		"agriculture_products": {
+			"products": [
+				"cereals",
+				"coffee",
+				"oilseed",
+				"cotton",
+				"sugarcane",
+				"vegetables",
+				"khat",
+				"cut flowers",
+				"hides",
+				"cattle",
+				"sheep",
+				"goats",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food processing",
+				"beverages",
+				"textiles",
+				"leather",
+				"garments",
+				"chemicals",
+				"metals processing",
+				"cement"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 10.5,
+			"global_rank": 13,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 52820000,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 72.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 7.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 19.9,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 17.5,
+					"units": "%",
+					"date": "2012"
+				},
+				{
+					"value": 18,
+					"units": "%",
+					"date": "2011"
+				}
+			],
+			"global_rank": 183
+		},
+		"population_below_poverty_line": {
+			"value": 29.6,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4.1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.6,
+				"units": "%"
+			},
+			"date": "2005"
+		},
+		"budget": {
+			"revenues": {
+				"value": 11240000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 13790000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 13.9,
+			"global_rank": 203,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.2,
+			"global_rank": 139,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 54.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 53.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 83
+		},
+		"fiscal_year": {
+			"start": "8 July",
+			"end": "7 July"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 9.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 203
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -6551000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -6574000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 186
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3230000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2814000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 126
+			},
+			"commodities": {
+				"by_commodity": [
+					"coffee",
+					"by value)",
+					"oilseeds (17%)",
+					"edible vegetables",
+					"khat (17%)",
+					"gold (13%)",
+					"flowers (7%)",
+					"live animals (7%)",
+					"raw leather products (3%)",
+					"meat products (3%)"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Sudan",
+						"percent": 23.3
+					},
+					{
+						"name": "Switzerland",
+						"percent": 10.2
+					},
+					{
+						"name": "China",
+						"percent": 8.1
+					},
+					{
+						"name": "Somalia",
+						"percent": 6.6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6.2
+					},
+					{
+						"name": "US",
+						"percent": 4.7
+					},
+					{
+						"name": "Germany",
+						"percent": 4.7
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 4.6
+					},
+					{
+						"name": "UK",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 15590000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14690000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 88
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"aircraft",
+					"by value)",
+					"metal",
+					"metal products",
+					"(14%)",
+					"electrical materials",
+					"(13%)",
+					"petroleum products (12%)",
+					"motor vehicles",
+					"(10%)",
+					"chemicals",
+					"fertilizers (4%)"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 24.1
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 10.1
+					},
+					{
+						"name": "India",
+						"percent": 6.4
+					},
+					{
+						"name": "Kuwait",
+						"percent": 5.3
+					},
+					{
+						"name": "France",
+						"percent": 5.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3013000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3022000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 110
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 26050000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 24820000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 87
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 25,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 21.732,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 21.732,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 21.55,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 19.8,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "birr (ETB) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 60000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 47,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 96,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 34,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 11150000000,
+				"global_rank": 99,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 9062000000,
+				"global_rank": 100,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 166000000,
+				"global_rank": 78,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 146,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 2784000,
+				"global_rank": 99,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 3,
+					"global_rank": 207,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 88,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 86,
+					"global_rank": 11,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 11,
+					"global_rank": 76,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 134,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 121,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 125,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 428000,
+				"global_rank": 98,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 143,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 74000,
+				"global_rank": 89,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 153,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 69970,
+				"global_rank": 67,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 130,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 144,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 102,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 123,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 24920000000,
+				"global_rank": 72,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 12180000,
+			"global_rank": 99,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1095946,
+				"subscriptions_per_one_hundred_inhabitants": 1.04,
+				"global_rank": 73,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 38147361,
+				"subscriptions_per_one_hundred_inhabitants": 36.2,
+				"global_rank": 41,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "6 public TV stations broadcasting nationally and 10 public radio broadcasters; 7 private radio stations and 19 community radio stations (2017)",
+		"internet": {
+			"country_code": ".et",
+			"users": {
+				"total": 19118470,
+				"percent_of_population": 18.62,
+				"global_rank": 37,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 75,
+				"annual_passenger_traffic_on_registered_air_carriers": 11501244,
+				"annual_freight_traffic_on_registered_air_carriers": 2089280000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "ET",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 57,
+					"global_rank": 81,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 17,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 8,
+					"1524_to_2437_metres": 4,
+					"under_914_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 40,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 9,
+					"914_to_1523_metres": 20,
+					"under_914_metres": 8,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 659,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 659,
+				"units": "km\n1.435-m"
+			},
+			"note": "electric railway with redundant power supplies; under joint control of Djibouti and Ethiopia and managed by a Chinese contractor",
+			"global_rank": 105,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 120171,
+				"units": "km"
+			},
+			"global_rank": 40,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 11,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 9
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				}
+			],
+			"global_rank": 154,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 136
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory",
+			"date": "2013"
+		},
+		"note": "each of the nine states has a regional, a special police force, or both that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional police, the Ethiopian Federal Police (EFP), and the military; the EFP reports to the Ministry of Peace, which was created in October of 2018 (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement",
+			"the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region",
+			"Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007",
+			"\"Somaliland\" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia",
+			"civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia",
+			"Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan",
+			"as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress",
+			"Ethiopia plans to start filling the dam in July 2020"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 362787,
+						"country_of_origin": "South Sudan"
+					},
+					{
+						"people": 201465,
+						"country_of_origin": "Somalia"
+					},
+					{
+						"people": 178559,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 43729,
+						"country_of_origin": "Sudan"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 1735481,
+				"note": "includes conflict- and climate-induced internally_displaced_persons, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most internally_displaced_persons live in Sumale state",
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transit hub for heroin originating in Southwest and Southeast Asia and destined for Europe, as well as cocaine destined for markets in southern Africa; cultivates qat (khat) for local use and regional export, principally to Djibouti and Somalia (legal in all three countries); the lack of a well-developed financial system limits the country's utility as a money laundering center"
+		}
+	}
+}

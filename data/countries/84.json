@@ -1,0 +1,2184 @@
+{
+	"name": "France",
+	"introduction": {
+		"background": "France today is one of the most modern countries in the world and is a leader among European nations. It plays an influential global role as a permanent member of the United Nations Security Council, NATO, the G-7, the G-20, the EU, and other multilateral organizations. France rejoined NATO's integrated military command structure in 2009, reversing DE GAULLE's 1966 decision to withdraw French forces from NATO. Since 1958, it has constructed a hybrid presidential-parliamentary governing system resistant to the instabilities experienced in earlier, more purely parliamentary administrations. In recent decades, its reconciliation and cooperation with Germany have proved central to the economic integration of Europe, including the introduction of a common currency, the euro, in January 1999. In the early 21st century, five French overseas entities - French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion - became French regions and were made part of France proper."
+	},
+	"geography": {
+		"location": "Western Europe, bordering the Bay of Biscay and English Channel, between Belgium and Spain, southeast of the UK; bordering the Mediterranean Sea, between Italy and Spain;",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 46,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 2,
+				"minutes": 0,
+				"hemisphere": "E;"
+			}
+		},
+		"map_references": "Europe;",
+		"area": {
+			"total": {
+				"value": 551500,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 549970,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1530,
+				"units": "sq km"
+			},
+			"global_rank": 44,
+			"note": "metropolitan France",
+			"comparative": "slightly more than four times the size of Georgia; slightly less than the size of Texas"
+		},
+		"land_boundaries": {
+			"border_countries": [
+				{
+					"country": "Andorra",
+					"border_length": {
+						"value": 55,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Belgium",
+					"border_length": {
+						"value": 556,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 418,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Italy",
+					"border_length": {
+						"value": 476,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Luxembourg",
+					"border_length": {
+						"value": 69,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Monaco",
+					"border_length": {
+						"value": 6,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Spain",
+					"border_length": {
+						"value": 646,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Switzerland",
+					"border_length": {
+						"value": 525,
+						"units": "km"
+					}
+				}
+			],
+			"total": {
+				"value": 2751
+			}
+		},
+		"coastline": {
+			"value": 4853,
+			"units": "km",
+			"metropolitan_france": "3,427 km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "does not apply to the Mediterranean Sea"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral;",
+		"terrain": "mostly flat plains or gently rolling hills in north and west; remainder is mountainous, especially Pyrenees in south, Alps in east;",
+		"elevation": {
+			"mean_elevation": {
+				"value": 375,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Rhone River delta",
+				"elevation": {
+					"value": -2,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mont Blanc",
+				"elevation": {
+					"value": 4810
+				}
+			},
+			"note": "to assess the possible effects of climate change on the ice and snow cap of Mont Blanc, its surface and peak have been extensively measured in recent years; these new peak measurements have exceeded the traditional height of 4,807 m and have varied between 4,808 m and 4,811 m; the actual rock summit is 4,792 m and is 40 m away from the ice-covered summit"
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"iron ore",
+				"bauxite",
+				"zinc",
+				"uranium",
+				"antimony",
+				"arsenic",
+				"potash",
+				"feldspar",
+				"fluorspar",
+				"gypsum",
+				"timber",
+				"arable land",
+				"fish",
+				"French Guiana",
+				"gold deposits",
+				"petroleum",
+				"kaolin",
+				"niobium",
+				"tantalum",
+				"clay"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 52.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 33.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 17.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 29.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 18.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 26000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "avalanches",
+				"type": "hazard"
+			},
+			{
+				"description": "midwinter windstorms",
+				"type": "hazard"
+			},
+			{
+				"description": "drought",
+				"type": "hazard"
+			},
+			{
+				"description": "forest fires in south near the Mediterranean",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"some forest damage from acid rain",
+				"air pollution from industrial and vehicle emissions",
+				"water pollution from urban wastes",
+				"agricultural runoff"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 67848156,
+			"global_rank": 21,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Frenchman(men), Frenchwoman(women)",
+			"adjective": "French"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Celtic"
+				},
+				{
+					"name": "Latin"
+				},
+				{
+					"name": "Teutonic"
+				},
+				{
+					"name": "Slavic"
+				},
+				{
+					"name": "North African"
+				},
+				{
+					"name": "Indochinese"
+				},
+				{
+					"name": "Basque"
+				}
+			],
+			"note": "overseas departments: black, white, mulatto, East Indian, Chinese, Amerindian"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"percent": 100,
+					"note": "official"
+				},
+				{
+					"name": "declining regional dialects and languages",
+					"note": "Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard"
+				}
+			],
+			"note": "overseas departments: French, Creole patois, Mahorian (a Swahili dialect)"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"note": "overwhelmingly Roman Catholic"
+				}
+			],
+			"note": "France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state",
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.36,
+				"males": 6368767,
+				"females": 6085318
+			},
+			"15_to_24": {
+				"percent": 11.88,
+				"males": 4122981,
+				"females": 3938938
+			},
+			"25_to_54": {
+				"percent": 36.83,
+				"males": 12619649,
+				"females": 12366120
+			},
+			"55_to_64": {
+				"percent": 12.47,
+				"males": 4085564,
+				"females": 4376272
+			},
+			"65_and_over": {
+				"percent": 20.46,
+				"males": 6029303,
+				"females": 7855244
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 62.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 28.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 33.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 41.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 40,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.4,
+				"units": "years"
+			},
+			"global_rank": 43,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.35,
+			"global_rank": 169,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.9,
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.6,
+			"global_rank": 42,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 1.1,
+			"global_rank": 59,
+			"date": "2020"
+		},
+		"population_distribution": "much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second",
+		"urbanization": {
+			"urban_population": {
+				"value": 81,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.72,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Paris",
+					"population": 11017000,
+					"is_capital": true
+				},
+				{
+					"place": "Lyon",
+					"population": 1719000
+				},
+				{
+					"place": "Marseille-Aix-En-Provence",
+					"population": 1608000
+				},
+				{
+					"place": "Lille",
+					"population": 1063000
+				},
+				{
+					"place": "Toulouse",
+					"population": 1024000
+				},
+				{
+					"place": "Bordeaux",
+					"population": 969000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 28.7,
+			"date": "2018"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 8,
+			"global_rank": 151,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 211,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.4,
+				"units": "years"
+			},
+			"global_rank": 19,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.06,
+			"global_rank": 104,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 78.4,
+			"units": "%",
+			"date": "2010"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.26,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 86,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 190000,
+				"global_rank": 31,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 10 November 2020, France has reported a total of 1,714,361 cases of COVID-19 or 26,264 cumulative cases of COVID-19 per 1 million population with 610 cumulative deaths per 1 million population"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.6,
+			"global_rank": 87,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.4,
+			"global_rank": 42,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 21.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 20,
+				"units": "%"
+			},
+			"global_rank": 61,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "French Republic",
+			"conventional_short_form": "France",
+			"local_long_form": "Republique francaise",
+			"local_short_form": "France",
+			"etymology": "name derives from the Latin \"Francia\" meaning \"Land of the Franks\"; the Franks were a group of Germanic tribes located along the middle and lower Rhine River in the 3rd century A.D. who merged with Gallic-Roman populations in succeeding centuries and to whom they passed on their name"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Paris",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 48,
+					"minutes": 52,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 2,
+					"minutes": 20,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion",
+			"etymology": "name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris"
+		},
+		"dependent_areas": {
+			"areas": [
+				"Clipperton Island",
+				"French Polynesia",
+				"French Southern and Antarctic Lands",
+				"New Caledonia",
+				"Saint Barthelemy",
+				"Saint Martin",
+				"Saint Pierre and Miquelon",
+				"Wallis and Futuna"
+			],
+			"note": "the US Government does not recognize claims to Antarctica; New Caledonia has been considered a \"sui generis\" collectivity of France since 1998, a unique status falling between that of an independent country and a French overseas department"
+		},
+		"national_holidays": [
+			{
+				"name": "Fete de la Federation",
+				"day": "14 July",
+				"original_year": "1790",
+				"note": "although often incorrectly referred to as Bastille Day, the celebration actually commemorates the holiday held on the first anniversary of the storming of the Bastille  and the establishment of a constitutional monarchy; on 14 July 1789"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest effective 4 October 1958",
+			"amendments": "proposed by the president of the republic (upon recommendation of the prime minister and Parliament) or by Parliament; proposals submitted by Parliament members require passage by both houses followed by approval in a referendum; passage of proposals submitted by the government can bypass a referendum if submitted by the president to Parliament and passed by at least three-fifths majority vote by Parliament’s National Assembly; amended many times, last in 2008",
+			"note": "in May 2018, the prime minister submitted a bill to the National Assembly to amend several provisions of the constitution"
+		},
+		"legal_system": "civil law; review of administrative but not legislative acts",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of France",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Emmanuel MACRON (since 14 May 2017)",
+			"head_of_government": "Prime Minister Jean CASTEX (since 3 July 2020)",
+			"cabinet": "Council of Ministers appointed by the president at the suggestion of the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April with a runoff on 7 May 2017 (next to be held in April 2022); prime minister appointed by the president",
+			"election_results": "Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Parlement consists of: Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)\nNational Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)",
+			"elections": "Senate - last held on 24 September 2017 (next to be held on 24 September 2020)\nNational Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)",
+			"election_results": "Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%\nNational Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)",
+			"judge_selection_and_term_of_office": "Court of Cassation judges appointed by the president of the republic from nominations from the High Council of the Judiciary, presided over by the Court of Cassation and 15 appointed members; judges appointed for life; Constitutional Council members - 3 appointed by the president of the republic and 3 each by the National Assembly and Senate presidents; members serve 9-year, non-renewable terms with one-third of the membership renewed every 3 years",
+			"subordinate_courts": "appellate courts or Cour d'Appel; regional courts or Tribunal de Grande Instance; first instance courts or Tribunal d'instance; administrative courts",
+			"note": "in April 2018, the French Government announced its intention to reform the country's judicial system"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Presidential majority Parties",
+					"leaders": [
+						"Edouard PHILIPPE"
+					]
+				},
+				{
+					"name": "Democratic Movement",
+					"name_alternative": "MoDem",
+					"leaders": [
+						"Francois BAYROU"
+					]
+				},
+				{
+					"name": "La Republique en Marche!",
+					"name_alternative": "LREM",
+					"leaders": [
+						"Richard FERRAND"
+					]
+				},
+				{
+					"name": "Movement of Progressives",
+					"name_alternative": "MDP  Robert HUE]"
+				},
+				{
+					"name": "Parliamentary right Parties",
+					"leaders": [
+						"Francois BAROIN"
+					]
+				},
+				{
+					"name": "Hunting, Fishing, Nature and Tradition",
+					"name_alternative": "CPNT",
+					"leaders": [
+						"Eddie PUYJAION"
+					]
+				},
+				{
+					"name": "The Republicans",
+					"name_alternative": "LR",
+					"leaders": [
+						"Annie GENEVARD"
+					]
+				},
+				{
+					"name": "Union of Democrats and Independents",
+					"name_alternative": "UDI",
+					"leaders": [
+						"Jean-Christophe    CAMBADELIS"
+					]
+				},
+				{
+					"name": "Parliamentary left Parties",
+					"leaders": [
+						"Bernard CAZENEUVE"
+					]
+				},
+				{
+					"name": "Sociatlist Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Jean-Christophe CAMBADEMAND"
+					]
+				},
+				{
+					"name": "Radical Party of the Left",
+					"name_alternative": "PRG",
+					"leaders": [
+						"Sylvia PINEL"
+					]
+				},
+				{
+					"name": "Citizen and Republican Movement",
+					"name_alternative": "MRC",
+					"leaders": [
+						"Jean-Luc LAURENT"
+					]
+				},
+				{
+					"name": "Martinican Progressive Party",
+					"name_alternative": "PPM",
+					"leaders": [
+						"Aiem CESAIRE"
+					]
+				},
+				{
+					"name": "Debout la France",
+					"name_alternative": "DLF",
+					"leaders": [
+						"Nicolas DUPONT-AIGNAN"
+					]
+				},
+				{
+					"name": "Ecology Democracy Solidarity",
+					"name_alternative": "EDS [Paula FORTEZA, Matthieu ORPHELIN",
+					"note": "splinter party formed in May 2020 by defectors of LREM"
+				},
+				{
+					"name": "Europe Ecologists - the Greens",
+					"name_alternative": "EELV",
+					"leaders": [
+						"David CORMAND"
+					]
+				},
+				{
+					"name": "French Communist Party",
+					"name_alternative": "PCF",
+					"leaders": [
+						"Pierre LAURENT"
+					]
+				},
+				{
+					"name": "La France Insoumise",
+					"name_alternative": "FI",
+					"leaders": [
+						"Jean-Luc MELENCHONLIS"
+					]
+				},
+				{
+					"name": "National Front",
+					"name_alternative": "FN",
+					"leaders": [
+						"Marine LE PEN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BDEAC"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "G-7"
+			},
+			{
+				"organization": "G-8"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "InOC"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "permanent"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Philippe ETIENNE (since 8 July 2019)",
+				"chancery": "4101 Reservoir Road NW, Washington, DC 20007",
+				"telephone": "[1] (202) 944-6000",
+				"fax": "[1] (202) 944-6166",
+				"consulates_general": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, Washington, DC"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Jamie D. McCOURT (since 18 December 2017); note - also accredited to Monaco",
+				"telephone": "[33] (1) 43-12-22-22",
+				"embassy": "2 Avenue Gabriel, 75008 Paris",
+				"mailing_address": "PSC 116, APO AE 09777",
+				"fax": "[33] (1) 42 66 97 83",
+				"consulates_general": "Marseille, Strasbourg",
+				"consulates": "Bordeaux, Lyon, Rennes"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of blue (hoist side), white, and red; known as the \"Le drapeau tricolore\" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the \"ancient French color\" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas",
+			"note": "the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Gallic rooster"
+				},
+				{
+					"symbol": "fleur-de-lis"
+				},
+				{
+					"symbol": "Marianne ",
+					"note": "female personification"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"La Marseillaise\" (The Song of Marseille)",
+			"lyrics_music": "Claude-Joseph ROUGET de Lisle",
+			"note": "adopted 1795, restored 1870; originally known as \"Chant de Guerre pour l'Armee du Rhin\" (War Song for the Army of the Rhine), the National Guard of Marseille made the song famous by singing it while marching into Paris in 1792 during the French Revolutionary Wars",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/FR.mp3?1538604753"
+		}
+	},
+	"economy": {
+		"overview": "The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.\nFrance's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.\nFrance’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.\nSince entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2856000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2791000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2761000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 10,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2588000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.49,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.81,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.42,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 155
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 44100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 43200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 42900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 40,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 54.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 23.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.9,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 30.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -32,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 19.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 78.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 22.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 22.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 77
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"cereals",
+				"sugar beets",
+				"potatoes",
+				"wine grapes",
+				"beef",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"machinery",
+				"chemicals",
+				"automobiles",
+				"metallurgy",
+				"aircraft",
+				"electronics",
+				"textiles",
+				"food processing",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2,
+			"global_rank": 130,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 27742000,
+				"global_rank": 18,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20,
+						"units": "%"
+					},
+					"services": {
+						"value": 77.2,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.12,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 8.69,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 128,
+			"note": "includes overseas territories"
+		},
+		"population_below_poverty_line": {
+			"value": 14.2,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.4,
+				"units": "%"
+			},
+			"date": "2013"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1392000000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1459000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 53.8,
+			"global_rank": 10,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.6,
+			"global_rank": 116,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 96.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 96.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 20,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 64
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -18102000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -16020000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 197
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 549900000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 507000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 7
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transportation equipment",
+					"aircraft",
+					"plastics",
+					"chemicals",
+					"pharmaceutical products",
+					"iron",
+					"steel",
+					"beverages"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 14.8
+					},
+					{
+						"name": "Spain",
+						"percent": 7.7
+					},
+					{
+						"name": "Italy",
+						"percent": 7.5
+					},
+					{
+						"name": "US",
+						"percent": 7.2
+					},
+					{
+						"name": "Belgium",
+						"percent": 7
+					},
+					{
+						"name": "UK",
+						"percent": 6.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 601700000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 536700000000.00006,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 7
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"vehicles",
+					"crude oil",
+					"aircraft",
+					"plastics",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 18.5
+					},
+					{
+						"name": "Belgium",
+						"percent": 10.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 8.3
+					},
+					{
+						"name": "Italy",
+						"percent": 7.9
+					},
+					{
+						"name": "Spain",
+						"percent": 7.1
+					},
+					{
+						"name": "UK",
+						"percent": 5.3
+					},
+					{
+						"name": "US",
+						"percent": 5.2
+					},
+					{
+						"name": "China",
+						"percent": 5.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 156400000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 138200000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 15
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 5360000000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 5250000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 3
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 529100000000,
+				"global_rank": 9,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 450800000000,
+				"global_rank": 10,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 61410000000,
+				"global_rank": 3,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 19900000000,
+				"global_rank": 10,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 130800000.00000001,
+				"global_rank": 9,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 17,
+					"global_rank": 198,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 50,
+					"global_rank": 1,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 15,
+					"global_rank": 102,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 19,
+					"global_rank": 42,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 16000,
+				"global_rank": 71,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 126,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1147000,
+				"global_rank": 9,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 65970000,
+				"global_rank": 75,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 1311000,
+				"global_rank": 15,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 1705000,
+				"global_rank": 13,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 440600,
+				"global_rank": 19,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 886800,
+				"global_rank": 8,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 16990000,
+				"global_rank": 90,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 41880000000,
+				"global_rank": 24,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 6031000000,
+				"global_rank": 26,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 48590000000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 8410000000,
+				"global_rank": 81,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 341200000,
+			"global_rank": 22,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 39234941,
+				"subscriptions_per_one_hundred_inhabitants": 58.03,
+				"global_rank": 4,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 74791818,
+				"subscriptions_per_one_hundred_inhabitants": 110.62,
+				"global_rank": 22,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a mix of both publicly operated and privately owned TV stations; state-owned France television stations operate 4 networks, one of which is a network of regional stations, and has part-interest in several thematic cable/satellite channels and international channels; a large number of privately owned regional and local TV stations; multi-channel satellite and cable services provide a large number of channels; public broadcaster Radio France operates 7 national networks, a series of regional networks, and operates services for overseas territories and foreign audiences; Radio France Internationale, under the Ministry of Foreign Affairs, is a leading international broadcaster; a large number of commercial FM stations, with many of them consolidating into commercial networks",
+		"internet": {
+			"country_code": "metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re",
+			"users": {
+				"total": 55265718,
+				"percent_of_population": 82.04,
+				"global_rank": 16,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 19,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 553,
+				"annual_passenger_traffic_on_registered_air_carriers": 70188028,
+				"annual_freight_traffic_on_registered_air_carriers": 4443790000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "F",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 464,
+					"global_rank": 15,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 294,
+					"over_3047_metres": 14,
+					"2438_to_3047_metres": 25,
+					"1524_to_2437_metres": 97,
+					"914_to_1523_metres": 83,
+					"under_914_metres": 75,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 170,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 64,
+					"under_914_metres": 105,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 15322,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 2939,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 5084,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 29640,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 29473,
+				"electrified": 15561,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 167,
+				"electrified": 63,
+				"units": "km\n1.000-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 10,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 1053215,
+				"units": "km"
+			},
+			"urban": {
+				"value": 654201,
+				"units": "km"
+			},
+			"non_urban": {
+				"value": 399014,
+				"units": "km"
+			},
+			"global_rank": 7,
+			"date": "2011"
+		},
+		"waterways": {
+			"value": 8501,
+			"units": "km",
+			"note": "1,621 km navigable by craft up to 3,000 metric tons",
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 552,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 25
+				},
+				{
+					"type": "general cargo",
+					"count": 53
+				},
+				{
+					"type": "oil tanker",
+					"count": 29
+				},
+				{
+					"type": "other",
+					"count": 445
+				}
+			],
+			"note": "includes Monaco",
+			"global_rank": 40,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Brest",
+				"Calais",
+				"Dunkerque",
+				"Le Havre",
+				"Marseille",
+				"Nantes"
+			],
+			"container_ports": [
+				{
+					"place": "Le Havre",
+					"twenty_foot_equivalent_units": 2870000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Fos Cavaou",
+				"Fos Tonkin",
+				"Montoir de Bretagne"
+			],
+			"river_ports": [
+				"Paris",
+				"Rouen (Seine)"
+			],
+			"cruise_ferry_ports": [
+				"Calais",
+				"Cherbourg",
+				"Le Havre\nStrasbourg (Rhine) Bordeaux (Garronne)"
+			],
+			"date": "2017"
+		},
+		"note": "begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe"
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.84,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.82,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.78,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.79,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.78,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 58
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-25 years of age for male and female voluntary military service; no conscription; 1-year service obligation; women serve in noncombat posts",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island",
+			"Comoros claims Mayotte",
+			"Mauritius claims Tromelin Island",
+			"territorial dispute between Suriname and the French overseas department of French Guiana",
+			"France asserts a territorial claim in Antarctica (Adelie Land)",
+			"France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 24293,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 23821,
+						"country_of_origin": "Sri Lanka"
+					},
+					{
+						"people": 18473,
+						"country_of_origin": "Sudan"
+					},
+					{
+						"people": 18244,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 17512,
+						"country_of_origin": "Democratic Republic of the Congo"
+					},
+					{
+						"people": 16412,
+						"country_of_origin": "Russia"
+					},
+					{
+						"people": 14141,
+						"country_of_origin": "Serbia and Kosovo"
+					},
+					{
+						"people": 11863,
+						"country_of_origin": "Turkey"
+					},
+					{
+						"people": 11038,
+						"country_of_origin": "Guinea"
+					},
+					{
+						"people": 11021,
+						"country_of_origin": "Cambodia"
+					},
+					{
+						"people": 8829,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 7735,
+						"country_of_origin": "Vietnam"
+					},
+					{
+						"people": 6918,
+						"country_of_origin": "China"
+					},
+					{
+						"people": 6464,
+						"country_of_origin": "Laos"
+					},
+					{
+						"people": 6372,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 6156,
+						"country_of_origin": "Bangladesh"
+					},
+					{
+						"people": 5675,
+						"country_of_origin": "Mauritania"
+					},
+					{
+						"people": 5652,
+						"country_of_origin": "Cote d'Ivoire"
+					},
+					{
+						"people": 5169,
+						"country_of_origin": "Mali"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 1521,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "metropolitan France -  transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics;\nFrench Guiana -  small amount of marijuana grown for local consumption; minor transshipment point to Europe;\nMartinique -  transshipment point for cocaine and marijuana bound for the US and Europe"
+		}
+	}
+}

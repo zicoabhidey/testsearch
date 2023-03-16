@@ -1,0 +1,1684 @@
+{
+	"name": "Tajikistan",
+	"introduction": {
+		"background": "The Tajik people came under Russian imperial rule in the 1860s and 1870s, but Russia's hold on Central Asia weakened following the Revolution of 1917. At that time, bands of indigenous guerrillas (called \"basmachi\") fiercely contested Bolshevik control of the area, which was not fully reestablished until 1925. Tajikistan was first created as an autonomous republic within Uzbekistan in 1924, but in 1929 the USSR designated Tajikistan a separate republic and transferred to it much of present-day Sughd province. Ethnic Uzbeks form a substantial minority in Tajikistan, and ethnic Tajiks an even larger minority in Uzbekistan. Tajikistan became independent in 1991 following the breakup of the Soviet Union, and experienced a civil war between political, regional, and religious factions from 1992 to 1997.\nThough the country holds general elections for both the presidency (once every seven years) and parliament (once every five years), observers note an electoral system rife with irregularities and abuse, with results that are neither free nor fair. President Emomali RAHMON, who came to power in 1994 during the civil war, used an attack planned by a disaffected deputy defense minister in 2015 to ban the last major opposition political party in Tajikistan. In December 2015, RAHMON further strengthened his position by having himself declared \"Founder of Peace and National Unity, Leader of the Nation,\" with limitless terms and lifelong immunity through constitutional amendments ratified in a referendum. The referendum also lowered the minimum age required to run for president from 35 to 30, which would make RAHMON's son Rustam EMOMALI, the current mayor of the capital city of Dushanbe, eligible to run for president in 2020.\nThe country remains the poorest in the former Soviet sphere. Tajikistan became a member of the WTO in March 2013. However, its economy continues to face major challenges, including dependence on remittances from Tajikistani migrant laborers working in Russia and Kazakhstan, pervasive corruption, and the opiate trade and other destabilizing violence emanating from neighboring Afghanistan. Tajikistan has endured several domestic security incidents since 2010, including armed conflict between government forces and local strongmen in the Rasht Valley and between government forces and criminal groups in Gorno-Badakhshan Autonomous Oblast. Tajikistan suffered its first ISIS-claimed attack in 2018, when assailants attacked a group of Western bicyclists with vehicles and knives, killing four."
+	},
+	"geography": {
+		"location": "Central Asia, west of China, south of Kyrgyzstan",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 39,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 71,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 144100,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 141510,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2590,
+				"units": "sq km"
+			},
+			"global_rank": 97,
+			"comparative": "slightly smaller than Wisconsin"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4130,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Afghanistan",
+					"border_length": {
+						"value": 1357,
+						"units": "km"
+					}
+				},
+				{
+					"country": "China",
+					"border_length": {
+						"value": 477,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kyrgyzstan",
+					"border_length": {
+						"value": 984,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uzbekistan",
+					"border_length": {
+						"value": 1312,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains",
+		"terrain": "mountainous region dominated by the Trans-Alay Range in the north and the Pamirs in the southeast; western Fergana Valley in north, Kofarnihon and Vakhsh Valleys in southwest",
+		"elevation": {
+			"mean_elevation": {
+				"value": 3186,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Syr Darya (Sirdaryo)",
+				"elevation": {
+					"value": 300,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Qullai Ismoili Somoni",
+				"elevation": {
+					"value": 7495,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower",
+				"some petroleum",
+				"uranium",
+				"mercury",
+				"brown coal",
+				"lead",
+				"zinc",
+				"antimony",
+				"tungsten",
+				"silver",
+				"gold"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 34.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 6.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 27.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 2.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 62.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 7420,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west",
+		"natural_hazards": [
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "floods",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"areas of high air pollution from motor vehicles and industry",
+				"water pollution from agricultural runoff and disposal of untreated industrial waste and sewage",
+				"poor management of water resources",
+				"soil erosion",
+				"increasing levels of soil salinity"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 8873669,
+			"global_rank": 96,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Tajikistani(s)",
+			"adjective": "Tajikistani"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Tajik",
+					"percent": 84.3,
+					"note": "includes Pamiri and Yagnobi"
+				},
+				{
+					"name": "Uzbek",
+					"percent": 13.8
+				},
+				{
+					"name": "other",
+					"percent": 2,
+					"note": "includes Kyrgyz, Russian, Turkmen, Tatar, Arab"
+				}
+			],
+			"date": "2014"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Tajik",
+					"percent": 84.4,
+					"note": "official"
+				},
+				{
+					"name": "Uzbek",
+					"percent": 11.9
+				},
+				{
+					"name": "Kyrgyz .8%"
+				},
+				{
+					"name": "Russian .5%"
+				},
+				{
+					"name": "other",
+					"percent": 2.4
+				}
+			],
+			"note": "Russian widely used in government and business",
+			"date": "2010"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim  other",
+					"percent": 2,
+					"breakdown": [
+						{
+							"name": "Sunni",
+							"percent": 95
+						},
+						{
+							"name": "Shia",
+							"percent": 3
+						}
+					]
+				}
+			],
+			"date": "2014"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 31.43,
+				"males": 1420271,
+				"females": 1368445
+			},
+			"15_to_24": {
+				"percent": 18.13,
+				"males": 816658,
+				"females": 792231
+			},
+			"25_to_54": {
+				"percent": 40.58,
+				"males": 1789271,
+				"females": 1811566
+			},
+			"55_to_64": {
+				"percent": 6.23,
+				"males": 253862,
+				"females": 299378
+			},
+			"65_and_over": {
+				"percent": 3.63,
+				"males": 132831,
+				"females": 189156
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 67.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 62.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 18.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 25.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 24.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 26,
+				"units": "years"
+			},
+			"global_rank": 162,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.52,
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 21.8,
+			"global_rank": 68,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.8,
+			"global_rank": 176,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.1,
+			"global_rank": 146,
+			"date": "2020"
+		},
+		"population_distribution": "the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west",
+		"urbanization": {
+			"urban_population": {
+				"value": 27.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.62,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Dushanbe",
+					"population": 916000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.7,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 23.2,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 17,
+			"global_rank": 132,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 28.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 32.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 24.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 59,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 69,
+				"units": "years"
+			},
+			"male": {
+				"value": 65.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 72.3,
+				"units": "years"
+			},
+			"global_rank": 174,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.51,
+			"global_rank": 73,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 29.3,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.1,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.7,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 96.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 78.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 83.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 21.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 16.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 99.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 113,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 14000,
+				"global_rank": 94,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 14.2,
+			"global_rank": 128,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 7.6,
+			"global_rank": 71,
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.2,
+			"global_rank": 57,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 11,
+				"units": "years"
+			},
+			"date": "2013"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Tajikistan",
+			"conventional_short_form": "Tajikistan",
+			"local_long_form": "Jumhurii Tojikiston",
+			"local_short_form": "Tojikiston",
+			"former": "Tajik Soviet Socialist Republic",
+			"etymology": "the Persian suffix \"-stan\" means \"place of\" or \"country,\" so the word Tajikistan literally means \"Land of the Tajik [people]\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Dushanbe",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 38,
+					"minutes": 33,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 68,
+					"minutes": 46,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 5,
+				"note": "10 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (du) after Saturday (shambe)"
+		},
+		"administrative_divisions": [
+			{
+				"name": "viloyat)",
+				"type": ""
+			},
+			{
+				"name": "1 autonomous province",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1991-09-09",
+			"note": "from the Soviet Union"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "9 September",
+				"original_year": "1991",
+				"note": "or National Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 6 November 1994",
+			"amendments": "proposed by the president of the republic or by at least one third of the total membership of both houses of the Supreme Assembly; adoption of any amendment requires a referendum, which includes approval of the president or approval by at least two-thirds majority of the Assembly of Representatives; passage in a referendum requires participation of an absolute majority of eligible voters and an absolute majority of votes; constitutional articles, including Tajikistan’s form of government, its territory, and its democratic nature, cannot be amended; amended several times, last in 2016"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Tajikistan",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years or 3 years of continuous residence prior to application"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)",
+			"head_of_government": "Prime Minister Qohir RASULZODA (since 23 November 2013)",
+			"cabinet": "Council of Ministers appointed by the president, approved by the Supreme Assembly",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 7-year term for a maximum of two terms; however, as the \"Leader of the Nation\" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president",
+			"election_results": "Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, Rustam RAHAMATZODA (PERT) 2.2%, Abduhalim GHAFFOROV (SPT) 1.5%, Miroj ABDULLOEV (CPT) 1.2%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Supreme Assembly or Majlisi Oli consists of: National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)\nAssembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms)",
+			"elections": "National Assembly - last held on 1 March 2020 (next to be held in 2025)\nAssembly of Representatives - last held on 1 March 2020 (next to be held in 2025)",
+			"election_results": "National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 28, women 6, percent of women 17.6%\nAssembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 50, women 13, percent of women 20.6%; note - total Supreme Assembly percent of women 19.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)",
+			"judge_selection_and_term_of_office": "Supreme Court, Constitutional Court, and High Economic Court judges nominated by the president and approved by the National Assembly; judges of all 3 courts appointed for 10-year renewable terms with no term limits, but the last appointment must occur before the age of 65",
+			"subordinate_courts": "regional and district courts; Dushanbe City Court; viloyat (province level) courts; Court of Gorno-Badakhshan Autonomous Region"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Agrarian Party of Tajikistan",
+					"name_alternative": "APT",
+					"leaders": [
+						"Rustam LATIFZODA"
+					]
+				},
+				{
+					"name": "Communist Party of Tajikistan",
+					"name_alternative": "CPT",
+					"leaders": [
+						"Miroj ABDULLOEV"
+					]
+				},
+				{
+					"name": "Democratic Party of Tajikistan",
+					"name_alternative": "DPT",
+					"leaders": [
+						"Saidjafar USMONZODA"
+					]
+				},
+				{
+					"name": "Party of Economic Reform of Tajikistan",
+					"name_alternative": "PERT",
+					"leaders": [
+						"Rustam OUDRATOV"
+					]
+				},
+				{
+					"name": "People's Democratic Party of Tajikistan",
+					"name_alternative": "PDPT",
+					"leaders": [
+						"Emomali RAHMON"
+					]
+				},
+				{
+					"name": "Social Democratic Party of Tajikistan",
+					"name_alternative": "SDPT",
+					"leaders": [
+						"Rahmatullo ZOIROV"
+					]
+				},
+				{
+					"name": "Socialist Party of Tajikistan",
+					"name_alternative": "SPT",
+					"leaders": [
+						"Abduhalim GHAFFOROV"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CIS"
+			},
+			{
+				"organization": "CSTO"
+			},
+			{
+				"organization": "EAEC"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECO"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "GCTU"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "SCO"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Farhod SALIM (since 21 May 2014)",
+				"chancery": "1005 New Hampshire Avenue NW, Washington, DC 20037",
+				"telephone": "[1] (202) 223-6090",
+				"fax": "[1] (202) 223-6091"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador John Mark POMMERSHEIM (since 15 March 2019)",
+				"telephone": "[992] (37) 229-20-00, 992-37-229-2300 (consular direct line); EMER: 992-98-580-1032",
+				"embassy": "109-A Ismoili Somoni Avenue, Dushanbe 734019",
+				"mailing_address": "7090 Dushanbe Place, Dulles, VA 20189",
+				"fax": "[992] (37) 229-20-50"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number \"seven\" - a symbol of perfection and the embodiment of happiness"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "crown surmounted by an arc of seven"
+				},
+				{
+					"symbol": "five-pointed stars"
+				},
+				{
+					"symbol": "snow leopard"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Surudi milli\" (National Anthem)",
+			"lyrics_music": "Gulnazar KELDI/Sulaimon YUDAKOV",
+			"note": "adopted 1991; after the fall of the Soviet Union, Tajikistan kept the music of the anthem from its time as a Soviet republic but adopted new lyrics",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TI.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Tajikistan is a poor, mountainous country with an economy dominated by minerals extraction, metals processing, agriculture, and reliance on remittances from citizens working abroad. Mineral resources include silver, gold, uranium, antimony, tungsten, and coal. Industry consists mainly of small obsolete factories in food processing and light industry, substantial hydropower facilities, and a large aluminum plant - currently operating well below its capacity. The 1992-97 civil war severely damaged an already weak economic infrastructure and caused a sharp decline in industrial and agricultural production. Today, Tajikistan is the poorest among the former Soviet republics. Because less than 7% of the land area is arable and cotton is the predominant crop, Tajikistan imports approximately 70% of its food.\nSince the end of the civil war, the country has pursued half-hearted reforms and privatizations in the economic sphere, but its poor business climate remains a hindrance to attracting foreign investment. Some experts estimate the value of narcotics transiting Tajikistan is equivalent to 30%-50% of GDP.\nBecause of a lack of employment opportunities in Tajikistan, more than one million Tajik citizens work abroad - roughly 90% in Russia - supporting families back home through remittances that in 2017 were equivalent to nearly 35% of GDP. Tajikistan’s large remittances from migrant workers in Russia exposes it to monetary shocks. Tajikistan often delays devaluation of its currency for fear of inflationary pressures on food and other consumables. Recent slowdowns in the Russian and Chinese economies, low commodity prices, and currency fluctuations have hampered economic growth. The dollar value of remittances from Russia to Tajikistan dropped by almost 65% in 2015, and the government spent almost $500 million in 2016 to bail out the country’s still troubled banking sector.\nTajikistan’s growing public debt – currently about 50% of GDP – could result in financial difficulties. Remittances from Russia increased in 2017, however, bolstering the economy somewhat. China owns about 50% of Tajikistan’s outstanding debt. Tajikistan has borrowed heavily to finance investment in the country’s vast hydropower potential. In 2016, Tajikistan contracted with the Italian firm Salini Impregilo to build the Roghun dam over a 13-year period for $3.9 billion. A 2017 Eurobond has largely funded Roghun’s first phase, after which sales from Roghun’s output are expected to fund the rest of its construction. The government has not ruled out issuing another Eurobond to generate auxiliary funding for its second phase.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 28430000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 26550000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 24830000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 135,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 7144000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.1,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 6.9,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 6,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 17
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 192,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 98.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 13.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 11.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 2.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 10.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -36.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 28.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 25.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 45.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 24.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 11.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 66
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"grain",
+				"fruits",
+				"grapes",
+				"vegetables",
+				"cattle",
+				"sheep",
+				"goats"
+			]
+		},
+		"industries": {
+			"industries": [
+				"aluminum",
+				"cement",
+				"coal",
+				"gold",
+				"silver",
+				"antimony",
+				"textile",
+				"vegetable oil"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1,
+			"global_rank": 159,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2295000,
+				"global_rank": 116,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 43,
+						"units": "%"
+					},
+					"industry": {
+						"value": 10.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 46.4,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": 2.5,
+					"units": "%",
+					"date": "2015"
+				}
+			],
+			"global_rank": 27,
+			"note": "official rate; actual unemployment is much higher"
+		},
+		"population_below_poverty_line": {
+			"value": 31.5,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"date": "2009"
+		},
+		"budget": {
+			"revenues": {
+				"value": 2269000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2374000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 31.8,
+			"global_rank": 71,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.5,
+			"global_rank": 90,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 50.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 42,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 101
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 7.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 193
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -35000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -362000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 78
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 873100000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 691100000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 165
+			},
+			"commodities": {
+				"by_commodity": [
+					"aluminum",
+					"electricity",
+					"cotton",
+					"fruits",
+					"vegetable oil",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Turkey",
+						"percent": 27.5
+					},
+					{
+						"name": "China",
+						"percent": 17.7
+					},
+					{
+						"name": "Russia",
+						"percent": 13.4
+					},
+					{
+						"name": "Switzerland",
+						"percent": 12.5
+					},
+					{
+						"name": "Algeria",
+						"percent": 8.2
+					},
+					{
+						"name": "Iran",
+						"percent": 7.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2390000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2554000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 159
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum products",
+					"aluminum oxide",
+					"machinery",
+					"equipment",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 38
+					},
+					{
+						"name": "Kazakhstan",
+						"percent": 19
+					},
+					{
+						"name": "China",
+						"percent": 8.7
+					},
+					{
+						"name": "Iran",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1292000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 652800000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 127
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 5750000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 5495000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 130
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 8.764,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 7.8358,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 7.8358,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 6.1631,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 4.9348,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Tajikistani somoni (TJS) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 17030000000.000002,
+				"global_rank": 85,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 12960000000,
+				"global_rank": 85,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1400000000,
+				"global_rank": 52,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 103000000,
+				"global_rank": 98,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 5508000,
+				"global_rank": 78,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 6,
+					"global_rank": 201,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 191,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 94,
+					"global_rank": 6,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 208,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 180,
+				"global_rank": 97,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 204,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 201,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 12000000,
+				"global_rank": 89,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 172,
+				"global_rank": 108,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 24000,
+				"global_rank": 130,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 206,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 22460,
+				"global_rank": 114,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 19820000,
+				"global_rank": 89,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 19820000,
+				"global_rank": 114,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 197,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 197,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 5663000000,
+				"global_rank": 91,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 6329000,
+			"global_rank": 126,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 471090,
+				"subscriptions_per_one_hundred_inhabitants": 5.39,
+				"global_rank": 94,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 9747803,
+				"subscriptions_per_one_hundred_inhabitants": 111.53,
+				"global_rank": 88,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run TV broadcasters transmit nationally on 9 TV and 10 radio stations, and regionally on 4 stations; 31 independent TV and 20 radio stations broadcast locally and regionally; many households are able to receive Russian and other foreign stations via cable and satellite (2016)",
+		"internet": {
+			"country_code": ".tj",
+			"users": {
+				"total": 1889632,
+				"percent_of_population": 21.96,
+				"global_rank": 123,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 492320,
+				"annual_freight_traffic_on_registered_air_carriers": 2340000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "EY",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 24,
+					"global_rank": 131,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 17,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 4,
+					"1524_to_2437_metres": 5,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 3,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 7,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 5,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 549,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 38,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 680,
+				"units": "km"
+			},
+			"broad_gauge": {
+				"length": 680,
+				"units": "km\n1.520-m"
+			},
+			"global_rank": 102,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 30000,
+				"units": "km"
+			},
+			"global_rank": 99,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 200,
+			"units": "km",
+			"note": "along Vakhsh River",
+			"global_rank": 98,
+			"date": "2011"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2012"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2011"
+				}
+			],
+			"global_rank": 107,
+			"note": "no public data available for 2013, 2016-2018"
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-27 years of age for compulsory or voluntary military service; 12-18 month conscript service obligation",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002",
+			"talks continue with Uzbekistan to delimit border and remove minefields",
+			"disputes in Isfara Valley delay delimitation with Kyrgyzstan"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 7151,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "Tajikistan sits on one of the world's highest volume illicit drug trafficking routes, between Afghan opiate production to the south and the illicit drug markets of Russia and Eastern Europe to the north; limited illicit cultivation of opium poppy for domestic consumption; significant consumer of opiates"
+		}
+	}
+}

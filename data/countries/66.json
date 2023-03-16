@@ -1,0 +1,1790 @@
+{
+	"name": "Czechia",
+	"introduction": {
+		"background": "At the close of World War I, the Czechs and Slovaks of the former Austro-Hungarian Empire merged to form Czechoslovakia. During the interwar years, having rejected a federal system, the new country's predominantly Czech leaders were frequently preoccupied with meeting the increasingly strident demands of other ethnic minorities within the republic, most notably the Slovaks, the Sudeten Germans, and the Ruthenians (Ukrainians). On the eve of World War II, Nazi Germany occupied the territory that today comprises Czechia, and Slovakia became an independent state allied with Germany. After the war, a reunited but truncated Czechoslovakia (less Ruthenia) fell within the Soviet sphere of influence. In 1968, an invasion by Warsaw Pact troops ended the efforts of the country's leaders to liberalize communist rule and create \"socialism with a human face,\" ushering in a period of repression known as \"normalization.\" The peaceful \"Velvet Revolution\" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, the country underwent a nonviolent \"velvet divorce\" into its two national components, the Czech Republic and Slovakia. The Czech Republic joined NATO in 1999 and the European Union in 2004. The country added the short-form name Czechia in 2016, while continuing to use the full form name, Czech Republic."
+	},
+	"geography": {
+		"location": "Central Europe, between Germany, Poland, Slovakia, and Austria",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 49,
+				"minutes": 45,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 15,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 78867,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 77247,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1620,
+				"units": "sq km"
+			},
+			"global_rank": 117,
+			"comparative": "about two-thirds the size of Pennsylvania; slightly smaller than South Carolina"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2143,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Austria",
+					"border_length": {
+						"value": 402,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 704,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Poland",
+					"border_length": {
+						"value": 796,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Slovakia",
+					"border_length": {
+						"value": 241,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate; cool summers; cold, cloudy, humid winters",
+		"terrain": "Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country",
+		"elevation": {
+			"mean_elevation": {
+				"value": 433,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Labe (Elbe) River",
+				"elevation": {
+					"value": 115,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Snezka",
+				"elevation": {
+					"value": 1602,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hard coal",
+				"soft coal",
+				"kaolin",
+				"clay",
+				"graphite",
+				"timber",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 54.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 41,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 12.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 34.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 10.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 320,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks",
+				"acid rain damaging forests",
+				"land pollution caused by industry",
+				"mining",
+				"and agriculture"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 10702498,
+			"global_rank": 85,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Czech(s)",
+			"adjective": "Czech"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Czech",
+					"percent": 64.3
+				},
+				{
+					"name": "Moravian",
+					"percent": 5
+				},
+				{
+					"name": "Slovak",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 1.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 27.5
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Czech",
+					"percent": 95.4,
+					"note": "official"
+				},
+				{
+					"name": "Slovak",
+					"percent": 1.6
+				},
+				{
+					"name": "other",
+					"percent": 3,
+					"note": "2011 census"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 10.4
+				},
+				{
+					"name": "Protestant",
+					"percent": 1.1,
+					"note": "includes Czech Brethren and Hussite"
+				},
+				{
+					"name": "other and unspecified",
+					"percent": 54
+				},
+				{
+					"name": "none",
+					"percent": 34.5
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.17,
+				"males": 834447,
+				"females": 789328
+			},
+			"15_to_24": {
+				"percent": 9.2,
+				"males": 508329,
+				"females": 475846
+			},
+			"25_to_54": {
+				"percent": 43.29,
+				"males": 2382899,
+				"females": 2249774
+			},
+			"55_to_64": {
+				"percent": 12.12,
+				"males": 636357,
+				"females": 660748
+			},
+			"65_and_over": {
+				"percent": 20.23,
+				"males": 907255,
+				"females": 1257515
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 56,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 24.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 31.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 43.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 42,
+				"units": "years"
+			},
+			"female": {
+				"value": 44.7,
+				"units": "years"
+			},
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.06,
+			"global_rank": 188,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.9,
+			"global_rank": 205,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.7,
+			"global_rank": 26,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.3,
+			"global_rank": 43,
+			"date": "2020"
+		},
+		"population_distribution": "a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations",
+		"urbanization": {
+			"urban_population": {
+				"value": 74.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.21,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Prague",
+					"population": 1306000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.72,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 28.4,
+			"date": "2018"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 3,
+			"global_rank": 176,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 218,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.4,
+				"units": "years"
+			},
+			"global_rank": 56,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.48,
+			"global_rank": 207,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 4.07,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 4400,
+				"global_rank": 124,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 26,
+			"global_rank": 46,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.6,
+			"global_rank": 36,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "NA",
+			"total_population": {
+				"value": 99,
+				"units": "%"
+			},
+			"male": {
+				"value": 99,
+				"units": "%"
+			},
+			"female": {
+				"value": 99,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 6.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 7.2,
+				"units": "%"
+			},
+			"global_rank": 155,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Czech Republic",
+			"conventional_short_form": "Czechia",
+			"local_long_form": "Ceska republika",
+			"local_short_form": "Cesko",
+			"etymology": "name derives from the Czechs, a West Slavic tribe who rose to prominence in the late 9th century A.D.; the country officially adopted the English short-form name of Czechia on 1 July 2016"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Prague",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 50,
+					"minutes": 5,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 14,
+					"minutes": 28,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the name may derive from an old Slavic root \"praga\" or \"prah\", meaning \"ford\", and refer to the city's origin at a crossing point of the Vltava (Moldau) River"
+		},
+		"administrative_divisions": [
+			{
+				"name": "kraj) and 1 capital city",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1993-01-01",
+			"note": "Czechoslovakia split into the Czech Republic and Slovakia; note - although 1 January is the day the Czech Republic came into being, the Czechs commemorate 28 October 1918, the day the former Czechoslovakia declared its independence from the Austro-Hungarian Empire, as their independence day"
+		},
+		"national_holidays": [
+			{
+				"name": "Czechoslovak Founding Day",
+				"day": "28 October",
+				"original_year": "1918"
+			}
+		],
+		"constitution": {
+			"history": "previous 1960; latest ratified 16 December 1992, effective 1 January 1993",
+			"amendments": "passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2013"
+		},
+		"legal_system": "new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Czechia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Milos ZEMAN (since 8 March 2013)",
+			"head_of_government": "Prime Minister Andrej BABIS (since 13 December 2017); First Deputy Prime Minister Jan HAMACEK (since 27 June 2018), Deputy Prime Minister Alena SCHILLEROVA (since 30 April 2019)",
+			"cabinet": "Cabinet appointed by the president on the recommendation of the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term",
+			"election_results": "Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Parlament consists of: Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)\nChamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)",
+			"elections": "Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)\nChamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4\nChamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)",
+			"judge_selection_and_term_of_office": "Supreme Court judges proposed by the Chamber of Deputies and appointed by the president; judges appointed for life; Constitutional Court judges appointed by the president and confirmed by the Senate; judges appointed for 10-year, renewable terms; Supreme Administrative Court judges selected by the president of the Court; unlimited terms",
+			"subordinate_courts": "High Court; regional and district courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Christian Democratic Union-Czechoslovak People's Party",
+					"name_alternative": "KDU-CSL",
+					"leaders": [
+						"Pavel BELOBRADEK"
+					]
+				},
+				{
+					"name": "Civic Democratic Party",
+					"name_alternative": "ODS",
+					"leaders": [
+						"Petr FIALA"
+					]
+				},
+				{
+					"name": "Communist Party of Bohemia and Moravia",
+					"name_alternative": "KSCM",
+					"leaders": [
+						"Vojtech FILIP"
+					]
+				},
+				{
+					"name": "Czech Social Democratic Party",
+					"name_alternative": "CSSD",
+					"leaders": [
+						"Jan HAMACEK"
+					]
+				},
+				{
+					"name": "Freedom and Direct Democracy",
+					"name_alternative": "SPD",
+					"leaders": [
+						"Tomio OKAMURA"
+					]
+				},
+				{
+					"name": "Green Party",
+					"name_alternative": "SZ",
+					"leaders": [
+						"Petr STEPANEK"
+					]
+				},
+				{
+					"name": "Mayors and Independents",
+					"name_alternative": "STAN",
+					"leaders": [
+						"Petr GAZDIK"
+					]
+				},
+				{
+					"name": "Movement of Dissatisfied Citizens",
+					"name_alternative": "ANO",
+					"leaders": [
+						"Andrej BABIS"
+					]
+				},
+				{
+					"name": "Party of Civic Rights",
+					"name_alternative": "SPO",
+					"leaders": [
+						"Lubomir NECAS"
+					]
+				},
+				{
+					"name": "Pirate Party",
+					"name_alternative": "Pirates",
+					"leaders": [
+						"Ivan BARTOS"
+					]
+				},
+				{
+					"name": "Tradition Responsibility Prosperity 09",
+					"name_alternative": "TOP 09",
+					"leaders": [
+						"Jiri POSPISIL"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Hynek KMONICEK (since 24 April 2017)",
+				"chancery": "3900 Spring of Freedom Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 274-9100",
+				"fax": "[1] (202) 966-8540",
+				"consulates_general": "Chicago, Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Stephen B. KING (since 6 December 2017)",
+				"telephone": "[420] 257 022 000",
+				"embassy": "Trziste 15, 118 01 Prague 1 - Mala Strana",
+				"mailing_address": "use embassy street address",
+				"fax": "[420] 257 022 809"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side",
+			"note": "combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "silver ",
+					"note": "or white"
+				},
+				{
+					"symbol": "double-tailed"
+				},
+				{
+					"symbol": "rampant lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Kde domov muj?\" (Where is My Home?)",
+			"lyrics_music": "Josef Kajetan TYL/Frantisek Jan SKROUP",
+			"note": "adopted 1993; the anthem was originally written as incidental music to the play \"Fidlovacka\" (1834), it soon became very popular as an unofficial anthem of the Czech nation; its first verse served as the official Czechoslovak anthem beginning in 1918, while the second verse (Slovak) was dropped after the split of Czechoslovakia in 1993",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/EZ.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.\nSince coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.\nLong-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 375900000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 360500000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 351900000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 49,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 215800000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.27,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.18,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 5.35,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 124
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 35500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 34200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 33400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 57,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 47.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 79.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -72.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 36.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 60.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 26.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 27.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 28.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 45
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"potatoes",
+				"sugar beets",
+				"hops",
+				"fruit",
+				"pigs",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"motor vehicles",
+				"metallurgy",
+				"machinery",
+				"equipment",
+				"glass",
+				"armaments"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 7.5,
+			"global_rank": 27,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 5222000,
+				"global_rank": 75,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 38,
+						"units": "%"
+					},
+					"services": {
+						"value": 59.2,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.8,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.18,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 32
+		},
+		"population_below_poverty_line": {
+			"value": 9.7,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4.1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 21.7,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 87370000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 83920000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 40.5,
+			"global_rank": 37,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.6,
+			"global_rank": 19,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 34.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 36.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 153
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 118
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -678000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 1259000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 130
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 144800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 131100000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 33
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"raw materials",
+					"fuel",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 32.8
+					},
+					{
+						"name": "Slovakia",
+						"percent": 7.8
+					},
+					{
+						"name": "Poland",
+						"percent": 6.1
+					},
+					{
+						"name": "France",
+						"percent": 5.1
+					},
+					{
+						"name": "UK",
+						"percent": 4.9
+					},
+					{
+						"name": "Austria",
+						"percent": 4.4
+					},
+					{
+						"name": "Italy",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 134699999999.99998,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 120500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 32
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"raw materials",
+					"fuels",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 29.8
+					},
+					{
+						"name": "Poland",
+						"percent": 9.1
+					},
+					{
+						"name": "China",
+						"percent": 7.4
+					},
+					{
+						"name": "Slovakia",
+						"percent": 5.8
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.3
+					},
+					{
+						"name": "Italy",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 148000000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 85730000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 18
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 205200000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 138000000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 35
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 23.34,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 24.44,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 24.44,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 24.599,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 20.758,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "koruny (CZK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 77390000000,
+				"global_rank": 38,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 62340000000,
+				"global_rank": 42,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 24790000000,
+				"global_rank": 7,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 13820000000,
+				"global_rank": 18,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 21630000,
+				"global_rank": 40,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 60,
+					"global_rank": 131,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 19,
+					"global_rank": 10,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 5,
+					"global_rank": 130,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 16,
+					"global_rank": 51,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 2000,
+				"global_rank": 86,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 446,
+				"global_rank": 78,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 155900,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 15000000,
+				"global_rank": 85,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 177500,
+				"global_rank": 56,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 213700,
+				"global_rank": 56,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 52200,
+				"global_rank": 54,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 83860,
+				"global_rank": 60,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 229400000,
+				"global_rank": 78,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 8721000000,
+				"global_rank": 51,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 93,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 8891000000,
+				"global_rank": 28,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 3964000000,
+				"global_rank": 93,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 115800000,
+			"global_rank": 39,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1473846,
+				"subscriptions_per_one_hundred_inhabitants": 13.78,
+				"global_rank": 65,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 13213279,
+				"subscriptions_per_one_hundred_inhabitants": 123.54,
+				"global_rank": 71,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "22 TV stations operate nationally, with 17 of them in private hands; publicly operated Czech Television has 5 national channels; throughout the country, there are some 350 TV channels in operation, many through cable, satellite, and IPTV subscription services; 63 radio broadcasters are registered, operating over 80 radio stations, including 7 multiregional radio stations or networks; publicly operated broadcaster Czech Radio operates 4 national, 14 regional, and 4 Internet stations; both Czech Radio and Czech Television are partially financed through a license fee (2019)",
+		"internet": {
+			"country_code": ".cz",
+			"users": {
+				"total": 8622750,
+				"percent_of_population": 80.69,
+				"global_rank": 58,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 48,
+				"annual_passenger_traffic_on_registered_air_carriers": 5727200,
+				"annual_freight_traffic_on_registered_air_carriers": 25230000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OK",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 128,
+					"global_rank": 45,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 41,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 9,
+					"1524_to_2437_metres": 12,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 16,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 87,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 25,
+					"under_914_metres": 61,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 160,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 675,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 94,
+					"units": "km"
+				}
+			],
+			"date": "2016"
+		},
+		"railways": {
+			"total": {
+				"length": 9408,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 9385,
+				"electrified": 3218,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 23,
+				"units": "km\n0.760-m"
+			},
+			"global_rank": 24,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 55744,
+				"units": "km",
+				"note": "includes urban and category I, II, III roads"
+			},
+			"paved": {
+				"value": 55744,
+				"units": "km",
+				"note": "includes 1,252 km of expressways"
+			},
+			"global_rank": 82,
+			"date": "2019"
+		},
+		"waterways": {
+			"value": 664,
+			"units": "km",
+			"note": "principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals",
+			"global_rank": 76,
+			"date": "2010"
+		},
+		"ports_and_terminals": {
+			"river_ports": [
+				"Prague (Vltava)\nDecin",
+				"Usti nad Labem (Elbe)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.19,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.13,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.04,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.96,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.03,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 109
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-28 years of age for male and female voluntary military service; no conscription",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 1394,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for Southwest Asian heroin and minor transit point for Latin American cocaine to Western Europe; producer of synthetic drugs for local and regional markets; susceptible to money laundering related to drug trafficking, organized crime; significant consumer of ecstasy"
+		}
+	}
+}

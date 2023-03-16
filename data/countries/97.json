@@ -1,0 +1,1965 @@
+{
+	"name": "Guatemala",
+	"introduction": {
+		"background": "The Maya civilization flourished in Guatemala and surrounding regions during the first millennium A.D. After almost three centuries as a Spanish colony, Guatemala won its independence in 1821. During the second half of the 20th century, it experienced a variety of military and civilian governments, as well as a 36-year guerrilla war. In 1996, the government signed a peace agreement formally ending the internal conflict."
+	},
+	"geography": {
+		"location": "Central America, bordering the North Pacific Ocean, between El Salvador and Mexico, and bordering the Gulf of Honduras (Caribbean Sea) between Honduras and Belize",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 90,
+				"minutes": 15,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 108889,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 107159,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1730,
+				"units": "sq km"
+			},
+			"global_rank": 108,
+			"comparative": "slightly smaller than Pennsylvania"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1667,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Belize",
+					"border_length": {
+						"value": 266,
+						"units": "km"
+					}
+				},
+				{
+					"country": "El Salvador",
+					"border_length": {
+						"value": 199,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Honduras",
+					"border_length": {
+						"value": 244,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mexico",
+					"border_length": {
+						"value": 958,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 400,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "tropical; hot, humid in lowlands; cooler in highlands",
+		"terrain": "two east-west trending mountain chains divide the country into three regions: the mountainous highlands, the Pacific coast south of mountains, and the vast northern Peten lowlands",
+		"elevation": {
+			"mean_elevation": {
+				"value": 759,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Volcan Tajumulco (highest point in Central America)",
+				"elevation": {
+					"value": 4220,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"nickel",
+				"rare woods",
+				"fish",
+				"chicle",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 41.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 14.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 8.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 18.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 33.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 3375,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas",
+		"natural_hazards": [
+			{
+				"description": "numerous volcanoes in mountains, with occasional violent earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "Caribbean coast extremely susceptible to hurricanes and other tropical storms",
+				"type": "hazard"
+			},
+			{
+				"description": "significant volcanic activity in the Sierra Madre range; Santa Maria (3,772 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Pacaya (2,552 m), which erupted in May 2010 causing an ashfall on Guatemala City and prompting evacuations, is one of the country's most active volcanoes with frequent eruptions since 1965; other historically active volcanoes include Acatenango, Almolonga, Atitlan, Fuego, and Tacana; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation in the Peten rainforest",
+				"soil erosion",
+				"water pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 17153288,
+			"global_rank": 68,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Guatemalan(s)",
+			"adjective": "Guatemalan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 56,
+					"note": "mixed Amerindian-Spanish - in local Spanish called Ladino"
+				},
+				{
+					"name": "Maya",
+					"percent": 41.7
+				},
+				{
+					"name": "Xinca",
+					"percent": 1.8,
+					"note": "indigenous, non-Maya"
+				},
+				{
+					"name": "African descent .2%"
+				},
+				{
+					"name": "Garifuna  .1%",
+					"note": "mixed West and Central African, Island Carib, and Arawak"
+				},
+				{
+					"name": "foreign .2%"
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"percent": 69.9,
+					"note": "official"
+				},
+				{
+					"name": "Maya languages",
+					"percent": 29.7,
+					"breakdown": [
+						{
+							"name": "Q'eqchi'",
+							"percent": 8.3
+						},
+						{
+							"name": "K'iche",
+							"percent": 7.8
+						},
+						{
+							"name": "Mam",
+							"percent": 4.4
+						},
+						{
+							"name": "Kaqchikel",
+							"percent": 3
+						},
+						{
+							"name": "Q'anjob'al",
+							"percent": 1.2
+						},
+						{
+							"name": "Poqomchi'",
+							"percent": 1
+						},
+						{
+							"name": "other",
+							"percent": 4
+						}
+					]
+				},
+				{
+					"name": "other",
+					"percent": 0.4,
+					"note": "includes Xinca and Garifuna"
+				}
+			],
+			"note": "the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna",
+			"date": "2018"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic"
+				},
+				{
+					"name": "Protestant"
+				},
+				{
+					"name": "indigenous Maya"
+				}
+			]
+		},
+		"demographic_profile": "Guatemala is a predominantly poor country that struggles in several areas of health and development, including infant, child, and maternal mortality, malnutrition, literacy, and contraceptive awareness and use. The country's large indigenous population is disproportionately affected. Guatemala is the most populous country in Central America and has the highest fertility rate in Latin America. It also has the highest population growth rate in Latin America, which is likely to continue because of its large reproductive-age population and high birth rate. Almost half of Guatemala's population is under age 19, making it the youngest population in Latin America. Guatemala's total fertility rate has slowly declined during the last few decades due in part to limited government-funded health programs. However, the birth rate is still more close to three children per woman and is markedly higher among its rural and indigenous populations.\nGuatemalans have a history of emigrating legally and illegally to Mexico, the United States, and Canada because of a lack of economic opportunity, political instability, and natural disasters. Emigration, primarily to the United States, escalated during the 1960 to 1996 civil war and accelerated after a peace agreement was signed. Thousands of Guatemalans who fled to Mexico returned after the war, but labor migration to southern Mexico continues.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 33.68,
+				"males": 2944145,
+				"females": 2833432
+			},
+			"15_to_24": {
+				"percent": 19.76,
+				"males": 1705730,
+				"females": 1683546
+			},
+			"25_to_54": {
+				"percent": 36.45,
+				"males": 3065933,
+				"females": 3186816
+			},
+			"55_to_64": {
+				"percent": 5.41,
+				"males": 431417,
+				"females": 496743
+			},
+			"65_and_over": {
+				"percent": 4.7,
+				"males": 363460,
+				"females": 442066
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 62.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 54.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 12.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 23.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 22.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 23.8,
+				"units": "years"
+			},
+			"global_rank": 178,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.68,
+			"global_rank": 62,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 23.3,
+			"global_rank": 55,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.9,
+			"global_rank": 200,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.7,
+			"global_rank": 158,
+			"date": "2020"
+		},
+		"population_distribution": "the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 51.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.68,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Guatemala City",
+					"population": 2935000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.87,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.82,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.2,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 95,
+			"global_rank": 72,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 21.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 24,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 19.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 72.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 74.5,
+				"units": "years"
+			},
+			"global_rank": 153,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.72,
+			"global_rank": 63,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 60.6,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.36,
+			"date": "2018"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 92.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 95.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 7.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 91.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 61.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 76.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 8.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 38.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 23.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 88,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 36000,
+				"global_rank": 69,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1200,
+				"global_rank": 54,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.2,
+			"global_rank": 93,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 12.4,
+			"global_rank": 51,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.8,
+			"global_rank": 145,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 81.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 87.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 76.3,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 11,
+				"units": "years"
+			},
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 5,
+				"units": "%"
+			},
+			"male": {
+				"value": 3.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 8,
+				"units": "%"
+			},
+			"global_rank": 166,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Guatemala",
+			"conventional_short_form": "Guatemala",
+			"local_long_form": "Republica de Guatemala",
+			"local_short_form": "Guatemala",
+			"etymology": "the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called \"Quauhtemallan\" by their Nahuatl-speaking Mexican allies, a name that means \"land of trees\" or \"forested land\", but which the Spanish pronounced \"Guatemala\"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Guatemala City",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 14,
+					"minutes": 37,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 90,
+					"minutes": 31,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -6,
+				"note": "1 hour behind Washington, DC, during Standard Time"
+			},
+			"etymology": "the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called \"Quauhtemallan\" by their Nahuatl-speaking Mexican allies, a name that means \"land of trees\" or \"forested land\", but which the Spanish pronounced \"Guatemala\"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country"
+		},
+		"independence": {
+			"date": "1821-09-15",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "15 September",
+				"original_year": "1821"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 31 May 1985, effective 14 January 1986; suspended and reinstated in 1994",
+			"amendments": "proposed by the president of the republic, by agreement of 10 or more deputies of Congress, by the Constitutional Court, or by public petition of at least 5,000 citizens; passage requires at least two-thirds majority vote by the Congress membership and approval by public referendum, referred to as \"popular consultation\";\nconstitutional articles such as national sovereignty, the republican form of government, limitations on those seeking the presidency, or presidential tenure cannot be amended; amended 1994"
+		},
+		"legal_system": "civil law system; judicial review of legislative acts",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years with no absences of six consecutive months or longer or absences totaling more than a year"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Alejandro GIAMMATTEI (since 14 January 2020); Vice President Cesar Guillermo CASTILLO Reyes (since 14 January 2020); note - the president is both chief of state and head of government",
+			"head_of_government": "President Alejandro GIAMMATTEI (since 14 January 2020); Vice President Cesar Guillermo CASTILLO Reyes (since 14 January 2020)",
+			"cabinet": "Council of Ministers appointed by the president",
+			"elections_appointments": "president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 16 June 2019 with a runoff on 11 August 2019 (next to be held in June 2023)",
+			"election_results": "Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.54%, Alejandro GIAMMATTEI (VAMOS) 13.95%, Edmond MULET (PHG) 11.21%, Thelma CABRERA (MLP) 10.37%, Roberto ARZU (PAN-PODEMOS) 6.08%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list, proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020",
+			"elections": "last held on 16 June 2019 (next to be held on June 2023)",
+			"election_results": "percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1",
+			"note": "current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates)",
+			"judge_selection_and_term_of_office": "Supreme Court magistrates elected by the Congress of the Republic from candidates proposed by the Postulation Committee, an independent body of deans of the country's university law schools, representatives of the country's law associations, and representatives of the Courts of Appeal; magistrates elected for concurrent, renewable 5-year terms; Constitutional Court judges - 1 elected by the Congress of the Republic, 1 by the Supreme Court, 1 by the president of the republic, 1 by the (public) University of San Carlos, and 1 by the Assembly of the College of Attorneys and Notaries; judges elected for renewable, consecutive 5-year terms; the presidency of the court rotates among the magistrates for a single 1-year term",
+			"subordinate_courts": "numerous first instance and appellate courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Bienestar Nacional",
+					"name_alternative": "BIEN",
+					"leaders": [
+						"Alfonso PORTILLO and Evelyn MORATAYA"
+					]
+				},
+				{
+					"name": "Citizen Alliance",
+					"name_alternative": "AC"
+				},
+				{
+					"name": "Citizen Prosperity",
+					"name_alternative": "PC",
+					"leaders": [
+						"Dami Anita Elizabeth KRISTENSON Sales"
+					]
+				},
+				{
+					"name": "Commitment, Renewal, Order",
+					"name_alternative": "CREO",
+					"leaders": [
+						"Roberto GONZALEZ Diaz-Duran"
+					]
+				},
+				{
+					"name": "Convergence",
+					"leaders": [
+						"Sandra MORAN"
+					]
+				},
+				{
+					"name": "Encounter for Guatemala",
+					"name_alternative": "EG",
+					"leaders": [
+						"Nineth MONTENEGRO Cottom"
+					]
+				},
+				{
+					"name": "Everyone Together for Guatemala",
+					"name_alternative": "TODOS",
+					"leaders": [
+						"Felipe ALEJOS"
+					]
+				},
+				{
+					"name": "Force",
+					"name_alternative": "FUERZA",
+					"leaders": [
+						"Mauricio RADFORD"
+					]
+				},
+				{
+					"name": "Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG",
+					"name_alternative": "",
+					"leaders": [
+						"Gregorio CHAY Laynez"
+					]
+				},
+				{
+					"name": "Humanist Party of Guatemala",
+					"name_alternative": "PHG",
+					"leaders": [
+						"Edmond MULET"
+					]
+				},
+				{
+					"name": "Movement for the Liberation of Peoples",
+					"name_alternative": "MLP",
+					"leaders": [
+						"Thelma CABRERA"
+					]
+				},
+				{
+					"name": "Movimiento Semilla",
+					"name_alternative": "SEMILLA",
+					"leaders": [
+						"Thelma ALDANA"
+					]
+				},
+				{
+					"name": "National Advancement Party",
+					"name_alternative": "PAN",
+					"leaders": [
+						"Harald JOHANNESSEN"
+					]
+				},
+				{
+					"name": "National Convergence Front or FCN-NACION or FCN",
+					"name_alternative": "",
+					"leaders": [
+						"Jimmy MORALES"
+					]
+				},
+				{
+					"name": "National Unity for Hope",
+					"name_alternative": "UNE",
+					"leaders": [
+						"Sandra TORRES"
+					]
+				},
+				{
+					"name": "Nationalist Change Union",
+					"name_alternative": "UCN",
+					"leaders": [
+						"Mario ESTRADA"
+					]
+				},
+				{
+					"name": "Patriotic Party",
+					"name_alternative": "PP"
+				},
+				{
+					"name": "PODEMOS",
+					"leaders": [
+						"Jose Raul VIRGIL Arias"
+					]
+				},
+				{
+					"name": "Political Movement Winaq",
+					"name_alternative": "Winaq",
+					"leaders": [
+						"Sonia GUTIERREZ Raguay"
+					]
+				},
+				{
+					"name": "Reform Movement",
+					"name_alternative": "MR"
+				},
+				{
+					"name": "Renewed Democratic Liberty",
+					"name_alternative": "LIDER",
+					"note": "dissolved mid-February 2016"
+				},
+				{
+					"name": "TODOS",
+					"leaders": [
+						"Felipe ALEJOS"
+					]
+				},
+				{
+					"name": "Unionista Party",
+					"name_alternative": "PU",
+					"leaders": [
+						"Alvaro ARZU Escobar"
+					]
+				},
+				{
+					"name": "Value",
+					"name_alternative": "VALOR",
+					"leaders": [
+						"Zury RIOS"
+					]
+				},
+				{
+					"name": "Vamos por una Guatemala Diferente",
+					"name_alternative": "VAMOS",
+					"leaders": [
+						"Alejandro GIAMMATTEI"
+					]
+				},
+				{
+					"name": "Victory",
+					"name_alternative": "VICTORIA",
+					"leaders": [
+						"Amilcar RIVERA"
+					]
+				},
+				{
+					"name": "Vision with Values",
+					"name_alternative": "VIVA",
+					"leaders": [
+						"Armando Damian CASTILLO Alvarado"
+					]
+				}
+			],
+			"note": "parties represented in the last election, but have since dissolved - FCN (2017), LIDER (2016), PP (2017)"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "CACM"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt ",
+				"note": "signatory"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "SICA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Alfonso Jose QUINONEZ LEMUS (since 17 July 2020)",
+				"chancery": "2220 R Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 745-4952",
+				"fax": "[1] (202) 745-1908",
+				"consulates_general": "Atlanta, Chicago, Del Rio (TX), Denver, Houston, Los Angeles, McAllen (TX), Miami, New York, Oklahoma City, Philadelphia, Phoenix, Providence (RI), Raleigh (NC), San Bernardino (CA), San Francisco, Seattle",
+				"consulates": "Lake Worth (FL), Tucson (AZ)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Luis E. ARREAGA (since 4 October 2017)",
+				"telephone": "[502] 2326-4000",
+				"embassy": "7-01 Avenida Reforma, Zone 10, Guatemala City",
+				"mailing_address": "DPO AA 34024",
+				"fax": "[502] 2326-4654"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity",
+			"note": "one of only two national flags featuring a firearm, the other is Mozambique"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "quetzal ",
+					"note": "bird"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional de Guatemala\" (National Anthem of Guatemala)",
+			"lyrics_music": "Jose Joaquin PALMA/Rafael Alvarez OVALLE",
+			"note": "adopted 1897, modified lyrics adopted 1934; Cuban poet Jose Joaquin PALMA anonymously submitted lyrics to a public contest calling for a national anthem; his authorship was not discovered until 1911",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/GT.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.\nThe 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.\nThe distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 138100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 134400000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 130400000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 77,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 75620000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 4.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 104
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 150,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 86.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 9.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 12.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -26.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 13.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 23.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 63.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 14.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 13.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 141
+		},
+		"agriculture_products": {
+			"products": [
+				"sugarcane",
+				"corn",
+				"bananas",
+				"coffee",
+				"beans",
+				"cardamom",
+				"cattle",
+				"sheep",
+				"pigs",
+				"chickens"
+			]
+		},
+		"industries": {
+			"industries": [
+				"sugar",
+				"textiles",
+				"clothing",
+				"furniture",
+				"chemicals",
+				"petroleum",
+				"metals",
+				"rubber",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.8,
+			"global_rank": 136,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 6664000,
+				"global_rank": 67,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 31.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12.8,
+						"units": "%"
+					},
+					"services": {
+						"value": 55.8,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 23
+		},
+		"population_below_poverty_line": {
+			"value": 59.3,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 38.4,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 8164000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 9156000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 10.8,
+			"global_rank": 212,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.3,
+			"global_rank": 85,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 24.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 175
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 165
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 1134000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1022999999.9999999,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 48
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11120000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10580000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 88
+			},
+			"commodities": {
+				"by_commodity": [
+					"sugar",
+					"coffee",
+					"petroleum",
+					"apparel",
+					"bananas",
+					"fruits",
+					"vegetables",
+					"cardamom",
+					"manufacturing products",
+					"precious stones",
+					"metals",
+					"electricity"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 33.8
+					},
+					{
+						"name": "El Salvador",
+						"percent": 11.1
+					},
+					{
+						"name": "Honduras",
+						"percent": 8.8
+					},
+					{
+						"name": "Nicaragua",
+						"percent": 5.1
+					},
+					{
+						"name": "Mexico",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 17110000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 15770000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 83
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuels",
+					"machinery",
+					"transport equipment",
+					"construction materials",
+					"grain",
+					"fertilizers",
+					"electricity",
+					"mineral products",
+					"chemical products",
+					"plastic materials",
+					"products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 39.8
+					},
+					{
+						"name": "China",
+						"percent": 10.7
+					},
+					{
+						"name": "Mexico",
+						"percent": 10.7
+					},
+					{
+						"name": "El Salvador",
+						"percent": 5.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 11770000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 9156000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 71
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 22920000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 21450000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 89
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 7.323,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 7.5999,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 7.5999,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 7.6548,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 7.7322,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "quetzales (GTQ) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 1000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 91.8,
+					"units": "%",
+					"note": "2016"
+				},
+				"urban_electrification": {
+					"value": 96.8,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 86.4,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2017"
+			},
+			"production": {
+				"kWh": 12120000000,
+				"global_rank": 96,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 10100000000,
+				"global_rank": 96,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1858000000,
+				"global_rank": 47,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 747000000,
+				"global_rank": 75,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 4605000,
+				"global_rank": 85,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 41,
+					"global_rank": 167,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 102,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 31,
+					"global_rank": 67,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 28,
+					"global_rank": 23,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 9600,
+				"global_rank": 78,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 9383,
+				"global_rank": 59,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 136,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 83070000,
+				"global_rank": 71,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 1162,
+				"global_rank": 105,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 89000,
+				"global_rank": 84,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 10810,
+				"global_rank": 80,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 97900,
+				"global_rank": 55,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 141,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 154,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 116,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 134,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 2960000000,
+				"global_rank": 94,
+				"date": "2006-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 17150000,
+			"global_rank": 91,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1894179,
+				"subscriptions_per_one_hundred_inhabitants": 11.23,
+				"global_rank": 58,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 20026347,
+				"subscriptions_per_one_hundred_inhabitants": 118.73,
+				"global_rank": 61,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "4 privately owned national terrestrial TV channels dominate TV broadcasting; multi-channel satellite and cable services are available; 1 government-owned radio station and hundreds of privately owned radio stations (2019)",
+		"internet": {
+			"country_code": ".gt",
+			"users": {
+				"total": 10777827,
+				"percent_of_population": 65,
+				"global_rank": 50,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 5,
+				"annual_passenger_traffic_on_registered_air_carriers": 145795,
+				"annual_freight_traffic_on_registered_air_carriers": 110000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TG",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 291,
+					"global_rank": 23,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 16,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 4,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 275,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 77,
+					"under_914_metres": 195,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "oil",
+					"length": 480,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 800,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 800,
+				"units": "km\n0.914-m"
+			},
+			"note": "despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country",
+			"global_rank": 97,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 17621,
+				"units": "km"
+			},
+			"paved": {
+				"value": 7489,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 10132,
+				"units": "km",
+				"note": "includes 4,960 km of rural roads"
+			},
+			"global_rank": 119,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 990,
+			"units": "km",
+			"note": "260 km navigable year round; additional 730 km navigable during high-water season",
+			"global_rank": 65,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 9,
+			"by_type": [
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 8
+				}
+			],
+			"global_rank": 157,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Puerto Quetzal",
+				"Santo Tomas de Castilla"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 152
+		},
+		"service_age_and_obligation": {
+			"note": "all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women can serve as officers",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"annual ministerial meetings under the Organization of American States-initiated Agreement on the Framework for Negotiations and Confidence Building Measures continue to address Guatemalan land and maritime claims in Belize and the Caribbean Sea",
+			"Guatemala persists in its territorial claim to half of Belize, but agrees to Line of Adjacency to keep Guatemalan squatters out of Belize's forested interior",
+			"both countries agreed in April 2012 to hold simultaneous referenda, scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, but this vote was suspended indefinitely",
+			"Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 242000,
+				"note": "three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence",
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "major transit country for cocaine and heroin; it is estimated that 1,000 mt of cocaine are smuggled through the country each year, primarily destined for the US market; in 2016, the Guatamalan government estimated that an average of 4,500 hectares of opium poppy were being cultivated; marijuana cultivation for mostly domestic consumption; proximity to Mexico makes Guatemala a major staging area for drugs (particularly for cocaine); money laundering is a serious problem; corruption is a major problem"
+		}
+	}
+}

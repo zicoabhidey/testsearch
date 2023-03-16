@@ -1,0 +1,1636 @@
+{
+	"name": "Laos",
+	"introduction": {
+		"background": "Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013."
+	},
+	"geography": {
+		"location": "Southeastern Asia, northeast of Thailand, west of Vietnam",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 105,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 236800,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 230800,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 6000,
+				"units": "sq km"
+			},
+			"global_rank": 85,
+			"comparative": "about twice the size of Pennsylvania; slightly larger than Utah"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 5274,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Burma",
+					"border_length": {
+						"value": 238,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Cambodia",
+					"border_length": {
+						"value": 555,
+						"units": "km"
+					}
+				},
+				{
+					"country": "China",
+					"border_length": {
+						"value": 475,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Thailand",
+					"border_length": {
+						"value": 1845,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Vietnam",
+					"border_length": {
+						"value": 2161,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "tropical monsoon; rainy season (May to November); dry season (December to April)",
+		"terrain": "mostly rugged mountains; some plains and plateaus",
+		"elevation": {
+			"mean_elevation": {
+				"value": 710,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Mekong River",
+				"elevation": {
+					"value": 70,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Phu Bia",
+				"elevation": {
+					"value": 2817,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"hydropower",
+				"gypsum",
+				"tin",
+				"gold",
+				"gemstones"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 10.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 6.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 3.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 67.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 21.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 3100,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia",
+		"natural_hazards": [
+			{
+				"description": "floods, droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"unexploded ordnance",
+				"deforestation",
+				"soil erosion",
+				"loss of biodiversity",
+				"water pollution",
+				"most of the population does not have access to potable water"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 7447396,
+			"global_rank": 101,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Lao(s) or Laotian(s)",
+			"adjective": "Lao or Laotian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Lao",
+					"percent": 53.2
+				},
+				{
+					"name": "Khmou",
+					"percent": 11
+				},
+				{
+					"name": "Hmong",
+					"percent": 9.2
+				},
+				{
+					"name": "Phouthay",
+					"percent": 3.4
+				},
+				{
+					"name": "Tai",
+					"percent": 3.1
+				},
+				{
+					"name": "Makong",
+					"percent": 2.5
+				},
+				{
+					"name": "Katong",
+					"percent": 2.2
+				},
+				{
+					"name": "Lue",
+					"percent": 2
+				},
+				{
+					"name": "Akha",
+					"percent": 1.8
+				},
+				{
+					"name": "other",
+					"percent": 11.6
+				}
+			],
+			"note": "the Laos Government officially recognizes 49 ethnic groups, but the total number of ethnic groups is estimated to be well over 200",
+			"date": "2015"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Lao",
+					"note": "official"
+				},
+				{
+					"name": "French"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "various ethnic languages"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Buddhist",
+					"percent": 64.7
+				},
+				{
+					"name": "Christian",
+					"percent": 1.7
+				},
+				{
+					"name": "none",
+					"percent": 31.4
+				},
+				{
+					"name": "other/not stated",
+					"percent": 2.1
+				}
+			],
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 31.25,
+				"males": 1177297,
+				"females": 1149727
+			},
+			"15_to_24": {
+				"percent": 20.6,
+				"males": 763757,
+				"females": 770497
+			},
+			"25_to_54": {
+				"percent": 38.29,
+				"males": 1407823,
+				"females": 1443774
+			},
+			"55_to_64": {
+				"percent": 5.73,
+				"males": 206977,
+				"females": 219833
+			},
+			"65_and_over": {
+				"percent": 4.13,
+				"males": 139665,
+				"females": 168046
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 56.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 50.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 15,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.4,
+				"units": "years"
+			},
+			"global_rank": 170,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.44,
+			"global_rank": 76,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 22.4,
+			"global_rank": 64,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.2,
+			"global_rank": 119,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1,
+			"global_rank": 144,
+			"date": "2020"
+		},
+		"population_distribution": "most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia",
+		"urbanization": {
+			"urban_population": {
+				"value": 36.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.28,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Vientiane",
+					"population": 683000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.83,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 185,
+			"global_rank": 50,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 45.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 50.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 40.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 29,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 65.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 63.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 67.9,
+				"units": "years"
+			},
+			"global_rank": 193,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.53,
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 54.1,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.49,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.5,
+			"date": "2012"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 94.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 76.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 82.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 5.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 23.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 17.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 66.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 77.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 33.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 22.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 90,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 13000,
+				"global_rank": 96,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 5.3,
+			"global_rank": 179,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 21.1,
+			"global_rank": 21,
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.9,
+			"global_rank": 141,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 84.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 90,
+				"units": "%"
+			},
+			"female": {
+				"value": 79.4,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 10,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 18.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 20.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 15.5,
+				"units": "%"
+			},
+			"global_rank": 72,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Lao People's Democratic Republic",
+			"conventional_short_form": "Laos",
+			"local_long_form": "Sathalanalat Paxathipatai Paxaxon Lao",
+			"local_short_form": "Mueang Lao (unofficial)",
+			"etymology": "name means \"Land of the Lao [people]\""
+		},
+		"government_type": "communist state",
+		"capital": {
+			"name": "Vientiane (Viangchan)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 17,
+					"minutes": 58,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 102,
+					"minutes": 36,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 7,
+				"note": "12 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the meaning in Pali, a Buddhist liturgical language, is \"city of sandalwood\""
+		},
+		"independence": {
+			"date": "1949-07-19",
+			"note": "from France by the Franco-Lao General Convention; 22 October 1953 (Franco-Lao Treaty recognizes full independence)"
+		},
+		"national_holidays": [
+			{
+				"name": "Republic Day",
+				"day": "2 December",
+				"original_year": "1975",
+				"note": "National Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1947 (preindependence); latest promulgated 13-15 August 1991",
+			"amendments": "proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership and promulgation by the president of the republic; amended 2003, 2015"
+		},
+		"legal_system": "civil law system similar in form to the French system",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Laos",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President BOUNNYANG Vorachit (since 20 April 2016); Vice President PHANKHAM Viphavan (since 20 April 2016)",
+			"head_of_government": "Prime Minister THONGLOUN Sisoulit (since 20 April 2016); Deputy Prime Ministers BOUNTHONG Chitmani, SONXAI Siphandon, SOMDI Douangdi (since 20 April 2016)",
+			"cabinet": "Council of Ministers appointed by the president, approved by the National Assembly",
+			"elections_appointments": "president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 20 April 2016 (next to be held in 2021); prime minister nominated by the president, elected by the National Assembly for 5-year term",
+			"election_results": "BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Sapha Heng Xat (149 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)",
+			"elections": "last held on 20 March 2016 (next to be held in 2021)",
+			"election_results": "percent of vote by party - NA; seats by party - LPRP 144, independent 5; composition - men 108, women 41, percent of women 27.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)",
+			"judge_selection_and_term_of_office": "president of People's Supreme Court appointed by the National Assembly upon the recommendation of the president of the republic for a 5-year term; vice presidents of the People's Supreme Court appointed by the president of the republic upon the recommendation of the National Assembly; appointment of chamber judges NA; tenure of court vice presidents and chamber judges NA",
+			"subordinate_courts": "appellate courts; provincial, municipal, district, and military courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Lao People's Revolutionary Party",
+					"name_alternative": "LPRP",
+					"leaders": [
+						"BOUNNYANG Vorachit"
+					]
+				}
+			],
+			"note": "other parties proscribed"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "subscriber"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador KHAMPHAN Anlavan (since January 2019)",
+				"chancery": "2222 S Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 332-6416",
+				"fax": "[1] (202) 332-4923",
+				"consulates": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Peter HAYMOND (since 7 February 2020)",
+				"telephone": "[856] 21-48-7000",
+				"embassy": "Thadeua Road, Kilometer 9, Ban Somvang Tai, Hatsayfong District, Vientiane",
+				"mailing_address": "American Embassy Vientiane, Unit 46222, APO AP 96546-6222",
+				"fax": "[856] 21-48-7190"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "elephant"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Pheng Xat Lao\" (Hymn of the Lao People)",
+			"lyrics_music": "SISANA Sisane/THONGDY Sounthonevichit",
+			"note": "music adopted 1945, lyrics adopted 1975; the anthem's lyrics were changed following the 1975 Communist revolution that overthrew the monarchy",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/LA.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.\nNevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.\nLaos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.\nLaos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 49340000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 46160000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 43130000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 111,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 16969999999.999998,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 7.3,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 20
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 7400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 155,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 63.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 30.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 3.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 34.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -43.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 20.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 33.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 45.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 22.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 15.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 79
+		},
+		"agriculture_products": {
+			"products": [
+				"sweet potatoes",
+				"vegetables",
+				"corn",
+				"coffee",
+				"sugarcane",
+				"tobacco",
+				"cotton",
+				"tea",
+				"peanuts",
+				"rice",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"water buffalo",
+				"pigs",
+				"cattle",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"mining",
+				"copper",
+				"tin",
+				"gold",
+				"gypsum",
+				"timber",
+				"electric power",
+				"agricultural processing",
+				"rubber",
+				"construction",
+				"garments",
+				"cement",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 8,
+			"global_rank": 23,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 3582000,
+				"global_rank": 99,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 73.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 6.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 20.6,
+						"units": "%"
+					}
+				},
+				"date": "2012"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 4
+		},
+		"population_below_poverty_line": {
+			"value": 22,
+			"units": "%",
+			"date": "2013"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30.3,
+				"units": "%"
+			},
+			"date": "2008"
+		},
+		"budget": {
+			"revenues": {
+				"value": 3099000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4038000000.0000005,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 18.3,
+			"global_rank": 161,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -5.5,
+			"global_rank": 172,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 63.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 58.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 64
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 42
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -2057000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -2069999999.9999998,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 167
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3654000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2705000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 120
+			},
+			"commodities": {
+				"by_commodity": [
+					"wood products",
+					"coffee",
+					"electricity",
+					"tin",
+					"copper",
+					"gold",
+					"cassava"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Thailand",
+						"percent": 42.6
+					},
+					{
+						"name": "China",
+						"percent": 28.7
+					},
+					{
+						"name": "Vietnam",
+						"percent": 10.4
+					},
+					{
+						"name": "India",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4976000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4739000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 131
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"vehicles",
+					"fuel",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Thailand",
+						"percent": 59.1
+					},
+					{
+						"name": "China",
+						"percent": 21.5
+					},
+					{
+						"name": "Vietnam",
+						"percent": 9.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1270000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 940100000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 128
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 14900000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 12900000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 104
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 8231.1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 8129.1,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 8129.1,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 8147.9,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 8049,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "kips (LAK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 95,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 98,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 93,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 29740000000,
+				"global_rank": 66,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 5471000000,
+				"global_rank": 120,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 8468999999.999999,
+				"global_rank": 24,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 2500000000,
+				"global_rank": 53,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 6940000,
+				"global_rank": 75,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 28,
+					"global_rank": 186,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 124,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 72,
+					"global_rank": 15,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 157,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 159,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 151,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 149,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 154,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 162,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 18000,
+				"global_rank": 146,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 169,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 17460,
+				"global_rank": 132,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 154,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 165,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 135,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 146,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 155,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 10420000,
+			"global_rank": 105,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1526232,
+				"subscriptions_per_one_hundred_inhabitants": 20.79,
+				"global_rank": 63,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 4466375,
+				"subscriptions_per_one_hundred_inhabitants": 60.84,
+				"global_rank": 125,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "6 TV stations operating out of Vientiane - 3 government-operated and the others commercial; 17 provincial stations operating with nearly all programming relayed via satellite from the government-operated stations in Vientiane; Chinese and Vietnamese programming relayed via satellite from Lao National TV; broadcasts available from stations in Thailand and Vietnam in border areas; multi-channel satellite and cable TV systems provide access to a wide range of foreign stations; state-controlled radio with state-operated Lao National Radio (LNR) broadcasting on 5 frequencies - 1 AM, 1 SW, and 3 FM; LNR's AM and FM programs are relayed via satellite constituting a large part of the programming schedules of the provincial radio stations; Thai radio broadcasts available in border areas and transmissions of multiple international broadcasters are also accessible",
+		"internet": {
+			"country_code": ".la",
+			"users": {
+				"total": 1845437,
+				"percent_of_population": 25.51,
+				"global_rank": 124,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 12,
+				"annual_passenger_traffic_on_registered_air_carriers": 1251961,
+				"annual_freight_traffic_on_registered_air_carriers": 1530000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "RDPL",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 41,
+					"global_rank": 104,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 8,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 33,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 9,
+					"under_914_metres": 22,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "refined products",
+					"length": 540,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 39586,
+				"units": "km"
+			},
+			"paved": {
+				"value": 5415,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 34171,
+				"units": "km"
+			},
+			"global_rank": 90,
+			"date": "2009"
+		},
+		"waterways": {
+			"value": 4600,
+			"units": "km",
+			"note": "primarily on the Mekong River and its tributaries; 2,900 additional km are intermittently navigable by craft drawing less than 0.5 m",
+			"global_rank": 23,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 1,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 1
+				}
+			],
+			"global_rank": 176,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.2,
+					"units": "percent_of_gdp",
+					"date": "2013"
+				},
+				{
+					"value": 0.2,
+					"units": "percent_of_gdp",
+					"date": "2012"
+				},
+				{
+					"value": 0.2,
+					"units": "percent_of_gdp",
+					"date": "2011"
+				}
+			],
+			"global_rank": 157,
+			"note": "no public figures available for 2014-2019"
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"southeast Asian states have enhanced border surveillance to check the spread of avian flu",
+			"talks continue on completion of demarcation with Thailand but disputes remain over islands in the Mekong River",
+			"Cambodia and Laos have a longstanding border demarcation dispute",
+			"concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries",
+			"Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction for the same reasons"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Laos is a source and, to a lesser extent, transit and destination country for men, women, and children subjected to forced labor and sex trafficking; Lao economic migrants may encounter conditions of forced labor or sexual exploitation in destination countries, most often Thailand; Lao women and girls are exploited in Thailand’s commercial sex trade, domestic service, factories, and agriculture; a small, possibly growing, number of Lao women and girls are sold as brides in China and South Korea and subsequently sex trafficked; Lao men and boys are victims of forced labor in the Thai fishing, construction, and agriculture industries; some Lao children, as well as Vietnamese and Chinese women and girls, are subjected to sex trafficking in Laos; other Vietnamese and Chinese, and possibly Burmese, adults and girls transit Laos for sexual and labor exploitation in neighboring countries, particularly Thailand",
+			"tier_rating": "Tier 2 Watch List – Laos does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; authorities sustained moderate efforts to investigate, prosecute, and convict trafficking offenders; the government failed to make progress in proactively identifying victims exploited within the country or among those deported from abroad; the government continues to rely almost entirely on local and international organizations to provide and fund services to trafficking victims; although Lao men and boys are trafficked, most protective services are only available to women and girls, and long-term support is lacking; modest prevention efforts include the promotion of anti-trafficking awareness on state-controlled media (2015)"
+		},
+		"illicit_drugs": {
+			"note": "estimated opium poppy cultivation in 2015 was estimated to be 5,700 hectares, compared with 6,200 hectares in 2014; estimated potential production of between 84 and 176 mt of raw opium; unsubstantiated reports of domestic methamphetamine production; growing domestic methamphetamine problem"
+		}
+	}
+}

@@ -1,0 +1,1873 @@
+{
+	"name": "Denmark",
+	"introduction": {
+		"background": "Once the seat of Viking raiders and later a major north European power, Denmark has evolved into a modern, prosperous nation that is participating in the general political and economic integration of Europe. It joined NATO in 1949 and the EEC (now the EU) in 1973. However, the country has opted out of certain elements of the EU's Maastricht Treaty, including the European Economic and Monetary Union, European defense cooperation, and issues concerning certain justice and home affairs."
+	},
+	"geography": {
+		"location": "Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula north of Germany (Jutland); also includes several major islands (Sjaelland, Fyn, and Bornholm)",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 56,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 10,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 43094,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 42434,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 660,
+				"units": "sq km"
+			},
+			"note": "includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland",
+			"global_rank": 134,
+			"comparative": "slightly less than twice the size of Massachusetts; about two-thirds the size of West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 140,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 140,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 7314,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "temperate; humid and overcast; mild, windy winters and cool summers",
+		"terrain": "low and flat to gently rolling plains",
+		"elevation": {
+			"mean_elevation": {
+				"value": 34,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Lammefjord",
+				"elevation": {
+					"value": -7,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mollehoj/Ejer Bavnehoj",
+				"elevation": {
+					"value": 171,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"fish",
+				"arable land",
+				"salt",
+				"limestone",
+				"chalk",
+				"stone",
+				"gravel",
+				"sand"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 63.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 58.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 4.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 12.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 23.7,
+					"units": "%"
+				}
+			},
+			"note": "highest percentage of agricultural land arable land: for any country in the world",
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 4350,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland",
+		"natural_hazards": [
+			{
+				"description": "flooding is a threat in some areas of the country (e.g., parts of Jutland, along the southern coast of the island of Lolland) that are protected from the sea by a system of dikes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution",
+				"principally from vehicle and power plant emissions",
+				"nitrogen and phosphorus pollution of the North Sea",
+				"drinking and surface water becoming polluted from animal wastes and pesticides",
+				"much of country's household and industrial waste is recycled"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5869410,
+			"global_rank": 115,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Dane(s)",
+			"adjective": "Danish"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Danish  and Faroese",
+					"percent": 86.3,
+					"note": "includes Greenlandic (who are predominantly Inuit; "
+				},
+				{
+					"name": "Turkish",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 12.6,
+					"note": "largest groups are Polish, Syrian, German, Iraqi, and Romanian; 2018 est."
+				}
+			],
+			"note": "data represent population by ancestry"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Danish"
+				},
+				{
+					"name": "Faroese"
+				},
+				{
+					"name": "Greenlandic",
+					"note": "an Inuit dialect"
+				},
+				{
+					"name": "German",
+					"note": "small minority"
+				}
+			],
+			"note": "English is the predominant second language"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Evangelical Lutheran",
+					"percent": 74.7,
+					"note": "official"
+				},
+				{
+					"name": "Muslim",
+					"percent": 5.5
+				},
+				{
+					"name": "other/none/unspecified",
+					"percent": 19.8,
+					"breakdown": [
+						{
+							"name": "denominations of less than each in descending order of size include Roman Catholic",
+							"percent": 1
+						},
+						{
+							"name": "Jehovah's Witness"
+						},
+						{
+							"name": "Serbian Orthodox Christian"
+						},
+						{
+							"name": "Jewish"
+						},
+						{
+							"name": "Baptist Buddhist"
+						},
+						{
+							"name": "Mormon"
+						},
+						{
+							"name": "Pentecostal"
+						},
+						{
+							"name": "and nondenominational Christian"
+						}
+					]
+				}
+			],
+			"date": "2019"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.42,
+				"males": 494806,
+				"females": 469005
+			},
+			"15_to_24": {
+				"percent": 12.33,
+				"males": 370557,
+				"females": 352977
+			},
+			"25_to_54": {
+				"percent": 38.71,
+				"males": 1149991,
+				"females": 1122016
+			},
+			"55_to_64": {
+				"percent": 12.63,
+				"males": 370338,
+				"females": 371149
+			},
+			"65_and_over": {
+				"percent": 19.91,
+				"males": 538096,
+				"females": 630475
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 57.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 25.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 31.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.1,
+				"units": "years"
+			},
+			"global_rank": 38,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.48,
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.1,
+			"global_rank": 178,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.5,
+			"global_rank": 45,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.8,
+			"global_rank": 39,
+			"date": "2020"
+		},
+		"population_distribution": "with excellent access to the North Sea, Skagerrak, Kattegat, and the Baltic Sea, population centers tend to be along coastal areas, particularly in Copenhagen and the eastern side of the country's mainland",
+		"urbanization": {
+			"urban_population": {
+				"value": 88.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.51,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Copenhagen",
+					"population": 1346000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.2,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 4,
+			"global_rank": 172,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 210,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.3,
+				"units": "years"
+			},
+			"global_rank": 35,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.78,
+			"global_rank": 151,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 4.01,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 121,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 6200,
+				"global_rank": 117,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 19.7,
+			"global_rank": 109,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.6,
+			"global_rank": 7,
+			"date": "2014"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 19,
+				"units": "years"
+			},
+			"female": {
+				"value": 19,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 9.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 8.2,
+				"units": "%"
+			},
+			"global_rank": 130,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Denmark",
+			"conventional_short_form": "Denmark",
+			"local_long_form": "Kongeriget Danmark",
+			"local_short_form": "Danmark",
+			"etymology": "the name derives from the words \"Dane(s)\" and \"mark\"; the latter referring to a march (borderland) or forest"
+		},
+		"government_type": "parliamentary constitutional monarchy",
+		"capital": {
+			"name": "Copenhagen",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 55,
+					"minutes": 40,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 12,
+					"minutes": 35,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components",
+			"etymology": "name derives from the city's Danish appellation Kobenhavn, meaning \"Merchant's Harbor\""
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "5 June",
+				"original_year": "1849",
+				"note": "closest equivalent to a national holiday"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 5 June 1953",
+			"amendments": "proposed by the Folketing with consent of the government; passage requires approval by the next Folketing following a general election, approval by simple majority vote of at least 40% of voters in a referendum, and assent of the chief of state; changed several times, last in 2009 (Danish Act of Succession)"
+		},
+		"legal_system": "civil law; judicial review of legislative acts",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Denmark",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK (elder son of the monarch, born on 26 May 1968)",
+			"head_of_government": "Prime Minister Mette FREDERIKSEN (since 27 June 2019)",
+			"cabinet": "Council of State appointed by the monarch",
+			"elections_appointments": "the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch"
+		},
+		"legislative_branch": {
+			"description": "unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)",
+			"elections": "last held on 5 June 2019 (next to be held on June 2023)",
+			"election_results": "percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the court president and 18 judges)",
+			"judge_selection_and_term_of_office": "judges appointed by the monarch upon the recommendation of the Minister of Justice, with the advice of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70",
+			"subordinate_courts": "Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "The Alternative A",
+					"name_alternative": "AP",
+					"note": "vacant"
+				},
+				{
+					"name": "Conservative People's Party or DKF or C",
+					"name_alternative": "",
+					"leaders": [
+						"Soren PAPE POULSEN"
+					]
+				},
+				{
+					"name": "Danish People's Party or DF or O",
+					"name_alternative": "",
+					"leaders": [
+						"Kristian THULESEN DAHL"
+					]
+				},
+				{
+					"name": "Liberal Alliance",
+					"name_alternative": "LA",
+					"leaders": [
+						"Alex VANOPSLAGH"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "V",
+					"leaders": [
+						"Jakob ELLEMAN-JENSEN"
+					],
+					"note": "Venstre"
+				},
+				{
+					"name": "New Right Party or D or NB",
+					"name_alternative": "",
+					"leaders": [
+						"Pernille VERMUND"
+					]
+				},
+				{
+					"name": "Red-Green Alliance",
+					"name_alternative": "EL",
+					"leaders": [
+						"collective leadership",
+						"Pernille SKIPPER",
+						"spokesperson"
+					],
+					"note": "Unity List"
+				},
+				{
+					"name": "Social Democrats or A or SDP",
+					"name_alternative": "",
+					"leaders": [
+						"Mette FREDERIKSEN"
+					]
+				},
+				{
+					"name": "Social Liberal Party or B or SLP",
+					"name_alternative": "",
+					"leaders": [
+						"Sofie CARSTEN"
+					]
+				},
+				{
+					"name": "Socialist People's Party",
+					"name_alternative": "SF",
+					"leaders": [
+						"Pia OLSEN DYHR"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-9"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Lone Dencker WISBORG (since 17 September 2015)",
+				"chancery": "3200 Whitehaven Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 234-4300",
+				"fax": "[1] (202) 328-1470",
+				"consulates_general": "Chicago, Houston, New York, Palo Alto (CA)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Carla SANDS (since 15 December 2017)",
+				"telephone": "[45] 33 41 71 00",
+				"embassy": "Dag Hammarskjolds Alle 24, 2100 Copenhagen 0",
+				"mailing_address": "Unit 5280 ODC, DPO AE 09716",
+				"fax": "[45] 35 43 02 23"
+			}
+		},
+		"flag_description": {
+			"description": "red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign",
+			"note": "the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				},
+				{
+					"symbol": "mute swan"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Der er et yndigt land\" (There is a Lovely Country); \"Kong Christian\" (King Christian)",
+			"lyrics_music": "Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/unknown",
+			"note": "Denmark has two national anthems with equal status; \"Der er et yndigt land,\" adopted 1844, is a national anthem, while \"Kong Christian,\" adopted 1780, serves as both a national and royal anthem; \"Kong Christian\" is also known as \"Kong Christian stod ved hojen mast\" (King Christian Stood by the Lofty Mast) and \"Kongesangen\" (The King's Anthem); within Denmark, the royal anthem is played only when royalty is present and is usually followed by the national anthem; when royalty is not present, only the national anthem is performed; outside Denmark, the royal anthem is played, unless the national anthem is requested",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/DA.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "This thoroughly modern market economy features advanced industry with world-leading firms in pharmaceuticals, maritime shipping, and renewable energy, and a high-tech agricultural sector. Danes enjoy a high standard of living, and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. An aging population will be a long-term issue.\nDenmark’s small open economy is highly dependent on foreign trade, and the government strongly supports trade liberalization. Denmark is a net exporter of food, oil, and gas and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector.\nDenmark is a member of the EU but not the eurozone. Despite previously meeting the criteria to join the European Economic and Monetary Union, Denmark has negotiated an opt-out with the EU and is not required to adopt the euro.\nDenmark is experiencing a modest economic expansion. The economy grew by 2.0% in 2016 and 2.1% in 2017. The expansion is expected to decline slightly in 2018. Unemployment stood at 5.5% in 2017, based on the national labor survey. The labor market was tight in 2017, with corporations experiencing some difficulty finding appropriately-skilled workers to fill billets. The Danish Government offers extensive programs to train unemployed persons to work in sectors that need qualified workers.\nDenmark maintained a healthy budget surplus for many years up to 2008, but the global financial crisis swung the budget balance into deficit. Since 2014 the balance has shifted between surplus and deficit. In 2017 there was a surplus of 1.0%. The government projects a lower deficit in 2018 and 2019 of 0.7%, and public debt (EMU debt) as a share of GDP is expected to decline to 35.6% in 2018 and 34.8% in 2019. The Danish Government plans to address increasing municipal, public housing and integration spending in 2018.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 287800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 281400000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 276000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 60,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 325600000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.85,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.18,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.83,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 102
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 50100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 49300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 48800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 30,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 48,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 25.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 54.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -47.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 22.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 75.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 28.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 28.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 35
+		},
+		"agriculture_products": {
+			"products": [
+				"barley",
+				"wheat",
+				"potatoes",
+				"sugar beets",
+				"pork",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"wind turbines",
+				"pharmaceuticals",
+				"medical equipment",
+				"shipbuilding",
+				"refurbishment",
+				"iron",
+				"steel",
+				"nonferrous metals",
+				"chemicals",
+				"food processing",
+				"machinery",
+				"transportation equipment",
+				"textiles",
+				"clothing",
+				"electronics",
+				"construction",
+				"furniture",
+				"other wood products"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.5,
+			"global_rank": 116,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2736000,
+				"global_rank": 107,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 18.3,
+						"units": "%"
+					},
+					"services": {
+						"value": 79.3,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.05,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.07,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 39
+		},
+		"population_below_poverty_line": {
+			"value": 13.4,
+			"units": "%",
+			"note": "excludes students",
+			"date": "2011"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 9,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 23.4,
+				"units": "%"
+			},
+			"date": "2016"
+		},
+		"budget": {
+			"revenues": {
+				"value": 172500000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 168900000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 53,
+			"global_rank": 12,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.1,
+			"global_rank": 30,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 35.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 37.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 151,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 58
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 30935000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 24821000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 12
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 113600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 103600000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 34
+			},
+			"commodities": {
+				"by_commodity": [
+					"wind turbines",
+					"pharmaceuticals",
+					"machinery",
+					"instruments",
+					"meat",
+					"meat products",
+					"dairy products",
+					"fish",
+					"furniture",
+					"design"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 15.5
+					},
+					{
+						"name": "Sweden",
+						"percent": 11.6
+					},
+					{
+						"name": "UK",
+						"percent": 8.2
+					},
+					{
+						"name": "US",
+						"percent": 7.5
+					},
+					{
+						"name": "Norway",
+						"percent": 6
+					},
+					{
+						"name": "China",
+						"percent": 4.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 94930000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 86810000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 37
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"raw materials",
+					"semimanufactures for industry",
+					"chemicals",
+					"grain",
+					"foodstuffs",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 21.3
+					},
+					{
+						"name": "Sweden",
+						"percent": 11.9
+					},
+					{
+						"name": "Netherlands",
+						"percent": 7.8
+					},
+					{
+						"name": "China",
+						"percent": 7.1
+					},
+					{
+						"name": "Norway",
+						"percent": 6.3
+					},
+					{
+						"name": "Poland",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 75250000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 64250000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 30
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 484800000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 519799999999.99994,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 25
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 6.586,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 6.7309,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 6.7309,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 6.7236,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 5.6125,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Danish kroner (DKK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 29840000000,
+				"global_rank": 65,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 33020000000.000004,
+				"global_rank": 59,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 9919000000,
+				"global_rank": 20,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 14980000000,
+				"global_rank": 14,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 14340000,
+				"global_rank": 52,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 46,
+					"global_rank": 158,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 77,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 167,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 54,
+					"global_rank": 3,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 115000,
+				"global_rank": 41,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 82980,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 98240,
+				"global_rank": 44,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 439000000,
+				"global_rank": 46,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 183900,
+				"global_rank": 55,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 158500,
+				"global_rank": 64,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 133700,
+				"global_rank": 38,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 109700,
+				"global_rank": 51,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 4842000000,
+				"global_rank": 52,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 3115000000,
+				"global_rank": 73,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 2237000000,
+				"global_rank": 37,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 509700000,
+				"global_rank": 65,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 12860000000,
+				"global_rank": 77,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 37450000,
+			"global_rank": 70,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1017009,
+				"subscriptions_per_one_hundred_inhabitants": 17.41,
+				"global_rank": 74,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 7331110,
+				"subscriptions_per_one_hundred_inhabitants": 125.5,
+				"global_rank": 102,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "strong public-sector TV presence with state-owned Danmarks Radio (DR) operating 6 channels and publicly owned TV2 operating roughly a half-dozen channels; broadcasts of privately owned stations are available via satellite and cable feed; DR operates 4 nationwide FM radio stations, 10 digital audio broadcasting stations, and 14 web-based radio stations; 140 commercial and 187 community (non-commercial) radio stations (2019)",
+		"internet": {
+			"country_code": ".dk",
+			"users": {
+				"total": 5672398,
+				"percent_of_population": 97.64,
+				"global_rank": 79,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 10,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 76,
+				"annual_passenger_traffic_on_registered_air_carriers": 582011,
+				"annual_freight_traffic_on_registered_air_carriers": 0,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OY",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 80,
+					"global_rank": 68,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 28,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 5,
+					"914_to_1523_metres": 12,
+					"under_914_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 52,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 47,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1536,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 330,
+					"units": "km"
+				}
+			],
+			"date": "2015"
+		},
+		"railways": {
+			"total": {
+				"length": 3476,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 3476,
+				"electrified": 1756,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 57,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 74558,
+				"units": "km"
+			},
+			"paved": {
+				"value": 74558,
+				"units": "km",
+				"note": "includes 1,205 km of expressways"
+			},
+			"global_rank": 67,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 400,
+			"units": "km",
+			"global_rank": 87,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 682,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 7
+				},
+				{
+					"type": "container ship",
+					"count": 149
+				},
+				{
+					"type": "general cargo",
+					"count": 59
+				},
+				{
+					"type": "oil tanker",
+					"count": 77
+				},
+				{
+					"type": "other",
+					"count": 390
+				}
+			],
+			"global_rank": 32,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Baltic Sea - Aarhus",
+				"Copenhagen",
+				"Fredericia",
+				"Kalundborg"
+			],
+			"cruise_ports": [
+				"Copenhagen"
+			],
+			"river_ports": [
+				"Aalborg (Langerak)"
+			],
+			"dry_bulk_cargo_ports": [
+				{
+					"place": "Ensted \nNorth Sea - Esbjerg,",
+					"type": "coal"
+				}
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.32,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.15,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.15,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.11,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 89
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches",
+			"date": "2016"
+		},
+		"note": "in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); C-SOCC is scheduled to be fully operational in 2021 (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm",
+			"sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland",
+			"Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 20046,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 5320,
+						"country_of_origin": "Eritrea"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 8672,
+				"date": "2019"
+			}
+		}
+	}
+}

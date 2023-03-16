@@ -1,0 +1,948 @@
+{
+	"name": "Northern Mariana Islands",
+	"introduction": {
+		"background": "Under US administration as part of the UN Trust Territory of the Pacific, the people of the Northern Mariana Islands decided in the 1970s not to seek independence but instead to forge closer links with the US. Negotiations for territorial status began in 1972. A covenant to establish a commonwealth in political union with the US was approved in 1975, and came into force on 24 March 1976. A new government and constitution went into effect in 1978."
+	},
+	"geography": {
+		"location": "Oceania, islands in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 12,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 145,
+				"minutes": 45,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 464,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 464,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "consists of 14 islands including Saipan, Rota, and Tinian",
+			"global_rank": 197,
+			"comparative": "2.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 1482,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical marine; moderated by northeast trade winds, little seasonal temperature variation; dry season December to June, rainy season July to October",
+		"terrain": "the southern islands in this north-south trending archipelago are limestone, with fringing coral reefs; the northern islands are volcanic, with active volcanoes on several islands",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed elevation on Agrihan",
+				"elevation": {
+					"value": 965,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 6.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 2.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 65.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 27.9,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 1,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "approximately 90% of the population lives on the island of Saipan",
+		"natural_hazards": [
+			{
+				"description": "active volcanoes on Pagan and Agrihan",
+				"type": "hazard"
+			},
+			{
+				"description": "typhoons (especially August to November)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"contamination of groundwater on Saipan may contribute to disease",
+				"clean-up of landfill",
+				"protection of endangered species conflicts with development"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 51433,
+			"global_rank": 210,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "NA (US citizens)",
+			"adjective": "NA"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Asian",
+					"percent": 50,
+					"breakdown": [
+						{
+							"name": "includes Filipino",
+							"percent": 35.3
+						},
+						{
+							"name": "Chinese",
+							"percent": 6.8
+						},
+						{
+							"name": "Korean",
+							"percent": 4.2
+						},
+						{
+							"name": "and other Asian",
+							"percent": 3.7
+						}
+					]
+				},
+				{
+					"name": "Native Hawaiian or other Pacific Islander",
+					"percent": 34.9,
+					"breakdown": [
+						{
+							"name": "includes Chamorro",
+							"percent": 23.9
+						},
+						{
+							"name": "Carolinian",
+							"percent": 4.6
+						},
+						{
+							"name": "and other Native Hawaiian or Pacific Islander",
+							"percent": 6.4
+						}
+					]
+				},
+				{
+					"name": "other",
+					"percent": 2.5
+				},
+				{
+					"name": "two or more ethnicities or races",
+					"percent": 12.7
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Philippine languages",
+					"percent": 32.8
+				},
+				{
+					"name": "Chamorro",
+					"percent": 24.1,
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"percent": 17,
+					"note": "official"
+				},
+				{
+					"name": "other Pacific island languages",
+					"percent": 10.1
+				},
+				{
+					"name": "Chinese",
+					"percent": 6.8
+				},
+				{
+					"name": "other Asian languages",
+					"percent": 7.3
+				},
+				{
+					"name": "other",
+					"percent": 1.9
+				}
+			],
+			"date": "2010"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"note": "Roman Catholic majority, although traditional beliefs and taboos may still be found"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 25.02,
+				"males": 6937,
+				"females": 5934
+			},
+			"15_to_24": {
+				"percent": 16.28,
+				"males": 4518,
+				"females": 3857
+			},
+			"25_to_54": {
+				"percent": 37.44,
+				"males": 9934,
+				"females": 9325
+			},
+			"55_to_64": {
+				"percent": 14.01,
+				"males": 3921,
+				"females": 3286
+			},
+			"65_and_over": {
+				"percent": 7.23,
+				"males": 1988,
+				"females": 1733
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 31.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 34.1,
+				"units": "years"
+			},
+			"global_rank": 105,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.55,
+			"global_rank": 226,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 15.1,
+			"global_rank": 118,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.3,
+			"global_rank": 192,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -15.4,
+			"global_rank": 223,
+			"date": "2020"
+		},
+		"population_distribution": "approximately 90% of the population lives on the island of Saipan",
+		"urbanization": {
+			"urban_population": {
+				"value": 91.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.29,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Saipan",
+					"population": 51000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.16,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.17,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.17,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.19,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.15,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.13,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 13.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 114,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 74,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.5,
+				"units": "years"
+			},
+			"global_rank": 105,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.7,
+			"global_rank": 65,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 97.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 2.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Commonwealth of the Northern Mariana Islands",
+			"conventional_short_form": "Northern Mariana Islands",
+			"former": "Trust Territory of the Pacific Islands, Mariana Islands District",
+			"abbreviation": "CNMI",
+			"etymology": "formally claimed and named by Spain in 1667 in honor of the Spanish Queen, MARIANA of Austria"
+		},
+		"government_type": "republican form of government with separate executive, legislative, and judicial branches; a commonwealth in political union with and under the sovereignty of the US",
+		"capital": {
+			"name": "Saipan",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 15,
+					"minutes": 12,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 145,
+					"minutes": 45,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 10,
+				"note": "15 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island \"saay\" meaning \"a voyage,\" and \"peel\" meaning \"empty\"; over time Saaypeel - \"island of the empty voyage\" - became Saipan"
+		},
+		"independence": {
+			"note": "commonwealth in political union with the US"
+		},
+		"national_holidays": [
+			{
+				"name": "Commonwealth Day",
+				"day": "8 January",
+				"original_year": "1978"
+			}
+		],
+		"constitution": {
+			"history": "partially effective 9 January 1978 (Constitution of the Commonwealth of the Northern Mariana Islands); fully effective 4 November 1986 (Covenant Agreement)",
+			"amendments": "proposed by constitutional convention, by public petition, or by the Legislature; ratification of proposed amendments requires approval by voters at the next general election or special election; amendments proposed by constitutional convention or by petition become effective if approved by a majority of voters and at least two-thirds majority of voters in each of two senatorial districts; amendments proposed by the Legislature are effective if approved by majority vote; amended several times, last in 2012"
+		},
+		"legal_system": "the laws of the US apply, except for customs and some aspects of taxation",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+			"head_of_government": "Governor Ralph TORRES (since 29 December 2015); Lieutenant Governor Victor HOCOG (since 29 December 2015)",
+			"cabinet": "Cabinet appointed by the governor with the advice and consent of the Senate",
+			"elections_appointments": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on 13 November 2018 (next to be held in 2022)",
+			"election_results": "Ralph TORRES elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (Independent) 37.8%;  Arnold PALACIOS elected Lieutenant Governor"
+		},
+		"legislative_branch": {
+			"description": "bicameral Northern Marianas Commonwealth Legislature consists of: Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)\nHouse of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)\nthe Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term",
+			"elections": "CNMI Senate - last held on 8 November 2016 (next to be held in November 2020)\nCNMI House of Representatives - last held on 13 November 2018 (next to be held in November 2020)\nCommonwealth of Northern Mariana Islands delegate to the US House of Representatives  - last held on 13 November 2018 (next to be held in November 2020)",
+			"election_results": "CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 8, women 1, percent of women 11.1%\nCNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 13, independent 7; composition - men 17, women 3, percent of women 15%; note - total CNMI Legislature percent of women 13.8%\ndelegate to US House of Representatives - seat won by Democratic Party; composition - 1 man",
+			"note": "the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the \"Committee of the Whole House\" but not when legislation is submitted for a “full floor” House vote"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court",
+			"judge_selection_and_term_of_office": "CNMI Supreme Court judges appointed by the governor and confirmed by the CNMI Senate; judges appointed for 8-year terms and another term if directly elected in a popular election; US Federal District Court judges appointed by the US president and confirmed by the US Senate; judges appointed for renewable 10-year terms",
+			"subordinate_courts": "Superior Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party",
+					"leaders": [
+						"Daniel QUITUGUA"
+					]
+				},
+				{
+					"name": "Republican Party",
+					"leaders": [
+						"James ADA"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "PIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "blue with a white, five-pointed star superimposed on a gray latte stone (the traditional foundation stone used in building) in the center, surrounded by a wreath; blue symbolizes the Pacific Ocean, the star represents the Commonwealth; the latte stone and the floral head wreath display elements of the native Chamorro culture"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "latte stone"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Gi Talo Gi Halom Tasi\" (In the Middle of the Sea)",
+			"lyrics_music": "Jose S. PANGELINAN [Chamoru], David PETER [Carolinian]/Wilhelm GANZHORN",
+			"note": "adopted 1996; the Carolinian version of the song is known as \"Satil Matawal Pacifico;\" as a commonwealth of the US, in addition to the local anthem, \"The Star-Spangled Banner\" is official (see United States)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CQ.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "The economy of the Commonwealth of the Northern Mariana Islands(CNMI) has been on the rebound in the last few years, mainly on the strength of its tourism industry. In 2016, the CNMI’s real GDP increased 28.6% over the previous year, following two years of relatively rapid growth in 2014 and 2015. Chinese and Korean tourists have supplanted Japanese tourists in the last few years. The Commonwealth is making a concerted effort to broaden its tourism by extending casino gambling from the small Islands of Tinian and Rota to the main Island of Saipan, its political and commercial center. Investment is concentrated on hotels and casinos in Saipan, the CNMI’s largest island and home to about 90% of its population.\nFederal grants have also contributed to economic growth and stability. In 2016, federal grants amounted to $101.4 billion which made up 26% of the CNMI government’s total revenues. A small agriculture sector consists of cattle ranches and small farms producing coconuts, breadfruit, tomatoes, and melons.\nLegislation is pending in the US Congress to extend the transition period to allow foreign workers to work in the CNMI on temporary visas.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1242000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 933000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 845000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 203,
+				"note": "GDP estimate includes US subsidy; data are in 2013 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1242000000,
+				"date": "2016"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 28.6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.8,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 3.5,
+						"units": "%",
+						"date": "2014"
+					}
+				],
+				"global_rank": 2
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 24500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 18400,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 16600,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 84
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 43.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 28.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 26.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 73.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -71.9,
+							"units": "%"
+						}
+					},
+					"investment_in_inventories": "NA",
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 58.1,
+							"units": "%",
+							"date": "2016"
+						},
+						"services": {
+							"value": 40.2,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"melons",
+				"fruits",
+				"nuts",
+				"ornamental plants",
+				"livestock",
+				"poultry",
+				"eggs",
+				"fish",
+				"aquaculture products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"banking",
+				"construction",
+				"fishing",
+				"handicrafts",
+				"other services"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 27970,
+				"global_rank": 205,
+				"date": "2010"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.9,
+						"units": "%"
+					},
+					"industry": {
+						"value": 10,
+						"units": "%"
+					},
+					"services": {
+						"value": 88.1,
+						"units": "%"
+					}
+				},
+				"date": "2010"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11.2,
+					"units": "%",
+					"date": "2010"
+				},
+				{
+					"value": 8,
+					"units": "%",
+					"date": "2005"
+				}
+			],
+			"global_rank": 157
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 389600000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 344000000,
+				"units": "USD",
+				"note": "2015 est."
+			},
+			"date": "2016"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 31.4,
+			"global_rank": 72,
+			"date": "2016"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 3.7,
+			"global_rank": 11,
+			"date": "2016"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 7.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				}
+			],
+			"global_rank": 201
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.3,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2015"
+				}
+			],
+			"global_rank": 21
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 914000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 520000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 162
+			},
+			"commodities": {
+				"by_commodity": [
+					"garments"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 893000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 638000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 187
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"construction equipment",
+					"materials",
+					"petroleum products"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 60600,
+				"global_rank": 217,
+				"date": "2009"
+			},
+			"consumption": {
+				"kWh": 48300,
+				"global_rank": 217,
+				"date": "2009"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 180,
+				"date": "2009"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 182,
+				"date": "2009-01-01"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 20398,
+				"subscriptions_per_one_hundred_inhabitants": 39.44,
+				"global_rank": 176,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 TV broadcast station on Saipan; multi-channel cable TV services are available on Saipan; 9 licensed radio broadcast stations (2009)",
+		"internet": {
+			"country_code": ".mp",
+			"users": {
+				"total": 16000,
+				"percent_of_population": 30.6,
+				"global_rank": 211,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 5,
+					"global_rank": 183,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 3,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 2,
+					"2438_to_3047_metres": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 536,
+				"units": "km"
+			},
+			"global_rank": 194,
+			"date": "2008"
+		},
+		"merchant_marine": {
+			"total": 1,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 1
+				}
+			],
+			"global_rank": 179,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Saipan",
+				"Tinian",
+				"Rota"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the US"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

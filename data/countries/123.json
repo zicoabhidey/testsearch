@@ -1,0 +1,1812 @@
+{
+	"name": "Kazakhstan",
+	"introduction": {
+		"background": "Ethnic Kazakhs, a mix of Turkic and Mongol nomadic tribes with additional Persian cultural influences, migrated to the region in the 15th century. The area was conquered by Russia in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation associated with forced agricultural collectivization led to a massive number of deaths in the 1930s. During the 1950s and 1960s, the agricultural \"Virgin Lands\" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.\nKazakhstan's economy is the largest in the Central Asian states, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, obtaining membership in global and regional international economic institutions, enhancing Kazakhstan's economic competitiveness, and strengthening relations with neighboring states and foreign powers."
+	},
+	"geography": {
+		"location": "Central Asia, northwest of China; a small portion west of the Ural (Zhayyq) River in easternmost Europe",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 48,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 68,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 2724900,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2699700,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 25200,
+				"units": "sq km"
+			},
+			"global_rank": 10,
+			"comparative": "slightly less than four times the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 13364,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "China",
+					"border_length": {
+						"value": 1765,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kyrgyzstan",
+					"border_length": {
+						"value": 1212,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia",
+					"border_length": {
+						"value": 7644,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Turkmenistan",
+					"border_length": {
+						"value": 413,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uzbekistan",
+					"border_length": {
+						"value": 2330,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked; note - Kazakhstan borders the Aral Sea, now split into two bodies of water (1,070 km), and the Caspian Sea 1,894 km"
+		},
+		"climate": "continental, cold winters and hot summers, arid and semiarid",
+		"terrain": "vast flat steppe extending from the Volga in the west to the Altai Mountains in the east and from the plains of western Siberia in the north to oases and deserts of Central Asia in the south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 387,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Vpadina Kaundy",
+				"elevation": {
+					"value": -132,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Khan Tangiri Shyngy (Pik Khan-Tengri)",
+				"elevation": {
+					"value": 6995,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"major deposits of petroleum",
+				"natural gas",
+				"coal",
+				"iron ore",
+				"manganese",
+				"chrome ore",
+				"nickel",
+				"cobalt",
+				"copper",
+				"molybdenum",
+				"lead",
+				"zinc",
+				"bauxite",
+				"gold",
+				"uranium"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 77.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 8.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 68.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 1.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 21.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 20660,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country",
+		"natural_hazards": [
+			{
+				"description": "earthquakes in the south",
+				"type": "hazard"
+			},
+			{
+				"description": "mudslides around Almaty",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"radioactive or toxic chemical sites associated with former defense industries and test ranges scattered throughout the country pose health risks for humans and animals",
+				"industrial pollution is severe in some cities",
+				"because the two main rivers that flowed into the Aral Sea have been diverted for irrigation",
+				"it is drying up and leaving behind a harmful layer of chemical pesticides and natural salts",
+				"these substances are then picked up by the wind and blown into noxious dust storms",
+				"pollution in the Caspian Sea",
+				"desertification",
+				"soil pollution from overuse of agricultural chemicals and salination from poor infrastructure and wasteful irrigation practices"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Climate Change-Kyoto Protocol"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 19091949,
+			"global_rank": 64,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Kazakhstani(s)",
+			"adjective": "Kazakhstani"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Kazakh",
+					"percent": 68,
+					"note": "Qazaq"
+				},
+				{
+					"name": "Russian",
+					"percent": 19.3
+				},
+				{
+					"name": "Uzbek",
+					"percent": 3.2
+				},
+				{
+					"name": "Ukrainian",
+					"percent": 1.5
+				},
+				{
+					"name": "Uighur",
+					"percent": 1.5
+				},
+				{
+					"name": "Tatar",
+					"percent": 1.1
+				},
+				{
+					"name": "German",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 4.4
+				}
+			],
+			"date": "2019"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Kazakh   and trilingual  ; Russian",
+					"percent": 94.4,
+					"note": "official, Qazaq; understand spoken language; Kazakh, Russian, English; official, used in everyday business, designated the \"language of interethnic communication\"; understand spoken language; 2009 est."
+				}
+			],
+			"date": "2017"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 70.2
+				},
+				{
+					"name": "Christian",
+					"percent": 26.2,
+					"note": "mainly Russian Orthodox"
+				},
+				{
+					"name": "other",
+					"percent": 0.2
+				},
+				{
+					"name": "atheist",
+					"percent": 2.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.5
+				}
+			],
+			"date": "2009"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 26.13,
+				"males": 2438148,
+				"females": 2550535
+			},
+			"15_to_24": {
+				"percent": 12.97,
+				"males": 1262766,
+				"females": 1212645
+			},
+			"25_to_54": {
+				"percent": 42.23,
+				"males": 3960188,
+				"females": 4102845
+			},
+			"55_to_64": {
+				"percent": 10.25,
+				"males": 856180,
+				"females": 1099923
+			},
+			"65_and_over": {
+				"percent": 8.43,
+				"males": 567269,
+				"females": 1041450
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 58.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 46.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 12.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 31.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 30.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 32.8,
+				"units": "years"
+			},
+			"global_rank": 114,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.89,
+			"global_rank": 117,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 16.4,
+			"global_rank": 105,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.2,
+			"global_rank": 86,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.4,
+			"global_rank": 67,
+			"date": "2020"
+		},
+		"population_distribution": "most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country",
+		"urbanization": {
+			"urban_population": {
+				"value": 57.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.29,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Almaty",
+					"population": 1896000
+				},
+				{
+					"place": "Nur-Sultan",
+					"population": 1896000,
+					"is_capital": true
+				},
+				{
+					"place": "Shimkent",
+					"population": 1058000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.78,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.54,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.91,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 28.5,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 10,
+			"global_rank": 146,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 17.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 20.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 15.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 83,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 72,
+				"units": "years"
+			},
+			"male": {
+				"value": 66.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.8,
+				"units": "years"
+			},
+			"global_rank": 156,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.16,
+			"global_rank": 96,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 53,
+			"units": "%",
+			"note": "percent of women aged 18-49",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.98,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6.1,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 93.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 6.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 101,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 33000,
+				"global_rank": 70,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21,
+			"global_rank": 94,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 2,
+			"global_rank": 111,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.8,
+			"global_rank": 146,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 15,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 3.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 3.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 4,
+				"units": "%"
+			},
+			"global_rank": 169,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Kazakhstan",
+			"conventional_short_form": "Kazakhstan",
+			"local_long_form": "Qazaqstan Respublikasy",
+			"local_short_form": "Qazaqstan",
+			"former": "Kazakh Soviet Socialist Republic",
+			"etymology": "the name \"Kazakh\" derives from the Turkic word \"kaz\" meaning \"to wander,\" recalling the Kazakh's nomadic lifestyle; the Persian suffix \"-stan\" means \"place of\" or \"country,\" so the word Kazakhstan literally means \"Land of the Wanderers\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Nur-Sultan",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 51,
+					"minutes": 10,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 71,
+					"minutes": 25,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 6,
+				"note": "11 hours ahead of Washington, DC, during Standard Time"
+			},
+			"note": "Kazakhstan has two time zones",
+			"etymology": "on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998"
+		},
+		"administrative_divisions": [
+			{
+				"name": "oblys) and 4 cities",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1991-12-16",
+			"note": "from the Soviet Union"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "16 December",
+				"original_year": "1991"
+			}
+		],
+		"constitution": {
+			"history": "previous 1937, 1978 (preindependence), 1993; latest approved by referendum 30 August 1995, effective 5 September 1995",
+			"amendments": "introduced by a referendum initiated by the president of the republic, on the recommendation of Parliament, or by the government; the president has the option of submitting draft amendments to Parliament or directly to a referendum; passage of amendments by Parliament requires four-fifths majority vote of both houses and the signature of the president; passage by referendum requires absolute majority vote by more than one half of the voters in at least two thirds of the oblasts, major cities, and the capital, followed by the signature of the president; amended several times, last in 2019"
+		},
+		"legal_system": "civil law system influenced by Roman-Germanic law and by the theory and practice of the Russian Federation",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Kazakhstan",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of \"First President\"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory",
+			"head_of_government": "Prime Minister Askar MAMIN (since 25 February 2019); First Deputy Prime Minister Alikhan SMAILOV (since 25 February 2019); Deputy Prime Ministers Berdibek SAPARBAYEV and Roman SKLYAR (since 18 September 2019)",
+			"cabinet": "the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis",
+			"election_results": "Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (49 seats; 34 members indirectly elected by majority 2-round vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)\nMazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 350-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)",
+			"elections": "Senate - last held on 12 August 2020 (next to be held in 2026)\nMazhilis - last held on 20 March 2016 (next to be held by 2021)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 42, women 5, percent of women 10.6%\nMazhilis - percent of vote by party - Nur Otan 82.2%, Ak Zhol 7.2%, Communist People's Party 7.1%, other 3.5%; seats by party - Nur Otan 84, Ak Zhol 7, Communist People's Party 7; composition - men 78, women 29, percent of women 27.1%; note - total Parliament percent of women 22.1%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)",
+			"judge_selection_and_term_of_office": "Supreme Court judges proposed by the president of the republic on recommendation of the Supreme Judicial Council and confirmed by the Senate; judges normally serve until age 65 but can be extended to age 70; Constitutional Council - the president of the republic, the Senate chairperson, and the Mazhilis chairperson each appoints 2 members for a 6-year term; chairman of the Constitutional Council appointed by the president for a 6-year term",
+			"subordinate_courts": "regional and local courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Ak Zhol  Party",
+					"name_alternative": "Democratic Party of Kazakhstan Ak Zhol",
+					"leaders": [
+						"Azat PERUASHEV"
+					],
+					"note": "Bright Path"
+				},
+				{
+					"name": "Birlik  Party",
+					"leaders": [
+						"Serik SULTANGALI"
+					],
+					"note": "Unity"
+				},
+				{
+					"name": "Communist People's Party of Kazakhstan",
+					"leaders": [
+						"informal leader Aikyn KONUROV"
+					]
+				},
+				{
+					"name": "National Social Democratic Party",
+					"name_alternative": "NSDP",
+					"leaders": [
+						"Zharmakhan TUYAKBAY"
+					]
+				},
+				{
+					"name": "Nur Otan  Democratic People's Party",
+					"leaders": [
+						"Nursultan NAZARBAYEV"
+					],
+					"note": "Radiant Fatherland"
+				},
+				{
+					"name": "People's Democratic  Party \"Auyl\"",
+					"leaders": [
+						"Ali BEKTAYEV"
+					],
+					"note": "Patriotic"
+				},
+				{
+					"name": "Ult Tagdyry ",
+					"note": "Conscience of the Nation"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CIS"
+			},
+			{
+				"organization": "CSTO"
+			},
+			{
+				"organization": "EAEU"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECO"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "GCTU"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "SCO"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Yerzhan KAZYKHANOV (since 24 April 2017)",
+				"chancery": "1401 16th Street NW, Washington, DC 20036",
+				"telephone": "[1] (202) 232-5488",
+				"fax": "[1] (202) 232-5845",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador William MOSER (since 27 March 2019)",
+				"telephone": "[7] (7172) 70-21-00",
+				"embassy": "Rakhymzhan Koshkarbayev Ave. No 3, Astana 010010",
+				"mailing_address": "use embassy street address",
+				"fax": "[7] (7172) 54-09-14",
+				"consulates_general": "Almaty"
+			}
+		},
+		"flag_description": {
+			"description": "a gold sun with 32 rays above a soaring golden steppe eagle, both centered on a sky blue background; the hoist side displays a national ornamental pattern \"koshkar-muiz\" (the horns of the ram) in gold; the blue color is of religious significance to the Turkic peoples of the country, and so symbolizes cultural and ethnic unity; it also represents the endless sky as well as water; the sun, a source of life and energy, exemplifies wealth and plenitude; the sun's rays are shaped like grain, which is the basis of abundance and prosperity; the eagle has appeared on the flags of Kazakh tribes for centuries and represents freedom, power, and the flight to the future"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Menin Qazaqstanim\" (My Kazakhstan)",
+			"lyrics_music": "Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKOV",
+			"note": "adopted 2006; President Nursultan NAZARBAYEV played a role in revising the lyrics",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/KZ.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "Kazakhstan's vast hydrocarbon and mineral reserves form the backbone of its economy. Geographically the largest of the former Soviet republics, excluding Russia, Kazakhstan, g possesses substantial fossil fuel reserves and other minerals and metals, such as uranium, copper, and zinc. It also has a large agricultural sector featuring livestock and grain. The government realizes that its economy suffers from an overreliance on oil and extractive industries and has made initial attempts to diversify its economy by targeting sectors like transport, pharmaceuticals, telecommunications, petrochemicals and food processing for greater development and investment. It also adopted a Subsoil Code in December 2017 with the aim of increasing exploration and investment in the hydrocarbon, and particularly mining, sectors.\nKazakhstan's oil production and potential is expanding rapidly. A $36.8 billion expansion of Kazakhstan’s premiere Tengiz oil field by Chevron-led Tengizchevroil should be complete in 2022. Meanwhile, the super-giant Kashagan field finally launched production in October 2016 after years of delay and an estimated $55 billion in development costs. Kazakhstan’s total oil production in 2017 climbed 10.5%.\nKazakhstan is landlocked and depends on Russia to export its oil to Europe. It also exports oil directly to China. In 2010, Kazakhstan joined Russia and Belarus to establish a Customs Union in an effort to boost foreign investment and improve trade. The Customs Union evolved into a Single Economic Space in 2012 and the Eurasian Economic Union (EAEU) in January 2015. Supported by rising commodity prices, Kazakhstan’s exports to EAEU countries increased 30.2% in 2017. Imports from EAEU countries grew by 24.1%.\nThe economic downturn of its EAEU partner, Russia, and the decline in global commodity prices from 2014 to 2016 contributed to an economic slowdown in Kazakhstan. In 2014, Kazakhstan devalued its currency, the tenge, and announced a stimulus package to cope with its economic challenges. In the face of further decline in the ruble, oil prices, and the regional economy, Kazakhstan announced in 2015 it would replace its currency band with a floating exchange rate, leading to a sharp fall in the value of the tenge. Since reaching a low of 391 to the dollar in January 2016, the tenge has modestly appreciated, helped by somewhat higher oil prices. While growth slowed to about 1% in both 2015 and 2016, a moderate recovery in oil prices, relatively stable inflation and foreign exchange rates, and the start of production at Kashagan helped push 2017 GDP growth to 4%.\nDespite some positive institutional and legislative changes in the last several years, investors remain concerned about corruption, bureaucracy, and arbitrary law enforcement, especially at the regional and municipal levels. An additional concern is the condition of the country’s banking sector, which suffers from poor asset quality and a lack of transparency. Investors also question the potentially negative effects on the economy of a contested presidential succession as Kazakhstan’s first president, Nursultan NAZARBAYEV, turned 77 in 2017.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 478600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 460300000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 455300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 43,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 159400000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.13,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 4.41,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 4.38,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 28
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 26300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 25700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 25800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 79,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 53.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 4.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 35.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -27.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 4.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 34.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 61.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 23.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 25.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 71
+		},
+		"agriculture_products": {
+			"products": [
+				"grain",
+				"mostly spring wheat",
+				"barley",
+				"potatoes",
+				"vegetables",
+				"melons",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"oil",
+				"coal",
+				"iron ore",
+				"manganese",
+				"chromite",
+				"lead",
+				"zinc",
+				"copper",
+				"titanium",
+				"bauxite",
+				"gold",
+				"silver",
+				"phosphates",
+				"sulfur",
+				"uranium",
+				"iron",
+				"steel",
+				"tractors",
+				"other agricultural machinery",
+				"electric motors",
+				"construction materials"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.8,
+			"global_rank": 45,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 8685000,
+				"global_rank": 56,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 18.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 61.6,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.8,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 4.85,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 70
+		},
+		"population_below_poverty_line": {
+			"value": 2.6,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 23.3,
+				"units": "%"
+			},
+			"date": "2016"
+		},
+		"budget": {
+			"revenues": {
+				"value": 35480000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 38300000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 22.3,
+			"global_rank": 134,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.8,
+			"global_rank": 98,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 20.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 187
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 7.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 14.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 194
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -7206000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -138000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 189
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 49290000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 37260000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 51
+			},
+			"commodities": {
+				"by_commodity": [
+					"oil",
+					"oil products",
+					"natural gas",
+					"ferrous metals",
+					"chemicals",
+					"machinery",
+					"grain",
+					"wool",
+					"meat",
+					"coal"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Italy",
+						"percent": 17.9
+					},
+					{
+						"name": "China",
+						"percent": 11.9
+					},
+					{
+						"name": "Netherlands",
+						"percent": 9.8
+					},
+					{
+						"name": "Russia",
+						"percent": 9.3
+					},
+					{
+						"name": "Switzerland",
+						"percent": 6.4
+					},
+					{
+						"name": "France",
+						"percent": 5.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 31850000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 28070000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 63
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"metal products",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 38.9
+					},
+					{
+						"name": "China",
+						"percent": 16.1
+					},
+					{
+						"name": "Germany",
+						"percent": 5.1
+					},
+					{
+						"name": "US",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 30750000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 29530000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 50
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 167500000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 163600000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 40
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 326.3,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 342.13,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 342.13,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 221.73,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 179.19,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "tenge (KZT) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 100800000000,
+				"global_rank": 35,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 94230000000,
+				"global_rank": 33,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 5100000000,
+				"global_rank": 37,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 1318000000,
+				"global_rank": 64,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 20150000,
+				"global_rank": 44,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 86,
+					"global_rank": 66,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 117,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 14,
+					"global_rank": 107,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 155,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1856000,
+				"global_rank": 12,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1409000,
+				"global_rank": 9,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1480,
+				"global_rank": 79,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 30000000000,
+				"global_rank": 11,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 290700,
+				"global_rank": 44,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 274000,
+				"global_rank": 46,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 105900,
+				"global_rank": 41,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 39120,
+				"global_rank": 90,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 22410000000,
+				"global_rank": 30,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 15370000000,
+				"global_rank": 43,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 12800000000,
+				"global_rank": 17,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 5748000000,
+				"global_rank": 34,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 2407000000000,
+				"global_rank": 14,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 304600000,
+			"global_rank": 23,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3275584,
+				"subscriptions_per_one_hundred_inhabitants": 17.31,
+				"global_rank": 39,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 26223595,
+				"subscriptions_per_one_hundred_inhabitants": 138.58,
+				"global_rank": 48,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the state owns nearly all radio and TV transmission facilities and operates national TV and radio networks; there are 96 TV channels, many of which are owned by the government, and 4 state-run radio stations; some former state-owned media outlets have been privatized; households with satellite dishes have access to foreign media; a small number of commercial radio stations operate along with state-run radio stations; recent legislation requires all media outlets to register with the government and all TV providers to broadcast in digital format by 2018; broadcasts reach some 99% of the population as well as neighboring countries",
+		"internet": {
+			"country_code": ".kz",
+			"users": {
+				"total": 14789448,
+				"percent_of_population": 78.9,
+				"global_rank": 44,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 12,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 84,
+				"annual_passenger_traffic_on_registered_air_carriers": 7143797,
+				"annual_freight_traffic_on_registered_air_carriers": 50220000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "UP",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 96,
+					"global_rank": 60,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 63,
+					"over_3047_metres": 10,
+					"2438_to_3047_metres": 25,
+					"1524_to_2437_metres": 15,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 8,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 33,
+					"over_3047_metres": 5,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 13,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 658,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 256,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 13,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 95,
+					"units": "km"
+				},
+				{
+					"type": "water (2016)",
+					"length": 975,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 16614,
+				"units": "km"
+			},
+			"broad_gauge": {
+				"length": 16614,
+				"electrified": 4200,
+				"units": "km\n1.520-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 18,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 95409,
+				"units": "km"
+			},
+			"paved": {
+				"value": 81814,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 13595,
+				"units": "km"
+			},
+			"global_rank": 51,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 4000,
+			"units": "km",
+			"note": "on the Ertis (Irtysh; 80%; Syrdariya; ; ",
+			"global_rank": 25
+		},
+		"merchant_marine": {
+			"total": 124,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 2
+				},
+				{
+					"type": "oil tanker",
+					"count": 5
+				},
+				{
+					"type": "other",
+					"count": 117
+				}
+			],
+			"global_rank": 79,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Caspian Sea - Aqtau (Shevchenko)",
+				"Atyrau (Gur'yev)"
+			],
+			"river_ports": [
+				"Oskemen (Ust-Kamenogorsk)",
+				"Pavlodar",
+				"Semey (Semipalatinsk) (Irtysh River)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 113
+		},
+		"service_age_and_obligation": {
+			"note": "All men 18-27 are required to serve in the military for at least one year.",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in January 2019, the Kyrgyz Republic ratified the demarcation agreement of the Kazakh-Kyrgyz border",
+			"the demarcation of the Kazakh-Uzbek borders is ongoing",
+			"the ongoing demarcation with Russia began in 2007",
+			"demarcation with China completed in 2002"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 8386,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "significant illicit cultivation of cannabis for CIS markets, as well as limited cultivation of opium poppy and ephedra (for the drug ephedrine); limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; significant consumer of opiates"
+		}
+	}
+}

@@ -1,0 +1,538 @@
+{
+	"name": "Norfolk Island",
+	"introduction": {
+		"background": "Two British attempts at establishing the island as a penal colony (1788-1814 and 1825-55) were ultimately abandoned. In 1856, the island was resettled by Pitcairn Islanders, descendants of the Bounty mutineers and their Tahitian companions."
+	},
+	"geography": {
+		"location": "Oceania, island in the South Pacific Ocean, east of Australia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 29,
+				"minutes": 2,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 167,
+				"minutes": 57,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 36,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 36,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 235,
+			"comparative": "about 0.2 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 32,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "subtropical; mild, little seasonal temperature variation",
+		"terrain": "volcanic island with mostly rolling plains",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Bates",
+				"elevation": {
+					"value": 319,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 25,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 25,
+					"units": "%"
+				},
+				"forest": {
+					"value": 11.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 63.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated around the capital of Kingston",
+		"natural_hazards": [
+			{
+				"description": "tropical cyclones (especially May to July)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"inadequate solid waste management",
+				"most freshwater obtained through rainwater catchment",
+				"preservation of unique ecosystem"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1748,
+			"global_rank": 233,
+			"date": "2016"
+		},
+		"nationality": {
+			"noun": "Norfolk Islander(s)",
+			"adjective": "Norfolk Islander(s)"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Australian",
+					"percent": 22.8
+				},
+				{
+					"name": "English",
+					"percent": 22.4
+				},
+				{
+					"name": "Pitcairn",
+					"percent": 20
+				},
+				{
+					"name": "Scottish",
+					"percent": 6
+				},
+				{
+					"name": "Irish",
+					"percent": 5.2
+				}
+			],
+			"note": "respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 44.9,
+					"note": "official"
+				},
+				{
+					"name": "Norfolk",
+					"percent": 40.3,
+					"note": "also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian"
+				},
+				{
+					"name": "Fijian",
+					"percent": 1.8
+				},
+				{
+					"name": "other",
+					"percent": 6.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 6.2
+				}
+			],
+			"note": "data represent language spoken at home",
+			"date": "2016"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 46.8,
+					"breakdown": [
+						{
+							"name": "Anglican",
+							"percent": 29.2
+						},
+						{
+							"name": "Uniting Church in Australia",
+							"percent": 9.8
+						},
+						{
+							"name": "Presbyterian",
+							"percent": 2.9
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 2.7
+						},
+						{
+							"name": "other",
+							"percent": 2.2
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 12.6
+				},
+				{
+					"name": "other Christian",
+					"percent": 2.9
+				},
+				{
+					"name": "other",
+					"percent": 1.4
+				},
+				{
+					"name": "none",
+					"percent": 26.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 9.5
+				}
+			],
+			"date": "2016"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.01,
+			"global_rank": 192,
+			"date": "2014"
+		},
+		"population_distribution": "population concentrated around the capital of Kingston",
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Territory of Norfolk Island",
+			"conventional_short_form": "Norfolk Island",
+			"etymology": "named by British explorer Captain James COOK after Mary HOWARD, Duchess of Norfolk, in 1774"
+		},
+		"government_type": "non-self-governing overseas territory of Australia; note - the Norfolk Island Regional Council, which began operations 1 July 2016, is responsible for planning and managing a variety of public services, including those funded by the Government of Australia",
+		"capital": {
+			"name": "Kingston",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 29,
+					"minutes": 3,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 167,
+					"minutes": 58,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 11,
+				"note": "16 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name is a blending of the words \"king's\" and \"town\"; the British king at the time of the town's settlement in the late 18th century was George III"
+		},
+		"independence": {
+			"note": "territory of Australia"
+		},
+		"national_holidays": [
+			{
+				"name": "Bounty Day",
+				"day": "8 June",
+				"original_year": "1856",
+				"note": "commemorates the arrival of Pitcairn Islanders"
+			}
+		],
+		"constitution": {
+			"history": "previous 1913, 1957; latest effective 7 August 1979",
+			"amendments": "amended many times, last in 2015"
+		},
+		"legal_system": "English common law and the laws of Australia",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General Sir Peter COSGROVE (since 28 March 2014)",
+			"head_of_government": "Administrator Eric HUTCHINSON (since 1 April 2017)",
+			"cabinet": "Executive Council consists of 4 Legislative Assembly members",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia"
+		},
+		"legislative_branch": {
+			"description": "unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors",
+			"elections": "elections last held 28 May 2016 (next to be held in 2020)",
+			"election_results": "seats by party - independent 5; composition - men 4, women 1, percent of women 20%",
+			"note": "following an administrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 and replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council consisted of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections on 28 May 2016, the new Norfolk Island Regional Council commenced operations on 1 July 2016"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia",
+			"judge_selection_and_term_of_office": "justices appointed by the governor general of Australia from among justices of the Federal Court of Australia; justices serve until mandatory retirement at age 70",
+			"subordinate_courts": "Petty Court of Sessions; specialized courts, including a Coroner's Court and the Employment Tribunal"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Norfolk Island Labor Party",
+					"leaders": [
+						"Mike KELLY"
+					]
+				},
+				{
+					"name": "Norfolk Liberals",
+					"leaders": [
+						"John BROWN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "three vertical bands of green (hoist side), white, and green with a large green Norfolk Island pine tree centered in the slightly wider white band; green stands for the rich vegetation on the island, and the pine tree - endemic to the island - is a symbol of Norfolk Island",
+			"note": "somewhat reminiscent of the flag of Canada with its use of only two colors and depiction of a prominent local floral symbol in the central white band; also resembles the green and white triband of Nigeria"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Norfolk Island pine"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Come Ye Blessed",
+			"lyrics_music": "New Testament/John Prindle SCOTT",
+			"note": "the local anthem, whose lyrics consist of the words from Matthew:34-36, 40, is also known as \"The Pitcairn Anthem;\" the island does not recognize \"Advance Australia Fair\" (which other Australian territories use); instead \"God Save the Queen\" is official (see United Kingdom)"
+		}
+	},
+	"economy": {
+		"overview": "Norfolk Island is suffering from a severe economic downturn. Tourism, the primary economic activity, is the main driver of economic growth. The agricultural sector has become self-sufficient in the production of beef, poultry, and eggs.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"note": "NA"
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"Norfolk Island pine seed",
+				"Kentia palm seed",
+				"cereals",
+				"vegetables",
+				"fruit",
+				"cattle",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"light industry",
+				"ready mixed concrete"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 978,
+				"global_rank": 229,
+				"date": "2006"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 14,
+						"units": "%"
+					},
+					"services": {
+						"value": 80,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"budget": {
+			"revenues": {
+				"value": 4600000,
+				"units": "USD",
+				"note": "FY99/00"
+			},
+			"expenditures": {
+				"value": 4800000,
+				"units": "USD",
+				"note": "FY99/00"
+			}
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"postage stamps",
+					"seeds of the Norfolk Island pine",
+					"Kentia palm",
+					"small quantities of avocados"
+				]
+			}
+		},
+		"imports": {
+			"commodities": {
+				"by_commodity": [
+					"NA"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.311,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.1094,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Australian dollars (AUD) per US dollar"
+		}
+	},
+	"communications": {
+		"broadcast_media": "1 local radio station; broadcasts of several Australian radio and TV stations available via satellite (2009)",
+		"internet": {
+			"country_code": ".nf",
+			"users": {
+				"total": 765,
+				"percent_of_population": 34.6,
+				"global_rank": 228,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 232,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 80,
+				"units": "km"
+			},
+			"paved": {
+				"value": 53,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 27,
+				"units": "km"
+			},
+			"global_rank": 215,
+			"date": "2008"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Kingston"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Australia"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

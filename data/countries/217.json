@@ -1,0 +1,2057 @@
+{
+	"name": "Spain",
+	"introduction": {
+		"background": "Spain's powerful world empire of the 16th and 17th centuries ultimately yielded command of the seas to England. Subsequent failure to embrace the mercantile and industrial revolutions caused the country to fall behind Britain, France, and Germany in economic and political power. Spain remained neutral in World War I and II, but suffered through a devastating civil war (1936-39). A peaceful transition to democracy following the death of dictator Francisco FRANCO in 1975, and rapid economic modernization (Spain joined the EU in 1986) gave Spain a dynamic and rapidly growing economy, and made it a global champion of freedom and human rights. More recently, Spain has emerged from a severe economic recession that began in mid-2008, posting four straight years of GDP growth above the EU average. Unemployment has fallen, but remains high, especially among youth. Spain is the Eurozone's fourth largest economy. The country has faced increased domestic turmoil in recent years due to the independence movement in its restive Catalonia region."
+	},
+	"geography": {
+		"location": "Southwestern Europe, bordering the Mediterranean Sea, North Atlantic Ocean, Bay of Biscay, and Pyrenees Mountains; southwest of France",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 40,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 4,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 505370,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 498980,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 6390,
+				"units": "sq km"
+			},
+			"note": "there are two autonomous cities - Ceuta and Melilla - and 17 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera",
+			"global_rank": 53,
+			"comparative": "almost five times the size of Kentucky; slightly more than twice the size of Oregon"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1952.7,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Andorra",
+					"border_length": {
+						"value": 63,
+						"units": "km"
+					}
+				},
+				{
+					"country": "France",
+					"border_length": {
+						"value": 646,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Gibraltar",
+					"border_length": {
+						"value": 1.2,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Portugal",
+					"border_length": {
+						"value": 1224,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Morocco (Ceuta)",
+					"border_length": {
+						"value": 8,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Morocco (Melilla)",
+					"border_length": {
+						"value": 10.5,
+						"units": "km"
+					}
+				}
+			],
+			"note": "an additional 75-meter border segment exists between Morocco and the Spanish exclave of Penon de Velez de la Gomera"
+		},
+		"coastline": {
+			"value": 4964,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "applies only to the Atlantic Ocean"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast",
+		"terrain": "large, flat to dissected plateau surrounded by rugged hills; Pyrenees Mountains in north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 660,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Pico de Teide (Tenerife) on Canary Islands",
+				"elevation": {
+					"value": 3718,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"lignite",
+				"iron ore",
+				"copper",
+				"lead",
+				"zinc",
+				"uranium",
+				"tungsten",
+				"mercury",
+				"pyrites",
+				"magnesite",
+				"fluorspar",
+				"gypsum",
+				"sepiolite",
+				"kaolin",
+				"potash",
+				"hydropower",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 54.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 24.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 9.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 20.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 36.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 9.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 38000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts, occasional flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity in the Canary Islands, located off Africa's northwest coast; Teide (3,715 m) has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; La Palma (2,426 m), which last erupted in 1971, is the most active of the Canary Islands volcanoes; Lanzarote is the only other historically active volcano",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"pollution of the Mediterranean Sea from raw sewage and effluents from the offshore production of oil and gas",
+				"water quality and quantity nationwide",
+				"air pollution",
+				"deforestation",
+				"desertification"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Persistent Organic Pollutants"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 50015792,
+			"global_rank": 29,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Spaniard(s)",
+			"adjective": "Spanish"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Spanish",
+					"percent": 86.4
+				},
+				{
+					"name": "Moroccan",
+					"percent": 1.8
+				},
+				{
+					"name": "Romanian",
+					"percent": 1.3
+				},
+				{
+					"name": "other",
+					"percent": 10.5
+				}
+			],
+			"note": "data represent population by country of birth",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Castilian Spanish",
+					"percent": 74,
+					"note": "official nationwide"
+				},
+				{
+					"name": "Catalan",
+					"percent": 17,
+					"note": "official in Catalonia, the Balearic Islands, and the Valencian Community (where it is known as Valencian; "
+				},
+				{
+					"name": "Galician",
+					"percent": 7,
+					"note": "official in Galicia"
+				},
+				{
+					"name": "Basque",
+					"percent": 2,
+					"note": "official in the Basque Country and in the Basque-speaking area of Navarre"
+				},
+				{
+					"name": "Aranese  along with Catalan, speakers",
+					"percent": 5000,
+					"note": "official in the northwest corner of Catalonia (Vall d'Aran; "
+				}
+			],
+			"note": "Aragonese, Aranese Asturian, Basque, Calo, Catalan, Galician, and Valencian are recognized as regional languages under the European Charter for Regional or Minority Languages"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 68.9
+				},
+				{
+					"name": "atheist",
+					"percent": 11.3
+				},
+				{
+					"name": "agnostic",
+					"percent": 7.6
+				},
+				{
+					"name": "other",
+					"percent": 2.8
+				},
+				{
+					"name": "non-believer",
+					"percent": 8.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.1
+				}
+			],
+			"date": "2019"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.02,
+				"males": 3861522,
+				"females": 3650085
+			},
+			"15_to_24": {
+				"percent": 9.9,
+				"males": 2557504,
+				"females": 2392498
+			},
+			"25_to_54": {
+				"percent": 43.61,
+				"males": 11134006,
+				"females": 10675873
+			},
+			"55_to_64": {
+				"percent": 12.99,
+				"males": 3177080,
+				"females": 3319823
+			},
+			"65_and_over": {
+				"percent": 18.49,
+				"males": 3970417,
+				"females": 5276984
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 52.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 21.9,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 30.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 43.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 42.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 45.1,
+				"units": "years"
+			},
+			"global_rank": 19,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.67,
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.7,
+			"global_rank": 213,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.3,
+			"global_rank": 51,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 7,
+			"global_rank": 15,
+			"date": "2020"
+		},
+		"population_distribution": "with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona",
+		"urbanization": {
+			"urban_population": {
+				"value": 80.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.33,
+				"units": "%"
+			},
+			"note": "data include Canary Islands, Ceuta, and Melilla",
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Madrid",
+					"population": 6618000,
+					"is_capital": true
+				},
+				{
+					"place": "Barcelona",
+					"population": 5586000
+				},
+				{
+					"place": "Valencia",
+					"population": 834000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.75,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 30.9,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 4,
+			"global_rank": 174,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 213,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82,
+				"units": "years"
+			},
+			"male": {
+				"value": 79,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.2,
+				"units": "years"
+			},
+			"global_rank": 24,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.51,
+			"global_rank": 200,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 62.1,
+			"units": "%",
+			"note": "percent of women aged 18-49",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.87,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 83,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 150000,
+				"global_rank": 36,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 10 November 2020, Spain has reported a total of 1,328,832 cases of COVID-19 or 28,421 cumulative cases of COVID-19 per 1 million population with 831 cumulative deaths per 1 million population; the Spanish Government is gradually relaxing confinement measures in phases over the next several weeks; these measures will vary from region to region within Spain; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 23.8,
+			"global_rank": 62,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.2,
+			"global_rank": 94,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 98,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 18,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 34.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 35.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 33.3,
+				"units": "%"
+			},
+			"global_rank": 24,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Spain",
+			"conventional_short_form": "Spain",
+			"local_long_form": "Reino de Espana",
+			"local_short_form": "Espana",
+			"etymology": "derivation of the name \"Espana\" is uncertain, but may come from the Phoenician term \"span,\" related to the word \"spy,\" meaning \"to forge metals,\" so, \"i-spn-ya\" would mean \"place where metals are forged\"; the ancient Phoenicians long exploited the Iberian Peninsula for its mineral wealth"
+		},
+		"government_type": "parliamentary constitutional monarchy",
+		"capital": {
+			"name": "Madrid",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 40,
+					"minutes": 24,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 3,
+					"minutes": 41,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "Spain has two time zones, including the Canary Islands (UTC 0)",
+			"etymology": "the Romans named the original settlement \"Matrice\" after the river that ran through it; under Arab rule it became \"Majerit,\" meaning \"source of water\"; in medieval Romance dialects (Mozarabic) it became \"Matrit,\" which over time changed to \"Madrid\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "comunidad autonoma) and 2 autonomous cities",
+				"type": ""
+			}
+		],
+		"independence": {},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "12 October",
+				"original_year": "1492",
+				"note": "commemorates the arrival of COLUMBUS in the Americas; Hispanic Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1812; latest approved by the General Courts 31 October 1978, passed by referendum 6 December 1978, signed by the king 27 December 1978, effective 29 December 1978",
+			"amendments": "proposed by the government, by the General Courts (the Congress or the Senate), or by the self-governing communities submitted through the government; passage requires three-fifths majority vote by both houses and passage by referendum if requested by one tenth of the members of either house; proposals disapproved by both houses are submitted to a joint committee, which submits an agreed upon text for another vote; passage requires two-thirds majority vote in Congress and simple majority vote in the Senate; amended 1992, 2007, 2011"
+		},
+		"legal_system": "civil law system with regional variations",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Spain",
+			"dual_citizenship_recognized": "only with select Latin American countries",
+			"residency_requirement_for_naturalization": "10 years for persons with no ties to Spain"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)",
+			"head_of_government": "President of the Government (Prime Minister-equivalent) Pedro SANCHEZ Perez-Castejon (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO Poyato (since 7 June 2018)",
+			"cabinet": "Council of Ministers designated by the president",
+			"elections_appointments": "the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president",
+			"election_results": "percent of National Assembly vote - NA",
+			"note": "there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding"
+		},
+		"legislative_branch": {
+			"description": "bicameral General Courts or Las Cortes Generales consists of: Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)\nCongress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)",
+			"elections": "Senate - last held on 10 November 2019 (next to be held no later than November 2023)\nCongress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39%\nCongress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the monarch from candidates proposed by the General Council of the Judiciary Power, a 20-member governing board chaired by the monarch that includes presidential appointees, lawyers, and jurists confirmed by the National Assembly; judges can serve until age 70; Constitutional Court judges nominated by the National Assembly, executive branch, and the General Council of the Judiciary, and appointed by the monarch for 9-year terms",
+			"subordinate_courts": "National High Court; High Courts of Justice (in each of the autonomous communities); provincial courts; courts of first instance"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Asturias Forum",
+					"name_alternative": "FAC",
+					"leaders": [
+						"Carmen MORIYON"
+					]
+				},
+				{
+					"name": "Basque Country Unite",
+					"name_alternative": "EH Bildu",
+					"note": "Euskal Herria Bildu; coalition of 4 Basque pro-independence parties"
+				},
+				{
+					"name": "Basque Nationalist Party or PNV or EAJ",
+					"name_alternative": "",
+					"leaders": [
+						"Andoni ORTUZAR"
+					]
+				},
+				{
+					"name": "Canarian Coalition",
+					"name_alternative": "CC",
+					"leaders": [
+						"Ana ORAMAS"
+					],
+					"note": "coalition of 5 parties"
+				},
+				{
+					"name": "Junts per Catalunia",
+					"name_alternative": "JxCat",
+					"leaders": [
+						"Carles PUIDGEMONT"
+					]
+				},
+				{
+					"name": "Ciudadanos Party",
+					"name_alternative": "C's",
+					"leaders": [
+						"Albert RIVERA"
+					]
+				},
+				{
+					"name": "Compromis - Communist Coalition",
+					"leaders": [
+						"Joan BALDOVI"
+					]
+				},
+				{
+					"name": "New Canary",
+					"name_alternative": "NCa",
+					"leaders": [
+						"Pedro QUEVEDOS"
+					]
+				},
+				{
+					"name": "Unidas Podemos ",
+					"leaders": [
+						"Pablo IGLESIAS Turrion"
+					],
+					"note": "formerly Podemos IU; electoral coalition formed for May 2016 election"
+				},
+				{
+					"name": "People's Party",
+					"name_alternative": "PP",
+					"leaders": [
+						"Pablo CASADO"
+					]
+				},
+				{
+					"name": "Republican Left of Catalonia",
+					"name_alternative": "ERC",
+					"leaders": [
+						"Oriol JUNQUERAS i Vies"
+					]
+				},
+				{
+					"name": "Spanish Socialist Workers Party",
+					"name_alternative": "PSOE",
+					"leaders": [
+						"Pedro SANCHEZ"
+					]
+				},
+				{
+					"name": "JxCat-Junts Together for Catalonia",
+					"leaders": [
+						"Jordi SANCHEZ"
+					]
+				},
+				{
+					"name": "Union of People of Navarra",
+					"name_alternative": "UPN",
+					"leaders": [
+						"Javier ESPARZA"
+					]
+				},
+				{
+					"name": "Navarra Suma , Ciudadanos , the Popular Partty  ahead of the 2019 election",
+					"note": "electoral Coaltion formed by Navarrese People's Union (UPN; C's; PP; "
+				},
+				{
+					"name": "Vox",
+					"name_alternative": "Vox",
+					"leaders": [
+						"Santiago ABASCAL"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAN ",
+				"note": "observer"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Santiago CABANAS Ansorena (since 17 September 2018)",
+				"chancery": "2375 Pennsylvania Avenue NW, Washington, DC 20037",
+				"telephone": "[1] (202) 452-0100, 728-2340",
+				"fax": "[1] (202) 833-5670",
+				"consulates_general": "Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)",
+				"consulates": "Kansas City (MO)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Richard Duke BUCHAN III (since 18 January 2018) note - also accredited to Andorra",
+				"telephone": "[34] (91) 587-2200",
+				"embassy": "Calle de Serrano 75, 28006 Madrid",
+				"mailing_address": "PSC 61, APO AE 09642",
+				"fax": "[34] (91) 587-2303",
+				"consulates_general": "Barcelona"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of \"Plus Ultra\" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century",
+			"note": "the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Pillars of Hercules"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional Espanol\" (National Anthem of Spain)",
+			"lyrics_music": "no lyrics/unknown",
+			"note": "officially in use between 1770 and 1931, restored in 1939; the Spanish anthem is the first anthem to be officially adopted, but it has no lyrics; in the years prior to 1931 it became known as \"Marcha Real\" (The Royal March); it first appeared in a 1761 military bugle call book and was replaced by \"Himno de Riego\" in the years between 1931 and 1939; the long version of the anthem is used for the king, while the short version is used for the prince, prime minister, and occasions such as sporting events",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SP.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.\nUntil 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.\nStrong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.\nIn 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1778000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1727000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1674000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 15,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1314000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.95,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.43,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.97,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 141
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 38400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 37200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 36100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 49,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 57.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.6,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 34.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -31.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 23.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 74.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 23,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 22.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 21.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 76
+		},
+		"agriculture_products": {
+			"products": [
+				"grain",
+				"vegetables",
+				"olives",
+				"wine grapes",
+				"sugar beets",
+				"citrus",
+				"beef",
+				"pork",
+				"poultry",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"apparel including footwear",
+				"food",
+				"beverages",
+				"metals",
+				"metal manufactures",
+				"chemicals",
+				"shipbuilding",
+				"automobiles",
+				"machine tools",
+				"tourism",
+				"clay",
+				"refractory products",
+				"footwear",
+				"pharmaceuticals",
+				"medical equipment"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4,
+			"global_rank": 76,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 19057000,
+				"global_rank": 28,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 4.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24,
+						"units": "%"
+					},
+					"services": {
+						"value": 71.7,
+						"units": "%"
+					}
+				},
+				"date": "2009"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 14.13,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 15.25,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 172
+		},
+		"population_below_poverty_line": {
+			"value": 21.1,
+			"units": "%",
+			"date": "2012"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 24,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"budget": {
+			"revenues": {
+				"value": 498100000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 539000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 37.9,
+			"global_rank": 52,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.1,
+			"global_rank": 136,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 98.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 99,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 18
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 107
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 29603000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 27206000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 13
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 313700000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 280500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 16
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"motor vehicles",
+					"foodstuffs",
+					"pharmaceuticals",
+					"medicines",
+					"other consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "France",
+						"percent": 15.1
+					},
+					{
+						"name": "Germany",
+						"percent": 11.3
+					},
+					{
+						"name": "Italy",
+						"percent": 7.8
+					},
+					{
+						"name": "Portugal",
+						"percent": 7.1
+					},
+					{
+						"name": "UK",
+						"percent": 6.9
+					},
+					{
+						"name": "US",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 338600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 300200000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 15
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"fuels",
+					"chemicals",
+					"semi-finished goods",
+					"foodstuffs",
+					"consumer goods",
+					"measuring",
+					"medical control instruments"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 14.2
+					},
+					{
+						"name": "France",
+						"percent": 11.9
+					},
+					{
+						"name": "China",
+						"percent": 6.9
+					},
+					{
+						"name": "Italy",
+						"percent": 6.8
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.1
+					},
+					{
+						"name": "UK",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 69410000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 63140000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 32
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 2093999999999.9998,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1963000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 10
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.7525,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 258600000000.00003,
+				"global_rank": 17,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 239500000000,
+				"global_rank": 15,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 14180000000,
+				"global_rank": 13,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 21850000000,
+				"global_rank": 9,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 105900000,
+				"global_rank": 12,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 47,
+					"global_rank": 157,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 7,
+					"global_rank": 19,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 14,
+					"global_rank": 108,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 32,
+					"global_rank": 15,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1700,
+				"global_rank": 88,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 198,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 1325000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 150000000,
+				"global_rank": 62,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 1361000,
+				"global_rank": 13,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 1296000,
+				"global_rank": 18,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 562400,
+				"global_rank": 16,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 464800,
+				"global_rank": 18,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 36810000,
+				"global_rank": 87,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 31270000000,
+				"global_rank": 29,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 2888000000,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 34630000000,
+				"global_rank": 12,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 2548000000,
+				"global_rank": 96,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 286700000,
+			"global_rank": 25,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 21065700,
+				"subscriptions_per_one_hundred_inhabitants": 42.4,
+				"global_rank": 12,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 58750448,
+				"subscriptions_per_one_hundred_inhabitants": 118.25,
+				"global_rank": 27,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a mixture of both publicly operated and privately owned TV and radio stations; overall, hundreds of TV channels are available including national, regional, local, public, and international channels; satellite and cable TV systems available; multiple national radio networks, a large number of regional radio networks, and a larger number of local radio stations; overall, hundreds of radio stations (2019)",
+		"internet": {
+			"country_code": ".es",
+			"users": {
+				"total": 42478990,
+				"percent_of_population": 86.11,
+				"global_rank": 20,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 21,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 552,
+				"annual_passenger_traffic_on_registered_air_carriers": 80672105,
+				"annual_freight_traffic_on_registered_air_carriers": 1117070000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "EC",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 135,
+					"global_rank": 40,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 102,
+					"over_3047_metres": 18,
+					"2438_to_3047_metres": 16,
+					"1524_to_2437_metres": 19,
+					"914_to_1523_metres": 26,
+					"under_914_metres": 23,
+					"date": "2020"
+				},
+				"unpaved": {
+					"total": 33,
+					"914_to_1523_metres": 14,
+					"under_914_metres": 19,
+					"date": "2020"
+				}
+			},
+			"heliports": {
+				"total": 13,
+				"date": "2020"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 10481,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 358,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 4378,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 15333,
+				"electrified": 9699,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 2571,
+				"electrified": 2571,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 1207,
+				"electrified": 400,
+				"units": "km\n1.000-m",
+				"gauge": "gauge"
+			},
+			"broad_gauge": {
+				"length": 11333,
+				"electrified": 6538,
+				"units": "km\n1.668-m",
+				"gauge": "gauge"
+			},
+			"mixed_gauge": {
+				"length": 190,
+				"electrified": 28,
+				"units": "km",
+				"gauge": "1.668-m"
+			},
+			"global_rank": 19,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 683175,
+				"units": "km"
+			},
+			"paved": {
+				"value": 683175,
+				"units": "km",
+				"note": "includes 16,205 km of expressways"
+			},
+			"global_rank": 11,
+			"date": "2011"
+		},
+		"waterways": {
+			"value": 1000,
+			"units": "km",
+			"global_rank": 64,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 119,
+			"by_type": [
+				{
+					"type": "container ship",
+					"count": 2
+				},
+				{
+					"type": "general cargo",
+					"count": 17
+				},
+				{
+					"type": "oil tanker",
+					"count": 12
+				},
+				{
+					"type": "other",
+					"count": 88
+				}
+			],
+			"global_rank": 81,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Algeciras",
+				"Barcelona",
+				"Bilbao",
+				"Cartagena",
+				"Huelva",
+				"Tarragona",
+				"Valencia (all in Spain)",
+				"Las Palmas",
+				"Santa Cruz de Tenerife (in the Canary Islands)"
+			],
+			"container_ports": [
+				{
+					"place": "Algeciras",
+					"twenty_foot_equivalent_units": 4389836
+				},
+				{
+					"place": "Barcelona",
+					"twenty_foot_equivalent_units": 2968757
+				},
+				{
+					"place": "Valencia",
+					"twenty_foot_equivalent_units": 4832156
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Barcelona",
+				"Bilbao",
+				"Cartagena",
+				"Huelva",
+				"Mugardos",
+				"Sagunto"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.92,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.92,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.81,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.92,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 125
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription, but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency; mandatory retirement of non-NCO enlisted personnel at age 45 or 58, depending on service length",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement",
+			"the Government of Gibraltar insists on equal participation in talks between the UK and Spain",
+			"Spain disapproves of UK plans to grant Gibraltar greater autonomy",
+			"after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar",
+			"UK officials rejected Spain’s joint sovereignty proposal",
+			"Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters",
+			"both countries claim Isla Perejil (Leila Island)",
+			"Morocco serves as the primary launching site of illegal migration into Spain from North Africa",
+			"Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 14133,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 16540,
+						"country_of_origin": "Venezuela",
+						"date": "2020",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 4246,
+				"date": "2019"
+			},
+			"note": "184,338 estimated refugee and migrant arrivals (January 2015-October 2020), 65,325 migrant arrivals in 2018"
+		},
+		"illicit_drugs": {
+			"note": "despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime"
+		}
+	}
+}

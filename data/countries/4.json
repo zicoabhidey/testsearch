@@ -1,0 +1,2011 @@
+{
+	"name": "Algeria",
+	"introduction": {
+		"background": "Algeria has known many empires and dynasties starting with the ancient Numidians (3rd century B.C.), Phoenicians, Carthaginians, Romans, Vandals, Byzantines, over a dozen different Arab and Berber dynasties, Spaniards, and Ottoman Turks. It was under the latter that the Barbary pirates operated from North Africa and preyed on shipping beginning in roughly 1500, peaking in the early to mid-17th century, until finally subdued by the French capture of Algiers in 1830. The French southward conquest of the entirety of Algeria proceeded throughout the 19th century and was marked by many atrocities. The country was heavily colonized by the French in the late 19th and early 20th centuries. A bloody eight-year struggle culminated in Algerian independence in 1962.\nAlgeria's primary political party, the National Liberation Front (FLN), was established in 1954 as part of the struggle for independence and has since largely dominated politics. The Government of Algeria in 1988 instituted a multi-party system in response to public unrest, but the surprising first round success of the Islamic Salvation Front (FIS) in the December 1991 legislative elections led the Algerian army to intervene and postpone the second round of elections to prevent what the secular elite feared would be an extremist-led government from assuming power. The army began a crackdown on the FIS that spurred FIS supporters to begin attacking government targets. Fighting escalated into an insurgency, which saw intense violence from 1992-98, resulting in over 100,000 deaths - many attributed to indiscriminate massacres of villagers by extremists. The government gained the upper hand by the late-1990s, and FIS's armed wing, the Islamic Salvation Army, disbanded in January 2000.\nAbdelaziz BOUTEFLIKA, with the backing of the military, won the presidency in 1999 in an election that was boycotted by several candidates protesting alleged fraud, and won subsequent elections in 2004, 2009, and 2014. The government in 2011 introduced some political reforms in response to the Arab Spring, including lifting the 19-year-old state of emergency restrictions and increasing women's quotas for elected assemblies, while also increasing subsidies to the populace. Since 2014, Algeria’s reliance on hydrocarbon revenues to fund the government and finance the large subsidies for the population has fallen under stress because of declining oil prices. Protests broke out across the country in late February 2019 against President BOUTEFLIKA’s decision to seek a fifth term. BOUTEFLIKA resigned on 2 April 2019, and the speaker of the upper house of parliament, Abdelkader BENSALAH, became interim head of state on 9 April. BENSALAH remained in office beyond the 90-day constitutional limit until Algerians elected former Prime Minister Abdelmadjid TEBBOUNE as the country's new president in December 2019."
+	},
+	"geography": {
+		"location": "Northern Africa, bordering the Mediterranean Sea, between Morocco and Tunisia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 28,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 3,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 2381740,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2381740,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 11,
+			"comparative": "slightly less than 3.5 times the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 6734,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Libya",
+					"border_length": {
+						"value": 989,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mali",
+					"border_length": {
+						"value": 1359,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mauritania",
+					"border_length": {
+						"value": 460,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Morocco",
+					"border_length": {
+						"value": 1900,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Niger",
+					"border_length": {
+						"value": 951,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Tunisia",
+					"border_length": {
+						"value": 1034,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Western Sahara",
+					"border_length": {
+						"value": 41,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 998,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": "32-52 nm"
+		},
+		"climate": "arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer",
+		"terrain": "mostly high plateau and desert; Atlas Mountains in the far north and Hoggar Mountains in the south; narrow, discontinuous coastal plain",
+		"elevation": {
+			"mean_elevation": {
+				"value": 800,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Chott Melrhir",
+				"elevation": {
+					"value": -40,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Tahat",
+				"elevation": {
+					"value": 2908,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"iron ore",
+				"phosphates",
+				"uranium",
+				"lead",
+				"zinc"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 17.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 3.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 13.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 81.8,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 13600,
+			"units": "sq km",
+			"date": "2014"
+		},
+		"population_distribution": "the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "mountainous areas subject to severe earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "mudslides and floods in rainy season",
+				"type": "hazard"
+			},
+			{
+				"description": "droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution in major cities",
+				"soil erosion from overgrazing and other poor farming practices",
+				"desertification",
+				"dumping of raw sewage",
+				"petroleum refining wastes",
+				"and other industrial effluents is leading to the pollution of rivers and coastal waters",
+				"Mediterranean Sea",
+				"in particular",
+				"becoming polluted from oil wastes",
+				"soil erosion",
+				"and fertilizer runoff",
+				"inadequate supplies of potable water"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 42972878,
+			"global_rank": 35,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Algerian(s)",
+			"adjective": "Algerian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Arab-Berber",
+					"percent": 99
+				},
+				{
+					"name": "European less than",
+					"percent": 1
+				}
+			],
+			"note": "although almost all Algerians are Berber in origin (not Arab), only a minority identify themselves as primarily Berber, about 15% of the total population; these people live mostly in the mountainous region of Kabylie east of Algiers and several other communities; the Berbers are also Muslim but identify with their Berber rather than Arab cultural heritage; Berbers have long agitated, sometimes violently, for autonomy; the government is unlikely to grant autonomy but has officially recognized Berber languages and introduced them into public schools"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "French",
+					"note": "lingua franca"
+				},
+				{
+					"name": "Berber or Tamazight ; dialects include Kabyle Berber",
+					"note": "official; Taqbaylit"
+				},
+				{
+					"name": "Shawiya Berber",
+					"note": "Tacawit"
+				},
+				{
+					"name": "Mzab Berber"
+				},
+				{
+					"name": "Tuareg Berber",
+					"note": "Tamahaq"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 99,
+					"note": "official; predominantly Sunni"
+				},
+				{
+					"name": "other",
+					"percent": 1,
+					"note": "includes Christian and Jewish"
+				}
+			],
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2012"
+		},
+		"demographic_profile": "For the first two thirds of the 20th century, Algeria's high fertility rate caused its population to grow rapidly. However, about a decade after independence from France in 1962, the total fertility rate fell dramatically from 7 children per woman in the 1970s to about 2.4 in 2000, slowing Algeria's population growth rate by the late 1980s. The lower fertility rate was mainly the result of women's rising age at first marriage (virtually all Algerian children being born in wedlock) and to a lesser extent the wider use of contraceptives. Later marriages and a preference for smaller families are attributed to increases in women's education and participation in the labor market; higher unemployment; and a shortage of housing forcing multiple generations to live together. The average woman's age at first marriage increased from about 19 in the mid-1950s to 24 in the mid-1970s to 30.5 in the late 1990s.\nAlgeria's fertility rate experienced an unexpected upturn in the early 2000s, as the average woman's age at first marriage dropped slightly. The reversal in fertility could represent a temporary fluctuation in marriage age or, less likely, a decrease in the steady rate of contraceptive use.\nThousands of Algerian peasants - mainly Berber men from the Kabylia region - faced with land dispossession and economic hardship under French rule migrated temporarily to France to work in manufacturing and mining during the first half of the 20th century. This movement accelerated during World War I, when Algerians filled in for French factory workers or served as soldiers. In the years following independence, low-skilled Algerian workers and Algerians who had supported the French (known as Harkis) emigrated en masse to France. Tighter French immigration rules and Algiers' decision to cease managing labor migration to France in the 1970s limited legal emigration largely to family reunification.\nNot until Algeria's civil war in the 1990s did the country again experience substantial outmigration. Many Algerians legally entered Tunisia without visas claiming to be tourists and then stayed as workers. Other Algerians headed to Europe seeking asylum, although France imposed restrictions. Sub-Saharan African migrants came to Algeria after its civil war to work in agriculture and mining. In the 2000s, a wave of educated Algerians went abroad seeking skilled jobs in a wider range of destinations, increasing their presence in North America and Spain. At the same time, legal foreign workers principally from China and Egypt came to work in Algeria's construction and oil sectors. Illegal migrants from Sub-Saharan Africa, particularly Malians, Nigeriens, and Gambians, continue to come to Algeria in search of work or to use it as a stepping stone to Libya and Europe.\nSince 1975, Algeria also has been the main recipient of Sahrawi refugees from the ongoing conflict in Western Sahara. More than 1000,000 Sahrawis are estimated to be living in five refugee camps in southwestern Algeria near Tindouf.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 29.58,
+				"males": 6509490,
+				"females": 6201450
+			},
+			"15_to_24": {
+				"percent": 13.93,
+				"males": 3063972,
+				"females": 2922368
+			},
+			"25_to_54": {
+				"percent": 42.91,
+				"males": 9345997,
+				"females": 9091558
+			},
+			"55_to_64": {
+				"percent": 7.41,
+				"males": 1599369,
+				"females": 1585233
+			},
+			"65_and_over": {
+				"percent": 6.17,
+				"males": 1252084,
+				"females": 1401357
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 60.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 49.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 10.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 9.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 28.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 29.3,
+				"units": "years"
+			},
+			"global_rank": 139,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.52,
+			"global_rank": 67,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 20,
+			"global_rank": 76,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.4,
+			"global_rank": 208,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.9,
+			"global_rank": 137,
+			"date": "2020"
+		},
+		"population_distribution": "the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 73.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.46,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Algiers",
+					"population": 2768000,
+					"is_capital": true
+				},
+				{
+					"place": "Oran",
+					"population": 899000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.03,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 112,
+			"global_rank": 68,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 17.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 19.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 16,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 85,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.1,
+				"units": "years"
+			},
+			"global_rank": 77,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.59,
+			"global_rank": 67,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 57.1,
+			"units": "%",
+			"date": "2012"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.79,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.9,
+			"date": "2015"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 99.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 97.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 2.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 96.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 93.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 6.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 22000,
+				"global_rank": 84,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 27.4,
+			"global_rank": 38,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 3,
+			"global_rank": 99,
+			"date": "2012"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 81.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 87.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 75.3,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2011"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 39.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 33.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 82,
+				"units": "%"
+			},
+			"global_rank": 13,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "People's Democratic Republic of Algeria",
+			"conventional_short_form": "Algeria",
+			"local_long_form": "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah",
+			"local_short_form": "Al Jaza'ir",
+			"etymology": "the country name derives from the capital city of Algiers"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Algiers",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 36,
+					"minutes": 45,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 3,
+					"minutes": 3,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name derives from the Arabic \"al-Jazair\" meaning \"the islands\" and refers to the four islands formerly off the coast but joined to the mainland since 1525"
+		},
+		"independence": {
+			"date": "1962-07-05",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "5 July",
+				"original_year": "1962"
+			},
+			{
+				"name": "Revolution Day",
+				"day": "1 November",
+				"original_year": "1954"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved by referendum 23 February 1989",
+			"amendments": "proposed by the president of the republic or through the president with the support of three fourths of the members of both houses of Parliament in joint session; passage requires approval by both houses, approval by referendum, and promulgation by the president; the president can forego a referendum if the Constitutional Council determines the proposed amendment does not conflict with basic constitutional principles; articles including the republican form of government, the integrity and unity of the country, and fundamental citizens’ liberties and rights cannot be amended; amended 2002, 2008, 2016"
+		},
+		"legal_system": "mixed legal system of French civil law and Islamic law; judicial review of legislative acts in ad hoc Constitutional Council composed of various public officials including several Supreme Court justices",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the mother must be a citizen of Algeria",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Abdelmadjid TEBBOUNE (since 12 December 2019)",
+			"head_of_government": "Abdelaziz DJERAD (since 28 December 2019)",
+			"cabinet": "Cabinet of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament",
+			"election_results": "Abdelmadjid TEBBOUNE (NLF) 58.1%, Abdelkader BENGRINA (Movement of National Construction) 17.4%, Ali BENFLIS (Vanguard of Freedoms) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)\nNational People's Assembly (lower house with 462 seats including 8 seats for Algerians living abroad); members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)",
+			"elections": "Council of the Nation - last held on 29 December 2018 (next to be held in December 2021)\nNational People's Assembly - last held on 4 May 2017 (next to be held in 2022)",
+			"election_results": "Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%\nNational People's Assembly - percent of vote by party - NA; seats by party - FLN 164, RND 97, MSP-FC 33, TAJ 19, Ennahda-FJD 15, FFS 14, El Mostakbel 14, MPA 13, PT 11, RCD 9, ANR 8, MEN 4, other 33, independent 28; composition - men 343, women 119, percent of women 25.8%; note - total Parliament percent of women 20.8%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Suprême, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime,\nCriminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the High Council of Magistracy, an administrative body presided over by the president of the republic, and includes the republic vice-president and several members; judges appointed for life; Constitutional Council members - 4 appointed by the president of the republic, 2 each by the 2 houses of Parliament, 2 by the Supreme Court, and 2 by the Council of State; Council president and members appointed for single 6-year terms with half the membership renewed every 3 years",
+			"subordinate_courts": "appellate or wilaya courts; first instance or daira tribunals"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Algerian National Front",
+					"name_alternative": "FNA",
+					"leaders": [
+						"Moussa TOUATI"
+					]
+				},
+				{
+					"name": "Algerian Popular Movement",
+					"name_alternative": "MPA",
+					"leaders": [
+						"Amara BENYOUNES"
+					]
+				},
+				{
+					"name": "Algerian Rally",
+					"name_alternative": "RA",
+					"leaders": [
+						"Ali ZAGHDOUD"
+					]
+				},
+				{
+					"name": "Algeria's Hope Rally",
+					"name_alternative": "TAJ",
+					"leaders": [
+						"Amar GHOUL"
+					]
+				},
+				{
+					"name": "Democratic and Social Movement",
+					"name_alternative": "MDS",
+					"leaders": [
+						"Hamid FERHI"
+					]
+				},
+				{
+					"name": "Dignity",
+					"name_alternative": "El Karama",
+					"leaders": [
+						"Aymene HARKATI"
+					]
+				},
+				{
+					"name": "Ennour El Djazairi Party",
+					"name_alternative": "PED",
+					"leaders": [
+						"Badreddine BELBAZ"
+					],
+					"note": "Algerian Radiance Party"
+				},
+				{
+					"name": "Front for Justice and Development",
+					"name_alternative": "El Adala",
+					"leaders": [
+						"Abdallah DJABALLAH"
+					]
+				},
+				{
+					"name": "Future Front",
+					"name_alternative": "El Mostakbel",
+					"leaders": [
+						"Abdelaziz BELAID"
+					]
+				},
+				{
+					"name": "Islamic Renaissance Movement",
+					"name_alternative": "Ennahda Movement",
+					"leaders": [
+						"Mohamed DOUIBI"
+					]
+				},
+				{
+					"name": "Justice and Development Front",
+					"name_alternative": "FJD",
+					"leaders": [
+						"Abdellah DJABALLAH"
+					]
+				},
+				{
+					"name": "Movement of National Construction ",
+					"leaders": [
+						"Abdelkader BENGRINA"
+					],
+					"note": "Harakat El-Binaa El-Watani"
+				},
+				{
+					"name": "Movement of National Understanding",
+					"name_alternative": "MEN"
+				},
+				{
+					"name": "Movement for National Reform",
+					"name_alternative": "Islah",
+					"leaders": [
+						"Filali GHOUINI"
+					]
+				},
+				{
+					"name": "Movement of Society for Peace",
+					"name_alternative": "MSP",
+					"leaders": [
+						"Abderrazak MOKRI"
+					]
+				},
+				{
+					"name": "National Democratic Rally",
+					"name_alternative": "RND",
+					"leaders": [
+						"Ahmed OUYAHIA"
+					],
+					"note": "Rassemblement National Democratique"
+				},
+				{
+					"name": "National Front for Social Justice",
+					"name_alternative": "FNJS",
+					"leaders": [
+						"Khaled BOUNEDJEMA"
+					]
+				},
+				{
+					"name": "National Liberation Front",
+					"name_alternative": "FLN",
+					"leaders": [
+						"Mohamed DJEMAI"
+					]
+				},
+				{
+					"name": "National Party for Solidarity and Development",
+					"name_alternative": "PNSD",
+					"leaders": [
+						"Dalila YALAQUI"
+					]
+				},
+				{
+					"name": "National Reform Movement",
+					"name_alternative": "Islah",
+					"leaders": [
+						"Djahid YOUNSI"
+					]
+				},
+				{
+					"name": "National Republican Alliance",
+					"name_alternative": "ANR",
+					"leaders": [
+						"Belkacem SAHLI"
+					]
+				},
+				{
+					"name": "New Dawn Party",
+					"name_alternative": "PFJ",
+					"leaders": [
+						"Tahar BENBAIBECHE"
+					]
+				},
+				{
+					"name": "New Generation",
+					"name_alternative": "Jil Jadid",
+					"leaders": [
+						"Soufiane DJILALI"
+					]
+				},
+				{
+					"name": "Oath of 1954",
+					"name_alternative": "Ahd 54",
+					"leaders": [
+						"Ali Fawzi REBAINE"
+					]
+				},
+				{
+					"name": "Party of Justice and Liberty",
+					"leaders": [
+						"Mohammed SAID"
+					]
+				},
+				{
+					"name": "Rally for Culture and Democracy",
+					"name_alternative": "RCD",
+					"leaders": [
+						"Mohcine BELABBAS"
+					]
+				},
+				{
+					"name": "Socialist Forces Front",
+					"name_alternative": "FFS",
+					"leaders": [
+						"Hakim BELAHCEL"
+					]
+				},
+				{
+					"name": "Union for Change and Progress",
+					"name_alternative": "UCP",
+					"leaders": [
+						"Zoubida Assoul"
+					]
+				},
+				{
+					"name": "Union of Democratic and Social Forces",
+					"name_alternative": "UFDS",
+					"leaders": [
+						"Noureddine BAHBOUH"
+					]
+				},
+				{
+					"name": "Vanguard of Freedoms ",
+					"leaders": [
+						"Ali BENFLIS"
+					],
+					"note": "Talaie El Houriat"
+				},
+				{
+					"name": "Youth Party",
+					"name_alternative": "PJ",
+					"leaders": [
+						"Hamana BOUCHARMA"
+					]
+				},
+				{
+					"name": "Workers Party",
+					"name_alternative": "PT",
+					"leaders": [
+						"Louisa HANOUNE"
+					]
+				}
+			],
+			"note": "a law banning political parties based on religion was enacted in March 1997"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "AMU"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OPEC"
+			},
+			{
+				"organization": "OSCE ",
+				"note": "partner"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Madjid BOUGUERRA (since 23 February 2015)",
+				"chancery": "2118 Kalorama Road NW, Washington, DC 20008",
+				"telephone": "[1] (202) 265-2800",
+				"fax": "[1] (202) 986-5906",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador John P. DESROCHER (since 5 September 2017)",
+				"telephone": "[213] (0) 770-08-2000",
+				"embassy": "05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger",
+				"mailing_address": "B. P. 408, Alger-Gare, 16030 Algiers",
+				"fax": "[213] (0) 770-08-2064"
+			}
+		},
+		"flag_description": {
+			"description": "two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "five-pointed star between the extended horns of a crescent moon"
+				},
+				{
+					"symbol": "fennec fox"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Kassaman\" (We Pledge)",
+			"lyrics_music": "Mufdi ZAKARIAH/Mohamed FAWZI",
+			"note": "adopted 1962; ZAKARIAH wrote \"Kassaman\" as a poem while imprisoned in Algiers by French colonial forces",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AG.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "Algeria's economy remains dominated by the state, a legacy of the country's socialist post-independence development model. In recent years the Algerian Government has halted the privatization of state-owned industries and imposed restrictions on imports and foreign involvement in its economy, pursuing an explicit import substitution policy.\nHydrocarbons have long been the backbone of the economy, accounting for roughly 30% of GDP, 60% of budget revenues, and nearly 95% of export earnings. Algeria has the 10th-largest reserves of natural gas in the world - including the 3rd-largest reserves of shale gas - and is the 6th-largest gas exporter. It ranks 16th in proven oil reserves. Hydrocarbon exports enabled Algeria to maintain macroeconomic stability, amass large foreign currency reserves, and maintain low external debt while global oil prices were high. With lower oil prices since 2014, Algeria’s foreign exchange reserves have declined by more than half and its oil stabilization fund has decreased from about $20 billion at the end of 2013 to about $7 billion in 2017, which is the statutory minimum.\nDeclining oil prices have also reduced the government’s ability to use state-driven growth to distribute rents and fund generous public subsidies, and the government has been under pressure to reduce spending. Over the past three years, the government has enacted incremental increases in some taxes, resulting in modest increases in prices for gasoline, cigarettes, alcohol, and certain imported goods, but it has refrained from reducing subsidies, particularly for education, healthcare, and housing programs.\nAlgiers has increased protectionist measures since 2015 to limit its import bill and encourage domestic production of non-oil and gas industries. Since 2015, the government has imposed additional restrictions on access to foreign exchange for imports, and import quotas for specific products, such as cars. In January 2018 the government imposed an indefinite suspension on the importation of roughly 850 products, subject to periodic review.\nPresident BOUTEFLIKA announced in fall 2017 that Algeria intends to develop its non-conventional energy resources. Algeria has struggled to develop non-hydrocarbon industries because of heavy regulation and an emphasis on state-driven growth. Algeria has not increased non-hydrocarbon exports, and hydrocarbon exports have declined because of field depletion and increased domestic demand.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 630000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 621300000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 602000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 36,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 167600000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 158
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 15200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 15200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 15100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 109,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 42.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 20.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 38.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 11.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 23.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -35.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 13.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 39.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 47.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 37.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 37.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 36.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 13
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"barley",
+				"oats",
+				"grapes",
+				"olives",
+				"citrus",
+				"fruits",
+				"sheep",
+				"cattle"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"natural gas",
+				"light industries",
+				"mining",
+				"electrical",
+				"petrochemical",
+				"food processing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 0.6,
+			"global_rank": 164,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 10859000,
+				"global_rank": 48,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 10.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 30.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 58.4,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 10.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 159
+		},
+		"population_below_poverty_line": {
+			"value": 23,
+			"units": "%",
+			"date": "2006"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 26.8,
+				"units": "%"
+			},
+			"date": "1995"
+		},
+		"budget": {
+			"revenues": {
+				"value": 54150000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 70200000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 32.3,
+			"global_rank": 67,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -9.6,
+			"global_rank": 207,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 27.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 170,
+			"note": "data cover central government debt as well as debt issued by subnational entities and intra-governmental debt"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 179
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -22100000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -26470000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 198
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 34370000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 29060000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 58
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"natural gas",
+					"petroleum products"
+				],
+				"date": "2009"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Italy",
+						"percent": 17.4
+					},
+					{
+						"name": "Spain",
+						"percent": 13
+					},
+					{
+						"name": "France",
+						"percent": 11.9
+					},
+					{
+						"name": "US",
+						"percent": 9.4
+					},
+					{
+						"name": "Brazil",
+						"percent": 6.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 48540000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 49430000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 55
+			},
+			"commodities": {
+				"by_commodity": [
+					"capital goods",
+					"foodstuffs",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 18.2
+					},
+					{
+						"name": "France",
+						"percent": 9.1
+					},
+					{
+						"name": "Italy",
+						"percent": 8
+					},
+					{
+						"name": "Germany",
+						"percent": 7
+					},
+					{
+						"name": "Spain",
+						"percent": 6.9
+					},
+					{
+						"name": "Turkey",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 97890000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 114700000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 26
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 6260000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 5088000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 128
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 108.9,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 109.443,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 109.443,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 100.691,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 80.579,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Algerian dinars (DZD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 400000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 99.4,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99.6,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 66890000000,
+				"global_rank": 42,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 55960000000,
+				"global_rank": 46,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 641000000,
+				"global_rank": 65,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 257000000,
+				"global_rank": 91,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 19270000,
+				"global_rank": 45,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 96,
+					"global_rank": 36,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 34,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 1,
+					"global_rank": 144,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 130,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1259000,
+				"global_rank": 18,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 756400,
+				"global_rank": 15,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 5340,
+				"global_rank": 75,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 12200000000,
+				"global_rank": 15,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 627900,
+				"global_rank": 29,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 405000,
+				"global_rank": 37,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 578800,
+				"global_rank": 15,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 82930,
+				"global_rank": 61,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 93500000000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 41280000000,
+				"global_rank": 25,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 53880000000,
+				"global_rank": 7,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 83,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 4504000000000,
+				"global_rank": 10,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 135900000,
+			"global_rank": 34,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 4558502,
+				"subscriptions_per_one_hundred_inhabitants": 10.77,
+				"global_rank": 30,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 46287629,
+				"subscriptions_per_one_hundred_inhabitants": 109.36,
+				"global_rank": 32,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run Radio-Television Algerienne operates the broadcast media and carries programming in Arabic, Berber dialects, and French; use of satellite dishes is widespread, providing easy access to European and Arab satellite stations; state-run radio operates several national networks and roughly 40 regional radio stations",
+		"internet": {
+			"country_code": ".dz",
+			"users": {
+				"total": 24819531,
+				"percent_of_population": 59.58,
+				"global_rank": 31,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 87,
+				"annual_passenger_traffic_on_registered_air_carriers": 6442442,
+				"annual_freight_traffic_on_registered_air_carriers": 28280000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "7T",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 149,
+					"global_rank": 36,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 67,
+					"over_3047_metres": 14,
+					"2438_to_3047_metres": 27,
+					"1524_to_2437_metres": 18,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 2,
+					"date": "2020"
+				},
+				"unpaved": {
+					"total": 82,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 16,
+					"914_to_1523_metres": 36,
+					"under_914_metres": 28,
+					"date": "2020"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 2600,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 16415,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 3447,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 7036,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 144,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 3973,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 2888,
+				"electrified": 283,
+				"units": "km\n1.432-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 1085,
+				"units": "km\n1.055-m"
+			},
+			"global_rank": 50,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 104000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 71656,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 32344,
+				"units": "km"
+			},
+			"global_rank": 46,
+			"date": "2015"
+		},
+		"merchant_marine": {
+			"total": 114,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 2
+				},
+				{
+					"type": "general cargo",
+					"count": 11
+				},
+				{
+					"type": "oil tanker",
+					"count": 10
+				},
+				{
+					"type": "other",
+					"count": 91
+				}
+			],
+			"global_rank": 83,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Algiers",
+				"Annaba",
+				"Arzew",
+				"Bejaia",
+				"Djendjene",
+				"Jijel",
+				"Mostaganem",
+				"Oran",
+				"Skikda"
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Arzew",
+				"Bethioua",
+				"Skikda"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 5.5,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 5.81,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 6.55,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 6.32,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 3
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for voluntary military service; 19-30 years of age for compulsory service; conscript service obligation reduced from 18 to 12 months in 2014",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Algeria and many other states reject Moroccan administration of Western Sahara",
+			"the Polisario Front, exiled in Algeria, represents the \"Sahrawi Arab Democratic Republic\" which Algeria recognizes",
+			"the Algerian-Moroccan land border remains closed",
+			"dormant disputes include Libyan claims of about 32,000 sq km of southeastern Algeria and the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco."
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 100000,
+						"country_of_origin": "Western Saharan Sahrawi",
+						"note": "mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf"
+					},
+					{
+						"people": 7757,
+						"country_of_origin": "Syria",
+						"date": "2019"
+					}
+				],
+				"date": "2018"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Algeria is a transit and, to a lesser extent, a destination and source country for women subjected to forced labor and sex trafficking and, to a lesser extent, men subjected to forced labor; criminal networks, sometimes extending to Sub-Saharan Africa and to Europe, are involved in human smuggling and trafficking in Algeria; Sub-Saharan adults enter Algeria voluntarily but illegally, often with the aid of smugglers, for onward travel to Europe, but some of the women are forced into prostitution, domestic service, and begging; some Sub-Saharan men, mostly from Mali, are forced into domestic servitude; some Algerian women and children are also forced into prostitution domestically",
+			"tier_rating": "Tier 3 – Algeria does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so: some officials denied the existence of human trafficking, hindering law enforcement efforts; the government reported its first conviction under its anti-trafficking law; one potential trafficking case was investigated in 2014, but no suspected offenders were arrested; no progress was made in identifying victims among vulnerable groups or referring them to NGO-run protection service, which left trafficking victims subject to arrest and detention; no anti-trafficking public awareness or educational campaigns were conducted (2015)"
+		}
+	}
+}

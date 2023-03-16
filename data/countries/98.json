@@ -1,0 +1,761 @@
+{
+	"name": "Guernsey",
+	"introduction": {
+		"background": "Guernsey and the other Channel Islands represent the last remnants of the medieval Duchy of Normandy, which held sway in both France and England. The islands were the only British soil occupied by German troops in World War II. The Bailiwick of Guernsey is a self-governing British Crown dependency that is not part of the United Kingdom. However, the UK Government is constitutionally responsible for its defense and international representation. The Bailiwick of Guernsey consists of the main island of Guernsey and a number of smaller islands including Alderney, Sark, Herm, Jethou, Brecqhou, and Lihou."
+	},
+	"geography": {
+		"location": "Western Europe, islands in the English Channel, northwest of France",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 49,
+				"minutes": 28,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 2,
+				"minutes": 35,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 78,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 78,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes Alderney, Guernsey, Herm, Sark, and some other smaller islands",
+			"global_rank": 228,
+			"comparative": "about one-half the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 50,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 3,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 12,
+				"units": "nm"
+			}
+		},
+		"climate": "temperate with mild winters and cool summers; about 50% of days are overcast",
+		"terrain": "mostly flat with low hills in southwest",
+		"elevation": {
+			"lowest_point": {
+				"name": "English Channel",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Le Moulin on Sark",
+				"elevation": {
+					"value": 114,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"cropland"
+			]
+		},
+		"natural_hazards": [
+			{
+				"description": "very large tidal variation and fast currents can make local waters dangerous",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"coastal erosion",
+				"coastal flooding",
+				"declining biodiversity due to land abandonment and succession to scrub or woodland"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 67052,
+			"global_rank": 204,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Channel Islander(s)",
+			"adjective": "Channel Islander"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Guernsey",
+					"percent": 52
+				},
+				{
+					"name": "UK and Ireland",
+					"percent": 23.7
+				},
+				{
+					"name": "Portugal",
+					"percent": 2.1
+				},
+				{
+					"name": "Latvia",
+					"percent": 1.5
+				},
+				{
+					"name": "other",
+					"percent": 6.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 14.1
+				}
+			],
+			"note": "data represent population by country of birth; the native population is of British and Norman-French descent"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English"
+				},
+				{
+					"name": "French"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"note": "Anglican, Presbyterian, Baptist Congregational, Methodist"
+				},
+				{
+					"name": "Roman Catholic"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.5,
+				"males": 5008,
+				"females": 4712
+			},
+			"15_to_24": {
+				"percent": 10.58,
+				"males": 3616,
+				"females": 3476
+			},
+			"25_to_54": {
+				"percent": 40.73,
+				"males": 13821,
+				"females": 13492
+			},
+			"55_to_64": {
+				"percent": 13.96,
+				"males": 4635,
+				"females": 4728
+			},
+			"65_and_over": {
+				"percent": 20.23,
+				"males": 6229,
+				"females": 7335
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 49,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 22.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 26.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.7,
+					"units": "%"
+				}
+			},
+			"note": "data represent the Guernsey and Jersey",
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 43,
+				"units": "years"
+			},
+			"female": {
+				"value": 45.6,
+				"units": "years"
+			},
+			"global_rank": 17,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.26,
+			"global_rank": 176,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.8,
+			"global_rank": 193,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.2,
+			"global_rank": 55,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 1.9,
+			"global_rank": 49,
+			"date": "2020"
+		},
+		"urbanization": {
+			"urban_population": {
+				"value": 31,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.46,
+				"units": "%"
+			},
+			"note": "data represent Guernsey and Jersey",
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Saint Peter Port",
+					"population": 16000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 207,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 80.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.7,
+				"units": "years"
+			},
+			"global_rank": 11,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.57,
+			"global_rank": 192,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 94.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 5.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 98,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Bailiwick of Guernsey",
+			"conventional_short_form": "Guernsey",
+			"former": "Norman Isles",
+			"etymology": "the name is of Old Norse origin, but the meaning of the root \"Guern(s)\" is uncertain; the \"-ey\" ending means \"island\""
+		},
+		"government_type": "parliamentary democracy (States of Deliberation)",
+		"capital": {
+			"name": "Saint Peter Port",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 49,
+					"minutes": 27,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 2,
+					"minutes": 32,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "Saint Peter Port is the name of the town and its surrounding parish; the \"port\" distinguishes this parish from that of Saint Peter on the other side of the island"
+		},
+		"independence": {
+			"note": "British Crown dependency"
+		},
+		"national_holidays": [
+			{
+				"name": "Liberation Day",
+				"day": "9 May",
+				"original_year": "1945"
+			}
+		],
+		"constitution": {
+			"history": "unwritten; includes royal charters, statutes, and common law and practice",
+			"amendments": "new laws or changes to existing laws are initiated by the States of Deliberation; passage requires majority vote"
+		},
+		"legal_system": "customary legal system based on Norman customary law; includes elements of the French civil code and English common law",
+		"suffrage": {
+			"age": 16,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)",
+			"head_of_government": "Chief Minister Gavin ST PIER (since 6 May 2016); Bailiff Sir Richard COLLAS (since 23 March 2012); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights",
+			"cabinet": "none",
+			"elections_appointments": "the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 6 May 2016 (next to be held in June 2020)",
+			"election_results": "Gavin ST PIER (independent) elected president of the Policy and Resources Committee and chief minister"
+		},
+		"legislative_branch": {
+			"description": "unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general",
+			"elections": "last held on 27 April 2016 (next to be held in June 2020)",
+			"election_results": "percent of vote - NA; seats - independent 38; composition - men 27, women 13, percent of women 32.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "Royal Court Bailiff, Deputy Bailiff, and Court of Appeal justices appointed by the British Crown and hold office at Her Majesty's pleasure; jurats elected by the States of Election, a body chaired by the Bailiff and a number of jurats",
+			"subordinate_courts": "Court of Alderney; Court of the Seneschal of Sark; Magistrates' Court (includes Juvenile Court); Contracts Court; Ecclesiastical Court; Court of Chief Pleas"
+		},
+		"political_parties_and_leaders": {
+			"note": "none; all independents"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "white with the red cross of Saint George (patron saint of England) extending to the edges of the flag and a yellow equal-armed cross of William the Conqueror superimposed on the Saint George cross; the red cross represents the old ties with England and the fact that Guernsey is a British Crown dependency; the gold cross is a replica of the one used by Duke William of Normandy at the Battle of Hastings in 1066"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Guernsey cow"
+				},
+				{
+					"symbol": "donkey"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Sarnia Cherie\" (Guernsey Dear)",
+			"lyrics_music": "George DEIGHTON/Domencio SANTANGELO",
+			"note": "adopted 1911; serves as a local anthem; as a British crown dependency, \"God Save the Queen\" is official (see United Kingdom)"
+		}
+	},
+	"economy": {
+		"overview": "Financial services accounted for about 21% of employment and about 32% of total income in 2016 in this tiny, prosperous Channel Island economy. Construction, manufacturing, and horticulture, mainly tomatoes and cut flowers, have been declining. Financial services, professional services, tourism, retail, and the public sector have been growing. Light tax and death duties make Guernsey a popular offshore financial center.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3465000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 3451000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 3420000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 184,
+				"note": "data are in 2015 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2742000000,
+				"date": "2005"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.4,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 1.2,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2012"
+					}
+				],
+				"global_rank": 193
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 52500,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 24
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 10,
+							"units": "%"
+						},
+						"services": {
+							"value": 87,
+							"units": "%"
+						}
+					},
+					"date": "2000"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"tomatoes",
+				"greenhouse flowers",
+				"sweet peppers",
+				"eggplant",
+				"fruit",
+				"Guernsey cattle"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"banking"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 31470,
+				"global_rank": 203,
+				"date": "2006-03-01"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 13
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 563600000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 530900000,
+				"units": "USD",
+				"note": "2005 est."
+			},
+			"date": "2005"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.6,
+			"global_rank": 146,
+			"date": "2005"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.2,
+			"global_rank": 29,
+			"date": "2005"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.4,
+					"units": "%",
+					"date": "2006-06-01"
+				}
+			],
+			"global_rank": 141
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"tomatoes",
+					"flowers",
+					"ferns",
+					"sweet peppers",
+					"eggplant",
+					"other vegetables"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"coal",
+					"gasoline",
+					"oil",
+					"machinery",
+					"equipment"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.7836,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.738,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.738,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.6542,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.607,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Guernsey pound per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 36547,
+				"subscriptions_per_one_hundred_inhabitants": 60,
+				"global_rank": 165,
+				"date": "2016-07-01"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 71249,
+				"subscriptions_per_one_hundred_inhabitants": 113,
+				"global_rank": 201,
+				"date": "2016-07-01"
+			}
+		},
+		"broadcast_media": "multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey with relays in Jersey, Guernsey, and Alderney; satellite packages are available; BBC Radio Guernsey and 1 other radio station operating",
+		"internet": {
+			"country_code": ".gg",
+			"users": {
+				"total": 55050,
+				"percent_of_population": 83.3,
+				"global_rank": 195,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 9,
+				"date": "2020"
+			},
+			"airports": {
+				"total": {
+					"airports": 2,
+					"global_rank": 199,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"1524_to_2437_metres": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 260,
+				"units": "km"
+			},
+			"global_rank": 204,
+			"date": "2017"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Braye Bay",
+				"Saint Peter Port"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

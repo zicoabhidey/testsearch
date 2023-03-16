@@ -1,0 +1,1324 @@
+{
+	"name": "Nauru",
+	"introduction": {
+		"background": "The exact origins of the Nauruans are unclear since their language does not resemble any other in the Pacific region. Germany annexed the island in 1888. A German-British consortium began mining the island's phosphate deposits early in the 20th century. Australian forces occupied Nauru in World War I; it subsequently became a League of Nations mandate. After the Second World War - and a brutal occupation by Japan - Nauru became a UN trust territory. It achieved independence in 1968 and became one of the richest countries in the world because of its extensive phosphate stocks; however, the phosphate was depleted in the early 1980s and the quality of life began to decline. In 2001, an Australian offshore refugee processing center was opened in Nauru, providing an economic lifeline. Nauru is one of Taiwan's few remaining diplomatic partners, and in 2008, Nauru recognized the breakaway Georgian republics of Abkhazia and South Ossetia."
+	},
+	"geography": {
+		"location": "Oceania, island in the South Pacific Ocean, south of the Marshall Islands",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 0,
+				"minutes": 32,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 166,
+				"minutes": 55,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 21,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 21,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 240,
+			"comparative": "about 0.1 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 30,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical with a monsoonal pattern; rainy season (November to February)",
+		"terrain": "sandy beach rises to fertile ring around raised coral reefs with phosphate plateau in center",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Command Ridge",
+				"elevation": {
+					"value": 70,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"phosphates",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 20,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 20,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 80,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited natural freshwater resources",
+				"roof storage tanks that collect rainwater and desalination plants provide water",
+				"a century of intensive phosphate mining beginning in 1906 left the central 90% of Nauru a wasteland",
+				"cadmium residue",
+				"phosphate dust",
+				"and other contaminants have caused air and water pollution with negative impacts on health",
+				"climate change has brought on rising sea levels and inland water shortages"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 11000,
+			"global_rank": 223,
+			"date": "2019"
+		},
+		"nationality": {
+			"noun": "Nauruan(s)",
+			"adjective": "Nauruan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Nauruan",
+					"percent": 88.9
+				},
+				{
+					"name": "part Nauruan",
+					"percent": 6.6
+				},
+				{
+					"name": "I-Kiribati",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 2.5
+				}
+			],
+			"date": "2007"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Nauruan",
+					"percent": 93,
+					"note": "official, a distinct Pacific Island language"
+				},
+				{
+					"name": "English",
+					"percent": 2,
+					"note": "widely understood, spoken, and used for most government and commercial purposes"
+				},
+				{
+					"name": "other",
+					"percent": 5,
+					"breakdown": [
+						{
+							"name": "includes I-Kiribati and Chinese",
+							"percent": 2
+						}
+					]
+				}
+			],
+			"note": "percentages represent main language spoken at home; Nauruan is spoken by 95% of the population, English by 66%, and other languages by 12%",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 60.4,
+					"breakdown": [
+						{
+							"name": "includes Nauru Congregational",
+							"percent": 35.7
+						},
+						{
+							"name": "Assembly of God",
+							"percent": 13
+						},
+						{
+							"name": "Nauru Independent Church",
+							"percent": 9.5
+						},
+						{
+							"name": "Baptist",
+							"percent": 1.5
+						},
+						{
+							"name": "and Seventh Day Adventist",
+							"percent": 0.7
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 33
+				},
+				{
+					"name": "other",
+					"percent": 3.7
+				},
+				{
+					"name": "none",
+					"percent": 1.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.1
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 30.87,
+				"males": 1337,
+				"females": 1684
+			},
+			"15_to_24": {
+				"percent": 16.35,
+				"males": 734,
+				"females": 866
+			},
+			"25_to_54": {
+				"percent": 42.57,
+				"males": 2115,
+				"females": 2050
+			},
+			"55_to_64": {
+				"percent": 6.72,
+				"males": 262,
+				"females": 396
+			},
+			"65_and_over": {
+				"percent": 3.48,
+				"males": 122,
+				"females": 219
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 27,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 25.9,
+				"units": "years"
+			},
+			"global_rank": 150,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.46,
+			"global_rank": 158,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 21.9,
+			"global_rank": 67,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6,
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -11.3,
+			"global_rank": 219,
+			"date": "2020"
+		},
+		"population_distribution": "extensive phosphate mining made approximately 90% of the island unsuitable for farming; most people live in the fertile coastal areas, especially along the southwest coast",
+		"urbanization": {
+			"urban_population": {
+				"value": 100,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.06,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 0.84,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 0.79,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.66,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.56,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.88,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 7.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 5.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 68.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 64.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 71.9,
+				"units": "years"
+			},
+			"global_rank": 175,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.68,
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.35,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 5,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 96.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 3.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 61,
+			"global_rank": 1,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 9,
+				"units": "years"
+			},
+			"female": {
+				"value": 10,
+				"units": "years"
+			},
+			"date": "2008"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 26.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 20.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 37.5,
+				"units": "%"
+			},
+			"global_rank": 44,
+			"date": "2013"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Nauru",
+			"conventional_short_form": "Nauru",
+			"local_long_form": "Republic of Nauru",
+			"local_short_form": "Nauru",
+			"former": "Pleasant Island",
+			"etymology": "the island name may derive from the Nauruan word \"anaoero\" meaning \"I go to the beach\""
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "no official capital; government offices in the Yaren District",
+			"time_difference": {
+				"timezone": 12,
+				"note": "17 hours ahead of Washington, DC, during Standard Time"
+			}
+		},
+		"administrative_divisions": [
+			{
+				"name": "Aiwo",
+				"type": ""
+			},
+			{
+				"name": "Anabar",
+				"type": ""
+			},
+			{
+				"name": "Anetan",
+				"type": ""
+			},
+			{
+				"name": "Anibare",
+				"type": ""
+			},
+			{
+				"name": "Baitsi",
+				"type": ""
+			},
+			{
+				"name": "Boe",
+				"type": ""
+			},
+			{
+				"name": "Buada",
+				"type": ""
+			},
+			{
+				"name": "Denigomodu",
+				"type": ""
+			},
+			{
+				"name": "Ewa",
+				"type": ""
+			},
+			{
+				"name": "Ijuw",
+				"type": ""
+			},
+			{
+				"name": "Meneng",
+				"type": ""
+			},
+			{
+				"name": "Nibok",
+				"type": ""
+			},
+			{
+				"name": "Uaboe",
+				"type": ""
+			},
+			{
+				"name": "Yaren",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1968-01-31",
+			"note": "from the Australia-, NZ-, and UK-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "31 January",
+				"original_year": "1968"
+			}
+		],
+		"constitution": {
+			"history": "effective 29 January 1968",
+			"amendments": "proposed by Parliament; passage requires two-thirds majority vote of Parliament; amendments to constitutional articles, such as the republican form of government, protection of fundamental rights and freedoms, the structure and authorities of the executive and legislative branches, also requires two-thirds majority of votes in a referendum; amended 1968, 2009, 2014"
+		},
+		"legal_system": "mixed legal system of common law based on the English model and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"suffrage": {
+			"age": 20,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Lionel AINGIMEA (since 27 August 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "President Lionel AINGIMEA (since 27 August 2019)",
+			"cabinet": "Cabinet appointed by the president from among members of Parliament",
+			"elections_appointments": "president indirectly elected by Parliament (eligible for a second term); election last held on 27 August 2019 (next to be held in 2022)",
+			"election_results": "Lionel AINGIMEA elected president; Parliament vote - Lionel AINGIMEA (independent) 12, David ADEANG (Nauru First) 6"
+		},
+		"legislative_branch": {
+			"description": "unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the \"Dowdall\" counting system by which voters rank candidates on their ballots; members serve 3-year terms)",
+			"elections": "last held on 24 August 2019 (next to be held in 2022)",
+			"election_results": "percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court",
+			"judge_selection_and_term_of_office": "judges appointed by the president to serve until age 65",
+			"subordinate_courts": "District Court, Family Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party",
+					"leaders": [
+						"Kennan ADEANG"
+					]
+				},
+				{
+					"name": "Nauru First  Party",
+					"note": "Naoero Amo"
+				},
+				{
+					"name": "Nauru Party ",
+					"note": "informal"
+				}
+			],
+			"note": "loose multiparty system"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WHO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Marlene Inemwin MOSES (since 13 March 2006)",
+				"chancery": "800 2nd Avenue, Suite 400 D, New York, NY 10017",
+				"telephone": "[1] (212) 937-0074",
+				"fax": "[1] (212) 937-0079"
+			}
+		},
+		"flag_description": {
+			"description": "blue with a narrow, horizontal, gold stripe across the center and a large white 12-pointed star below the stripe on the hoist side; blue stands for the Pacific Ocean, the star indicates the country's location in relation to the Equator (the gold stripe) and the 12 points symbolize the 12 original tribes of Nauru; the star's white color represents phosphate, the basis of the island's wealth"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "frigatebird"
+				},
+				{
+					"symbol": "calophyllum flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nauru Bwiema\" (Song of Nauru)",
+			"lyrics_music": "Margaret HENDRIE/Laurence Henry HICKS",
+			"note": "adopted 1968"
+		}
+	},
+	"economy": {
+		"overview": "Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of \"secondary phosphate\" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely.\nThe rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future.\nAlthough revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the \"vessel day scheme\" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 160000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 153900000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 139400000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 224,
+				"note": "data are in 2015 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 114000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 10.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 75
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 11600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 129,
+				"note": "data are in 2015 US dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 98,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 37.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 42.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 11.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -89.1,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.1,
+							"units": "%"
+						},
+						"industry": {
+							"value": 33,
+							"units": "%"
+						},
+						"services": {
+							"value": 60.8,
+							"units": "%"
+						}
+					},
+					"date": "2009"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"coconuts"
+			]
+		},
+		"industries": {
+			"industries": [
+				"phosphate mining",
+				"offshore banking",
+				"coconut products"
+			]
+		},
+		"labor_force": {
+			"by_occupation": {
+				"note": "most of the labor force is employed in phosphate mining, public administration, education, and transportation"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 23,
+					"units": "%",
+					"date": "2011"
+				},
+				{
+					"value": 90,
+					"units": "%",
+					"date": "2004"
+				}
+			],
+			"global_rank": 193
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 103000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 113400000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 90.3,
+			"global_rank": 2,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -9.2,
+			"global_rank": 206,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 62,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 65,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 71
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 8.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 172
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 5000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 63
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 125000000,
+						"units": "USD",
+						"date": "2013"
+					},
+					{
+						"value": 110300000,
+						"units": "USD",
+						"date": "2012"
+					}
+				],
+				"global_rank": 194
+			},
+			"commodities": {
+				"by_commodity": [
+					"phosphates"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Nigeria",
+						"percent": 38.6
+					},
+					{
+						"name": "Japan",
+						"percent": 16.6
+					},
+					{
+						"name": "Australia",
+						"percent": 15.9
+					},
+					{
+						"name": "South Korea",
+						"percent": 13.7
+					},
+					{
+						"name": "NZ",
+						"percent": 5.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 64900000.00000001,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 143100000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 219
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"fuel",
+					"manufactures",
+					"building materials",
+					"machinery"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Australia",
+						"percent": 67.5
+					},
+					{
+						"name": "Fiji",
+						"percent": 9.2
+					},
+					{
+						"name": "India",
+						"percent": 8.1
+					},
+					{
+						"name": "Singapore",
+						"percent": 5.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 33299999.999999996,
+					"units": "USD",
+					"date": "2004"
+				}
+			],
+			"global_rank": 199
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.311,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3452,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3452,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.1094,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Australian dollars (AUD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 24000000,
+				"global_rank": 212,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 22320000,
+				"global_rank": 212,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 174,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 177,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 7000,
+				"global_rank": 211,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 86,
+					"global_rank": 68,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 151,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 188,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 14,
+					"global_rank": 63,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 180,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 172,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 173,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 175,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 184,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 470,
+				"global_rank": 210,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 186,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 449,
+				"global_rank": 206,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 176,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 180,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 158,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 163,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 174,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 76540,
+			"global_rank": 208,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1900,
+				"subscriptions_per_one_hundred_inhabitants": 14,
+				"global_rank": 219,
+				"date": "2016-07-01"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 9212,
+				"subscriptions_per_one_hundred_inhabitants": 94.58,
+				"global_rank": 214,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 government-owned TV station broadcasting programs from New Zealand sent via satellite or on videotape; 1 government-owned radio station, broadcasting on AM and FM, utilizes Australian and British programs (2019)",
+		"internet": {
+			"country_code": ".nr",
+			"users": {
+				"total": 5524,
+				"percent_of_population": 57,
+				"global_rank": 215,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 5,
+				"annual_passenger_traffic_on_registered_air_carriers": 45457,
+				"annual_freight_traffic_on_registered_air_carriers": 7940000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "C2",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 230,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 30,
+				"units": "km"
+			},
+			"paved": {
+				"value": 24,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 6,
+				"units": "km"
+			},
+			"global_rank": 219,
+			"date": "2002"
+		},
+		"merchant_marine": {
+			"total": 2,
+			"by_type": [
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 1
+				}
+			],
+			"global_rank": 175,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Nauru"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

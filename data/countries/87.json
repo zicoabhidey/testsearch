@@ -1,0 +1,1734 @@
+{
+	"name": "Gambia, The",
+	"introduction": {
+		"background": ""
+	},
+	"geography": {
+		"location": "Western Africa, bordering the North Atlantic Ocean and Senegal",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 28,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 16,
+				"minutes": 34,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 11300,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 10120,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1180,
+				"units": "sq km"
+			},
+			"global_rank": 166,
+			"comparative": "slightly less than twice the size of Delaware"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 749,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Senegal",
+					"border_length": {
+						"value": 749,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 80,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 18,
+				"units": "nm"
+			},
+			"continental_shelf": "extent not specified",
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; hot, rainy season (June to November); cooler, dry season (November to May)",
+		"terrain": "flood plain of the Gambia River flanked by some low hills",
+		"elevation": {
+			"mean_elevation": {
+				"value": 34,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed elevation",
+				"elevation": {
+					"value": 53,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"clay",
+				"silica sand",
+				"titanium",
+				"rutile",
+				"ilmenite",
+				"tin",
+				"zircon"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 56.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 41,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 14.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 43.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 0,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 50,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation due to slash-and-burn agriculture",
+				"desertification",
+				"water pollution",
+				"water-borne diseases"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2173999,
+			"global_rank": 146,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Gambian(s)",
+			"adjective": "Gambian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Mandinka/Jahanka",
+					"percent": 34
+				},
+				{
+					"name": "Fulani/Tukulur/Lorobo",
+					"percent": 22.4
+				},
+				{
+					"name": "Wolof",
+					"percent": 12.6
+				},
+				{
+					"name": "Jola/Karoninka",
+					"percent": 10.7
+				},
+				{
+					"name": "Serahuleh",
+					"percent": 6.6
+				},
+				{
+					"name": "Serer",
+					"percent": 3.2
+				},
+				{
+					"name": "Manjago",
+					"percent": 2.1
+				},
+				{
+					"name": "Bambara",
+					"percent": 1
+				},
+				{
+					"name": "Creole/Aku Marabout",
+					"percent": 0.7
+				},
+				{
+					"name": "other",
+					"percent": 0.9
+				},
+				{
+					"name": "non-Gambian",
+					"percent": 5.2
+				},
+				{
+					"name": "no answer",
+					"percent": 0.6
+				}
+			],
+			"date": "2013"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Mandinka"
+				},
+				{
+					"name": "Wolof"
+				},
+				{
+					"name": "Fula"
+				},
+				{
+					"name": "other indigenous vernaculars"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 95.7
+				},
+				{
+					"name": "Christian",
+					"percent": 4.2
+				},
+				{
+					"name": "none",
+					"percent": 0.1
+				},
+				{
+					"name": "no response",
+					"percent": 0.1
+				}
+			],
+			"date": "2013"
+		},
+		"demographic_profile": "The Gambia’s youthful age structure – almost 60% of the population is under the age of 25 – is likely to persist because the country’s total fertility rate remains strong at nearly 4 children per woman. The overall literacy rate is around 55%, and is significantly lower for women than for men. At least 70% of the populace are farmers who are reliant on rain-fed agriculture and cannot afford improved seeds and fertilizers. Crop failures caused by droughts between 2011 and 2013 have increased poverty, food shortages, and malnutrition.\nThe Gambia is a source country for migrants and a transit and destination country for migrants and refugees. Since the 1980s, economic deterioration, drought, and high unemployment, especially among youths, have driven both domestic migration (largely urban) and migration abroad (legal and illegal). Emigrants are largely skilled workers, including doctors and nurses, and provide a significant amount of remittances. The top receiving countries for Gambian emigrants are Spain, the US, Nigeria, Senegal, and the UK. While the Gambia and Spain do not share historic, cultural, or trade ties, rural Gambians have migrated to Spain in large numbers because of its proximity and the availability of jobs in its underground economy (this flow slowed following the onset of Spain’s late 2007 economic crisis).\nThe Gambia’s role as a host country to refugees is a result of wars in several of its neighboring West African countries. Since 2006, refugees from the Casamance conflict in Senegal have replaced their pattern of flight and return with permanent settlement in The Gambia, often moving in with relatives along the Senegal-Gambia border. The strain of providing for about 7,400 Casamance refugees has increased poverty among Gambian villagers.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 35.96,
+				"males": 392714,
+				"females": 389027
+			},
+			"15_to_24": {
+				"percent": 20.09,
+				"males": 216307,
+				"females": 220514
+			},
+			"25_to_54": {
+				"percent": 35.85,
+				"males": 382138,
+				"females": 397324
+			},
+			"55_to_64": {
+				"percent": 4.4,
+				"males": 45614,
+				"females": 50143
+			},
+			"65_and_over": {
+				"percent": 3.69,
+				"males": 36773,
+				"females": 43445
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 86.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 82.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 4.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 21.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 21.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 21.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 22.2,
+				"units": "years"
+			},
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.87,
+			"global_rank": 52,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 27,
+			"global_rank": 44,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.7,
+			"global_rank": 136,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.6,
+			"global_rank": 155,
+			"date": "2020"
+		},
+		"population_distribution": "settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 62.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.07,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Banjul Note: Includes The Local Government Areas Of Banjul And Kanifing",
+					"population": 451000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.91,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 20.9,
+			"date": "2013"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 597,
+			"global_rank": 13,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 54.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 60.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 49.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 18,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 65.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 63.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 68.3,
+				"units": "years"
+			},
+			"global_rank": 190,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.21,
+			"global_rank": 46,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 16.8,
+			"units": "%",
+			"note": "percent of women aged 15-50",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.1,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.1,
+			"date": "2011"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 91.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 80.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 87.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 8.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 19.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 12.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 80.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 44.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 66.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 19.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 55.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 33.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 2,
+				"global_rank": 23,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 28000,
+				"global_rank": 78,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1100,
+				"global_rank": 57,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 10.3,
+			"global_rank": 139,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 10.3,
+			"global_rank": 63,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.1,
+			"global_rank": 167,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 50.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 61.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 41.6,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 9,
+				"units": "years"
+			},
+			"male": {
+				"value": 9,
+				"units": "years"
+			},
+			"female": {
+				"value": 9,
+				"units": "years"
+			},
+			"date": "2010"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 13.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 9.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 17.2,
+				"units": "%"
+			},
+			"global_rank": 106,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of The Gambia",
+			"conventional_short_form": "The Gambia",
+			"etymology": "named for the Gambia River that flows through the heart of the country"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Banjul",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 13,
+					"minutes": 27,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 16,
+					"minutes": 34,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; \"bang julo\" is Mandinka for \"rope fiber\"; mispronunciation over time caused the term became the word Banjul"
+		},
+		"independence": {
+			"date": "1965-02-18",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "18 February",
+				"original_year": "1965"
+			}
+		],
+		"constitution": {
+			"history": "previous 1965 (Independence Act), 1970; latest adopted 8 April 1996, approved by referendum 8 August 1996, effective 16 January 1997",
+			"note": "referendum on new constitution planned over the next 2 years",
+			"amendments": "proposed by the National Assembly; passage requires at least three-fourths majority vote by the Assembly membership in each of several readings and approval by the president of the republic; a referendum is required for amendments affecting national sovereignty, fundamental rights and freedoms, government structures and authorities, taxation, and public funding; passage by referendum requires participation of at least 50% of eligible voters and approval by at least 75% of votes cast; amended 2001, 2004, 2010"
+		},
+		"legal_system": "mixed legal system of English common law, Islamic law, and customary law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 1 December 2016 (next to be held in 2021); vice president appointed by the president",
+			"election_results": "Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)",
+			"elections": "last held on 6 April 2017 (next to be held in 2022)",
+			"election_results": "percent of vote by party - UDP 37.5%, GDC 17.4%, APRC 16%, PDOIS 9%, NRP 6.3%, PPP 2.5%, other 1.7%, independent 9.6%; seats by party - UDP 31, APRC 5, GDC 5, NRP 5, PDOIS 4, PPP 2, independent 1; composition - men 52, women 6, percent of women 10.3%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)",
+			"judge_selection_and_term_of_office": "justices appointed by the president after consultation with the Judicial Service Commission, a 6-member independent body of high-level judicial officials, a presidential appointee, and a National Assembly appointee; justices appointed for life or until mandatory retirement at age 75",
+			"subordinate_courts": "Court of Appeal; High Court; Special Criminal Court; Khadis or Muslim courts; district tribunals; magistrates courts; cadi courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for Patriotic Reorientation and Construction",
+					"name_alternative": "APRC",
+					"leaders": [
+						"Fabakary JATTA"
+					]
+				},
+				{
+					"name": "Coalition 2016 ",
+					"leaders": [
+						"collective leadership"
+					],
+					"note": "electoral coalition includes UDP, PDOIS, NRP, GMC, GDC, PPP, GPDP"
+				},
+				{
+					"name": "Gambia Democratic Congress",
+					"name_alternative": "GDC",
+					"leaders": [
+						"Mama KANDEH"
+					]
+				},
+				{
+					"name": "Gambia Moral Congress",
+					"name_alternative": "GMC",
+					"leaders": [
+						"Mai FATTY"
+					]
+				},
+				{
+					"name": "Gambia Party for Democracy and Progress",
+					"name_alternative": "GPDP",
+					"leaders": [
+						"Sarja JARJOU"
+					]
+				},
+				{
+					"name": "National Convention Party",
+					"name_alternative": "NCP",
+					"leaders": [
+						"Yaya  SANYANG and Majanko SAMUSA "
+					],
+					"note": "both claiming leadership"
+				},
+				{
+					"name": "National Democratic Action Movement",
+					"name_alternative": "NDAM",
+					"leaders": [
+						"Lamin Yaa JUARA"
+					]
+				},
+				{
+					"name": "National People's Party",
+					"name_alternative": "NPP",
+					"leaders": [
+						"Adama BARROW"
+					]
+				},
+				{
+					"name": "National Reconciliation Party",
+					"name_alternative": "NRP",
+					"leaders": [
+						"Hamat BAH"
+					]
+				},
+				{
+					"name": "People's Democratic Organization for Independence and Socialism",
+					"name_alternative": "PDOIS",
+					"leaders": [
+						"Sidia JATTA"
+					]
+				},
+				{
+					"name": "People's Progressive Party",
+					"name_alternative": "PPP",
+					"leaders": [
+						"Yaya CEESAY"
+					],
+					"note": ""
+				},
+				{
+					"name": "United Democratic Party",
+					"name_alternative": "UDP",
+					"leaders": [
+						"Ousainou DARBOE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "ECOWAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Dawda D. FADERA (since 24 January 2018)",
+				"chancery": "5630 16th Street NW, Washington, DC 20011",
+				"telephone": "[1] (202) 785-1399",
+				"fax": "[1] (202) 342-0240"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Richard \"Carl\" PASCHALL (since 9 April 2019)",
+				"telephone": "[220] 439-2856",
+				"embassy": "Kairaba Avenue, Fajara, P.M.B.19, Banjul",
+				"mailing_address": "P.M.B. 19, Banjul",
+				"fax": "[220] 439-2475"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue represents the Gambia River, and green symbolizes forests and agriculture; the white stripes denote unity and peace"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "For The Gambia, Our Homeland",
+			"lyrics_music": "Virginia Julie HOWE/adapted by Jeremy Frederick HOWE",
+			"note": "adopted 1965; the music is an adaptation of the traditional Mandinka song \"Foday Kaba Dumbuya\"",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/GA.mp3?1538604753"
+		}
+	},
+	"economy": {
+		"overview": "The government has invested in the agriculture sector because three-quarters of the population depends on the sector for its livelihood and agriculture provides for about one-third of GDP, making The Gambia largely reliant on sufficient rainfall. The agricultural sector has untapped potential - less than half of arable land is cultivated and agricultural productivity is low. Small-scale manufacturing activity features the processing of cashews, groundnuts, fish, and hides. The Gambia's reexport trade accounts for almost 80% of goods exports and China has been its largest trade partner for both exports and imports for several years.\nThe Gambia has sparse natural resource deposits. It relies heavily on remittances from workers overseas and tourist receipts. Remittance inflows to The Gambia amount to about one-fifth of the country’s GDP. The Gambia's location on the ocean and proximity to Europe has made it one of the most frequented tourist destinations in West Africa, boosted by private sector investments in eco-tourism and facilities. Tourism normally brings in about 20% of GDP, but it suffered in 2014 from tourists’ fears of Ebola virus in neighboring West African countries. Unemployment and underemployment remain high.\nEconomic progress depends on sustained bilateral and multilateral aid, on responsible government economic management, and on continued technical assistance from multilateral and bilateral donors. International donors and lenders were concerned about the quality of fiscal management under the administration of former President Yahya JAMMEH, who reportedly stole hundreds of millions of dollars of the country’s funds during his 22 years in power, but anticipate significant improvements under the new administration of President Adama BARROW, who assumed power in early 2017. As of April 2017, the IMF, the World Bank, the European Union, and the African Development Bank were all negotiating with the new government of The Gambia to provide financial support in the coming months to ease the country’s financial crisis.\nThe country faces a limited availability of foreign exchange, weak agricultural output, a border closure with Senegal, a slowdown in tourism, high inflation, a large fiscal deficit, and a high domestic debt burden that has crowded out private sector investment and driven interest rates to new highs. The government has committed to taking steps to reduce the deficit, including through expenditure caps, debt consolidation, and reform of state-owned enterprises.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5556000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5314000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5292000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 176,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1482000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 0.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 5.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 58
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2700,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 197,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 90.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 12,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 19.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -2.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 20.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -40,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 20.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 14.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 65.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 6.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 7.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 172
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"millet",
+				"sorghum",
+				"peanuts",
+				"corn",
+				"sesame",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"palm kernels",
+				"cattle",
+				"sheep",
+				"goats"
+			]
+		},
+		"industries": {
+			"industries": [
+				"peanuts",
+				"fish",
+				"hides",
+				"tourism",
+				"beverages",
+				"agricultural machinery assembly",
+				"woodworking",
+				"metalworking",
+				"clothing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -0.8,
+			"global_rank": 175,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 777100,
+				"global_rank": 147,
+				"date": "2007"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 75,
+						"units": "%"
+					},
+					"industry": {
+						"value": 19,
+						"units": "%"
+					},
+					"services": {
+						"value": 6,
+						"units": "%"
+					}
+				},
+				"date": "1996"
+			}
+		},
+		"unemployment_rate": {
+			"note": "NA"
+		},
+		"population_below_poverty_line": {
+			"value": 48.4,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 36.9,
+				"units": "%"
+			},
+			"date": "2003"
+		},
+		"budget": {
+			"revenues": {
+				"value": 300400000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 339000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.3,
+			"global_rank": 148,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.6,
+			"global_rank": 117,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 88,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 82.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 28
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 196
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -194000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -85000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 98
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 72900000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 106600000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 201
+			},
+			"commodities": {
+				"by_commodity": [
+					"peanut products",
+					"fish",
+					"cotton lint",
+					"palm kernels"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Guinea-Bissau",
+						"percent": 51.9
+					},
+					{
+						"name": "Vietnam",
+						"percent": 14.6
+					},
+					{
+						"name": "Senegal",
+						"percent": 8.8
+					},
+					{
+						"name": "Mali",
+						"percent": 7.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 376900000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 310500000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 201
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"manufactures",
+					"fuel",
+					"machinery",
+					"transport equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Cote dIvoire",
+						"percent": 11.5
+					},
+					{
+						"name": "Brazil",
+						"percent": 10.6
+					},
+					{
+						"name": "Spain",
+						"percent": 10.2
+					},
+					{
+						"name": "China",
+						"percent": 7.8
+					},
+					{
+						"name": "Russia",
+						"percent": 6.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.3
+					},
+					{
+						"name": "India",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 170000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 87640000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 179
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 586800000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 571200000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 174
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 49.74,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 43.8846,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 43.8846,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 41.89,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 41.733,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "dalasis (GMD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 1000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 49,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 69,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 16,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 304100000,
+				"global_rank": 182,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 282800000,
+				"global_rank": 186,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 138,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 151,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 117000,
+				"global_rank": 178,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 97,
+					"global_rank": 34,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 94,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 172,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 125,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 140,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 128,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 131,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 135,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 148,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 3800,
+				"global_rank": 185,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 42,
+				"global_rank": 122,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 3738,
+				"global_rank": 181,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 136,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 149,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 108,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 129,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 138,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 607300,
+			"global_rank": 180,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 41179,
+				"subscriptions_per_one_hundred_inhabitants": 1.93,
+				"global_rank": 161,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 2977068,
+				"subscriptions_per_one_hundred_inhabitants": 139.53,
+				"global_rank": 141,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 state-run TV-channel; one privately-owned TV-station; 1 Online TV-station; three state-owned radio station and 31 privately owned radio stations; eight community radio stations; transmissions of multiple international broadcasters are available, some via shortwave radio; cable and satellite TV subscription services are obtainable in some parts of the country (2019)",
+		"internet": {
+			"country_code": ".gm",
+			"users": {
+				"total": 406918,
+				"percent_of_population": 19.84,
+				"global_rank": 158,
+				"date": "2017-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 6,
+				"annual_passenger_traffic_on_registered_air_carriers": 53735,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "C5",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 221,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"over_3047_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 2977,
+				"units": "km"
+			},
+			"paved": {
+				"value": 518,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 2459,
+				"units": "km"
+			},
+			"global_rank": 161,
+			"date": "2011"
+		},
+		"waterways": {
+			"value": 390,
+			"units": "km",
+			"note": "on River Gambia; small oceangoing vessels can reach 190 km",
+			"global_rank": 88,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 8,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 8
+				}
+			],
+			"global_rank": 158,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Banjul"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.8,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				},
+				{
+					"value": 0.8,
+					"units": "percent_of_gdp",
+					"date": "2013"
+				}
+			],
+			"global_rank": 129
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for male and female voluntary military service; no conscription; service obligation 6 months",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"attempts to stem refugees, cross-border raids, arms smuggling, and other illegal activities by separatists from southern Senegal's Casamance region, as well as from conflicts in other west African states"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "The Gambia is a source and destination country for women and children subjected to forced labor and sex trafficking; Gambian women, girls, and, to a lesser extent, boys are exploited for prostitution and domestic servitude; women, girls, and boys from West African countries are trafficked to The Gambia for commercial sexual exploitation, particularly by European sex tourists; boys in some Koranic schools are forced into street vending or begging; some Gambian children have been identified as victims of forced labor in neighboring West African countries",
+			"tier_rating": "Tier 3 – The Gambia does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government demonstrated minimal anti-trafficking law enforcement efforts, investigating one trafficking case but not prosecuting or convicting any offenders in 2014; authorities did not investigate, prosecute, or convict any government employees complicit in trafficking, although corruption was a serious problem; the government identified and repatriated 19 Gambian girls subjected to domestic servitude in Lebanon but did not identify or provide protective services to any trafficking victims in The Gambia; a government program continued to provide resources and financial support to 12 Koranic schools on the condition that their students were not forced to beg (2015)"
+		}
+	}
+}

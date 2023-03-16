@@ -1,0 +1,1877 @@
+{
+	"name": "Austria",
+	"introduction": {
+		"background": "Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's \"perpetual neutrality\" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999."
+	},
+	"geography": {
+		"location": "Central Europe, north of Italy and Slovenia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 47,
+				"minutes": 20,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 13,
+				"minutes": 20,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 83871,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 82445,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1426,
+				"units": "sq km"
+			},
+			"global_rank": 115,
+			"comparative": "about the size of South Carolina; slightly more than two-thirds the size of Pennsylvania"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2524,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Czech Republic",
+					"border_length": {
+						"value": 402,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 801,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Hungary",
+					"border_length": {
+						"value": 321,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Italy",
+					"border_length": {
+						"value": 404,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Liechtenstein",
+					"border_length": {
+						"value": 34,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Slovakia",
+					"border_length": {
+						"value": 105,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Slovenia",
+					"border_length": {
+						"value": 299,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Switzerland",
+					"border_length": {
+						"value": 158,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers",
+		"terrain": "mostly mountains (Alps) in the west and south; mostly flat or gently sloping along the eastern and northern margins",
+		"elevation": {
+			"mean_elevation": {
+				"value": 910,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Neusiedler See",
+				"elevation": {
+					"value": 115,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Grossglockner",
+				"elevation": {
+					"value": 3798,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"oil",
+				"coal",
+				"lignite",
+				"timber",
+				"iron ore",
+				"copper",
+				"zinc",
+				"antimony",
+				"magnesite",
+				"tungsten",
+				"graphite",
+				"salt",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 38.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 16.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 21.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 47.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 14.4,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 1170,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas",
+		"natural_hazards": [
+			{
+				"description": "landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "avalanches",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"some forest degradation caused by air and soil pollution",
+				"soil pollution results from the use of agricultural chemicals",
+				"air pollution results from emissions by coal- and oil-fired power stations and industrial plants and from trucks transiting Austria between northern and southern Europe",
+				"water pollution",
+				"the Danube",
+				"as well as some of Austria’s other rivers and lakes",
+				"are threatened by pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulphur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 8859449,
+			"global_rank": 97,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Austrian(s)",
+			"adjective": "Austrian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Austrian",
+					"percent": 80.8
+				},
+				{
+					"name": "German",
+					"percent": 2.6
+				},
+				{
+					"name": "Bosnian and Herzegovinian",
+					"percent": 1.9
+				},
+				{
+					"name": "Turkish",
+					"percent": 1.8
+				},
+				{
+					"name": "Serbian",
+					"percent": 1.6
+				},
+				{
+					"name": "Romanian",
+					"percent": 1.3
+				},
+				{
+					"name": "other",
+					"percent": 10
+				}
+			],
+			"note": "data represent population by country of birth",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "German",
+					"percent": 88.6,
+					"note": "official nationwide"
+				},
+				{
+					"name": "Turkish",
+					"percent": 2.3
+				},
+				{
+					"name": "Serbian",
+					"percent": 2.2
+				},
+				{
+					"name": "Croatian",
+					"percent": 1.6,
+					"note": "official in Burgenland"
+				},
+				{
+					"name": "other",
+					"percent": 5.3,
+					"note": "includes Slovene, official in southern Carinthia, and Hungarian, official in Burgenland"
+				}
+			],
+			"date": "2001"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Catholic",
+					"percent": 57
+				},
+				{
+					"name": "Eastern Orthodox",
+					"percent": 8.7
+				},
+				{
+					"name": "Muslim",
+					"percent": 7.9
+				},
+				{
+					"name": "Evangelical Christian 3.3%"
+				},
+				{
+					"name": "other/none/unspecified",
+					"percent": 23.1
+				}
+			],
+			"note": "data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates",
+			"date": "2018"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.01,
+				"males": 635803,
+				"females": 605065
+			},
+			"15_to_24": {
+				"percent": 10.36,
+				"males": 466921,
+				"females": 451248
+			},
+			"25_to_54": {
+				"percent": 41.35,
+				"males": 1831704,
+				"females": 1831669
+			},
+			"55_to_64": {
+				"percent": 14.41,
+				"males": 635342,
+				"females": 641389
+			},
+			"65_and_over": {
+				"percent": 19.87,
+				"males": 768687,
+				"females": 991621
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 50.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 21.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 28.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 43.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 45.8,
+				"units": "years"
+			},
+			"global_rank": 14,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.35,
+			"global_rank": 167,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.5,
+			"global_rank": 195,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.8,
+			"global_rank": 39,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 3.6,
+			"global_rank": 33,
+			"date": "2020"
+		},
+		"population_distribution": "the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 58.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.59,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Vienna",
+					"population": 1930000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.78,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.3,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 5,
+			"global_rank": 163,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 204,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.7,
+				"units": "years"
+			},
+			"global_rank": 25,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.49,
+			"global_rank": 203,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 79,
+			"units": "%",
+			"note": "percent of women aged 16-49",
+			"date": "2019"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 5.17,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 7.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 118,
+				"date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 7400,
+				"global_rank": 113,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2017"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.1,
+			"global_rank": 105,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.5,
+			"global_rank": 38,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 9.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 9.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 9.4,
+				"units": "%"
+			},
+			"global_rank": 129,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Austria",
+			"conventional_short_form": "Austria",
+			"local_long_form": "Republik Oesterreich",
+			"local_short_form": "Oesterreich",
+			"etymology": "the name Oesterreich means \"eastern realm\" or \"eastern march\" and dates to the 10th century; the designation refers to the fact that Austria was the easternmost extension of Bavaria, and, in fact, of all the Germans; the word Austria is a Latinization of the German name"
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "Vienna",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 48,
+					"minutes": 12,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 16,
+					"minutes": 22,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the origin of the name is disputed but may derive from earlier settlements of the area; a Celtic town of Vedunia, established about 500 B.C., came under Roman dominance around 15 B.C. and became known as Vindobona; archeological remains of the latter survive at many sites in the center of Vienna"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "26 October",
+				"original_year": "1955",
+				"note": "commemorates passage of the law on permanent neutrality"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 1 October 1920, revised 1929, replaced May 1934, replaced by German Weimar constitution in 1938 following German annexation, reinstated 1 May 1945",
+			"amendments": "proposed through laws designated \"constitutional laws\" or through the constitutional process if the amendment is part of another law; approval required by at least a two-thirds majority vote by the National Assembly and the presence of one half of the members; a referendum is required only if requested by one third of the National Council or Federal Council membership; passage by referendum requires absolute majority vote; amended many times, last in 2018"
+		},
+		"legal_system": "civil law system; judicial review of legislative acts by the Constitutional Court",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Austria",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 16,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Alexander VAN DER BELLEN (since 26 January 2017)",
+			"head_of_government": "Sebastian KURZ elected chancellor (since 2 January 2020)",
+			"cabinet": "Council of Ministers chosen by the president on the advice of the chancellor",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in April 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor",
+			"election_results": "Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Federal Assembly or Bundesversammlung consists of: Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)\nNational Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)",
+			"elections": "Federal Council - last appointed - NA\nNational Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)",
+			"election_results": "Federal Council - percent of vote by party - NA; seats by party - NA; composition - men 44, women 17, percent of women 27.9%\nNational Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition - men 115, women 68, percent of women 37.2%; note - total Federal Assembly percent of women 34.8% (e.g. 2019)"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by executive branch departments and appointed by the president; judges serve for life; Constitutional Court judges nominated by several executive branch departments and approved by the president; judges serve for life; Administrative Court judges recommended by executive branch departments and appointed by the president; terms of judges and members determined by the president",
+			"subordinate_courts": "Courts of Appeal (4); Regional Courts (20); district courts (120); county courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Austrian People's Party",
+					"name_alternative": "OeVP",
+					"leaders": [
+						"Sebastian KURZ"
+					]
+				},
+				{
+					"name": "Communist Party of Austria",
+					"name_alternative": "KPOe",
+					"leaders": [
+						"Mirko MESSNER"
+					]
+				},
+				{
+					"name": "Freedom Party of Austria",
+					"name_alternative": "FPOe",
+					"leaders": [
+						"Heinz-Christian STRACHE"
+					]
+				},
+				{
+					"name": "The Greens",
+					"leaders": [
+						"Werner KOGLER"
+					]
+				},
+				{
+					"name": "NEOS - The New Austria",
+					"leaders": [
+						"Beate MEINL-REISINGER"
+					]
+				},
+				{
+					"name": "NOW-Pilz List",
+					"name_alternative": "PILZ",
+					"leaders": [
+						"Maria STERN"
+					],
+					"note": "JETZT-Liste Pilz"
+				},
+				{
+					"name": "Social Democratic Party of Austria",
+					"name_alternative": "SPOe",
+					"leaders": [
+						"Pamela RENDI-WAGNER"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-9"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Martin WEISS (since 6 January 2020)",
+				"chancery": "3524 International Court NW, Washington, DC 20008-3035",
+				"telephone": "[1] (202) 895-6700",
+				"fax": "[1] (202) 895-6750",
+				"consulates_general": "Los Angeles, New York",
+				"consulates": "Chicago"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Trevor TRAINA (since 24 May 2018)",
+				"telephone": "[43] (1) 31339-0",
+				"embassy": "Boltzmanngasse 16, A-1090, Vienna",
+				"mailing_address": "Boltzmanngasse 16, 1090 Vienna, Austria",
+				"fax": "[43] (1) 3100682"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "eagle"
+				},
+				{
+					"symbol": "edelweiss"
+				},
+				{
+					"symbol": "Alpine gentian"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Bundeshymne\" (Federal Hymn)",
+			"lyrics_music": "Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed)",
+			"note": "adopted 1947; the anthem is also known as \"Land der Berge, Land am Strome\" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AU.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.\nAustrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.\nAustria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.\nAustria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 441000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 428100000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 422000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 45,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 417400000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.42,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.58,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.4,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 156
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 50000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 49000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 48900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 31,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 52.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.6,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 54.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -50.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 70.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 27,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 26.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 25.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 43
+		},
+		"agriculture_products": {
+			"products": [
+				"grains",
+				"potatoes",
+				"wine",
+				"fruit",
+				"dairy products",
+				"cattle",
+				"pigs",
+				"poultry",
+				"lumber",
+				"forestry products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"construction",
+				"machinery",
+				"vehicles",
+				"parts",
+				"food",
+				"metals",
+				"chemicals",
+				"lumber",
+				"paper",
+				"electronics",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.5,
+			"global_rank": 35,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 3739000,
+				"global_rank": 94,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 25.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 74.1,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.35,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 7.7,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 116
+		},
+		"population_below_poverty_line": {
+			"value": 3,
+			"units": "%",
+			"date": "2017"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 23.5,
+				"units": "%"
+			},
+			"date": "2012"
+		},
+		"budget": {
+			"revenues": {
+				"value": 201700000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 204600000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 48.3,
+			"global_rank": 18,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.7,
+			"global_rank": 67,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 78.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 83.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 37,
+			"note": "this is general government gross debt, defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year; it covers the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; as a percentage of GDP, the GDP used as a denominator is the gross domestic product in current year prices"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 111
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 12667000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 5989000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 21
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 156700000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 149500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 32
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"motor vehicles",
+					"parts",
+					"manufactured goods",
+					"chemicals",
+					"iron",
+					"steel",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 29.4
+					},
+					{
+						"name": "US",
+						"percent": 6.3
+					},
+					{
+						"name": "Italy",
+						"percent": 6.2
+					},
+					{
+						"name": "Switzerland",
+						"percent": 5.1
+					},
+					{
+						"name": "France",
+						"percent": 4.8
+					},
+					{
+						"name": "Slovakia",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 158100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 142300000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 28
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"motor vehicles",
+					"chemicals",
+					"metal goods",
+					"oil",
+					"oil products",
+					"natural gas",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 41.8
+					},
+					{
+						"name": "Italy",
+						"percent": 5.8
+					},
+					{
+						"name": "Switzerland",
+						"percent": 5.5
+					},
+					{
+						"name": "Czech Republic",
+						"percent": 4.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 21570000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 23360000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 57
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 630800000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 679300000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 19
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 60780000000,
+				"global_rank": 48,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 64599999999.99999,
+				"global_rank": 41,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 19210000000,
+				"global_rank": 9,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 26370000000,
+				"global_rank": 6,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 24790000,
+				"global_rank": 36,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 25,
+					"global_rank": 188,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 41,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 43,
+					"global_rank": 45,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 31,
+					"global_rank": 17,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 13000,
+				"global_rank": 75,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 88,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 146600,
+				"global_rank": 37,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 41200000,
+				"global_rank": 78,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 186500,
+				"global_rank": 54,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 268000,
+				"global_rank": 47,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 49960,
+				"global_rank": 55,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 135500,
+				"global_rank": 42,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 1274000000,
+				"global_rank": 62,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 9486000000,
+				"global_rank": 50,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 5437000000,
+				"global_rank": 29,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 14020000000,
+				"global_rank": 22,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 6513000000,
+				"global_rank": 84,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 63930000,
+			"global_rank": 53,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3700006,
+				"subscriptions_per_one_hundred_inhabitants": 41.91,
+				"global_rank": 38,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 10574725,
+				"subscriptions_per_one_hundred_inhabitants": 119.78,
+				"global_rank": 85,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "worldwide cable and satellite TV are available; the public incumbent ORF competes with three other major, several regional domestic, and up to 400 international TV stations; TV coverage is in principle 100%, but only 90% use broadcast media; Internet streaming not only complements, but increasingly replaces regular TV stations (2019)",
+		"internet": {
+			"country_code": ".at",
+			"users": {
+				"total": 7712665,
+				"percent_of_population": 87.71,
+				"global_rank": 63,
+				"date": "2018-07-01"
+			}
+		},
+		"note": "note 1: the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world\nnote 2: on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide\nnote 3: Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries\nnote 4: Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)"
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 11,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 130,
+				"annual_passenger_traffic_on_registered_air_carriers": 12935505,
+				"annual_freight_traffic_on_registered_air_carriers": 373510000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OE",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 50,
+					"global_rank": 90,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 24,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 13,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 28,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 24,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1888,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 594,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 157,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 5800,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 5300,
+				"electrified": 3826,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 33,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 137039,
+				"units": "km"
+			},
+			"paved": {
+				"value": 137039,
+				"units": "km",
+				"note": "includes 2,232 km of expressways"
+			},
+			"global_rank": 39,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 358,
+			"units": "km",
+			"global_rank": 89,
+			"date": "2011"
+		},
+		"ports_and_terminals": {
+			"river_ports": [
+				"Enns",
+				"Krems",
+				"Linz",
+				"Vienna (Danube)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 132
+		},
+		"service_age_and_obligation": {
+			"note": "registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system",
+			"date": "2015"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 51955,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 37276,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 8664,
+						"country_of_origin": "Russia"
+					},
+					{
+						"people": 8568,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 7636,
+						"country_of_origin": "Somalia"
+					},
+					{
+						"people": 6393,
+						"country_of_origin": "Iran"
+					}
+				],
+				"date": "2018"
+			},
+			"stateless_persons": {
+				"people": 1132,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs"
+		}
+	}
+}

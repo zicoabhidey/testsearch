@@ -1,0 +1,449 @@
+{
+	"name": "Saint Barthelemy",
+	"introduction": {
+		"background": "Discovered in 1493 by Christopher COLUMBUS who named it for his brother Bartolomeo, Saint Barthelemy was first settled by the French in 1648. In 1784, the French sold the island to Sweden, which renamed the largest town Gustavia, after the Swedish King GUSTAV III, and made it a free port; the island prospered as a trade and supply center during the colonial wars of the 18th century. France repurchased the island in 1877 and took control the following year. It was placed under the administration of Guadeloupe. Saint Barthelemy retained its free port status along with various Swedish appellations such as Swedish street and town names, and the three-crown symbol on the coat of arms. In 2003, the islanders voted to secede from Guadeloupe, and in 2007, the island became a French overseas collectivity. In 2012, it became an overseas territory of the EU, allowing it to exert local control over the permanent and temporary immigration of foreign workers including non-French European citizens."
+	},
+	"geography": {
+		"location": "Caribbean, island between the Caribbean Sea and the North Atlantic Ocean; located in the Leeward Islands (northern) group; Saint Barthelemy lies east of the US Virgin Islands",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 17,
+				"minutes": 90,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 62,
+				"minutes": 85,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 25,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 25,
+				"units": "sq km"
+			},
+			"water": "negligible",
+			"global_rank": 239,
+			"comparative": "less than one-eighth the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"climate": "tropical, with practically no variation in temperature; has two seasons (dry and humid)",
+		"terrain": "hilly, almost completely surrounded by shallow-water reefs, with plentiful beaches",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Morne du Vitet",
+				"elevation": {
+					"value": 286,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"few natural resources",
+				"beaches foster tourism"
+			]
+		},
+		"population_distribution": "most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery",
+		"environment": {
+			"current_issues": [
+				"land-based pollution",
+				"urbanization",
+				"with no natural rivers or streams",
+				"fresh water is in short supply",
+				"especially in summer",
+				"and is provided by the desalination of sea water",
+				"the collection of rain water",
+				"or imported via water tanker",
+				"overfishing"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 7122,
+			"global_rank": 226,
+			"date": "2020-07-01"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "other white"
+				},
+				{
+					"name": "Creole",
+					"note": "mulatto"
+				},
+				{
+					"name": "black"
+				},
+				{
+					"name": "Guadeloupe Mestizo",
+					"note": "French-East Asia"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "primary"
+				},
+				{
+					"name": "English"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic"
+				},
+				{
+					"name": "Protestant"
+				},
+				{
+					"name": "Jehovah's Witnesses"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.16,
+				"males": 555,
+				"females": 525
+			},
+			"15_to_24": {
+				"percent": 7.34,
+				"males": 275,
+				"females": 248
+			},
+			"25_to_54": {
+				"percent": 41.86,
+				"males": 1618,
+				"females": 1363
+			},
+			"55_to_64": {
+				"percent": 16.29,
+				"males": 630,
+				"females": 530
+			},
+			"65_and_over": {
+				"percent": 19.35,
+				"males": 690,
+				"females": 688
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 45.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 45.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 45.8,
+				"units": "years"
+			},
+			"global_rank": 8,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.25,
+			"global_rank": 214,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.3,
+			"global_rank": 202,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.7,
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3,
+			"global_rank": 176,
+			"date": "2020"
+		},
+		"population_distribution": "most of the populace concentrated in and around the capital of Gustavia, but scattered settlements exist around the island periphery",
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.11,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.19,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.19,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.12,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 6.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 169,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 80.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 77,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.4,
+				"units": "years"
+			},
+			"global_rank": 46,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.64,
+			"global_rank": 181,
+			"date": "2020"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Overseas Collectivity of Saint Barthelemy",
+			"conventional_short_form": "Saint Barthelemy",
+			"local_long_form": "Collectivite d'outre mer de Saint-Barthelemy",
+			"local_short_form": "Saint-Barthelemy",
+			"abbreviation": "Saint-Barth (French); St. Barts or St. Barths (English)",
+			"etymology": "explorer Christopher COLUMBUS named the island in honor of his brother Bartolomeo's namesake saint in 1493"
+		},
+		"government_type": "parliamentary democracy (Territorial Council); overseas collectivity of France",
+		"capital": {
+			"name": "Gustavia",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 17,
+					"minutes": 53,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 62,
+					"minutes": 51,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named in honor of King Gustav III (1746-1792) of Sweden during whose reign the island was obtained from France in 1784; the name was retained when in 1878 the island was sold back to France"
+		},
+		"independence": {
+			"note": "overseas collectivity of France"
+		},
+		"national_holidays": [
+			{
+				"name": "Fete de la Federation",
+				"day": "14 July",
+				"original_year": "1572",
+				"note": "local holiday is St. Barthelemy Day, 24 August"
+			}
+		],
+		"constitution": {
+			"history": "4 October 1958 (French Constitution)",
+			"amendments": "amendment procedures of France's constitution apply"
+		},
+		"legal_system": "French civil law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Emmanuel MACRON (since 14 May 2017), represented by Prefect Anne LAUBIES (since 8 June 2015)",
+			"head_of_government": "President of Territorial Council Bruno MAGRAS (since 16 July 2007)",
+			"cabinet": "Executive Council elected by the Territorial Council; note - there is also an advisory, economic, social, and cultural council",
+			"elections_appointments": "French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by the French president on the advice of French Ministry of Interior; president of Territorial Council indirectly elected by its members for a 5-year term; election last held on 2 April 2017 (next to be held in 2022)",
+			"election_results": "Bruno MAGRAS (SBA) reelected president; Territorial Council vote - NA"
+		},
+		"legislative_branch": {
+			"description": "unicameral Territorial Council (19 seats; members elected by absolute majority vote in the first round vote and proportional representation vote in the second round; members serve 5-year terms); Saint Barthelemy indirectly elects 1 senator to the French Senate by an electoral college for a 6-year term and directly elects 1 deputy (shared with Saint Martin) to the French National Assembly",
+			"elections": "Territorial Council - last held on 19 March 2017 (next to be held in September 2022) French Senate - election last held 24 September 2017 (next to be held in September 2020) French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)",
+			"election_results": "Territorial Council - percent of vote by party - SBA 53.7%, United for Saint Barth 20.6%, Saint Barth Essential 18.1%, All for Saint Barth 7.7%; seats by party - SBA 14, United for Saint Barth 2, Saint Barth Essential 2, All for Saint Barth 1; composition - men 9, women 10, percent of women 52.6%; French Senate - percent of vote by party NA; seats by party UMP 1 French National Assembly - percent of vote by party NA; seats by party UMP 1"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "All for Saint Barth ",
+					"leaders": [
+						"Bettina COINTRE"
+					],
+					"note": "Tous pour Saint-Barth"
+				},
+				{
+					"name": "Saint Barth Essential ",
+					"leaders": [
+						"Marie-Helene BERNIER"
+					],
+					"note": "Saint-Barth Autrement"
+				},
+				{
+					"name": "Saint Barth First!",
+					"name_alternative": "SBA",
+					"leaders": [
+						"Bruno MAGRAS"
+					],
+					"note": "Saint-Barth d'Abord!"
+				},
+				{
+					"name": "Saint Barth United ",
+					"leaders": [
+						"Xavier LEDEE"
+					],
+					"note": "Unis pour Saint-Barthelemy"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "the flag of France is used"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "pelican"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"L'Hymne a St. Barthelemy\" (Hymn to St. Barthelemy)",
+			"lyrics_music": "Isabelle Massart DERAVIN/Michael VALENTI",
+			"note": "local anthem in use since 1999; as a collectivity of France, \"La Marseillaise\" is official (see France)"
+		}
+	},
+	"economy": {
+		"overview": "The economy of Saint Barthelemy is based upon high-end tourism and duty-free luxury commerce, serving visitors primarily from North America. The luxury hotels and villas host 70,000 visitors each year with another 130,000 arriving by boat. The relative isolation and high cost of living inhibits mass tourism. The construction and public sectors also enjoy significant investment in support of tourism. With limited fresh water resources, all food must be imported, as must all energy resources and most manufactured goods. The tourism sector creates a strong employment demand and attracts labor from Brazil and Portugal. The country’s currency is the euro.",
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2013,
+					"units": "USD"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				}
+			]
+		}
+	},
+	"communications": {
+		"broadcast_media": "no local TV broadcasters; 3 FM radio channels (2019)",
+		"internet": {
+			"country_code": ".bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 234,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 40,
+				"units": "km"
+			},
+			"global_rank": 217
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Gustavia"
+			]
+		},
+		"note": "nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten"
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France"
+	}
+}

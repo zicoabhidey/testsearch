@@ -1,0 +1,1771 @@
+{
+	"name": "Madagascar",
+	"introduction": {
+		"background": "Madagascar was one of the last major habitable landmasses on earth settled by humans. While there is some evidence of human presence on the island in the millennia B.C., large-scale settlement began between A.D. 350 and 550 with settlers from present-day Indonesia. The island attracted Arab and Persian traders as early as the 7th century, and migrants from Africa arrived around A.D. 1000. Madagascar was a pirate stronghold during the late 17th and early 18th centuries, and served as a slave trading center into the 19th century. From the 16th to the late 19th century, a native Merina Kingdom dominated much of Madagascar. The island was conquered by the French in 1896 who made it a colony; independence was regained in 1960.\nDuring 1992-93, free presidential and National Assembly elections were held ending 17 years of single-party rule. In 1997, in the second presidential race, Didier RATSIRAKA, the leader during the 1970s and 1980s, returned to the presidency. The 2001 presidential election was contested between the followers of Didier RATSIRAKA and Marc RAVALOMANANA, nearly causing secession of half of the country. In 2002, the High Constitutional Court announced RAVALOMANANA the winner. RAVALOMANANA won a second term in 2006 but, following protests in 2009, handed over power to the military, which then conferred the presidency on the mayor of Antananarivo, Andry RAJOELINA, in what amounted to a coup d'etat. Following a lengthy mediation process led by the Southern African Development Community, Madagascar held UN-supported presidential and parliamentary elections in 2013. Former de facto finance minister Hery RAJAONARIMAMPIANINA won a runoff election in December 2013 and was inaugurated in January 2014. In January 2019, RAJOELINA was declared the winner of a runoff election against RAVALOMANANA; both RATSIRAKA and RAJAONARIMAMPIANINA also ran in the first round of the election, which took place in November 2018."
+	},
+	"geography": {
+		"location": "Southern Africa, island in the Indian Ocean, east of Mozambique",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 20,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 47,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 587041,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 581540,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 5501,
+				"units": "sq km"
+			},
+			"global_rank": 48,
+			"comparative": "almost four times the size of Georgia; slightly less than twice the size of Arizona"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 4828,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or 100 nm from the 2,500 m isobath"
+			}
+		},
+		"climate": "tropical along coast, temperate inland, arid in south",
+		"terrain": "narrow coastal plain, high plateau and mountains in center",
+		"elevation": {
+			"mean_elevation": {
+				"value": 615,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Maromokotro",
+				"elevation": {
+					"value": 2876,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"graphite",
+				"chromite",
+				"coal",
+				"bauxite",
+				"rare earth elements",
+				"salt",
+				"quartz",
+				"tar sands",
+				"semiprecious stones",
+				"mica",
+				"fish",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 71.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 64.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 21.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 7.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 10860,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "periodic cyclones",
+				"type": "hazard"
+			},
+			{
+				"description": "drought",
+				"type": "hazard"
+			},
+			{
+				"description": "and locust infestation",
+				"type": "hazard"
+			},
+			{
+				"description": "Madagascar's volcanoes have not erupted in historical times",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"erosion and soil degredation results from deforestation and overgrazing",
+				"desertification",
+				"agricultural fires",
+				"surface water contaminated with raw sewage and other organic wastes",
+				"wildlife preservation (endangered species of flora and fauna unique to the island)"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 26955737,
+			"global_rank": 53,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Malagasy (singular and plural)",
+			"adjective": "Malagasy"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Malayo-Indonesian",
+					"note": "Merina and related Betsileo"
+				},
+				{
+					"name": "Cotiers",
+					"note": "mixed African, Malayo-Indonesian, and Arab ancestry - Betsimisaraka, Tsimihety, Antaisaka, Sakalava"
+				},
+				{
+					"name": "French"
+				},
+				{
+					"name": "Indian"
+				},
+				{
+					"name": "Creole"
+				},
+				{
+					"name": "Comoran"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "Malagasy",
+					"note": "official"
+				},
+				{
+					"name": "English"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian"
+				},
+				{
+					"name": "indigenous"
+				},
+				{
+					"name": "Muslim"
+				}
+			]
+		},
+		"demographic_profile": "Madagascar’s youthful population – just over 60% are under the age of 25 – and high total fertility rate of more than 4 children per women ensures that the Malagasy population will continue its rapid growth trajectory for the foreseeable future. The population is predominantly rural and poor; chronic malnutrition is prevalent, and large families are the norm. Many young Malagasy girls are withdrawn from school, marry early (often pressured to do so by their parents), and soon begin having children. Early childbearing, coupled with Madagascar’s widespread poverty and lack of access to skilled health care providers during delivery, increases the risk of death and serious health problems for young mothers and their babies.\nChild marriage perpetuates gender inequality and is prevalent among the poor, the uneducated, and rural households – as of 2013, of Malagasy women aged 20 to 24, more than 40% were married and more than a third had given birth by the age of 18. Although the legal age for marriage is 18, parental consent is often given for earlier marriages or the law is flouted, especially in rural areas that make up nearly 65% of the country. Forms of arranged marriage whereby young girls are married to older men in exchange for oxen or money are traditional. If a union does not work out, a girl can be placed in another marriage, but the dowry paid to her family diminishes with each unsuccessful marriage.\nMadagascar’s population consists of 18 main ethnic groups, all of whom speak the same Malagasy language. Most Malagasy are multi-ethnic, however, reflecting the island’s diversity of settlers and historical contacts (see Background). Madagascar’s legacy of hierarchical societies practicing domestic slavery (most notably the Merina Kingdom of the 16th to the 19th century) is evident today in persistent class tension, with some ethnic groups maintaining a caste system. Slave descendants are vulnerable to unequal access to education and jobs, despite Madagascar’s constitutional guarantee of free compulsory primary education and its being party to several international conventions on human rights. Historical distinctions also remain between central highlanders and coastal people.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 38.86,
+				"males": 5278838,
+				"females": 5196036
+			},
+			"15_to_24": {
+				"percent": 20.06,
+				"males": 2717399,
+				"females": 2689874
+			},
+			"25_to_54": {
+				"percent": 33.02,
+				"males": 4443147,
+				"females": 4456691
+			},
+			"55_to_64": {
+				"percent": 4.6,
+				"males": 611364,
+				"females": 627315
+			},
+			"65_and_over": {
+				"percent": 3.47,
+				"males": 425122,
+				"females": 509951
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 75.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 70.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 18.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 20.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 20.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.5,
+				"units": "years"
+			},
+			"global_rank": 194,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.39,
+			"global_rank": 27,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 29.9,
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.2,
+			"global_rank": 155,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 88,
+			"date": "2020"
+		},
+		"population_distribution": "most of population lives on the eastern half of the island; significant clustering is found in the central highlands and eastern coastline as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 38.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.48,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Antananarivo",
+					"population": 3369000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.83,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 19.5,
+			"date": "2008"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 335,
+			"global_rank": 33,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 37.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 41.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 34.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 42,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 67.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 65.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 68.9,
+				"units": "years"
+			},
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.78,
+			"global_rank": 34,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 44.3,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.18,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.2,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 87.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 36.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 55.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 12.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 63.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 44.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 42.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 16.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 26.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 57.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 83.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 73.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 104,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 39000,
+				"global_rank": 68,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1400,
+				"global_rank": 52,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 5.3,
+			"global_rank": 180,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 26.4,
+			"global_rank": 12,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.8,
+			"global_rank": 147,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 74.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 77.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 72.4,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 10,
+				"units": "years"
+			},
+			"male": {
+				"value": 10,
+				"units": "years"
+			},
+			"female": {
+				"value": 10,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 1,
+				"units": "%"
+			},
+			"male": {
+				"value": 1,
+				"units": "%"
+			},
+			"female": {
+				"value": 1,
+				"units": "%"
+			},
+			"global_rank": 179,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Madagascar",
+			"conventional_short_form": "Madagascar",
+			"local_long_form": "Republique de Madagascar/Repoblikan'i Madagasikara",
+			"local_short_form": "Madagascar/Madagasikara",
+			"former": "Malagasy Republic",
+			"etymology": "the name \"Madageiscar\" was first used by the 13th-century Venetian explorer Marco POLO, as a corrupted transliteration of Mogadishu, the Somali port with which POLO confused the island"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Antananarivo",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 55,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 47,
+					"minutes": 31,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name, which means \"City of the Thousand,\" was bestowed by 17th century King Adrianjakaking to honor the soldiers assigned to guard the city"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Antananarivo",
+				"type": ""
+			},
+			{
+				"name": "Antsiranana",
+				"type": ""
+			},
+			{
+				"name": "Fianarantsoa",
+				"type": ""
+			},
+			{
+				"name": "Mahajanga",
+				"type": ""
+			},
+			{
+				"name": "Toamasina",
+				"type": ""
+			},
+			{
+				"name": "Toliara",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1960-06-26",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "26 June",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "previous 1992; latest passed by referendum 17 November 2010, promulgated 11 December 2010",
+			"amendments": "proposed by the president of the republic in consultation with the cabinet or supported by a least two thirds of both the Senate and National Assembly membership; passage requires at least three-fourths approval of both the Senate and National Assembly and approval in a referendum; constitutional articles, including the form and powers of government, the sovereignty of the state, and the autonomy of Madagascar’s collectivities, cannot be amended"
+		},
+		"legal_system": "civil law system based on the old French civil code and customary law in matters of marriage, family, and obligation",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Madagascar; in the case of a child born out of wedlock, the mother must be a citizen",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "unknown"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Andry RAJOELINA (since 21 January 2019) (2019)",
+			"head_of_government": "Prime Minister Christian NTSAY (since 6 June 2018 and re-appointed 19 July 2019)",
+			"cabinet": "Council of Ministers appointed by the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 November and 19 December 2018 (next to be held in 2023); prime minister nominated by the National Assembly, appointed by the president",
+			"election_results": "Andry RAJOELINA elected President in second round; percent of vote - Andry RAJOELINA (TGV) 55.7%, Marc RAVALOMANANA 44.3% (TIM)"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate or Antenimieran-Doholona (reestablished on 22 January 2016, following the December 2015 senatorial election) (63 seats; 42 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 21 appointed by the president of the republic; members serve 5-year terms)\nNational Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)",
+			"elections": "Senate - last held 29 December 2015 (next to be held in 2021)\nNational Assembly - last held on 27 May 2019 (next to be held in 2024)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - HVM 34, TIM 3, MAPAR 2, LEADER-Fanilo 1, independent 2, appointed by the president 21; composition - men 51, women 12, percent of women 19%\nNational Assembly - percent of vote by party -Independent Pro-HVM 18%, MAPAR 17%, MAPAR pro-HVM 16%, VPM-MMM 10%, VERTS 3%, LEADER FANILO 3%, HIARAKA ISIKA 3%, GPS/ARD 7%,  INDEPENDENT 9%, TAMBATRA 1%, TIM 13%;  composition - men 120, women 31, percent of women 20.5%; note - total National Assembly percent of women 20.1%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); note - the judiciary includes a High Court of Justice responsible for adjudicating crimes and misdemeanors by government officials, including the president",
+			"judge_selection_and_term_of_office": "Supreme Court heads elected by the president and judiciary officials to serve 3-year, single renewable terms; High Constitutional Court members appointed - 3 each by the president, by both legislative bodies, and by the Council of Magistrates; members serve single, 7-year terms",
+			"subordinate_courts": "Courts of Appeal; Courts of First Instance"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Economic liberalism and democratic action for national recovery",
+					"name_alternative": "LEADER FANILO",
+					"leaders": [
+						"Jean Max RAKOTOMAMONJY"
+					]
+				},
+				{
+					"name": "FOMBA",
+					"leaders": [
+						"Ny Rado RAFALIMANANA"
+					]
+				},
+				{
+					"name": "Gideons fighting against poverty in Madagascar",
+					"name_alternative": "GFFM",
+					"leaders": [
+						"Andre Christian Dieu Donne MAILHOL"
+					],
+					"note": "Gedeona Miady amin'ny Fahantrana eto Madagascar"
+				},
+				{
+					"name": "Green party",
+					"name_alternative": "VERTS",
+					"leaders": [
+						"Alexandre GEORGET"
+					],
+					"note": "Antoko Maintso"
+				},
+				{
+					"name": "I Love Madagascar",
+					"name_alternative": "TIM",
+					"leaders": [
+						"Marc RAVALOMANANA"
+					],
+					"note": "Tiako I Madagasikara"
+				},
+				{
+					"name": "Malagasy aware",
+					"name_alternative": "MTS",
+					"leaders": [
+						"Roland RATSIRAKA"
+					],
+					"note": "Malagasy Tonga Saina"
+				},
+				{
+					"name": "Malagasy raising together",
+					"name_alternative": "MMM",
+					"leaders": [
+						"Hajo ANDRIANAINARIVELO"
+					],
+					"note": "Malagasy Miara-Miainga"
+				},
+				{
+					"name": "New Force for Madagascar",
+					"name_alternative": "HVM",
+					"leaders": [
+						"Hery Martial RAJAONARIMAMPIANINA Rakotoarimanana"
+					],
+					"note": "Hery Vaovao ho an'ny Madagasikara"
+				},
+				{
+					"name": "Total Refoundation of Madagascar",
+					"name_alternative": "RTM",
+					"leaders": [
+						"Joseph Martin RANDRIAMAMPIONONA"
+					],
+					"note": "Refondation Totale de Madagascar"
+				},
+				{
+					"name": "Vanguard for the renovation of Madagascar",
+					"name_alternative": "AREMA",
+					"leaders": [
+						"Didier RATSIRAKA"
+					],
+					"note": "Avant-Garde pour la renovation de Madagascar"
+				},
+				{
+					"name": "Young Malagasies Determined",
+					"name_alternative": "TGVand MAPAR [Andry RAJOELINA], and IRD  [Andry RAJOELINA]",
+					"leaders": [
+						"Andry RAJOELINA"
+					],
+					"note": "Malagasy: Tanora malaGasy Vonona; We are all with Andy Rajoelina"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "InOC"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SADC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Eric ANDRIAMIHAJA Robson (since March 2018)",
+				"chancery": "2374 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 265-5525",
+				"fax": "[1] (202) 265-3034",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Michael PELLETIER (since 14 February 2019)",
+				"telephone": "[261] 20 23 480 00",
+				"embassy": "Lot 207A, Point Liberty, Andranoro, Antehiroka, 105 Antananarivo",
+				"mailing_address": "B.P. 620, Antsahavola, Antananarivo",
+				"fax": "[261] 20 23 480 35 or [261] 33 44 328 17"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "traveller's palm"
+				},
+				{
+					"symbol": "zebu"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ry Tanindraza nay malala o\" (Oh, Our Beloved Fatherland)",
+			"lyrics_music": "Pasteur RAHAJASON/Norbert RAHARISOA",
+			"note": "adopted 1959",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MA.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.\nAfter discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.\nMadagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 39850000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 38250000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 36720000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 120,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 11500000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 69
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 218,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 67.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 15.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 8.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 31.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -33.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 24,
+							"units": "%"
+						},
+						"industry": {
+							"value": 19.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 56.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 14.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 11.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 138
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"vanilla",
+				"sugarcane",
+				"cloves",
+				"cocoa",
+				"rice",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"beans",
+				"bananas",
+				"peanuts",
+				"livestock products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"meat processing",
+				"seafood",
+				"soap",
+				"beer",
+				"leather",
+				"sugar",
+				"textiles",
+				"glassware",
+				"cement",
+				"automobile assembly plant",
+				"paper",
+				"petroleum",
+				"tourism",
+				"mining"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.2,
+			"global_rank": 54,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 13400000,
+				"global_rank": 40,
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 18
+		},
+		"population_below_poverty_line": {
+			"value": 70.7,
+			"units": "%",
+			"date": "2012"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 34.7,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1828000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2136000000.0000002,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 15.9,
+			"global_rank": 185,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.7,
+			"global_rank": 123,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 36,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 38.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 148
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 8.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 199
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -35000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 57000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 77
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2290000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2260000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 136
+			},
+			"commodities": {
+				"by_commodity": [
+					"coffee",
+					"vanilla",
+					"shellfish",
+					"sugar",
+					"cotton cloth",
+					"clothing",
+					"chromite",
+					"petroleum products",
+					"gems",
+					"ilmenite",
+					"cobalt",
+					"nickel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "France",
+						"percent": 24.8
+					},
+					{
+						"name": "US",
+						"percent": 16.5
+					},
+					{
+						"name": "China",
+						"percent": 6.7
+					},
+					{
+						"name": "Germany",
+						"percent": 6.5
+					},
+					{
+						"name": "Japan",
+						"percent": 6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2738000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2427000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 152
+			},
+			"commodities": {
+				"by_commodity": [
+					"capital goods",
+					"petroleum",
+					"consumer goods",
+					"food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 18.7
+					},
+					{
+						"name": "India",
+						"percent": 9.3
+					},
+					{
+						"name": "France",
+						"percent": 6.4
+					},
+					{
+						"name": "South Africa",
+						"percent": 5.6
+					},
+					{
+						"name": "UAE",
+						"percent": 5.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1600000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1076000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 124
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 4089000000.0000005,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3425000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 139
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3116.1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3176.5,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3176.5,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2933.5,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2414.8,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Malagasy ariary (MGA) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 17000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 39,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 64,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 23,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 1706000000,
+				"global_rank": 142,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1587000000,
+				"global_rank": 147,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 163,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 169,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 675400,
+				"global_rank": 136,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 74,
+					"global_rank": 97,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 134,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 24,
+					"global_rank": 80,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 141,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 167,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 158,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 158,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 162,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 170,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 18000,
+				"global_rank": 147,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 175,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 18880,
+				"global_rank": 125,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 163,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 169,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 144,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 151,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 164,
+				"date": "2012-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 4021000,
+			"global_rank": 138,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 68426,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 150,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 10677153,
+				"subscriptions_per_one_hundred_inhabitants": 40.57,
+				"global_rank": 83,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2019)",
+		"internet": {
+			"country_code": ".mg",
+			"users": {
+				"total": 2516994,
+				"percent_of_population": 9.8,
+				"global_rank": 109,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 18,
+				"annual_passenger_traffic_on_registered_air_carriers": 541290,
+				"annual_freight_traffic_on_registered_air_carriers": 16250000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5R",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 83,
+					"global_rank": 66,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 26,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 6,
+					"914_to_1523_metres": 16,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 57,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 38,
+					"under_914_metres": 18,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 836,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 836,
+				"units": "km\n1.000-m"
+			},
+			"global_rank": 96,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 31640,
+				"units": "km"
+			},
+			"global_rank": 96,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 600,
+			"units": "km",
+			"note": "432 km navigable",
+			"global_rank": 79,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 28,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 15
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 11
+				}
+			],
+			"global_rank": 136,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Antsiranana (Diego Suarez)",
+				"Mahajanga",
+				"Toamasina",
+				"Toliara (Tulear)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 143
+		},
+		"service_age_and_obligation": {
+			"note": "Madagascar has an all-volunteer military; 18-25 years of age for males; service obligation 18 months; women are permitted to serve in all branches",
+			"date": "2018"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France)",
+			"the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands, part of the French Southern and Antarctic Lands)"
+		],
+		"illicit_drugs": {
+			"note": "illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for heroin"
+		}
+	}
+}

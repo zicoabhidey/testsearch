@@ -1,0 +1,2064 @@
+{
+	"name": "Indonesia",
+	"introduction": {
+		"background": "The archipelago gradually adopted Islam between the 13th and 16th centuries. The Dutch began to colonize Indonesia in the early 17th century; Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted \"Guided Democracy.\" After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his \"New Order\" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999. Indonesia is now the world's third most populous democracy, the world's largest archipelagic state, and the world's largest Muslim-majority nation. Current issues include: alleviating poverty, improving education, preventing terrorism, consolidating democracy after four decades of authoritarianism, implementing economic and financial reforms, stemming corruption, reforming the criminal justice system, addressing climate change, and controlling infectious diseases, particularly those of global and regional importance. In 2005, Indonesia reached a historic peace agreement with armed separatists in Aceh, which led to democratic elections in Aceh in December 2006. Indonesia continues to face low intensity armed resistance in Papua by the separatist Free Papua Movement."
+	},
+	"geography": {
+		"location": "Southeastern Asia, archipelago between the Indian Ocean and the Pacific Ocean",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 5,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 120,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 1904569,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1811569,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 93000,
+				"units": "sq km"
+			},
+			"global_rank": 16,
+			"comparative": "slightly less than three times the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2958,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Malaysia",
+					"border_length": {
+						"value": 1881,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Papua New Guinea",
+					"border_length": {
+						"value": 824,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Timor-Leste",
+					"border_length": {
+						"value": 253,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 54716,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "measured from claimed archipelagic straight baselines"
+			}
+		},
+		"climate": "tropical; hot, humid; more moderate in highlands",
+		"terrain": "mostly coastal lowlands; larger islands have interior mountains",
+		"elevation": {
+			"mean_elevation": {
+				"value": 367,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Puncak Jaya",
+				"elevation": {
+					"value": 4884,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"tin",
+				"natural gas",
+				"nickel",
+				"timber",
+				"bauxite",
+				"copper",
+				"fertile soils",
+				"coal",
+				"gold",
+				"silver"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 31.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 13,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 12.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 6.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 51.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 17.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 67220,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated",
+		"natural_hazards": [
+			{
+				"description": "occasional floods",
+				"type": "hazard"
+			},
+			{
+				"description": "severe droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "tsunamis",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanoes",
+				"type": "hazard"
+			},
+			{
+				"description": "forest fires",
+				"type": "hazard"
+			},
+			{
+				"description": "Indonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, and Tambora; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"large-scale deforestation (much of it illegal) and related wildfires cause heavy smog",
+				"over-exploitation of marine resources",
+				"environmental problems associated with rapid urbanization and economic development",
+				"including air pollution",
+				"traffic congestion",
+				"garbage management",
+				"and reliable water and waste water services",
+				"water pollution from industrial wastes",
+				"sewage"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 267026366,
+			"global_rank": 4,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Indonesian(s)",
+			"adjective": "Indonesian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Javanese",
+					"percent": 40.1
+				},
+				{
+					"name": "Sundanese",
+					"percent": 15.5
+				},
+				{
+					"name": "Malay",
+					"percent": 3.7
+				},
+				{
+					"name": "Batak",
+					"percent": 3.6
+				},
+				{
+					"name": "Madurese",
+					"percent": 3
+				},
+				{
+					"name": "Betawi",
+					"percent": 2.9
+				},
+				{
+					"name": "Minangkabau",
+					"percent": 2.7
+				},
+				{
+					"name": "Buginese",
+					"percent": 2.7
+				},
+				{
+					"name": "Bantenese",
+					"percent": 2
+				},
+				{
+					"name": "Banjarese",
+					"percent": 1.7
+				},
+				{
+					"name": "Balinese",
+					"percent": 1.7
+				},
+				{
+					"name": "Acehnese",
+					"percent": 1.4
+				},
+				{
+					"name": "Dayak",
+					"percent": 1.4
+				},
+				{
+					"name": "Sasak",
+					"percent": 1.3
+				},
+				{
+					"name": "Chinese",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 15
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Bahasa Indonesia",
+					"note": "official, modified form of Malay"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Dutch"
+				},
+				{
+					"name": "local dialects",
+					"note": "of which the most widely spoken is Javanese"
+				}
+			],
+			"note": "more than 700 languages are used in Indonesia"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 87.2
+				},
+				{
+					"name": "Protestant",
+					"percent": 7
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 2.9
+				},
+				{
+					"name": "Hindu",
+					"percent": 1.7
+				},
+				{
+					"name": "other",
+					"percent": 0.9,
+					"note": "includes Buddhist and Confucian"
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.4
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 23.87,
+				"males": 32473246,
+				"females": 31264034
+			},
+			"15_to_24": {
+				"percent": 16.76,
+				"males": 22786920,
+				"females": 21960130
+			},
+			"25_to_54": {
+				"percent": 42.56,
+				"males": 58249570,
+				"females": 55409579
+			},
+			"55_to_64": {
+				"percent": 8.99,
+				"males": 11033838,
+				"females": 12968005
+			},
+			"65_and_over": {
+				"percent": 7.82,
+				"males": 9099773,
+				"females": 11781271
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 47.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 38.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 9.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 10.8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 31.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 30.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 31.8,
+				"units": "years"
+			},
+			"global_rank": 117,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.79,
+			"global_rank": 129,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 15.4,
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.6,
+			"global_rank": 140,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.1,
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"population_distribution": "major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 56.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.27,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Jakarta",
+					"population": 10770000,
+					"is_capital": true
+				},
+				{
+					"place": "Bekasi",
+					"population": 3394000
+				},
+				{
+					"place": "Surabaya",
+					"population": 2944000
+				},
+				{
+					"place": "Bandung",
+					"population": 2580000
+				},
+				{
+					"place": "Tangerang",
+					"population": 2339000
+				},
+				{
+					"place": "Medan",
+					"population": 2338000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.8,
+			"date": "2012"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 177,
+			"global_rank": 52,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 20.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 24,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 16.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.5,
+				"units": "years"
+			},
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.04,
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 55.5,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.38,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 96.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 83.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 90.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 16.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 9.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 92.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 76.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 85.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 23.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 14.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 78,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 640000,
+				"global_rank": 14,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 38000,
+				"global_rank": 5,
+				"date": "2018"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.9,
+			"global_rank": 162,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 17.7,
+			"global_rank": 31,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.6,
+			"global_rank": 120,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 95.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 97.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 94,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 16.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 16.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.5,
+				"units": "%"
+			},
+			"global_rank": 82,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Indonesia",
+			"conventional_short_form": "Indonesia",
+			"local_long_form": "Republik Indonesia",
+			"local_short_form": "Indonesia",
+			"former": "Netherlands East Indies, Dutch East Indies",
+			"etymology": "the name is an 18th-century construct of two Greek words, \"Indos\" (India) and \"nesoi\" (islands), meaning \"Indian islands\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Jakarta",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 6,
+					"minutes": 10,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 106,
+					"minutes": 49,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 7,
+				"note": "12 hours ahead of Washington, DC, during Standard Time"
+			},
+			"note": "Indonesia has three time zones",
+			"etymology": "\"Jakarta\" derives from the Sanscrit \"Jayakarta\" meaning \"victorious city\" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named \"Sunda Kelapa\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "provinsi)",
+				"type": ""
+			},
+			{
+				"name": "1 autonomous province",
+				"type": ""
+			},
+			{
+				"name": "1 special region",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1945-08-17",
+			"note": "declared independence from the Netherlands"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "17 August",
+				"original_year": "1945"
+			}
+		],
+		"constitution": {
+			"history": "drafted July to August 1945, effective 18 August 1945, abrogated by 1949 and 1950 constitutions; 1945 constitution restored 5 July 1959",
+			"amendments": "proposed by the People’s Consultative Assembly, with at least two thirds of its members present; passage requires simple majority vote by the Assembly membership; constitutional articles on the unitary form of the state cannot be amended; amended several times, last in 2002"
+		},
+		"legal_system": "civil law system based on the Roman-Dutch model and influenced by customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Indonesia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 continuous years"
+		},
+		"suffrage": {
+			"age": 17,
+			"universal": true,
+			"compulsory": false,
+			"note": "17 years of age; universal and married persons regardless of age"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government (2019)",
+			"head_of_government": "President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019) (2019)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on 17 April 2019 (next election 2024)",
+			"election_results": "Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%"
+		},
+		"legislative_branch": {
+			"description": "bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of: Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority\nHouse of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)",
+			"elections": "Regional Representative Council - last held 17 April 2019 (next to be held 2024)\nHouse of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)",
+			"election_results": "Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA\nHouse of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by Judicial Commission, appointed by president with concurrence of parliament; judges serve until retirement at age 65; Constitutional Court judges - 3 nominated by president, 3 by Supreme Court, and 3 by parliament; judges appointed by the president; judges serve until mandatory retirement at age 70",
+			"subordinate_courts": "High Courts of Appeal, district courts, religious courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democrat Party",
+					"name_alternative": "PD",
+					"leaders": [
+						"Susilo Bambang YUDHOYONO"
+					]
+				},
+				{
+					"name": "Functional Groups Party",
+					"name_alternative": "GOLKAR",
+					"leaders": [
+						"Airlangga HARTARTO"
+					]
+				},
+				{
+					"name": "Great Indonesia Movement Party",
+					"name_alternative": "GERINDRA",
+					"leaders": [
+						"PRABOWO Subianto Djojohadikusumo"
+					]
+				},
+				{
+					"name": "Indonesia Democratic Party-Struggle or PDI-P",
+					"leaders": [
+						"MEGAWATI Sukarnoputri"
+					]
+				},
+				{
+					"name": "National Awakening Party or PKB",
+					"leaders": [
+						"Muhaiman ISKANDAR"
+					]
+				},
+				{
+					"name": "National Democratic Party or NasDem",
+					"leaders": [
+						"Surya PALOH"
+					]
+				},
+				{
+					"name": "National Mandate Party",
+					"name_alternative": "PAN",
+					"leaders": [
+						"Zulkifli HASAN"
+					]
+				},
+				{
+					"name": "Party of the Functional Groups",
+					"name_alternative": "Golkar",
+					"leaders": [
+						"Airlangga HARTARTO"
+					]
+				},
+				{
+					"name": "People's Conscience Party or HANURA",
+					"leaders": [
+						"Oesman Sapta ODANG"
+					]
+				},
+				{
+					"name": "Prosperous Justice Party",
+					"name_alternative": "PKS",
+					"leaders": [
+						"Muhammad Sohibul IMAN"
+					]
+				},
+				{
+					"name": "United Development Party",
+					"name_alternative": "PPP",
+					"leaders": [
+						"Muhammad ROMAHURMUZIY"
+					],
+					"note": "2019"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "D-8"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-11"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "IORA"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "MSG ",
+				"note": "associate member"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OECD ",
+				"note": "enhanced engagement"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Muhammad LUTFI (since 17 September 2020)",
+				"chancery": "2020 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 775-5200",
+				"fax": "[1] (202) 775-5365",
+				"consulates_general": "Chicago, Houston, Los Angeles, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Charge d'Affaires Heather VARIAVA (14 February 2020)",
+				"telephone": "[62] (21) 3435-9000 (2020)",
+				"embassy": "Jalan Medan Merdeka Selatan 3-5, Jakarta 10110",
+				"mailing_address": "Unit 8129, Box 1, FPO AP 96520",
+				"fax": "[62] (21) 2395-1697 (2018)",
+				"consulates_general": "Surabaya",
+				"consulates": "Medan"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, white represents purity",
+			"note": "similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "garuda ",
+					"note": "mythical bird"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Indonesia Raya\" (Great Indonesia)",
+			"lyrics_music": "Wage Rudolf SOEPRATMAN",
+			"note": "adopted 1945",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/ID.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard & Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.\nPoverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3250000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3093000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2945000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 7,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1014999999999.9999,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.03,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 5.17,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 5.07,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 45
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 12000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 11500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 127,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 57.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 9.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 32.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 20.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -19.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 13.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 41,
+							"units": "%"
+						},
+						"services": {
+							"value": 45.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 31.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 32,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 32,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 27
+		},
+		"agriculture_products": {
+			"products": [
+				"rubber",
+				"palm oil",
+				"poultry",
+				"beef",
+				"forest products",
+				"shrimp",
+				"cocoa",
+				"coffee",
+				"medicinal herbs",
+				"essential oil",
+				"fish",
+				"spices"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"natural gas",
+				"textiles",
+				"automotive",
+				"electrical appliances",
+				"apparel",
+				"footwear",
+				"mining",
+				"cement",
+				"medical instruments",
+				"appliances",
+				"handicrafts",
+				"chemical fertilizers",
+				"plywood",
+				"rubber",
+				"processed food",
+				"jewelry",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.1,
+			"global_rank": 73,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 129366000.00000001,
+				"global_rank": 3,
+				"date": "2019"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 32,
+						"units": "%"
+					},
+					"industry": {
+						"value": 21,
+						"units": "%"
+					},
+					"services": {
+						"value": 47,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.31,
+					"units": "%",
+					"date": "2018"
+				},
+				{
+					"value": 5.4,
+					"units": "%",
+					"date": "2017"
+				}
+			],
+			"global_rank": 84
+		},
+		"population_below_poverty_line": {
+			"value": 10.9,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 28.2,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 131699999999.99998,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 159600000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 13,
+			"global_rank": 208,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.7,
+			"global_rank": 121,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 28.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 166
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 150
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -30359000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -30633000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 200
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 168900000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 144400000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 29
+			},
+			"commodities": {
+				"by_commodity": [
+					"mineral fuels",
+					"animal or vegetable fats (includes palm oil)",
+					"electrical machinery",
+					"rubber",
+					"machinery",
+					"mechanical appliance parts"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 13.6
+					},
+					{
+						"name": "US",
+						"percent": 10.6
+					},
+					{
+						"name": "Japan",
+						"percent": 10.5
+					},
+					{
+						"name": "India",
+						"percent": 8.4
+					},
+					{
+						"name": "Singapore",
+						"percent": 7.6
+					},
+					{
+						"name": "Malaysia",
+						"percent": 5.1
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 150100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 129199999999.99998,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 31
+			},
+			"commodities": {
+				"by_commodity": [
+					"mineral fuels",
+					"boilers",
+					"machinery",
+					"mechanical parts",
+					"electric machinery",
+					"iron",
+					"steel",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 23.2
+					},
+					{
+						"name": "Singapore",
+						"percent": 10.9
+					},
+					{
+						"name": "Japan",
+						"percent": 10
+					},
+					{
+						"name": "Thailand",
+						"percent": 6
+					},
+					{
+						"name": "Malaysia",
+						"percent": 5.6
+					},
+					{
+						"name": "South Korea",
+						"percent": 5.3
+					},
+					{
+						"name": "US",
+						"percent": 5.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 130199999999.99998,
+					"units": "USD",
+					"date": "2017-12-31"
+				}
+			],
+			"global_rank": 19
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 344400000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				}
+			],
+			"global_rank": 30
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 13385,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 13308.3,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 13308.3,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 13389.4,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 11865.2,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Indonesian rupiah (IDR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 2000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 235400000000,
+				"global_rank": 20,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 213400000000,
+				"global_rank": 20,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 149,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 693000000,
+				"global_rank": 76,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 61430000,
+				"global_rank": 19,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 85,
+					"global_rank": 71,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 110,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 9,
+					"global_rank": 118,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 6,
+					"global_rank": 99,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 772000,
+				"global_rank": 24,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 302300,
+				"global_rank": 27,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 498500,
+				"global_rank": 18,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 3310000000,
+				"global_rank": 28,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 950000,
+				"global_rank": 18,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 1601000,
+				"global_rank": 14,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 79930,
+				"global_rank": 47,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 591500,
+				"global_rank": 15,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 72090000000,
+				"global_rank": 12,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 42320000000,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 29780000000,
+				"global_rank": 12,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 141,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 2866000000000,
+				"global_rank": 12,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 540700000,
+			"global_rank": 12,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 9272754,
+				"subscriptions_per_one_hundred_inhabitants": 3.5,
+				"global_rank": 18,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 337766682,
+				"subscriptions_per_one_hundred_inhabitants": 127.49,
+				"global_rank": 4,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "mixture of about a dozen national TV networks - 1 public broadcaster, the remainder private broadcasters - each with multiple transmitters; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; overall, more than 700 radio stations with more than 650 privately operated (2019)",
+		"internet": {
+			"country_code": ".id",
+			"users": {
+				"total": 104563108,
+				"percent_of_population": 39.79,
+				"global_rank": 7,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 25,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 611,
+				"annual_passenger_traffic_on_registered_air_carriers": 115154100,
+				"annual_freight_traffic_on_registered_air_carriers": 1131910000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "PK",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 673,
+					"global_rank": 10,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 186,
+					"over_3047_metres": 5,
+					"2438_to_3047_metres": 21,
+					"1524_to_2437_metres": 51,
+					"914_to_1523_metres": 72,
+					"under_914_metres": 37,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 487,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 23,
+					"under_914_metres": 460,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 76,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 1064,
+					"units": "km"
+				},
+				{
+					"type": "condensate/gas",
+					"length": 150,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 11702,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 119,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 7767,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 77,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 728,
+					"units": "km"
+				},
+				{
+					"type": "unknown",
+					"length": 53,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 44,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 8159,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 8159,
+				"electrified": 565,
+				"units": "km\n1.067-m",
+				"gauge": "gauge"
+			},
+			"note": {
+				"length": 4816,
+				"units": "km"
+			},
+			"global_rank": 27,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 496607,
+				"units": "km"
+			},
+			"paved": {
+				"value": 283102,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 213505,
+				"units": "km"
+			},
+			"global_rank": 14,
+			"date": "2011"
+		},
+		"waterways": {
+			"value": 21579,
+			"units": "km",
+			"global_rank": 7,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 9879,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 109
+				},
+				{
+					"type": "container ship",
+					"count": 217
+				},
+				{
+					"type": "general cargo",
+					"count": 2198
+				},
+				{
+					"type": "oil tanker",
+					"count": 622
+				},
+				{
+					"type": "other",
+					"count": 6733
+				}
+			],
+			"global_rank": 1,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Banjarmasin",
+				"Belawan",
+				"Kotabaru",
+				"Krueg Geukueh",
+				"Palembang",
+				"Panjang",
+				"Sungai Pakning",
+				"Tanjung Perak",
+				"Tanjung Priok"
+			],
+			"container_ports": [
+				{
+					"place": "Tanjung Perak",
+					"twenty_foot_equivalent_units": 3553370
+				},
+				{
+					"place": "Tanjung Priok",
+					"twenty_foot_equivalent_units": 6090000
+				}
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Bontang",
+				"Tangguh"
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Arun",
+				"Lampung",
+				"West Java"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 137
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-45 years of age for voluntary military service, with selective conscription authorized; 2-year service obligation, with reserve obligation to age 45 (officers); Indonesian citizens only",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors",
+			"three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries",
+			"all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature",
+			"Indonesian groups challenge Australia's claim to Ashmore Reef",
+			"Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches",
+			"land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea",
+			"Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island",
+			"Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea",
+			"maritime delimitation talks continue with Palau",
+			"EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 6098,
+						"country_of_origin": "Afghanistan"
+					}
+				],
+				"date": "2018"
+			},
+			"internally_displaced_persons": {
+				"people": 40000,
+				"note": "inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most internally_displaced_persons in Aceh, Maluku, East Nusa Tengarra",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 582,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "illicit producer of cannabis largely for domestic use; producer of methamphetamine and ecstasy; President WIDODO's war on drugs has led to an increase in death sentences and executions, particularly of foreign drug traffickers"
+		}
+	}
+}

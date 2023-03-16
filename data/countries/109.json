@@ -1,0 +1,2283 @@
+{
+	"name": "India",
+	"introduction": {
+		"background": "The Indus Valley civilization, one of the world's oldest, flourished during the 3rd and 2nd millennia B.C. and extended into northwestern India. Aryan tribes from the northwest infiltrated the Indian subcontinent about 1500 B.C.; their merger with the earlier Dravidian inhabitants created the classical Indian culture. The Maurya Empire of the 4th and 3rd centuries B.C. - which reached its zenith under ASHOKA - united much of South Asia. The Golden Age ushered in by the Gupta dynasty (4th to 6th centuries A.D.) saw a flowering of Indian science, art, and culture. Islam spread across the subcontinent over a period of 700 years. In the 10th and 11th centuries, Turks and Afghans invaded India and established the Delhi Sultanate. In the early 16th century, the Emperor BABUR established the Mughal Dynasty, which ruled India for more than three centuries. European explorers began establishing footholds in India during the 16th century.\nBy the 19th century, Great Britain had become the dominant political power on the subcontinent and India was seen as the \"Jewel in the Crown\" of the British Empire. The British Indian Army played a vital role in both World Wars. Years of nonviolent resistance to British rule, led by Mohandas GANDHI and Jawaharlal NEHRU, eventually resulted in Indian independence in 1947. Large-scale communal violence took place before and after the subcontinent partition into two separate states - India and Pakistan. The neighboring countries have fought three wars since independence, the last of which was in 1971 and resulted in East Pakistan becoming the separate nation of Bangladesh. India's nuclear weapons tests in 1998 emboldened Pakistan to conduct its own tests that same year. In November 2008, terrorists originating from Pakistan conducted a series of coordinated attacks in Mumbai, India's financial capital. India's economic growth following the launch of economic reforms in 1991, a massive youthful population, and a strategic geographic location have contributed to India's emergence as a regional and global power. However, India still faces pressing problems such as environmental degradation, extensive poverty, and widespread corruption, and its restrictive business climate is dampening economic growth expectations."
+	},
+	"geography": {
+		"location": "Southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 20,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 77,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 3287263,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2973193,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 314070,
+				"units": "sq km"
+			},
+			"global_rank": 8,
+			"comparative": "slightly more than one-third the size of the US"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 13888,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Bangladesh",
+					"border_length": {
+						"value": 4142,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Bhutan",
+					"border_length": {
+						"value": 659,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Burma",
+					"border_length": {
+						"value": 1468,
+						"units": "km"
+					}
+				},
+				{
+					"country": "China",
+					"border_length": {
+						"value": 2659,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Nepal",
+					"border_length": {
+						"value": 1770,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Pakistan",
+					"border_length": {
+						"value": 3190,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 7000,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "varies from tropical monsoon in south to temperate in north",
+		"terrain": "upland plain (Deccan Plateau) in south, flat to rolling plain along the Ganges, deserts in west, Himalayas in north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 160,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Kanchenjunga",
+				"elevation": {
+					"value": 8586,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"antimony",
+				"iron ore",
+				"lead",
+				"manganese",
+				"mica",
+				"bauxite",
+				"rare earth elements",
+				"titanium ore",
+				"chromite",
+				"natural gas",
+				"diamonds",
+				"petroleum",
+				"limestone",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 60.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 52.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 4.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 3.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 23.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 16.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 667000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations",
+		"natural_hazards": [
+			{
+				"description": "droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "flash floods, as well as widespread and destructive flooding from monsoonal rains",
+				"type": "hazard"
+			},
+			{
+				"description": "severe thunderstorms",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "Barren Island (354 m) in the Andaman Sea has been active in recent years",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"soil erosion",
+				"overgrazing",
+				"desertification",
+				"air pollution from industrial effluents and vehicle emissions",
+				"water pollution from raw sewage and runoff of agricultural pesticides",
+				"tap water is not potable throughout the country",
+				"huge and growing population is overstraining natural resources",
+				"preservation and quality of forests",
+				"biodiversity loss"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1326093247,
+			"global_rank": 2,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Indian(s)",
+			"adjective": "Indian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Indo-Aryan",
+					"percent": 72
+				},
+				{
+					"name": "Dravidian",
+					"percent": 25
+				},
+				{
+					"name": "Mongoloid and other",
+					"percent": 3
+				}
+			],
+			"date": "2000"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Hindi",
+					"percent": 43.6
+				},
+				{
+					"name": "Bengali",
+					"percent": 8
+				},
+				{
+					"name": "Marathi",
+					"percent": 6.9
+				},
+				{
+					"name": "Telugu",
+					"percent": 6.7
+				},
+				{
+					"name": "Tamil",
+					"percent": 5.7
+				},
+				{
+					"name": "Gujarati",
+					"percent": 4.6
+				},
+				{
+					"name": "Urdu",
+					"percent": 4.2
+				},
+				{
+					"name": "Kannada",
+					"percent": 3.6
+				},
+				{
+					"name": "Odia",
+					"percent": 3.1
+				},
+				{
+					"name": "Malayalam",
+					"percent": 2.9
+				},
+				{
+					"name": "Punjabi",
+					"percent": 2.7
+				},
+				{
+					"name": "Assamese",
+					"percent": 1.3
+				},
+				{
+					"name": "Maithili",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 5.6
+				}
+			],
+			"note": "English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Hindu",
+					"percent": 79.8
+				},
+				{
+					"name": "Muslim",
+					"percent": 14.2
+				},
+				{
+					"name": "Christian",
+					"percent": 2.3
+				},
+				{
+					"name": "Sikh",
+					"percent": 1.7
+				},
+				{
+					"name": "other and unspecified",
+					"percent": 2
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 26.31,
+				"males": 185017089,
+				"females": 163844572
+			},
+			"15_to_24": {
+				"percent": 17.51,
+				"males": 123423531,
+				"females": 108739780
+			},
+			"25_to_54": {
+				"percent": 41.56,
+				"males": 285275667,
+				"females": 265842319
+			},
+			"55_to_64": {
+				"percent": 7.91,
+				"males": 52444817,
+				"females": 52447038
+			},
+			"65_and_over": {
+				"percent": 6.72,
+				"males": 42054459,
+				"females": 47003975
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 48.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 38.9,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 9.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 10.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 28.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 28,
+				"units": "years"
+			},
+			"female": {
+				"value": 29.5,
+				"units": "years"
+			},
+			"global_rank": 141,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.1,
+			"global_rank": 96,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.2,
+			"global_rank": 87,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.3,
+			"global_rank": 113,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 85,
+			"date": "2020"
+		},
+		"population_distribution": "with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations",
+		"urbanization": {
+			"urban_population": {
+				"value": 34.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.37,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "New Delhi",
+					"population": 30291000,
+					"is_capital": true
+				},
+				{
+					"place": "Mumbai",
+					"population": 20411000
+				},
+				{
+					"place": "Kolkata",
+					"population": 14850000
+				},
+				{
+					"place": "Bangalore",
+					"population": 1237000
+				},
+				{
+					"place": "Chennai",
+					"population": 10971000
+				},
+				{
+					"place": "Hyderabad",
+					"population": 10004000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.11,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.13,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.14,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.08,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 145,
+			"global_rank": 57,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 35.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 34.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 36.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 45,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 69.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 68.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 71.2,
+				"units": "years"
+			},
+			"global_rank": 167,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.35,
+			"global_rank": 81,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 53.5,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.78,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 96,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 91,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 92.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 7.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 93.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 61.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 72,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 6.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 38.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 28,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 98,
+				"date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 2100000,
+				"global_rank": 3,
+				"date": "2017"
+			},
+			"deaths": {
+				"total": 69000,
+				"global_rank": 2,
+				"date": "2017"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"Crimean-Congo hemorrhagic fever",
+				"Japanese encephalitis",
+				"malaria"
+			],
+			"water_contact_diseases": [
+				"leptospirosis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"note": "clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 10 November 2020, India has reported a total of 8,507,754 cases of COVID-19 or 6,165 cumulative cases of COVID-19 per 1 million population with 91 cumulative deaths per 1 million population; on 16 March 2020, the government proposed extensive social distancing measures, including closure of all schools, museums, and cultural and social centers; prohibited gatherings of more than 50 people; and called on the public to avoid all non-essential travel; international commercial passenger flights remain suspended",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 3.9,
+			"global_rank": 189,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 33.4,
+			"global_rank": 4,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.8,
+			"global_rank": 112,
+			"date": "2013"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 74.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 82.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 65.8,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 22.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 22.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 24.2,
+				"units": "%"
+			},
+			"global_rank": 56,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of India",
+			"conventional_short_form": "India",
+			"local_long_form": "Republic of India/Bharatiya Ganarajya",
+			"local_short_form": "India/Bharat",
+			"etymology": "the English name derives from the Indus River; the Indian name \"Bharat\" may derive from the \"Bharatas\" tribe mentioned in the Vedas of the second millennium B.C.; the name is also associated with Emperor Bharata, the legendary conqueror of all of India"
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "New Delhi",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 28,
+					"minutes": 36,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 77,
+					"minutes": 12,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 5.5,
+				"note": "10.5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words \"dehleez\" or \"dehali\" - both terms meaning \"threshold\" or \"gateway\" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Andaman and Nicobar Islands",
+				"type": ""
+			},
+			{
+				"name": "Andhra Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Arunachal Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Assam",
+				"type": ""
+			},
+			{
+				"name": "Bihar",
+				"type": ""
+			},
+			{
+				"name": "Chandigarh",
+				"type": ""
+			},
+			{
+				"name": "Chhattisgarh",
+				"type": ""
+			},
+			{
+				"name": "Dadra and Nagar Haveli and Daman and Diu",
+				"type": ""
+			},
+			{
+				"name": "Delhi",
+				"type": ""
+			},
+			{
+				"name": "Goa",
+				"type": ""
+			},
+			{
+				"name": "Gujarat",
+				"type": ""
+			},
+			{
+				"name": "Haryana",
+				"type": ""
+			},
+			{
+				"name": "Himachal Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Jammu and Kashmir",
+				"type": ""
+			},
+			{
+				"name": "Jharkhand",
+				"type": ""
+			},
+			{
+				"name": "Karnataka",
+				"type": ""
+			},
+			{
+				"name": "Kerala",
+				"type": ""
+			},
+			{
+				"name": "Ladakh",
+				"type": ""
+			},
+			{
+				"name": "Lakshadweep",
+				"type": ""
+			},
+			{
+				"name": "Madhya Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Maharashtra",
+				"type": ""
+			},
+			{
+				"name": "Manipur",
+				"type": ""
+			},
+			{
+				"name": "Meghalaya",
+				"type": ""
+			},
+			{
+				"name": "Mizoram",
+				"type": ""
+			},
+			{
+				"name": "Nagaland",
+				"type": ""
+			},
+			{
+				"name": "Odisha",
+				"type": ""
+			},
+			{
+				"name": "Puducherry",
+				"type": ""
+			},
+			{
+				"name": "Punjab",
+				"type": ""
+			},
+			{
+				"name": "Rajasthan",
+				"type": ""
+			},
+			{
+				"name": "Sikkim",
+				"type": ""
+			},
+			{
+				"name": "Tamil Nadu",
+				"type": ""
+			},
+			{
+				"name": "Telangana",
+				"type": ""
+			},
+			{
+				"name": "Tripura",
+				"type": ""
+			},
+			{
+				"name": "Uttar Pradesh",
+				"type": ""
+			},
+			{
+				"name": "Uttarakhand",
+				"type": ""
+			},
+			{
+				"name": "West Bengal",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1947-08-15",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Republic Day",
+				"day": "26 January",
+				"original_year": "1950"
+			}
+		],
+		"constitution": {
+			"history": "previous 1935 (preindependence); latest draft completed 4 November 1949, adopted 26 November 1949, effective 26 January 1950",
+			"amendments": "proposed by either the Council of States or the House of the People; passage requires majority participation of the total membership in each house and at least two-thirds majority of voting members of each house, followed by assent of the president of India; proposed amendments to the constitutional amendment procedures also must be ratified by at least one half of the India state legislatures before presidential assent; amended many times, last in 2019"
+		},
+		"legal_system": "common law system based on the English model; separate personal law codes apply to Muslims, Christians, and Hindus; judicial review of legislative acts; note - in late 2019 the Government of India began discussions to overhaul its penal code, which dates to the British colonial period",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of India",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Ram Nath KOVIND (since 25 July 2017); Vice President M. Venkaiah NAIDU (since 11 August 2017)",
+			"head_of_government": "Prime Minister Narendra MODI (since 26 May 2014)",
+			"cabinet": "Union Council of Ministers recommended by the prime minister, appointed by the president",
+			"elections_appointments": "president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 17 July 2017 (next to be held in July 2022); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2017 (next to be held in August 2022); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party",
+			"election_results": "Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.7% Meira KUMAR (INC) 34.3%; M. Venkaiah NAIDU elected vice president; electoral college vote - M. Venkaiah NAIDU (BJP) 516, Gopalkrishna GANDHI (independent) 244"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Sansad consists of: Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)\nHouse of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)",
+			"elections": "Council of States - last held by state and territorial assemblies at various dates in 2019 (next originally scheduled for March, June, and November 2020 but were postponed due to the COVID-19 pandemic)\nHouse of the People - last held April-May 2019 in 7 phases (next to be held in 2024)",
+			"election_results": "Council of States - percent of vote by party - NA; seats by party - BJP 83, INC 46, AITC 13, DMK 11, SP, other 77, independent 6; composition - men 220, women 25, percent of women 10.2%\nHouse of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 28 judges, including the chief justice)",
+			"judge_selection_and_term_of_office": "justices appointed by the president to serve until age 65",
+			"subordinate_courts": "High Courts; District Courts; Labour Court",
+			"note": "in mid-2011, India’s Cabinet approved the \"National Mission for Justice Delivery and Legal Reform\" to eliminate judicial corruption and reduce the backlog of cases"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Aam Aadmi Party",
+					"name_alternative": "AAP",
+					"leaders": [
+						"Arvind KEJRIWAL"
+					]
+				},
+				{
+					"name": "All India Anna Dravida Munnetra Kazhagam",
+					"name_alternative": "AIADMK",
+					"leaders": [
+						"Edappadi PALANISWAMY",
+						"Occhaathevar PANNEERSELVAM"
+					]
+				},
+				{
+					"name": "All India Trinamool Congress",
+					"name_alternative": "AITC",
+					"leaders": [
+						"Mamata BANERJEE"
+					]
+				},
+				{
+					"name": "Bahujan Samaj Party",
+					"name_alternative": "BSP",
+					"leaders": [
+						"MAYAWATI"
+					]
+				},
+				{
+					"name": "Bharatiya Janata Party",
+					"name_alternative": "BJP",
+					"leaders": [
+						"Amit SHAH"
+					]
+				},
+				{
+					"name": "Biju Janata Dal",
+					"name_alternative": "BJD",
+					"leaders": [
+						"Naveen PATNAIK"
+					]
+				},
+				{
+					"name": "Communist Party of India-Marxist",
+					"name_alternative": "CPI",
+					"leaders": [
+						"Sitaram YECHURY"
+					],
+					"note": "M"
+				},
+				{
+					"name": "Indian National Congress",
+					"name_alternative": "INC"
+				},
+				{
+					"name": "Lok Janshakti Party ",
+					"leaders": [
+						"Ram Vilas PASWAN"
+					],
+					"note": "LJP"
+				},
+				{
+					"name": "Nationalist Congress Party",
+					"name_alternative": "NCP",
+					"leaders": [
+						"Sharad PAWAR"
+					]
+				},
+				{
+					"name": "Rashtriya Janata Dal",
+					"name_alternative": "RJD",
+					"leaders": [
+						"Lalu Prasad YADAV"
+					]
+				},
+				{
+					"name": "Samajwadi Party",
+					"name_alternative": "SP",
+					"leaders": [
+						"Akhilesh YADAV"
+					]
+				},
+				{
+					"name": "Shiromani Akali Dal",
+					"name_alternative": "SAD",
+					"leaders": [
+						"Sukhbir Singh BADAL"
+					]
+				},
+				{
+					"name": "Shiv Sena",
+					"name_alternative": "SS",
+					"leaders": [
+						"Uddhav THACKERAY"
+					]
+				},
+				{
+					"name": "Telegana Rashtra Samithi",
+					"name_alternative": "TRS",
+					"leaders": [
+						"K. Chandrashekar RAO"
+					]
+				},
+				{
+					"name": "Telugu Desam Party",
+					"name_alternative": "TDP",
+					"leaders": [
+						"Chandrababu NAIDU"
+					]
+				},
+				{
+					"name": "YSR Congress",
+					"name_alternative": "YSRC",
+					"leaders": [
+						"Jagan Mohan REDDY"
+					]
+				}
+			],
+			"note": "India has dozens of national and regional political parties"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "dialogue partner"
+			},
+			{
+				"organization": "BIMSTEC"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BRICS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CERN ",
+				"note": "observer"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "SAARC"
+			},
+			{
+				"organization": "SACEP"
+			},
+			{
+				"organization": "SCO ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNDOF"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Taranjit Singh SANDHU (since 6 February 2020)",
+				"chancery": "2107 Massachusetts Avenue NW, Washington, DC 20008; Consular Wing located at 2536 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 939-7000",
+				"fax": "[1] (202) 265-4351",
+				"consulates_general": "Atlanta, Chicago, Houston, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Kenneth I. JUSTER (since 23 November 2017)",
+				"telephone": "[91] (11) 2419-8000",
+				"embassy": "Shantipath, Chanakyapuri, New Delhi 110021",
+				"mailing_address": "use embassy street address",
+				"fax": "[91] (11) 2419-0017",
+				"consulates_general": "Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of saffron (subdued orange) (top), white, and green, with a blue chakra (24-spoked wheel) centered in the white band; saffron represents courage, sacrifice, and the spirit of renunciation; white signifies purity and truth; green stands for faith and fertility; the blue chakra symbolizes the wheel of life in movement and death in stagnation",
+			"note": "similar to the flag of Niger, which has a small orange disk centered in the white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "the Lion Capital of Ashoka",
+					"note": "which depicts four Asiatic lions standing back to back mounted on a circular abacus; is the official emblem"
+				},
+				{
+					"symbol": "Bengal tiger"
+				},
+				{
+					"symbol": "lotus flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "saffron"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Jana-Gana-Mana\" (Thou Art the Ruler of the Minds of All People)",
+			"lyrics_music": "Rabindranath TAGORE",
+			"note": "adopted 1950; Rabindranath TAGORE, a Nobel laureate, also wrote Bangladesh's national anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/IN.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.\nIndia's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.\nThe economy slowed again in 2017, due to shocks of \"demonetizaton\" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.\nIndia has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 9474000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8880000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8291000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 3,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2602000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.86,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 6.78,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 6.55,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 52
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 7200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 156,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 59.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 28.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 3.9,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 19.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -22,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 15.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 23,
+							"units": "%"
+						},
+						"services": {
+							"value": 61.5,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 29.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 30.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 36
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"wheat",
+				"oilseed",
+				"cotton",
+				"jute",
+				"tea",
+				"sugarcane",
+				"lentils",
+				"onions",
+				"potatoes",
+				"dairy products",
+				"sheep",
+				"goats",
+				"poultry",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"chemicals",
+				"food processing",
+				"steel",
+				"transportation equipment",
+				"cement",
+				"mining",
+				"petroleum",
+				"machinery",
+				"software",
+				"pharmaceuticals"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.5,
+			"global_rank": 49,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 521900000,
+				"global_rank": 2,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 47,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22,
+						"units": "%"
+					},
+					"services": {
+						"value": 31,
+						"units": "%",
+						"note": "FY 2014 est."
+					}
+				}
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 8.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 130
+		},
+		"population_below_poverty_line": {
+			"value": 21.9,
+			"units": "%",
+			"date": "2011"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 29.8,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"budget": {
+			"revenues": {
+				"value": 238200000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 329000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 9.2,
+			"global_rank": 215,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.5,
+			"global_rank": 146,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 71.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 69.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 47,
+			"note": "data cover central government debt, and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 4.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 143
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -29748000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -65938999999.99999,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 199
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 304100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 268600000000.00003,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 19
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum products",
+					"precious stones",
+					"vehicles",
+					"machinery",
+					"iron",
+					"steel",
+					"chemicals",
+					"pharmaceutical products",
+					"cereals",
+					"apparel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 15.6
+					},
+					{
+						"name": "UAE",
+						"percent": 10.2
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 4.9
+					},
+					{
+						"name": "China",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 452200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 376100000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 11
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"precious stones",
+					"machinery",
+					"chemicals",
+					"fertilizer",
+					"plastics",
+					"iron",
+					"steel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 16.3
+					},
+					{
+						"name": "US",
+						"percent": 5.5
+					},
+					{
+						"name": "UAE",
+						"percent": 5.2
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 4.8
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 409800000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 359700000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 8
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 501600000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 456400000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 24
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 65.17,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 67.195,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 67.195,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 64.152,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 61.03,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Indian rupees (INR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 6000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 1386000000000,
+				"global_rank": 3,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1137000000000,
+				"global_rank": 3,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 5150000000,
+				"global_rank": 36,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 5617000000,
+				"global_rank": 35,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 367800000,
+				"global_rank": 3,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 71,
+					"global_rank": 104,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 2,
+					"global_rank": 26,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 12,
+					"global_rank": 111,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 16,
+					"global_rank": 53,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 709000,
+				"global_rank": 25,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 140,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 4057000.0000000005,
+				"global_rank": 3,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 4495000000,
+				"global_rank": 23,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 4897000,
+				"global_rank": 4,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 4521000,
+				"global_rank": 3,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 1305000,
+				"global_rank": 7,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 653300,
+				"global_rank": 11,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 31540000000,
+				"global_rank": 25,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 55430000000,
+				"global_rank": 14,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 76450000,
+				"global_rank": 50,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 23960000000,
+				"global_rank": 14,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 1290000000000,
+				"global_rank": 22,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2383000000,
+			"global_rank": 3,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 20198012,
+				"subscriptions_per_one_hundred_inhabitants": 1.54,
+				"global_rank": 13,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 1105250941,
+				"subscriptions_per_one_hundred_inhabitants": 84.27,
+				"global_rank": 2,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2015, more than 230 million homes had access to cable and satellite TV offering more than 700 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly",
+		"internet": {
+			"country_code": ".in",
+			"users": {
+				"total": 446759327,
+				"percent_of_population": 34.45,
+				"global_rank": 2,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 14,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 485,
+				"annual_passenger_traffic_on_registered_air_carriers": 164035637,
+				"annual_freight_traffic_on_registered_air_carriers": 2703960000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VT",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 346,
+					"global_rank": 21,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 253,
+					"over_3047_metres": 22,
+					"2438_to_3047_metres": 59,
+					"1524_to_2437_metres": 76,
+					"914_to_1523_metres": 82,
+					"under_914_metres": 14,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 93,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 6,
+					"914_to_1523_metres": 38,
+					"under_914_metres": 45,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 45,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate/gas",
+					"length": 9,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 13581,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 2054,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 8943,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 20,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 11069,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 68525,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 9499,
+				"units": "km\n1.000-m"
+			},
+			"broad_gauge": {
+				"length": 58404,
+				"units": "km\n1.676-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 5,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 4699024,
+				"units": "km"
+			},
+			"note": "includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads",
+			"global_rank": 3,
+			"date": "2015"
+		},
+		"waterways": {
+			"value": 14500,
+			"units": "km",
+			"note": "5,200 km on major rivers and 485 km on canals suitable for mechanized vessels",
+			"global_rank": 9,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 1731,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 67
+				},
+				{
+					"type": "container ship",
+					"count": 25
+				},
+				{
+					"type": "general cargo",
+					"count": 579
+				},
+				{
+					"type": "oil tanker",
+					"count": 128
+				},
+				{
+					"type": "other",
+					"count": 932
+				}
+			],
+			"global_rank": 16,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Chennai",
+				"Jawaharal Nehru Port",
+				"Kandla",
+				"Kolkata (Calcutta)",
+				"Mumbai (Bombay)",
+				"Sikka",
+				"Vishakhapatnam"
+			],
+			"container_ports": [
+				{
+					"place": "Chennai",
+					"twenty_foot_equivalent_units": 1549457
+				},
+				{
+					"place": "Jawaharal Nehru Port",
+					"twenty_foot_equivalent_units": 4833397
+				},
+				{
+					"place": "Mundra",
+					"twenty_foot_equivalent_units": 4240260
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Dabhol",
+				"Dahej",
+				"Hazira"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.4,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 37
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 16,
+			"note": "16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as pilots, and under consideration for Army combat roles",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue",
+			"Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas)",
+			"India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries",
+			"UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949",
+			"India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964",
+			"to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea",
+			"Pakistani maps continue to show its Junagadh claim in Indian Gujarat State",
+			"Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented",
+			"Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea",
+			"Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River",
+			"India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 108008,
+						"country_of_origin": "Tibet/China"
+					},
+					{
+						"people": 59428,
+						"country_of_origin": "Sri Lanka"
+					},
+					{
+						"people": 18813,
+						"country_of_origin": "Burma"
+					},
+					{
+						"people": 7470,
+						"country_of_origin": "Afghanistan"
+					}
+				],
+				"date": "2019"
+			},
+			"internally_displaced_persons": {
+				"people": 470000,
+				"note": "armed conflict and intercommunal violence",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 17730,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "world's largest producer of licit opium for the pharmaceutical trade, but an undetermined quantity of opium is diverted to illicit international drug markets; transit point for illicit narcotics produced in neighboring countries and throughout Southwest Asia; illicit producer of methaqualone; vulnerable to narcotics money laundering through the hawala system; licit ketamine and precursor production"
+		}
+	}
+}

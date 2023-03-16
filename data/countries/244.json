@@ -1,0 +1,2250 @@
+{
+	"name": "United States",
+	"introduction": {
+		"background": "Britain's American colonies broke with the mother country in 1776 and were recognized as the new nation of the United States of America following the Treaty of Paris in 1783. During the 19th and 20th centuries, 37 new states were added to the original 13 as the nation expanded across the North American continent and acquired a number of overseas possessions. The two most traumatic experiences in the nation's history were the Civil War (1861-65), in which a northern Union of states defeated a secessionist Confederacy of 11 southern slave states, and the Great Depression of the 1930s, an economic downturn during which about a quarter of the labor force lost its jobs. Buoyed by victories in World Wars I and II and the end of the Cold War in 1991, the US remains the world's most powerful nation state. Since the end of World War II, the economy has achieved relatively steady growth, low unemployment and inflation, and rapid advances in technology."
+	},
+	"geography": {
+		"location": "North America, bordering both the North Atlantic Ocean and the North Pacific Ocean, between Canada and Mexico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 38,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 97,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "North America",
+		"area": {
+			"total": {
+				"value": 9833517,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 9147593,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 685924,
+				"units": "sq km"
+			},
+			"note": "includes only the 50 states and District of Columbia, no overseas territories",
+			"global_rank": 4,
+			"comparative": "about half the size of Russia; about three-tenths the size of Africa; about half the size of South America (or slightly larger than Brazil); slightly larger than China; more than twice the size of the European Union"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 12048,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Canada",
+					"border_length": {
+						"value": 8893,
+						"units": "km"
+					},
+					"note": "including 2477 km with Alaska"
+				},
+				{
+					"country": "Mexico",
+					"border_length": {
+						"value": 3155,
+						"units": "km"
+					}
+				}
+			],
+			"note": "US Naval Base at Guantanamo Bay, Cuba is leased by the US and is part of Cuba; the base boundary is 28.5 km"
+		},
+		"coastline": {
+			"value": 19924,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": "not specified"
+		},
+		"climate": "mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains",
+		"terrain": "vast central plain, mountains in west, hills and low mountains in east; rugged mountains and broad river valleys in Alaska; rugged, volcanic topography in Hawaii",
+		"elevation": {
+			"mean_elevation": {
+				"value": 760,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Death Valley (lowest point in North America)",
+				"elevation": {
+					"value": -86,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Denali",
+				"elevation": {
+					"value": 6190,
+					"units": "m"
+				},
+				"note": "Mount McKinley highest point in North America"
+			},
+			"note": "the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level"
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"copper",
+				"lead",
+				"molybdenum",
+				"phosphates",
+				"rare earth elements",
+				"uranium",
+				"bauxite",
+				"gold",
+				"iron",
+				"mercury",
+				"nickel",
+				"potash",
+				"silver",
+				"tungsten",
+				"zinc",
+				"petroleum",
+				"natural gas",
+				"timber",
+				"arable land",
+				"note",
+				"the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 44.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 16.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 27.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 33.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 22.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 264000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu",
+		"natural_hazards": [
+			{
+				"description": "tsunamis",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanoes",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquake activity around Pacific Basin",
+				"type": "hazard"
+			},
+			{
+				"description": "hurricanes along the Atlantic and Gulf of Mexico coasts",
+				"type": "hazard"
+			},
+			{
+				"description": "tornadoes in the Midwest and Southeast",
+				"type": "hazard"
+			},
+			{
+				"description": "mud slides in California",
+				"type": "hazard"
+			},
+			{
+				"description": "forest fires in the west",
+				"type": "hazard"
+			},
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "permafrost in northern Alaska, a major impediment to development",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity in the Hawaiian Islands, Western Alaska, the Pacific Northwest, and in the Northern Mariana Islands; both Mauna Loa (4,170 m) in Hawaii and Mount Rainier (4,392 m) in Washington have been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Pavlof (2,519 m) is the most active volcano in Alaska's Aleutian Arc and poses a significant threat to air travel since the area constitutes a major flight path between North America and East Asia; St. Helens (2,549 m), famous for the devastating 1980 eruption, remains active today; numerous other historically active volcanoes exist, mostly concentrated in the Aleutian arc and Hawaii; they include: in Alaska: Aniakchak, Augustine, Chiginagak, Fourpeaked, Iliamna, Katmai, Kupreanof, Martin, Novarupta, Redoubt, Spurr, Wrangell, Trident, Ugashik-Peulik, Ukinrek Maars, Veniaminof; in Hawaii: Haleakala, Kilauea, Loihi; in the Northern Mariana Islands: Anatahan; and in the Pacific Northwest: Mount Baker, Mount Hood; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution",
+				"large emitter of carbon dioxide from the burning of fossil fuels",
+				"water pollution from runoff of pesticides and fertilizers",
+				"limited natural freshwater resources in much of the western part of the country require careful management",
+				"deforestation",
+				"mining",
+				"desertification",
+				"species conservation",
+				"invasive species (the Hawaiian Islands are particularly vulnerable)"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Climate Change",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Volatile Organic Compounds",
+					"Biodiversity",
+					"Climate Change-Kyoto Protocol",
+					"Hazardous Wastes"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 332639102,
+			"global_rank": 3,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "American(s)",
+			"adjective": "American"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white",
+					"percent": 72.4
+				},
+				{
+					"name": "black",
+					"percent": 12.6
+				},
+				{
+					"name": "Asian",
+					"percent": 4.8
+				},
+				{
+					"name": "Amerindian and Alaska native",
+					"percent": 0.9
+				},
+				{
+					"name": "native Hawaiian and other Pacific islander",
+					"percent": 0.2
+				},
+				{
+					"name": "other",
+					"percent": 6.2
+				},
+				{
+					"name": "two or more races",
+					"percent": 2.9
+				}
+			],
+			"note": "a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (white, black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010",
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English only",
+					"percent": 78.2
+				},
+				{
+					"name": "Spanish",
+					"percent": 13.4
+				},
+				{
+					"name": "Chinese",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 7.3
+				}
+			],
+			"note": "data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska",
+			"date": "2017"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 46.5
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 20.8
+				},
+				{
+					"name": "Jewish",
+					"percent": 1.9
+				},
+				{
+					"name": "Mormon",
+					"percent": 1.6
+				},
+				{
+					"name": "other Christian",
+					"percent": 0.9
+				},
+				{
+					"name": "Muslim",
+					"percent": 0.9
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 0.8
+				},
+				{
+					"name": "Buddhist",
+					"percent": 0.7
+				},
+				{
+					"name": "Hindu",
+					"percent": 0.7
+				},
+				{
+					"name": "other",
+					"percent": 1.8
+				},
+				{
+					"name": "unaffiliated",
+					"percent": 22.8
+				},
+				{
+					"name": "don't know/refused",
+					"percent": 0.6
+				}
+			],
+			"date": "2014"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.46,
+				"males": 31374555,
+				"females": 30034371
+			},
+			"15_to_24": {
+				"percent": 12.91,
+				"males": 21931368,
+				"females": 21006463
+			},
+			"25_to_54": {
+				"percent": 38.92,
+				"males": 64893670,
+				"females": 64564565
+			},
+			"55_to_64": {
+				"percent": 12.86,
+				"males": 20690736,
+				"females": 22091808
+			},
+			"65_and_over": {
+				"percent": 16.85,
+				"males": 25014147,
+				"females": 31037419
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 28.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 25.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.9,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 38.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 37.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 39.8,
+				"units": "years"
+			},
+			"global_rank": 61,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.72,
+			"global_rank": 137,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.4,
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.3,
+			"global_rank": 83,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 3,
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"population_distribution": "large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu",
+		"urbanization": {
+			"urban_population": {
+				"value": 82.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.95,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "New York-Newark",
+					"population": 18804000
+				},
+				{
+					"place": "Los Angeles-Long Beach-Santa Ana",
+					"population": 12447000
+				},
+				{
+					"place": "Chicago",
+					"population": 8865000
+				},
+				{
+					"place": "Houston",
+					"population": 6371000
+				},
+				{
+					"place": "Dallas-Fort Worth",
+					"population": 6301000
+				},
+				{
+					"place": "Washington",
+					"population": 5322000
+				},
+				{
+					"place": "D.C.",
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.81,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 26.4,
+			"date": "2015"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 19,
+			"global_rank": 129,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 174,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 80.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 78,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.5,
+				"units": "years"
+			},
+			"global_rank": 45,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.84,
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 75.9,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.61,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 97,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 36.2,
+			"global_rank": 12,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 0.5,
+			"global_rank": 131,
+			"date": "2012"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5,
+			"global_rank": 64,
+			"date": "2014"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 8.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 9.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 7.7,
+				"units": "%"
+			},
+			"global_rank": 140,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "United States of America",
+			"conventional_short_form": "United States",
+			"abbreviation": "US or USA",
+			"etymology": "the name America is derived from that of Amerigo VESPUCCI (1454-1512) - Italian explorer, navigator, and cartographer - using the Latin form of his name, Americus, feminized to America"
+		},
+		"government_type": "constitutional federal republic",
+		"capital": {
+			"name": "Washington, DC",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 38,
+					"minutes": 53,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 77,
+					"minutes": 2,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+			"note": "the 50 United States cover six time zones",
+			"etymology": "named after George Washington (1732-1799), the first president of the United States"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Alabama",
+				"type": ""
+			},
+			{
+				"name": "Alaska",
+				"type": ""
+			},
+			{
+				"name": "Arizona",
+				"type": ""
+			},
+			{
+				"name": "Arkansas",
+				"type": ""
+			},
+			{
+				"name": "California",
+				"type": ""
+			},
+			{
+				"name": "Colorado",
+				"type": ""
+			},
+			{
+				"name": "Connecticut",
+				"type": ""
+			},
+			{
+				"name": "Delaware",
+				"type": ""
+			},
+			{
+				"name": "District of Columbia",
+				"type": ""
+			},
+			{
+				"name": "Florida",
+				"type": ""
+			},
+			{
+				"name": "Georgia",
+				"type": ""
+			},
+			{
+				"name": "Hawaii",
+				"type": ""
+			},
+			{
+				"name": "Idaho",
+				"type": ""
+			},
+			{
+				"name": "Illinois",
+				"type": ""
+			},
+			{
+				"name": "Indiana",
+				"type": ""
+			},
+			{
+				"name": "Iowa",
+				"type": ""
+			},
+			{
+				"name": "Kansas",
+				"type": ""
+			},
+			{
+				"name": "Kentucky",
+				"type": ""
+			},
+			{
+				"name": "Louisiana",
+				"type": ""
+			},
+			{
+				"name": "Maine",
+				"type": ""
+			},
+			{
+				"name": "Maryland",
+				"type": ""
+			},
+			{
+				"name": "Massachusetts",
+				"type": ""
+			},
+			{
+				"name": "Michigan",
+				"type": ""
+			},
+			{
+				"name": "Minnesota",
+				"type": ""
+			},
+			{
+				"name": "Mississippi",
+				"type": ""
+			},
+			{
+				"name": "Missouri",
+				"type": ""
+			},
+			{
+				"name": "Montana",
+				"type": ""
+			},
+			{
+				"name": "Nebraska",
+				"type": ""
+			},
+			{
+				"name": "Nevada",
+				"type": ""
+			},
+			{
+				"name": "New Hampshire",
+				"type": ""
+			},
+			{
+				"name": "New Jersey",
+				"type": ""
+			},
+			{
+				"name": "New Mexico",
+				"type": ""
+			},
+			{
+				"name": "New York",
+				"type": ""
+			},
+			{
+				"name": "North Carolina",
+				"type": ""
+			},
+			{
+				"name": "North Dakota",
+				"type": ""
+			},
+			{
+				"name": "Ohio",
+				"type": ""
+			},
+			{
+				"name": "Oklahoma",
+				"type": ""
+			},
+			{
+				"name": "Oregon",
+				"type": ""
+			},
+			{
+				"name": "Pennsylvania",
+				"type": ""
+			},
+			{
+				"name": "Rhode Island",
+				"type": ""
+			},
+			{
+				"name": "South Carolina",
+				"type": ""
+			},
+			{
+				"name": "South Dakota",
+				"type": ""
+			},
+			{
+				"name": "Tennessee",
+				"type": ""
+			},
+			{
+				"name": "Texas",
+				"type": ""
+			},
+			{
+				"name": "Utah",
+				"type": ""
+			},
+			{
+				"name": "Vermont",
+				"type": ""
+			},
+			{
+				"name": "Virginia",
+				"type": ""
+			},
+			{
+				"name": "Washington",
+				"type": ""
+			},
+			{
+				"name": "West Virginia",
+				"type": ""
+			},
+			{
+				"name": "Wisconsin",
+				"type": ""
+			},
+			{
+				"name": "Wyoming",
+				"type": ""
+			}
+		],
+		"dependent_areas": {
+			"areas": [
+				"American Samoa",
+				"Baker Island",
+				"Guam",
+				"Howland Island",
+				"Jarvis Island",
+				"Johnston Atoll",
+				"Kingman Reef",
+				"Midway Islands",
+				"Navassa Island",
+				"Northern Mariana Islands",
+				"Palmyra Atoll",
+				"Puerto Rico",
+				"Virgin Islands",
+				"Wake Island"
+			],
+			"note": "from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political entities: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994)"
+		},
+		"independence": {
+			"date": "1776-07-04",
+			"note": "declared independence from Great Britain; 3 September 1783 (recognized by Great Britain)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "4 July",
+				"original_year": "1776"
+			}
+		],
+		"constitution": {
+			"history": "previous 1781 (Articles of Confederation and Perpetual Union); latest drafted July - September 1787, submitted to the Congress of the Confederation 20 September 1787, submitted for states' ratification 28 September 1787, ratification completed by nine of the 13 states 21 June 1788, effective 4 March 1789",
+			"amendments": "proposed as a \"joint resolution\" by Congress, which requires a two-thirds majority vote in both the House of Representatives and the Senate or by a constitutional convention called for by at least two thirds of the state legislatures; passage requires ratification by three fourths of the state legislatures or passage in state-held constitutional conventions as specified by Congress; the US president has no role in the constitutional amendment process; amended many times, last in 1992"
+		},
+		"legal_system": "common law system based on English common law at the federal level; state legal systems based on common law, except Louisiana, where state law is based on Napoleonic civil code; judicial review of legislative acts",
+		"international_law_organization_participation": [
+			"withdrew acceptance of compulsory ICJ jurisdiction in 2005",
+			"withdrew acceptance of ICCt jurisdiction in 2002"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no, but the US government acknowledges such situtations exist; US citizens are not encouraged to seek dual citizenship since it limits protection by the US",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017); note - the president is both chief of state and head of government",
+			"head_of_government": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+			"cabinet": "Cabinet appointed by the president, approved by the Senate",
+			"elections_appointments": "president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 8 November 2016 (next to be held on 3 November 2020)",
+			"election_results": "Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Congress consists of: Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)\nHouse of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)",
+			"elections": "Senate - last held on 6 November 2018 (next to be held on 3 November 2020)\nHouse of Representatives - last held on 6 November 2018 (next to be held on 3 November 2020)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - Republican Party 53, Democratic Party 45, independent 2; composition - men 75, women 25, percent of women 25%\nHouse of Representatives - percent of vote by party - NA; seats by party - Democratic Party 234, Republican Party 200, 1 seat still undecided; composition - men 328, women 106, percent of women 24.4%; note - total US Congress percent of women 24.5%",
+			"note": "in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegates last held on 6 November 2018 (next to be held on 3 November 2020)"
+		},
+		"judicial_branch": {
+			"highest_courts": "US Supreme Court (consists of 9 justices - the chief justice and 8 associate justices)",
+			"judge_selection_and_term_of_office": "president nominates and, with the advice and consent of the Senate, appoints Supreme Court justices; justices serve for life",
+			"subordinate_courts": "Courts of Appeal (includes the US Court of Appeal for the Federal District and 12 regional appeals courts); 94 federal district courts in 50 states and territories",
+			"note": "the US court system consists of the federal court system and the state court systems; although each court system is responsible for hearing certain types of cases, neither is completely independent of the other, and the systems often interact"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party",
+					"leaders": [
+						"Tom PEREZ"
+					]
+				},
+				{
+					"name": "Green Party",
+					"leaders": [
+						"collective leadership"
+					]
+				},
+				{
+					"name": "Libertarian Party",
+					"leaders": [
+						"Nicholas SARWARK"
+					]
+				},
+				{
+					"name": "Republican Party",
+					"leaders": [
+						"Ronna Romney MCDANIEL"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "ANZUS"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "dialogue partner"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE ",
+				"note": "observer"
+			},
+			{
+				"organization": "CERN ",
+				"note": "observer"
+			},
+			{
+				"organization": "CICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "G-7"
+			},
+			{
+				"organization": "G-8"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAFTA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "SAARC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "permanent"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"flag_description": {
+			"description": "13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory",
+			"note": "the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "bald eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "The Star-Spangled Banner",
+			"lyrics_music": "Francis Scott KEY/John Stafford SMITH",
+			"note": "adopted 1931; during the War of 1812, after witnessing the successful American defense of Fort McHenry in Baltimore following British naval bombardment, Francis Scott KEY wrote the lyrics to what would become the national anthem; the lyrics were set to the tune of \"The Anacreontic Song\"; only the first verse is sung",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/US.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "The US has the most technologically powerful economy in the world, with a per capita GDP of $59,500. US firms are at or near the forefront in technological advances, especially in computers, pharmaceuticals, and medical, aerospace, and military equipment; however, their advantage has narrowed since the end of World War II. Based on a comparison of GDP measured at purchasing power parity conversion rates, the US economy in 2014, having stood as the largest in the world for more than a century, slipped into second place behind China, which has more than tripled the US growth rate for each year of the past four decades.\nIn the US, private individuals and business firms make most of the decisions, and the federal and state governments buy needed goods and services predominantly in the private marketplace. US business firms enjoy greater flexibility than their counterparts in Western Europe and Japan in decisions to expand capital plant, to lay off surplus workers, and to develop new products. At the same time, businesses face higher barriers to enter their rivals' home markets than foreign firms face entering US markets.\nLong-term problems for the US include stagnation of wages for lower-income families, inadequate investment in deteriorating infrastructure, rapidly rising medical and pension costs of an aging population, energy shortages, and sizable current account and budget deficits.\nThe onrush of technology has been a driving factor in the gradual development of a \"two-tier\" labor market in which those at the bottom lack the education and the professional/technical skills of those at the top and, more and more, fail to get comparable pay raises, health insurance coverage, and other benefits. But the globalization of trade, and especially the rise of low-wage producers such as China, has put additional downward pressure on wages and upward pressure on the return to capital. Since 1975, practically all the gains in household income have gone to the top 20% of households. Since 1996, dividends and capital gains have grown faster than wages or any other category of after-tax income.\nImported oil accounts for more than 50% of US consumption and oil has a major impact on the overall health of the economy. Crude oil prices doubled between 2001 and 2006, the year home prices peaked; higher gasoline prices ate into consumers' budgets and many individuals fell behind in their mortgage payments. Oil prices climbed another 50% between 2006 and 2008, and bank foreclosures more than doubled in the same period. Besides dampening the housing market, soaring oil prices caused a drop in the value of the dollar and a deterioration in the US merchandise trade deficit, which peaked at $840 billion in 2008. Because the US economy is energy-intensive, falling oil prices since 2013 have alleviated many of the problems the earlier increases had created.\nThe sub-prime mortgage crisis, falling home prices, investment bank failures, tight credit, and the global economic downturn pushed the US into a recession by mid-2008. GDP contracted until the third quarter of 2009, the deepest and longest downturn since the Great Depression. To help stabilize financial markets, the US Congress established a $700 billion Troubled Asset Relief Program in October 2008. The government used some of these funds to purchase equity in US banks and industrial corporations, much of which had been returned to the government by early 2011. In January 2009, Congress passed and former President Barack OBAMA signed a bill providing an additional $787 billion fiscal stimulus to be used over 10 years - two-thirds on additional spending and one-third on tax cuts - to create jobs and to help the economy recover. In 2010 and 2011, the federal budget deficit reached nearly 9% of GDP. In 2012, the Federal Government reduced the growth of spending and the deficit shrank to 7.6% of GDP. US revenues from taxes and other sources are lower, as a percentage of GDP, than those of most other countries.\nWars in Iraq and Afghanistan required major shifts in national resources from civilian to military purposes and contributed to the growth of the budget deficit and public debt. Through FY 2018, the direct costs of the wars will have totaled more than $1.9 trillion, according to US Government figures.\nIn March 2010, former President OBAMA signed into law the Patient Protection and Affordable Care Act (ACA), a health insurance reform that was designed to extend coverage to an additional 32 million Americans by 2016, through private health insurance for the general population and Medicaid for the impoverished. Total spending on healthcare - public plus private - rose from 9.0% of GDP in 1980 to 17.9% in 2010.\nIn July 2010, the former president signed the DODD-FRANK Wall Street Reform and Consumer Protection Act, a law designed to promote financial stability by protecting consumers from financial abuses, ending taxpayer bailouts of financial firms, dealing with troubled banks that are \"too big to fail,\" and improving accountability and transparency in the financial system - in particular, by requiring certain financial derivatives to be traded in markets that are subject to government regulation and oversight.\nThe Federal Reserve Board (Fed) announced plans in December 2012 to purchase $85 billion per month of mortgage-backed and Treasury securities in an effort to hold down long-term interest rates, and to keep short-term rates near zero until unemployment dropped below 6.5% or inflation rose above 2.5%. The Fed ended its purchases during the summer of 2014, after the unemployment rate dropped to 6.2%, inflation stood at 1.7%, and public debt fell below 74% of GDP. In December 2015, the Fed raised its target for the benchmark federal funds rate by 0.25%, the first increase since the recession began. With continued low growth, the Fed opted to raise rates several times since then, and in December 2017, the target rate stood at 1.5%.\nIn December 2017, Congress passed and President Donald TRUMP signed the Tax Cuts and Jobs Act, which, among its various provisions, reduces the corporate tax rate from 35% to 21%; lowers the individual tax rate for those with the highest incomes from 39.6% to 37%, and by lesser percentages for those at lower income levels; changes many deductions and credits used to calculate taxable income; and eliminates in 2019 the penalty imposed on taxpayers who do not obtain the minimum amount of health insurance required under the ACA. The new taxes took effect on 1 January 2018; the tax cut for corporations are permanent, but those for individuals are scheduled to expire after 2025. The Joint Committee on Taxation (JCT) under the Congressional Budget Office estimates that the new law will reduce tax revenues and increase the federal deficit by about $1.45 trillion over the 2018-2027 period. This amount would decline if economic growth were to exceed the JCT’s estimate.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 19490000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 19060000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 18770000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 2,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 19490000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.16,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.33,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 130
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 59800,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 58900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 58400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 19,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 12.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -15,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 19.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 80,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 18.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 18.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 20.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 106
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"corn",
+				"grains",
+				"fruits",
+				"vegetables",
+				"cotton",
+				"beef",
+				"pork",
+				"poultry",
+				"dairy products",
+				"fish",
+				"forest products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"steel",
+				"motor vehicles",
+				"aerospace",
+				"telecommunications",
+				"chemicals",
+				"electronics",
+				"food processing",
+				"consumer goods",
+				"lumber",
+				"mining"
+			],
+			"note": "highly diversified; world leading; high-technology innovator; second-largest industrial output in the world"
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.3,
+			"global_rank": 122,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 35412000,
+				"global_rank": 16,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20.3,
+						"units": "%"
+					},
+					"services": {
+						"value": 37.3,
+						"units": "%"
+					},
+					"industry_and_services": {
+						"value": 24.2,
+						"units": "%"
+					},
+					"manufacturing": {
+						"value": 17.6,
+						"units": "%"
+					},
+					"farming_forestry_and_fishing": {
+						"value": 0.7,
+						"units": "%"
+					},
+					"manufacturing_extraction_transportation_and_crafts": {
+						"value": 20.3,
+						"units": "%"
+					},
+					"managerial_professional_and_technical": {
+						"value": 37.3,
+						"units": "%"
+					},
+					"sales_and_office": {
+						"value": 24.2,
+						"units": "%"
+					},
+					"other_services": {
+						"value": 17.6,
+						"units": "%"
+					}
+				},
+				"note": "figures exclude the unemployed",
+				"date": "2009"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.89,
+					"units": "%",
+					"date": "2018"
+				},
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2017"
+				}
+			],
+			"global_rank": 57
+		},
+		"population_below_poverty_line": {
+			"value": 15.1,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 3315000000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 3981000000000,
+				"units": "USD"
+			},
+			"note": "revenues exclude social contributions of approximately 1.0 trillion USD; expenditures exclude social benefits of approximately 2.3 trillion USD",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 17,
+			"global_rank": 172,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.4,
+			"global_rank": 145,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 78.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 81.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 36,
+			"note": "data cover only what the United States Treasury denotes as \"Debt Held by the Public,\" which includes all debt instruments issued by the Treasury that are owned by non-US Government entities; the data include Treasury debt held by foreign entities; the data exclude debt issued by individual US states, as well as intragovernmental debt; intragovernmental debt consists of Treasury borrowings from surpluses in the trusts for Federal Social Security, Federal Employees, Hospital and Supplemental Medical Insurance (Medicare), Disability and Unemployment, and several other smaller trusts; if data for intragovernment debt were added, \"gross debt\" would increase by about one-third of GDP"
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 110
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -480225000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -449694000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 206
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1553000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1456000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 2
+			},
+			"commodities": {
+				"by_commodity": [
+					"agricultural products (soybeans",
+					"fruit",
+					"corn)",
+					"industrial supplies (organic chemicals)",
+					"capital goods (transistors",
+					"aircraft",
+					"motor vehicle parts",
+					"computers",
+					"telecommunications equipment)",
+					"consumer goods (automobiles",
+					"medicines)"
+				],
+				"date": "2008"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Canada",
+						"percent": 18.3
+					},
+					{
+						"name": "Mexico",
+						"percent": 15.7
+					},
+					{
+						"name": "China",
+						"percent": 8.4
+					},
+					{
+						"name": "Japan",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2361000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2208000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 1
+			},
+			"commodities": {
+				"by_commodity": [
+					"agricultural products",
+					"industrial supplies 32.9% (crude oil 8.2%)",
+					"capital goods 30.4% (computers",
+					"telecommunications equipment",
+					"motor vehicle parts",
+					"office machines",
+					"electric power machinery)",
+					"consumer goods 31.8% (automobiles",
+					"clothing",
+					"medicines",
+					"furniture",
+					"toys)"
+				],
+				"date": "2008"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 21.6
+					},
+					{
+						"name": "Mexico",
+						"percent": 13.4
+					},
+					{
+						"name": "Canada",
+						"percent": 12.8
+					},
+					{
+						"name": "Japan",
+						"percent": 5.8
+					},
+					{
+						"name": "Germany",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 123300000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 117600000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 20
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 17910000000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 17850000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 1,
+			"note": "approximately 4/5ths of US external debt is denominated in US dollars; foreign lenders have been willing to hold US dollar denominated debt instruments because they view the dollar as the world's reserve currency"
+		},
+		"exchange_rates": {
+			"note": "British pounds per US dollar: 0.7836 (2017 est.), 0.738 (2016 est.), 0.738 (2015 est.), 0.607 (2014 est), 0.6391 (2013 est.); Canadian dollars per US dollar: 1, 1.308 (2017 est.), 1.3256 (2016 est.), 1.3256 (2015 est.), 1.2788 (2014 est.), 1.0298 (2013 est.); Chinese yuan per US dollar: 1, 6.7588 (2017 est.), 6.6445 (2016 est.), 6.2275 (2015 est.), 6.1434 (2014 est.), 6.1958 (2013 est.); euros per US dollar: 0.885 (2017 est.), 0.903 (2016 est.), 0.9214(2015 est.), 0.885 (2014 est.), 0.7634 (2013 est.); Japanese yen per US dollar: 111.10 (2017 est.), 108.76 (2016 est.), 108.76 (2015 est.), 121.02 (2014 est.), 97.44 (2013 est.)"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 4094999999999.9995,
+				"global_rank": 2,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3902000000000,
+				"global_rank": 2,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 9695000000,
+				"global_rank": 22,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 72720000000,
+				"global_rank": 1,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1087000000,
+				"global_rank": 2,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 70,
+					"global_rank": 111,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 9,
+					"global_rank": 18,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 7,
+					"global_rank": 128,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 14,
+					"global_rank": 65,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 10962000,
+				"global_rank": 1,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1158000,
+				"global_rank": 12,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 7969000,
+				"global_rank": 1,
+				"date": "2017"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 20300000,
+				"global_rank": 1,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 19960000,
+				"global_rank": 1,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 5218000,
+				"global_rank": 1,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 2175000,
+				"global_rank": 2,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 772800000000,
+				"global_rank": 1,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 767600000000,
+				"global_rank": 1,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 89700000000,
+				"global_rank": 4,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 86150000000,
+				"global_rank": 4,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 203,
+				"date": "2017-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 5242000000,
+			"global_rank": 2,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 107667642,
+				"subscriptions_per_one_hundred_inhabitants": 32.6,
+				"global_rank": 2,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 408509528,
+				"subscriptions_per_one_hundred_inhabitants": 123.69,
+				"global_rank": 3,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "4 major terrestrial TV networks with affiliate stations throughout the country, plus cable and satellite networks, independent stations, and a limited public broadcasting sector that is largely supported by private grants; overall, thousands of TV stations broadcasting; multiple national radio networks with many affiliate stations; while most stations are commercial, National Public Radio (NPR) has a network of some 900 member stations; satellite radio available; in total, over 15,000 radio stations operating (2018)",
+		"internet": {
+			"country_code": ".us",
+			"users": {
+				"total": 285519020,
+				"percent_of_population": 87.27,
+				"global_rank": 3,
+				"date": "2018-07-01"
+			}
+		},
+		"note": "note 1: The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data\nnote 2: Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)"
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 99,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 7249,
+				"annual_passenger_traffic_on_registered_air_carriers": 889022000,
+				"annual_freight_traffic_on_registered_air_carriers": 42985300000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "N",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 13513,
+					"global_rank": 1,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 5054,
+					"over_3047_metres": 189,
+					"2438_to_3047_metres": 235,
+					"1524_to_2437_metres": 1478,
+					"914_to_1523_metres": 2249,
+					"under_914_metres": 903,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 8459,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 6,
+					"1524_to_2437_metres": 140,
+					"914_to_1523_metres": 1552,
+					"under_914_metres": 6760,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 5287,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "natural gas",
+					"length": 321,
+					"units": "km"
+				},
+				{
+					"type": "petroleum products",
+					"length": 711,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 293564,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 293564.2,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 1,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 6586610,
+				"units": "km"
+			},
+			"paved": {
+				"value": 4304715,
+				"units": "km",
+				"note": "includes 76,334 km of expressways"
+			},
+			"unpaved": {
+				"value": 2281895,
+				"units": "km"
+			},
+			"global_rank": 1,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 41009,
+			"units": "km",
+			"note": "19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada",
+			"global_rank": 5,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 3673,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 5
+				},
+				{
+					"type": "container ship",
+					"count": 60
+				},
+				{
+					"type": "general cargo",
+					"count": 104
+				},
+				{
+					"type": "oil tanker",
+					"count": 68
+				},
+				{
+					"type": "other",
+					"count": 3436
+				}
+			],
+			"global_rank": 5,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"oil_terminals": [
+				"LOOP terminal",
+				"Haymark terminal"
+			],
+			"container_ports": [
+				{
+					"place": "Charleston",
+					"twenty_foot_equivalent_units": 2177000
+				},
+				{
+					"place": "Hampton Roads",
+					"twenty_foot_equivalent_units": 2841000
+				},
+				{
+					"place": "Houston",
+					"twenty_foot_equivalent_units": 2459000
+				},
+				{
+					"place": "Long Beach",
+					"twenty_foot_equivalent_units": 7544000
+				},
+				{
+					"place": "Los Angeles",
+					"twenty_foot_equivalent_units": 9343000
+				},
+				{
+					"place": "New York/New Jersey",
+					"twenty_foot_equivalent_units": 6710000
+				},
+				{
+					"place": "Oakland",
+					"twenty_foot_equivalent_units": 2420000
+				},
+				{
+					"place": "Savannah",
+					"twenty_foot_equivalent_units": 4046000
+				},
+				{
+					"place": "Seattle/Tacoma",
+					"twenty_foot_equivalent_units": 3665000
+				}
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Cameron (LA)",
+				"Corpus Christi (TX)",
+				"Cove Point (MD)",
+				"Elba Island (GA)",
+				"Freeport (TX)",
+				"Sabine Pass (LA)\nnote - two additional export facilities are under construction",
+				"expected to begin commercial operations in 2023-2024"
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Cove Point (MD)",
+				"Elba Island (GA)",
+				"Everett (MA)",
+				"Freeport (TX)",
+				"Golden Pass (TX)",
+				"Hackberry (LA)",
+				"Lake Charles (LA)",
+				"Neptune (offshore)",
+				"Northeast Gateway (offshore)",
+				"Pascagoula (MS)",
+				"Sabine Pass (TX)"
+			],
+			"cargo_ports": "Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City",
+			"cruise_departure_ports_passengers": "Miami (2,032,000), Port Everglades (1,277,000), Port Canaveral (1,189,000), Seattle (430,000), Long Beach (415,000) (2009)",
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.42,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 3.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.31,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.52,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.52,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 20
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"the US has intensified domestic security measures and is collaborating closely with its neighbors, Canada and Mexico, to monitor and control legal and illegal personnel, transport, and commodities across the international borders",
+			"abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements",
+			"1990 Maritime Boundary Agreement in the Bering Sea still awaits Russian Duma ratification",
+			"Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf",
+			"The Bahamas and US have not been able to agree on a maritime boundary",
+			"US Naval Base at Guantanamo Bay is leased from Cuba and only mutual agreement or US abandonment of the area can terminate the lease",
+			"Haiti claims US-administered Navassa Island",
+			"US has made no territorial claim in Antarctica (but has reserved the right to do so) and does not recognize the claims of any other states",
+			"Marshall Islands claims Wake Island",
+			"Tokelau included American Samoa's Swains Island among the islands listed in its 2006 draft constitution"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 11814,
+						"country_of_origin": "Democratic Republic of the Congo"
+					},
+					{
+						"people": 2115,
+						"country_of_origin": "Burma"
+					},
+					{
+						"people": 1927,
+						"country_of_origin": "Ukraine"
+					},
+					{
+						"people": 604,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 537,
+						"country_of_origin": "Iraq"
+					}
+				]
+			},
+			"note": "72,722 Venezuelans have claimed asylum since 2014 because of the economic and political crisis (2018)"
+		},
+		"illicit_drugs": {
+			"note": "world's largest consumer of cocaine (shipped from Colombia through Mexico and the Caribbean), Colombian heroin, and Mexican heroin and marijuana; major consumer of ecstasy and Mexican methamphetamine; minor consumer of high-quality Southeast Asian heroin; illicit producer of cannabis, marijuana, depressants, stimulants, hallucinogens, and methamphetamine; money-laundering center"
+		}
+	}
+}

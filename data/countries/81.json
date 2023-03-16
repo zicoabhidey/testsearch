@@ -1,0 +1,1235 @@
+{
+	"name": "Faroe Islands",
+	"introduction": {
+		"background": "The population of the Faroe Islands is largely descended from Viking settlers who arrived in the 9th century. The islands have been connected politically to Denmark since the 14th century. A high degree of self-government was granted the Faroese in 1948, who have autonomy over most internal affairs while Denmark is responsible for justice, defense, and foreign affairs. The Faroe Islands are not part of the European Union."
+	},
+	"geography": {
+		"location": "Northern Europe, island group between the Norwegian Sea and the North Atlantic Ocean, about halfway between Iceland and Norway",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 62,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 7,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 1393,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1393,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km",
+				"note": "some lakes and streams"
+			},
+			"global_rank": 183,
+			"comparative": "eight times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 1117,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or agreed boundaries or median line"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "or agreed boundaries or median line"
+			}
+		},
+		"climate": "mild winters, cool summers; usually overcast; foggy, windy",
+		"terrain": "rugged, rocky, some low peaks; cliffs along most of coast",
+		"elevation": {
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Slaettaratindur",
+				"elevation": {
+					"value": 882,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"whales",
+				"hydropower",
+				"possible oil",
+				"possible gas"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 2.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 97.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people",
+		"natural_hazards": [
+			{
+				"description": "strong winds and heavy rains can occur throughout the year",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"coastal erosion",
+				"landslides and rockfalls",
+				"flash flooding",
+				"wind storms",
+				"oil spills"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Marine Dumping - associate member to the London Convention and Ship Pollution"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 51628,
+			"global_rank": 209,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Faroese (singular and plural)",
+			"adjective": "Faroese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Faroese",
+					"percent": 87.6,
+					"note": "Scandinavian and Anglo-Saxon descent"
+				},
+				{
+					"name": "Danish",
+					"percent": 7.8
+				},
+				{
+					"name": "other Nordic",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 3.2,
+					"note": "includes Filipino, Thai, British"
+				}
+			],
+			"note": "data represent respondents by country of birth",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Faroese",
+					"percent": 93.8,
+					"note": "derived from Old Norse"
+				},
+				{
+					"name": "Danish",
+					"percent": 3.2
+				},
+				{
+					"name": "other",
+					"percent": 3
+				}
+			],
+			"note": "data represent population by primary language",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 89.3,
+					"note": "predominantly Evangelical Lutheran"
+				},
+				{
+					"name": "other",
+					"percent": 1
+				},
+				{
+					"name": "none",
+					"percent": 3.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 6
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 19.69,
+				"males": 5247,
+				"females": 4920
+			},
+			"15_to_24": {
+				"percent": 13.89,
+				"males": 3708,
+				"females": 3465
+			},
+			"25_to_54": {
+				"percent": 37.01,
+				"males": 10277,
+				"females": 8828
+			},
+			"55_to_64": {
+				"percent": 12,
+				"males": 3199,
+				"females": 2996
+			},
+			"65_and_over": {
+				"percent": 17.41,
+				"males": 4352,
+				"females": 4636
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 37.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 36.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 37.7,
+				"units": "years"
+			},
+			"global_rank": 72,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.6,
+			"global_rank": 150,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.9,
+			"global_rank": 119,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.8,
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 82,
+			"date": "2020"
+		},
+		"population_distribution": "the island of Streymoy is by far the most populous with over 40% of the population; it has approximately twice as many inhabitants as Eysturoy, the second most populous island; seven of the inhabited islands have fewer than 100 people",
+		"urbanization": {
+			"urban_population": {
+				"value": 42.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.74,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Torshavn",
+					"population": 21000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.16,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.94,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.08,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 176,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 80.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.6,
+				"units": "years"
+			},
+			"global_rank": 42,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.31,
+			"global_rank": 82,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.62,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.1,
+			"date": "2015"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 99,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Faroe Islands",
+			"local_long_form": "none",
+			"local_short_form": "Foroyar",
+			"etymology": "the archipelago's name may derive from the Old Norse word \"faer,\" meaning sheep"
+		},
+		"government_type": "parliamentary democracy (Faroese Parliament); part of the Kingdom of Denmark",
+		"capital": {
+			"name": "Torshavn",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 62,
+					"minutes": 0,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 6,
+					"minutes": 46,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the meaning in Danish is Thor's harbor"
+		},
+		"independence": {},
+		"national_holidays": [
+			{
+				"name": "Olaifest",
+				"day": "29 July",
+				"original_year": "1030",
+				"note": "Olavsoka; commemorates the death in battle of King OLAF II of Norway, later St. OLAF"
+			}
+		],
+		"constitution": {
+			"history": "5 June 1953 (Danish Constitution), 23 March 1948 (Home Rule Act), and 24 June 2005 (Takeover Act) serve as the Faroe Islands' constitutional position in the Unity of the Realm",
+			"amendments": "see entry for Denmark"
+		},
+		"legal_system": "the laws of Denmark apply where applicable",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Lene Moyell JOHANSEN, chief administrative officer (since 15 May 2017)",
+			"head_of_government": "Prime Minister Bardhur A STEIG NIELSEN (since 16 September 2019)",
+			"cabinet": "Landsstyri appointed by the prime minister",
+			"elections_appointments": "the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 31 August 2019 (next to be held in 2023)",
+			"election_results": "Bardhur A STEIGNIELSEN elected prime minister; Parliament vote - NA"
+		},
+		"legislative_branch": {
+			"description": "unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)\nthe Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms",
+			"elections": "Faroese Parliament - last held on 31 August 2019 (next to be held in 2023)\nFaroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)",
+			"election_results": "Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2%\nFaroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - 2 men"
+		},
+		"judicial_branch": {
+			"highest_courts": "Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system",
+			"subordinate_courts": "Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Center Party ",
+					"leaders": [
+						"Jenis av RANA"
+					],
+					"note": "Midflokkurin"
+				},
+				{
+					"name": "Self-Government Party ",
+					"leaders": [
+						"Jogvan SKORHEIM"
+					],
+					"note": "Sjalvstyri or Sjalvstyrisflokkurin"
+				},
+				{
+					"name": "People's Party ",
+					"leaders": [
+						"Jorgen NICLASEN"
+					],
+					"note": "Folkaflokkurin"
+				},
+				{
+					"name": "Progressive Party ",
+					"leaders": [
+						"Poul MICHELSEN"
+					],
+					"note": "Framsokn"
+				},
+				{
+					"name": "Republic  ",
+					"leaders": [
+						"Hogni HOYDAL"
+					],
+					"note": "Tjodveldi; formerly the Republican Party"
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "JF",
+					"leaders": [
+						"Aksel V. JOHANNESEN"
+					],
+					"note": "Javnadarflokkurin"
+				},
+				{
+					"name": "Union Party ",
+					"leaders": [
+						"Bardhur A STEIG NIELSEN"
+					],
+					"note": "Sambandsflokkurin"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "IMO ",
+				"note": "associate"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "UNESCO ",
+				"note": "associate"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning \"the banner\" or \"the mark,\" the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence; white represents the clear Faroese sky, as well as the foam of the waves; red and blue are traditional Faroese colors",
+			"note": "the blue on the flag is a lighter blue (azure) than that found on the flags of Iceland or Norway"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "ram"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Mitt alfagra land\" (My Fairest Land)",
+			"lyrics_music": "Simun av SKAROI/Peter ALBERG",
+			"note": "adopted 1948; the anthem is also known as \"Tu alfagra land mitt\" (Thou Fairest Land of Mine); as a self-governing overseas administrative division of Denmark, the Faroe Islands are permitted their own national anthem"
+		}
+	},
+	"economy": {
+		"overview": "The Faroese economy has experienced a period of significant growth since 2011, due to higher fish prices and increased salmon farming and catches in the pelagic fisheries. Fishing has been the main source of income for the Faroe Islands since the late 19th century, but dependence on fishing makes the economy vulnerable to price fluctuations. Nominal GDP, measured in current prices, grew 5.6% in 2015 and 6.8% in 2016. GDP growth was forecast at 6.2% in 2017, slowing to 0.5% in 2018, due to lower fisheries quotas, higher oil prices and fewer farmed salmon combined with lower salmon prices. The fisheries sector accounts for about 97% of exports, and half of GDP. Unemployment is low, estimated at 2.1% in early 2018. Aided by an annual subsidy from Denmark, which amounts to about 11% of Faroese GDP , Faroese have a standard of living equal to that of Denmark. The Faroe Islands have bilateral free trade agreements with the EU, Iceland, Norway, Switzerland, and Turkey.\nFor the first time in 8 years, the Faroe Islands managed to generate a public budget surplus in 2016, a trend which continued in 2017. The local government intends to use this to reduce public debt, which reached 38% of GDP in 2015. A fiscal sustainability analysis of the Faroese economy shows that a long-term tightening of fiscal policy of 5% of GDP is required for fiscal sustainability.\nIncreasing public infrastructure investments are likely to lead to continued growth in the short term, and the Faroese economy is becoming somewhat more diversified. Growing industries include financial services, petroleum-related businesses, shipping, maritime manufacturing services, civil aviation, IT, telecommunications, and tourism.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2001000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 1890000000,
+						"units": "USD",
+						"date": "2013"
+					},
+					{
+						"value": 1608000000,
+						"units": "USD",
+						"date": "2012"
+					}
+				],
+				"global_rank": 197
+			},
+			"official_exchange_rate": {
+				"USD": 2765000000,
+				"date": "2014"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 7.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 35
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 40000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 45
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 52,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 29.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 18.4,
+							"units": "%"
+						}
+					},
+					"date": "2013"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 18,
+							"units": "%"
+						},
+						"industry": {
+							"value": 39,
+							"units": "%"
+						},
+						"services": {
+							"value": 43,
+							"units": "%"
+						}
+					},
+					"date": "2013"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 25.7,
+					"units": "percent_of_gdp",
+					"date": "2012"
+				},
+				{
+					"value": 25.2,
+					"units": "percent_of_gdp",
+					"date": "2011"
+				},
+				{
+					"value": 25.9,
+					"units": "percent_of_gdp",
+					"date": "2010"
+				}
+			],
+			"global_rank": 53
+		},
+		"agriculture_products": {
+			"products": [
+				"milk",
+				"potatoes",
+				"vegetables",
+				"sheep",
+				"salmon",
+				"herring",
+				"mackerel",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"fishing",
+				"fish processing",
+				"tourism",
+				"small ship repair",
+				"refurbishment",
+				"handicrafts"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.4,
+			"global_rank": 91,
+			"date": "2009"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 27540,
+				"global_rank": 206,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 15,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15,
+						"units": "%"
+					},
+					"services": {
+						"value": 70,
+						"units": "%"
+					}
+				},
+				"date": "2016-12-01"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 20
+		},
+		"population_below_poverty_line": {
+			"value": 10,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 835600000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 883800000,
+				"units": "USD",
+				"note": "2014"
+			},
+			"note": "Denmark supplies the Faroe Islands with almost one-third of its public funds",
+			"date": "2014"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 30.2,
+			"global_rank": 76,
+			"date": "2014"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.7,
+			"global_rank": 95,
+			"date": "2014"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 35,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				}
+			],
+			"global_rank": 152
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.3,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": -1.7,
+					"units": "%",
+					"date": "2015"
+				}
+			],
+			"global_rank": 8
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1184000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1018999999.9999999,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 153
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"fish products (97%)"
+				],
+				"date": "2017"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 26.4
+					},
+					{
+						"name": "UK",
+						"percent": 14.1
+					},
+					{
+						"name": "Germany",
+						"percent": 8.4
+					},
+					{
+						"name": "China",
+						"percent": 7.9
+					},
+					{
+						"name": "Spain",
+						"percent": 6.8
+					},
+					{
+						"name": "Denmark",
+						"percent": 6.2
+					},
+					{
+						"name": "US",
+						"percent": 4.7
+					},
+					{
+						"name": "Poland",
+						"percent": 4.4
+					},
+					{
+						"name": "Norway",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 978400000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 906100000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 186
+			},
+			"commodities": {
+				"by_commodity": [
+					"goods for household consumption",
+					"machinery",
+					"transport equipment",
+					"fuels",
+					"raw materials",
+					"semi-manufactures",
+					"cars"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Denmark",
+						"percent": 33
+					},
+					{
+						"name": "China",
+						"percent": 10.7
+					},
+					{
+						"name": "Germany",
+						"percent": 7.6
+					},
+					{
+						"name": "Poland",
+						"percent": 6.8
+					},
+					{
+						"name": "Norway",
+						"percent": 6.7
+					},
+					{
+						"name": "Ireland",
+						"percent": 5
+					},
+					{
+						"name": "Chile",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 387600000,
+					"units": "USD",
+					"date": "2012"
+				},
+				{
+					"value": 274500000,
+					"units": "USD",
+					"date": "2010"
+				}
+			],
+			"global_rank": 181
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 6.586,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 6.7269,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 6.7269,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 6.7236,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 5.6125,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Danish kroner (DKK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 307000000,
+				"global_rank": 180,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 285500000,
+				"global_rank": 185,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 134,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 148,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 128300,
+				"global_rank": 176,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 54,
+					"global_rank": 142,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 90,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 31,
+					"global_rank": 66,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 16,
+					"global_rank": 52,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 136,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 123,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 127,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 131,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 145,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 4600,
+				"global_rank": 180,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 155,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 4555,
+				"global_rank": 174,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 132,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 146,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 104,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 125,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 135,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 739300,
+			"global_rank": 176,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 19137,
+				"subscriptions_per_one_hundred_inhabitants": 37.29,
+				"global_rank": 178,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 59771,
+				"subscriptions_per_one_hundred_inhabitants": 116.47,
+				"global_rank": 204,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 publicly owned TV station; the Faroese telecommunications company distributes local and international channels through its digital terrestrial network; publicly owned radio station supplemented by 3 privately owned stations broadcasting over multiple frequencies",
+		"internet": {
+			"country_code": ".fo",
+			"users": {
+				"total": 49783,
+				"percent_of_population": 97.58,
+				"global_rank": 197,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 3,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OY-H",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 220,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 960,
+				"units": "km"
+			},
+			"paved": {
+				"value": 500,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 460,
+				"units": "km"
+			},
+			"note": "those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels",
+			"global_rank": 186,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 107,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 6
+				},
+				{
+					"type": "general cargo",
+					"count": 46
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 54
+				}
+			],
+			"global_rank": 86,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Fuglafjordur",
+				"Torshavn",
+				"Vagur"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Denmark"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"because anticipated offshore hydrocarbon resources have not been realized, earlier Faroese proposals for full independence have been deferred",
+			"Iceland, the UK, and Ireland dispute Denmark's claim to UNCLOS that the Faroe Islands' continental shelf extends beyond 200 nm"
+		]
+	}
+}

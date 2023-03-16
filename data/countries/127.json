@@ -1,0 +1,1841 @@
+{
+	"name": "Korea, South",
+	"introduction": {
+		"background": "An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime, from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.\nSouth Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his \"Sunshine\" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-DPRK summits in 2018 and 2019."
+	},
+	"geography": {
+		"location": "Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan and the Yellow Sea",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 37,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 127,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 99720,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 96920,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2800,
+				"units": "sq km"
+			},
+			"global_rank": 110,
+			"comparative": "slightly smaller than Pennsylvania; slightly larger than Indiana"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 237,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "North Korea",
+					"border_length": {
+						"value": 237,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 2413,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"note": "nm; between 3 nm and 12 nm in the Korea Strait"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": "not specified"
+		},
+		"climate": "temperate, with rainfall heavier in summer than winter; cold winters",
+		"terrain": "mostly hills and mountains; wide coastal plains in west and south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 282,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Sea of Japan",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Halla-san",
+				"elevation": {
+					"value": 1950,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"tungsten",
+				"graphite",
+				"molybdenum",
+				"lead",
+				"hydropower potential"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 18.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 15.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 63.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 18,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 7780,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated",
+		"natural_hazards": [
+			{
+				"description": "occasional typhoons bring high winds and floods",
+				"type": "hazard"
+			},
+			{
+				"description": "low-level seismic activity common in southwest",
+				"type": "hazard"
+			},
+			{
+				"description": "Halla (1,950 m) is considered historically active although it has not erupted in many centuries",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution in large cities",
+				"acid rain",
+				"water pollution from the discharge of sewage and industrial effluents",
+				"drift net fishing",
+				"solid waste disposal",
+				"transboundary pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 51835110,
+			"global_rank": 28,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Korean(s)",
+			"adjective": "Korean"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "homogeneous"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Korean"
+				},
+				{
+					"name": "English",
+					"note": "widely taught in elementary, junior high, and high school"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 19.7
+				},
+				{
+					"name": "Buddhist",
+					"percent": 15.5
+				},
+				{
+					"name": "Catholic",
+					"percent": 7.9
+				},
+				{
+					"name": "none",
+					"percent": 56.9
+				}
+			],
+			"note": "many people also carry on at least some Confucian traditions and practices",
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 12.77,
+				"males": 3401815,
+				"females": 3219589
+			},
+			"15_to_24": {
+				"percent": 11.18,
+				"males": 3030027,
+				"females": 2764860
+			},
+			"25_to_54": {
+				"percent": 44.66,
+				"males": 12043626,
+				"females": 11106927
+			},
+			"55_to_64": {
+				"percent": 15.47,
+				"males": 3927496,
+				"females": 4089033
+			},
+			"65_and_over": {
+				"percent": 15.92,
+				"males": 3572855,
+				"females": 4678882
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 39.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 17.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 22,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 43.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 41.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 45,
+				"units": "years"
+			},
+			"global_rank": 29,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.39,
+			"global_rank": 162,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.2,
+			"global_rank": 220,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.8,
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.3,
+			"global_rank": 45,
+			"date": "2020"
+		},
+		"population_distribution": "with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 81.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.3,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Seoul",
+					"population": 9963000,
+					"is_capital": true
+				},
+				{
+					"place": "Busan",
+					"population": 3465000
+				},
+				{
+					"place": "Incheon",
+					"population": 2801000
+				},
+				{
+					"place": "Daegu",
+					"population": 2199000,
+					"note": "Taegu"
+				},
+				{
+					"place": "Daejon",
+					"population": 1566000,
+					"note": "Taejon"
+				},
+				{
+					"place": "Gwangju",
+					"population": 1522000,
+					"note": "Kwangju"
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.76,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 31,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 11,
+			"global_rank": 142,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 216,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.9,
+				"units": "years"
+			},
+			"global_rank": 15,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.29,
+			"global_rank": 223,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 82.3,
+			"units": "%",
+			"note": "percent of women aged 20-49",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.36,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 12.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"note": "a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a Travel Advisory recommending avoiding all international travel due to COVID-19; the Centers for Disease Control and Prevention has recommended against all international travel and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/ ; as of 10 November 2020, South Korea has reported 27,427 confirmed cases of COVID19 with 478 deaths",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 4.7,
+			"global_rank": 184,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 0.7,
+			"global_rank": 128,
+			"date": "2010"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.3,
+			"global_rank": 48,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 96.6,
+				"units": "%"
+			},
+			"date": "2019"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 16,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 10.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 10,
+				"units": "%"
+			},
+			"global_rank": 124,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Korea",
+			"conventional_short_form": "South Korea",
+			"local_long_form": "Taehan-min'guk",
+			"local_short_form": "Han'guk",
+			"abbreviation": "ROK",
+			"etymology": "derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name \"Han'guk\" derives from the long form, \"Taehan-min'guk,\" which is itself a derivation from \"Daehan-je'guk,\" which means \"the Great Empire of the Han\"; \"Han\" refers to the \"Sam'han\" or the \"Three Han Kingdoms\" (Goguryeo, Baekje, and Silla from the Three Kingdoms Era, 1st-7th centuries A.D.)"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, is serving as an administrative capital for segments of the South Korean Government",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 37,
+					"minutes": 33,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 126,
+					"minutes": 59,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 9,
+				"note": "14 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name originates from the Korean word meaning \"capital city\" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla"
+		},
+		"independence": {
+			"date": "1945-08-15",
+			"note": "from Japan"
+		},
+		"national_holidays": [
+			{
+				"name": "Liberation Day",
+				"day": "15 August",
+				"original_year": "1945"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988",
+			"amendments": "proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987"
+		},
+		"legal_system": "mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of South Korea",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"universal": true,
+			"compulsory": false,
+			"note": "18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election"
+		},
+		"executive_branch": {
+			"chief_of_state": "President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister CHUNG Sye-kyun (since 14 January 2020) serves as the principal executive assistant to the president, similar to the role of a vice president",
+			"head_of_government": "President MOON Jae-in (since 10 May 2017)",
+			"cabinet": "State Council appointed by the president on the prime minister's recommendation",
+			"elections_appointments": "president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held in March 2022); prime minister appointed by president with consent of National Assembly",
+			"election_results": "MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 15 April 2020 (next to be held in April 2024)",
+			"election_results": "percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)",
+			"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65",
+			"subordinate_courts": "High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Bareun Mirae Party",
+					"name_alternative": "BMP",
+					"leaders": [
+						"SOHN Hak-kyu"
+					],
+					"note": "merger of Bareun Party and People's Party"
+				},
+				{
+					"name": "Democratic Party or DP  [KIM Han-gil] and the New Political Vision Party or NPVP [AHN Cheol-soo] in March 2014",
+					"name_alternative": "",
+					"leaders": [
+						"LEE Hae-chan"
+					],
+					"note": "renamed from Minjoo Party of Korea or MPK in October 2016; formerly New Politics Alliance for Democracy or NPAD, which was a merger of the Democratic Party or DP (formerly DUP; "
+				},
+				{
+					"name": "Justice Party",
+					"name_alternative": "JP",
+					"leaders": [
+						"SIM Sang-jung"
+					]
+				},
+				{
+					"name": "Minjung Party or MP  and the People's United Party or PUP",
+					"name_alternative": "",
+					"note": "formed from the merger of the New People's Party (formerly the New People's Political Party or NPP; "
+				},
+				{
+					"name": "Open Democratic Pary",
+					"name_alternative": "ODP",
+					"leaders": [
+						"LEE Keun-shik"
+					],
+					"note": "formed in early 2020"
+				},
+				{
+					"name": "Our Republic Party ",
+					"leaders": [
+						"CHO Won-jin and HONG Moon-jong"
+					],
+					"note": "formerly Korean Patriots' Party or KPP"
+				},
+				{
+					"name": "Party for Democracy and Peace",
+					"name_alternative": "PDP",
+					"leaders": [
+						"CHUNG Dong-young"
+					]
+				},
+				{
+					"name": "People Party",
+					"name_alternative": "PP",
+					"leaders": [
+						"AHN Cheol-soo"
+					],
+					"note": "formed in February 2020"
+				},
+				{
+					"name": "Together Citizens' Party ",
+					"leaders": [
+						"WOO Hee-jong",
+						"ChOI Bae-geun"
+					],
+					"note": "formed in early 2020 in alliance with the Democratic Party"
+				},
+				{
+					"name": "United Future Party",
+					"name_alternative": "UFP"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN ",
+				"note": "dialogue partner"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE ",
+				"note": "partner"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club ",
+				"note": "associate"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "SAARC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador LEE Soo-hyuck (since 6 January 2020)",
+				"chancery": "2450 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 939-5600",
+				"fax": "[1] (202) 797-0595",
+				"consulates_general": "Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Harry HARRIS (since 10 July 2018)",
+				"telephone": "[82] (2) 397-4114",
+				"embassy": "188 Sejong-daero, Jongno-gu, Seoul 03141",
+				"mailing_address": "US Embassy Seoul, 9600 Seoul Place Washington, D.C., 20521-9600",
+				"fax": "[82] (2) 725-0152"
+			}
+		},
+		"flag_description": {
+			"description": "white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "taegeuk ",
+					"note": "yin yang symbol"
+				},
+				{
+					"symbol": "Hibiscus syriacus ",
+					"note": "Rose of Sharon"
+				},
+				{
+					"symbol": "Siberian tiger"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Aegukga\" (Patriotic Song)",
+			"lyrics_music": "YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay",
+			"note": "adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/KS.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "After emerging from the 1950-53 war with North Korea, South Korea emerged as one of the 20th century’s most remarkable economic success stories, becoming a developed, globally connected, high-technology society within decades. In the 1960s, GDP per capita was comparable with levels in the poorest countries in the world. In 2004, South Korea's GDP surpassed one trillion dollars.\nBeginning in the 1960s under President PARK Chung-hee, the government promoted the import of raw materials and technology, encouraged saving and investment over consumption, kept wages low, and directed resources to export-oriented industries that remain important to the economy to this day. Growth surged under these policies, and frequently reached double-digits in the 1960s and 1970s. Growth gradually moderated in the 1990s as the economy matured, but remained strong enough to propel South Korea into the ranks of the advanced economies of the OECD by 1997. These policies also led to the emergence of family-owned chaebol conglomerates such as Daewoo, Hyundai, and Samsung, which retained their dominant positions even as the government loosened its grip on the economy amid the political changes of the 1980s and 1990s.\nThe Asian financial crisis of 1997-98 hit South Korea’s companies hard because of their excessive reliance on short-term borrowing, and GDP ultimately plunged by 7% in 1998. South Korea tackled difficult economic reforms following the crisis, including restructuring some chaebols, increasing labor market flexibility, and opening up to more foreign investment and imports. These steps lead to a relatively rapid economic recovery. South Korea also began expanding its network of free trade agreements to help bolster exports, and has since implemented 16 free trade agreements covering 58 countries—including the United State and China—that collectively cover more than three-quarters of global GDP.\nIn 2017, the election of President MOON Jae-in brought a surge in consumer confidence, in part, because of his successful efforts to increase wages and government spending. These factors combined with an uptick in export growth to drive real GDP growth to more than 3%, despite disruptions in South Korea’s trade with China over the deployment of a US missile defense system in South Korea.\nIn 2018 and beyond, South Korea will contend with gradually slowing economic growth - in the 2-3% range - not uncommon for advanced economies. This could be partially offset by efforts to address challenges arising from its rapidly aging population, inflexible labor market, continued dominance of the chaebols, and heavy reliance on exports rather than domestic consumption. Socioeconomic problems also persist, and include rising inequality, poverty among the elderly, high youth unemployment, long working hours, low worker productivity, and corruption.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2035000000000.0002,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1974000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1918000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 14,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1540000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.04,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.91,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.16,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 134
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 39500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 38500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 37600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 46,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 48.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 31.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 43.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -37.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 39.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 58.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 36.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 36.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 36.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 15
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"root crops",
+				"barley",
+				"vegetables",
+				"fruit",
+				"cattle",
+				"pigs",
+				"chickens",
+				"milk",
+				"eggs",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"electronics",
+				"telecommunications",
+				"automobile production",
+				"chemicals",
+				"shipbuilding",
+				"steel"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.6,
+			"global_rank": 63,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 26839000,
+				"global_rank": 19,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 4.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 70.6,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.76,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.85,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 55
+		},
+		"population_below_poverty_line": {
+			"value": 14.4,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 6.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 48.5,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 357100000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 335800000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 23.2,
+			"global_rank": 129,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.4,
+			"global_rank": 24,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 39.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 39.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 133
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 97
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 59971000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 77467000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 9
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 577400000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 512000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 5
+			},
+			"commodities": {
+				"by_commodity": [
+					"semiconductors",
+					"petrochemicals",
+					"automobile/auto parts",
+					"ships",
+					"wireless communication equipment",
+					"flat displays",
+					"steel",
+					"electronics",
+					"plastics",
+					"computers"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 25.1
+					},
+					{
+						"name": "US",
+						"percent": 12.2
+					},
+					{
+						"name": "Vietnam",
+						"percent": 8.2
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 6.9
+					},
+					{
+						"name": "Japan",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 457500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 393100000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 9
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil/petroleum products",
+					"semiconductors",
+					"natural gas",
+					"coal",
+					"steel",
+					"computers",
+					"wireless communication equipment",
+					"automobiles",
+					"fine chemicals",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 20.5
+					},
+					{
+						"name": "Japan",
+						"percent": 11.5
+					},
+					{
+						"name": "US",
+						"percent": 10.5
+					},
+					{
+						"name": "Germany",
+						"percent": 4.2
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 389200000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 371100000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 9
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 384600000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 384100000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 29
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1130.48,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1160.41,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1160.77,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1130.95,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1052.96,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "South Korean won (KRW) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 526000000000,
+				"global_rank": 10,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 507600000000,
+				"global_rank": 9,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 155,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 166,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 111200000,
+				"global_rank": 11,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 70,
+					"global_rank": 109,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 21,
+					"global_rank": 7,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 2,
+					"global_rank": 139,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 8,
+					"global_rank": 86,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 157,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 148,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 3057000,
+				"global_rank": 5,
+				"date": "2017"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 3302000,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 2584000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 1396000,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 908800,
+				"global_rank": 6,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 339800000,
+				"global_rank": 76,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 45280000000,
+				"global_rank": 18,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 131,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 48650000000,
+				"global_rank": 9,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 7079000000,
+				"global_rank": 82,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 778400000,
+			"global_rank": 7,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 24924607,
+				"subscriptions_per_one_hundred_inhabitants": 48.27,
+				"global_rank": 10,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 69445005,
+				"subscriptions_per_one_hundred_inhabitants": 134.49,
+				"global_rank": 23,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations",
+		"internet": {
+			"country_code": ".kr",
+			"users": {
+				"total": 49309955,
+				"percent_of_population": 95.9,
+				"global_rank": 17,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 14,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 424,
+				"annual_passenger_traffic_on_registered_air_carriers": 88157579,
+				"annual_freight_traffic_on_registered_air_carriers": 11929560000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HL",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 111,
+					"global_rank": 52,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 71,
+					"over_3047_metres": 4,
+					"2438_to_3047_metres": 19,
+					"1524_to_2437_metres": 12,
+					"914_to_1523_metres": 13,
+					"under_914_metres": 23,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 40,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 38,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 466,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 3790,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 16,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 889,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 3979,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 3979,
+				"electrified": 2727,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 49,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 100428,
+				"units": "km"
+			},
+			"paved": {
+				"value": 92795,
+				"units": "km",
+				"note": "includes 4,193 km of expressways"
+			},
+			"unpaved": {
+				"value": 7633,
+				"units": "km"
+			},
+			"global_rank": 47,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 1600,
+			"units": "km",
+			"note": "most navigable only by small craft",
+			"global_rank": 49,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 1880,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 83
+				},
+				{
+					"type": "container ship",
+					"count": 86
+				},
+				{
+					"type": "general cargo",
+					"count": 368
+				},
+				{
+					"type": "oil tanker",
+					"count": 187
+				},
+				{
+					"type": "other",
+					"count": 1156
+				}
+			],
+			"global_rank": 12,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Busan",
+				"Incheon",
+				"Gunsan",
+				"Kwangyang",
+				"Mokpo",
+				"Pohang",
+				"Ulsan",
+				"Yeosu"
+			],
+			"container_ports": [
+				{
+					"place": "Busan",
+					"twenty_foot_equivalent_units": 20493000
+				},
+				{
+					"place": "Incheon",
+					"twenty_foot_equivalent_units": 3050000
+				},
+				{
+					"place": "Kwangyang",
+					"twenty_foot_equivalent_units": 2230000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Incheon",
+				"Kwangyang",
+				"Pyeongtaek",
+				"Samcheok",
+				"Tongyeong",
+				"Yeosu"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 33
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-28 years of age for compulsory military service; minimum conscript service obligation varies by service- 21 months (Army, Marines), 23 months (Navy), 24 months (Air Force); 18-26 years of age for voluntary military service; women, in service since 1950, are able to serve in all branches \nnote:  South Korea intends to reduce the length of military service to 18 – 22 months by 2022",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953",
+			"periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary",
+			"South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 197,
+				"date": "2019"
+			}
+		}
+	}
+}

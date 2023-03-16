@@ -1,0 +1,1863 @@
+{
+	"name": "Norway",
+	"introduction": {
+		"background": "Two centuries of Viking raids into Europe tapered off following the adoption of Christianity by King Olav TRYGGVASON in 994; conversion of the Norwegian kingdom occurred over the next several decades. In 1397, Norway was absorbed into a union with Denmark that lasted more than four centuries. In 1814, Norwegians resisted the cession of their country to Sweden and adopted a new constitution. Sweden then invaded Norway but agreed to let Norway keep its constitution in return for accepting the union under a Swedish king. Rising nationalism throughout the 19th century led to a 1905 referendum granting Norway independence. Although Norway remained neutral in World War I, it suffered heavy losses to its shipping. Norway proclaimed its neutrality at the outset of World War II, but was nonetheless occupied for five years by Nazi Germany (1940-45). In 1949, Norway abandoned neutrality and became a member of NATO. Discovery of oil and gas in adjacent waters in the late 1960s boosted Norway's economic fortunes. In referenda held in 1972 and 1994, Norway rejected joining the EU. Key domestic issues include immigration and integration of ethnic minorities, maintaining the country's extensive social safety net with an aging population, and preserving economic competitiveness."
+	},
+	"geography": {
+		"location": "Northern Europe, bordering the North Sea and the North Atlantic Ocean, west of Sweden",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 62,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 10,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 323802,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 304282,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 19520,
+				"units": "sq km"
+			},
+			"global_rank": 69,
+			"comparative": "slightly larger than twice the size of Georgia; slightly larger than New Mexico"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2566,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Finland",
+					"border_length": {
+						"value": 709,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sweden",
+					"border_length": {
+						"value": 1666,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia",
+					"border_length": {
+						"value": 191,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 25148,
+			"units": "km",
+			"note": "includes mainland 2,650 km, as well as long fjords, numerous small islands, and minor indentations 22,498 km; length of island coastlines 58,133 km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 10,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast",
+		"terrain": "glaciated; mostly high plateaus and rugged mountains broken by fertile valleys; small, scattered plains; coastline deeply indented by fjords; arctic tundra in north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 460,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Norwegian Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Galdhopiggen",
+				"elevation": {
+					"value": 2469,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"iron ore",
+				"copper",
+				"lead",
+				"zinc",
+				"titanium",
+				"pyrites",
+				"nickel",
+				"fish",
+				"timber",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 2.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 27.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 69.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 900,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most Norweigans live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "rockslides, avalanches",
+				"type": "hazard"
+			},
+			{
+				"description": "Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution",
+				"acid rain damaging forests and adversely affecting lakes",
+				"threatening fish stocks",
+				"air pollution from vehicle emissions"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5467439,
+			"global_rank": 119,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Norwegian(s)",
+			"adjective": "Norwegian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Norwegian",
+					"percent": 83.2,
+					"note": "includes about 60,000 Sami"
+				},
+				{
+					"name": "other European",
+					"percent": 8.3
+				},
+				{
+					"name": "other",
+					"percent": 8.5
+				}
+			],
+			"date": "2017"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Bokmal Norwegian",
+					"note": "official"
+				},
+				{
+					"name": "Nynorsk Norwegian",
+					"note": "official"
+				},
+				{
+					"name": "small Sami- and Finnish-speaking minorities"
+				}
+			],
+			"note": "Sami has three dialects: Lule, North Sami, and South Sami; Sami is an official language in nine municipalities in Norway's three northernmost counties: Finnmark, Nordland, and Troms"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Church of Norway",
+					"percent": 70.6,
+					"note": "Evangelical Lutheran - official"
+				},
+				{
+					"name": "Muslim",
+					"percent": 3.2
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 3
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.7
+				},
+				{
+					"name": "other",
+					"percent": 2.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 17
+				}
+			],
+			"date": "2016"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 17.96,
+				"males": 503013,
+				"females": 478901
+			},
+			"15_to_24": {
+				"percent": 12.02,
+				"males": 336597,
+				"females": 320720
+			},
+			"25_to_54": {
+				"percent": 40.75,
+				"males": 1150762,
+				"females": 1077357
+			},
+			"55_to_64": {
+				"percent": 11.84,
+				"males": 328865,
+				"females": 318398
+			},
+			"65_and_over": {
+				"percent": 17.43,
+				"males": 442232,
+				"females": 510594
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 26.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 26.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.7,
+					"units": "%"
+				}
+			},
+			"note": "data include Svalbard and Jan Mayen Islands",
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 39.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 38.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 40.2,
+				"units": "years"
+			},
+			"global_rank": 57,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.85,
+			"global_rank": 123,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.2,
+			"global_rank": 159,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.1,
+			"global_rank": 89,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 4,
+			"global_rank": 29,
+			"date": "2020"
+		},
+		"population_distribution": "most Norweigans live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 83,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.4,
+				"units": "%"
+			},
+			"note": "data include Svalbard and Jan Mayen Islands",
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Oslo",
+					"population": 1040999.9999999999,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.87,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.02,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.3,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 2,
+			"global_rank": 183,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 223,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 80,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.4,
+				"units": "years"
+			},
+			"global_rank": 23,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.84,
+			"global_rank": 141,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.83,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 128,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 5800,
+				"global_rank": 119,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 23.1,
+			"global_rank": 68,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 8,
+			"global_rank": 5,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 18,
+				"units": "years"
+			},
+			"female": {
+				"value": 19,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 9.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 8.6,
+				"units": "%"
+			},
+			"global_rank": 127,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Norway",
+			"conventional_short_form": "Norway",
+			"local_long_form": "Kongeriket Norge",
+			"local_short_form": "Norge",
+			"etymology": "derives from the Old Norse words \"nordr\" and \"vegr\" meaning \"northern way\" and refers to the long coastline of western Norway"
+		},
+		"government_type": "parliamentary constitutional monarchy",
+		"capital": {
+			"name": "Oslo",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 59,
+					"minutes": 55,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 10,
+					"minutes": 45,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the medieval name was spelt \"Aslo\"; the \"as\" component refered either to the Ekeberg ridge southeast of the town (\"as\" in modern Norwegian), or to the Aesir (Norse gods); \"lo\" refered to \"meadow,\" so the most likely interpretations would have been either \"the meadow beneath the ridge\" or \"the meadow of the gods\"; both explanations are considered equally plausible"
+		},
+		"dependent_areas": {
+			"areas": [
+				"Bouvet Island",
+				"Jan Mayen",
+				"Svalbard"
+			]
+		},
+		"independence": {
+			"date": "1905-06-07",
+			"note": "declared the union with Sweden dissolved; 26 October 1905 (Sweden agreed to the repeal of the union); notable earlier dates: ca. 872 (traditional unification of petty Norwegian kingdoms by HARALD Fairhair); 1397 (Kalmar Union of Denmark, Norway, and Sweden); 1524 (Denmark-Norway); 17 May 1814 (Norwegian constitution adopted); 4 November 1814 (Sweden-Norway union confirmed)"
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "17 May",
+				"original_year": "1814"
+			}
+		],
+		"constitution": {
+			"history": "drafted spring 1814, adopted 16 May 1814, signed by Constituent Assembly 17 May 1814",
+			"amendments": "proposals submitted by members of Parliament or by the government within the first three years of Parliament's four-year term; passage requires two-thirds majority vote of a two-thirds quorum in the next elected Parliament; amended over 400 times, last in 2020 (2020)"
+		},
+		"legal_system": "mixed legal system of civil, common, and customary law; Supreme Court can advise on legislative acts",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Norway",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS (son of the monarch, born 20 July 1973)",
+			"head_of_government": "Prime Minister Erna SOLBERG (since 16 October 2013)",
+			"cabinet": "Council  of State appointed by the monarch, approved by Parliament",
+			"elections_appointments": "the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 11 September 2017 (next to be held in September 2021)",
+			"election_results": "percent of vote by party - Ap 27.4%, H 25%, FrP 15.2%, SP 10.3%, SV 6%, V 4.4%, KrF 4.2%, MDG 3.2%, R 2.4%, other/invalid 1.9%; seats by party - Ap 49, H 45, FrP 27, SP 19, SV 11, V 8, KrF 8, MDG 1, R 1; composition - men 99, women 70, percent of women 41.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)",
+			"judge_selection_and_term_of_office": "justices appointed by the monarch (King in Council) upon the recommendation of the Judicial Appointments Board; justices can serve until mandatory retirement at age 70",
+			"subordinate_courts": "Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Center Party",
+					"name_alternative": "Sp",
+					"leaders": [
+						"Trygve Slagsvold VEDUM"
+					]
+				},
+				{
+					"name": "Christian Democratic Party",
+					"name_alternative": "KrF",
+					"leaders": [
+						"Kjell Ingolf ROPSTADT"
+					]
+				},
+				{
+					"name": "Conservative Party",
+					"name_alternative": "H",
+					"leaders": [
+						"Erna SOLBERG"
+					]
+				},
+				{
+					"name": "Green Party",
+					"name_alternative": "MDG",
+					"leaders": [
+						"Rasmus HANSSON and Une Aina BASTHOLM"
+					]
+				},
+				{
+					"name": "Labor Party",
+					"name_alternative": "Ap",
+					"leaders": [
+						"Jonas Gahr STORE"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "V",
+					"leaders": [
+						"Trine SKEI GRANDE"
+					]
+				},
+				{
+					"name": "Progress Party",
+					"name_alternative": "FrP",
+					"leaders": [
+						"Siv JENSEN"
+					]
+				},
+				{
+					"name": "Red Party",
+					"name_alternative": "R",
+					"leaders": [
+						"Bionar MOXNES"
+					]
+				},
+				{
+					"name": "Socialist Left Party",
+					"name_alternative": "SV",
+					"leaders": [
+						"Audun LYSBAKKEN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EFTA"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Anniken Ramberg KRUTNES (since 17 September 2020)",
+				"chancery": "2720 34th Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 333-6000",
+				"fax": "[1] (202) 469-3990",
+				"consulates_general": "Houston, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Kenneth BRAITHWAITE (since 8 February 2018)",
+				"telephone": "[47] 21-30-85-40",
+				"embassy": "Morgedalsvegen 36, 0378 Oslo",
+				"mailing_address": "PO Box 4075 AMB 0244 Oslo",
+				"fax": "[47] 22-44-33-63, 22-56-27-51"
+			}
+		},
+		"flag_description": {
+			"description": "red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ja, vi elsker dette landet\" (Yes, We Love This Country)",
+			"lyrics_music": "lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK",
+			"note": "adopted 1864; in addition to the national anthem, \"Kongesangen\" (Song of the King), which uses the tune of \"God Save the Queen,\" serves as the royal anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/NO.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.\nThe country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.\nIn anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a \"fiscal rule,\" which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.\nAfter solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 381200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 374000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 370000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 48,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 398800000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.86,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.36,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.75,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 176
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 72100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 71200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 71100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 11,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 44.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 24,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 4.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 35.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -33.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 33.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 64,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 34.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 33.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 35.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 18
+		},
+		"agriculture_products": {
+			"products": [
+				"barley",
+				"wheat",
+				"potatoes",
+				"pork",
+				"beef",
+				"veal",
+				"milk",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"gas",
+				"shipping",
+				"fishing",
+				"aquaculture",
+				"food processing",
+				"shipbuilding",
+				"pulp",
+				"paper products",
+				"metals",
+				"chemicals",
+				"timber",
+				"mining",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.5,
+			"global_rank": 143,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2699000,
+				"global_rank": 110,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 19.3,
+						"units": "%"
+					},
+					"services": {
+						"value": 78.6,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.72,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.89,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 53
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 21.2,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 217100000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 199500000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 54.4,
+			"global_rank": 9,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 4.4,
+			"global_rank": 8,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 36.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 36.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 146,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 99
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 16655999999.999998,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 31111000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 18
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 102800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 88880000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 36
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"petroleum products",
+					"machinery",
+					"equipment",
+					"metals",
+					"chemicals",
+					"ships",
+					"fish"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UK",
+						"percent": 21.1
+					},
+					{
+						"name": "Germany",
+						"percent": 15.5
+					},
+					{
+						"name": "Netherlands",
+						"percent": 9.9
+					},
+					{
+						"name": "Sweden",
+						"percent": 6.6
+					},
+					{
+						"name": "France",
+						"percent": 6.4
+					},
+					{
+						"name": "Belgium",
+						"percent": 4.8
+					},
+					{
+						"name": "Denmark",
+						"percent": 4.7
+					},
+					{
+						"name": "US",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 95060000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 74940000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 36
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"chemicals",
+					"metals",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Sweden",
+						"percent": 11.4
+					},
+					{
+						"name": "Germany",
+						"percent": 11
+					},
+					{
+						"name": "China",
+						"percent": 9.8
+					},
+					{
+						"name": "US",
+						"percent": 6.8
+					},
+					{
+						"name": "South Korea",
+						"percent": 6.7
+					},
+					{
+						"name": "Denmark",
+						"percent": 5.4
+					},
+					{
+						"name": "UK",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 65920000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 57460000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 34
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 642300000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 640100000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 17,
+			"note": "Norway is a net external creditor"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 8.308,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 8.3978,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 8.3978,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 8.0646,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 6.3021,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Norwegian kroner (NOK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 147700000000,
+				"global_rank": 29,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 122200000000,
+				"global_rank": 29,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 15530000000,
+				"global_rank": 12,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 5741000000,
+				"global_rank": 34,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 33860000,
+				"global_rank": 30,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 3,
+					"global_rank": 208,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 159,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 93,
+					"global_rank": 8,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 4,
+					"global_rank": 115,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1517000,
+				"global_rank": 15,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1383000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 36550,
+				"global_rank": 58,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 6376000000,
+				"global_rank": 20,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 371600,
+				"global_rank": 38,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 205300,
+				"global_rank": 57,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 432800,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 135300,
+				"global_rank": 43,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 123900000000,
+				"global_rank": 7,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 4049000000.0000005,
+				"global_rank": 65,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 120200000000,
+				"global_rank": 3,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 5663000,
+				"global_rank": 77,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 1782000000000,
+				"global_rank": 20,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 39800000,
+			"global_rank": 65,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 571958,
+				"subscriptions_per_one_hundred_inhabitants": 10.55,
+				"global_rank": 90,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 5810113,
+				"subscriptions_per_one_hundred_inhabitants": 107.17,
+				"global_rank": 113,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned TV stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally; Norway is the first country in the world to phase out FM radio in favor of Digital Audio Broadcasting (DAB), a process scheduled for completion in late 2017 (2019)",
+		"internet": {
+			"country_code": ".no",
+			"users": {
+				"total": 5183627,
+				"percent_of_population": 96.49,
+				"global_rank": 82,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 8,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 125,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "LN",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 95,
+					"global_rank": 61,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 67,
+					"2438_to_3047_metres": 14,
+					"1524_to_2437_metres": 10,
+					"914_to_1523_metres": 22,
+					"under_914_metres": 21,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 28,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 22,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 8520,
+					"units": "km"
+				},
+				{
+					"type": "oil/condensate",
+					"length": 1304,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 4200,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 4200,
+				"electrified": 2480,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 45,
+			"date": "2019"
+		},
+		"roadways": {
+			"total": {
+				"value": 94902,
+				"units": "km",
+				"note": "includes 455 km of expressways"
+			},
+			"global_rank": 52,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 1577,
+			"units": "km",
+			"global_rank": 51,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 1576,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 98
+				},
+				{
+					"type": "general cargo",
+					"count": 216
+				},
+				{
+					"type": "oil tanker",
+					"count": 87
+				},
+				{
+					"type": "other",
+					"count": 1175
+				}
+			],
+			"global_rank": 18,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Bergen",
+				"Haugesund",
+				"Maaloy",
+				"Mongstad",
+				"Narvik",
+				"Sture"
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Kamoy",
+				"Kollsnes",
+				"Melkoya Island"
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Fredrikstad",
+				"Mosjoen"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.73,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.71,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.73,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.59,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 63
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 19,
+			"note": "19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers (16 in wartime); 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function.",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf)",
+			"Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission",
+			"Norway and Russia signed a comprehensive maritime boundary agreement in 2010"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 14359,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 14038,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 6518,
+						"country_of_origin": "Somalia"
+					},
+					{
+						"people": 5108,
+						"country_of_origin": "Afghanistan"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 2272,
+				"date": "2019"
+			}
+		}
+	}
+}

@@ -1,0 +1,1149 @@
+{
+	"name": "British Virgin Islands",
+	"introduction": {
+		"background": "First inhabited by Arawak and later by Carib Indians, the Virgin Islands were settled by the Dutch in 1648 and then annexed by the English in 1672. The islands were part of the British colony of the Leeward Islands from 1872-1960; they were granted autonomy in 1967. The economy is closely tied to the larger and more populous US Virgin Islands to the west; the US dollar is the legal currency. On 6 September 2017, Hurricane Irma devastated the island of Tortola. An estimated 80% of residential and business structures were destroyed or damaged, communications disrupted, and local roads rendered impassable."
+	},
+	"geography": {
+		"location": "Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 64,
+				"minutes": 30,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 151,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 151,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke",
+			"global_rank": 220,
+			"comparative": "about 0.9 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 80,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 3,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "subtropical; humid; temperatures moderated by trade winds",
+		"terrain": "coral islands relatively flat; volcanic islands steep, hilly",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Sage",
+				"elevation": {
+					"value": 521,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"NEGL",
+				"pleasant climate",
+				"beaches foster tourism"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 46.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 6.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 6.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 33.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 24.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 29,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations",
+		"natural_hazards": [
+			{
+				"description": "hurricanes and tropical storms (July to October)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited natural freshwater resources except for a few seasonal streams and springs on Tortola",
+				"most of the islands' water supply comes from desalination plants",
+				"sewage and mining/industry waste contribute to water pollution",
+				"threatening coral reefs"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 37381,
+			"global_rank": 215,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "British Virgin Islander(s)",
+			"adjective": "British Virgin Islander"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "African/black",
+					"percent": 76.3
+				},
+				{
+					"name": "Latino",
+					"percent": 5.5
+				},
+				{
+					"name": "white",
+					"percent": 5.4
+				},
+				{
+					"name": "mixed",
+					"percent": 5.3
+				},
+				{
+					"name": "Indian",
+					"percent": 2.1
+				},
+				{
+					"name": "East Indian",
+					"percent": 1.6
+				},
+				{
+					"name": "other",
+					"percent": 3
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.8
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 70.2,
+					"breakdown": [
+						{
+							"name": "Methodist",
+							"percent": 17.6
+						},
+						{
+							"name": "Church of God",
+							"percent": 10.4
+						},
+						{
+							"name": "Anglican",
+							"percent": 9.5
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 9
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 8.2
+						},
+						{
+							"name": "Baptist",
+							"percent": 7.4
+						},
+						{
+							"name": "New Testament Church of God",
+							"percent": 6.9
+						},
+						{
+							"name": "other Protestant",
+							"percent": 1.2
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 8.9
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 2.5
+				},
+				{
+					"name": "Hindu",
+					"percent": 1.9
+				},
+				{
+					"name": "other",
+					"percent": 6.2
+				},
+				{
+					"name": "none",
+					"percent": 7.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.4
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.59,
+				"males": 3060,
+				"females": 3142
+			},
+			"15_to_24": {
+				"percent": 12.53,
+				"males": 2240,
+				"females": 2445
+			},
+			"25_to_54": {
+				"percent": 48.27,
+				"males": 8424,
+				"females": 9620
+			},
+			"55_to_64": {
+				"percent": 12.51,
+				"males": 2261,
+				"females": 2416
+			},
+			"65_and_over": {
+				"percent": 10.09,
+				"males": 1808,
+				"females": 1965
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 37.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 37,
+				"units": "years"
+			},
+			"female": {
+				"value": 37.5,
+				"units": "years"
+			},
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.14,
+			"global_rank": 39,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.1,
+			"global_rank": 177,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.4,
+			"global_rank": 184,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 15.5,
+			"global_rank": 2,
+			"date": "2020"
+		},
+		"population_distribution": "a fairly even distribution throughout the inhabited islands, with the largest islands of Tortola, Anegada, Virgin Gorda, and Jost Van Dyke having the largest populations",
+		"urbanization": {
+			"urban_population": {
+				"value": 48.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.42,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Road Town",
+					"population": 15000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.88,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.92,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.91,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 122,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 77.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 80.8,
+				"units": "years"
+			},
+			"global_rank": 57,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.33,
+			"global_rank": 222,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 97.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 97.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 2.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.2,
+			"global_rank": 130,
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years",
+				"note": "NA"
+			},
+			"female": {
+				"value": 12,
+				"units": "years",
+				"note": "NA"
+			},
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "British Virgin Islands",
+			"abbreviation": "BVI",
+			"etymology": "the myriad islets, cays, and rocks surrounding the major islands reminded explorer Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)"
+		},
+		"government_type": "parliamentary democracy; self-governing overseas territory of the UK",
+		"capital": {
+			"name": "Road Town",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 25,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 64,
+					"minutes": 37,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name refers to the nautical term \"roadstead\" or \"roads,\" a body of water less sheltered than a harbor but where where ships can lie reasonably safely at anchor sheltered from rip currents, spring tides, or ocean swells"
+		},
+		"independence": {
+			"note": "overseas territory of the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Territory Day",
+				"day": "1 July",
+				"original_year": "1956"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest effective 15 June 2007 (The Virgin Islands Constitution Order 2007)"
+		},
+		"legal_system": "English common law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Gus JASPERT (since 22 August 2017)",
+			"head_of_government": "Premier Andrew FAHIE (since 26 February 2019)",
+			"cabinet": "Executive Council appointed by the governor from members of the House of Assembly",
+			"elections_appointments": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor"
+		},
+		"legislative_branch": {
+			"description": "unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)",
+			"elections": "last held on 25 February 2019 (next to be held in 2023)",
+			"election_results": "percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; seats by party - VIP 8, NDP 3, PVIM 1, PU 1; composition - men 12, women 3, percent of women 20%"
+		},
+		"judicial_branch": {
+			"highest_courts": "the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands",
+			"judge_selection_and_term_of_office": "Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62",
+			"subordinate_courts": "Magistrates' Courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "National Democratic Party",
+					"name_alternative": "NDP",
+					"leaders": [
+						"Myron WALWYN"
+					]
+				},
+				{
+					"name": "People's Empowerment Party",
+					"name_alternative": "PEP",
+					"leaders": [
+						"Alvin CHRISTOPHER"
+					]
+				},
+				{
+					"name": "Progressive Virgin Islands Movement",
+					"name_alternative": "PVIM",
+					"leaders": [
+						"Ronnie SKELTON"
+					]
+				},
+				{
+					"name": "Progressives United",
+					"name_alternative": "PU",
+					"leaders": [
+						"Julian FRASER"
+					]
+				},
+				{
+					"name": "Virgin Islands Party",
+					"name_alternative": "VIP",
+					"leaders": [
+						"Andrew FAHIE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Caricom ",
+				"note": "associate"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "Interpol ",
+				"note": "subbureau"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "OECS"
+			},
+			{
+				"organization": "UNESCO ",
+				"note": "associate"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); the islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; the figure on the banner holding a lamp represents the saint; the other lamps symbolize her followers"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "zenaida dove"
+				},
+				{
+					"symbol": "white cedar flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"note": "as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/VI.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.\nLivestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements.\nIn the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 490200000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 481100000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 213
+			},
+			"official_exchange_rate": {
+				"USD": 1028000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.9,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 149
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 34200,
+						"units": "USD",
+						"date": "2017"
+					}
+				],
+				"global_rank": 59
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 25.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 7.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 20.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 94.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -69.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 6.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 93.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"fruits",
+				"vegetables",
+				"livestock",
+				"poultry",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"light industry",
+				"construction",
+				"rum",
+				"concrete block",
+				"offshore banking center"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.1,
+			"global_rank": 152,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 12770,
+				"global_rank": 215,
+				"date": "2004"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 40,
+						"units": "%"
+					},
+					"services": {
+						"value": 59.4,
+						"units": "%"
+					}
+				},
+				"date": "2005"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.9,
+					"units": "%",
+					"date": "2015"
+				}
+			],
+			"global_rank": 32
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 400000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 400000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 38.9,
+			"global_rank": 50,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0,
+			"global_rank": 44,
+			"date": "2017"
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 56
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 362600000,
+					"units": "USD",
+					"date": "2011"
+				},
+				{
+					"value": 279800000,
+					"units": "USD",
+					"date": "2010"
+				}
+			],
+			"global_rank": 57
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 23000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 23000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 209
+			},
+			"commodities": {
+				"by_commodity": [
+					"rum",
+					"fresh fish",
+					"fruits",
+					"animals",
+					"gravel",
+					"sand"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 300000000,
+						"units": "USD"
+					},
+					{
+						"value": 210000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 204,
+				"note": "NA (2017 est.)"
+			},
+			"commodities": {
+				"by_commodity": [
+					"building materials",
+					"automobiles",
+					"foodstuffs",
+					"machinery"
+				]
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 36100000,
+					"units": "USD",
+					"date": "1997"
+				}
+			],
+			"global_rank": 198
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 126300000,
+				"global_rank": 198,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 117500000,
+				"global_rank": 200,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 110,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 128,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 45200,
+				"global_rank": 193,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 97,
+					"global_rank": 33,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 55,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 160,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 3,
+					"global_rank": 122,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 115,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 98,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 101,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 111,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 123,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 20000,
+				"global_rank": 141,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 134,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1227,
+				"global_rank": 200,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 109,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 125,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 74,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 96,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 115,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 183300,
+			"global_rank": 202,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7640,
+				"subscriptions_per_one_hundred_inhabitants": 20.88,
+				"global_rank": 195,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 72589,
+				"subscriptions_per_one_hundred_inhabitants": 198.38,
+				"global_rank": 200,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half-dozen private radio stations",
+		"internet": {
+			"country_code": ".vg",
+			"users": {
+				"total": 27818,
+				"percent_of_population": 77.7,
+				"global_rank": 207,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VP-L",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 4,
+					"global_rank": 185,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 2,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 2,
+					"914_to_1523_metres": 2,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 200,
+				"units": "km"
+			},
+			"paved": {
+				"value": 200,
+				"units": "km"
+			},
+			"global_rank": 207,
+			"date": "2007"
+		},
+		"merchant_marine": {
+			"total": 29,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 3
+				},
+				{
+					"type": "other",
+					"count": 26
+				}
+			],
+			"global_rank": 132,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Road Harbor"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"illicit_drugs": {
+			"note": "transshipment point for South American narcotics destined for the US and Europe; large offshore financial center makes it vulnerable to money laundering"
+		}
+	}
+}

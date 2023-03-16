@@ -1,0 +1,1724 @@
+{
+	"name": "Panama",
+	"introduction": {
+		"background": "Explored and settled by the Spanish in the 16th century, Panama broke with Spain in 1821 and joined a union of Colombia, Ecuador, and Venezuela - named the Republic of Gran Colombia. When the latter dissolved in 1830, Panama remained part of Colombia. With US backing, Panama seceded from Colombia in 1903 and promptly signed a treaty with the US allowing for the construction of a canal and US sovereignty over a strip of land on either side of the structure (the Panama Canal Zone). The Panama Canal was built by the US Army Corps of Engineers between 1904 and 1914. In 1977, an agreement was signed for the complete transfer of the Canal from the US to Panama by the end of the century. Certain portions of the Zone and increasing responsibility over the Canal were turned over in the subsequent decades. With US help, dictator Manuel NORIEGA was deposed in 1989. The entire Panama Canal, the area supporting the Canal, and remaining US military bases were transferred to Panama by the end of 1999. An ambitious expansion project to more than double the Canal's capacity - by allowing for more Canal transits and larger ships - was carried out between 2007 and 2016."
+	},
+	"geography": {
+		"location": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Colombia and Costa Rica",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 9,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 80,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 75420,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 74340,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1080,
+				"units": "sq km"
+			},
+			"global_rank": 119,
+			"comparative": "slightly smaller than South Carolina"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 687,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Colombia",
+					"border_length": {
+						"value": 339,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Costa Rica",
+					"border_length": {
+						"value": 348,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 2490,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "or edge of continental margin"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)",
+		"terrain": "interior mostly steep, rugged mountains with dissected, upland plains; coastal plains with rolling hills",
+		"elevation": {
+			"mean_elevation": {
+				"value": 360,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Volcan Baru",
+				"elevation": {
+					"value": 3475,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"copper",
+				"mahogany forests",
+				"shrimp",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 30.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 7.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 20.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 43.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.9,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 321,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited",
+		"natural_hazards": [
+			{
+				"description": "occasional severe storms and forest fires in the Darien area",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution from agricultural runoff threatens fishery resources",
+				"deforestation of tropical rain forest",
+				"land degradation and soil erosion threatens siltation of Panama Canal",
+				"air pollution in urban areas",
+				"mining threatens natural resources"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 3894082,
+			"global_rank": 130,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Panamanian(s)",
+			"adjective": "Panamanian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 65,
+					"note": "mixed Amerindian and white"
+				},
+				{
+					"name": "Native American",
+					"percent": 12.3,
+					"breakdown": [
+						{
+							"name": "Ngabe",
+							"percent": 7.6
+						},
+						{
+							"name": "Kuna",
+							"percent": 2.4
+						},
+						{
+							"name": "Embera",
+							"percent": 0.9
+						},
+						{
+							"name": "Bugle",
+							"percent": 0.8
+						},
+						{
+							"name": "other",
+							"percent": 0.4
+						},
+						{
+							"name": "unspecified",
+							"percent": 0.2
+						}
+					]
+				},
+				{
+					"name": "black or African descent",
+					"percent": 9.2
+				},
+				{
+					"name": "mulatto",
+					"percent": 6.8
+				},
+				{
+					"name": "white",
+					"percent": 6.7
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				},
+				{
+					"name": "indigenous languages , Buglere, Kuna, Embera, Wounaan, Naso , and Bri Bri",
+					"note": "including Ngabere (or Guaymi; or Teribe; "
+				},
+				{
+					"name": "Panamanian English Creole",
+					"note": "similar to Jamaican English Creole; a mixture of English and Spanish with elements of Ngabere; also known as Guari Guari and Colon Creole"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Chinese",
+					"note": "Yue and Hakka"
+				},
+				{
+					"name": "Arabic"
+				},
+				{
+					"name": "French Creole"
+				},
+				{
+					"name": "other",
+					"note": "Yiddish, Hebrew, Korean, Japanese"
+				}
+			],
+			"note": "many Panamanians are bilingual"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 85
+				},
+				{
+					"name": "Protestant",
+					"percent": 15
+				}
+			]
+		},
+		"demographic_profile": "Panama is a country of demographic and economic contrasts. It is in the midst of a demographic transition, characterized by steadily declining rates of fertility, mortality, and population growth, but disparities persist based on wealth, geography, and ethnicity. Panama has one of the fastest growing economies in Latin America and dedicates substantial funding to social programs, yet poverty and inequality remain prevalent. The indigenous population accounts for a growing share of Panama's poor and extreme poor, while the non-indigenous rural poor have been more successful at rising out of poverty through rural-to-urban labor migration. The government's large expenditures on untargeted, indirect subsidies for water, electricity, and fuel have been ineffective, but its conditional cash transfer program has shown some promise in helping to decrease extreme poverty among the indigenous population.\nPanama has expanded access to education and clean water, but the availability of sanitation and, to a lesser extent, electricity remains poor. The increase in secondary schooling - led by female enrollment - is spreading to rural and indigenous areas, which probably will help to alleviate poverty if educational quality and the availability of skilled jobs improve. Inadequate access to sanitation contributes to a high incidence of diarrhea in Panama's children, which is one of the main causes of Panama's elevated chronic malnutrition rate, especially among indigenous communities.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 25.56,
+				"males": 508131,
+				"females": 487205
+			},
+			"15_to_24": {
+				"percent": 16.59,
+				"males": 329250,
+				"females": 316796
+			},
+			"25_to_54": {
+				"percent": 40.31,
+				"males": 794662,
+				"females": 774905
+			},
+			"55_to_64": {
+				"percent": 8.54,
+				"males": 165129,
+				"females": 167317
+			},
+			"65_and_over": {
+				"percent": 9.01,
+				"males": 160516,
+				"females": 190171
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 53.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 40.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 30.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 29.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 30.5,
+				"units": "years"
+			},
+			"global_rank": 122,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.2,
+			"global_rank": 90,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 17.1,
+			"global_rank": 98,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.1,
+			"global_rank": 197,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.1,
+			"global_rank": 103,
+			"date": "2020"
+		},
+		"population_distribution": "population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited",
+		"urbanization": {
+			"urban_population": {
+				"value": 68.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.06,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Panama City",
+					"population": 1860000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.84,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 52,
+			"global_rank": 93,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 9.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 8.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 138,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.2,
+				"units": "years"
+			},
+			"global_rank": 60,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.23,
+			"global_rank": 90,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 50.8,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.57,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.3,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 94.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 5.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 97.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 72.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 89.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 27.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 10.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.9,
+				"global_rank": 49,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 26000,
+				"global_rank": 81,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2018"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"dengue fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.7,
+			"global_rank": 73,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.2,
+			"global_rank": 132,
+			"date": "2011"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 95.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 96,
+				"units": "%"
+			},
+			"female": {
+				"value": 94.9,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2016"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 10.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 7.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 15.3,
+				"units": "%"
+			},
+			"global_rank": 125,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Panama",
+			"conventional_short_form": "Panama",
+			"local_long_form": "Republica de Panama",
+			"local_short_form": "Panama",
+			"etymology": "named after the capital city which was itself named after a former indigenous fishing village"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Panama City",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 8,
+					"minutes": 58,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 79,
+					"minutes": 32,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"etymology": "according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called \"Panama\" meaning \"an abundance of fish\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "provincia) and 3 indigenous regions",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1903-11-03"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "3 November",
+				"original_year": "1903",
+				"note": "Separation Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest effective 11 October 1972",
+			"amendments": "proposed by the National Assembly, by the Cabinet, or by the Supreme Court of Justice; passage requires approval by one of two procedures: 1) absolute majority vote of the Assembly membership in each of three readings and by absolute majority vote of the next elected Assembly in a single reading without textual modifications; 2) absolute majority vote of the Assembly membership in each of three readings, followed by absolute majority vote of the next elected Assembly in each of three readings with textual modifications, and approval in a referendum; amended several times, last in 2004"
+		},
+		"legal_system": "civil law system; judicial review of legislative acts in the Supreme Court of Justice",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Laurentino \"Nito\" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "President Laurentino \"Nito\" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2019 (next to be held in 2024)",
+			"election_results": "Laurentino \"Nito\" CORTIZO Cohen elected president; percent of vote - Laurentino CORTIZO Cohen (PRD) 33.3%, Romulo ROUX (CD) 31%, Ricardo LOMBANA (independent) 18.8%, Jose BLANDON (Panamenista Party) 10.8%, Ana Matilde GOMEZ Ruiloba (independent) 4.8%, other 1.3%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by plurality vote; members serve 5-year terms)",
+			"elections": "last held on 5 May 2019 (next to be held in May 2024)",
+			"election_results": "percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)",
+			"judge_selection_and_term_of_office": "magistrates appointed by the president for staggered 10-year terms",
+			"subordinate_courts": "appellate courts or Tribunal Superior; Labor Supreme Courts; Court of Audit; circuit courts or Tribunal Circuital (2 each in 9 of the 10 provinces); municipal courts; electoral, family, maritime, and adolescent courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Change",
+					"name_alternative": "CD",
+					"leaders": [
+						"Romulo ROUX"
+					]
+				},
+				{
+					"name": "Democratic Revolutionary Party",
+					"name_alternative": "PRD",
+					"leaders": [
+						"Benicio ROBINSON"
+					]
+				},
+				{
+					"name": "Nationalist Republican Liberal Movement",
+					"name_alternative": "MOLIRENA",
+					"leaders": [
+						"Francisco \"Pancho\" ALEMAN"
+					]
+				},
+				{
+					"name": "Panamenista Party ",
+					"leaders": [
+						"Jose Luis \"Popi\" VARELA Rodriguez"
+					],
+					"note": "formerly the Arnulfista Party"
+				},
+				{
+					"name": "Popular Party",
+					"name_alternative": "PP",
+					"leaders": [
+						"Juan Carlos ARANGO Reese"
+					],
+					"note": "formerly Christian Democratic Party or PDC"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "CAN ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR ",
+				"note": "observer"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Juan Ricardo DE DIANOUS HENRIQUEZ (since 16 September 2019)",
+				"chancery": "2862 McGill Terrace NW, Washington, DC 20007",
+				"telephone": "[1] (202) 483-1407",
+				"fax": "[1] (202) 483-8413",
+				"consulates_general": "Houston, Miami, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Washington DC"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant), Charge d'Affairs Roxanne CABRAL (since 9 March 2018)",
+				"telephone": "[507] 317-5000",
+				"embassy": "Edificio 783, Avenida Demetrio Basilio Lakas Avenue, Clayton",
+				"mailing_address": "American Embassy Panama, Unit 0945, APO AA 34002; American Embassy Panama, 9100 Panama City PL, Washington, DC 20521-9100",
+				"fax": "[507] 317-5445 (2018)"
+			}
+		},
+		"flag_description": {
+			"description": "divided into four, equal rectangles; the top quadrants are white (hoist side) with a blue five-pointed star in the center and plain red; the bottom quadrants are plain blue (hoist side) and white with a red five-pointed star in the center; the blue and red colors are those of the main political parties (Conservatives and Liberals respectively) and the white denotes peace between them; the blue star stands for the civic virtues of purity and honesty, the red star signifies authority and law"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "harpy eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Istmeno\" (Isthmus Hymn)",
+			"lyrics_music": "Jeronimo DE LA OSSA/Santos A. JORGE",
+			"note": "adopted 1925",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/PM.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.\nFuture growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.\nStrong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 104100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 98820000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 94120000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 83,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 61840000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 5.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 38
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 25400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 24500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 23700,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 80,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 45.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 10.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 42.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 41.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -44.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 15.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 82,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 38.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 39.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 36.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 10
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"rice",
+				"corn",
+				"coffee",
+				"sugarcane",
+				"vegetables",
+				"livestock",
+				"shrimp"
+			]
+		},
+		"industries": {
+			"industries": [
+				"construction",
+				"brewing",
+				"cement",
+				"other construction materials",
+				"sugar milling"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.3,
+			"global_rank": 38,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1633000,
+				"global_rank": 127,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 17,
+						"units": "%"
+					},
+					"industry": {
+						"value": 18.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 64.4,
+						"units": "%"
+					}
+				},
+				"date": "2009"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.14,
+					"units": "%",
+					"date": "2018"
+				},
+				{
+					"value": 6,
+					"units": "%",
+					"date": "2017"
+				}
+			],
+			"global_rank": 98
+		},
+		"population_below_poverty_line": {
+			"value": 23,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 38.9,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 12430000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 13440000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.1,
+			"global_rank": 152,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.6,
+			"global_rank": 94,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 37.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 37.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 138
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 47
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -3036000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -3160000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 174
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 15500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14700000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 74,
+				"note": "includes the Colon Free Zone"
+			},
+			"commodities": {
+				"by_commodity": [
+					"fruit",
+					"nuts",
+					"fish",
+					"iron",
+					"steel waste",
+					"wood"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 18.9
+					},
+					{
+						"name": "Netherlands",
+						"percent": 16.6
+					},
+					{
+						"name": "China",
+						"percent": 6.5
+					},
+					{
+						"name": "Costa Rica",
+						"percent": 5.4
+					},
+					{
+						"name": "India",
+						"percent": 5.1
+					},
+					{
+						"name": "Vietnam",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 21910000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 20510000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 72,
+				"note": "includes the Colon Free Zone"
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuels",
+					"machinery",
+					"vehicles",
+					"iron",
+					"steel rods",
+					"pharmaceuticals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 24.4
+					},
+					{
+						"name": "China",
+						"percent": 9.8
+					},
+					{
+						"name": "Mexico",
+						"percent": 4.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2703000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3878000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 114
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 91530000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 83810000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 52
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "balboas (PAB) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 93.4,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99.4,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 81.3,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 10600000000,
+				"global_rank": 101,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 8708000000,
+				"global_rank": 103,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 139000000,
+				"global_rank": 80,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 30000000,
+				"global_rank": 110,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 3400000,
+				"global_rank": 97,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 36,
+					"global_rank": 175,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 161,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 51,
+					"global_rank": 36,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 13,
+					"global_rank": 69,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 185,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 178,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 180,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 180,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 188,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 146000,
+				"global_rank": 67,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 66,
+				"global_rank": 121,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 129200,
+				"global_rank": 45,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 182,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 186,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 166,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 171,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 180,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 26080000,
+			"global_rank": 79,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 671799,
+				"subscriptions_per_one_hundred_inhabitants": 17.46,
+				"global_rank": 86,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 5073123,
+				"subscriptions_per_one_hundred_inhabitants": 131.85,
+				"global_rank": 119,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple privately owned TV networks and a government-owned educational TV station; multi-channel cable and satellite TV subscription services are available; more than 100 commercial radio stations (2019)",
+		"internet": {
+			"country_code": ".pa",
+			"users": {
+				"total": 2199433,
+				"percent_of_population": 57.87,
+				"global_rank": 118,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 122,
+				"annual_passenger_traffic_on_registered_air_carriers": 12939350,
+				"annual_freight_traffic_on_registered_air_carriers": 47630000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HP",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 117,
+					"global_rank": 49,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 57,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 20,
+					"under_914_metres": 30,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 60,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 8,
+					"under_914_metres": 51,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "oil",
+					"length": 128,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 77,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 77,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 128,
+			"date": "2014"
+		},
+		"waterways": {
+			"value": 800,
+			"units": "km",
+			"note": "includes the 82-km Panama Canal that is being widened",
+			"global_rank": 71,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 7860,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 2567
+				},
+				{
+					"type": "container ship",
+					"count": 609
+				},
+				{
+					"type": "general cargo",
+					"count": 1325
+				},
+				{
+					"type": "oil tanker",
+					"count": 798
+				},
+				{
+					"type": "other",
+					"count": 2561
+				}
+			],
+			"global_rank": 2,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Balboa",
+				"Colon",
+				"Cristobal"
+			],
+			"container_ports": [
+				{
+					"place": "Balboa",
+					"twenty_foot_equivalent_units": 2905049
+				},
+				{
+					"place": "Colon",
+					"twenty_foot_equivalent_units": 3891209
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"organized illegal narcotics operations in Colombia operate within the remote border region with Panama"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 79155,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"illicit_drugs": {
+			"note": "major cocaine transshipment point and primary money-laundering center for narcotics revenue; money-laundering activity is especially heavy in the Colon Free Zone; offshore financial center; negligible signs of coca cultivation; monitoring of financial transactions is improving; official corruption remains a major problem"
+		}
+	}
+}

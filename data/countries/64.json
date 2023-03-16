@@ -1,0 +1,1225 @@
+{
+	"name": "Curacao",
+	"introduction": {
+		"background": "The original Arawak Indian settlers who arrived on the island from South America in about 1000, were largely enslaved by the Spanish early in the 16th century and forcibly relocated to other colonies where labor was needed. Curacao was seized by the Dutch from the Spanish in 1634. Once the center of the Caribbean slave trade, Curacao was hard hit economically by the abolition of slavery in 1863. Its prosperity (and that of neighboring Aruba) was restored in the early 20th century with the construction of the Isla Refineria to service the newly discovered Venezuelan oil fields. In 1954, Curacao and several other Dutch Caribbean possessions were reorganized as the Netherlands Antilles, part of the Kingdom of the Netherlands. In referenda in 2005 and 2009, the citizens of Curacao voted to become a self-governing country within the Kingdom of the Netherlands. The change in status became effective in October 2010 with the dissolution of the Netherlands Antilles."
+	},
+	"geography": {
+		"location": "Caribbean, an island in the Caribbean Sea, 55 km off the coast of Venezuela",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 12,
+				"minutes": 10,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 69,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 444,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 444,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 200,
+			"comparative": "more than twice the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0
+			}
+		},
+		"coastline": {
+			"value": 364,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year",
+		"terrain": "generally low, hilly terrain",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mt. Christoffel",
+				"elevation": {
+					"value": 372,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"calcium phosphates",
+				"aloes",
+				"sorghum",
+				"peanuts",
+				"vegetables",
+				"tropical fruit"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 10,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 10,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 90,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest",
+		"natural_hazards": [
+			{
+				"description": "Curacao is south of the Caribbean hurricane belt and is rarely threatened",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"problems in waste management that threaten environmental sustainability on the island include pollution of marine areas from domestic sewage",
+				"inadequate sewage treatment facilities",
+				"industrial effluents and agricultural runoff",
+				"the mismanagement of toxic substances",
+				"and ineffective regulations",
+				"the refinery in Sint Anna Bay",
+				"at the eastern edge of Willemstad’s large natural harbor",
+				"processes heavy crude oil from Venezuela",
+				"it has caused significant environmental damage to the surrounding area because of neglect and a lack of strict environmental controls",
+				"the release of noxious fumes and potentially hazardous particles causes schools downwind to regularly close"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 151345,
+			"global_rank": 188,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Curacaoan",
+			"adjective": "Curacaoan; Dutch"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Curacaoan",
+					"percent": 75.4
+				},
+				{
+					"name": "Dutch",
+					"percent": 6
+				},
+				{
+					"name": "Dominican",
+					"percent": 3.6
+				},
+				{
+					"name": "Colombian",
+					"percent": 3
+				},
+				{
+					"name": "Bonairean"
+				},
+				{
+					"name": "Sint Eustatian"
+				},
+				{
+					"name": "Saban",
+					"percent": 1.5
+				},
+				{
+					"name": "Haitian",
+					"percent": 1.2
+				},
+				{
+					"name": "Surinamese",
+					"percent": 1.2
+				},
+				{
+					"name": "Venezuelan",
+					"percent": 1.1
+				},
+				{
+					"name": "Aruban",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 5
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.9
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Papiamento",
+					"percent": 79.9,
+					"note": "official; a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak"
+				},
+				{
+					"name": "Dutch",
+					"percent": 8.8,
+					"note": "official"
+				},
+				{
+					"name": "Spanish",
+					"percent": 5.6
+				},
+				{
+					"name": "English",
+					"percent": 3.1,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 2.9
+				},
+				{
+					"name": "unspecified .3%",
+					"note": "2001 census"
+				}
+			],
+			"note": "data represent most spoken language in household"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 72.8
+				},
+				{
+					"name": "Pentecostal",
+					"percent": 6.6
+				},
+				{
+					"name": "Protestant",
+					"percent": 3.2
+				},
+				{
+					"name": "Adventist",
+					"percent": 3
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 2
+				},
+				{
+					"name": "Evangelical",
+					"percent": 1.9
+				},
+				{
+					"name": "other",
+					"percent": 3.8
+				},
+				{
+					"name": "none",
+					"percent": 6
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.6
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 19.68,
+				"males": 15227,
+				"females": 14553
+			},
+			"15_to_24": {
+				"percent": 13.38,
+				"males": 10438,
+				"females": 9806
+			},
+			"25_to_54": {
+				"percent": 36.55,
+				"males": 27733,
+				"females": 27589
+			},
+			"55_to_64": {
+				"percent": 13.88,
+				"males": 9130,
+				"females": 11873
+			},
+			"65_and_over": {
+				"percent": 16.52,
+				"males": 10127,
+				"females": 14869
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 28.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 27.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 36.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 34.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 39.5,
+				"units": "years"
+			},
+			"global_rank": 77,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.35,
+			"global_rank": 168,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 13.4,
+			"global_rank": 139,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.7,
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.3,
+			"global_rank": 148,
+			"date": "2020"
+		},
+		"population_distribution": "largest concentration on the island is Willemstad; smaller settlements near the coast can be found throughout the island, particularly in the northwest",
+		"urbanization": {
+			"urban_population": {
+				"value": 89.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.62,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Willemstad",
+					"population": 144000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.77,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.68,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.92,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 7.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 6.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 160,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.4,
+				"units": "years"
+			},
+			"global_rank": 62,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2,
+			"global_rank": 113,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.9,
+			"global_rank": 65,
+			"date": "2013"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 18,
+				"units": "years"
+			},
+			"female": {
+				"value": 18,
+				"units": "years"
+			},
+			"date": "2013"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 29.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 25.4,
+				"units": "%",
+				"note": "NA"
+			},
+			"female": {
+				"value": 34.5,
+				"units": "%",
+				"note": "NA"
+			},
+			"global_rank": 36,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Country of Curacao",
+			"conventional_short_form": "Curacao",
+			"local_long_form": "Land Curacao (Dutch); Pais Korsou (Papiamento)",
+			"local_short_form": "Curacao (Dutch); Korsou (Papiamento)",
+			"former": "Netherlands Antilles; Curacao and Dependencies",
+			"etymology": "the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning \"Island of the Cure\" or \"Island of Healing\") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen"
+		},
+		"government_type": "parliamentary democracy",
+		"capital": {
+			"name": "Willemstad",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 12,
+					"minutes": 6,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 68,
+					"minutes": 55,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)\netymology - named after Prince William II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634"
+		},
+		"independence": {
+			"note": "part of the Kingdom of the Netherlands"
+		},
+		"national_holidays": [
+			{
+				"name": "King's Day",
+				"day": "27 April",
+				"original_year": "1967",
+				"note": "King's or Queen's Day are observed on the ruling monarch's birthday; birthday of King WILLEM-ALEXANDER"
+			}
+		],
+		"constitution": {
+			"history": "previous 1947, 1955; latest adopted 5 September 2010, entered into force 10 October 2010 (regulates governance of Curacao but is subordinate to the Charter for the Kingdom of the Netherlands)",
+			"note": "in October 2010, with the dissolution of the Netherlands Antilles, Curacao became a semi-autonomous entity within the Kingdom of the Netherlands"
+		},
+		"legal_system": "based on Dutch civil law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)",
+			"head_of_government": "Prime Minister Ivar ASJES (since 7 June 2013)",
+			"cabinet": "Cabinet sworn-in by the governor",
+			"elections_appointments": "the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the Parliament of Curacao; next election scheduled for 2016"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament of Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)",
+			"elections": "last held on 28 April 2017 (next to be held in 2021); early elections were held after Prime Minister Hensley KOEIMAN resigned on 12 February 2017, when the coalition government lost its majority",
+			"election_results": "percent of vote by party - PAR 23.3%, MAN 20.4%, MFK 19.9%, KdnT 9.4%, PIN 5.3%, PS 5.1%, MP 4.9%, other 11.7%; seats by party - PAR 6, MAN 5, MFK 5, KdnT 2, PIN 1, PS 1, MP 1; composition - men 15, women 6, percent of women 28.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or \"Joint Court of Justice\" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands",
+			"judge_selection_and_term_of_office": "Joint Court judges appointed by the monarch for life",
+			"subordinate_courts": "first instance courts, appeals court; specialized courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Korsou di Nos Tur",
+					"name_alternative": "KdnT",
+					"leaders": [
+						"Amparo dos SANTOS"
+					]
+				},
+				{
+					"name": "Mayors for Liberec Region",
+					"name_alternative": "SLK",
+					"leaders": [
+						"Martin PUTA"
+					],
+					"note": "Starostove pro Liberecky Kraj"
+				},
+				{
+					"name": "Movementu Futuro Korsou",
+					"name_alternative": "MFK",
+					"leaders": [
+						"Gerrit SCHOTTE"
+					]
+				},
+				{
+					"name": "Movementu Progresivo",
+					"name_alternative": "MP",
+					"leaders": [
+						"Marylin MOSES"
+					]
+				},
+				{
+					"name": "Movishon Antia Nobo",
+					"name_alternative": "MAN",
+					"leaders": [
+						"Hensley KOEIMAN"
+					]
+				},
+				{
+					"name": "Partido Antia Restruktura",
+					"name_alternative": "PAR",
+					"leaders": [
+						"Eugene RHUGGENAATH"
+					]
+				},
+				{
+					"name": "Partido Inovashon Nashonal",
+					"name_alternative": "PIN",
+					"leaders": [
+						"Suzanne CAMELIA-ROMER"
+					]
+				},
+				{
+					"name": "Partido pa Adelanto I Inovashon Soshal",
+					"name_alternative": "PAIS",
+					"leaders": [
+						"Alex ROSARIA"
+					]
+				},
+				{
+					"name": "Partido Nashonal di Pueblo",
+					"name_alternative": "PNP",
+					"leaders": [
+						"Humphrey DAVELAAR"
+					]
+				},
+				{
+					"name": "Pueblo Soberano",
+					"name_alternative": "PS"
+				},
+				{
+					"name": "Un Korsou Hustu",
+					"leaders": [
+						"Omayra LEEFLANG"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Caricom ",
+				"note": "observer"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "UNESCO ",
+				"note": "associate"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"diplomatic_representation": {
+			"from_united_states": {
+				"chief_of_mission": "Consul General Allen GREENBERG (since June 2019); note - also accredited to Aruba and Sint Maarten",
+				"telephone": "[599] (9) 4613066",
+				"mailing_address": "P. O. Box 158, J.B. Gorsiraweg #1",
+				"fax": "[599] (9) 4616489"
+			}
+		},
+		"flag_description": {
+			"description": "on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "laraha ",
+					"note": "citrus tree"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Himmo di Korsou (Anthem of Curacao)",
+			"lyrics_music": "Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Frater Candidus NOWENS, Errol \"El Toro\" COLINA",
+			"note": "adapted 1978; the lyrics, originally written in 1899, were rewritten in 1978 to make them less colonial in nature"
+		}
+	},
+	"economy": {
+		"overview": "Most of Curacao's GDP results from services. Tourism, petroleum refining and bunkering, offshore finance, and transportation and communications are the mainstays of this small island economy, which is closely tied to the outside world. Curacao has limited natural resources, poor soil, and inadequate water supplies, and budgetary problems complicate reform of the health and education systems. Although GDP grew only slightly during the past decade, Curacao enjoys a high per capita income and a well-developed infrastructure compared to other countries in the region.\nCuracao has an excellent natural harbor that can accommodate large oil tankers, and the port of Willemstad hosts a free trade zone and a dry dock. Venezuelan state-owned oil company PdVSA, under a contract in effect until 2019, leases the single refinery on the island from the government, directly employing some 1,000 people. Most of the oil for the refinery is imported from Venezuela and most of the refined products are exported to the US and Asia. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Venezuela being the major suppliers.\nThe government is attempting to diversify its industry and trade. Curacao is an Overseas Countries and Territories (OCT) of the European Union. Nationals of Curacao are citizens of the European Union, even though it is not a member. Based on its OCT status, products that originate in Curacao have preferential access to the EU and are exempt from import duties. Curacao is a beneficiary of the Caribbean Basin Initiative and, as a result, products originating in Curacao can be imported tax free into the US if at least 35% has been added to the value of these products in Curacao. The island has state-of-the-art information and communication technology connectivity with the rest of the world, including a Tier IV datacenter. With several direct satellite and submarine optic fiber cables, Curacao has one of the best Internet speeds and reliability in the Western Hemisphere.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3128000000,
+						"units": "USD",
+						"date": "2012"
+					},
+					{
+						"value": 3020000000,
+						"units": "USD",
+						"date": "2011"
+					},
+					{
+						"value": 2960000000,
+						"units": "USD",
+						"date": "2010"
+					}
+				],
+				"global_rank": 189,
+				"note": "data are in 2012 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 5600000000,
+				"date": "2012"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.6,
+						"units": "%",
+						"date": "2012"
+					},
+					{
+						"value": 2,
+						"units": "%",
+						"date": "2011"
+					},
+					{
+						"value": 0.1,
+						"units": "%",
+						"date": "2010"
+					}
+				],
+				"global_rank": 95
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 15000,
+						"units": "USD",
+						"date": "2004"
+					}
+				],
+				"global_rank": 112
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 66.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 33.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 19.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 17.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -37.5,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 15.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 83.8,
+							"units": "%"
+						}
+					},
+					"date": "2012"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"aloe",
+				"sorghum",
+				"peanuts",
+				"vegetables",
+				"tropical fruit"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"petroleum refining",
+				"petroleum transshipment",
+				"light manufacturing",
+				"financial",
+				"business services"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 73010,
+				"global_rank": 185,
+				"date": "2013"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 16.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 81.8,
+						"units": "%"
+					}
+				},
+				"date": "2008"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 13,
+					"units": "%",
+					"date": "2013"
+				},
+				{
+					"value": 9.8,
+					"units": "%",
+					"date": "2011"
+				}
+			],
+			"global_rank": 166
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 16.6,
+			"global_rank": 177,
+			"date": "2012"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.4,
+			"global_rank": 56,
+			"date": "2012"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 33.2,
+					"units": "percent_of_gdp",
+					"date": "2012"
+				},
+				{
+					"value": 40.6,
+					"units": "percent_of_gdp",
+					"date": "2011"
+				}
+			],
+			"global_rank": 158
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.6,
+					"units": "%",
+					"date": "2013"
+				},
+				{
+					"value": 2.8,
+					"units": "%",
+					"date": "2012"
+				}
+			],
+			"global_rank": 124
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -400000000,
+					"units": "USD",
+					"date": "2011"
+				},
+				{
+					"value": -600000000,
+					"units": "USD",
+					"date": "2010"
+				}
+			],
+			"global_rank": 112
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 839700000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1440000000,
+						"units": "USD",
+						"date": "2010"
+					}
+				],
+				"global_rank": 166
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum products"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 540299999999.99994,
+						"units": "USD",
+						"date": "2018"
+					},
+					{
+						"value": 453800000000,
+						"units": "USD",
+						"date": "2017"
+					}
+				],
+				"global_rank": 8
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude petroleum",
+					"food",
+					"manufactures"
+				]
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2017-12-31"
+				}
+			],
+			"global_rank": 191
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Netherlands Antillean guilders (ANG) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 1785000000,
+				"global_rank": 139,
+				"date": "2012"
+			},
+			"consumption": {
+				"kWh": 968000000,
+				"global_rank": 156,
+				"date": "2008"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 125,
+				"date": "2009"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 139,
+				"date": "2009"
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 125,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 112,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 191300,
+				"global_rank": 31,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 121,
+				"date": "2011-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 189800,
+				"global_rank": 53,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 70000,
+				"global_rank": 93,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 167500,
+				"global_rank": 33,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 45800,
+				"global_rank": 85,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 121,
+				"date": "2009"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 137,
+				"date": "2009"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 91,
+				"date": "2009"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 114,
+				"date": "2009"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 126,
+				"date": "2011-01-01"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 57443,
+				"subscriptions_per_one_hundred_inhabitants": 38.09,
+				"global_rank": 155,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 174260,
+				"subscriptions_per_one_hundred_inhabitants": 115.55,
+				"global_rank": 186,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "government-run TeleCuracao operates a TV station and a radio station; 2 other privately owned TV stations and several privately owned radio stations (2019)",
+		"internet": {
+			"country_code": ".cw",
+			"users": {
+				"total": 102359,
+				"percent_of_population": 68.13,
+				"global_rank": 179,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 11,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "PJ",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 219,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"over_3047_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 550,
+				"units": "km"
+			},
+			"global_rank": 193
+		},
+		"merchant_marine": {
+			"total": 74,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 9
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 64
+				}
+			],
+			"global_rank": 100,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Willemstad"
+			],
+			"oil_terminals": [
+				"Bullen Baai (Curacao Terminal)"
+			],
+			"bulk_cargo_ports": [
+				"Fuik Bay (phosphate rock)"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"note": "no conscription",
+			"date": "2010"
+		},
+		"note": "defense is the responsibility of the Kingdom of the Netherlands (2019)"
+	}
+}

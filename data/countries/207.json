@@ -1,0 +1,1739 @@
+{
+	"name": "Singapore",
+	"introduction": {
+		"background": "A Malay trading port known as Temasek existed on the island of Singapore by the 14th century. The settlement changed hands several times in the ensuing centuries and was eventually burned in the 17th century and fell into obscurity. The British founded modern Singapore as a trading colony on the site in 1819. It joined the Malaysian Federation in 1963 but was ousted two years later and became independent. Singapore subsequently became one of the world's most prosperous countries with strong international trading links (its port is one of the world's busiest in terms of tonnage handled) and with per capita GDP equal to that of the leading nations of Western Europe."
+	},
+	"geography": {
+		"location": "Southeastern Asia, islands between Malaysia and Indonesia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 1,
+				"minutes": 22,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 103,
+				"minutes": 48,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 719,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 709.2,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 10,
+				"units": "sq km"
+			},
+			"global_rank": 191,
+			"comparative": "slightly more than 3.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 193,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 3,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": "within and beyond territorial sea, as defined in treaties and practice"
+		},
+		"climate": "tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms",
+		"terrain": "lowlying, gently undulating central plateau",
+		"elevation": {
+			"lowest_point": {
+				"name": "Singapore Strait",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Bukit Timah",
+				"elevation": {
+					"value": 166,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"deepwater ports"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 3.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 95.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas",
+		"natural_hazards": [
+			{
+				"description": "flash floods",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution",
+				"industrial pollution",
+				"limited natural freshwater resources",
+				"limited land availability presents waste disposal problems",
+				"air pollution",
+				"deforestation",
+				"seasonal smoke/haze resulting from forest fires in Indonesia"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 6209660,
+			"global_rank": 110,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Singaporean(s)",
+			"adjective": "Singapore"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Chinese",
+					"percent": 74.3
+				},
+				{
+					"name": "Malay",
+					"percent": 13.4
+				},
+				{
+					"name": "Indian",
+					"percent": 9
+				},
+				{
+					"name": "other",
+					"percent": 3.2
+				}
+			],
+			"note": "individuals self-identify; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 36.9,
+					"note": "official"
+				},
+				{
+					"name": "Mandarin",
+					"percent": 34.9,
+					"note": "official"
+				},
+				{
+					"name": "other Chinese dialects",
+					"percent": 12.2,
+					"note": "includes Hokkien, Cantonese, Teochew, Hakka"
+				},
+				{
+					"name": "Malay",
+					"percent": 10.7,
+					"note": "official"
+				},
+				{
+					"name": "Tamil",
+					"percent": 3.3,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 2
+				}
+			],
+			"note": "data represent language most frequently spoken at home",
+			"date": "2015"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Buddhist",
+					"percent": 33.2
+				},
+				{
+					"name": "Christian",
+					"percent": 18.8
+				},
+				{
+					"name": "Muslim",
+					"percent": 14
+				},
+				{
+					"name": "Taoist",
+					"percent": 10
+				},
+				{
+					"name": "Hindu",
+					"percent": 5
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				},
+				{
+					"name": "none",
+					"percent": 18.5
+				}
+			],
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 12.8,
+				"males": 406983,
+				"females": 387665
+			},
+			"15_to_24": {
+				"percent": 15.01,
+				"males": 457190,
+				"females": 474676
+			},
+			"25_to_54": {
+				"percent": 50.73,
+				"males": 1531088,
+				"females": 1618844
+			},
+			"55_to_64": {
+				"percent": 10.58,
+				"males": 328024,
+				"females": 328808
+			},
+			"65_and_over": {
+				"percent": 10.89,
+				"males": 310123,
+				"females": 366259
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 34.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 16.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 18,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 5.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 35.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 35.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 35.7,
+				"units": "years"
+			},
+			"global_rank": 82,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.73,
+			"global_rank": 59,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.9,
+			"global_rank": 207,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3.6,
+			"global_rank": 218,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 11.8,
+			"global_rank": 5,
+			"date": "2020"
+		},
+		"population_distribution": "most of the urbanization is along the southern coast, with relatively dense population clusters found in the central areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 100,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.39,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Singapore",
+					"population": 5935000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.95,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 30.5,
+			"date": "2015"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 8,
+			"global_rank": 153,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 224,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 86,
+				"units": "years"
+			},
+			"male": {
+				"value": 83.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 88.9,
+				"units": "years"
+			},
+			"global_rank": 3,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 0.87,
+			"global_rank": 228,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.29,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 109,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 7900,
+				"global_rank": 111,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.1,
+			"global_rank": 171,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.9,
+			"global_rank": 144,
+			"date": "2013"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 95.9,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 9.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 6.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 12.5,
+				"units": "%"
+			},
+			"global_rank": 134,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Singapore",
+			"conventional_short_form": "Singapore",
+			"local_long_form": "Republic of Singapore",
+			"local_short_form": "Singapore",
+			"etymology": "name derives from the Sanskrit words \"simha\" (lion) and \"pura\" (city) to describe the city-state's leonine symbol"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Singapore",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 1,
+					"minutes": 17,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 103,
+					"minutes": 51,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 8,
+				"note": "13 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "name derives from the Sanskrit words \"simha\" (lion) and \"pura\" (city), thus creating the city's epithet \"lion city\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "there are five community development councils: Central Singapore Development Council",
+				"type": ""
+			},
+			{
+				"name": "North East Development Council",
+				"type": ""
+			},
+			{
+				"name": "North West Development Council",
+				"type": ""
+			},
+			{
+				"name": "South East Development Council",
+				"type": ""
+			},
+			{
+				"name": "South West Development Council (2019)",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1965-08-09",
+			"note": "from Malaysian Federation"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "9 August",
+				"original_year": "1965"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 22 December 1965",
+			"amendments": "proposed by Parliament; passage requires two-thirds majority vote in the second and third readings by the elected Parliament membership and assent of the president of the republic; passage of amendments affecting sovereignty or control of the Police Force or the Armed Forces requires at least two-thirds majority vote in a referendum; amended many times, last in 2016"
+		},
+		"legal_system": "English common law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICC (2019)"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Singapore",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 21,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President HALIMAH Yacob (since 14 September 2017); note - President TAN's term ended on 31 August 2017; HALIMAH is Singapore's first female president; the head of the Council of Presidential Advisors, J.Y. PILLAY, served as acting president until HALIMAH was sworn in as president on 14 September 2017",
+			"head_of_government": "Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) (2019)",
+			"cabinet": "Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament",
+			"elections_appointments": "president directly elected by simple majority popular vote for a fixed term of 6-years (there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president",
+			"election_results": "HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament (104 seats; 93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the 2020 election for the first time (2020)",
+			"elections": "last held on 10 July 2020 (next must be held by 2025)",
+			"election_results": "percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (although the number of judges varies - as of April 2019, the court totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court",
+			"judge_selection_and_term_of_office": "judges appointed by the president from candidates recommended by the prime minister after consultation with the chief justice; judges usually serve until retirement at age 65, but terms can be extended",
+			"subordinate_courts": "district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "National Solidarity Party",
+					"name_alternative": "NSP",
+					"leaders": [
+						"Reno FONG"
+					]
+				},
+				{
+					"name": "People's Action Party",
+					"name_alternative": "PAP",
+					"leaders": [
+						"LEE Hsien Loong"
+					]
+				},
+				{
+					"name": "People's Power Party",
+					"name_alternative": "",
+					"leaders": [
+						"Goh Meng SENG"
+					],
+					"note": "PPP"
+				},
+				{
+					"name": "People's Voice",
+					"name_alternative": "PV",
+					"leaders": [
+						"Lim TEAN"
+					]
+				},
+				{
+					"name": "Progress Singapore Party",
+					"name_alternative": "PSP",
+					"leaders": [
+						"Tan Cheng Bock"
+					]
+				},
+				{
+					"name": "Red Dot United",
+					"name_alternative": "RDU",
+					"leaders": [
+						"Ravi PHILEMON"
+					]
+				},
+				{
+					"name": "Reform Party",
+					"name_alternative": "RP",
+					"leaders": [
+						"Kenneth JEYARETNAM"
+					]
+				},
+				{
+					"name": "Singapore Democratic Alliance",
+					"name_alternative": "SDA",
+					"leaders": [
+						"Abu MOHAMED"
+					]
+				},
+				{
+					"name": "Singapore Democratic Party",
+					"name_alternative": "SDP",
+					"leaders": [
+						"Dr. CHEE Soon Juan"
+					]
+				},
+				{
+					"name": "Singapore People's Party",
+					"name_alternative": "SPP",
+					"leaders": [
+						"Steve Chia"
+					]
+				},
+				{
+					"name": "Workers' Party",
+					"name_alternative": "WP",
+					"leaders": [
+						"Pritam SINGH"
+					],
+					"note": "2020"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Ashok KUMAR Mirpuri since 30 July 2012)",
+				"chancery": "3501 International Place NW, Washington, DC 20008",
+				"telephone": "[1] (202) 537-3100",
+				"fax": "[1] (202) 537-0876",
+				"consulates_general": "San Francisco",
+				"consulates": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Rafik MANSOUR (since July 2019)",
+				"telephone": "[65] 6476-9100",
+				"embassy": "27 Napier Road, Singapore 258508",
+				"mailing_address": "FPO AP 96507-0001",
+				"fax": "[65] 6476-9340"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation's ideals of democracy, peace, progress, justice, and equality"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				},
+				{
+					"symbol": "merlion ",
+					"note": "mythical half lion-half fish creature"
+				},
+				{
+					"symbol": "orchid"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Majulah Singapura\" (Onward Singapore)",
+			"lyrics_music": "ZUBIR Said",
+			"note": "adopted 1965; first performed in 1958 at the Victoria Theatre, the anthem is sung only in Malay",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SN.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.\nThe economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.\nThe government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 528100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 509700000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 497800000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 38,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 323900000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.73,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.48,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 4.34,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 180
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 94100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 90900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 89900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 7,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 35.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 10.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 2.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 173.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -149.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0,
+							"units": "%"
+						},
+						"industry": {
+							"value": 24.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 75.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 46.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 46,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 45.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 5
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"poultry",
+				"eggs",
+				"fish",
+				"ornamental fish",
+				"orchids"
+			]
+		},
+		"industries": {
+			"industries": [
+				"electronics",
+				"chemicals",
+				"financial services",
+				"oil drilling equipment",
+				"petroleum refining",
+				"biomedical products",
+				"scientific instruments",
+				"telecommunication equipment",
+				"processed food",
+				"beverages",
+				"ship repair",
+				"offshore platform construction",
+				"entrepot trade"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.7,
+			"global_rank": 46,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 3778000,
+				"global_rank": 92,
+				"date": "2019"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 25.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 73.7,
+						"units": "%"
+					}
+				},
+				"note": "excludes non-residents",
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.25,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 2.1,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 22
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 27.5,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"budget": {
+			"revenues": {
+				"value": 50850000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 51870000000,
+				"units": "USD"
+			},
+			"note": "expenditures include both operational and development expenditures",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 15.7,
+			"global_rank": 187,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.3,
+			"global_rank": 55,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 111.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 106.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 11,
+			"note": "Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt"
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 33
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 63109000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 64042000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 8
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 396800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 338000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 13
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment (",
+					"electronics",
+					"telecommunications)",
+					"pharmaceuticals",
+					"other chemicals",
+					"refined petroleum products",
+					"foodstuffs",
+					"beverages"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 14.7
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 12.6
+					},
+					{
+						"name": "Malaysia",
+						"percent": 10.8
+					},
+					{
+						"name": "US",
+						"percent": 6.6
+					},
+					{
+						"name": "Indonesia",
+						"percent": 5.8
+					},
+					{
+						"name": "Japan",
+						"percent": 4.7
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.6
+					},
+					{
+						"name": "Thailand",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 312100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 277600000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 16
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"mineral fuels",
+					"chemicals",
+					"foodstuffs",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 13.9
+					},
+					{
+						"name": "Malaysia",
+						"percent": 12
+					},
+					{
+						"name": "US",
+						"percent": 10.7
+					},
+					{
+						"name": "Japan",
+						"percent": 6.3
+					},
+					{
+						"name": "South Korea",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 279900000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 271800000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 11
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 566100000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 464100000000,
+					"units": "USD",
+					"date": "2017-09-30"
+				}
+			],
+			"global_rank": 20
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.35,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3815,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3748,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.2671,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Singapore dollars (SGD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 48660000000,
+				"global_rank": 55,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 47690000000,
+				"global_rank": 51,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 198,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 200,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 13350000,
+				"global_rank": 53,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 98,
+					"global_rank": 29,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 183,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 200,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 144,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 200,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 14780,
+				"global_rank": 54,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 783300,
+				"global_rank": 15,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 195,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 755000,
+				"global_rank": 24,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 1322000,
+				"global_rank": 17,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 1820000,
+				"global_rank": 4,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 2335000,
+				"global_rank": 1,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 196,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 12970000000,
+				"global_rank": 44,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 622900000,
+				"global_rank": 41,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 13480000000,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 194,
+				"date": "2017-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 249500000,
+			"global_rank": 27,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2003594,
+				"subscriptions_per_one_hundred_inhabitants": 32.83,
+				"global_rank": 54,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 9543773,
+				"subscriptions_per_one_hundred_inhabitants": 156.38,
+				"global_rank": 89,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state controls broadcast media; 6 domestic TV stations operated by MediaCorp which is wholly owned by a state investment company; broadcasts from Malaysian and Indonesian stations available; satellite dishes banned; multi-channel cable TV services available; a total of 19 domestic radio stations broadcasting, with MediaCorp operating 11, Singapore Press Holdings, also government-linked, another 5, 2 controlled by the Singapore Armed Forces Reservists Association and one owned by BBC Radio; Malaysian and Indonesian radio stations are available as is BBC; a number of Internet service radio stations are also available (2019)",
+		"internet": {
+			"country_code": ".sg",
+			"users": {
+				"total": 5286665,
+				"percent_of_population": 88.17,
+				"global_rank": 80,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 230,
+				"annual_passenger_traffic_on_registered_air_carriers": 40401515,
+				"annual_freight_traffic_on_registered_air_carriers": 5194900000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "9V",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 9,
+					"global_rank": 158,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 9,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2017"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "domestic gas",
+					"length": 3220,
+					"units": "km"
+				},
+				{
+					"type": "cross-border pipelines (2017)",
+					"length": 1122,
+					"units": "km"
+				},
+				{
+					"type": "refined products (2013)",
+					"length": 8,
+					"units": "km"
+				}
+			],
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 3500,
+				"units": "km"
+			},
+			"paved": {
+				"value": 3500,
+				"units": "km",
+				"note": "includes 164 km of expressways"
+			},
+			"global_rank": 158,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 3433,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 585
+				},
+				{
+					"type": "container ship",
+					"count": 492
+				},
+				{
+					"type": "general cargo",
+					"count": 130
+				},
+				{
+					"type": "oil tanker",
+					"count": 724
+				},
+				{
+					"type": "other",
+					"count": 1502
+				}
+			],
+			"global_rank": 8,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Singapore"
+			],
+			"container_ports": [
+				{
+					"place": "Singapore",
+					"twenty_foot_equivalent_units": 33666000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Singapore"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 24
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers)",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"disputes with Malaysia over territorial waters, airspace, the price of fresh water delivered to Singapore from Malaysia, Singapore's extensive land reclamation works, bridge construction, and maritime boundaries in the Johor and Singapore Straits",
+			"in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge",
+			"Indonesia and Singapore continue to work on finalization of their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island",
+			"piracy remains a problem in the Malacca Strait"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 1303,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering"
+		}
+	}
+}

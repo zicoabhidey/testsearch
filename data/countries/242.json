@@ -1,0 +1,1682 @@
+{
+	"name": "United Arab Emirates",
+	"introduction": {
+		"background": "The Trucial States of the Persian Gulf coast granted the UK control of their defense and foreign affairs in 19th century treaties. In 1971, six of these states - Abu Dhabi, 'Ajman, Al Fujayrah, Ash Shariqah, Dubayy, and Umm al Qaywayn - merged to form the United Arab Emirates (UAE). They were joined in 1972 by Ra's al Khaymah. The UAE's per capita GDP is on par with those of leading West European nations. For more than three decades, oil and global finance drove the UAE's economy. In 2008-09, the confluence of falling oil prices, collapsing real estate prices, and the international banking crisis hit the UAE especially hard. The UAE did not experience the \"Arab Spring\" unrest seen elsewhere in the Middle East in 2010-11, partly because of the government's multi-year, $1.6-billion infrastructure investment plan for the poorer northern emirates, and its aggressive pursuit of advocates of political reform. The UAE in recent years has played a growing role in regional affairs. In addition to donating billions of dollars in economic aid to help stabilize Egypt, the UAE was one of the first countries to join the Defeat-ISIS coalition, and to participate as a key partner in a Saudi-led military campaign in Yemen. On 15 September 2020, the United Arab Emirates and Bahrain signed a peace accord with Israel – brokered by the US – in Washington DC. Referred to as the Abraham Accords, the United Arab Emirates and Bahrain are the two latest Middle Eastern countries, along with Egypt and Jordan, to recognize Israel."
+	},
+	"geography": {
+		"location": "Middle East, bordering the Gulf of Oman and the Persian Gulf, between Oman and Saudi Arabia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 24,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 54,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 83600,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 83600,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 116,
+			"comparative": "slightly larger than South Carolina; slightly smaller than Maine"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1066,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Oman",
+					"border_length": {
+						"value": 609,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Saudi Arabia",
+					"border_length": {
+						"value": 457,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1318,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "desert; cooler in eastern mountains",
+		"terrain": "flat, barren coastal plain merging into rolling sand dunes of vast desert; mountains in east",
+		"elevation": {
+			"mean_elevation": {
+				"value": 149,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Persian Gulf",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Jabal Yibir",
+				"elevation": {
+					"value": 1527,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 4.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 3.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 3.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 91.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 923,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population",
+		"natural_hazards": [
+			{
+				"description": "frequent sand and dust storms",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution",
+				"rapid population growth and high energy demand contribute to water scarcity",
+				"lack of natural freshwater resources compensated by desalination plants",
+				"land degradation and desertification",
+				"waste generation",
+				"beach pollution from oil spills"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Marine Dumping",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 9992083,
+			"global_rank": 92,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Emirati(s)",
+			"adjective": "Emirati"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Emirati",
+					"percent": 11.6
+				},
+				{
+					"name": "South Asian",
+					"percent": 59.4,
+					"breakdown": [
+						{
+							"name": "includes Indian",
+							"percent": 38.2
+						},
+						{
+							"name": "Bangladeshi",
+							"percent": 9.5
+						},
+						{
+							"name": "Pakistani",
+							"percent": 9.4
+						},
+						{
+							"name": "other",
+							"percent": 2.3
+						}
+					]
+				},
+				{
+					"name": "Egyptian",
+					"percent": 10.2
+				},
+				{
+					"name": "Filipino",
+					"percent": 6.1
+				},
+				{
+					"name": "other",
+					"percent": 12.8
+				}
+			],
+			"date": "2015"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Hindi"
+				},
+				{
+					"name": "Malayam"
+				},
+				{
+					"name": "Urdu"
+				},
+				{
+					"name": "Pashto"
+				},
+				{
+					"name": "Tagalog"
+				},
+				{
+					"name": "Persian"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 76,
+					"note": "official"
+				},
+				{
+					"name": "Christian",
+					"percent": 9
+				},
+				{
+					"name": "other",
+					"percent": 15,
+					"breakdown": [
+						{
+							"name": "primarily Hindu and Buddhist"
+						},
+						{
+							"name": "less than of the population consists of Parsi",
+							"percent": 5
+						},
+						{
+							"name": "Baha'i"
+						},
+						{
+							"name": "Druze"
+						},
+						{
+							"name": "Sikh"
+						},
+						{
+							"name": "Ahmadi"
+						},
+						{
+							"name": "Ismaili"
+						},
+						{
+							"name": "Dawoodi Bohra Muslim"
+						},
+						{
+							"name": "and Jewish"
+						}
+					]
+				}
+			],
+			"note": "data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data",
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2005"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.45,
+				"males": 745492,
+				"females": 698330
+			},
+			"15_to_24": {
+				"percent": 7.94,
+				"males": 431751,
+				"females": 361804
+			},
+			"25_to_54": {
+				"percent": 68.03,
+				"males": 5204618,
+				"females": 1592987
+			},
+			"55_to_64": {
+				"percent": 7.68,
+				"males": 658892,
+				"females": 108850
+			},
+			"65_and_over": {
+				"percent": 1.9,
+				"males": 146221,
+				"females": 43138
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 19.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 17.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 1.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 66.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 38.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 31.5,
+				"units": "years"
+			},
+			"global_rank": 63,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.49,
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.5,
+			"global_rank": 198,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 2,
+			"global_rank": 228,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 7.6,
+			"global_rank": 14,
+			"date": "2020"
+		},
+		"population_distribution": "population is heavily concentrated to the northeast on the Musandam Peninsula; the three largest emirates - Abu Dhabi, Dubai, and Sharjah - are home to nearly 85% of the population",
+		"urbanization": {
+			"urban_population": {
+				"value": 87,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.71,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Dubai",
+					"population": 2878000
+				},
+				{
+					"place": "Sharjah",
+					"population": 1685000
+				},
+				{
+					"place": "Abu Dhabi",
+					"population": 1483000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.19,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 3.27,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 6.05,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 3.39,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 2.56,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 3,
+			"global_rank": 180,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 173,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79,
+				"units": "years"
+			},
+			"male": {
+				"value": 77.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 80.5,
+				"units": "years"
+			},
+			"global_rank": 63,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.73,
+			"global_rank": 168,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.44,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 98.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 31.7,
+			"global_rank": 20,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 93.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 93.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 95.8,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 5,
+				"units": "%"
+			},
+			"female": {
+				"value": 12.8,
+				"units": "%"
+			},
+			"global_rank": 153,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "United Arab Emirates",
+			"conventional_short_form": "none",
+			"local_long_form": "Al Imarat al Arabiyah al Muttahidah",
+			"local_short_form": "none",
+			"former": "Trucial Oman, Trucial States",
+			"abbreviation": "UAE",
+			"etymology": "self-descriptive country name; the name \"Arabia\" can be traced back many centuries B.C., the ancient Egyptians referred to the region as \"Ar Rabi\"; \"emirates\" derives from \"amir\" the Arabic word for \"commander,\" \"lord,\" or \"prince\""
+		},
+		"government_type": "federation of monarchies",
+		"capital": {
+			"name": "Abu Dhabi",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 24,
+					"minutes": 28,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 54,
+					"minutes": 22,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 4,
+				"note": "9 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "in Arabic, \"abu\" means \"father\" and \"dhabi\" refers to \"gazelle\"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the \"Father of the Gazelle,\" Shakhbut bin Dhiyab al Nahyan, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded"
+		},
+		"independence": {
+			"date": "1971-12-02",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "2 December",
+				"original_year": "1971",
+				"note": "National Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1971 (provisional); latest drafted in 1979, became permanent May 1996",
+			"amendments": "proposed by the Supreme Council and submitted to the Federal National Council; passage requires at least a two-thirds majority vote of Federal National Council members present and approval of the Supreme Council president; amended 2009"
+		},
+		"legal_system": "mixed legal system of Islamic (sharia) law and civil law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of the United Arab Emirates; if the father is unknown, the mother must be a citizen",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "30 years"
+		},
+		"suffrage": {
+			"note": "limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens"
+		},
+		"executive_branch": {
+			"chief_of_state": "President KHALIFA bin Zayid Al-Nuhayyan (since 2 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006)",
+			"head_of_government": "Prime Minister Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009)",
+			"cabinet": "Council of Ministers announced by the prime minister and approved by the president",
+			"elections_appointments": "president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president",
+			"election_results": "KHALIFA bin Zayid Al-Nuhayyan reelected president; FSC vote NA",
+			"note": "there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power"
+		},
+		"legislative_branch": {
+			"description": "unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)",
+			"elections": "last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)",
+			"election_results": "all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)",
+			"judge_selection_and_term_of_office": "judges appointed by the federal president following approval by the Federal Supreme Council, the highest executive and legislative authority consisting of the 7 emirate rulers; judges serve until retirement age or the expiry of their appointment terms",
+			"subordinate_courts": "Federal Court of Cassation (determines the constitutionality of laws promulgated at the federal and emirate level; federal level courts of first instance and appeals courts); the emirates of Abu Dhabi, Dubai, and Ra's al Khaymah have parallel court systems; the other 4 emirates have incorporated their courts into the federal system; note - the Abu Dhabi Global Market Courts and the Dubai International Financial Center Courts, the country’s two largest financial free zones, both adjudicate civil and commercial disputes."
+		},
+		"political_parties_and_leaders": {
+			"note": "none; political parties are banned"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "GCC"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OPEC"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Yusif bin Mani bin Said al-UTAYBA (since 28 July 2008)",
+				"chancery": "3522 International Court NW, Suite 400, Washington, DC 20008",
+				"telephone": "[1] (202) 243-2400",
+				"fax": "[1] (202) 243-2432",
+				"consulates_general": "Boston, Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador John RAKOLTA Jr. (since 27 October 2019)",
+				"telephone": "[971] (2) 414-2200",
+				"embassy": "Embassies District, Plot 38, Sector W59-02, Street No. 4, Abu Dhabi",
+				"mailing_address": "P. O. Box 4009, Abu Dhabi",
+				"fax": "[971] (2) 414-2603",
+				"consulates_general": "Dubai"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of green (top), white, and black with a wider vertical red band on the hoist side; the flag incorporates all four Pan-Arab colors, which in this case represent fertility (green), neutrality (white), petroleum resources (black), and unity (red); red was the traditional color incorporated into all flags of the emirates before their unification"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden falcon"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nashid al-watani al-imarati\" (National Anthem of the UAE)",
+			"lyrics_music": "AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB",
+			"note": "music adopted 1971, lyrics adopted 1996; Mohamad Abdel WAHAB also composed the music for the anthem of Tunisia",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/AE.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.\nSince the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.\nThe global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.\nThe UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 696000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 690500000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 670500000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 32,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 382600000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 5.1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 179
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 68600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 70100,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 70000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 13,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 34.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 12.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 100.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -72.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 49.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 49.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 28.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 30.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 30.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 39
+		},
+		"agriculture_products": {
+			"products": [
+				"dates",
+				"vegetables",
+				"watermelons",
+				"poultry",
+				"eggs",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"petrochemicals",
+				"fishing",
+				"aluminum",
+				"cement",
+				"fertilizer",
+				"commercial ship repair",
+				"construction materials",
+				"handicrafts",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.8,
+			"global_rank": 138,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 5344000,
+				"global_rank": 74,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15,
+						"units": "%"
+					},
+					"services": {
+						"value": 78,
+						"units": "%"
+					}
+				},
+				"date": "2000"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": 3.6,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 15
+		},
+		"population_below_poverty_line": {
+			"value": 19.5,
+			"units": "%",
+			"date": "2003"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 110200000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 111100000000,
+				"units": "USD"
+			},
+			"note": "the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 28.8,
+			"global_rank": 90,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.2,
+			"global_rank": 51,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 19.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 190
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 108
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 26470000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 13230000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 14
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 308500000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 298600000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 18
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"natural gas",
+					"reexports",
+					"dried fish",
+					"dates"
+				],
+				"date": "2012"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 10.1
+					},
+					{
+						"name": "Iran",
+						"percent": 9.9
+					},
+					{
+						"name": "Japan",
+						"percent": 9.3
+					},
+					{
+						"name": "China",
+						"percent": 5.4
+					},
+					{
+						"name": "Oman",
+						"percent": 5
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.4
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 229200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 226500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 21
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"chemicals",
+					"food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 8.5
+					},
+					{
+						"name": "US",
+						"percent": 6.8
+					},
+					{
+						"name": "India",
+						"percent": 6.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 95370000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 85390000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 27
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 237600000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 218700000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 32
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.673,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.673,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.673,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.673,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 3.673,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Emirati dirhams (AED) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 121800000000,
+				"global_rank": 31,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 113200000000,
+				"global_rank": 31,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 213,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1141000000,
+				"global_rank": 66,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 28910000,
+				"global_rank": 33,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 99,
+					"global_rank": 26,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 204,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 210,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 170,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 3216000,
+				"global_rank": 8,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 2552000,
+				"global_rank": 5,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 210,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 97800000000,
+				"global_rank": 7,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 943500,
+				"global_rank": 19,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 896000,
+				"global_rank": 24,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 817700,
+				"global_rank": 10,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 392000,
+				"global_rank": 23,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 62010000000,
+				"global_rank": 14,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 74480000000,
+				"global_rank": 12,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 7504000000,
+				"global_rank": 25,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 20220000000,
+				"global_rank": 16,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 6091000000000,
+				"global_rank": 6,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 289400000,
+			"global_rank": 24,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2380238,
+				"subscriptions_per_one_hundred_inhabitants": 24.18,
+				"global_rank": 51,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 19749674,
+				"subscriptions_per_one_hundred_inhabitants": 200.63,
+				"global_rank": 62,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "except for the many organizations now operating in media free zones in Abu Dhabi and Dubai, most TV and radio stations remain government-owned; widespread use of satellite dishes provides access to pan-Arab and other international broadcasts; restrictions since June 2017 on some satellite channels and websites originating from or otherwise linked to Qatar (2018)",
+		"internet": {
+			"country_code": ".ae",
+			"users": {
+				"total": 9550945,
+				"percent_of_population": 98.45,
+				"global_rank": 54,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 10,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 497,
+				"annual_passenger_traffic_on_registered_air_carriers": 95533069,
+				"annual_freight_traffic_on_registered_air_carriers": 15962900000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "A6",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 43,
+					"global_rank": 99,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 25,
+					"over_3047_metres": 12,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 5,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 2,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 18,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 6,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 5,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 533,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 3277,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 300,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 3287,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 24,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 218,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 99,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 4080,
+				"units": "km"
+			},
+			"paved": {
+				"value": 4080,
+				"units": "km",
+				"note": "includes 253 km of expressways"
+			},
+			"global_rank": 154,
+			"date": "2008"
+		},
+		"merchant_marine": {
+			"total": 637,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 2
+				},
+				{
+					"type": "general cargo",
+					"count": 113
+				},
+				{
+					"type": "oil tanker",
+					"count": 17
+				},
+				{
+					"type": "other",
+					"count": 505
+				}
+			],
+			"global_rank": 36,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Al Fujayrah",
+				"Mina' Jabal 'Ali (Dubai)",
+				"Khor Fakkan (Khawr Fakkan) (Sharjah)",
+				"Mubarraz Island (Abu Dhabi)",
+				"Mina' Rashid (Dubai)",
+				"Mina' Saqr (Ra's al Khaymah)"
+			],
+			"container_ports": [
+				{
+					"place": "Dubai Port",
+					"twenty_foot_equivalent_units": 15368000
+				},
+				{
+					"place": "Khor Fakkan",
+					"twenty_foot_equivalent_units": 2321000
+				}
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Das Island"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 5.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 5.6,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				},
+				{
+					"value": 6,
+					"units": "percent_of_gdp",
+					"date": "2013"
+				},
+				{
+					"value": 5.1,
+					"units": "percent_of_gdp",
+					"date": "2012"
+				},
+				{
+					"value": 5.5,
+					"units": "percent_of_gdp",
+					"date": "2011"
+				}
+			],
+			"global_rank": 4,
+			"note": "no public data available for 2015 or after 2016"
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age for compulsory military service for men; 17 years of age for male volunteers with parental approval; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education",
+			"date": "2018"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published",
+			"Iran and UAE dispute Tunb Islands and Abu Musa Island, which Iran occupies"
+		],
+		"illicit_drugs": {
+			"note": "the UAE is a drug transshipment point for traffickers given its proximity to Southwest Asian drug-producing countries; the UAE's position as a major financial center makes it vulnerable to money laundering; anti-money-laundering controls improving, but informal banking remains unregulated"
+		}
+	}
+}

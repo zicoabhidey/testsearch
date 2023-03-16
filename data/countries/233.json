@@ -1,0 +1,1560 @@
+{
+	"name": "Tonga",
+	"introduction": {
+		"background": "Tonga - unique among Pacific nations - never completely lost its indigenous governance. The archipelagos of \"The Friendly Islands\" were united into a Polynesian kingdom in 1845. Tonga became a constitutional monarchy in 1875 and a British protectorate in 1900; it withdrew from the protectorate and joined the Commonwealth of Nations in 1970. Tonga remains the only monarchy in the Pacific; in 2008, King George TUPOU V announced he was relinquishing most of his powers leading up to parliamentary elections in 2010. TUPOU died in 2012 and was succeeded by his brother 'Aho'eitu TUPOU VI. Tropical Cyclone Gita, the strongest-ever recorded storm to impact Tonga, hit the islands in February 2018 causing extensive damage."
+	},
+	"geography": {
+		"location": "Oceania, archipelago in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 20,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 175,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 747,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 717,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 30,
+				"units": "sq km"
+			},
+			"global_rank": 190,
+			"comparative": "four times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 419,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "tropical; modified by trade winds; warm season (December to May), cool season (May to December)",
+		"terrain": "mostly flat islands with limestone bedrock formed from uplifted coral formation; others have limestone overlying volcanic rock",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Kao Volcano on Kao Island",
+				"elevation": {
+					"value": 1046,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 43.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 22.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 15.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 5.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 12.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 44.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied",
+		"natural_hazards": [
+			{
+				"description": "cyclones (October to April)",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes and volcanic activity on Fonuafo'ou",
+				"type": "hazard"
+			},
+			{
+				"description": "moderate volcanic activity; Fonualei (180 m) has shown frequent activity in recent years, while Niuafo'ou (260 m), which last erupted in 1985, has forced evacuations; other historically active volcanoes include Late and Tofua",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation from land being cleared for agriculture and settlement",
+				"soil exhaustion",
+				"water pollution due to salinization",
+				"sewage",
+				"and toxic chemicals from farming activities",
+				"coral reefs and marine populations threatened"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 106095,
+			"global_rank": 193,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Tongan(s)",
+			"adjective": "Tongan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Tongan",
+					"percent": 97
+				},
+				{
+					"name": "part-Tongan",
+					"percent": 0.8
+				},
+				{
+					"name": "other",
+					"percent": 2.2
+				},
+				{
+					"name": "unspecified"
+				}
+			],
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Tongan and English",
+					"percent": 76.8
+				},
+				{
+					"name": "Tongan"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "and other language",
+					"percent": 10.6
+				},
+				{
+					"name": "Tongan only",
+					"percent": 8.7,
+					"note": "official"
+				},
+				{
+					"name": "English only",
+					"percent": 0.7,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 1.7
+				},
+				{
+					"name": "none",
+					"percent": 2.2
+				}
+			],
+			"note": "data represent persons aged 5 and older who can read and write a simple sentence in Tongan, English, or another language",
+			"date": "2016"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 64.1,
+					"breakdown": [
+						{
+							"name": "includes Free Wesleyan Church",
+							"percent": 35
+						},
+						{
+							"name": "Free Church of Tonga",
+							"percent": 11.9
+						},
+						{
+							"name": "Church of Tonga",
+							"percent": 6.8
+						},
+						{
+							"name": "Assembly of God",
+							"percent": 2.3
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 2.2
+						},
+						{
+							"name": "Tokaikolo Christian Church",
+							"percent": 1.6
+						},
+						{
+							"name": "other",
+							"percent": 4.3
+						}
+					]
+				},
+				{
+					"name": "Mormon",
+					"percent": 18.6
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 14.2
+				},
+				{
+					"name": "other",
+					"percent": 2.4
+				},
+				{
+					"name": "none",
+					"percent": 0.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.1
+				}
+			],
+			"date": "2016"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 32,
+				"males": 17250,
+				"females": 16698
+			},
+			"15_to_24": {
+				"percent": 19.66,
+				"males": 10679,
+				"females": 10175
+			},
+			"25_to_54": {
+				"percent": 35.35,
+				"males": 18701,
+				"females": 18802
+			},
+			"55_to_64": {
+				"percent": 6.17,
+				"males": 3345,
+				"females": 3202
+			},
+			"65_and_over": {
+				"percent": 6.83,
+				"males": 3249,
+				"females": 3994
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 68.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 58.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 10,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 10,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.5,
+				"units": "years"
+			},
+			"global_rank": 169,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.16,
+			"global_rank": 206,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 21,
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.9,
+			"global_rank": 203,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -17.9,
+			"global_rank": 224,
+			"date": "2020"
+		},
+		"population_distribution": "over two-thirds of the population lives on the island of Tongatapu; only 45 of the nation's 171 islands are occupied",
+		"urbanization": {
+			"urban_population": {
+				"value": 23.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.71,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Nuku'Alofa",
+					"population": 23000
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.81,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 24.9,
+			"date": "2012"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 52,
+			"global_rank": 94,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 10.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 10.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 129,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77,
+				"units": "years"
+			},
+			"male": {
+				"value": 75.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.8,
+				"units": "years"
+			},
+			"global_rank": 87,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.87,
+			"global_rank": 57,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 34.1,
+			"units": "%",
+			"date": "2012"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.54,
+			"date": "2013"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.6,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 96.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 93.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 94.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 6.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 5.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 48.2,
+			"global_rank": 7,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1.9,
+			"global_rank": 114,
+			"date": "2012"
+		},
+		"literacy": {
+			"definition": "can read and write Tongan and/or English",
+			"total_population": {
+				"value": 99.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.5,
+				"units": "%"
+			},
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Tonga",
+			"conventional_short_form": "Tonga",
+			"local_long_form": "Pule'anga Fakatu'i 'o Tonga",
+			"local_short_form": "Tonga",
+			"former": "Friendly Islands",
+			"etymology": "\"tonga\" means \"south\" in the Tongan language and refers to the country's geographic position in relation to central Polynesia"
+		},
+		"government_type": "constitutional monarchy",
+		"capital": {
+			"name": "Nuku'alofa",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 21,
+					"minutes": 8,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 175,
+					"minutes": 12,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 13,
+				"note": "18 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins first Sunday in November; ends second Sunday in January",
+			"etymology": "composed of the words \"nuku,\" meaning \"residence or abode,\" and \"alofa,\" meaning \"love,\" to signify \"abode of love\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "'Eua",
+				"type": ""
+			},
+			{
+				"name": "Ha'apai",
+				"type": ""
+			},
+			{
+				"name": "Ongo Niua",
+				"type": ""
+			},
+			{
+				"name": "Tongatapu",
+				"type": ""
+			},
+			{
+				"name": "Vava'u",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1970-06-04",
+			"note": "from UK protectorate status"
+		},
+		"national_holidays": [
+			{
+				"name": "Official Birthday of King TUPOU VI",
+				"day": "4 July",
+				"original_year": "2015",
+				"note": "actual birthday of the monarch is 12 July 1959, 4 July  is the day the king was crowned"
+			},
+			{
+				"name": "Constitution Day",
+				"day": "4 November",
+				"original_year": "1875",
+				"note": "National Day"
+			}
+		],
+		"constitution": {
+			"history": "adopted 4 November 1875",
+			"amendments": "proposed by the Legislative Assembly; passage requires approval by the Assembly in each of three readings, the unanimous approval of the Privy Council (a high-level advisory body to the monarch), the Cabinet, and assent to by the monarch; revised 1988; amended many times, last in 2016"
+		},
+		"legal_system": "English common law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Tonga; if a child is born out of wedlock, the mother must be a citizen of Tonga",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 21,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985); note - on 18 March 2012, King George TUPOU V died and his brother, Crown Prince TUPOUTO'A Lavaka, assumed the throne as TUPOU VI",
+			"head_of_government": "Prime Minister Pohiva TU'I'ONETOA (since 27 September 2019)",
+			"cabinet": "Cabinet nominated by the prime minister and appointed by the monarch",
+			"elections_appointments": "the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 27 September 2019 (next to be held in November 2020)",
+			"election_results": "Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15of 23 votes cast",
+			"note": "a Privy Council advises the monarch"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Assembly or Fale Alea (up to 30 seats; - 26 for the 2017-19 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 3-year terms)",
+			"elections": "last held on 16 November 2017 (next to be held in 2020)",
+			"election_results": "percent of vote - NA; seats by party - Democratic Party 14, nobles' representatives 9,  independent 3; composition - men 24, women 2, percent of women 7.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers",
+			"judge_selection_and_term_of_office": "judge appointments and tenures made by the King in Privy Council and subject to consent of the Legislative Assembly",
+			"subordinate_courts": "Supreme Court; Magistrates' Courts; Land Courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party of the Friendly Islands",
+					"leaders": [
+						"Samuela 'Akilisi POHIVA"
+					]
+				},
+				{
+					"name": "People's Democratic Party",
+					"name_alternative": "PDP",
+					"leaders": [
+						"Tesina FUKO"
+					]
+				},
+				{
+					"name": "Sustainable Nation-Building Party",
+					"leaders": [
+						"Sione FONUA"
+					]
+				},
+				{
+					"name": "Tonga Democratic Labor Party"
+				},
+				{
+					"name": "Tonga Human Rights and Democracy Movement",
+					"name_alternative": "THRDM"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mahe'uli'uli Sandhurst TUPOUNIUA (since 17 September 2013)",
+				"chancery": "250 East 51st Street, New York, NY 10022",
+				"telephone": "[1] (917) 369-1025",
+				"fax": "[1] (917) 369-1024",
+				"consulates_general": "San Francisco"
+			}
+		},
+		"flag_description": {
+			"description": "red with a bold red cross on a white rectangle in the upper hoist-side corner; the cross reflects the deep-rooted Christianity in Tonga, red represents the blood of Christ and his sacrifice, and white signifies purity"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "red cross on white field"
+				},
+				{
+					"symbol": "arms equal length"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ko e fasi `o e tu\"i `o e `Otu Tonga\" (Song of the King of the Tonga Islands)",
+			"lyrics_music": "Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT",
+			"note": "in use since 1875; more commonly known as \"Fasi Fakafonua\" (National Song)"
+		}
+	},
+	"economy": {
+		"overview": "Tonga has a small, open island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 53,800 visitors in 2015. The country must import a high proportion of its food, mainly from New Zealand.\nThe country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health care and education. Tonga's English-speaking and educated workforce offers a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep-sea mining also offer opportunities for investment.\nTonga has a reasonably sound basic infrastructure and well developed social services. But the government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 591000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 576600000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 553600000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 211,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 455000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.5,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 115
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 167,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 99.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 21.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 22.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -68.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 19.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 59.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"squash",
+				"coconuts",
+				"copra",
+				"bananas",
+				"vanilla beans",
+				"cocoa",
+				"coffee",
+				"sweet potatoes",
+				"cassava",
+				"taro",
+				"kava"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"construction",
+				"fishing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5,
+			"global_rank": 59,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 33800,
+				"global_rank": 201,
+				"date": "2011"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2006,
+						"units": "%"
+					},
+					"industry": {
+						"value": 27.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 2006,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2011"
+				},
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2006"
+				}
+			],
+			"global_rank": 13
+		},
+		"population_below_poverty_line": {
+			"value": 22.5,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 181200000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 181200000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.8,
+			"global_rank": 42,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0,
+			"global_rank": 47,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 48,
+					"units": "percent_of_gdp"
+				},
+				{
+					"value": 51.8,
+					"units": "percent_of_gdp"
+				}
+			],
+			"global_rank": 109
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 7.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 195
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -53000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -30000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 81
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 18400000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 19400000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 213
+			},
+			"commodities": {
+				"by_commodity": [
+					"squash",
+					"fish",
+					"vanilla beans",
+					"root crops",
+					"kava"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Hong Kong",
+						"percent": 25.1
+					},
+					{
+						"name": "NZ",
+						"percent": 22.6
+					},
+					{
+						"name": "US",
+						"percent": 14.3
+					},
+					{
+						"name": "Japan",
+						"percent": 12.8
+					},
+					{
+						"name": "Australia",
+						"percent": 10.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 250200000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 269800000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 208
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"machinery",
+					"transport equipment",
+					"fuels",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "NZ",
+						"percent": 33.3
+					},
+					{
+						"name": "Fiji",
+						"percent": 11.7
+					},
+					{
+						"name": "US",
+						"percent": 9.8
+					},
+					{
+						"name": "Singapore",
+						"percent": 9
+					},
+					{
+						"name": "Australia",
+						"percent": 8.9
+					},
+					{
+						"name": "China",
+						"percent": 7.9
+					},
+					{
+						"name": "Japan",
+						"percent": 5.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 198500000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 176500000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 176
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 189900000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 198200000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 190
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.228,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.216,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.216,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.106,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.847,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "pa'anga (TOP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 97,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 98.6,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 96.6,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 52000000,
+				"global_rank": 205,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 48360000,
+				"global_rank": 205,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 209,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 210,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 20300,
+				"global_rank": 204,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 74,
+					"global_rank": 98,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 196,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 205,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 26,
+					"global_rank": 28,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 208,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 207,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 205,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 206,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 209,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 900,
+				"global_rank": 207,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 210,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 910,
+				"global_rank": 203,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 207,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 207,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 201,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 201,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 201,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 139700,
+			"global_rank": 205,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 6748,
+				"subscriptions_per_one_hundred_inhabitants": 6.35,
+				"global_rank": 200,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 63156,
+				"subscriptions_per_one_hundred_inhabitants": 59.43,
+				"global_rank": 203,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 state-owned TV station and 3 privately owned TV stations; satellite and cable TV services are available; 1 state-owned and 5 privately owned radio stations; Radio Australia broadcasts available via satellite (2019)",
+		"internet": {
+			"country_code": ".to",
+			"users": {
+				"total": 43889,
+				"percent_of_population": 41.25,
+				"global_rank": 199,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 1,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "A3",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 6,
+					"global_rank": 178,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"2438_to_3047_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 5,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 680,
+				"units": "km"
+			},
+			"paved": {
+				"value": 184,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 496,
+				"units": "km"
+			},
+			"global_rank": 189,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 36,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 4
+				},
+				{
+					"type": "general cargo",
+					"count": 14
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 17
+				}
+			],
+			"global_rank": 127,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Nuku'alofa",
+				"Neiafu",
+				"Pangai"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"note": "Volunteers, 18-25; no conscription",
+			"date": "2014"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"maritime boundary dispute with Fiji"
+		]
+	}
+}

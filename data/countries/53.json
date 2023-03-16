@@ -1,0 +1,434 @@
+{
+	"name": "Cocos (Keeling) Islands",
+	"introduction": {
+		"background": "There are 27 coral islands in the group. Captain William KEELING discovered the islands in 1609, but they remained uninhabited until the 19th century. From the 1820s to 1978, members of the CLUNIES-ROSS family controlled the islands and the copra produced from local coconuts. Annexed by the UK in 1857, the Cocos Islands were transferred to the Australian Government in 1955. Apart from North Keeling Island, which lies 30 kilometers north of the main group, the islands form a horseshoe-shaped atoll surrounding a lagoon. North Keeling Island was declared a national park in 1995 and is administered by Parks Australia. The population on the two inhabited islands generally is split between the ethnic Europeans on West Island and the ethnic Malays on Home Island."
+	},
+	"geography": {
+		"location": "Southeastern Asia, group of islands in the Indian Ocean, southwest of Indonesia, about halfway between Australia and Sri Lanka",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 12,
+				"minutes": 30,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 96,
+				"minutes": 50,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 14,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 14,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes the two main islands of West Island and Home Island",
+			"global_rank": 241,
+			"comparative": "about 24 times the size of The Mall in Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 26,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical with high humidity, moderated by the southeast trade winds for about nine months of the year",
+		"terrain": "flat, low-lying coral atolls",
+		"elevation": {
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "South Point on South Island",
+				"elevation": {
+					"value": 9,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "only Home Island and West Island are populated",
+		"natural_hazards": [
+			{
+				"description": "cyclone season is October to April",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"freshwater resources are limited to rainwater accumulations in natural underground reservoirs",
+				"illegal fishing a concern"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 596,
+			"global_rank": 237,
+			"date": "2014-07-01"
+		},
+		"nationality": {
+			"noun": "Cocos Islander(s)",
+			"adjective": "Cocos Islander"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Europeans"
+				},
+				{
+					"name": "Cocos Malays"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 22.3
+				},
+				{
+					"name": "Malay",
+					"percent": 68.8,
+					"note": "Cocos dialect"
+				},
+				{
+					"name": "unspecified",
+					"percent": 8.9
+				}
+			],
+			"note": "data represent language spoken at home",
+			"date": "2016"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 75,
+					"note": "predominantly Sunni"
+				},
+				{
+					"name": "Anglican",
+					"percent": 3.5
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 2.2
+				},
+				{
+					"name": "none",
+					"percent": 12.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 6.3
+				}
+			],
+			"date": "2016"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0,
+			"global_rank": 194,
+			"date": "2014"
+		},
+		"population_distribution": "only Home Island and West Island are populated",
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Territory of Cocos (Keeling) Islands",
+			"conventional_short_form": "Cocos (Keeling) Islands",
+			"etymology": "the name refers to the abundant coconut trees on the islands and to English Captain William KEELING, the first European to sight the islands in 1609"
+		},
+		"government_type": "non-self-governing overseas territory of Australia",
+		"capital": {
+			"name": "West Island",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 12,
+					"minutes": 10,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 96,
+					"minutes": 50,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 6.5,
+				"note": "11.5 hours ahead of Washington, DC, during Standard Time"
+			}
+		},
+		"independence": {
+			"note": "territory of Australia"
+		},
+		"national_holidays": [
+			{
+				"name": "Australia Day",
+				"day": "26 January",
+				"original_year": "1788",
+				"note": "commemorates the arrival of the First Fleet of Australian settlers"
+			}
+		],
+		"constitution": {
+			"history": "23 November 1955 (Cocos (Keeling) Islands Act 1955)",
+			"amendments": "amended many times, last in 2016"
+		},
+		"legal_system": "common law based on the Australian model",
+		"suffrage": {
+			"age": 18
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General Sir Peter COSGROVE (since 28 March 2014)",
+			"head_of_government": "Administrator Natasha GRIGGS (since 5 October 2018)",
+			"cabinet": "NA",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general for a 2-year term and represents the monarch and Australia"
+		},
+		"legislative_branch": {
+			"description": "unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with half the membership renewed every 2 years)",
+			"elections": "last held in October 2017 (next to be held on 31 October 2019)",
+			"election_results": "percent of vote by party - NA; seats by party - NA; composition - men 5, women 2, percent of women 28.6%"
+		},
+		"political_parties_and_leaders": {
+			"note": "none"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "none"
+			}
+		],
+		"flag_description": {
+			"description": "the flag of Australia is used"
+		},
+		"national_anthem": {
+			"note": "as a territory of Australia, \"Advance Australia Fair\" remains official as the national anthem, while \"God Save the Queen\" serves as the royal anthem (see Australia)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CK.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "Coconuts, grown throughout the islands, are the sole cash crop. Small local gardens and fishing contribute to the food supply, but additional food and most other necessities must be imported from Australia. There is a small tourist industry.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"note": "NA"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1,
+						"units": "%",
+						"date": "2003"
+					}
+				],
+				"global_rank": 183
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"bananas",
+				"pawpaws",
+				"coconuts"
+			]
+		},
+		"industries": {
+			"industries": [
+				"copra products",
+				"tourism"
+			]
+		},
+		"labor_force": {
+			"by_occupation": {
+				"note": "the Cocos Islands Cooperative Society Ltd. employs construction workers, stevedores, and lighterage workers; tourism is the other main source of employment"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2011"
+				},
+				{
+					"value": 60,
+					"units": "%",
+					"date": "2000"
+				}
+			],
+			"global_rank": 1
+		},
+		"budget": {},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"copra"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs"
+				]
+			}
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.311,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3442,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3442,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.1094,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Australian dollars (AUD) per US dollar"
+		}
+	},
+	"communications": {
+		"broadcast_media": "1 local radio station staffed by community volunteers; satellite broadcasts of several Australian radio and TV stations available (2017)",
+		"internet": {
+			"country_code": ".cc"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 218,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"2438_to_3047_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 22,
+				"units": "km"
+			},
+			"paved": {
+				"value": 10,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 12,
+				"units": "km"
+			},
+			"global_rank": 221,
+			"date": "2007"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Port Refuge"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Australia; the territory has a five-person police force"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

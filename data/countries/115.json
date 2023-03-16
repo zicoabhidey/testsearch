@@ -1,0 +1,843 @@
+{
+	"name": "Isle Of Man",
+	"introduction": {
+		"background": "Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland, the isle came under the British crown in 1765. Current concerns include reviving the almost extinct Manx Gaelic language. The Isle of Man is a British Crown dependency, which makes it a self-governing possession of the British Crown that is not part of the UK. The UK Government, however, remains constitutionally responsible for its defense and international representation."
+	},
+	"geography": {
+		"location": "Western Europe, island in the Irish Sea, between Great Britain and Ireland",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 54,
+				"minutes": 15,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 4,
+				"minutes": 30,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 572,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 572,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 194,
+			"comparative": "slightly more than three times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 160,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 12,
+				"units": "nm"
+			}
+		},
+		"climate": "temperate; cool summers and mild winters; overcast about a third of the time",
+		"terrain": "hills in north and south bisected by central valley",
+		"elevation": {
+			"lowest_point": {
+				"name": "Irish Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Snaefell",
+				"elevation": {
+					"value": 621,
+					"units": "m"
+				}
+			}
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 74.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 43.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 30.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 6.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 19.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest",
+		"natural_hazards": [
+			{
+				"description": "occasional high winds and rough seas",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution",
+				"marine pollution",
+				"waste disposal (both household and industrial)"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 90499,
+			"global_rank": 199,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Manxman(men), Manxwoman(women)",
+			"adjective": "Manx"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white",
+					"percent": 96.5
+				},
+				{
+					"name": "Asian/Asian British",
+					"percent": 1.9
+				},
+				{
+					"name": "other",
+					"percent": 1.5
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English"
+				},
+				{
+					"name": "Manx Gaelic",
+					"breakdown": [
+						{
+							"name": "about of the population has some knowledge",
+							"percent": 2
+						}
+					]
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"note": "Anglican, Methodist, Baptist Presbyterian, Society of Friends"
+				},
+				{
+					"name": "Roman Catholic"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.28,
+				"males": 7688,
+				"females": 7046
+			},
+			"15_to_24": {
+				"percent": 11.02,
+				"males": 5328,
+				"females": 4642
+			},
+			"25_to_54": {
+				"percent": 37.8,
+				"males": 17080,
+				"females": 17131
+			},
+			"55_to_64": {
+				"percent": 13.82,
+				"males": 6284,
+				"females": 6219
+			},
+			"65_and_over": {
+				"percent": 21.08,
+				"males": 9023,
+				"females": 10058
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 43.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 45.6,
+				"units": "years"
+			},
+			"global_rank": 12,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.59,
+			"global_rank": 151,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.8,
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.4,
+			"global_rank": 29,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 5.2,
+			"global_rank": 21,
+			"date": "2020"
+		},
+		"population_distribution": "most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest",
+		"urbanization": {
+			"urban_population": {
+				"value": 52.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.89,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Douglas",
+					"population": 27000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.15,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.9,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 191,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.6,
+				"units": "years"
+			},
+			"global_rank": 30,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.9,
+			"global_rank": 130,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 10.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 11.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 8.2,
+				"units": "%"
+			},
+			"global_rank": 126,
+			"date": "2011"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Isle of Man",
+			"abbreviation": "I.O.M.",
+			"etymology": "the name \"man\" may be derived from the Celtic word for \"mountain\""
+		},
+		"government_type": "parliamentary democracy (Tynwald)",
+		"capital": {
+			"name": "Douglas",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 54,
+					"minutes": 9,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 4,
+					"minutes": 29,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "name derives from the Dhoo and Glass Rivers, which flow through the valley in which the town is located and which in Manx mean the \"dark\" and the \"light\" rivers respectively"
+		},
+		"independence": {
+			"note": "British Crown dependency"
+		},
+		"national_holidays": [
+			{
+				"name": "Tynwald Day",
+				"day": "5 July",
+				"original_year": "1417"
+			}
+		],
+		"constitution": {
+			"history": "development of the Isle of Man constitution dates to at least the 14th century",
+			"amendments": "proposed as a bill in the House of Keys, by the \"Government,\" by a \"Member of the House,\" or through petition to the House or Legislative Council; passage normally requires three separate readings and approval of at least 13 House members; following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown; the constitution has been expanded and amended many times, last in 2019"
+		},
+		"legal_system": "the laws of the UK apply where applicable and include Manx statutes",
+		"suffrage": {
+			"age": 16,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir Richard GOZNEY (since 27 May 2016)",
+			"head_of_government": "Chief Minister Howard QUAYLE (since 4 October 2016)",
+			"cabinet": "Council of Ministers appointed by the lieutenant governor",
+			"elections_appointments": "the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 4 October 2016 (next to be held in 2021)",
+			"election_results": "Howard QUAYLE (independent) elected chief minister; Tynwald vote - 21 of 33"
+		},
+		"legislative_branch": {
+			"description": "bicameral Tynwald or the High Court of Tynwald consists of: Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms)\nHouse of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)",
+			"elections": "Legislative Council - last held 28 February 2018 (next to be held 12 March 2020)\nHouse of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)",
+			"election_results": "Legislative Council - composition - men 6, women 5, percent of women 45.5%\nHouse of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%",
+			"note": "as of January 2019, seats by party - Liberal Vannin 2, independent 22"
+		},
+		"judicial_branch": {
+			"highest_courts": "Isle of Man High Court of Justice (consists of 3 permanent judges or \"deemsters\" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70",
+			"subordinate_courts": "High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Liberal Vannin Party",
+					"leaders": [
+						"Kate BEECROFT"
+					]
+				},
+				{
+					"name": "Manx Labor Party"
+				},
+				{
+					"name": "Mec Vannin ",
+					"leaders": [
+						"Mark KERMODE"
+					],
+					"note": "sometimes referred to as the Manx Nationalist Party"
+				}
+			],
+			"note": "most members sit as independents"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "red with the Three Legs of Man emblem (triskelion), in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, Magnus III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "triskelion ",
+					"note": "a motif of three legs"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Arrane Ashoonagh dy Vannin\" (O Land of Our Birth)",
+			"lyrics_music": "William Henry GILL [English], John J. KNEEN [Manx]/traditional",
+			"note": "adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, \"God Save the Queen\" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present"
+		}
+	},
+	"economy": {
+		"overview": "Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; this has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man’s trade relationship with the EU derives from the United Kingdom’s EU membership and will need to be renegotiated in light of the United Kingdom’s decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 6792000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 7428000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 6298000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 169,
+				"note": "data are in 2014 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 6792000000,
+				"date": "2015"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -8.6,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 17.9,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": 2.1,
+						"units": "%",
+						"date": "2010"
+					}
+				],
+				"global_rank": 221
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 84600,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 86200,
+						"units": "USD",
+						"date": "2013"
+					},
+					{
+						"value": 73700,
+						"units": "USD",
+						"date": "2012"
+					}
+				],
+				"global_rank": 8
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1,
+							"units": "%",
+							"note": "FY12/13 est."
+						},
+						"industry": {
+							"value": 13,
+							"units": "%",
+							"note": "FY12/13 est."
+						},
+						"services": {
+							"value": 86,
+							"units": "%",
+							"note": "FY12/13 est."
+						}
+					}
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"cereals",
+				"vegetables",
+				"cattle",
+				"sheep",
+				"pigs",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"financial services",
+				"light manufacturing",
+				"tourism"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 41790,
+				"global_rank": 195,
+				"date": "2006"
+			},
+			"by_occupation": {
+				"occupation": {
+					"manufacturing": {
+						"value": 5,
+						"units": "%"
+					},
+					"construction": {
+						"value": 8,
+						"units": "%"
+					},
+					"tourism": {
+						"value": 1,
+						"units": "%"
+					},
+					"transport_and_communicationss": {
+						"value": 9,
+						"units": "%"
+					},
+					"agriculture_forestry_and_fishing": {
+						"value": 2,
+						"units": "%"
+					},
+					"gas_electricity_and_water": {
+						"value": 1,
+						"units": "%"
+					},
+					"wholesale_and_retail": {
+						"value": 11,
+						"units": "%"
+					},
+					"professional_and_scientific_services": {
+						"value": 20,
+						"units": "%"
+					},
+					"public_administration": {
+						"value": 7,
+						"units": "%"
+					},
+					"banking_and_finance": {
+						"value": 23,
+						"units": "%"
+					},
+					"entertainment_and_catering": {
+						"value": 5,
+						"units": "%"
+					},
+					"miscellaneous_services": {
+						"value": 8,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2011-04-01"
+				}
+			],
+			"global_rank": 10
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 965000000,
+				"units": "USD",
+				"note": "FY05/06 est."
+			},
+			"expenditures": {
+				"value": 943000000,
+				"units": "USD",
+				"note": "FY05/06 est."
+			}
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 14.2,
+			"global_rank": 201
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0.3,
+			"global_rank": 40
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 160
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"tweeds",
+					"herring",
+					"processed shellfish",
+					"beef",
+					"lamb"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"timber",
+					"fertilizers",
+					"fish"
+				]
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.7836,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.738,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.738,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.6542,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.6472,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Manx pounds (IMP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			}
+		}
+	},
+	"communications": {
+		"broadcast_media": "national public radio broadcasts over 3 FM stations and 1 AM station; 2 commercial broadcasters operating with 1 having multiple FM stations; receives radio and TV services via relays from British TV and radio broadcasters",
+		"internet": {
+			"country_code": ".im"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "M",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 224,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 63,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 6,
+				"electrified": 6,
+				"units": "km\n1.076-m",
+				"gauge": "gauge"
+			},
+			"note": "primarily summer tourist attractions",
+			"global_rank": 130,
+			"date": "2008"
+		},
+		"roadways": {
+			"total": {
+				"value": 500,
+				"units": "km"
+			},
+			"global_rank": 196,
+			"date": "2008"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Douglas",
+				"Ramsey"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

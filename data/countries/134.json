@@ -1,0 +1,1653 @@
+{
+	"name": "Lesotho",
+	"introduction": {
+		"background": "Paramount chief MOSHOESHOE I consolidated what would become Basutoland in the early 19th century and made himself king in 1822. Continuing encroachments by Dutch settlers from the neighboring Orange Free State caused the king to enter into an 1868 agreement with the UK by which Basutoland became a British protectorate, and after 1884, a crown colony. Upon independence in 1966, the country was renamed the Kingdom of Lesotho. The Basotho National Party ruled the country during its first two decades. King MOSHOESHOE II was exiled in 1990, but returned to Lesotho in 1992 and was reinstated in 1995 and subsequently succeeded by his son, King LETSIE III, in 1996. Constitutional government was restored in 1993 after seven years of military rule. In 1998, violent protests and a military mutiny following a contentious election prompted a brief but bloody intervention by South African and Botswana military forces under the aegis of the Southern African Development Community. Subsequent constitutional reforms restored relative political stability. Peaceful parliamentary elections were held in 2002, but the National Assembly elections in 2007 were hotly contested and aggrieved parties disputed how the electoral law was applied to award proportional seats in the Assembly. In 2012, competitive elections involving 18 parties saw Prime Minister Motsoahae Thomas THABANE form a coalition government - the first in the country's history - that ousted the 14-year incumbent, Pakalitha MOSISILI, who peacefully transferred power the following month. MOSISILI returned to power in snap elections in February 2015 after the collapse of THABANE’s coalition government and an alleged attempted military coup. In June 2017, THABANE returned to become prime minister."
+	},
+	"geography": {
+		"location": "Southern Africa, an enclave of South Africa",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 29,
+				"minutes": 30,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 28,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 30355,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 30355,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 142,
+			"comparative": "slightly smaller than Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1106,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "South Africa",
+					"border_length": {
+						"value": 1106,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate; cool to cold, dry winters; hot, wet summers",
+		"terrain": "mostly highland with plateaus, hills, and mountains",
+		"elevation": {
+			"mean_elevation": {
+				"value": 2161,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "junction of the Orange and Makhaleng Rivers",
+				"elevation": {
+					"value": 1400,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Thabana Ntlenyana",
+				"elevation": {
+					"value": 3482,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"water",
+				"agricultural",
+				"grazing land",
+				"diamonds",
+				"sand",
+				"clay",
+				"building stone"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 76.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 10.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 65.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 1.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 22.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 30,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"population pressure forcing settlement in marginal areas results in overgrazing",
+				"severe soil erosion",
+				"and soil exhaustion",
+				"desertification",
+				"Highlands Water Project controls",
+				"stores",
+				"and redirects water to South Africa"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1969334,
+			"global_rank": 149,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Mosotho (singular), Basotho (plural)",
+			"adjective": "Basotho"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Sotho",
+					"percent": 99.7
+				},
+				{
+					"name": "Europeans"
+				},
+				{
+					"name": "Asians"
+				},
+				{
+					"name": "and other",
+					"percent": 0.3
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Sesotho",
+					"note": "official; southern Sotho"
+				},
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Zulu"
+				},
+				{
+					"name": "Xhosa"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 47.8,
+					"breakdown": [
+						{
+							"name": "Pentecostal",
+							"percent": 23.1
+						},
+						{
+							"name": "Lesotho Evangelical",
+							"percent": 17.3
+						},
+						{
+							"name": "Anglican",
+							"percent": 7.4
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 39.3
+				},
+				{
+					"name": "other Christian",
+					"percent": 9.1
+				},
+				{
+					"name": "non-Christian",
+					"percent": 1.4
+				},
+				{
+					"name": "none",
+					"percent": 2.3
+				}
+			],
+			"date": "2014"
+		},
+		"demographic_profile": "Lesotho faces great socioeconomic challenges. More than half of its population lives below the property line, and the country’s HIV/AIDS prevalence rate is the second highest in the world. In addition, Lesotho is a small, mountainous, landlocked country with little arable land, leaving its population vulnerable to food shortages and reliant on remittances. Lesotho’s persistently high infant, child, and maternal mortality rates have been increasing during the last decade, according to the last two Demographic and Health Surveys. Despite these significant shortcomings, Lesotho has made good progress in education; it is on-track to achieve universal primary education and has one of the highest adult literacy rates in Africa.\nLesotho’s migration history is linked to its unique geography; it is surrounded by South Africa with which it shares linguistic and cultural traits. Lesotho at one time had more of its workforce employed outside its borders than any other country. Today remittances equal about 17% of its GDP. With few job options at home, a high rate of poverty, and higher wages available across the border, labor migration to South Africa replaced agriculture as the prevailing Basotho source of income decades ago. The majority of Basotho migrants were single men contracted to work as gold miners in South Africa. However, migration trends changed in the 1990s, and fewer men found mining jobs in South Africa because of declining gold prices, stricter immigration policies, and a preference for South African workers.\nAlthough men still dominate cross-border labor migration, more women are working in South Africa, mostly as domestics, because they are widows or their husbands are unemployed. Internal rural-urban flows have also become more frequent, with more women migrating within the country to take up jobs in the garment industry or moving to care for loved ones with HIV/AIDS. Lesotho’s small population of immigrants is increasingly composed of Taiwanese and Chinese migrants who are involved in the textile industry and small retail businesses.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 31.3,
+				"males": 309991,
+				"females": 306321
+			},
+			"15_to_24": {
+				"percent": 19.26,
+				"males": 181874,
+				"females": 197452
+			},
+			"25_to_54": {
+				"percent": 38.86,
+				"males": 373323,
+				"females": 391901
+			},
+			"55_to_64": {
+				"percent": 4.98,
+				"males": 52441,
+				"females": 45726
+			},
+			"65_and_over": {
+				"percent": 5.6,
+				"males": 57030,
+				"females": 53275
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 59.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 51.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 12.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 24.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.7,
+				"units": "years"
+			},
+			"global_rank": 164,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.16,
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 23.2,
+			"global_rank": 56,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 15.4,
+			"global_rank": 1,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -6.1,
+			"global_rank": 206,
+			"date": "2020"
+		},
+		"population_distribution": "relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 29,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.83,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Maseru",
+					"population": 202000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.95,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.15,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.07,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 544,
+			"global_rank": 17,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 41.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 44.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 38.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 38,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 53,
+				"units": "years"
+			},
+			"male": {
+				"value": 53.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 53,
+				"units": "years"
+			},
+			"global_rank": 227,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.5,
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 64.9,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.07,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 93,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 72.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 78.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 27.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 21.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 88.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 52.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 62.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 11.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 47.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 37.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 23.1,
+				"global_rank": 2,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 340000,
+				"global_rank": 22,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 4800,
+				"global_rank": 27,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 16.6,
+			"global_rank": 122,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 10.5,
+			"global_rank": 61,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.4,
+			"global_rank": 23,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 79.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 70.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 88.3,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 34.4,
+				"units": "%"
+			},
+			"global_rank": 23,
+			"date": "2013"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Lesotho",
+			"conventional_short_form": "Lesotho",
+			"local_long_form": "Kingdom of Lesotho",
+			"local_short_form": "Lesotho",
+			"former": "Basutoland",
+			"etymology": "the name translates as \"Land of the Sesotho Speakers\""
+		},
+		"government_type": "parliamentary constitutional monarchy",
+		"capital": {
+			"name": "Maseru",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 29,
+					"minutes": 19,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 27,
+					"minutes": 29,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "in the Sesotho language the name means \"[place of] red sandstones\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "Berea",
+				"type": ""
+			},
+			{
+				"name": "Butha-Buthe",
+				"type": ""
+			},
+			{
+				"name": "Leribe",
+				"type": ""
+			},
+			{
+				"name": "Mafeteng",
+				"type": ""
+			},
+			{
+				"name": "Maseru",
+				"type": ""
+			},
+			{
+				"name": "Mohale's Hoek",
+				"type": ""
+			},
+			{
+				"name": "Mokhotlong",
+				"type": ""
+			},
+			{
+				"name": "Qacha's Nek",
+				"type": ""
+			},
+			{
+				"name": "Quthing",
+				"type": ""
+			},
+			{
+				"name": "Thaba-Tseka",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1966-10-04",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "4 October",
+				"original_year": "1966"
+			}
+		],
+		"constitution": {
+			"history": "previous 1959, 1967; latest adopted 2 April 1993 (effectively restoring the 1967 version)",
+			"amendments": "proposed by Parliament; passage of amendments affecting constitutional provisions, including fundamental rights and freedoms, sovereignty of the kingdom, the office of the king, and powers of Parliament, requires a majority vote by the National Assembly, approval by the Senate, approval in a referendum by a majority of qualified voters, and assent of the king; passage of amendments other than those specified provisions requires at least a two-thirds majority vote in both houses of Parliament; amended several times, last in 2011"
+		},
+		"legal_system": "mixed legal system of English common law and Roman-Dutch law; judicial review of legislative acts in High Court and Court of Appeal",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile",
+			"head_of_government": "Prime Minister Moeketsi MAJORO (since 20 May 2020); note - Prime Minister Thomas THABANE resigned on 19 May 2020",
+			"cabinet": "consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 26 other ministers",
+			"elections_appointments": "the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a \"living symbol of national unity\" with no executive or legislative powers; under traditional law, the college of chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age; following legislative elections, the leader of the majority party or majority coalition in the Assembly automatically becomes prime minister"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)\nNational Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)",
+			"elections": "Senate - last nominated by the king 11 July 2017 (next NA)\nNational Assembly - last held on 3 June 2017 (next to be held in 2022)",
+			"election_results": "Senate - percent of votes by party - NA, seats by party - NA; composition - men 25, women 8, percent of women 24.2%\nNational Assembly - percent of votes by party - ABC 40.5%, DC 25.8%, LCD 9%, AD 7.3%, MEC 5.1%, BNP 4.1, PFD 2.3%, other 5.9%; seats by party - ABC 51, DC 30, LCD 11, AD 9, MEC 6, BNP 5, PFD 3, other 5; composition - men 95, women 27, percent of women 22.5%; note - total Parliament percent of women 22.9%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues",
+			"judge_selection_and_term_of_office": "Court of Appeal president and High Court chief justice appointed by the monarch on the advice of the prime minister; puisne judges appointed by the monarch on advice of the Judicial Service Commission, an independent body of judicial officers and officials designated by the monarch; judges of both courts can serve until age 75",
+			"subordinate_courts": "Magistrate Courts; customary or traditional courts; military courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "All Basotho Convention",
+					"name_alternative": "ABC",
+					"leaders": [
+						"Thomas Motsoahae THABANE"
+					]
+				},
+				{
+					"name": "Alliance of Democrats",
+					"name_alternative": "AD",
+					"leaders": [
+						"Monyane MOLELEKI"
+					]
+				},
+				{
+					"name": "Basotho Congress Party",
+					"name_alternative": "BCP",
+					"leaders": [
+						"Thulo MAHLAKENG"
+					]
+				},
+				{
+					"name": "Basotho National Party",
+					"name_alternative": "BNP",
+					"leaders": [
+						"Thesele MASERIBANE"
+					]
+				},
+				{
+					"name": "Democratic Congress",
+					"name_alternative": "DC",
+					"leaders": [
+						"Pakalitha MOSISILI"
+					]
+				},
+				{
+					"name": "Democratic Party of Lesotho",
+					"name_alternative": "DPL",
+					"leaders": [
+						"Limpho TAU"
+					]
+				},
+				{
+					"name": "Lesotho Congress for Democracy",
+					"name_alternative": "LCD",
+					"leaders": [
+						"Mothetjoa METSING"
+					]
+				},
+				{
+					"name": "Movement of Economic Change",
+					"name_alternative": "MEC",
+					"leaders": [
+						"Selibe MOCHOBOROANE"
+					]
+				},
+				{
+					"name": "National Independent Party",
+					"name_alternative": "NIP",
+					"leaders": [
+						"Kimetso MATHABA"
+					]
+				},
+				{
+					"name": "Popular Front for Democracy of PFD",
+					"leaders": [
+						"Lekhetho RAKUOANE"
+					]
+				},
+				{
+					"name": "Reformed Congress of Lesotho",
+					"name_alternative": "RCL",
+					"leaders": [
+						"Keketso RANTSO"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "SACU"
+			},
+			{
+				"organization": "SADC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Sankatana Gabriel MAJA (since 22 June 2018)",
+				"chancery": "2511 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 797-5533",
+				"fax": "[1] (202) 234-6815"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Rebecca E. GONZALES (since 8 February 2018)",
+				"telephone": "[266] 22 312 666",
+				"embassy": "254 Kingsway Road, Maseru West",
+				"mailing_address": "P.O. Box 333, Maseru 100, Lesotho",
+				"fax": "[266] 22 310 116"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal stripes of blue (top), white, and green in the proportions of 3:4:3; the colors represent rain, peace, and prosperity respectively; centered in the white stripe is a black Basotho hat representing the indigenous people; the flag was unfurled in October 2006 to celebrate 40 years of independence"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "mokorotio ",
+					"note": "Basotho hat"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Lesotho fatse la bo ntat'a rona\" (Lesotho, Land of Our Fathers)",
+			"lyrics_music": "Francois COILLARD/Ferdinand-Samuel LAUR",
+			"note": "adopted 1967; music derives from an 1823 Swiss songbook"
+		}
+	},
+	"economy": {
+		"overview": "Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.\nLesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.\nThe government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 6656000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6762000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6561000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 170,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2749000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -1.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.5,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 204
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 190,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 69.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 26.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 31.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -13.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 40.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -54.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 5.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 39.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 54.9,
+							"units": "%",
+							"date": "2017"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 24.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 96
+		},
+		"agriculture_products": {
+			"products": [
+				"corn",
+				"wheat",
+				"pulses",
+				"sorghum",
+				"barley",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food",
+				"beverages",
+				"textiles",
+				"apparel assembly",
+				"handicrafts",
+				"construction",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 12.5,
+			"global_rank": 6,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 930800,
+				"global_rank": 141,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 86,
+						"units": "%"
+					},
+					"industry_and_services": {
+						"value": 14,
+						"units": "%"
+					}
+				},
+				"note": "most of the resident population is engaged in subsistence agriculture; roughly 35% of the active male wage earners work in South Africa",
+				"date": "2002"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 28.1,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 25,
+					"units": "%",
+					"date": "2008"
+				}
+			],
+			"global_rank": 203
+		},
+		"population_below_poverty_line": {
+			"value": 57,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 39.4,
+				"units": "%"
+			},
+			"date": "2003"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1090000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1255000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.7,
+			"global_rank": 43,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -6,
+			"global_rank": 184,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 33.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 36.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 155
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 173
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -102000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -201000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 87
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1028000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 894000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 159
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactures (clothing",
+					"footwear)",
+					"wool",
+					"mohair",
+					"food",
+					"live animals",
+					"electricity",
+					"water",
+					"diamonds"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 57
+					},
+					{
+						"name": "US",
+						"percent": 33.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1826000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1613000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 172
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"building materials",
+					"vehicles",
+					"machinery",
+					"medicines",
+					"petroleum products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 87.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 657700000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 925200000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 143
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 934600000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 921300000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 166
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 14.48,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 14.71,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 14.71,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 12.76,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 10.85,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "maloti (LSL) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 1000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 36,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 63,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 26,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 510000000,
+				"global_rank": 165,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 847300000,
+				"global_rank": 160,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 158,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 373000000,
+				"global_rank": 84,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 80400,
+				"global_rank": 184,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 0,
+					"global_rank": 213,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 127,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 100,
+					"global_rank": 1,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 159,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 162,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 154,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 152,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 157,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 165,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 5000,
+				"global_rank": 179,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 171,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 5118,
+				"global_rank": 170,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 157,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 167,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 138,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 148,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 158,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 711100,
+			"global_rank": 177,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7865,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 194,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 2238186,
+				"subscriptions_per_one_hundred_inhabitants": 113.83,
+				"global_rank": 147,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 state-owned TV station and 2 state-owned radio stations; government controls most private broadcast media; satellite TV subscription service available; transmissions of multiple international broadcasters obtainable (2019)",
+		"internet": {
+			"country_code": ".ls",
+			"users": {
+				"total": 569114,
+				"percent_of_population": 29,
+				"global_rank": 149,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "7P",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 24,
+					"global_rank": 130,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 3,
+					"over_3047_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 21,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 16,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 5940,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1069,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 4871,
+				"units": "km"
+			},
+			"global_rank": 144,
+			"date": "2011"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 82
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-24 years of age for voluntary military service; no conscription; women serve as commissioned officers",
+			"date": "2019"
+		},
+		"note": "Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Lesotho is a source, transit, and destination country for women and children subjected to forced labor and sex trafficking and for men subjected to forced labor; in Lesotho and South Africa, Basotho women and children are subjected to domestic servitude, and Basotho children increasingly endure commercial sexual exploitation; some Basotho men who voluntarily migrate to South Africa for work become victims of forced labor in agriculture and mining or are coerced into committing crimes; foreign nationals continue to traffic fellow citizens in Lesotho",
+			"tier_rating": "Tier 2 Watch List – Lesotho does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Lesotho was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; the government failed to initiate any prosecutions against alleged traffickers and has not convicted any offenders under the 2011 anti-trafficking act, which remains unimplemented for a fifth year; authorities did not develop formal victim identification and referral procedures, did not establish victim care centers, as required under the 2011 anti-trafficking act, and did not support NGOs offering victims protective services (2015)"
+		}
+	}
+}

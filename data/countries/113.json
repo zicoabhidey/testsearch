@@ -1,0 +1,1834 @@
+{
+	"name": "Iraq",
+	"introduction": {
+		"background": "Formerly part of the Ottoman Empire, Iraq was occupied by the United Kingdom during World War I and was declared a League of Nations mandate under UK administration in 1920. Iraq attained its independence as a kingdom in 1932. It was proclaimed a \"republic\" in 1958 after a coup overthrew the monarchy, but in actuality, a series of strongmen ruled the country until 2003. The last was SADDAM Husayn from 1979 to 2003. Territorial disputes with Iran led to an inconclusive and costly eight-year war (1980-88). In August 1990, Iraq seized Kuwait but was expelled by US-led UN coalition forces during the Gulf War of January-February 1991. After Iraq's expulsion, the UN Security Council (UNSC) required Iraq to scrap all weapons of mass destruction and long-range missiles and to allow UN verification inspections. Continued Iraqi noncompliance with UNSC resolutions led to the Second Gulf War in March 2003 and the ouster of the SADDAM Husayn regime by US-led forces.\nIn October 2005, Iraqis approved a constitution in a national referendum and, pursuant to this document, elected a 275-member Council of Representatives (COR) in December 2005. The COR approved most cabinet ministers in May 2006, marking the transition to Iraq's first constitutional government in nearly a half century. Iraq held elections for provincial councils in all governorates in January 2009 and April 2013 and postponed the next provincial elections, originally planned for April 2017, until 2019. Iraq has held three national legislative elections since 2005, most recently in May 2018 when 329 legislators were elected to the COR. Adil ABD AL-MAHDI assumed the premiership in October 2018 as a consensus and independent candidate - the first prime minister who is not an active member of a major political bloc. However, widespread protests that began in October 2019 demanding more employment opportunities and an end to corruption prompted ABD AL-MAHDI to announce his resignation on 20 November 2019.\nBetween 2014 and 2017, Iraq was engaged in a military campaign against the Islamic State of Iraq and ash-Sham (ISIS) to recapture territory lost in the western and northern portion of the country. Iraqi and allied forces recaptured Mosul, the country's second-largest city, in 2017 and drove ISIS out of its other urban strongholds. In December 2017, then-Prime Minister Haydar al-ABADI publicly declared victory against ISIS while continuing operations against the group's residual presence in rural areas. Also in late 2017, ABADI responded to an independence referendum held by the Kurdistan Regional Government by ordering Iraqi forces to take control of disputed territories across central and northern Iraq that were previously occupied and governed by Kurdish forces."
+	},
+	"geography": {
+		"location": "Middle East, bordering the Persian Gulf, between Iran and Kuwait",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 33,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 44,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 438317,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 437367,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 950,
+				"units": "sq km"
+			},
+			"global_rank": 60,
+			"comparative": "slightly more than three times the size of New York state"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 3809,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Iran",
+					"border_length": {
+						"value": 1599,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Jordan",
+					"border_length": {
+						"value": 179,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kuwait",
+					"border_length": {
+						"value": 254,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Saudi Arabia",
+					"border_length": {
+						"value": 811,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Syria",
+					"border_length": {
+						"value": 599,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Turkey",
+					"border_length": {
+						"value": 367,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 58,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": "not specified"
+		},
+		"climate": "mostly desert; mild to cool winters with dry, hot, cloudless summers; northern mountainous regions along Iranian and Turkish borders experience cold winters with occasionally heavy snows that melt in early spring, sometimes causing extensive flooding in central and southern Iraq",
+		"terrain": "mostly broad plains; reedy marshes along Iranian border in south with large flooded areas; mountains along borders with Iran and Turkey",
+		"elevation": {
+			"mean_elevation": {
+				"value": 312,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Persian Gulf",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Cheekha Dar (Kurdish for \"Black Tent\")",
+				"elevation": {
+					"value": 3611,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"phosphates",
+				"sulfur"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 18.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 8.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 9.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 1.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 80,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 35250,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited",
+		"natural_hazards": [
+			{
+				"description": "dust storms",
+				"type": "hazard"
+			},
+			{
+				"description": "sandstorms",
+				"type": "hazard"
+			},
+			{
+				"description": "floods",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"government water control projects drained most of the inhabited marsh areas east of An Nasiriyah by drying up or diverting the feeder streams and rivers",
+				"a once sizable population of Marsh Arabs",
+				"who inhabited these areas for thousands of years",
+				"has been displaced",
+				"furthermore",
+				"the destruction of the natural habitat poses serious threats to the area's wildlife populations",
+				"inadequate supplies of potable water",
+				"soil degradation (salination) and erosion",
+				"desertification",
+				"military and industrial infrastructure has released heavy metals and other hazardous substances into the air",
+				"soil",
+				"and groundwater",
+				"major sources of environmental damage are effluents from oil refineries",
+				"factory and sewage discharges into rivers",
+				"fertilizer and chemical contamination of the soil",
+				"and industrial air pollution in urban areas"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": [
+					"Environmental Modification"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 38872655,
+			"global_rank": 36,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Iraqi(s)",
+			"adjective": "Iraqi"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Arab",
+					"percent": 75
+				},
+				{
+					"name": "Kurdish",
+					"percent": 15
+				},
+				{
+					"name": "other",
+					"percent": 5,
+					"note": "includes Turkmen, Yezidi, Shabak, Kaka'i, Bedouin, Romani, Assyrian, Circassian, Sabaean-Mandaean, Persian"
+				}
+			],
+			"note": "data is a 1987 government estimate; no more recent reliable numbers are available"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "Kurdish",
+					"note": "official"
+				},
+				{
+					"name": "Turkmen",
+					"note": "a Turkish dialect"
+				},
+				{
+					"name": "Syriac",
+					"note": "Neo-Aramaic"
+				},
+				{
+					"name": "and Armenian are official in areas where native speakers of these languages constitute a majority of the population"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 95,
+					"breakdown": [
+						{
+							"name": "Shia",
+							"percent": 64
+						},
+						{
+							"name": "Sunni",
+							"percent": 29
+						}
+					],
+					"note": "official"
+				},
+				{
+					"name": "Christian",
+					"percent": 1,
+					"note": "includes Catholic, Orthodox, Protestant, Assyrian Church of the East"
+				},
+				{
+					"name": "other",
+					"percent": 1
+				}
+			],
+			"note": "while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as high as 90% since the fall of the SADDAM Husayn regime in 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon",
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 37.02,
+				"males": 7349868,
+				"females": 7041405
+			},
+			"15_to_24": {
+				"percent": 19.83,
+				"males": 3918433,
+				"females": 3788157
+			},
+			"25_to_54": {
+				"percent": 35.59,
+				"males": 6919569,
+				"females": 6914856
+			},
+			"55_to_64": {
+				"percent": 4.23,
+				"males": 805397,
+				"females": 839137
+			},
+			"65_and_over": {
+				"percent": 3.33,
+				"males": 576593,
+				"females": 719240
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 69.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 64.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 17.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 21.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 20.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 21.6,
+				"units": "years"
+			},
+			"global_rank": 186,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.16,
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 25.7,
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3.9,
+			"global_rank": 215,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.5,
+			"global_rank": 127,
+			"date": "2020"
+		},
+		"population_distribution": "population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited",
+		"urbanization": {
+			"urban_population": {
+				"value": 70.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.06,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Baghdad",
+					"population": 7144000,
+					"is_capital": true
+				},
+				{
+					"place": "Mosul",
+					"population": 1630000
+				},
+				{
+					"place": "Basra",
+					"population": 1352000
+				},
+				{
+					"place": "Kirkuk",
+					"population": 1012999.9999999999
+				},
+				{
+					"place": "Najaf",
+					"population": 874000
+				},
+				{
+					"place": "Erbil",
+					"population": 846000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.8,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 79,
+			"global_rank": 80,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 19.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 20.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 18.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 80,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 72.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 74.6,
+				"units": "years"
+			},
+			"global_rank": 152,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.39,
+			"global_rank": 44,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 52.8,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.84,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 95,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 96.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 89.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 95.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 10.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 10 November 2020, Iraq has reported a total of 496,019 cases of COVID-19 or 12,332 cumulative cases of COVID-19 per 1 million population with 281 cumulative deaths per 1 million population",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 30.4,
+			"global_rank": 23,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 3.9,
+			"global_rank": 91,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 50.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 56.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 44,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 25.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 22,
+				"units": "%"
+			},
+			"female": {
+				"value": 63.3,
+				"units": "%"
+			},
+			"global_rank": 48,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Iraq",
+			"conventional_short_form": "Iraq",
+			"local_long_form": "Jumhuriyat al-Iraq/Komar-i Eraq",
+			"local_short_form": "Al Iraq/Eraq",
+			"former": "Mesopotamia, Mandatory Iraq, Hashemite Kingdom of Iraq",
+			"etymology": "the name probably derives from \"Uruk\" (Biblical \"Erech\"), the ancient Sumerian and Babylonian city on the Euphrates River"
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "Baghdad",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 33,
+					"minutes": 20,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 44,
+					"minutes": 24,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)\nalthough the origin of the name is disputed, it likely has compound Persian roots with \"bagh\" and \"dad\" meaning \"god\" and \"given\" respectively to create the meaning of \"bestowed by God\""
+		},
+		"independence": {
+			"date": "1932-10-03",
+			"note": "from League of Nations mandate under British administration; note - on 28 June 2004 the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "3 October",
+				"original_year": "1932"
+			},
+			{
+				"name": "Republic Day",
+				"day": "14 July",
+				"original_year": "1958"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted by referendum 15 October 2005",
+			"amendments": "proposed by the president of the republic and the Council of Minsters collectively, or by one fifth of the Council of Representatives members; passage requires at least two-thirds majority vote by the Council of Representatives, approval by referendum, and ratification by the president; passage of amendments to articles on citizen rights and liberties requires two-thirds majority vote of Council of Representatives members after two successive electoral terms, approval in a referendum, and ratification by the president"
+		},
+		"legal_system": "mixed legal system of civil and Islamic law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Iraq",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Barham SALIH (since 2 October 2018); vice presidents (vacant)",
+			"head_of_government": "Prime Minister Mustafa al-KADHIMI (since 7 May 2020)",
+			"cabinet": "Council of Ministers proposed by the prime minister, approved by Council of Representatives",
+			"elections_appointments": "president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term); COR election last held on 12 May 2018 (next NA)",
+			"election_results": "COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October"
+		},
+		"legislative_branch": {
+			"description": "unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by simple majority vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - in early November 2020, the president ratified a new electoral law - approved by the Council of Representatives in late October - that eliminates the proportional representation electoral system",
+			"elections": "last held on 12 May 2018 (next originally scheduled for May 2022, but rescheduled earlier to 6 June 2021)",
+			"election_results": "percent of vote by party/coalition - NA; seats by party/coalition - Sa'irun Alliance 54, Al Fatah Alliance 48, Al Nasr Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)",
+			"judge_selection_and_term_of_office": "Federal Supreme Court and Court of Cassation judges selected by the president of the republic from nominees selected by the Higher Judicial Council (HJC), a 25-member committee of judicial officials that manages the judiciary and prosecutors; FSC members appointed for life; Court of Cassation judges appointed by the HJC and confirmed by the Council of Representatives to serve until retirement nominally at age 63",
+			"subordinate_courts": "Courts of Appeal (governorate level); civil courts, including first instance, personal status, labor, and customs; criminal courts including felony, misdemeanor, investigative, major crimes, juvenile, and traffic courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Al Fatah Alliance",
+					"leaders": [
+						"Hadi al-AMIRI"
+					]
+				},
+				{
+					"name": "Al Nasr Alliance",
+					"leaders": [
+						"Haydar al-ABADI"
+					]
+				},
+				{
+					"name": "Al Sadiqun Bloc",
+					"leaders": [
+						"Adnan al-DULAYMI"
+					]
+				},
+				{
+					"name": "Al Sa'irun Alliance",
+					"leaders": [
+						"Muqtda al-SADR"
+					]
+				},
+				{
+					"name": "Badr Organization",
+					"leaders": [
+						"Hadi al-AMIRI"
+					]
+				},
+				{
+					"name": "Da`wa Party",
+					"leaders": [
+						"Nuri al-MALIKI"
+					]
+				},
+				{
+					"name": "Fadilah Party",
+					"leaders": [
+						"Muhammad al-YAQUBI"
+					]
+				},
+				{
+					"name": "Goran Movement",
+					"leaders": [
+						"Omar SAYYID ALI"
+					]
+				},
+				{
+					"name": "Iraqi Communist Party",
+					"leaders": [
+						"Hamid Majid MUSA"
+					]
+				},
+				{
+					"name": "Iraq Decision Alliance",
+					"leaders": [
+						"Khamis al-KHANJAR",
+						"Usama al-NUJAYFI"
+					]
+				},
+				{
+					"name": "Islamic Supreme Council of Iraq",
+					"name_alternative": "ISCI",
+					"leaders": [
+						"Humam HAMMUDI"
+					]
+				},
+				{
+					"name": "Kurdistan Democratic Party",
+					"name_alternative": "KDP",
+					"leaders": [
+						"Masoud BARZANI"
+					]
+				},
+				{
+					"name": "National Wisdom Trend",
+					"leaders": [
+						"Ammar al-HAKIM"
+					]
+				},
+				{
+					"name": "New Generation Movement",
+					"leaders": [
+						"SHASWAR Abd al-Wahid Qadir"
+					]
+				},
+				{
+					"name": "Our Identity",
+					"leaders": [
+						"Muhammad al-HALBUSI"
+					]
+				},
+				{
+					"name": "Patriotic Union of Kurdistan",
+					"name_alternative": "PUK",
+					"leaders": [
+						"KOSRAT Rasul Ali",
+						"acting"
+					]
+				},
+				{
+					"name": "State of Law Coalition [Nuri al MALIKI"
+				},
+				{
+					"name": "Wataniyah coalition",
+					"leaders": [
+						"Ayad ALLAWI"
+					]
+				}
+			],
+			"note": "numerous smaller religious, local, tribal, minority parties"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OPEC"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Farid YASIN (since 18 January 2017)",
+				"chancery": "3421 Massachusetts Avenue, NW, Washington, DC 20007",
+				"telephone": "[1] (202) 742-1600",
+				"fax": "[1] (202) 333-1129",
+				"consulates_general": "Detroit, Los Angeles"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Matthew TUELLER (since 9 June 2019)",
+				"telephone": "0760-030-3000",
+				"embassy": "Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018",
+				"mailing_address": "APO AE 09316",
+				"fax": "NA"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning \"God is great\") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag",
+			"note": "similar to the flag of Syria, which has two stars but no script; Yemen, which has a plain white band; and that of Egypt, which has a golden Eagle of Saladin centered in the white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Mawtini\" (My Homeland)",
+			"lyrics_music": "Ibrahim TOUQAN/Mohammad FLAYFEL",
+			"note": "adopted 2004; following the ouster of SADDAM Husayn, Iraq adopted \"Mawtini,\" a popular folk song throughout the Arab world; also serves as an unofficial anthem of the Palestinian people",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/IZ.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "Iraq's GDP growth slowed to 1.1% in 2017, a marked decline compared to the previous two years as domestic consumption and investment fell because of civil violence and a sluggish oil market. The Iraqi Government received its third tranche of funding from its 2016 Stand-By Arrangement (SBA) with the IMF in August 2017, which is intended to stabilize its finances by encouraging improved fiscal management, needed economic reform, and expenditure reduction. Additionally, in late 2017 Iraq received more than $1.4 billion in financing from international lenders, part of which was generated by issuing a $1 billion bond for reconstruction and rehabilitation in areas liberated from ISIL. Investment and key sector diversification are crucial components to Iraq’s long-term economic development and require a strengthened business climate with enhanced legal and regulatory oversight to bolster private-sector engagement. The overall standard of living depends on global oil prices, the central government passage of major policy reforms, a stable security environment post-ISIS, and the resolution of civil discord with the Kurdish Regional Government (KRG).\nIraq's largely state-run economy is dominated by the oil sector, which provides roughly 85% of government revenue and 80% of foreign exchange earnings, and is a major determinant of the economy's fortunes. Iraq's contracts with major oil companies have the potential to further expand oil exports and revenues, but Iraq will need to make significant upgrades to its oil processing, pipeline, and export infrastructure to enable these deals to reach their economic potential.\nIn 2017, Iraqi oil exports from northern fields were disrupted following a KRG referendum that resulted in the Iraqi Government reasserting federal control over disputed oil fields and energy infrastructure in Kirkuk. The Iraqi government and the KRG dispute the role of federal and regional authorities in the development and export of natural resources. In 2007, the KRG passed an oil law to develop IKR oil and gas reserves independent of the federal government. The KRG has signed about 50 contracts with foreign energy companies to develop its reserves, some of which lie in territories taken by Baghdad in October 2017. The KRG is able to unilaterally export oil from the fields it retains control of through its own pipeline to Turkey, which Baghdad claims is illegal. In the absence of a national hydrocarbons law, the two sides have entered into five provisional oil- and revenue-sharing deals since 2009, all of which collapsed.\nIraq is making slow progress enacting laws and developing the institutions needed to implement economic policy, and political reforms are still needed to assuage investors' concerns regarding the uncertain business climate. The Government of Iraq is eager to attract additional foreign direct investment, but it faces a number of obstacles, including a tenuous political system and concerns about security and societal stability. Rampant corruption, outdated infrastructure, insufficient essential services, skilled labor shortages, and antiquated commercial laws stifle investment and continue to constrain growth of private, nonoil sectors. Under the Iraqi constitution, some competencies relevant to the overall investment climate are either shared by the federal government and the regions or are devolved entirely to local governments. Investment in the IKR operates within the framework of the Kurdistan Region Investment Law (Law 4 of 2006) and the Kurdistan Board of Investment, which is designed to provide incentives to help economic development in areas under the authority of the KRG.\nInflation has remained under control since 2006. However, Iraqi leaders remain hard-pressed to translate macroeconomic gains into an improved standard of living for the Iraqi populace. Unemployment remains a problem throughout the country despite a bloated public sector. Overregulation has made it difficult for Iraqi citizens and foreign investors to start new businesses. Corruption and lack of economic reforms - such as restructuring banks and developing the private sector – have inhibited the growth of the private sector.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 649300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 662900000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 586300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 34,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 192400000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -2.1,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 13.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.5,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 206
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 16700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 17500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 15900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 107,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 50.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 22.9,
+							"units": "%",
+							"date": "2016"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20.6,
+							"units": "%",
+							"date": "2016"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%",
+							"date": "2016"
+						},
+						"exports_of_goods_and_services": {
+							"value": 32.5,
+							"units": "%",
+							"date": "2016"
+						},
+						"imports_of_goods_and_services": {
+							"value": -40.9,
+							"units": "%",
+							"date": "2016"
+						}
+					},
+					"date": "2013"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 51,
+							"units": "%"
+						},
+						"services": {
+							"value": 45.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 19,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 13.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 18.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 103
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"barley",
+				"rice",
+				"vegetables",
+				"dates",
+				"cotton",
+				"cattle",
+				"sheep",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"chemicals",
+				"textiles",
+				"leather",
+				"construction materials",
+				"food processing",
+				"fertilizer",
+				"metal fabrication/processing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 0.7,
+			"global_rank": 163,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 8900000,
+				"global_rank": 54,
+				"date": "2010"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 21.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 18.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 59.8,
+						"units": "%"
+					}
+				},
+				"date": "2008"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 16,
+					"units": "%",
+					"date": "2012"
+				},
+				{
+					"value": 15,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 178
+		},
+		"population_below_poverty_line": {
+			"value": 23,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.7,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 68709999999.99999,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 76820000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 35.7,
+			"global_rank": 59,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.2,
+			"global_rank": 160,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 59.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 66,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 74
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 14
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 4344000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -13380000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 31
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 61400000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 41720000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 46
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"crude materials excluding fuels",
+					"food",
+					"live animals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "India",
+						"percent": 21.2
+					},
+					{
+						"name": "China",
+						"percent": 20.2
+					},
+					{
+						"name": "US",
+						"percent": 15.8
+					},
+					{
+						"name": "South Korea",
+						"percent": 9.4
+					},
+					{
+						"name": "Greece",
+						"percent": 5.3
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.8
+					},
+					{
+						"name": "Italy",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 39470000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 19570000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 60
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"medicine",
+					"manufactures"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Turkey",
+						"percent": 27.8
+					},
+					{
+						"name": "China",
+						"percent": 25.7
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.7
+					},
+					{
+						"name": "Russia",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 48880000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 45360000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 41
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 73020000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 64160000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 59
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1184,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1182,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1182,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1167.63,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1213.72,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Iraqi dinars (IQD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 75450000000,
+				"global_rank": 40,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 38460000000,
+				"global_rank": 57,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 150,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 11970000000,
+				"global_rank": 20,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 27090000,
+				"global_rank": 34,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 91,
+					"global_rank": 55,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 111,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 9,
+					"global_rank": 119,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 194,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 4613000,
+				"global_rank": 4,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 3092000,
+				"global_rank": 3,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 145,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 148800000000,
+				"global_rank": 5,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 398000,
+				"global_rank": 37,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 826000,
+				"global_rank": 26,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 8284,
+				"global_rank": 86,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 255100,
+				"global_rank": 28,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 1274000000,
+				"global_rank": 63,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2633000000,
+				"global_rank": 76,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 124,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 1359000000,
+				"global_rank": 56,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 3820000000000,
+				"global_rank": 11,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 117900000,
+			"global_rank": 37,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2678046,
+				"subscriptions_per_one_hundred_inhabitants": 7.04,
+				"global_rank": 46,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 36092758,
+				"subscriptions_per_one_hundred_inhabitants": 94.88,
+				"global_rank": 42,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the number of private radio and TV stations has increased rapidly since 2003; government-owned TV and radio stations are operated by the publicly funded Iraqi Media Network; private broadcast media are mostly linked to political, ethnic, or religious groups; satellite TV is available to an estimated 70% of viewers and many of the broadcasters are based abroad; transmissions of multiple international radio broadcasters are accessible (2019)",
+		"internet": {
+			"country_code": ".iq",
+			"users": {
+				"total": 18364390,
+				"percent_of_population": 49.36,
+				"global_rank": 38,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 34,
+				"annual_passenger_traffic_on_registered_air_carriers": 2075065,
+				"annual_freight_traffic_on_registered_air_carriers": 16200000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "YI",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 102,
+					"global_rank": 55,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 72,
+					"over_3047_metres": 20,
+					"2438_to_3047_metres": 34,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 7,
+					"under_914_metres": 7,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 30,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 13,
+					"under_914_metres": 6,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 16,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 2455,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 913,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 5432,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 1637,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 2272,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 2272,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 69,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 59623,
+				"units": "km"
+			},
+			"paved": {
+				"value": 59623,
+				"units": "km",
+				"note": "includes Kurdistan region"
+			},
+			"global_rank": 77,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 5279,
+			"units": "km",
+			"note": "the Euphrates River (2,815 km; 1,899 km; 565 km; ; ",
+			"global_rank": 22
+		},
+		"merchant_marine": {
+			"total": 73,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 1
+				},
+				{
+					"type": "oil tanker",
+					"count": 6
+				},
+				{
+					"type": "other",
+					"count": 66
+				}
+			],
+			"global_rank": 101,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"river_ports": [
+				"Al Basrah (Shatt al Arab)",
+				"Khawr az Zubayr",
+				"Umm Qasr (Khawr az Zubayr waterway)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 5.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 18
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-40 years of age for voluntary military service; no conscription",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf",
+			"Turkey has expressed concern over the autonomous status of Kurds in Iraq"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 15167,
+						"country_of_origin": "Turkey"
+					},
+					{
+						"people": 7858,
+						"country_of_origin": "West Bank and Gaza Strip"
+					},
+					{
+						"people": 5041,
+						"country_of_origin": "Iran"
+					},
+					{
+						"people": 241738,
+						"country_of_origin": "Syria",
+						"date": "2020"
+					}
+				],
+				"date": "2018"
+			},
+			"internally_displaced_persons": {
+				"people": 1389540,
+				"note": "displacement in central and northern Iraq since January 2014",
+				"date": "2020"
+			},
+			"stateless_persons": {
+				"people": 47253,
+				"date": "2019"
+			},
+			"note": "estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)"
+		}
+	}
+}

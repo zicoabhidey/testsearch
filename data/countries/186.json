@@ -1,0 +1,1896 @@
+{
+	"name": "Portugal",
+	"introduction": {
+		"background": "Following its heyday as a global maritime power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence of Brazil, its wealthiest colony, in 1822. A 1910 revolution deposed the monarchy, and for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986."
+	},
+	"geography": {
+		"location": "Southwestern Europe, bordering the North Atlantic Ocean, west of Spain",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 39,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 92090,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 91470,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 620,
+				"units": "sq km"
+			},
+			"note": "includes Azores and Madeira Islands",
+			"global_rank": 112,
+			"comparative": "slightly smaller than Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1224,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Spain",
+					"border_length": {
+						"value": 1224,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1793,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "maritime temperate; cool and rainy in north, warmer and drier in south",
+		"terrain": "the west-flowing Tagus River divides the country: the north is mountainous toward the interior, while the south is characterized by rolling plains",
+		"elevation": {
+			"mean_elevation": {
+				"value": 372,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Ponta do Pico (Pico or Pico Alto) on Ilha do Pico in the Azores",
+				"elevation": {
+					"value": 2351,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"forests",
+				"cork",
+				"iron ore",
+				"copper",
+				"zinc",
+				"tin",
+				"tungsten",
+				"silver",
+				"gold",
+				"uranium",
+				"marble",
+				"clay",
+				"gypsum",
+				"salt",
+				"arable land",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 39.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 11.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 7.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 20,
+					"units": "%"
+				},
+				"forest": {
+					"value": 37.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 22.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 5400,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities",
+		"natural_hazards": [
+			{
+				"description": "Azores subject to severe earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "limited volcanic activity in the Azores Islands; Fayal or Faial (1,043 m) last erupted in 1958; most volcanoes have not erupted in centuries; historically active volcanoes include Agua de Pau, Furnas, Pico, Picos Volcanic System, San Jorge, Sete Cidades, and Terceira",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil erosion",
+				"air pollution caused by industrial and vehicle emissions",
+				"water pollution",
+				"especially in urban centers and coastal areas"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Volatile Organic Compounds",
+					"Environmental Modification"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 10302674,
+			"global_rank": 89,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Portuguese (singular and plural)",
+			"adjective": "Portuguese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white homogeneous Mediterranean population; citizens of black African descent who immigrated to mainland during decolonization number less than",
+					"percent": 100
+				},
+				{
+					"name": "000; since",
+					"percent": 1990
+				},
+				{
+					"name": "Eastern Europeans have migrated to Portugal"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Portuguese",
+					"note": "official"
+				},
+				{
+					"name": "Mirandese",
+					"note": "official, but locally used"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 81
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.3
+				},
+				{
+					"name": "other",
+					"percent": 0.6,
+					"note": "includes Jewish, Muslim"
+				},
+				{
+					"name": "none",
+					"percent": 6.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 8.3
+				}
+			],
+			"note": "represents population 15 years of age and older",
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 13.58,
+				"males": 716102,
+				"females": 682582
+			},
+			"15_to_24": {
+				"percent": 10.94,
+				"males": 580074,
+				"females": 547122
+			},
+			"25_to_54": {
+				"percent": 41.49,
+				"males": 2109693,
+				"females": 2164745
+			},
+			"55_to_64": {
+				"percent": 13.08,
+				"males": 615925,
+				"females": 731334
+			},
+			"65_and_over": {
+				"percent": 20.92,
+				"males": 860198,
+				"females": 1294899
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.8,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 20.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 35.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 2.8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 42.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 46.5,
+				"units": "years"
+			},
+			"global_rank": 13,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.25,
+			"global_rank": 213,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.1,
+			"global_rank": 221,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.8,
+			"global_rank": 25,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.3,
+			"global_rank": 71,
+			"date": "2020"
+		},
+		"population_distribution": "concentrations are primarily along or near the Atlantic coast; both Lisbon and the second largest city, Porto, are coastal cities",
+		"urbanization": {
+			"urban_population": {
+				"value": 66.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.47,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Lisbon",
+					"population": 2957000,
+					"is_capital": true
+				},
+				{
+					"place": "Porto",
+					"population": 1313000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.84,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.66,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.9,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.6,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 8,
+			"global_rank": 152,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 219,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 77.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.4,
+				"units": "years"
+			},
+			"global_rank": 39,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.41,
+			"global_rank": 216,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 73.9,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 5.12,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.5,
+				"global_rank": 70,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 41000,
+				"global_rank": 65,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.8,
+			"global_rank": 95,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.9,
+			"global_rank": 67,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 96.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 97.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 95.1,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 19.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 20.9,
+				"units": "%"
+			},
+			"global_rank": 66,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Portuguese Republic",
+			"conventional_short_form": "Portugal",
+			"local_long_form": "Republica Portuguesa",
+			"local_short_form": "Portugal",
+			"etymology": "name derives from the Roman designation \"Portus Cale\" meaning \"Port of Cale\"; Cale was an ancient Celtic town and port in present-day northern Portugal"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Lisbon",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 38,
+					"minutes": 43,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 9,
+					"minutes": 8,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "Portugal has two time zones, including the Azores (UTC-1)",
+			"etymology": "Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city \"Olisippo\" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became \"Ulixbona,\" under the Arabs it was \"al-Ushbuna\"; the medieval version of \"Lissabona\" became today's Lisboa"
+		},
+		"administrative_divisions": [
+			{
+				"name": "distrito) and 2 autonomous regions",
+				"type": ""
+			}
+		],
+		"independence": {
+			"note": "Kingdom of Portugal recognized; 1 December 1640 (independence reestablished following 60 years of Spanish rule); 5 October 1910 (republic proclaimed)"
+		},
+		"national_holidays": [
+			{
+				"name": "Portugal Day",
+				"day": "10 June",
+				"original_year": "1580",
+				"note": "also called Camoes Day, the day that revered national poet Luis DE CAMOES  died; Dia de Portugal; 1524-80"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 2 April 1976, effective 25 April 1976",
+			"amendments": "proposed by the Assembly of the Republic; adoption requires two-thirds majority vote of Assembly members; amended several times, last in 2005"
+		},
+		"legal_system": "civil law system; Constitutional Court review of legislative acts",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Portugal",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "10 years; 6 years if from a Portuguese-speaking country"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Marcelo REBELO DE SOUSA (since 9 March 2016)",
+			"head_of_government": "Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)",
+			"cabinet": "Council of Ministers appointed by the president on the recommendation of the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2016 (next to be held on 31 January 2021); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president",
+			"election_results": "Marcelo REBELO DE SOUSA elected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 52%, Antonio Sampaio da NOVOA (independent) 22.9%, Marisa MATIAS (BE) 10.1%, Maria de BELEM (independent) 4.2%, other 10.8%",
+			"note": "there is also a Council of State that acts as a consultative body to the president"
+		},
+		"legislative_branch": {
+			"description": "unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)",
+			"elections": "last held on 6 October 2019 (next to be held 2023) (e.g. 2019)",
+			"election_results": "percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,  B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court justices nominated by the president and appointed by the Assembly of the Republic; judges can serve for life; Constitutional Court judges - 10 elected by the Assembly and 3 elected by the other Constitutional Court judges; judges elected for 6-year nonrenewable terms",
+			"subordinate_courts": "Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic and Social Center/Popular Party",
+					"name_alternative": "CDS-PP",
+					"leaders": [
+						"Assuncao CRISTAS"
+					],
+					"note": "Partido do Centro Democratico Social-Partido Popular"
+				},
+				{
+					"name": "Ecologist Party \"The Greens\" or \"Os Verdes\"  or PEV",
+					"name_alternative": "",
+					"leaders": [
+						"Heloisa APOLONIA"
+					],
+					"note": "Partido Ecologista-Os Verdes"
+				},
+				{
+					"name": "People-Animals-Nature Party",
+					"name_alternative": "PAN",
+					"leaders": [
+						"Andre SILVA"
+					],
+					"note": "Pessoas-Animais-Natureza"
+				},
+				{
+					"name": "Portuguese Communist Party",
+					"name_alternative": "PCP",
+					"leaders": [
+						"Jeronimo DE SOUSA"
+					],
+					"note": "Partido Comunista Portugues"
+				},
+				{
+					"name": "Social Democratic Party  or PSD  or PPD",
+					"name_alternative": "",
+					"leaders": [
+						"Rui RIO"
+					],
+					"note": "Partido Social Democrata; original name Partido Popular Democratico"
+				},
+				{
+					"name": "Socialist Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Antonio COSTA"
+					],
+					"note": "Partido Socialista"
+				},
+				{
+					"name": "The Left Bloc  or BE or O Bloco",
+					"name_alternative": "",
+					"leaders": [
+						"Catarina MARTINS"
+					],
+					"note": "Bloco de Esquerda"
+				},
+				{
+					"name": "Unitary Democratic Coalition",
+					"name_alternative": "CDU",
+					"leaders": [
+						"Jeronimo DE SOUSA"
+					],
+					"note": "Coligacao Democratica Unitaria; includes PCP and PEV"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "CPLP"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club ",
+				"note": "associate"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Domingos Teixeira de Abreu FEZAS VITAL (since 28 January 2016)",
+				"chancery": "2012 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 332-3007",
+				"fax": "[1] (202) 223-3926",
+				"consulates_general": "Boston, New York, San Francisco",
+				"consulates": "New Bedford (MA), Newark (NJ), Providence (RI)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador George E. GLASS (since 25 August 2017)",
+				"telephone": "[351] (21) 727-3300",
+				"embassy": "Avenida das Forcas Armadas, 1600-081 Lisbon",
+				"mailing_address": "Apartado 43033, 1601-301 Lisboa; PSC 83, APO AE 09726",
+				"fax": "[351] (21) 726-9109",
+				"consulates": "Ponta Delgada (Azores)"
+			}
+		},
+		"flag_description": {
+			"description": "two vertical bands of green (hoist side, two-fifths) and red (three-fifths) with the national coat of arms (armillary sphere and Portuguese shield) centered on the dividing line; explanations for the color meanings are ambiguous, but a popular interpretation has green symbolizing hope and red the blood of those defending the nation"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "armillary sphere ",
+					"note": "a spherical astrolabe modeling objects in the sky and representing the Republic"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"A Portugesa\" (The Song of the Portuguese)",
+			"lyrics_music": "Henrique LOPES DE MENDOCA/Alfredo KEIL",
+			"note": "adopted 1910; \"A Portuguesa\" was originally written to protest the Portuguese monarchy's acquiescence to the 1890 British ultimatum forcing Portugal to give up areas of Africa; the lyrics refer to the \"insult\" that resulted from the event",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/PO.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.\nThe economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.\nThe center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 314100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 305900000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 301000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 55,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 218000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.24,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.85,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.51,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 126
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 30500,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 29600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 29100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 67,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 65.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 43.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -42.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 22.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 75.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 16.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 16.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 15.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 124
+		},
+		"agriculture_products": {
+			"products": [
+				"grain",
+				"potatoes",
+				"tomatoes",
+				"olives",
+				"grapes",
+				"sheep",
+				"cattle",
+				"goats",
+				"pigs",
+				"poultry",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"clothing",
+				"footwear",
+				"wood",
+				"cork",
+				"paper",
+				"pulp",
+				"chemicals",
+				"fuels",
+				"lubricants",
+				"automobiles",
+				"auto parts",
+				"base metals",
+				"minerals",
+				"porcelain",
+				"ceramics",
+				"glassware",
+				"technology",
+				"telecommunications",
+				"dairy products",
+				"wine",
+				"other foodstuffs",
+				"ship construction",
+				"refurbishment",
+				"tourism",
+				"plastics",
+				"financial services",
+				"optics"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.5,
+			"global_rank": 89,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4717000,
+				"global_rank": 82,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 8.6,
+						"units": "%"
+					},
+					"industry": {
+						"value": 23.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 67.5,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.55,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 7.05,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 102
+		},
+		"population_below_poverty_line": {
+			"value": 19,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 25.9,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 93550000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 100000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 42.9,
+			"global_rank": 29,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3,
+			"global_rank": 134,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 125.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 129.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 9,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 91
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -203000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 988000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 100
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 61000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 54760000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 47
+			},
+			"commodities": {
+				"by_commodity": [
+					"agricultural products",
+					"foodstuffs",
+					"wine",
+					"oil products",
+					"chemical products",
+					"plastics",
+					"rubber",
+					"hides",
+					"leather",
+					"wood",
+					"cork",
+					"wood pulp",
+					"paper",
+					"textile materials",
+					"clothing",
+					"footwear",
+					"machinery",
+					"tools",
+					"base metals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Spain",
+						"percent": 25.2
+					},
+					{
+						"name": "France",
+						"percent": 12.5
+					},
+					{
+						"name": "Germany",
+						"percent": 11.3
+					},
+					{
+						"name": "UK",
+						"percent": 6.6
+					},
+					{
+						"name": "US",
+						"percent": 5.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 74730000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 64980000000.00001,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 45
+			},
+			"commodities": {
+				"by_commodity": [
+					"agricultural products",
+					"chemical products",
+					"vehicles",
+					"other transport material",
+					"optical",
+					"precision instruments",
+					"computer accessories",
+					"parts",
+					"semiconductors",
+					"related devices",
+					"oil products",
+					"base metals",
+					"food products",
+					"textile materials"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Spain",
+						"percent": 32
+					},
+					{
+						"name": "Germany",
+						"percent": 13.7
+					},
+					{
+						"name": "France",
+						"percent": 7.4
+					},
+					{
+						"name": "Italy",
+						"percent": 5.5
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 26110000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 19400000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 55
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 449000000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 447000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 27
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.7525,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 56900000000,
+				"global_rank": 51,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 46940000000,
+				"global_rank": 52,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 9701000000,
+				"global_rank": 21,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 4616000000,
+				"global_rank": 40,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 20560000,
+				"global_rank": 43,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 41,
+					"global_rank": 168,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 167,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 25,
+					"global_rank": 78,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 35,
+					"global_rank": 10,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 187,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 180,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 285200,
+				"global_rank": 26,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 182,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 323000,
+				"global_rank": 39,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 247200,
+				"global_rank": 51,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 143500,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 78700,
+				"global_rank": 64,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 184,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 6258000000,
+				"global_rank": 54,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 169,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 6541000000,
+				"global_rank": 30,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 182,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 54970000,
+			"global_rank": 57,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 5179685,
+				"subscriptions_per_one_hundred_inhabitants": 50.15,
+				"global_rank": 28,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 12028436,
+				"subscriptions_per_one_hundred_inhabitants": 116.46,
+				"global_rank": 76,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates 4 domestic channels and external service channels to Africa; overall, roughly 40 domestic TV stations; viewers have widespread access to international broadcasters with more than half of all households connected to multi-channel cable or satellite TV systems; publicly owned radio operates 3 national networks and provides regional and external services; several privately owned national radio stations and some 300 regional and local commercial radio stations",
+		"internet": {
+			"country_code": ".pt",
+			"users": {
+				"total": 7731411,
+				"percent_of_population": 74.66,
+				"global_rank": 62,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 10,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 168,
+				"annual_passenger_traffic_on_registered_air_carriers": 17367956,
+				"annual_freight_traffic_on_registered_air_carriers": 454210000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "CR, CS",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 64,
+					"global_rank": 77,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 43,
+					"over_3047_metres": 5,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 8,
+					"914_to_1523_metres": 15,
+					"under_914_metres": 8,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 21,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 20,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1344,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 11,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 188,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 3075,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 108.1,
+				"units": "km\n1.000-m"
+			},
+			"broad_gauge": {
+				"length": 2439,
+				"electrified": 1633.4,
+				"units": "km\n1.668-m",
+				"gauge": "gauge"
+			},
+			"other": {
+				"length": 528,
+				"units": "km"
+			},
+			"global_rank": 60,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 82900,
+				"units": "km"
+			},
+			"paved": {
+				"value": 71294,
+				"units": "km",
+				"note": "includes 2,613 km of expressways"
+			},
+			"unpaved": {
+				"value": 11606,
+				"units": "km"
+			},
+			"global_rank": 61,
+			"date": "2008"
+		},
+		"waterways": {
+			"value": 210,
+			"units": "km",
+			"note": "on Douro River from Porto",
+			"global_rank": 95,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 624,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 65
+				},
+				{
+					"type": "container ship",
+					"count": 249
+				},
+				{
+					"type": "general cargo",
+					"count": 99
+				},
+				{
+					"type": "oil tanker",
+					"count": 21
+				},
+				{
+					"type": "other",
+					"count": 190
+				}
+			],
+			"global_rank": 37,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Leixoes",
+				"Lisbon",
+				"Setubal",
+				"Sines"
+			],
+			"container_ports": [
+				{
+					"place": "Sines",
+					"twenty_foot_equivalent_units": 1669057
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Sines"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.52,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.43,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.25,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.27,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.33,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 77
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age for voluntary or contract military service; no compulsory military service, but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service. Voluntary military service lasts 12 months; reserve obligation to age 35",
+			"date": "2017"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 14,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "seizing record amounts of Latin American cocaine destined for Europe; a European gateway for Southwest Asian heroin; transshipment point for hashish from North Africa to Europe; consumer of Southwest Asian heroin"
+		}
+	}
+}

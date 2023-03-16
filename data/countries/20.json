@@ -1,0 +1,1648 @@
+{
+	"name": "Bahamas, The",
+	"introduction": {
+		"background": "Lucayan Indians inhabited the islands when Christopher COLUMBUS first set foot in the New World on San Salvador in 1492. British settlement of the islands began in 1647; the islands became a colony in 1783. Piracy thrived in the 17th and 18th centuries because of The Bahamas close proximity to shipping lanes. Since attaining independence from the UK in 1973, The Bahamas has prospered through tourism, international banking, and investment management, which comprise up to 85% of GDP. Because of its proximity to the US - the nearest Bahamian landmass being only 80 km (50 mi) from Florida - the country is a major transshipment point for illicit trafficking, particularly to the US mainland, as well as Europe. US law enforcement agencies cooperate closely with The Bahamas, and the US Coast Guard assists Bahamian authorities in coastal defense through Operation Bahamas, Turks and Caicos, or OPBAT."
+	},
+	"geography": {
+		"location": "chain of islands in the North Atlantic Ocean, southeast of Florida, northeast of Cuba",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 24,
+				"minutes": 15,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 76,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 13880,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 10010,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 3870,
+				"units": "sq km"
+			},
+			"global_rank": 161,
+			"comparative": "slightly smaller than Connecticut"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 3542,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical marine; moderated by warm waters of Gulf Stream",
+		"terrain": "long, flat coral formations with some low rounded hills",
+		"elevation": {
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Alvernia on Cat Island",
+				"elevation": {
+					"value": 64,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"salt",
+				"aragonite",
+				"timber",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 1.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 51.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 47.2,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 10,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located",
+		"natural_hazards": [
+			{
+				"description": "hurricanes and other tropical storms cause extensive flood and wind damage",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"coral reef decay",
+				"solid waste disposal"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 337721,
+			"global_rank": 179,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Bahamian(s)",
+			"adjective": "Bahamian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "black",
+					"percent": 90.6
+				},
+				{
+					"name": "white",
+					"percent": 4.7
+				},
+				{
+					"name": "black and white",
+					"percent": 2.1
+				},
+				{
+					"name": "other",
+					"percent": 1.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.7
+				}
+			],
+			"note": "data represent population by racial group",
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Creole",
+					"note": "among Haitian immigrants"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 69.9,
+					"breakdown": [
+						{
+							"name": "includes Baptist",
+							"percent": 34.9
+						},
+						{
+							"name": "Anglican",
+							"percent": 13.7
+						},
+						{
+							"name": "Pentecostal Seventh Day Adventist",
+							"percent": 4.4
+						},
+						{
+							"name": "Methodist",
+							"percent": 3.6
+						},
+						{
+							"name": "Church of God",
+							"percent": 1.9
+						},
+						{
+							"name": "Brethren",
+							"percent": 1.6
+						},
+						{
+							"name": "other Protestant .9%"
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 12
+				},
+				{
+					"name": "other Christian",
+					"percent": 13,
+					"breakdown": [
+						{
+							"name": "includes Jehovah's Witness",
+							"percent": 1.1
+						}
+					]
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				},
+				{
+					"name": "none",
+					"percent": 1.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.6
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 22.04,
+				"males": 37758,
+				"females": 36668
+			},
+			"15_to_24": {
+				"percent": 15.39,
+				"males": 26332,
+				"females": 25650
+			},
+			"25_to_54": {
+				"percent": 43.86,
+				"males": 74485,
+				"females": 73647
+			},
+			"55_to_64": {
+				"percent": 10.04,
+				"males": 15648,
+				"females": 18250
+			},
+			"65_and_over": {
+				"percent": 8.67,
+				"males": 11326,
+				"females": 17957
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 41.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 30.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 11,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 9.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 31.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 34,
+				"units": "years"
+			},
+			"global_rank": 104,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.75,
+			"global_rank": 133,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.8,
+			"global_rank": 121,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.4,
+			"global_rank": 108,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 77,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population lives in urban areas, with two-thirds living on New Providence Island where Nassau is located",
+		"urbanization": {
+			"urban_population": {
+				"value": 83.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.13,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Nassau",
+					"population": 280000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.86,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.63,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 70,
+			"global_rank": 83,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 10.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 10.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 128,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 75.8,
+				"units": "years"
+			},
+			"global_rank": 146,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.92,
+			"global_rank": 126,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.01,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 98.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 98.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.8,
+				"global_rank": 27,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 6000,
+				"global_rank": 118,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 31.6,
+			"global_rank": 21,
+			"date": "2016"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 25.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 20.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 31.6,
+				"units": "%"
+			},
+			"global_rank": 47,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Commonwealth of The Bahamas",
+			"conventional_short_form": "The Bahamas",
+			"etymology": "name derives from the Spanish \"baha mar,\" meaning \"shallow sea,\" which describes the shallow waters of the Bahama Banks"
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Nassau",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 25,
+					"minutes": 5,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 77,
+					"minutes": 21,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November",
+			"etymology": "named after William III (1650-1702), king of England, Scotland, and Ireland, who was a member of the House of Nassau"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Acklins Islands",
+				"type": ""
+			},
+			{
+				"name": "Berry Islands",
+				"type": ""
+			},
+			{
+				"name": "Bimini",
+				"type": ""
+			},
+			{
+				"name": "Black Point",
+				"type": ""
+			},
+			{
+				"name": "Cat Island",
+				"type": ""
+			},
+			{
+				"name": "Central Abaco",
+				"type": ""
+			},
+			{
+				"name": "Central Andros",
+				"type": ""
+			},
+			{
+				"name": "Central Eleuthera",
+				"type": ""
+			},
+			{
+				"name": "City of Freeport",
+				"type": ""
+			},
+			{
+				"name": "Crooked Island and Long Cay",
+				"type": ""
+			},
+			{
+				"name": "East Grand Bahama",
+				"type": ""
+			},
+			{
+				"name": "Exuma",
+				"type": ""
+			},
+			{
+				"name": "Grand Cay",
+				"type": ""
+			},
+			{
+				"name": "Harbour Island",
+				"type": ""
+			},
+			{
+				"name": "Hope Town",
+				"type": ""
+			},
+			{
+				"name": "Inagua",
+				"type": ""
+			},
+			{
+				"name": "Long Island",
+				"type": ""
+			},
+			{
+				"name": "Mangrove Cay",
+				"type": ""
+			},
+			{
+				"name": "Mayaguana",
+				"type": ""
+			},
+			{
+				"name": "Moore's Island",
+				"type": ""
+			},
+			{
+				"name": "North Abaco",
+				"type": ""
+			},
+			{
+				"name": "North Andros",
+				"type": ""
+			},
+			{
+				"name": "North Eleuthera",
+				"type": ""
+			},
+			{
+				"name": "Ragged Island",
+				"type": ""
+			},
+			{
+				"name": "Rum Cay",
+				"type": ""
+			},
+			{
+				"name": "San Salvador",
+				"type": ""
+			},
+			{
+				"name": "South Abaco",
+				"type": ""
+			},
+			{
+				"name": "South Andros",
+				"type": ""
+			},
+			{
+				"name": "South Eleuthera",
+				"type": ""
+			},
+			{
+				"name": "Spanish Wells",
+				"type": ""
+			},
+			{
+				"name": "West Grand Bahama",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1973-07-10",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "10 July",
+				"original_year": "1973"
+			}
+		],
+		"constitution": {
+			"history": "previous 1964 (preindependence); latest adopted 20 June 1973, effective 10 July 1973",
+			"amendments": "proposed as an \"Act\" by Parliament; passage of amendments to articles such as the organization and composition of the branches of government requires approval by at least two-thirds majority of the membership of both houses of Parliament and majority approval in a referendum; passage of amendments to constitutional articles such as fundamental rights and individual freedoms, the powers, authorities, and\nprocedures of the branches of government, or changes to the Bahamas Independence Act 1973 requires approval by at least three-fourths majority of the membership of both houses and majority approval in a referendum; amended many times, last in 2016"
+		},
+		"legal_system": "common law system based on the English model",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of The Bahamas",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "6-9 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cornelius A. SMITH (since 28 June 2019)",
+			"head_of_government": "Prime Minister Hubert MINNIS (since 11 May 2017)",
+			"cabinet": "Cabinet appointed by governor general on recommendation of prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister",
+			"note": "Prime Minister Hubert MINNIS is only the fourth prime minister in Bahamian history following its independence from the UK; he is also the first prime minister in 25 years besides Perry CHRISTIE and Hubert INGRAHAM, who repeatedly traded the premiership from 1992 to 2017"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms)\nHouse of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - last appointments on 24 May 2017 (next appointments in 2022)\nHouse of Assembly - last held on 10 May 2017 (next to be held by May 2022)",
+			"election_results": "Senate - appointed; composition - men 9, women 7, percent of women 43.8%\nHouse of Assembly - percent of vote by party - FNM 57%, PLP 36.9%, other 6.1%; seats by party - FNM 35, PLP 4; composition - men 34, women 5, percent of women 12.8%; note - total Parliament percent of women 21.8%",
+			"note": "the government may dissolve the parliament and call elections at any time"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)",
+			"judge_selection_and_term_of_office": "Court of Appeal president and Supreme Court chief justice appointed by the governor-general on the advice of the prime minister after consultation with the leader of the opposition party; other Court of Appeal and Supreme Court justices appointed by the governor general upon recommendation of the Judicial and Legal Services Commission, a 5-member body headed by the chief justice; Court of Appeal justices appointed for life with mandatory retirement normally at age 68 but can be extended until age 70; Supreme Court justices appointed for life with mandatory retirement normally at age 65 but can be extended until age 67",
+			"subordinate_courts": "Industrial Tribunal; Stipendiary and Magistrates' Courts; Family Island Administrators",
+			"note": "the Bahamas is a member of the 15-member Caribbean Community but is not party to the agreement establishing the Caribbean Court of Justice as its highest appellate court;  the Judicial Committee of the Privy Council (in London) serves as the final court of appeal for The Bahamas"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic National Alliance",
+					"name_alternative": "DNA",
+					"leaders": [
+						"Christopher MORTIMER",
+						"interim leader"
+					]
+				},
+				{
+					"name": "Free National Movement",
+					"name_alternative": "FNM",
+					"leaders": [
+						"Hubert MINNIS"
+					]
+				},
+				{
+					"name": "Progressive Liberal Party",
+					"name_alternative": "PLP",
+					"leaders": [
+						"Philip \"Brave\" DAVIS"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Sidney Stanley COLLIE (since 29 November 2017)",
+				"chancery": "2220 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 319-2660",
+				"fax": "[1] (202) 319-2668",
+				"consulates_general": "Atlanta, Miami, New York, Washington, DC",
+				"honorary_consulates": "Aurora (CO), Chicago, Houston, Los Angeles"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d' Affaires Stephanie BOWERS (since 1 March 2018)",
+				"telephone": "[1] (242) 322-1181, 328-2206 (after hours)",
+				"embassy": "42 Queen Street, Nassau, New Providence",
+				"mailing_address": "local or express mail address: P. O. Box N-8197, Nassau; US Department of State, 3370 Nassau Place, Washington, DC 20521-3370",
+				"fax": "[1] (242) 356-7174"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, while the pointing triangle indicates the enterprise and determination of the Bahamian people to develop the rich resources of land and sea"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "blue marlin"
+				},
+				{
+					"symbol": "flamingo"
+				},
+				{
+					"symbol": "Yellow Elder flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "aquamarine"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "March On, Bahamaland!",
+			"lyrics_music": "Timothy GIBSON",
+			"note": "adopted 1973; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BF.mp3?1538604749"
+		}
+	},
+	"economy": {
+		"overview": "The Bahamas has the second highest per capita GDP in the English-speaking Caribbean with an economy heavily dependent on tourism and financial services. Tourism accounts for approximately 50% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy, accounting for about 15% of GDP. Manufacturing and agriculture combined contribute less than 7% of GDP and show little growth, despite government incentives aimed at those sectors. The new government led by Prime Minister Hubert MINNIS has prioritized addressing fiscal imbalances and rising debt, which stood at 75% of GDP in 2016. Large capital projects like the Baha Mar Casino and Hotel are driving growth. Public debt increased in 2017 in large part due to hurricane reconstruction and relief financing. The primary fiscal balance was a deficit of 0.4% of GDP in 2016. The Bahamas is the only country in the Western Hemisphere that is not a member of the World Trade Organization.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12060000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11890000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 12090000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 156,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 12160000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -1.7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 159
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 32400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 32300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 33200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 62,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 13,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 26.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 33.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -41.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 7.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 90,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 11.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 18.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 12.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 155
+		},
+		"agriculture_products": {
+			"products": [
+				"citrus",
+				"vegetables",
+				"poultry",
+				"seafood"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"banking",
+				"oil bunkering",
+				"maritime industries",
+				"transshipment",
+				"logistics",
+				"salt",
+				"aragonite",
+				"pharmaceuticals"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.8,
+			"global_rank": 44,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 196900,
+				"global_rank": 171,
+				"date": "2013"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 11,
+						"units": "%"
+					},
+					"services": {
+						"value": 49,
+						"units": "%"
+					},
+					"tourism": {
+						"value": 37,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 10.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 12.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 147
+		},
+		"population_below_poverty_line": {
+			"value": 9.3,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 22,
+				"units": "%"
+			},
+			"date": "2007"
+		},
+		"budget": {
+			"revenues": {
+				"value": 2138999999.9999998,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2460000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 17.6,
+			"global_rank": 166,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.6,
+			"global_rank": 115,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 54.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 50.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 80
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 75
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1909000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -868000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 166
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 550000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 444300000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 174
+			},
+			"commodities": {
+				"by_commodity": [
+					"Rock lobster",
+					"aragonite",
+					"crude salt",
+					"polystyrene products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 63.9
+					},
+					{
+						"name": "Namibia",
+						"percent": 19.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3180000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2594000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 146
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"manufactures",
+					"chemicals",
+					"mineral fuels",
+					"food",
+					"live animals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 83.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 1522000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1002000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 125
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 17560000000,
+					"units": "USD",
+					"date": "2013-12-31"
+				},
+				{
+					"value": 16350000000.000002,
+					"units": "USD",
+					"date": "2012-12-31"
+				}
+			],
+			"global_rank": 98
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Bahamian dollars (BSD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 1778000000,
+				"global_rank": 140,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1654000000,
+				"global_rank": 145,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 102,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 123,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 577000,
+				"global_rank": 141,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 1,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 43,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 155,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 174,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 108,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 89,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 93,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 105,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 116,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 20040,
+				"global_rank": 140,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 128,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 19150,
+				"global_rank": 123,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 101,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 48020,
+				"global_rank": 115,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 63,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 48020,
+				"global_rank": 79,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 108,
+				"date": "2009-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 3089000,
+			"global_rank": 147,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 78439,
+				"subscriptions_per_one_hundred_inhabitants": 23.4,
+				"global_rank": 144,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 366217,
+				"subscriptions_per_one_hundred_inhabitants": 109.25,
+				"global_rank": 177,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "The Bahamas has 4 major TV providers that provide service to all major islands in the archipelago; 1 TV station is operated by government-owned, commercially run Broadcasting Corporation of the Bahamas (BCB) and competes freely with 4 privately owned TV stations; multi-channel cable TV subscription service is widely available; there are 32 licensed broadcast (radio) service providers, 31 are privately owned FM radio stations operating on New Providence, Grand Bahama Island, Abaco Island, and on smaller islands in the country; the BCB operates a multi-channel radio broadcasting network that has national coverage; the sector is regulated by the Utilities Regulation and Competition Authority (2019)",
+		"internet": {
+			"country_code": ".bs",
+			"users": {
+				"total": 282739,
+				"percent_of_population": 85,
+				"global_rank": 167,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 5,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 35,
+				"annual_passenger_traffic_on_registered_air_carriers": 1197116,
+				"annual_freight_traffic_on_registered_air_carriers": 160000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "C6",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 54,
+					"global_rank": 85,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 24,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 13,
+					"914_to_1523_metres": 7,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 37,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 16,
+					"under_914_metres": 17,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 2700,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1620,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 1080,
+				"units": "km"
+			},
+			"global_rank": 166,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 1401,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 333
+				},
+				{
+					"type": "container ship",
+					"count": 49
+				},
+				{
+					"type": "general cargo",
+					"count": 78
+				},
+				{
+					"type": "oil tanker",
+					"count": 268
+				},
+				{
+					"type": "other",
+					"count": 673
+				}
+			],
+			"global_rank": 20,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Freeport",
+				"Nassau",
+				"South Riding Point"
+			],
+			"cruise_ports": [
+				"Nassau"
+			],
+			"container_ports": [
+				{
+					"place": "Freeport",
+					"twenty_foot_equivalent_units": 1116272
+				}
+			],
+			"date": "2011"
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary male and female service; no conscription",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"disagrees with the US on the alignment of the northern axis of a potential maritime boundary"
+		],
+		"illicit_drugs": {
+			"note": "transshipment point for cocaine and marijuana bound for US and Europe; offshore financial center"
+		}
+	}
+}

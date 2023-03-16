@@ -1,0 +1,1730 @@
+{
+	"name": "Suriname",
+	"introduction": {
+		"background": "First explored by the Spaniards in the 16th century and then settled by the English in the mid-17th century, Suriname became a Dutch colony in 1667. With the abolition of African slavery in 1863, workers were brought in from India and Java. The Netherlands granted the colony independence in 1975. Five years later the civilian government was replaced by a military regime that soon declared Suriname a socialist republic. It continued to exert control through a succession of nominally civilian administrations until 1987, when international pressure finally forced a democratic election. In 1990, the military overthrew the civilian leadership, but a democratically elected government - a four-party coalition - returned to power in 1991. The coalition expanded to eight parties in 2005 and ruled until August 2010, when voters returned former military leader Desire BOUTERSE and his opposition coalition to power. President BOUTERSE was reelected unopposed in 2015."
+	},
+	"geography": {
+		"location": "Northern South America, bordering the North Atlantic Ocean, between French Guiana and Guyana",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 4,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 56,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 163820,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 156000,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 7820,
+				"units": "sq km"
+			},
+			"global_rank": 93,
+			"comparative": "slightly larger than Georgia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1907,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Brazil",
+					"border_length": {
+						"value": 515,
+						"units": "km"
+					}
+				},
+				{
+					"country": "French Guiana",
+					"border_length": {
+						"value": 556,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guyana",
+					"border_length": {
+						"value": 836,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 386,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; moderated by trade winds",
+		"terrain": "mostly rolling hills; narrow coastal plain with swamps",
+		"elevation": {
+			"mean_elevation": {
+				"value": 246,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "unnamed location in the coastal plain",
+				"elevation": {
+					"value": -2,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Juliana Top",
+				"elevation": {
+					"value": 1230,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"hydropower",
+				"fish",
+				"kaolin",
+				"shrimp",
+				"bauxite",
+				"gold",
+				"nickel",
+				"copper",
+				"platinum",
+				"iron ore"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 94.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 4.9,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 570,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation as timber is cut for export",
+				"pollution of inland waterways by small-scale mining activities"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 609569,
+			"global_rank": 172,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Surinamer(s)",
+			"adjective": "Surinamese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Hindustani",
+					"percent": 27.4,
+					"note": "also known locally as \"East Indians\"; their ancestors emigrated from northern India in the latter part of the 19th century"
+				},
+				{
+					"name": "\"Maroon\"",
+					"percent": 21.7,
+					"note": "their African ancestors were brought to the country in the 17th and 18th centuries as slaves and escaped to the interior"
+				},
+				{
+					"name": "Creole",
+					"percent": 15.7,
+					"note": "mixed white and black"
+				},
+				{
+					"name": "Javanese",
+					"percent": 13.7
+				},
+				{
+					"name": "mixed",
+					"percent": 13.4
+				},
+				{
+					"name": "other",
+					"percent": 7.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.6
+				}
+			],
+			"date": "2012"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Dutch",
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"note": "widely spoken"
+				},
+				{
+					"name": "Sranang Tongo",
+					"note": "Surinamese, sometimes called Taki-Taki, is the native language of Creoles and much of the younger population and is lingua franca among others"
+				},
+				{
+					"name": "Caribbean Hindustani",
+					"note": "a dialect of Hindi"
+				},
+				{
+					"name": "Javanese"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 23.6,
+					"breakdown": [
+						{
+							"name": "includes Evangelical",
+							"percent": 11.2
+						},
+						{
+							"name": "Moravian",
+							"percent": 11.2
+						},
+						{
+							"name": "Reformed .7%"
+						},
+						{
+							"name": "Lutheran .5%"
+						}
+					]
+				},
+				{
+					"name": "Hindu",
+					"percent": 22.3
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 21.6
+				},
+				{
+					"name": "Muslim",
+					"percent": 13.8
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.2
+				},
+				{
+					"name": "Winti",
+					"percent": 1.8
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 1.7
+				},
+				{
+					"name": "none",
+					"percent": 7.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 3.2
+				}
+			],
+			"date": "2012"
+		},
+		"demographic_profile": "Suriname is a pluralistic society consisting primarily of Creoles (persons of mixed African and European heritage), the descendants of escaped African slaves known as Maroons, and the descendants of Indian and Javanese (Indonesian) contract workers. The country overall is in full, post-industrial demographic transition, with a low fertility rate, a moderate mortality rate, and a rising life expectancy. However, the Maroon population of the rural interior lags behind because of lower educational attainment and contraceptive use, higher malnutrition, and significantly less access to electricity, potable water, sanitation, infrastructure, and health care.\nSome 350,000 people of Surinamese descent live in the Netherlands, Suriname's former colonial ruler. In the 19th century, better-educated, largely Dutch-speaking Surinamese began emigrating to the Netherlands. World War II interrupted the outflow, but it resumed after the war when Dutch labor demands grew - emigrants included all segments of the Creole population. Suriname still is strongly influenced by the Netherlands because most Surinamese have relatives living there and it is the largest supplier of development aid. Other emigration destinations include French Guiana and the United States. Suriname's immigration rules are flexible, and the country is easy to enter illegally because rainforests obscure its borders. Since the mid-1980s, Brazilians have settled in Suriname's capital, Paramaribo, or eastern Suriname, where they mine gold. This immigration is likely to slowly re-orient Suriname toward its Latin American roots.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 23.38,
+				"males": 72642,
+				"females": 69899
+			},
+			"15_to_24": {
+				"percent": 17.2,
+				"males": 53427,
+				"females": 51438
+			},
+			"25_to_54": {
+				"percent": 44.09,
+				"males": 136889,
+				"females": 131868
+			},
+			"55_to_64": {
+				"percent": 8.78,
+				"males": 26435,
+				"females": 27066
+			},
+			"65_and_over": {
+				"percent": 6.55,
+				"males": 17437,
+				"females": 22468
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 51.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 40.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 10.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 9.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 31,
+				"units": "years"
+			},
+			"male": {
+				"value": 30.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 31.4,
+				"units": "years"
+			},
+			"global_rank": 118,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.95,
+			"global_rank": 113,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.9,
+			"global_rank": 120,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.2,
+			"global_rank": 158,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.5,
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 66.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.9,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Paramaribo",
+					"population": 239000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.78,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 120,
+			"global_rank": 65,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 22.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 25.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 18.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 75.9,
+				"units": "years"
+			},
+			"global_rank": 148,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.86,
+			"global_rank": 139,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 39.1,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.23,
+			"date": "2018"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 92,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 3.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 88.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 95,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 11.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.3,
+				"global_rank": 36,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 5800,
+				"global_rank": 120,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 26.4,
+			"global_rank": 42,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 5.8,
+			"global_rank": 78,
+			"date": "2010"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 94.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 96.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 92.7,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 13.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 9,
+				"units": "%"
+			},
+			"female": {
+				"value": 21.9,
+				"units": "%"
+			},
+			"global_rank": 104,
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Suriname",
+			"conventional_short_form": "Suriname",
+			"local_long_form": "Republiek Suriname",
+			"local_short_form": "Suriname",
+			"former": "Netherlands Guiana, Dutch Guiana",
+			"etymology": "name may derive from the indigenous \"Surinen\" people who inhabited the area at the time of European contact"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Paramaribo",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 5,
+					"minutes": 50,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 55,
+					"minutes": 10,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name may be the corruption of a Carib (Kalina) village or tribe named Parmirbo"
+		},
+		"independence": {
+			"date": "1975-11-25",
+			"note": "from the Netherlands"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "25 November",
+				"original_year": "1975"
+			}
+		],
+		"constitution": {
+			"history": "previous 1975; latest ratified 30 September 1987, effective 30 October 1987",
+			"amendments": "proposed by the National Assembly; passage requires at least two-thirds majority vote of the total membership; amended 1992"
+		},
+		"legal_system": "civil law system influenced by Dutch civil law; note - a new criminal code was enacted in 2017",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Suriname",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020); note - the president is both chief of state and head of government",
+			"head_of_government": "President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020)",
+			"cabinet": "Cabinet of Ministers appointed by the president",
+			"elections_appointments": "president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)",
+			"election_results": "Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)",
+			"elections": "last held on 25 May 2020 (next to be held May 2025)",
+			"election_results": "percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2"
+		},
+		"judicial_branch": {
+			"highest_courts": "High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights",
+			"judge_selection_and_term_of_office": "court judges appointed by the national president in consultation with the National Assembly, the State Advisory Council, and the Order of Private Attorneys; judges serve for life",
+			"subordinate_courts": "cantonal courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alternative Combination",
+					"name_alternative": "A-Com",
+					"note": "coalition includes ABOP, KTPI, Party for Democracy and Development"
+				},
+				{
+					"name": "Brotherhood and Unity in Politics",
+					"name_alternative": "BEP",
+					"leaders": [
+						"Celsius WATERBERG"
+					]
+				},
+				{
+					"name": "Democratic Alternative '91",
+					"name_alternative": "DA91",
+					"leaders": [
+						"Angelique DEL CASTILLO"
+					]
+				},
+				{
+					"name": "General Liberation and Development Party",
+					"name_alternative": "ABOP [Ronnie BRUNSWIJK}"
+				},
+				{
+					"name": "National Democratic Party",
+					"name_alternative": "NDP",
+					"leaders": [
+						"Desire Delano BOUTERSE"
+					]
+				},
+				{
+					"name": "National Party of Suriname",
+					"name_alternative": "NPS",
+					"leaders": [
+						"Gregory RUSLAND"
+					]
+				},
+				{
+					"name": "Party for Democracy and Development in Unity",
+					"name_alternative": "DOE",
+					"leaders": [
+						"Carl BREEVELD"
+					]
+				},
+				{
+					"name": "Party for National Unity and Solidarity",
+					"name_alternative": "KTPI",
+					"leaders": [
+						"Willy SOEMITA"
+					]
+				},
+				{
+					"name": "People's Alliance",
+					"name_alternative": "PL",
+					"leaders": [
+						"Paul SOMOHARDJO"
+					],
+					"note": "Pertjaja Luhur"
+				},
+				{
+					"name": "Progressive Workers' and Farmers' Union",
+					"name_alternative": "PALU",
+					"leaders": [
+						"Jim HOK"
+					]
+				},
+				{
+					"name": "Progressive Reform Party",
+					"name_alternative": "VHP",
+					"leaders": [
+						"Chandrikapersad SANTOKHI"
+					]
+				},
+				{
+					"name": "Reform and Renewal Movement",
+					"name_alternative": "HVB"
+				},
+				{
+					"name": "Surinamese Labor Party",
+					"name_alternative": "SPA",
+					"leaders": [
+						"Guno CASTELEN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Niermala Sakoentala BADRISING (since 21 July 2017)",
+				"chancery": "4301 Connecticut Avenue NW, Suite 460, Washington, DC 20008",
+				"telephone": "[1] (202) 244-7488",
+				"fax": "[1] (202) 244-5878",
+				"consulates_general": "Miami"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Karen Lynn WILLIAMS (since 20 November 2018)",
+				"telephone": "[597] 472-900",
+				"embassy": "165 Kristalstraat, Paramaribo",
+				"mailing_address": "US Department of State, PO Box 1821, Paramaribo",
+				"fax": "[597] 410-972"
+			}
+		},
+		"flag_description": {
+			"description": "five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love, green symbolizes hope and fertility, white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "royal palm"
+				},
+				{
+					"symbol": "faya lobi ",
+					"note": "flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"God zij met ons Suriname!\" (God Be With Our Suriname)",
+			"lyrics_music": "Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE PUY",
+			"note": "adopted 1959; originally adapted from a Sunday school song written in 1893 and contains lyrics in both Dutch and Sranang Tongo"
+		}
+	},
+	"economy": {
+		"overview": "Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.\nEconomic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.\nSuriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8688000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8526000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8988000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 162,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 3419000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -5.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -2.6,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 144
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 14900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 15900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 114,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 27.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 52.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 26.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 68.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -60.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 11.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 31.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 57.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 46.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 55.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 53.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 4
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"bananas",
+				"seabob shrimp",
+				"yellow-fin tuna",
+				"vegetables"
+			]
+		},
+		"industries": {
+			"industries": [
+				"gold mining",
+				"oil",
+				"lumber",
+				"food processing",
+				"fishing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1,
+			"global_rank": 158,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 144000,
+				"global_rank": 176,
+				"date": "2014"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 11.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 19.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 69.3,
+						"units": "%"
+					}
+				},
+				"date": "2010"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 9.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 136
+		},
+		"population_below_poverty_line": {
+			"value": 70,
+			"units": "%",
+			"date": "2002"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 560700000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 827800000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 16.4,
+			"global_rank": 182,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -7.8,
+			"global_rank": 197,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 69.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 75.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 52
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 22,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 55.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 216
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -2000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -169000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 68
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2028000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1449000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 139
+			},
+			"commodities": {
+				"by_commodity": [
+					"alumina",
+					"gold",
+					"crude oil",
+					"lumber",
+					"shrimp",
+					"fish",
+					"rice",
+					"bananas"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Switzerland",
+						"percent": 38
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 21.9
+					},
+					{
+						"name": "Belgium",
+						"percent": 10.1
+					},
+					{
+						"name": "UAE",
+						"percent": 7.2
+					},
+					{
+						"name": "Guyana",
+						"percent": 6.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1293000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1203000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 177
+			},
+			"commodities": {
+				"by_commodity": [
+					"capital equipment",
+					"petroleum",
+					"foodstuffs",
+					"cotton",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 30.6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 14.8
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 11.4
+					},
+					{
+						"name": "China",
+						"percent": 7.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 424400000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 381100000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 158
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1700000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1436000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 155
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 7.53,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 6.229,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 6.229,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.4167,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 3.3,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Surinamese dollars (SRD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 87.2,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 96.4,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 69.3,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 1967000000,
+				"global_rank": 138,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1750000000,
+				"global_rank": 144,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 204,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 206,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 504000,
+				"global_rank": 149,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 61,
+					"global_rank": 129,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 189,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 38,
+					"global_rank": 56,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 145,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 17000,
+				"global_rank": 70,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 200,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 820,
+				"global_rank": 80,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 84200000,
+				"global_rank": 70,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 7571,
+				"global_rank": 101,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 13000,
+				"global_rank": 157,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 14000,
+				"global_rank": 74,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 10700,
+				"global_rank": 145,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 202,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 203,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 191,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 194,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 198,
+				"date": "2011-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2075000.0000000002,
+			"global_rank": 159,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 96310,
+				"subscriptions_per_one_hundred_inhabitants": 15.95,
+				"global_rank": 139,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 845292,
+				"subscriptions_per_one_hundred_inhabitants": 139.99,
+				"global_rank": 163,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "2 state-owned TV stations; 1 state-owned radio station; multiple private radio and TV stations (2019)",
+		"internet": {
+			"country_code": ".sr",
+			"users": {
+				"total": 292685,
+				"percent_of_population": 48.95,
+				"global_rank": 166,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 20,
+				"annual_passenger_traffic_on_registered_air_carriers": 272347,
+				"annual_freight_traffic_on_registered_air_carriers": 33200000.000000004,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "PZ",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 55,
+					"global_rank": 84,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 6,
+					"over_3047_metres": 1,
+					"under_914_metres": 5,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 49,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 45,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "oil",
+					"length": 50,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 4304,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1119,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3185,
+				"units": "km"
+			},
+			"global_rank": 151,
+			"date": "2003"
+		},
+		"waterways": {
+			"value": 1200,
+			"units": "km",
+			"note": "most navigable by ships with drafts up to 7 m",
+			"global_rank": 59,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 10,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 3
+				},
+				{
+					"type": "other",
+					"count": 2
+				}
+			],
+			"global_rank": 155,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Paramaribo",
+				"Wageningen"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for voluntary military service; no conscription",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"area claimed by French Guiana between Riviere Litani and Riviere Marouini (both headwaters of the Lawa)",
+			"Suriname claims a triangle of land between the New and Kutari/Koetari rivers in a historic dispute over the headwaters of the Courantyne",
+			"Guyana seeks UN Convention on the Law of the Sea arbitration to resolve the longstanding dispute with Suriname over the axis of the territorial sea boundary in potentially oil-rich waters"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Suriname is a source, transit, and destination country for women and children subjected to sex trafficking and men, women, and children subjected to forced labor; women and girls from Suriname, Guyana, Brazil, and the Dominican Republic are subjected to sex trafficking in the country, sometimes in interior mining camps; migrant workers in agriculture and on fishing boats and children working in informal urban sectors and gold mines are vulnerable to forced labor; traffickers from Suriname exploit victims in the Netherlands",
+			"tier_rating": "Tier 2 Watch List – Suriname does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; in 2014, Suriname was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented, would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; authorities increased the number of trafficking investigations, prosecutions, and convictions as compared to 2013, but resources were insufficient to conduct investigations in the country’s interior; more trafficking victims were identified in 2014 than in 2013, but protective services for adults and children were inadequate, with a proposed government shelter for women and child trafficking victims remaining unopened (2015)"
+		},
+		"illicit_drugs": {
+			"note": "growing transshipment point for South American drugs destined for Europe via the Netherlands and Brazil; transshipment point for arms-for-drugs dealing"
+		}
+	}
+}

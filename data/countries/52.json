@@ -1,0 +1,150 @@
+{
+	"name": "Clipperton Island",
+	"introduction": {
+		"background": "This isolated atoll was named for John CLIPPERTON, an English pirate who was rumored to have made it his hideout early in the 18th century. Annexed by France in 1855 and claimed by the US, it was seized by Mexico in 1897. Arbitration eventually awarded the island to France in 1931, which took possession in 1935."
+	},
+	"geography": {
+		"location": "Middle America, atoll in the North Pacific Ocean, 1,120 km southwest of Mexico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 10,
+				"minutes": 17,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 109,
+				"minutes": 13,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Political Map of the World",
+		"area": {
+			"total": {
+				"value": 6,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 6,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 248,
+			"comparative": "about 12 times the size of The Mall in Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 11.1,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; humid, average temperature 20-32 degrees Celsius, wet season (May to October)",
+		"terrain": "coral atoll",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Rocher Clipperton",
+				"elevation": {
+					"value": 29,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"natural_hazards": [
+			{
+				"description": "subject to tropical storms and hurricanes from May to October",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"no natural resources",
+				"guano deposits depleted",
+				"the ring-shaped atoll encloses a stagnant fresh-water lagoon"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Clipperton Island",
+			"local_long_form": "none",
+			"local_short_form": "Ile Clipperton",
+			"former": "sometimes referred to as Ile de la Passion or Atoll Clipperton",
+			"etymology": "named after an 18th-century English pirate who supposedly used the island as a base"
+		},
+		"legal_system": "the laws of France apply",
+		"flag_description": {
+			"description": "the flag of France is used"
+		}
+	},
+	"economy": {
+		"overview": "Although 115 species of fish have been identified in the territorial waters of Clipperton Island, tuna fishing is the only economically viable species."
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

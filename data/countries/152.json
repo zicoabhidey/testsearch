@@ -1,0 +1,2030 @@
+{
+	"name": "Moldova",
+	"introduction": {
+		"background": "A large portion of present day Moldovan territory became a province of the Russian Empire in 1812 and then unified with Romania in 1918 in the aftermath of World War I. This territory was then incorporated into the Soviet Union at the close of World War II. Although Moldova has been independent from the Soviet Union since 1991, Russian forces have remained on Moldovan territory east of the Nistru River in the breakaway region of Transnistria, whose population is roughly equally composed of ethnic Ukrainians, Russians, and Moldovans.\nYears of Communist Party rule in Moldova from 2001-2009 ultimately ended with election-related violent protests and a rerun of parliamentary elections in 2009. Since then, a series of pro-European ruling coalitions have governed Moldova. As a result of the country's most recent legislative election in February 2019, parliamentary seats are split among the left-leaning Socialist Party (35 seats), the former ruling Democratic Party (30 seats), and the center-right ACUM bloc (26 seats). Parliament voted in Prime Minister Ion CHICU and his cabinet on 14 November 2019, two days after voting to remove his predecessor, ACUM co-leader Maia SANDU, who had been in office since June 2019."
+	},
+	"geography": {
+		"location": "Eastern Europe, northeast of Romania",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 47,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 29,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 33851,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 32891,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 960,
+				"units": "sq km"
+			},
+			"global_rank": 140,
+			"comparative": "slightly larger than Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1885,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Romania",
+					"border_length": {
+						"value": 683,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ukraine",
+					"border_length": {
+						"value": 1202,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "moderate winters, warm summers",
+		"terrain": "rolling steppe, gradual slope south to Black Sea",
+		"elevation": {
+			"mean_elevation": {
+				"value": 139,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Dniester (Nistru)",
+				"elevation": {
+					"value": 2,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Dealul Balanesti",
+				"elevation": {
+					"value": 430,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"lignite",
+				"phosphorites",
+				"gypsum",
+				"limestone",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 74.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 55.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 9.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 11.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 13.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 2283,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti",
+		"natural_hazards": [
+			{
+				"description": "landslides",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"heavy use of agricultural chemicals",
+				"has contaminated soil and groundwater",
+				"extensive soil erosion and declining soil fertility from poor farming methods"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 3364496,
+			"global_rank": 133,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Moldovan(s)",
+			"adjective": "Moldovan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Moldovan",
+					"percent": 75.1
+				},
+				{
+					"name": "Romanian",
+					"percent": 7
+				},
+				{
+					"name": "Ukrainian",
+					"percent": 6.6
+				},
+				{
+					"name": "Gagauz",
+					"percent": 4.6
+				},
+				{
+					"name": "Russian",
+					"percent": 4.1
+				},
+				{
+					"name": "Bulgarian",
+					"percent": 1.9
+				},
+				{
+					"name": "other",
+					"percent": 0.8
+				}
+			],
+			"date": "2014"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Moldovan/Romanian",
+					"percent": 80.2,
+					"breakdown": [
+						{
+							"name": "identify their mother tongue as Moldovan",
+							"percent": 56.7
+						},
+						{
+							"name": "which is virtually the same as Romanian; identify Romanian as their mother tongue",
+							"percent": 23.5
+						}
+					],
+					"note": "official"
+				},
+				{
+					"name": "Russian",
+					"percent": 9.7
+				},
+				{
+					"name": "Gagauz",
+					"percent": 4.2,
+					"note": "a Turkish language"
+				},
+				{
+					"name": "Ukrainian",
+					"percent": 3.9
+				},
+				{
+					"name": "Bulgarian",
+					"percent": 1.5
+				},
+				{
+					"name": "Romani",
+					"percent": 0.3
+				},
+				{
+					"name": "other",
+					"percent": 0.2
+				}
+			],
+			"note": "data represent mother tongue",
+			"date": "2014"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Orthodox",
+					"percent": 90.1
+				},
+				{
+					"name": "other Christian",
+					"percent": 2.6
+				},
+				{
+					"name": "other",
+					"percent": 0.1
+				},
+				{
+					"name": "agnostic"
+				}
+			],
+			"date": "2014"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.31,
+				"males": 317243,
+				"females": 298673
+			},
+			"15_to_24": {
+				"percent": 11.27,
+				"males": 196874,
+				"females": 182456
+			},
+			"25_to_54": {
+				"percent": 43.13,
+				"males": 738103,
+				"females": 712892
+			},
+			"55_to_64": {
+				"percent": 13.26,
+				"males": 205693,
+				"females": 240555
+			},
+			"65_and_over": {
+				"percent": 14.03,
+				"males": 186949,
+				"females": 285058
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 39.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 22.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 17.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 5.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 37.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 36.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 39.5,
+				"units": "years"
+			},
+			"global_rank": 68,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -1.08,
+			"global_rank": 230,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.7,
+			"global_rank": 184,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 12.6,
+			"global_rank": 13,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -9,
+			"global_rank": 215,
+			"date": "2020"
+		},
+		"population_distribution": "pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti",
+		"urbanization": {
+			"urban_population": {
+				"value": 42.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.07,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Chisinau",
+					"population": 499000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.86,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.66,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 24.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 19,
+			"global_rank": 125,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 120,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 71.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 68,
+				"units": "years"
+			},
+			"female": {
+				"value": 76,
+				"units": "years"
+			},
+			"global_rank": 157,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.58,
+			"global_rank": 189,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 59.5,
+			"units": "%",
+			"date": "2012"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.21,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 5.8,
+			"date": "2013"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 84.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 90.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 15.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 9.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 78.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 87.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 21.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 12.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.6,
+				"global_rank": 63,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 15000,
+				"global_rank": 89,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 18.9,
+			"global_rank": 115,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 2.2,
+			"global_rank": 110,
+			"date": "2012"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.7,
+			"global_rank": 17,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 7.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 7.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 7.2,
+				"units": "%"
+			},
+			"global_rank": 147,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Moldova",
+			"conventional_short_form": "Moldova",
+			"local_long_form": "Republica Moldova",
+			"local_short_form": "Moldova",
+			"former": "Moldavian Soviet Socialist Republic, Moldovan Soviet Socialist Republic",
+			"etymology": "named for the Moldova River in neighboring eastern Romania"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Chisinau in Moldovan (Kishinev in Russian)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 47,
+					"minutes": 0,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 28,
+					"minutes": 51,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "pronounced KEE-shee-now (KIH-shi-nyov)"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Anenii Noi",
+				"type": "raion"
+			},
+			{
+				"name": "Basarabeasca",
+				"type": "raion"
+			},
+			{
+				"name": "Briceni",
+				"type": "raion"
+			},
+			{
+				"name": "Cahul",
+				"type": "raion"
+			},
+			{
+				"name": "Cantemir",
+				"type": "raion"
+			},
+			{
+				"name": "Calarasi",
+				"type": "raion"
+			},
+			{
+				"name": "Causeni",
+				"type": "raion"
+			},
+			{
+				"name": "Cimislia",
+				"type": "raion"
+			},
+			{
+				"name": "Criuleni",
+				"type": "raion"
+			},
+			{
+				"name": "Donduseni",
+				"type": "raion"
+			},
+			{
+				"name": "Drochia",
+				"type": "raion"
+			},
+			{
+				"name": "Dubasari",
+				"type": "raion"
+			},
+			{
+				"name": "Edinet",
+				"type": "raion"
+			},
+			{
+				"name": "Falesti",
+				"type": "raion"
+			},
+			{
+				"name": "Floresti",
+				"type": "raion"
+			},
+			{
+				"name": "Glodeni",
+				"type": "raion"
+			},
+			{
+				"name": "Hincesti",
+				"type": "raion"
+			},
+			{
+				"name": "Ialoveni",
+				"type": "raion"
+			},
+			{
+				"name": "Leova",
+				"type": "raion"
+			},
+			{
+				"name": "Nisporeni",
+				"type": "raion"
+			},
+			{
+				"name": "Ocnita",
+				"type": "raion"
+			},
+			{
+				"name": "Orhei",
+				"type": "raion"
+			},
+			{
+				"name": "Rezina",
+				"type": "raion"
+			},
+			{
+				"name": "Riscani",
+				"type": "raion"
+			},
+			{
+				"name": "Singerei",
+				"type": "raion"
+			},
+			{
+				"name": "Soldanesti",
+				"type": "raion"
+			},
+			{
+				"name": "Soroca",
+				"type": "raion"
+			},
+			{
+				"name": "Stefan Voda",
+				"type": "raion"
+			},
+			{
+				"name": "Straseni",
+				"type": "raion"
+			},
+			{
+				"name": "Taraclia",
+				"type": "raion"
+			},
+			{
+				"name": "Telenesti",
+				"type": "raion"
+			},
+			{
+				"name": "Ungheni",
+				"type": "raion"
+			},
+			{
+				"name": "Balti",
+				"type": "municipality"
+			},
+			{
+				"name": "Bender",
+				"type": "municipality"
+			},
+			{
+				"name": "Chisinau",
+				"type": "municipality"
+			},
+			{
+				"name": "Gagauzia",
+				"type": "autonomous territorial unit"
+			},
+			{
+				"name": "Stinga Nistrului ",
+				"type": "territorial unit"
+			}
+		],
+		"independence": {
+			"date": "1991-08-27",
+			"note": "from the Soviet Union"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "27 August",
+				"original_year": "1991"
+			}
+		],
+		"constitution": {
+			"history": "previous 1978; latest adopted 29 July 1994, effective 27 August 1994",
+			"amendments": "proposed by voter petition (at least 200,000 eligible voters), by at least one third of Parliament members, or by the government; passage requires two-thirds majority vote of Parliament within one year of initial proposal; revisions to constitutional articles on sovereignty, independence, and neutrality require majority vote by referendum; articles on fundamental rights and freedoms cannot be amended; amended several times, last in 2010; note – in early 2016, the Moldovan Constitutional Court decision returned the country to direct presidential elections, reversing a 2000 constitutional amendment that allowed Parliament to select the president"
+		},
+		"legal_system": "civil law system with Germanic law influences; Constitutional Court review of legislative acts",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Moldova",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Igor DODON (since 23 December 2016); note – in 2017-19, DODON was temporarily suspended several times by the Moldovan Constitutional Court for rejecting ministerial appointments and for refusing to sign legislation",
+			"head_of_government": "Prime Minister Ion CHICU (since 14 November 2019)",
+			"cabinet": "Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament",
+			"elections_appointments": "president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament",
+			"election_results": "Maia SANDU elected president; percent of vote - Maia SANDU (PAS) 57.8%, Igor DODON (PSRM) 42.2%; Ion CHICU designated prime minister; Parliament vote - 62 of 101"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms",
+			"elections": "last held on 24 February 2019 (next scheduled for February 2023)",
+			"election_results": "percent of vote by party - PSRM 31.2%, ACUM (PPDA + PAS) 26.8%, PDM 23.6%, PS 8.3%, other 10.1%; seats by party - PSRM 35, ACUM (PPDA + PAS) 26, PDM 30, PS 7, independent 3; composition - men 78, women 23, percent of women 22.8%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government",
+			"judge_selection_and_term_of_office": "Supreme Court of Justice judges appointed by the president upon the recommendation of the Superior Council of Magistracy, an 11-member body of judicial officials; all judges serve 4-year renewable terms; Constitutional Court judges appointed 2 each by Parliament, the president, and the Higher Council of Magistracy for 6-year terms; court president elected by other court judges for a 3-year term",
+			"subordinate_courts": "Courts of Appeal; Court of Business Audit; municipal courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Action and Solidarity Party",
+					"name_alternative": "PAS",
+					"leaders": [
+						"Maia SANDU"
+					]
+				},
+				{
+					"name": "Democratic Party of Moldova",
+					"name_alternative": "PDM",
+					"leaders": [
+						"Vladimir PLAHOTNIUC"
+					]
+				},
+				{
+					"name": "Dignity and Truth Platform",
+					"name_alternative": "PPDA",
+					"leaders": [
+						"Andrei NASTASE"
+					]
+				},
+				{
+					"name": "NOW Platform",
+					"name_alternative": "ACUM",
+					"note": "PPDA + PAS"
+				},
+				{
+					"name": "Shor Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Ilan SHOR"
+					]
+				},
+				{
+					"name": "Socialist Party of the Republic of Moldova",
+					"name_alternative": "PSRM",
+					"leaders": [
+						"Zinaida GRECEANII"
+					]
+				},
+				{
+					"name": "Centrist Union of Moldova",
+					"name_alternative": "UCM",
+					"leaders": [
+						"Mihai PETRACHE"
+					]
+				},
+				{
+					"name": "Christian Democratic People's Party",
+					"name_alternative": "PPCD",
+					"leaders": [
+						"Victor CIOBANU"
+					]
+				},
+				{
+					"name": "Communist Party of the Republic of Moldova",
+					"name_alternative": "PCRM",
+					"leaders": [
+						"Vladimir VORONIN"
+					]
+				},
+				{
+					"name": "Conservative Party",
+					"name_alternative": "PC",
+					"leaders": [
+						"Natalia NIRCA"
+					]
+				},
+				{
+					"name": "Democracy at Home Party",
+					"name_alternative": "PDA",
+					"leaders": [
+						"Vasile COSTIUC"
+					]
+				},
+				{
+					"name": "Democratic Action Party",
+					"name_alternative": "PAD",
+					"leaders": [
+						"Mihai GODEA"
+					]
+				},
+				{
+					"name": "Ecologist Green Party",
+					"name_alternative": "PVE",
+					"leaders": [
+						"Anatolie PROHNITCHI"
+					]
+				},
+				{
+					"name": "European People’s Party of Moldova",
+					"name_alternative": "EPPM",
+					"leaders": [
+						"Iurie LEANCA"
+					]
+				},
+				{
+					"name": "Law and Justice Party",
+					"name_alternative": "PLD",
+					"leaders": [
+						"Nicolae ALEXEI"
+					]
+				},
+				{
+					"name": "Liberal Democratic Party of Moldova",
+					"name_alternative": "PLDM",
+					"leaders": [
+						"Tudor DELIU"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "PL",
+					"leaders": [
+						"Dorin CHIRTOACA"
+					]
+				},
+				{
+					"name": "Motherland Party",
+					"name_alternative": "PP",
+					"leaders": [
+						"Sergiu BIRIUCOV"
+					]
+				},
+				{
+					"name": "National Liberal Party",
+					"name_alternative": "PNL",
+					"leaders": [
+						"Vitalia PAVLICENKO"
+					]
+				},
+				{
+					"name": "Our Home Moldova",
+					"name_alternative": "PCNM",
+					"leaders": [
+						"Grigore PETRENCO"
+					]
+				},
+				{
+					"name": "Our Party",
+					"name_alternative": "PN",
+					"leaders": [
+						"Renato USATII"
+					]
+				},
+				{
+					"name": "Party of National Unity",
+					"leaders": [
+						"Anatol SALARU"
+					]
+				},
+				{
+					"name": "People’s Party of Moldova",
+					"name_alternative": "PPRM",
+					"leaders": [
+						"Alexandru OLEINIC"
+					]
+				},
+				{
+					"name": "Regions Party of Moldova",
+					"name_alternative": "PRM",
+					"leaders": [
+						"Alexandr KALININ"
+					]
+				},
+				{
+					"name": "Socialist People’s Party of Moldova",
+					"name_alternative": "PPSM",
+					"leaders": [
+						"Victor STEPANIUC"
+					]
+				}
+			],
+			"note": "not represented in Parliament, participated in recent elections (2014-2019): Anti-Mafia Movement or MPA [Sergiu MOCANU]"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BSEC"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "CIS"
+			},
+			{
+				"organization": "EAEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "GCTU"
+			},
+			{
+				"organization": "GUAM"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Eugen CARAS (since 17 July 2020)",
+				"chancery": "2101 S Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 667-1130",
+				"fax": "[1] (202) 667-1204"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Dereck J. HOGAN (since 15 October 2018)",
+				"telephone": "[373] (22) 40-8300",
+				"embassy": "103 Mateevici Street, Chisinau MD-2009",
+				"mailing_address": "use embassy street address",
+				"fax": "[373] (22) 23-3044"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is of a Roman eagle of dark gold (brown) outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized aurochs head, star, rose, and crescent all in black-outlined yellow; based on the color scheme of the flag of Romania - with which Moldova shares a history and culture - but Moldova's blue band is lighter; the reverse of the flag displays a mirrored image of the coat of arms",
+			"note": "one of only three national flags that differ on their obverse and reverse sides - the others are Paraguay and Saudi Arabia"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "aurochs ",
+					"note": "a type of wild cattle"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Limba noastra\" (Our Language)",
+			"lyrics_music": "Alexei MATEEVICI/Alexandru CRISTEA",
+			"note": "adopted 1994",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MD.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Despite recent progress, Moldova remains one of the poorest countries in Europe. With a moderate climate and productive farmland, Moldova's economy relies heavily on its agriculture sector, featuring fruits, vegetables, wine, wheat, and tobacco. Moldova also depends on annual remittances of about $1.2 billion - almost 15% of GDP - from the roughly one million Moldovans working in Europe, Israel, Russia, and elsewhere.\nWith few natural energy resources, Moldova imports almost all of its energy supplies from Russia and Ukraine. Moldova's dependence on Russian energy is underscored by a more than $6 billion debt to Russian natural gas supplier Gazprom, largely the result of unreimbursed natural gas consumption in the breakaway region of Transnistria. Moldova and Romania inaugurated the Ungheni-Iasi natural gas interconnector project in August 2014. The 43-kilometer pipeline between Moldova and Romania, allows for both the import and export of natural gas. Several technical and regulatory delays kept gas from flowing into Moldova until March 2015. Romanian gas exports to Moldova are largely symbolic. In 2018, Moldova awarded a tender to Romanian Transgaz to construct a pipeline connecting Ungheni to Chisinau, bringing the gas to Moldovan population centers. Moldova also seeks to connect with the European power grid by 2022.\nThe government's stated goal of EU integration has resulted in some market-oriented progress. Moldova experienced better than expected economic growth in 2017, largely driven by increased consumption, increased revenue from agricultural exports, and improved tax collection. During fall 2014, Moldova signed an Association Agreement and a Deep and Comprehensive Free Trade Agreement with the EU (AA/DCFTA), connecting Moldovan products to the world’s largest market. The EU AA/DCFTA has contributed to significant growth in Moldova’s exports to the EU. In 2017, the EU purchased over 65% of Moldova’s exports, a major change from 20 years previously when the Commonwealth of Independent States (CIS) received over 69% of Moldova’s exports. A $1 billion asset-stripping heist of Moldovan banks in late 2014 delivered a significant shock to the economy in 2015; the subsequent bank bailout increased inflationary pressures and contributed to the depreciation of the leu and a minor recession. Moldova’s growth has also been hampered by endemic corruption, which limits business growth and deters foreign investment, and Russian restrictions on imports of Moldova’s agricultural products. The government’s push to restore stability and implement meaningful reform led to the approval in 2016 of a $179 million three-year IMF program focused on improving the banking and fiscal environments, along with additional assistance programs from the EU, World Bank, and Romania. Moldova received two IMF tranches in 2017, totaling over $42.5 million.\nOver the longer term, Moldova's economy remains vulnerable to corruption, political uncertainty, weak administrative capacity, vested bureaucratic interests, energy import dependence, Russian political and economic pressure, heavy dependence on agricultural exports, and unresolved separatism in Moldova's Transnistria region.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 23720000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 22690000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 21750000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 143,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 9556000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -0.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 62
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 6700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 6400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 162,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 85.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 42.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -70.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 17.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 62,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 15.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 14.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 143
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"fruits",
+				"grapes",
+				"grain",
+				"sugar beets",
+				"sunflower seeds",
+				"tobacco",
+				"beef",
+				"milk",
+				"wine"
+			]
+		},
+		"industries": {
+			"industries": [
+				"sugar processing",
+				"vegetable oil",
+				"food processing",
+				"agricultural machinery",
+				"foundry equipment",
+				"refrigerators",
+				"freezers",
+				"washing machines",
+				"hosiery",
+				"shoes",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3,
+			"global_rank": 104,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1295000,
+				"global_rank": 131,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 32.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12,
+						"units": "%"
+					},
+					"services": {
+						"value": 55.7,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.99,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.16,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 76
+		},
+		"population_below_poverty_line": {
+			"value": 9.6,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 22.1,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 2886000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2947000000,
+				"units": "USD"
+			},
+			"note": "National Public Budget",
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 30.2,
+			"global_rank": 77,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.6,
+			"global_rank": 65,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 31.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 35.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 163
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 6.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 191
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -602000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -268000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 126
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1858000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2045000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 142
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"textiles",
+					"machinery"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Romania",
+						"percent": 24.6
+					},
+					{
+						"name": "Russia",
+						"percent": 13.7
+					},
+					{
+						"name": "Italy",
+						"percent": 9.1
+					},
+					{
+						"name": "Germany",
+						"percent": 6.2
+					},
+					{
+						"name": "Ukraine",
+						"percent": 5.3
+					},
+					{
+						"name": "UK",
+						"percent": 4.6
+					},
+					{
+						"name": "Poland",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4427000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3635000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 136
+			},
+			"commodities": {
+				"by_commodity": [
+					"mineral products",
+					"fuel",
+					"machinery",
+					"equipment",
+					"chemicals",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Romania",
+						"percent": 15.5
+					},
+					{
+						"name": "Ukraine",
+						"percent": 11.4
+					},
+					{
+						"name": "Russia",
+						"percent": 10.6
+					},
+					{
+						"name": "China",
+						"percent": 10.4
+					},
+					{
+						"name": "Germany",
+						"percent": 8.9
+					},
+					{
+						"name": "Italy",
+						"percent": 6.9
+					},
+					{
+						"name": "Turkey",
+						"percent": 6.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2803000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2206000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 111
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 6549000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 6138000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 126
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 18.49,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 19.924,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 19.924,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 19.83,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 14.036,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Moldovan lei (MDL) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 5490000000,
+				"global_rank": 118,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 4400000000,
+				"global_rank": 125,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 172,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 4000000,
+				"global_rank": 116,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 515000,
+				"global_rank": 148,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 86,
+					"global_rank": 67,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 144,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 12,
+					"global_rank": 112,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 142,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 175,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 166,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 20,
+				"global_rank": 83,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 170,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 232,
+				"global_rank": 107,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 18000,
+				"global_rank": 148,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 275,
+				"global_rank": 116,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 18160,
+				"global_rank": 130,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 11330000,
+				"global_rank": 92,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2520000000,
+				"global_rank": 78,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 152,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 2520000000,
+				"global_rank": 46,
+				"date": "2017"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7653000,
+			"global_rank": 121,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 901317,
+				"subscriptions_per_one_hundred_inhabitants": 26.5,
+				"global_rank": 78,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 3039990,
+				"subscriptions_per_one_hundred_inhabitants": 89.38,
+				"global_rank": 139,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a total of nearly 70 terrestrial TV channels and some 50 radio stations are in operation; Russian and Romanian channels also are available (2019)",
+		"internet": {
+			"country_code": ".md",
+			"users": {
+				"total": 2616792,
+				"percent_of_population": 76.12,
+				"global_rank": 108,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 21,
+				"annual_passenger_traffic_on_registered_air_carriers": 1135999,
+				"annual_freight_traffic_on_registered_air_carriers": 640000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "ER",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 7,
+					"global_rank": 170,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 5,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 2,
+					"1524_to_2437_metres": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1916,
+					"units": "km"
+				}
+			],
+			"date": "2014"
+		},
+		"railways": {
+			"total": {
+				"length": 1171,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 14,
+				"units": "km\n1.435-m"
+			},
+			"broad_gauge": {
+				"length": 1157,
+				"units": "km\n1.520-m"
+			},
+			"global_rank": 87,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 9352,
+				"units": "km"
+			},
+			"paved": {
+				"value": 8835,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 517,
+				"units": "km"
+			},
+			"global_rank": 136,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 558,
+			"units": "km",
+			"note": "in public use on Danube, Dniester and Prut Rivers",
+			"global_rank": 82,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 142,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 4
+				},
+				{
+					"type": "container ship",
+					"count": 4
+				},
+				{
+					"type": "general cargo",
+					"count": 98
+				},
+				{
+					"type": "oil tanker",
+					"count": 8
+				},
+				{
+					"type": "other",
+					"count": 28
+				}
+			],
+			"global_rank": 75,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.45,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 153
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation \nnote: Moldova intends to abolish military conscription by 2021",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Moldova and Ukraine operate joint customs posts to monitor the transit of people and commodities through Moldova's break-away Transnistria region, which remains under the auspices of an Organization for Security and Cooperation in Europe-mandated peacekeeping mission comprised of Moldovan, Transnistrian, Russian, and Ukrainian troops"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 6779,
+						"country_of_origin": "Ukraine"
+					}
+				],
+				"date": "2015"
+			},
+			"stateless_persons": {
+				"people": 3500,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "limited cultivation of opium poppy and cannabis, mostly for CIS consumption; transshipment point for illicit drugs from Southwest Asia via Central Asia to Russia, Western Europe, and possibly the US; widespread crime and underground economic activity"
+		}
+	}
+}

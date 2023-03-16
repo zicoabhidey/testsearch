@@ -1,0 +1,1942 @@
+{
+	"name": "Mexico",
+	"introduction": {
+		"background": "The site of several advanced Amerindian civilizations - including the Olmec, Toltec, Teotihuacan, Zapotec, Maya, and Aztec - Mexico was conquered and colonized by Spain in the early 16th century. Administered as the Viceroyalty of New Spain for three centuries, it achieved independence early in the 19th century. Elections held in 2000 marked the first time since the 1910 Mexican Revolution that an opposition candidate - Vicente FOX of the National Action Party (PAN) - defeated the party in government, the Institutional Revolutionary Party (PRI). He was succeeded in 2006 by another PAN candidate Felipe CALDERON, but Enrique PENA NIETO regained the presidency for the PRI in 2012. Left-leaning antiestablishment politician and former mayor of Mexico City (2000-05) Andres Manuel LOPEZ OBRADOR, from the National Regeneration Movement (MORENA), became president in December 2018.\nThe global financial crisis in late 2008 caused a massive economic downturn in Mexico the following year, although growth returned quickly in 2010. Ongoing economic and social concerns include low real wages, high underemployment, inequitable income distribution, and few advancement opportunities for the largely indigenous population in the impoverished southern states. Since 2007, Mexico's powerful drug-trafficking organizations have engaged in bloody feuding, resulting in tens of thousands of drug-related homicides."
+	},
+	"geography": {
+		"location": "North America, bordering the Caribbean Sea and the Gulf of Mexico, between Belize and the United States and bordering the North Pacific Ocean, between Guatemala and the United States",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 23,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 102,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "North America",
+		"area": {
+			"total": {
+				"value": 1964375,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1943945,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 20430,
+				"units": "sq km"
+			},
+			"global_rank": 15,
+			"comparative": "slightly less than three times the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4389,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Belize",
+					"border_length": {
+						"value": 276,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guatemala",
+					"border_length": {
+						"value": 958,
+						"units": "km"
+					}
+				},
+				{
+					"country": "US",
+					"border_length": {
+						"value": 3155,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 9330,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "varies from tropical to desert",
+		"terrain": "high, rugged mountains; low coastal plains; high plateaus; desert",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1111,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Laguna Salada",
+				"elevation": {
+					"value": -10,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Volcan Pico de Orizaba",
+				"elevation": {
+					"value": 5636,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"silver",
+				"antimony",
+				"copper",
+				"gold",
+				"lead",
+				"zinc",
+				"natural gas",
+				"timber"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 54.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 11.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 41.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 33.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 11.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 65000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City",
+		"natural_hazards": [
+			{
+				"description": "tsunamis along the Pacific coast, volcanoes and destructive earthquakes in the center and south, and hurricanes on the Pacific, Gulf of Mexico, and Caribbean coasts",
+				"type": "hazard"
+			},
+			{
+				"description": "volcanic activity in the central-southern part of the country; the volcanoes in Baja California are mostly dormant; Colima (3,850 m), which erupted in 2010, is Mexico's most active volcano and is responsible for causing periodic evacuations of nearby villagers; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Popocatepetl (5,426 m) poses a threat to Mexico City; other historically active volcanoes include Barcena, Ceboruco, El Chichon, Michoacan-Guanajuato, Pico de Orizaba, San Martin, Socorro, and Tacana; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"scarcity of hazardous waste disposal facilities",
+				"rural to urban migration",
+				"natural freshwater resources scarce and polluted in north",
+				"inaccessible and poor quality in center and extreme southeast",
+				"raw sewage and industrial effluents polluting rivers in urban areas",
+				"deforestation",
+				"widespread erosion",
+				"desertification",
+				"deteriorating agricultural lands",
+				"serious air and water pollution in the national capital and urban centers along US-Mexico border",
+				"land subsidence in Valley of Mexico caused by groundwater depletion\nnote: the government considers the lack of clean water and deforestation national security issues"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 128649565,
+			"global_rank": 10,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Mexican(s)",
+			"adjective": "Mexican"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 62,
+					"note": "Amerindian-Spanish"
+				},
+				{
+					"name": "predominantly Amerindian",
+					"percent": 21
+				},
+				{
+					"name": "Amerindian",
+					"percent": 7
+				},
+				{
+					"name": "other",
+					"percent": 10,
+					"note": "mostly European"
+				}
+			],
+			"note": "Mexico does not collect census data on ethnicity",
+			"date": "2012"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish only",
+					"percent": 92.7
+				},
+				{
+					"name": "Spanish and indigenous languages",
+					"percent": 5.7
+				},
+				{
+					"name": "indigenous only",
+					"percent": 0.8
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.8
+				}
+			],
+			"note": "indigenous languages include various Mayan, Nahuatl, and other regional languages",
+			"date": "2005"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 82.7
+				},
+				{
+					"name": "Pentecostal",
+					"percent": 1.6
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.4
+				},
+				{
+					"name": "other Evangelical Churches",
+					"percent": 5
+				},
+				{
+					"name": "other",
+					"percent": 1.9
+				},
+				{
+					"name": "none",
+					"percent": 4.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.7
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 26.01,
+				"males": 17111199,
+				"females": 16349767
+			},
+			"15_to_24": {
+				"percent": 16.97,
+				"males": 11069260,
+				"females": 10762784
+			},
+			"25_to_54": {
+				"percent": 41.06,
+				"males": 25604223,
+				"females": 27223720
+			},
+			"55_to_64": {
+				"percent": 8.29,
+				"males": 4879048,
+				"females": 5784176
+			},
+			"65_and_over": {
+				"percent": 7.67,
+				"males": 4373807,
+				"females": 5491581
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 50.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 38.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 11.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 8.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 30.4,
+				"units": "years"
+			},
+			"global_rank": 132,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.04,
+			"global_rank": 102,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 17.6,
+			"global_rank": 95,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.4,
+			"global_rank": 186,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.9,
+			"global_rank": 166,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City",
+		"urbanization": {
+			"urban_population": {
+				"value": 80.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.59,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Mexico City",
+					"population": 21782000,
+					"is_capital": true
+				},
+				{
+					"place": "Guadalajara",
+					"population": 5179000
+				},
+				{
+					"place": "Monterrey",
+					"population": 4874000
+				},
+				{
+					"place": "Puebla",
+					"population": 3195000
+				},
+				{
+					"place": "Toluca De Lerdo",
+					"population": 2467000
+				},
+				{
+					"place": "Tijuana",
+					"population": 2140000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.84,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.8,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.3,
+			"date": "2008"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 33,
+			"global_rank": 108,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 10.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 127,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.6,
+				"units": "years"
+			},
+			"global_rank": 91,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.19,
+			"global_rank": 94,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 73.1,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.38,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.5,
+			"date": "2015"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 96.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 3.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 91.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 8.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 106,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 230000,
+				"global_rank": 25,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 4000,
+				"global_rank": 30,
+				"date": "2017"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A"
+			],
+			"vectorborne_diseases": [
+				"dengue fever"
+			],
+			"note": "a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 5 August 2020, Mexico has reported 443,813 confirmed cases of COVID19 with 48,012 deaths",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 28.9,
+			"global_rank": 29,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 4.2,
+			"global_rank": 87,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.9,
+			"global_rank": 66,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 95.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 95.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 94.6,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 15,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 6.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 7.6,
+				"units": "%"
+			},
+			"global_rank": 152,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "United Mexican States",
+			"conventional_short_form": "Mexico",
+			"local_long_form": "Estados Unidos Mexicanos",
+			"local_short_form": "Mexico",
+			"etymology": "named after the capital city, whose name stems from the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain"
+		},
+		"government_type": "federal presidential republic",
+		"capital": {
+			"name": "Mexico City (Ciudad de Mexico)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 19,
+					"minutes": 26,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 99,
+					"minutes": 8,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -6,
+				"note": "1 hour behind Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins first Sunday in April; ends last Sunday in October",
+			"note": "Mexico has four time zones",
+			"etymology": "named after the Mexica, the largest and most powerful branch of the Aztecs; the meaning of the name is uncertain"
+		},
+		"independence": {
+			"date": "1810-09-16",
+			"note": "declared independence from Spain; 27 September 1821 (recognized by Spain)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "16 September",
+				"original_year": "1810"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved 5 February 1917",
+			"amendments": "proposed by the Congress of the Union; passage requires approval by at least two thirds of the members present and approval by a majority of the state legislatures; amended many times, last in 2020"
+		},
+		"legal_system": "civil law system with US constitutional law influence; judicial review of legislative acts",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "not specified",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Andres Manuel LOPEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Andres Manuel LOPEZ OBRADOR (since 1 December 2018)",
+			"cabinet": "Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate",
+			"elections_appointments": "president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held in July 2024)",
+			"election_results": "Andres Manuel LOPEZ OBRADOR elected president; percent of vote - Andres Manuel LOPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA (PAN) 22.3%, Jose Antonio MEADE Kuribrena (PRI) 16.4%, Jaime RODRIGUEZ Calderon 5.2% (independent), other 2.9%"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Congress or Congreso de la Union consists of: Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)\nChamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)",
+			"elections": "Senate - last held on 1 July 2018 (next to be held on 1 July 2024)\nChamber of Deputies - last held on 1 July 2018 (next to be held on 1 July 2021)",
+			"election_results": "Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%\nChamber of Deputies - percent of vote by party - NA; seats by party - MORENA 193, PAN 79, PT 61, PES 58, PRI 42, MC 26, PRD 23, PVEM 17, PNA/PANAL 1; composition - men 259, women 241, percent of women 48.2%; note - total National Congress percent of women 48.4%",
+			"note": "for the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court justices nominated by the president of the republic and approved by two-thirds vote of the members present in the Senate; justices serve 15-year terms; Electoral Tribunal superior and regional court judges nominated by the Supreme Court and elected by two-thirds vote of members present in the Senate; superior court president elected from among its members to hold office for a 4-year term; other judges of the superior and regional courts serve staggered, 9-year terms",
+			"subordinate_courts": "federal level includes circuit, collegiate, and unitary courts; state and district level courts",
+			"note": "in mid-February 2020, the Mexican president endorsed a bill on judicial reform, which proposes changes to 7 articles of the constitution and the issuance of a new Organic Law on the Judicial Branch of the Federation"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Citizen's Movement",
+					"name_alternative": "MC",
+					"leaders": [
+						"Clemente CASTANEDA"
+					],
+					"note": "Movimiento Ciudadano"
+				},
+				{
+					"name": "Institutional Revolutionary Party",
+					"name_alternative": "PRI",
+					"leaders": [
+						"Claudia RUIZ Massieu"
+					],
+					"note": "Partido Revolucionario Institucional"
+				},
+				{
+					"name": "Labor Party",
+					"name_alternative": "PT",
+					"leaders": [
+						"Alberto ANAYA Gutierrez"
+					],
+					"note": "Partido del Trabajo"
+				},
+				{
+					"name": "Mexican Green Ecological Party",
+					"name_alternative": "PVEM",
+					"leaders": [
+						"Carlos Alberto PUENTE Salas"
+					],
+					"note": "Partido Verde Ecologista de Mexico"
+				},
+				{
+					"name": "Movement for National Regeneration",
+					"name_alternative": "MORENA",
+					"leaders": [
+						"Andres Manuel LOPEZ Obrador"
+					],
+					"note": "Movimiento Regeneracion Nacional"
+				},
+				{
+					"name": "National Action Party",
+					"name_alternative": "PAN",
+					"leaders": [
+						"Damian ZEPEDA Vidales"
+					],
+					"note": "Partido Accion Nacional"
+				},
+				{
+					"name": "Party of the Democratic Revolution",
+					"name_alternative": "PRD",
+					"leaders": [
+						"Manuel GRANADOS"
+					],
+					"note": "Partido de la Revolucion Democratica"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAN ",
+				"note": "observer"
+			},
+			{
+				"organization": "Caricom ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CE ",
+				"note": "observer"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "CSN ",
+				"note": "observer"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-3"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAFTA"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance"
+			},
+			{
+				"organization": "Paris Club ",
+				"note": "associate"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR ",
+				"note": "observer"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina ",
+				"note": "observer"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Martha BARCENA Coqui (since 11 January 2019); note - Ambassador BARCENA Coqui is Mexico'a first-ever female ambassador to the US",
+				"chancery": "1911 Pennsylvania Avenue NW, Washington, DC 20006",
+				"telephone": "[1] (202) 728-1600",
+				"fax": "[1] (202) 728-1698",
+				"consulates_general": "Atlanta, Austin, Boston, Chicago, Dallas, Denver, El Paso (TX), Houston, Laredo (TX), Los Angeles, Miami, New York, Nogales (AZ), Phoenix, Sacramento (CA), San Antonio (TX), San Diego, San Francisco, San Jose (CA), San Juan (Puerto Rico), Saint Paul (MN)",
+				"consulates": "Albuquerque (NM), Anchorage (AK), Boise (ID), Brownsville (TX), Calexico (CA), Del Rio (TX), Detroit, Douglas (AZ), Eagle Pass (TX), Fresno (CA), Indianapolis (IN), Kansas City (MO), Las Vegas, Little Rock (AR), McAllen (TX), Minneapolis (MN), New Orleans, Omaha (NE), Orlando (FL), Oxnard (CA), Philadelphia, Portland (OR), Presidio (TX), Raleigh (NC), Salt Lake City, San Bernardino (CA), Santa Ana (CA), Seattle, Tucson (AZ), Yuma (AZ); note - Washington DC Consular Section is located in a separate building from the Mexican Embassy and has jurisdiction over DC, parts of Virginia, Maryland, and West Virginia"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Christopher LANDAU (since 26 August 2019)",
+				"telephone": "(011) [52]-55-5080-2000",
+				"embassy": "Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal",
+				"mailing_address": "P. O. Box 9000, Brownsville, TX 78520-9000",
+				"fax": "(011) 52-55-5080-2005",
+				"consulates_general": "Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City",
+			"note": "similar to the flag of Italy, which is shorter, uses lighter shades of green and red, and does not display anything in its white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional Mexicano\" (National Anthem of Mexico)",
+			"lyrics_music": "Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA",
+			"note": "adopted 1943, in use since 1854; also known as \"Mexicanos, al grito de Guerra\" (Mexicans, to the War Cry); according to tradition, Francisco Gonzalez BOCANEGRA, an accomplished poet, was uninterested in submitting lyrics to a national anthem contest; his fiancee locked him in a room and refused to release him until the lyrics were completed",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MX.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Mexico's $2.4 trillion economy – 11th largest in the world - has become increasingly oriented toward manufacturing since the North American Free Trade Agreement (NAFTA) entered into force in 1994. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.\nMexico has become the US' second-largest export market and third-largest source of imports. In 2017, two-way trade in goods and services exceeded $623 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of its trade under free trade agreements. In 2012, Mexico formed the Pacific Alliance with Peru, Colombia, and Chile.\nMexico's current government, led by President Enrique PENA NIETO, has emphasized economic reforms, passing and implementing sweeping energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Since 2015, Mexico has held public auctions of oil and gas exploration and development rights and for long-term electric power generation contracts. Mexico has also issued permits for private sector import, distribution, and retail sales of refined petroleum products in an effort to attract private investment into the energy sector and boost production.\nSince 2013, Mexico’s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO’s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Mexico’s economy remains vulnerable to uncertainty surrounding the future of NAFTA — because the United States is its top trading partner and the two countries share integrated supply chains — and to potential shifts in domestic policies following the inauguration of a new a president in December 2018.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2463000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2413000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2346000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 11,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1151000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -0.3,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.19,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.34,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 197
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 19900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 19700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 19400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 90,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 67,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 37.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -39.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 31.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 64.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 21.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 20.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 85
+		},
+		"agriculture_products": {
+			"products": [
+				"corn",
+				"wheat",
+				"soybeans",
+				"rice",
+				"beans",
+				"cotton",
+				"coffee",
+				"fruit",
+				"tomatoes",
+				"beef",
+				"poultry",
+				"dairy products",
+				"wood products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food",
+				"beverages",
+				"tobacco",
+				"chemicals",
+				"iron",
+				"steel",
+				"petroleum",
+				"mining",
+				"textiles",
+				"clothing",
+				"motor vehicles",
+				"consumer durables",
+				"tourism"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -0.6,
+			"global_rank": 174,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 50914000,
+				"global_rank": 12,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 13.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 61.9,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.49,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.33,
+					"units": "%",
+					"date": "2018"
+				},
+				{
+					"value": 25,
+					"units": "%"
+				}
+			],
+			"global_rank": 48
+		},
+		"population_below_poverty_line": {
+			"value": 46.2,
+			"units": "%",
+			"note": "from a food-based definition of poverty; asset-based poverty amounted to more than 47%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 40,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 261399999999.99997,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 273800000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 22.7,
+			"global_rank": 131,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.1,
+			"global_rank": 83,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 54.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 56.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 82
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 186
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -4351000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -25415000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 181
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 409800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 374300000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 12
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactured goods",
+					"electronics",
+					"vehicles",
+					"auto parts",
+					"oil",
+					"oil products",
+					"silver",
+					"plastics",
+					"fruits",
+					"vegetables",
+					"coffee",
+					"cotton",
+					"Mexico is the world's leading producer of silver"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 79.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 420800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 387400000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 14
+			},
+			"commodities": {
+				"by_commodity": [
+					"metalworking machines",
+					"steel mill products",
+					"agricultural machinery",
+					"electrical equipment",
+					"automobile parts for assembly",
+					"repair",
+					"aircraft",
+					"aircraft parts",
+					"plastics",
+					"natural gas",
+					"oil products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 46.4
+					},
+					{
+						"name": "China",
+						"percent": 17.7
+					},
+					{
+						"name": "Japan",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 175300000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 178400000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 14,
+			"note": "Mexico also maintains access to an $88 million Flexible Credit Line with the IMF"
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 445800000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 450200000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 28
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 18.26,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 18.664,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 18.664,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 15.848,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 13.292,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Mexican pesos (MXN) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 302700000000,
+				"global_rank": 13,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 258700000000,
+				"global_rank": 14,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 7308000000,
+				"global_rank": 27,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 3532000000,
+				"global_rank": 47,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 72560000,
+				"global_rank": 17,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 71,
+					"global_rank": 106,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 2,
+					"global_rank": 27,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 17,
+					"global_rank": 96,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 9,
+					"global_rank": 82,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1852000,
+				"global_rank": 13,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1214000,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 166,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 6630000000,
+				"global_rank": 19,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 844600,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 1984000,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 155800,
+				"global_rank": 35,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 867500,
+				"global_rank": 10,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 31570000000,
+				"global_rank": 24,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 81610000000,
+				"global_rank": 9,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 36810000,
+				"global_rank": 51,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 50120000000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 279800000000,
+				"global_rank": 38,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 454100000,
+			"global_rank": 14,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 22471647,
+				"subscriptions_per_one_hundred_inhabitants": 17.65,
+				"global_rank": 11,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 121117720,
+				"subscriptions_per_one_hundred_inhabitants": 95.13,
+				"global_rank": 14,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "telecom reform in 2013 enabled the creation of new broadcast television channels after decades of a quasi-monopoly; Mexico has 821 TV stations and 1,745 radio stations and most are privately owned; the Televisa group once had a virtual monopoly in TV broadcasting, but new broadcasting groups and foreign satellite and cable operators are now available; in 2016, Mexico became the first country in Latin America to complete the transition from analog to digital transmissions, allowing for better image and audio quality and a wider selection of programming from networks",
+		"internet": {
+			"country_code": ".mx",
+			"users": {
+				"total": 82843369,
+				"percent_of_population": 65.77,
+				"global_rank": 9,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 16,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 370,
+				"annual_passenger_traffic_on_registered_air_carriers": 64569640,
+				"annual_freight_traffic_on_registered_air_carriers": 1090380000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "XA",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1714,
+					"global_rank": 3,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 243,
+					"over_3047_metres": 12,
+					"2438_to_3047_metres": 32,
+					"1524_to_2437_metres": 80,
+					"914_to_1523_metres": 86,
+					"under_914_metres": 33,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 1471,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 42,
+					"914_to_1523_metres": 281,
+					"under_914_metres": 1146,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "natural gas",
+					"length": 986,
+					"units": "km"
+				},
+				{
+					"type": "oil (2017)",
+					"length": 365,
+					"units": "km"
+				},
+				{
+					"type": "refined products (2016)",
+					"length": 946,
+					"units": "km"
+				}
+			],
+			"date": "2019"
+		},
+		"railways": {
+			"total": {
+				"length": 20825,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 20825,
+				"electrified": 27,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 14,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 398148,
+				"units": "km"
+			},
+			"paved": {
+				"value": 174911,
+				"units": "km",
+				"note": "includes 10,362 km of expressways"
+			},
+			"unpaved": {
+				"value": 223237,
+				"units": "km"
+			},
+			"global_rank": 18,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 2900,
+			"units": "km",
+			"note": "navigable rivers and coastal canals mostly connected with ports on the country's east coast",
+			"global_rank": 33,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 637,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 6
+				},
+				{
+					"type": "general cargo",
+					"count": 10
+				},
+				{
+					"type": "oil tanker",
+					"count": 35
+				},
+				{
+					"type": "other",
+					"count": 586
+				}
+			],
+			"global_rank": 35,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Altamira",
+				"Coatzacoalcos",
+				"Lazaro Cardenas",
+				"Manzanillo",
+				"Veracruz"
+			],
+			"oil_terminals": [
+				"Cayo Arcas terminal",
+				"Dos Bocas terminal"
+			],
+			"cruise_ports": [
+				"Cancun",
+				"Cozumel",
+				"Ensenada"
+			],
+			"container_ports": [
+				{
+					"place": "Manzanillo",
+					"twenty_foot_equivalent_units": 2830370
+				},
+				{
+					"place": "Lazaro Cardenas",
+					"twenty_foot_equivalent_units": 1149079
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Altamira",
+				"Ensenada"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 148
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for compulsory military service (selection for service determined by lottery), conscript service obligation is 12 months; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements",
+			"the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico",
+			"Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US",
+			"Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 9257,
+						"country_of_origin": "Honduras"
+					},
+					{
+						"people": 73494,
+						"country_of_origin": "Venezuela",
+						"date": "2020",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay"
+					}
+				],
+				"date": "2019"
+			},
+			"internally_displaced_persons": {
+				"people": 345000,
+				"note": "government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 13,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "major drug-producing and transit nation; Mexico is estimated to be the world's third largest producer of opium with poppy cultivation in 2015 estimated to be 28,000 hectares yielding a potential production of 475 metric tons of raw opium; government conducts the largest independent illicit-crop eradication program in the world; continues as the primary transshipment country for US-bound cocaine from South America, with an estimated 95% of annual cocaine movements toward the US stopping in Mexico; major drug syndicates control the majority of drug trafficking throughout the country; producer and distributor of ecstasy; significant money-laundering center; major supplier of heroin and largest foreign supplier of marijuana and methamphetamine to the US market"
+		}
+	}
+}

@@ -1,0 +1,1150 @@
+{
+	"name": "Guam",
+	"introduction": {
+		"background": "Spain ceded Guam to the US in 1898. Captured by the Japanese in 1941, it was retaken by the US three years later. The military installations on the island are some of the most strategically important US bases in the Pacific; they also constitute the island’s most important source of income and economic stability."
+	},
+	"geography": {
+		"location": "Oceania, island in the North Pacific Ocean, about three-quarters of the way from Hawaii to the Philippines",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 28,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 144,
+				"minutes": 47,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 544,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 544,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 195,
+			"comparative": "three times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 125.5,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical marine; generally warm and humid, moderated by northeast trade winds; dry season (January to June), rainy season (July to December); little seasonal temperature variation",
+		"terrain": "volcanic origin, surrounded by coral reefs; relatively flat coralline limestone plateau (source of most fresh water), with steep coastal cliffs and narrow coastal plains in north, low hills in center, mountains in south",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Lamlam",
+				"elevation": {
+					"value": 406,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"aquatic wildlife supporting tourism",
+				"fishing; largely undeveloped"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 33.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 16.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 14.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 47.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 18.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 2,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo",
+		"natural_hazards": [
+			{
+				"description": "frequent squalls during rainy season",
+				"type": "hazard"
+			},
+			{
+				"description": "relatively rare but potentially destructive typhoons (June to December)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"fresh water scarcity",
+				"reef damage",
+				"inadequate sewage treatment",
+				"extermination of native bird populations by the rapid proliferation of the brown tree snake",
+				"an exotic",
+				"invasive species"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 168485,
+			"global_rank": 186,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Guamanian(s) (US citizens)",
+			"adjective": "Guamanian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Chamorro",
+					"percent": 37.3
+				},
+				{
+					"name": "Filipino",
+					"percent": 26.3
+				},
+				{
+					"name": "white",
+					"percent": 7.1
+				},
+				{
+					"name": "Chuukese",
+					"percent": 7
+				},
+				{
+					"name": "Korean",
+					"percent": 2.2
+				},
+				{
+					"name": "other Pacific Islander",
+					"percent": 2
+				},
+				{
+					"name": "other Asian",
+					"percent": 2
+				},
+				{
+					"name": "Chinese",
+					"percent": 1.6
+				},
+				{
+					"name": "Palauan",
+					"percent": 1.6
+				},
+				{
+					"name": "Japanese",
+					"percent": 1.5
+				},
+				{
+					"name": "Pohnpeian",
+					"percent": 1.4
+				},
+				{
+					"name": "mixed",
+					"percent": 9.4
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 43.6
+				},
+				{
+					"name": "Filipino",
+					"percent": 21.2
+				},
+				{
+					"name": "Chamorro",
+					"percent": 17.8
+				},
+				{
+					"name": "other Pacific island languages",
+					"percent": 10
+				},
+				{
+					"name": "Asian languages",
+					"percent": 6.3
+				},
+				{
+					"name": "other",
+					"percent": 1.1
+				}
+			],
+			"date": "2010"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 85
+				},
+				{
+					"name": "other",
+					"percent": 15
+				}
+			],
+			"date": "1999"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 27.22,
+				"males": 23748,
+				"females": 22122
+			},
+			"15_to_24": {
+				"percent": 16.08,
+				"males": 14522,
+				"females": 12572
+			},
+			"25_to_54": {
+				"percent": 36.65,
+				"males": 31880,
+				"females": 29871
+			},
+			"55_to_64": {
+				"percent": 10.5,
+				"males": 9079,
+				"females": 8610
+			},
+			"65_and_over": {
+				"percent": 9.54,
+				"males": 7504,
+				"females": 8577
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 52.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 36.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 16.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 6.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 29.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 28.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 30.2,
+				"units": "years"
+			},
+			"global_rank": 130,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.2,
+			"global_rank": 181,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.9,
+			"global_rank": 80,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6,
+			"global_rank": 163,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -11,
+			"global_rank": 217,
+			"date": "2020"
+		},
+		"population_distribution": "no large cities exist on the island, though large villages (municipalities) attract much of the population; the largest of these is Dededo",
+		"urbanization": {
+			"urban_population": {
+				"value": 94.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.92,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Hagatna",
+					"population": 147000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.16,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.87,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.06,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 10.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 10.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 126,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.6,
+				"units": "years"
+			},
+			"global_rank": 86,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.84,
+			"global_rank": 59,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 89.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 89.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 89.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 10.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 10.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 10.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 29.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 29.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 28.9,
+				"units": "%"
+			},
+			"global_rank": 33,
+			"date": "2011"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Guam",
+			"local_long_form": "none",
+			"local_short_form": "Guahan",
+			"abbreviation": "GU",
+			"etymology": "the native Chamorro name for the island \"Guahan\" (meaning \"we have\" or \"ours\") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US"
+		},
+		"government_type": "republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government",
+		"capital": {
+			"name": "Hagatna (Agana)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 13,
+					"minutes": 28,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 144,
+					"minutes": 44,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 10,
+				"note": "15 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name is derived from the Chamoru word \"haga,\" meaning \"blood\", and may refer to the bloodlines of the various families that established the original settlement"
+		},
+		"independence": {
+			"note": "territory of the US"
+		},
+		"national_holidays": [
+			{
+				"name": "Discovery Day",
+				"day": "first Monday in March",
+				"original_year": "1521",
+				"note": "or Magellan Day"
+			}
+		],
+		"constitution": {
+			"history": "effective 1 July 1950 (Guam Act of 1950 serves as a constitution)",
+			"amendments": "amended many times, last in 2015"
+		},
+		"legal_system": "common law modeled on US system; US federal laws apply",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+			"head_of_government": "Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)",
+			"cabinet": "Cabinet appointed by the governor with the consent of the Legislature",
+			"elections_appointments": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)",
+			"election_results": "Lourdes LEON GUERRERO elected governor; percent of vote -  Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)",
+			"elections": "last held on 6 November 2018 (next to be held on 3 November 2020)",
+			"election_results": "percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%",
+			"note": "Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 6 November 2018 (next to be held on 3 November 2020); election results - seat by party - Democratic Party 1; composition 1 man"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court",
+			"judge_selection_and_term_of_office": "justices appointed by the governor and confirmed by the Guam legislature; justices appointed for life subject to retention election every 10 years",
+			"subordinate_courts": "Superior Court of Guam - includes several divisions; US Federal District Court for the District of Guam (a US territorial court; appeals beyond this court are heard before the US Court of Appeals for the Ninth Circuit)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party",
+					"leaders": [
+						"Joaquin \"Kin\" PEREZ"
+					]
+				},
+				{
+					"name": "Republican Party",
+					"leaders": [
+						"Jerry CRISOSTOMO"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AOSIS ",
+				"note": "observer"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "PIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression",
+			"note": "the US flag is the national flag"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "coconut tree"
+				}
+			],
+			"colors": [
+				{
+					"color": "deep blue"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Fanohge Chamoru\" (Stand Ye Guamanians)",
+			"lyrics_music": "Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ramon Manalisay SABLAN",
+			"note": "adopted 1919; the local anthem is also known as \"Guam Hymn\"; as a territory of the United States, \"The Star-Spangled Banner,\" which generally follows the playing of \"Stand Ye Guamanians,\" is official (see United States)"
+		}
+	},
+	"economy": {
+		"overview": "US national defense spending is the main driver of Guam’s economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam’s GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam’s total revenues for the fiscal year. In 2016, Guam’s economy grew 0.3%. Despite slow growth, Guam’s economy has been stable over the last decade. National defense spending cushions the island’s economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5793000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5697000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 5531000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 174
+			},
+			"official_exchange_rate": {
+				"USD": 5793000000,
+				"date": "2016"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 0.5,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 1.6,
+						"units": "%",
+						"date": "2014"
+					}
+				],
+				"global_rank": 192
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 35600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 35200,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 34400,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 56
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 56.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 55,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20.6,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 19.4,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -51.2,
+							"units": "%"
+						}
+					},
+					"investment_in_inventories": "NA",
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"services": {
+							"value": 58.4,
+							"units": "%",
+							"note": "NA"
+						}
+					},
+					"agriculture": "NA",
+					"industry": "NA",
+					"date": "2015"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"fruits",
+				"copra",
+				"vegetables",
+				"eggs",
+				"pork",
+				"poultry",
+				"beef"
+			]
+		},
+		"industries": {
+			"industries": [
+				"national defense",
+				"tourism",
+				"construction",
+				"transshipment services",
+				"concrete products",
+				"printing",
+				"publishing",
+				"food processing",
+				"textiles"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 73210,
+				"global_rank": 184,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 21.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 78.1,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 64
+		},
+		"population_below_poverty_line": {
+			"value": 23,
+			"units": "%",
+			"date": "2001"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 1240000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1299000000,
+				"units": "USD"
+			},
+			"date": "2016"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 21.4,
+			"global_rank": 139,
+			"date": "2016"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 78,
+			"date": "2016"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 22.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 32.1,
+					"units": "percent_of_gdp",
+					"date": "2013"
+				}
+			],
+			"global_rank": 184
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 52
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1124000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1046000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 156
+			},
+			"commodities": {
+				"by_commodity": [
+					"transshipments of refined petroleum products",
+					"construction materials",
+					"fish",
+					"foodstuffs",
+					"beverages"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Palau",
+						"percent": 13.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2964000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3054000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 149
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"petroleum products",
+					"food",
+					"manufactured goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Singapore",
+						"percent": 41.7
+					},
+					{
+						"name": "Japan",
+						"percent": 30.6
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 10.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 1722000000,
+				"global_rank": 141,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1601000000,
+				"global_rank": 146,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 143,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 155,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 560000,
+				"global_rank": 143,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 94,
+					"global_rank": 46,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 101,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 175,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 6,
+					"global_rank": 98,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 144,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 132,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 135,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 140,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 152,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 14000,
+				"global_rank": 153,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 161,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 13500,
+				"global_rank": 141,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 140,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 153,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 115,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 133,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 142,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2214000,
+			"global_rank": 157,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 70639,
+				"subscriptions_per_one_hundred_inhabitants": 42.01,
+				"global_rank": 149,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 181000,
+				"subscriptions_per_one_hundred_inhabitants": 113,
+				"global_rank": 185,
+				"date": "2016-07-01"
+			}
+		},
+		"broadcast_media": "about a dozen TV channels, including digital channels; multi-channel cable TV services are available; roughly 20 radio stations",
+		"internet": {
+			"country_code": ".gu",
+			"users": {
+				"total": 135073,
+				"percent_of_population": 80.51,
+				"global_rank": 177,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 5,
+					"global_rank": 180,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 4,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 1,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 1,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1045,
+				"units": "km"
+			},
+			"global_rank": 184,
+			"date": "2008"
+		},
+		"merchant_marine": {
+			"total": 3,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 3
+				}
+			],
+			"global_rank": 171,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Apra Harbor"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the US"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

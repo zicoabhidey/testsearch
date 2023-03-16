@@ -1,0 +1,1648 @@
+{
+	"name": "Barbados",
+	"introduction": {
+		"background": "The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados plans to remove the British monarch as its head of state by November 2021 and transition to a republic."
+	},
+	"geography": {
+		"location": "Caribbean, island in the North Atlantic Ocean, northeast of Venezuela",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 10,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 59,
+				"minutes": 32,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 430,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 430,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 202,
+			"comparative": "2.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 97,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; rainy season (June to October)",
+		"terrain": "relatively flat; rises gently to central highland region",
+		"elevation": {
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Hillaby",
+				"elevation": {
+					"value": 336,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"fish",
+				"natural gas"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 32.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 25.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 2.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 4.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 19.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 48,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 50,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most densely populated country in the eastern Caribbean; approximately one-third live in urban areas",
+		"natural_hazards": [
+			{
+				"description": "infrequent hurricanes",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic landslides",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"pollution of coastal waters from waste disposal by ships",
+				"soil erosion",
+				"illegal solid waste disposal threatens contamination of aquifers"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 294560,
+			"global_rank": 182,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Barbadian(s) or Bajan (colloquial)",
+			"adjective": "Barbadian or Bajan (colloquial)"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "African descent",
+					"percent": 92.4
+				},
+				{
+					"name": "mixed",
+					"percent": 3.1
+				},
+				{
+					"name": "white",
+					"percent": 2.7
+				},
+				{
+					"name": "East Indian",
+					"percent": 1.3
+				},
+				{
+					"name": "other",
+					"percent": 0.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.3
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Bajan",
+					"note": "English-based creole language, widely spoken in informal settings"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 66.4,
+					"breakdown": [
+						{
+							"name": "includes Anglican",
+							"percent": 23.9
+						},
+						{
+							"name": "other Pentecostal",
+							"percent": 19.5
+						},
+						{
+							"name": "Adventist",
+							"percent": 5.9
+						},
+						{
+							"name": "Methodist",
+							"percent": 4.2
+						},
+						{
+							"name": "Wesleyan",
+							"percent": 3.4
+						},
+						{
+							"name": "Nazarene",
+							"percent": 3.2
+						},
+						{
+							"name": "Church of God",
+							"percent": 2.4
+						},
+						{
+							"name": "Baptist",
+							"percent": 1.8
+						},
+						{
+							"name": "Moravian",
+							"percent": 1.2
+						},
+						{
+							"name": "other Protestant",
+							"percent": 0.9
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 3.8
+				},
+				{
+					"name": "other Christian",
+					"percent": 5.4,
+					"breakdown": [
+						{
+							"name": "includes Jehovah's Witness",
+							"percent": 2
+						},
+						{
+							"name": "other",
+							"percent": 3.4
+						}
+					]
+				},
+				{
+					"name": "Rastafarian",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 1.5
+				},
+				{
+					"name": "none",
+					"percent": 20.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.2
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 17.49,
+				"males": 25762,
+				"females": 25764
+			},
+			"15_to_24": {
+				"percent": 12.34,
+				"males": 18024,
+				"females": 18330
+			},
+			"25_to_54": {
+				"percent": 42.69,
+				"males": 62655,
+				"females": 63093
+			},
+			"55_to_64": {
+				"percent": 13.91,
+				"males": 19533,
+				"females": 21430
+			},
+			"65_and_over": {
+				"percent": 13.57,
+				"males": 16398,
+				"females": 23571
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 50.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 25.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 25.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 39.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 38.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 40.7,
+				"units": "years"
+			},
+			"global_rank": 55,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.23,
+			"global_rank": 179,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.3,
+			"global_rank": 173,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.8,
+			"global_rank": 65,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.3,
+			"global_rank": 112,
+			"date": "2020"
+		},
+		"population_distribution": "most densely populated country in the eastern Caribbean; approximately one-third live in urban areas",
+		"urbanization": {
+			"urban_population": {
+				"value": 31.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.2,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bridgetown",
+					"population": 89000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.91,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.7,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 27,
+			"global_rank": 115,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 9.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 10.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 8.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 135,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.4,
+				"units": "years"
+			},
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.68,
+			"global_rank": 178,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 59.2,
+			"units": "%",
+			"date": "2012"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.48,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 98.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 99.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.1,
+				"global_rank": 42,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 2700,
+				"global_rank": 133,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 23.1,
+			"global_rank": 67,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 3.5,
+			"global_rank": 94,
+			"date": "2012"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.7,
+			"global_rank": 76,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.6,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2011"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 29.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 27.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 31.5,
+				"units": "%"
+			},
+			"global_rank": 31,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Barbados",
+			"etymology": "the name derives from the Portuguese \"as barbadas,\" which means \"the bearded ones\" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the native Carib inhabitants"
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Bridgetown",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 13,
+					"minutes": 6,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 59,
+					"minutes": 37,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named after a bridge constructed over the swampy area (known as the Careenage) around the Constitution River that flows through the center of Bridgetown"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Bridgetown",
+				"type": ""
+			},
+			{
+				"name": "Christ Church",
+				"type": ""
+			},
+			{
+				"name": "Saint Andrew",
+				"type": ""
+			},
+			{
+				"name": "Saint George",
+				"type": ""
+			},
+			{
+				"name": "Saint James",
+				"type": ""
+			},
+			{
+				"name": "Saint John",
+				"type": ""
+			},
+			{
+				"name": "Saint Joseph",
+				"type": ""
+			},
+			{
+				"name": "Saint Lucy",
+				"type": ""
+			},
+			{
+				"name": "Saint Michael",
+				"type": ""
+			},
+			{
+				"name": "Saint Peter",
+				"type": ""
+			},
+			{
+				"name": "Saint Philip",
+				"type": ""
+			},
+			{
+				"name": "Saint Thomas",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1966-11-30",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "30 November",
+				"original_year": "1966"
+			}
+		],
+		"constitution": {
+			"history": "adopted 22 November 1966, effective 30 November 1966",
+			"amendments": "proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2010"
+		},
+		"legal_system": "English common law; no judicial review of legislative acts",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sandra MASON (since 8 January 2018)",
+			"head_of_government": "Prime Minister Mia MOTTLEY (since 25 May 2018)",
+			"cabinet": "Cabinet appointed by the governor general on the advice of the prime minister",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (21 seats; members appointed by the governor general - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the governor general)\nHouse of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - last appointments on 5 June 2018 (next appointments NA)\nHouse of Assembly - last held on 24 May 2018 (next to be held in 2023)",
+			"election_results": "Senate - appointed; composition - men 16, women 5, percent of women 23.8%\nHouse of Assembly - percent of vote by party - BLP 74.6%, DLP 22.6%, other 2.8%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%",
+			"note": "tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "Supreme Court chief justice appointed by the governor general on the recommendation of the prime minister and opposition leader of Parliament; other justices appointed by the governor general on the recommendation of the Judicial and Legal Service Commission, a 5-member independent body consisting of the Supreme Court chief justice, the commission head, and governor general appointees recommended by the prime minister; justices serve until mandatory retirement at age 65",
+			"subordinate_courts": "Magistrates' Courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Bajan Free Party",
+					"leaders": [
+						"Alex MITCHELL"
+					]
+				},
+				{
+					"name": "Barbados Integrity Movement",
+					"leaders": [
+						"Neil HOLDER"
+					]
+				},
+				{
+					"name": "Barbados Labor Party",
+					"name_alternative": "BLP",
+					"leaders": [
+						"Mia MOTTLEY"
+					]
+				},
+				{
+					"name": "Democratic Labor Party",
+					"name_alternative": "DLP",
+					"leaders": [
+						"Freundel STUART"
+					]
+				},
+				{
+					"name": "People’s Democratic Congress",
+					"leaders": [
+						"Mark ADAMSON"
+					]
+				},
+				{
+					"name": "People's Empowerment Party",
+					"name_alternative": "PEP",
+					"leaders": [
+						"David COMISSIONG"
+					]
+				},
+				{
+					"name": "Solutions Barbados",
+					"leaders": [
+						"Grenville PHILLIPS II"
+					]
+				},
+				{
+					"name": "United Progressive Party",
+					"name_alternative": "UPP",
+					"leaders": [
+						"Lynette EASTMOND"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Noel Anderson LYNCH (since 11 January 2019)",
+				"chancery": "2144 Wyoming Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 939-9200",
+				"fax": "[1] (202) 332-7467",
+				"consulates_general": "Miami, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Linda S. TAGLIALATELA (since 1 February 2016) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines",
+				"telephone": "[1] (246) 227-4000",
+				"embassy": "Wildey Business Park, Wildey, St. Michael BB 14006, W.I.",
+				"mailing_address": "P. O. Box 302, Bridgetown BB 11000; (Department Name) Unit 3120, DPO AA 34055",
+				"fax": "[1] (246) 431-0179"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Neptune's trident"
+				},
+				{
+					"symbol": "pelican"
+				},
+				{
+					"symbol": "Red Bird of Paradise flower ",
+					"note": "also known as Pride of Barbados"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "The National Anthem of Barbados",
+			"lyrics_music": "Irving BURGIE/C. Van Roland EDWARDS",
+			"note": "adopted 1966; the anthem is also known as \"In Plenty and In Time of Need\"",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BB.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Barbados is the wealthiest and one of the most developed countries in the Eastern Caribbean and enjoys one of the highest per capita incomes in the region. Historically, the Barbadian economy was dependent on sugarcane cultivation and related activities. However, in recent years the economy has diversified into light industry and tourism. Offshore finance and information services are important foreign exchange earners, boosted by being in the same time zone as eastern US financial centers and by a relatively highly educated workforce. Following the 2008-09 recession, external vulnerabilities such as fluctuations in international oil prices have hurt economic growth, raised Barbados' already high public debt to GDP ratio - which stood at 105% of GDP in 2016 - and cut into its international reserves.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5218000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5227000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5111000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 178,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 4990000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -0.2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 2.2,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 196
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 18600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 18700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 18300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 95,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 84.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 13.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 31.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -47,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 9.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 88.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 7.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 11.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 10.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 171
+		},
+		"agriculture_products": {
+			"products": [
+				"sugarcane",
+				"vegetables",
+				"cotton"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"sugar",
+				"light manufacturing",
+				"component assembly for export"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.4,
+			"global_rank": 119,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 144000,
+				"global_rank": 175,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 10,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15,
+						"units": "%"
+					},
+					"services": {
+						"value": 75,
+						"units": "%"
+					}
+				},
+				"date": "1996"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 10.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 9.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 148
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 1466000000,
+				"units": "USD",
+				"note": "2017 est."
+			},
+			"expenditures": {
+				"value": 1664000000,
+				"units": "USD",
+				"note": "2017 est."
+			},
+			"date": "2013"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 29.4,
+			"global_rank": 82,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4,
+			"global_rank": 155,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 157.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 149.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 3
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 164
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -189000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -206000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 97
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 485400000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 516900000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 175
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactures",
+					"sugar",
+					"molasses",
+					"rum",
+					"other foodstuffs",
+					"beverages",
+					"chemicals",
+					"electrical components"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 38
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 10.2
+					},
+					{
+						"name": "Guyana",
+						"percent": 5.5
+					},
+					{
+						"name": "Jamaica",
+						"percent": 5
+					},
+					{
+						"name": "China",
+						"percent": 4.8
+					},
+					{
+						"name": "St. Lucia",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1520000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1541000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 174
+			},
+			"commodities": {
+				"by_commodity": [
+					"consumer goods",
+					"machinery",
+					"foodstuffs",
+					"construction materials",
+					"chemicals",
+					"fuel",
+					"electrical components"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 38.5
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 14.6
+					},
+					{
+						"name": "China",
+						"percent": 7.1
+					},
+					{
+						"name": "UK",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 264500000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 341800000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 169
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 4490000000,
+					"units": "USD",
+					"date": "2010"
+				},
+				{
+					"value": 668000000,
+					"units": "USD",
+					"date": "2003"
+				}
+			],
+			"global_rank": 136
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Barbadian dollars (BBD) per US dollar; the Barbadian dollar is pegged to the US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 1010000000,
+				"global_rank": 150,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 990000000,
+				"global_rank": 155,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 104,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 125,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 269000,
+				"global_rank": 162,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 93,
+					"global_rank": 50,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 46,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 157,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 7,
+					"global_rank": 91,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1000,
+				"global_rank": 90,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 674,
+				"global_rank": 77,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 94,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 2534000,
+				"global_rank": 94,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 117,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 11000,
+				"global_rank": 159,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 129,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 10630,
+				"global_rank": 147,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 14160000,
+				"global_rank": 91,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 19820000,
+				"global_rank": 113,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 66,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 5653000,
+				"global_rank": 78,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 141600000,
+				"global_rank": 102,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 1760000,
+			"global_rank": 160,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 141618,
+				"subscriptions_per_one_hundred_inhabitants": 48.19,
+				"global_rank": 128,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 319177,
+				"subscriptions_per_one_hundred_inhabitants": 108.61,
+				"global_rank": 178,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terrestrial TV station; CBC also operates a multi-channel cable TV subscription service; roughly a dozen radio stations, consisting of a CBC-operated network operating alongside privately owned radio stations",
+		"internet": {
+			"country_code": ".bb",
+			"users": {
+				"total": 239664,
+				"percent_of_population": 81.76,
+				"global_rank": 171,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "8P",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 213,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"over_3047_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 33,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 64,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 6,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 1700,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1700,
+				"units": "km"
+			},
+			"global_rank": 173,
+			"date": "2015"
+		},
+		"merchant_marine": {
+			"total": 132,
+			"by_type": [
+				{
+					"type": "bulk carrier 25general cargo",
+					"count": 90
+				},
+				{
+					"type": "other",
+					"count": 17
+				}
+			],
+			"global_rank": 78,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Bridgetown"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service, or earlier with parental consent; no conscription",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's exclusive economic zone",
+			"joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under the UN Convention on the Law of the Sea, which permits Venezuela to extend its Economic Exclusion Zone/continental shelf over a large portion of the eastern Caribbean Sea"
+		],
+		"illicit_drugs": {
+			"note": "one of many Caribbean transshipment points for narcotics bound for Europe and the US; offshore financial center"
+		}
+	}
+}

@@ -1,0 +1,1912 @@
+{
+	"name": "Colombia",
+	"introduction": {
+		"background": "Colombia was one of the three countries that emerged after the dissolution of Gran Colombia in 1830 (the others are Ecuador and Venezuela). A decades-long conflict between government forces, paramilitaries, and antigovernment insurgent groups heavily funded by the drug trade, principally the Revolutionary Armed Forces of Colombia (FARC), escalated during the 1990s. More than 31,000 former United Self Defense Forces of Colombia (AUC) paramilitaries demobilized by the end of 2006, and the AUC as a formal organization ceased to operate. In the wake of the paramilitary demobilization, illegal armed groups arose, whose members include some former paramilitaries. After four years of formal peace negotiations, the Colombian Government signed a final peace accord with the FARC in November 2016, which was subsequently ratified by the Colombian Congress. The accord calls for members of the FARC to demobilize, disarm, and reincorporate into society and politics. The accord also committed the Colombian Government to create three new institutions to form a 'comprehensive system for truth, justice, reparation, and non-repetition,' to include a truth commission, a special unit to coordinate the search for those who disappeared during the conflict, and a 'Special Jurisdiction for Peace' to administer justice for conflict-related crimes. The Colombian Government has stepped up efforts to expand its presence into every one of its administrative departments. Despite decades of internal conflict and drug-related security challenges, Colombia maintains relatively strong democratic institutions characterized by peaceful, transparent elections and the protection of civil liberties."
+	},
+	"geography": {
+		"location": "Northern South America, bordering the Caribbean Sea, between Panama and Venezuela, and bordering the North Pacific Ocean, between Ecuador and Panama",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 4,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 72,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 1138910,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1038700,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 100210,
+				"units": "sq km"
+			},
+			"note": "includes Isla de Malpelo, Roncador Cay, and Serrana Bank",
+			"global_rank": 27,
+			"comparative": "slightly less than twice the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 6672,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Brazil",
+					"border_length": {
+						"value": 1790,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ecuador",
+					"border_length": {
+						"value": 708,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Panama",
+					"border_length": {
+						"value": 339,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Peru",
+					"border_length": {
+						"value": 1494,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Venezuela",
+					"border_length": {
+						"value": 2341,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 3208,
+			"units": "km",
+			"note": "Caribbean Sea 1,760 km, North Pacific Ocean 1,448 km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "tropical along coast and eastern plains; cooler in highlands",
+		"terrain": "flat coastal lowlands, central highlands, high Andes Mountains, eastern lowland plains (Llanos)",
+		"elevation": {
+			"mean_elevation": {
+				"value": 593,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Pico Cristobal Colon",
+				"elevation": {
+					"value": 5730,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"coal",
+				"iron ore",
+				"nickel",
+				"gold",
+				"copper",
+				"emeralds",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 37.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 34.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 54.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 8.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 10900,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "highlands subject to volcanic eruptions",
+				"type": "hazard"
+			},
+			{
+				"description": "occasional earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "Galeras (4,276 m) is one of Colombia's most active volcanoes, having erupted in 2009 and 2010 causing major evacuations; it has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Nevado del Ruiz (5,321 m), 129 km (80 mi) west of Bogota, erupted in 1985 producing lahars (mudflows) that killed 23,000 people; the volcano last erupted in 1991; additionally, after 500 years of dormancy, Nevado del Huila reawakened in 2007 and has experienced frequent eruptions since then; other historically active volcanoes include Cumbal, Dona Juana, Nevado del Tolima, and Purace",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation resulting from timber exploitation in the jungles of the Amazon and the region of Chocó",
+				"illicit drug crops grown by peasants in the national parks",
+				"soil erosion",
+				"soil and water quality damage from overuse of pesticides",
+				"air pollution",
+				"especially in Bogota",
+				"from vehicle emissions"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 49084841,
+			"global_rank": 30,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Colombian(s)",
+			"adjective": "Colombian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo and white",
+					"percent": 87.6
+				},
+				{
+					"name": "Afro-Colombian",
+					"percent": 6.8,
+					"note": "includes mulatto, Raizal, and Palenquero"
+				},
+				{
+					"name": "Amerindian",
+					"percent": 4.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.4
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 79
+				},
+				{
+					"name": "Protestant",
+					"percent": 14,
+					"breakdown": [
+						{
+							"name": "includes Pentecostal",
+							"percent": 6
+						},
+						{
+							"name": "mainline Protestant",
+							"percent": 2
+						},
+						{
+							"name": "other",
+							"percent": 6
+						}
+					]
+				},
+				{
+					"name": "other",
+					"percent": 2
+				},
+				{
+					"name": "unspecified",
+					"percent": 5
+				}
+			],
+			"date": "2014"
+		},
+		"demographic_profile": "Colombia is in the midst of a demographic transition resulting from steady declines in its fertility, mortality, and population growth rates. The birth rate has fallen from more than 6 children per woman in the 1960s to just above replacement level today as a result of increased literacy, family planning services, and urbanization. However, income inequality is among the worst in the world, and more than a third of the population lives below the poverty line.\nColombia experiences significant legal and illegal economic emigration and refugee outflows. Large-scale labor emigration dates to the 1960s; the United States and, until recently, Venezuela have been the main host countries. Emigration to Spain picked up in the 1990s because of its economic growth, but this flow has since diminished because of Spain’s ailing economy and high unemployment. Colombia has been the largest source of Latin American refugees in Latin America, nearly 400,000 of whom live primarily in Venezuela and Ecuador. Venezuela’s political and economic crisis since 2015, however, has created a reverse flow, consisting largely of Colombians returning home.\nForced displacement continues to be prevalent because of violence among guerrillas, paramilitary groups, and Colombian security forces. Afro-Colombian and indigenous populations are disproportionately affected. Even with the Colombian Government’s December 2016 peace agreement with the Revolutionary Armed Forces of Colombia (FARC), the risk of displacement remains as other rebel groups fill the void left by the FARC. Between 1985 and September 2017, nearly 7.6 million persons have been internally displaced, the highest total in the world. These estimates may undercount actual numbers because many internally displaced persons are not registered. Historically, Colombia also has one of the world’s highest levels of forced disappearances. About 30,000 cases have been recorded over the last four decades—although the number is likely to be much higher—including human rights activists, trade unionists, Afro-Colombians, indigenous people, and farmers in rural conflict zones.\nBecause of political violence and economic problems, Colombia received limited numbers of immigrants during the 19th and 20th centuries, mostly from the Middle East, Europe, and Japan. More recently, growth in the oil, mining, and manufacturing sectors has attracted increased labor migration; the primary source countries are Venezuela, the US, Mexico, and Argentina. Colombia has also become a transit area for illegal migrants from Africa, Asia, and the Caribbean -- especially Haiti and Cuba -- who are en route to the US or Canada.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 23.27,
+				"males": 5853351,
+				"females": 5567196
+			},
+			"15_to_24": {
+				"percent": 16.38,
+				"males": 4098421,
+				"females": 3939870
+			},
+			"25_to_54": {
+				"percent": 42.04,
+				"males": 10270516,
+				"females": 10365423
+			},
+			"55_to_64": {
+				"percent": 9.93,
+				"males": 2307705,
+				"females": 2566173
+			},
+			"65_and_over": {
+				"percent": 8.39,
+				"males": 1725461,
+				"females": 2390725
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 45.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 32.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 31.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 30.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 32.2,
+				"units": "years"
+			},
+			"global_rank": 115,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.93,
+			"global_rank": 114,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 15.4,
+			"global_rank": 115,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.6,
+			"global_rank": 180,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.6,
+			"global_rank": 130,
+			"date": "2020"
+		},
+		"population_distribution": "the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 81.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.22,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bogota",
+					"population": 10978000,
+					"is_capital": true
+				},
+				{
+					"place": "Medellin",
+					"population": 4000000
+				},
+				{
+					"place": "Cali",
+					"population": 2782000
+				},
+				{
+					"place": "Barranquilla",
+					"population": 2273000
+				},
+				{
+					"place": "Bucaramanga",
+					"population": 1331000
+				},
+				{
+					"place": "Cartagena",
+					"population": 1063000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.72,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.7,
+			"date": "2015"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 83,
+			"global_rank": 78,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 12.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 14.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 9.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 106,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 80,
+				"units": "years"
+			},
+			"global_rank": 92,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.94,
+			"global_rank": 122,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 81,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.11,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.7,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 86.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 13.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 80.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 94.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 19.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 5.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.5,
+				"global_rank": 68,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 200000,
+				"global_rank": 29,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 4100,
+				"global_rank": 29,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria",
+				"yellow fever"
+			],
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 10 November 2020, Colombia has reported a total of 1,127,733 cases of COVID-19 or 22,163 cumulative cases of COVID-19 per 1 million population with 637 cumulative deaths per 1 million population",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.3,
+			"global_rank": 78,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 3.7,
+			"global_rank": 92,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.5,
+			"global_rank": 86,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 95.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 94.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 95.3,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 18.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 14.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 24,
+				"units": "%"
+			},
+			"global_rank": 71,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Colombia",
+			"conventional_short_form": "Colombia",
+			"local_long_form": "Republica de Colombia",
+			"local_short_form": "Colombia",
+			"etymology": "the country is named after explorer Christopher COLUMBUS"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Bogota",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 4,
+					"minutes": 36,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 74,
+					"minutes": 5,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"etymology": "originally referred to as \"Bacata,\" meaning \"enclosure outside of the farm fields,\" by the indigenous Muisca"
+		},
+		"administrative_divisions": [
+			{
+				"name": "departamento) and 1 capital district",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1810-07-20",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "20 July",
+				"original_year": "1810"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest promulgated 4 July 1991",
+			"amendments": "proposed by the government, by Congress, by a constituent assembly, or by public petition; passage requires a majority vote by Congress in each of two consecutive sessions; passage of amendments to constitutional articles on citizen rights, guarantees, and duties also require approval in a referendum by over one half of voters and participation of over one fourth of citizens registered to vote; amended many times, last in 2020"
+		},
+		"legal_system": "civil law system influenced by the Spanish and French civil codes",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "least one parent must be a citizen or permanent resident of Colombia",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018); the president is both chief of state and head of government",
+			"head_of_government": "President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 27 May 2018 with a runoff held on 17 June 2018 (next to be held in 2022); note - political reform in 2015 eliminated presidential reelection",
+			"election_results": "Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Congress or Congreso consists of: Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)\nChamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)",
+			"elections": "Senate - last held on 11 March 2018 (next to be held in March 2022)\nChamber of Representatives - last held on 11 March 2018 (next to be held in March 2022)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%\nChamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the Supreme Court members from candidates submitted by the Superior Judiciary Council; judges elected for individual 8-year terms; Constitutional Court magistrates - nominated by the president, by the Supreme Court, and elected by the Senate; judges elected for individual 8-year terms; Council of State members appointed by the State Council plenary from lists nominated by the Superior Judiciary Council",
+			"subordinate_courts": "Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alternative Democratic Pole",
+					"name_alternative": "PDA",
+					"leaders": [
+						"Jorge Enrique ROBLEDO"
+					]
+				},
+				{
+					"name": "Citizens Option",
+					"name_alternative": "OC",
+					"leaders": [
+						"Angel ALIRIO Moreno"
+					],
+					"note": "Opcion Ciudadana; formerly known as the National Integration Party or PIN"
+				},
+				{
+					"name": "Conservative Party",
+					"name_alternative": "PC",
+					"leaders": [
+						"Hernan ANDRADE"
+					]
+				},
+				{
+					"name": "Democratic Center Party",
+					"name_alternative": "CD",
+					"leaders": [
+						"Alvaro URIBE Velez"
+					]
+				},
+				{
+					"name": "Green Alliance",
+					"leaders": [
+						"Claudia LOPEZ Hernandez"
+					]
+				},
+				{
+					"name": "Humane Colombia",
+					"leaders": [
+						"Gustavo PETRO"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "PL",
+					"leaders": [
+						"Cesar GAVIRIA"
+					]
+				},
+				{
+					"name": "People's Alternative Revolutionary Force",
+					"name_alternative": "FARC",
+					"leaders": [
+						"Rodrigo LONDONO Echeverry"
+					]
+				},
+				{
+					"name": "Radical Change",
+					"name_alternative": "CR",
+					"leaders": [
+						"Rodrigo LARA Restrepo"
+					]
+				},
+				{
+					"name": "Social National Unity Party",
+					"name_alternative": "U Party",
+					"leaders": [
+						"Roy BARRERAS"
+					]
+				}
+			],
+			"note": "Colombia has numerous smaller political movements"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAN"
+			},
+			{
+				"organization": "Caricom ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-3"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "Mercosur ",
+				"note": "associate"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Francisco SANTOS Calderon (since 17 September 2018)",
+				"chancery": "1724 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 387-8338",
+				"fax": "[1] (202) 232-8643",
+				"consulates_general": "Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico)",
+				"consulates": "Boston, Chicago, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Philip S. GOLDBERG (since 19 September 2019)",
+				"telephone": "[57] (1) 275-2000",
+				"embassy": "Carrera 45, No. 24B-27, Bogota",
+				"mailing_address": "Carrera 45 No. 24B-27, Bogota, D.C.",
+				"fax": "[57] (1) 275-4600"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity",
+			"note": "similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Andean condor"
+				}
+			],
+			"colors": [
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional de la Republica de Colombia\" (National Anthem of the Republic of Colombia)",
+			"lyrics_music": "Rafael NUNEZ/Oreste SINDICI",
+			"note": "adopted 1920; the anthem was created from an inspirational poem written by President Rafael NUNEZ",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CO.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).\nColombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.\nColombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 711600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 699100000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 685600000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 31,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 314500000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.26,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.51,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 1.36,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 92
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 14400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 14200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 116,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 14.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -19.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 7.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 30.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 62.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 18.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 17.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 104
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"cut flowers",
+				"bananas",
+				"rice",
+				"tobacco",
+				"corn",
+				"sugarcane",
+				"cocoa beans",
+				"oilseed",
+				"vegetables",
+				"shrimp",
+				"forest products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"food processing",
+				"oil",
+				"clothing",
+				"footwear",
+				"beverages",
+				"chemicals",
+				"cement",
+				"gold",
+				"coal",
+				"emeralds"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -2.2,
+			"global_rank": 185,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 19309000,
+				"global_rank": 27,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 17,
+						"units": "%"
+					},
+					"industry": {
+						"value": 21,
+						"units": "%"
+					},
+					"services": {
+						"value": 62,
+						"units": "%"
+					}
+				},
+				"date": "2011"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 10.5,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 9.68,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 152
+		},
+		"population_below_poverty_line": {
+			"value": 28,
+			"units": "%",
+			"date": "2017"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 39.6,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 83350000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 91730000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 26.5,
+			"global_rank": 109,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.7,
+			"global_rank": 119,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 49.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 49.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 102,
+			"note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 163
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -13748000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -13118000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 196
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 39480000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 31390000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 55
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"coal",
+					"emeralds",
+					"coffee",
+					"nickel",
+					"cut flowers",
+					"bananas",
+					"apparel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 28.5
+					},
+					{
+						"name": "Panama",
+						"percent": 8.6
+					},
+					{
+						"name": "China",
+						"percent": 5.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 44240000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 43240000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 57
+			},
+			"commodities": {
+				"by_commodity": [
+					"industrial equipment",
+					"transportation equipment",
+					"consumer goods",
+					"chemicals",
+					"paper products",
+					"fuels",
+					"electricity"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 26.3
+					},
+					{
+						"name": "China",
+						"percent": 19.3
+					},
+					{
+						"name": "Mexico",
+						"percent": 7.5
+					},
+					{
+						"name": "Brazil",
+						"percent": 5
+					},
+					{
+						"name": "Germany",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 47130000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 46180000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 42
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 124600000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 115000000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 46
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2957,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3055.3,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3055.3,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2001,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2001.1,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Colombian pesos (COP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 1000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 99,
+					"units": "%",
+					"note": "2016"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 95.7,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2017"
+			},
+			"production": {
+				"kWh": 74920000000,
+				"global_rank": 41,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 68250000000,
+				"global_rank": 40,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 460000000,
+				"global_rank": 69,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 378000000,
+				"global_rank": 82,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 16890000,
+				"global_rank": 49,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 29,
+					"global_rank": 184,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 67,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 69,
+					"global_rank": 17,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 137,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 863000,
+				"global_rank": 22,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 726700,
+				"global_rank": 18,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 110,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 1665000000,
+				"global_rank": 36,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 303600,
+				"global_rank": 41,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 333000,
+				"global_rank": 40,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 56900,
+				"global_rank": 52,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 57170,
+				"global_rank": 74,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 10020000000,
+				"global_rank": 41,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 10080000000,
+				"global_rank": 48,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 83,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 48140000,
+				"global_rank": 76,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 113900000000,
+				"global_rank": 49,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 95590000,
+			"global_rank": 45,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 6774363,
+				"subscriptions_per_one_hundred_inhabitants": 13.93,
+				"global_rank": 23,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 64033049,
+				"subscriptions_per_one_hundred_inhabitants": 131.67,
+				"global_rank": 24,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "combination of state-owned and privately owned broadcast media provide service; more than 500 radio stations and many national, regional, and local TV stations (2019)",
+		"internet": {
+			"country_code": ".co",
+			"users": {
+				"total": 29990017,
+				"percent_of_population": 62.26,
+				"global_rank": 27,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 12,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 157,
+				"annual_passenger_traffic_on_registered_air_carriers": 33704037,
+				"annual_freight_traffic_on_registered_air_carriers": 1349450000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HJ, HK",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 836,
+					"global_rank": 8,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 121,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 9,
+					"1524_to_2437_metres": 39,
+					"914_to_1523_metres": 53,
+					"under_914_metres": 18,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 715,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 25,
+					"914_to_1523_metres": 201,
+					"under_914_metres": 488,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 4991,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 6796,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 3429,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 2141,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 150,
+				"units": "km\n1.435-m"
+			},
+			"narrow_gauge": {
+				"length": 1991,
+				"units": "km\n0.914-m"
+			},
+			"global_rank": 72,
+			"date": "2015"
+		},
+		"roadways": {
+			"total": {
+				"value": 206500,
+				"units": "km"
+			},
+			"global_rank": 26,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 24725,
+			"units": "km",
+			"note": "18,300 km navigable; the most important waterway, the River Magdalena, of which 1,488 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges",
+			"global_rank": 6,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 115,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 21
+				},
+				{
+					"type": "oil tanker",
+					"count": 9
+				},
+				{
+					"type": "other",
+					"count": 85
+				}
+			],
+			"global_rank": 82,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Atlantic Ocean (Caribbean) - Cartagena",
+				"Santa Marta",
+				"Turbo"
+			],
+			"oil_terminals": [
+				"Covenas offshore terminal"
+			],
+			"container_ports": [
+				{
+					"place": "Cartagena",
+					"twenty_foot_equivalent_units": 2663415
+				}
+			],
+			"river_ports": [
+				"Barranquilla (Rio Magdalena)"
+			],
+			"dry_bulk_cargo_ports": [
+				{
+					"place": "Puerto Bolivar \nPacific Ocean - Buenaventura",
+					"type": "coal"
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 23
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-24 years of age for compulsory and voluntary military service; service obligation is 18 months",
+			"date": "2012"
+		},
+		"note": "the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogotá; the military is also focused on the security challenges posed by its neighbor, Venezuela (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in December 2007, ICJ allocated San Andres, Providencia, and Santa Catalina islands to Colombia under 1928 Treaty but did not rule on 82 degrees W meridian as maritime boundary with Nicaragua",
+			"managed dispute with Venezuela over maritime boundary and Venezuelan-administered Los Monjes Islands near the Gulf of Venezuela",
+			"Colombian-organized illegal narcotics, guerrilla, and paramilitary activities penetrate all neighboring borders and have caused Colombian citizens to flee mostly into neighboring countries",
+			"Colombia, Honduras, Nicaragua, Jamaica, and the US assert various claims to Bajo Nuevo and Serranilla Bank"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 768714,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 7967965,
+				"note": "conflict between government and illegal armed groups and drug traffickers since 1985; about 300,000 new internally_displaced_persons each year since 2000",
+				"date": "2020"
+			},
+			"stateless_persons": {
+				"people": 11,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "illicit producer of coca, opium poppy, and cannabis; world's leading coca cultivator with 188,000 hectares in coca cultivation in 2016, a 18% increase over 2015, producing a potential of 710 mt of pure cocaine; the world's largest producer of coca derivatives; supplies cocaine to nearly all of the US market and the great majority of other international drug markets; in 2016, the Colombian government reported manual eradication of 17,642 hectares; Colombia suspended aerial eradication in October 2015 making 2016 the first full year without aerial eradication; a significant portion of narcotics proceeds are either laundered or invested in Colombia through the black market peso exchange; Colombia probably remains the second largest supplier of heroin to the US market; opium poppy cultivation was estimated to be 1,100 hectares in 2015, sufficient to potentially produce three metric tons of pure heroin"
+		}
+	}
+}

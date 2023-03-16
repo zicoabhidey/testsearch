@@ -1,0 +1,1832 @@
+{
+	"name": "Slovakia",
+	"introduction": {
+		"background": "Slovakia traces its roots to the 9th century state of Great Moravia. Subsequently, the Slovaks became part of the Hungarian Kingdom, where they remained for the next 1,000 years. After the formation of the dual Austro-Hungarian monarchy in 1867, backlash to language and education policies favoring the use of Hungarian (Magyarization) encouraged the strengthening of Slovak nationalism and a cultivation of cultural ties with the closely related Czechs, who fell administratively under the Austrian half of the empire. After the dissolution of the Austro-Hungarian Empire at the close of World War I, the Slovaks joined the Czechs to form Czechoslovakia. The new state was envisioned as a nation with Czech and Slovak branches. During the interwar period, Slovak nationalist leaders pushed for autonomy within Czechoslovakia, and in 1939 Slovakia became an independent state created by and allied with Nazi Germany. Following World War II, Czechoslovakia was reconstituted and came under communist rule within Soviet-dominated Eastern Europe. In 1968, an invasion by Warsaw Pact troops ended the efforts of Czechoslovakia's leaders to liberalize communist rule and create \"socialism with a human face,\" ushering in a period of repression known as \"normalization.\" The peaceful \"Velvet Revolution\" swept the Communist Party from power at the end of 1989 and inaugurated a return to democratic rule and a market economy. On 1 January 1993, Czechoslovakia underwent a nonviolent \"velvet divorce\" into its two national components, Slovakia and the Czech Republic. Slovakia joined both NATO and the EU in the spring of 2004 and the euro zone on 1 January 2009."
+	},
+	"geography": {
+		"location": "Central Europe, south of Poland",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 48,
+				"minutes": 40,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 19,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 49035,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 48105,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 930,
+				"units": "sq km"
+			},
+			"global_rank": 131,
+			"comparative": "about one and a half times the size of Maryland; about twice the size of New Hampshire"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1611,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Austria",
+					"border_length": {
+						"value": 105,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Czech Republic",
+					"border_length": {
+						"value": 241,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Hungary",
+					"border_length": {
+						"value": 627,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Poland",
+					"border_length": {
+						"value": 541,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ukraine",
+					"border_length": {
+						"value": 97,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate; cool summers; cold, cloudy, humid winters",
+		"terrain": "rugged mountains in the central and northern part and lowlands in the south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 458,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Bodrok River",
+				"elevation": {
+					"value": 94,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Gerlachovsky Stit",
+				"elevation": {
+					"value": 2655,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"lignite",
+				"iron ore",
+				"copper",
+				"manganese ore",
+				"salt",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 40.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 28.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 40.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 19.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 869,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution and acid rain present human health risks and damage forests",
+				"land erosion caused by agricultural and mining practices",
+				"water pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5440602,
+			"global_rank": 120,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Slovak(s)",
+			"adjective": "Slovak"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Slovak",
+					"percent": 80.7
+				},
+				{
+					"name": "Hungarian",
+					"percent": 8.5
+				},
+				{
+					"name": "Romani",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 1.8,
+					"note": "includes Czech, Ruthenian, Ukrainian, Russian, German, Polish"
+				},
+				{
+					"name": "unspecified",
+					"percent": 7
+				}
+			],
+			"note": "data represent population by nationality; Romani populations are usually underestimated in official statistics and may represent 7–11% of Slovakia's population",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Slovak",
+					"percent": 78.6,
+					"note": "official"
+				},
+				{
+					"name": "Hungarian",
+					"percent": 9.4
+				},
+				{
+					"name": "Roma",
+					"percent": 2.3
+				},
+				{
+					"name": "Ruthenian",
+					"percent": 1
+				},
+				{
+					"name": "other or unspecified",
+					"percent": 8.8
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 62
+				},
+				{
+					"name": "Protestant",
+					"percent": 8.2
+				},
+				{
+					"name": "Greek Catholic",
+					"percent": 3.8
+				},
+				{
+					"name": "other or unspecified",
+					"percent": 12.5
+				},
+				{
+					"name": "none",
+					"percent": 13.4
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.13,
+				"males": 423180,
+				"females": 400128
+			},
+			"15_to_24": {
+				"percent": 10.06,
+				"males": 280284,
+				"females": 266838
+			},
+			"25_to_54": {
+				"percent": 44.61,
+				"males": 1228462,
+				"females": 1198747
+			},
+			"55_to_64": {
+				"percent": 13.15,
+				"males": 342124,
+				"females": 373452
+			},
+			"65_and_over": {
+				"percent": 17.05,
+				"males": 366267,
+				"females": 561120
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 47.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 24.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 41.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.6,
+				"units": "years"
+			},
+			"global_rank": 41,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.05,
+			"global_rank": 199,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.3,
+			"global_rank": 203,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.1,
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.2,
+			"global_rank": 72,
+			"date": "2020"
+		},
+		"population_distribution": "a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border",
+		"urbanization": {
+			"urban_population": {
+				"value": 53.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bratislava",
+					"population": 435000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.92,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.65,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.8,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 5,
+			"global_rank": 170,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 179,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.6,
+				"units": "years"
+			},
+			"global_rank": 75,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.44,
+			"global_rank": 212,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.42,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 5.8,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1200,
+				"global_rank": 143,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.5,
+			"global_rank": 98,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.9,
+			"global_rank": 109,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 14.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 14.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.1,
+				"units": "%"
+			},
+			"global_rank": 91,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Slovak Republic",
+			"conventional_short_form": "Slovakia",
+			"local_long_form": "Slovenska republika",
+			"local_short_form": "Slovensko",
+			"etymology": "may derive from the medieval Latin word \"Slavus\" (Slav), which had the local form \"Sloven\", used since the 13th century to refer to the territory of Slovakia and its inhabitants"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Bratislava",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 48,
+					"minutes": 9,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 17,
+					"minutes": 7,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke Bretislav I; alternatively, the name may derive from the Slovak words \"brat\" (brother) and \"slava\" (glory)"
+		},
+		"independence": {
+			"date": "1993-01-01",
+			"note": "Czechoslovakia split into the Czech Republic and Slovakia"
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "1 September",
+				"original_year": "1992"
+			}
+		],
+		"constitution": {
+			"history": "several previous (preindependence); latest passed by the National Council 1 September 1992, signed 3 September 1992, effective 1 October 1992",
+			"amendments": "proposed by the National Council; passage requires at least three-fifths majority vote of Council members; amended many times, last in 2017"
+		},
+		"legal_system": "civil law system based on Austro-Hungarian codes; note - legal code modified to comply with the obligations of Organization on Security and Cooperation in Europe",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Slovakia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Zuzana CAPUTOVA (since 15 June 2014)",
+			"head_of_government": "Prime Minister Peter PELLIGRINI (since 22 March 2018); Deputy Prime Ministers Richard RASI (since 22 March 2018), Laszlo SOLYMOS (since 22 March 2018), Gabriela MATECNA (since 29 November 2017)",
+			"cabinet": "Cabinet appointed by the president on the recommendation of the prime minister",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 March and 30 March 2019 (next to be held March 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council",
+			"election_results": "Zuzana CAPUTOVA elected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 29 February 2020 (next to be held March 2024)",
+			"election_results": "percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, PS-SPOLU 7%, SaS 6.2%, Za Ludi 5.8%, other 21.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12, PS-SPOLU 0; composition - men 120, women 30, percent of women 20%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)",
+			"judge_selection_and_term_of_office": "Supreme Court judge candidates nominated by the Judicial Council of the Slovak Republic, an 18-member self-governing body that includes the Supreme Court chief justice and presidential, governmental, parliamentary, and judiciary appointees; judges appointed by the president serve for life subject to removal by the president at age 65; Constitutional Court judges nominated by the National Council of the Republic and appointed by the president; judges serve 12-year terms",
+			"subordinate_courts": "regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Christian Democratic Movement",
+					"name_alternative": "KDH",
+					"leaders": [
+						"Alojz HLINA"
+					]
+				},
+				{
+					"name": "Bridge",
+					"name_alternative": "Most-Hid",
+					"leaders": [
+						"Bela BUGAR"
+					]
+				},
+				{
+					"name": "Direction-Social Democracy",
+					"name_alternative": "Smer-SD",
+					"leaders": [
+						"Robert FICO"
+					]
+				},
+				{
+					"name": "For the People",
+					"name_alternative": "Za Ludi",
+					"leaders": [
+						"Andrej KISKA"
+					]
+				},
+				{
+					"name": "Freedom and Solidarity",
+					"name_alternative": "SaS",
+					"leaders": [
+						"Richard SULIK"
+					]
+				},
+				{
+					"name": "Kotleba-People's Party Our Slovakia",
+					"name_alternative": "LSNS",
+					"leaders": [
+						"Marian KOTLEBA"
+					]
+				},
+				{
+					"name": "Ordinary People and Independent Personalities - New Majority",
+					"name_alternative": "OLaNO-NOVA",
+					"leaders": [
+						"Igor MATOVIC"
+					]
+				},
+				{
+					"name": "Party of the Hungarian Community",
+					"name_alternative": "SMK",
+					"leaders": [
+						"Jozsef MENYHART"
+					]
+				},
+				{
+					"name": "Progressive Slovakia",
+					"name_alternative": "PS",
+					"leaders": [
+						"Michal TRUBAN"
+					]
+				},
+				{
+					"name": "Slovak National Party",
+					"name_alternative": "SNS",
+					"leaders": [
+						"Andrej DANKO"
+					]
+				},
+				{
+					"name": "Together",
+					"name_alternative": "SPOLU",
+					"leaders": [
+						"Miroslav BEBLAVY"
+					]
+				},
+				{
+					"name": "We Are Family",
+					"name_alternative": "Sme-Rodina",
+					"leaders": [
+						"Boris KOLLAR"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Charge d'Affaires Josef POLAKOVIC (since 7 April 2020)",
+				"chancery": "3523 International Court NW, Washington, DC 20008",
+				"telephone": "[1] (202) 237-1054",
+				"fax": "[1] (202) 237-6438",
+				"consulates_general": "Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Bridget A. BRINK (since 20 August 2019)",
+				"telephone": "[421] (2) 5443-3338",
+				"embassy": "P.O. Box 309, 814 99 Bratislava",
+				"mailing_address": "P.O. Box 309, 814 99 Bratislava",
+				"fax": "[421] (2) 5441-5148"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side",
+			"note": "the Pan-Slav colors were inspired by the 19th-century flag of Russia"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "double-barred cross  surmounting three peaks",
+					"note": "Cross of St. Cyril and St. Methodius"
+				}
+			],
+			"colors": [
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nad Tatrou sa blyska\" (Lightning Over the Tatras)",
+			"lyrics_music": "Janko MATUSKA/traditional",
+			"note": "adopted 1993, in use since 1844; music based on the Slovak folk song \"Kopala studienku\"",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/LO.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "Slovakia’s economy suffered from a slow start in the first years after its separation from the Czech Republic in 1993, due to the country’s authoritarian leadership and high levels of corruption, but economic reforms implemented after 1998 have placed Slovakia on a path of strong growth. With a population of 5.4 million, the Slovak Republic has a small, open economy driven mainly by automobile and electronics exports, which account for more than 80% of GDP. Slovakia joined the EU in 2004 and the euro zone in 2009. The country’s banking sector is sound and predominantly foreign owned.\nSlovakia has been a regional FDI champion for several years, attractive due to a relatively low-cost yet skilled labor force, and a favorable geographic location in the heart of Central Europe. Exports and investment have been key drivers of Slovakia’s robust growth in recent years. The unemployment rate fell to historical lows in 2017, and rising wages fueled increased consumption, which played a more prominent role in 2017 GDP growth. A favorable outlook for the Eurozone suggests continued strong growth prospects for Slovakia during the next few years, although inflation is also expected to pick up.\nAmong the most pressing domestic issues potentially threatening the attractiveness of the Slovak market are shortages in the qualified labor force, persistent corruption issues, and an inadequate judiciary, as well as a slow transition to an innovation-based economy. The energy sector in particular is characterized by unpredictable regulatory oversight and high costs, in part driven by government interference in regulated tariffs. Moreover, the government’s attempts to maintain low household energy prices could harm the profitability of domestic energy firms while undercutting energy efficiency initiatives.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 179700000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 173800000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 168200000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 69,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 95960000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.4,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.9,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.04,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 117
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 33100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 32000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 31000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 61,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 54.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 96.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -92.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 35,
+							"units": "%"
+						},
+						"services": {
+							"value": 61.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 22.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 92
+		},
+		"agriculture_products": {
+			"products": [
+				"grains",
+				"potatoes",
+				"sugar beets",
+				"hops",
+				"fruit",
+				"pigs",
+				"cattle",
+				"poultry",
+				"forest products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"automobiles",
+				"metal",
+				"metal products",
+				"electricity",
+				"gas",
+				"coke",
+				"oil",
+				"nuclear fuel",
+				"chemicals",
+				"synthetic fibers",
+				"wood",
+				"paper products",
+				"machinery",
+				"earthenware",
+				"ceramics",
+				"textiles",
+				"electrical",
+				"optical apparatus",
+				"rubber products",
+				"food",
+				"beverages",
+				"pharmaceutical"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.7,
+			"global_rank": 114,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2511000,
+				"global_rank": 114,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 3.9,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 73.4,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 5.42,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 77
+		},
+		"population_below_poverty_line": {
+			"value": 12.3,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 19.3,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 37790000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 38790000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.4,
+			"global_rank": 47,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 81,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 50.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 51.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 98,
+			"note": "data cover general Government Gross Debt and include debt instruments issued (or owned) by Government entities, including sub-sectors of central, state, local government, and social security funds"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 74
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -3026000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -2635000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 173
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 80800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 75530000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 40
+			},
+			"commodities": {
+				"by_commodity": [
+					"vehicles",
+					"related parts",
+					"machinery",
+					"electrical equipment",
+					"nuclear reactors",
+					"furnaces",
+					"iron",
+					"steel",
+					"mineral oils",
+					"fuels"
+				],
+				"date": "2015"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 20.7
+					},
+					{
+						"name": "Czech Republic",
+						"percent": 11.6
+					},
+					{
+						"name": "Poland",
+						"percent": 7.7
+					},
+					{
+						"name": "France",
+						"percent": 6.3
+					},
+					{
+						"name": "Italy",
+						"percent": 6.1
+					},
+					{
+						"name": "UK",
+						"percent": 6
+					},
+					{
+						"name": "Hungary",
+						"percent": 6
+					},
+					{
+						"name": "Austria",
+						"percent": 6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 80070000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 72510000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 42
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"electrical equipment",
+					"vehicles",
+					"related parts",
+					"nuclear reactors",
+					"furnaces",
+					"fuel",
+					"mineral oils"
+				],
+				"date": "2015"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 19.1
+					},
+					{
+						"name": "Czech Republic",
+						"percent": 16.3
+					},
+					{
+						"name": "Austria",
+						"percent": 10.3
+					},
+					{
+						"name": "Poland",
+						"percent": 6.5
+					},
+					{
+						"name": "Hungary",
+						"percent": 6.4
+					},
+					{
+						"name": "South Korea",
+						"percent": 4.5
+					},
+					{
+						"name": "Russia",
+						"percent": 4.5
+					},
+					{
+						"name": "France",
+						"percent": 4.3
+					},
+					{
+						"name": "China",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3622000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2892000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 102
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 75040000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 74190000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 58
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 25320000000,
+				"global_rank": 72,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 26640000000,
+				"global_rank": 66,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 10600000000,
+				"global_rank": 19,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 13250000000,
+				"global_rank": 19,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 7644000,
+				"global_rank": 72,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 36,
+					"global_rank": 176,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 27,
+					"global_rank": 3,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 24,
+					"global_rank": 81,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 13,
+					"global_rank": 70,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 200,
+				"global_rank": 95,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1022,
+				"global_rank": 74,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 111200,
+				"global_rank": 42,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 9000000,
+				"global_rank": 91,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 131300,
+				"global_rank": 64,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 85880,
+				"global_rank": 85,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 81100,
+				"global_rank": 46,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 38340,
+				"global_rank": 91,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 104800000,
+				"global_rank": 81,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 4672000000,
+				"global_rank": 62,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 184,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 4984000000,
+				"global_rank": 37,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 14160000000,
+				"global_rank": 75,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 34860000,
+			"global_rank": 73,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 673341,
+				"subscriptions_per_one_hundred_inhabitants": 12.37,
+				"global_rank": 85,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 7381164,
+				"subscriptions_per_one_hundred_inhabitants": 135.6,
+				"global_rank": 101,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operates 2 national TV stations and multiple national and regional radio networks; roughly 50 privately owned TV stations operating nationally, regionally, and locally; about 40% of households are connected to multi-channel cable or satellite TV; 32 privately owned radio stations",
+		"internet": {
+			"country_code": ".sk",
+			"users": {
+				"total": 4391969,
+				"percent_of_population": 80.66,
+				"global_rank": 89,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 45,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OM",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 35,
+					"global_rank": 110,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 19,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 9,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 15,
+					"914_to_1523_metres": 10,
+					"under_914_metres": 5,
+					"date": "2019"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2019"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas transmission pipelines",
+					"length": 2270,
+					"units": "km"
+				},
+				{
+					"type": "high-pressure gas distribution pipelines",
+					"length": 6278,
+					"units": "km"
+				},
+				{
+					"type": "mid- and low-pressure gas distribution pipelines",
+					"length": 27023,
+					"units": "km"
+				},
+				{
+					"type": "oil (2015)",
+					"length": 510,
+					"units": "km"
+				}
+			],
+			"date": "2016"
+		},
+		"railways": {
+			"total": {
+				"length": 3580,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 3435,
+				"electrified": 1587,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 46,
+				"units": "km\n1.000-m",
+				"gauge": "or"
+			},
+			"broad_gauge": {
+				"length": 99,
+				"units": "km\n1.520-m"
+			},
+			"global_rank": 56,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 56926,
+				"units": "km",
+				"note": "includes local roads, national roads, and 464 km of highways"
+			},
+			"global_rank": 81,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 172,
+			"units": "km",
+			"note": "on Danube River",
+			"global_rank": 99,
+			"date": "2012"
+		},
+		"ports_and_terminals": {
+			"river_ports": [
+				"Bratislava",
+				"Komarno (Danube)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.74,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.22,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.12,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.12,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 64
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age for voluntary military service; conscription in peacetime suspended in 2006; women are eligible to serve",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"bilateral government, legal, technical and economic working group negotiations continued between Slovakia and Hungary over Hungary's completion of its portion of the Gabcikovo-Nagymaros hydroelectric dam project along the Danube",
+			"as a member state that forms part of the EU's external border, Slovakia has implemented strict Schengen border rules"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 1523,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for Southwest Asian heroin bound for Western Europe; producer of synthetic drugs for regional market; consumer of ecstasy"
+		}
+	}
+}

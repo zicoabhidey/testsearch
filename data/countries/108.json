@@ -1,0 +1,1664 @@
+{
+	"name": "Iceland",
+	"introduction": {
+		"background": "Settled by Norwegian and Celtic (Scottish and Irish) immigrants during the late 9th and 10th centuries A.D., Iceland boasts the world's oldest functioning legislative assembly, the Althingi, established in 930. Independent for over 300 years, Iceland was subsequently ruled by Norway and Denmark. Fallout from the Askja volcano of 1875 devastated the Icelandic economy and caused widespread famine. Over the next quarter century, 20% of the island's population emigrated, mostly to Canada and the US. Denmark granted limited home rule in 1874 and complete independence in 1944. The second half of the 20th century saw substantial economic growth driven primarily by the fishing industry. The economy diversified greatly after the country joined the European Economic Area in 1994, but Iceland was especially hard hit by the global financial crisis in the years following 2008. The economy is now on an upward trajectory, fueled primarily by a tourism and construction boom. Literacy, longevity, and social cohesion are first rate by world standards."
+	},
+	"geography": {
+		"location": "Northern Europe, island between the Greenland Sea and the North Atlantic Ocean, northwest of the United Kingdom",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 65,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 18,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Arctic Region",
+		"area": {
+			"total": {
+				"value": 103000,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 100250,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2750,
+				"units": "sq km"
+			},
+			"global_rank": 109,
+			"comparative": "slightly smaller than Pennsylvania; about the same size as Kentucky"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 4970,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to the edge of the continental margin"
+			}
+		},
+		"climate": "temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers",
+		"terrain": "mostly plateau interspersed with mountain peaks, icefields; coast deeply indented by bays and fiords",
+		"elevation": {
+			"mean_elevation": {
+				"value": 557,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Hvannadalshnukur (at Vatnajokull Glacier)",
+				"elevation": {
+					"value": 2110,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"hydropower",
+				"geothermal power",
+				"diatomite"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 18.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 17.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 81,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west",
+		"natural_hazards": [
+			{
+				"description": "earthquakes and volcanic activity",
+				"type": "hazard"
+			},
+			{
+				"description": "Iceland, situated on top of a hotspot, experiences severe volcanic activity; Eyjafjallajokull (1,666 m) erupted in 2010, sending ash high into the atmosphere and seriously disrupting European air traffic; scientists continue to monitor nearby Katla (1,512 m), which has a high probability of eruption in the very near future, potentially disrupting air traffic; Grimsvoetn and Hekla are Iceland's most active volcanoes; other historically active volcanoes include Askja, Bardarbunga, Brennisteinsfjoll, Esjufjoll, Hengill, Krafla, Krisuvik, Kverkfjoll, Oraefajokull, Reykjanes, Torfajokull, and Vestmannaeyjar",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution from fertilizer runoff"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Kyoto Protocol",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Transboundary Air Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Environmental Modification",
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 350734,
+			"global_rank": 178,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Icelander(s)",
+			"adjective": "Icelandic"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "homogeneous mixture of descendants of Norse and Celts",
+					"percent": 81
+				},
+				{
+					"name": "population with foreign background",
+					"percent": 19
+				}
+			],
+			"note": "population with foreign background includes immigrants and persons having at least one parent who was born abroad",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Icelandic"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Nordic languages"
+				},
+				{
+					"name": "German"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Evangelical Lutheran Church of Iceland",
+					"percent": 67.2,
+					"note": "official"
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 3.9
+				},
+				{
+					"name": "Reykjavik Free Church",
+					"percent": 2.8
+				},
+				{
+					"name": "Hafnarfjordur Free Church",
+					"percent": 2
+				},
+				{
+					"name": "Asatru Association",
+					"percent": 1.2
+				},
+				{
+					"name": "The Independent Congregation .9%"
+				},
+				{
+					"name": "other religions",
+					"percent": 4,
+					"note": "includes Zuist and Pentecostal"
+				},
+				{
+					"name": "none",
+					"percent": 6.7
+				},
+				{
+					"name": "other or unspecified",
+					"percent": 11.3
+				}
+			],
+			"date": "2018"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 20.31,
+				"males": 36394,
+				"females": 34837
+			},
+			"15_to_24": {
+				"percent": 12.85,
+				"males": 22748,
+				"females": 22317
+			},
+			"25_to_54": {
+				"percent": 39.44,
+				"males": 70227,
+				"females": 68095
+			},
+			"55_to_64": {
+				"percent": 11.94,
+				"males": 20762,
+				"females": 21111
+			},
+			"65_and_over": {
+				"percent": 15.47,
+				"males": 25546,
+				"females": 28697
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 54,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 29.9,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 24.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 37.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 36.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 37.7,
+				"units": "years"
+			},
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.02,
+			"global_rank": 104,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 13.3,
+			"global_rank": 141,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.6,
+			"global_rank": 139,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 3.3,
+			"global_rank": 34,
+			"date": "2020"
+		},
+		"population_distribution": "Iceland is almost entirely urban with half of the population located in and around the capital of Reykjavik; smaller clusters are primarily found along the coast in the north and west",
+		"urbanization": {
+			"urban_population": {
+				"value": 93.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.81,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Reykjavik",
+					"population": 216000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 4,
+			"global_rank": 173,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 225,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 83.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 81,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.6,
+				"units": "years"
+			},
+			"global_rank": 7,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.97,
+			"global_rank": 115,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.98,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.1,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 124,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 500,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.9,
+			"global_rank": 83,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.5,
+			"global_rank": 8,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 19,
+				"units": "years"
+			},
+			"male": {
+				"value": 18,
+				"units": "years"
+			},
+			"female": {
+				"value": 20,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 6.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 5.6,
+				"units": "%"
+			},
+			"global_rank": 160,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Iceland",
+			"conventional_short_form": "Iceland",
+			"local_long_form": "Lydveldid Island",
+			"local_short_form": "Island",
+			"etymology": "Floki VILGERDARSON, an early explorer of the island (9th century), applied the name \"Land of Ice\" after spotting a fjord full of drift ice to the north and spending a bitter winter on the island; he eventually settled on the island, however, after he saw how it greened up in the summer and that it was, in fact, habitable"
+		},
+		"government_type": "unitary parliamentary republic",
+		"capital": {
+			"name": "Reykjavik",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 64,
+					"minutes": 9,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 21,
+					"minutes": 57,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name means \"smoky bay\" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area"
+		},
+		"independence": {
+			"date": "1918-12-01",
+			"note": "became a sovereign state under the Danish Crown; 17 June 1944 (from Denmark; birthday of Jon SIGURDSSON, leader of Iceland's 19th Century independence movement)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "17 June",
+				"original_year": "1944"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest ratified 16 June 1944, effective 17 June 1944 (at independence)",
+			"amendments": "proposed by the Althingi; passage requires approval by the Althingi and by the next elected Althingi, and confirmation by the president of the republic; proposed amendments to Article 62 of the constitution – that the Evangelical Lutheran Church shall be the state church of Iceland – also require passage by referendum; amended many times, last in 2013"
+		},
+		"legal_system": "civil law system influenced by the Danish model",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Iceland",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "3 to 7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Gudni Thorlacius JOHANNESSON (since 1 August 2016)",
+			"head_of_government": "Prime Minister Katrin JAKOBSDOTTIR (since 30 November 2017)",
+			"cabinet": "Cabinet appointed by the president upon the recommendation of the prime minister",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 27 June 2020 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition becomes prime minister",
+			"election_results": "Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)",
+			"elections": "last held on 28 October 2017 (next to be held in 2021)",
+			"election_results": "percent of vote by party - IP 25.2%, LGM 16.9%, SDA 12.1%, CP 10.9%, PP 10.7%, Pirate Party 9.2%, People's Party 6.9%, Reform Party 6.7%. other 1.5%; seats by party - IP 16, LGM 11, SDA 7, CP 7, PP 8, Pirate Party 6, Reform Party 4, People's Party 4"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Haestirettur (consists of 9 judges)",
+			"judge_selection_and_term_of_office": "judges proposed by Ministry of Interior selection committee and appointed by the president; judges appointed for an indefinite period",
+			"subordinate_courts": "Appellate Court or Landsrettur; 8 district courts; Labor Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Centrist Party",
+					"name_alternative": "CP",
+					"leaders": [
+						"Sigmundur David GUNNLAUGSSON"
+					],
+					"note": "Midflokkurinn"
+				},
+				{
+					"name": "Independence Party",
+					"name_alternative": "IP",
+					"leaders": [
+						"Bjarni BENEDIKTSSON"
+					],
+					"note": "Sjalfstaedisflokkurinn"
+				},
+				{
+					"name": "Left-Green Movement",
+					"name_alternative": "LGM",
+					"leaders": [
+						"Katrin JAKOBSDOTTIR"
+					],
+					"note": "Vinstrihreyfingin-graent frambod"
+				},
+				{
+					"name": "People's Party ",
+					"leaders": [
+						"Inga SAELAND"
+					],
+					"note": "Flokkur Folksins"
+				},
+				{
+					"name": "Pirate Party ",
+					"leaders": [
+						"rotating leadership"
+					],
+					"note": "Piratar"
+				},
+				{
+					"name": "Progressive Party",
+					"name_alternative": "PP",
+					"leaders": [
+						"Sigurdur Ingi JOHANNSSON"
+					],
+					"note": "Framsoknarflokkurinn"
+				},
+				{
+					"name": "Reform Party ",
+					"leaders": [
+						"Thorgerdur Katrin GUNNARSDOTTIR"
+					],
+					"note": "Vidreisn"
+				},
+				{
+					"name": "Social Democratic Alliance",
+					"name_alternative": "SDA",
+					"leaders": [
+						"Logi Mar EINARSSON"
+					],
+					"note": "Samfylkingin"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EFTA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Geir Hilmar HAARDE (since 23 February 2015)",
+				"chancery": "House of Sweden, 2900 K Street NW, #509, Washington, DC 20007",
+				"telephone": "[1] (202) 265-6653",
+				"fax": "[1] (202) 265-6656",
+				"consulates_general": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Jeffrey Ross GUNTER (since 2 July 2019)",
+				"telephone": "[354] 595-2200",
+				"embassy": "Laufasvegur 21, 101 Reykjavik",
+				"mailing_address": "US Department of State, 5640 Reykjavik Place, Washington, D.C. 20521-5640",
+				"fax": "[354] 562-9118"
+			}
+		},
+		"flag_description": {
+			"description": "blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "gyrfalcon"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Lofsongur\" (Song of Praise)",
+			"lyrics_music": "Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON",
+			"note": "adopted 1944; also known as \"O, Gud vors lands\" (O, God of Our Land), the anthem was originally written and performed in 1874",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/IC.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "Iceland's economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.\nTourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.\nFollowing the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.\nSince the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 18180000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 17480000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16290000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 153,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 24480000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.94,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.88,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 4.57,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 142
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 52200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 51700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 48900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 25,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 50.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 23.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 47,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -42.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 5.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 19.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 74.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 25.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 29.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 24.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 52
+		},
+		"agriculture_products": {
+			"products": [
+				"potatoes",
+				"carrots",
+				"green vegetables",
+				"tomatoes",
+				"cucumbers",
+				"mutton",
+				"chicken",
+				"pork",
+				"beef",
+				"dairy products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"fish processing",
+				"aluminum smelting",
+				"geothermal power",
+				"hydropower",
+				"medical/pharmaceutical products"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.4,
+			"global_rank": 120,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 200000,
+				"global_rank": 170,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 4.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 73,
+						"units": "%"
+					}
+				},
+				"date": "2008"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.62,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 2.73,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 50
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 10390000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 10020000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 42.4,
+			"global_rank": 31,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.5,
+			"global_rank": 22,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 40,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 51.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 126
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 93
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 1496000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 814000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 47
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4957000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4483000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 108
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"fish products (42%)",
+					"aluminum (38%)",
+					"agricultural products",
+					"medicinal",
+					"medical products",
+					"ferro-silicon"
+				],
+				"date": "2015"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Netherlands",
+						"percent": 25.5
+					},
+					{
+						"name": "Spain",
+						"percent": 13.6
+					},
+					{
+						"name": "UK",
+						"percent": 9.4
+					},
+					{
+						"name": "Germany",
+						"percent": 7.6
+					},
+					{
+						"name": "US",
+						"percent": 7
+					},
+					{
+						"name": "France",
+						"percent": 6.3
+					},
+					{
+						"name": "Norway",
+						"percent": 4.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 6525000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5315000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 118
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"petroleum products",
+					"foodstuffs",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 10.7
+					},
+					{
+						"name": "Norway",
+						"percent": 9.2
+					},
+					{
+						"name": "China",
+						"percent": 7
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6.7
+					},
+					{
+						"name": "US",
+						"percent": 6.4
+					},
+					{
+						"name": "Denmark",
+						"percent": 6.2
+					},
+					{
+						"name": "UK",
+						"percent": 5.7
+					},
+					{
+						"name": "Sweden",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 6567000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 7226000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 89
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 21700000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 25020000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 91
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 111.7,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 120.81,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 120.81,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 131.92,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 116.77,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Icelandic kronur (ISK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 18170000000,
+				"global_rank": 80,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 17680000000,
+				"global_rank": 73,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 148,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 160,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 2772000,
+				"global_rank": 100,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 4,
+					"global_rank": 206,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 109,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 71,
+					"global_rank": 16,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 25,
+					"global_rank": 29,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 151,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 139,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 143,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 147,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 159,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 20850,
+				"global_rank": 139,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 2530,
+				"global_rank": 101,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 20220,
+				"global_rank": 120,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 148,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 160,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 123,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 140,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 149,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 3228000,
+			"global_rank": 144,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 128597,
+				"subscriptions_per_one_hundred_inhabitants": 37.04,
+				"global_rank": 132,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 423390,
+				"subscriptions_per_one_hundred_inhabitants": 121.95,
+				"global_rank": 174,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned public TV broadcaster (RUV) operates 21 TV channels nationally (RUV and RUV 2, though RUV 2 is used less frequently);  RUV broadcasts nationally, every household in Iceland is required to have RUV as it doubles as the emergency broadcast network; RUV also operates stringer offices in the north (Akureyri) and the east (Egilsstadir) but operations are all run out of RUV headquarters in Reykjavik;  there are 3 privately owned TV stations;  Stod 2 (Channel 2) is owned by Syn, following 365 Media and Vodafone merger, and is headquartered in Reykjavik;  Syn also operates 4 sports channels under Stod 2;  N4 is the only television station headquartered outside of Reykjavik, in Akureyri, with local programming for the north, south, and east of Iceland;  Hringbraut is the newest station and is headquartered in Reykjavik;  all of these television stations have nationwide penetration as 100% of households have multi-channel services though digital and/or fiber-optic connections\nRUV operates 3 radio stations (RAS 1, RAS2, and Rondo) as well as 4 regional stations (but they mostly act as range extenders for RUV radio broadcasts nationwide);  there is 1 privately owned radio conglomerate, Syn (4 stations), that broadcasts nationwide, and 3 other radio stations that broadcast to the most densely populated regions of the country.  In addition there are upwards of 20 radio stations that operate regionally (2019)",
+		"internet": {
+			"country_code": ".is",
+			"users": {
+				"total": 340117,
+				"percent_of_population": 99.01,
+				"global_rank": 163,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 63,
+				"annual_passenger_traffic_on_registered_air_carriers": 7819740,
+				"annual_freight_traffic_on_registered_air_carriers": 163650000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TF",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 96,
+					"global_rank": 59,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 7,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 3,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 89,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 26,
+					"under_914_metres": 60,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 12898,
+				"units": "km"
+			},
+			"paved_oiled_gravel": {
+				"value": 5647,
+				"units": "km",
+				"note": "excludes urban roads"
+			},
+			"unpaved": {
+				"value": 7251,
+				"units": "km"
+			},
+			"global_rank": 129,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 37,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 30
+				}
+			],
+			"global_rank": 126,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Grundartangi",
+				"Hafnarfjordur",
+				"Reykjavik"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 0.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 0.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 0.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 0.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				},
+				{
+					"value": 0.5,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				}
+			],
+			"global_rank": 155
+		},
+		"note": "Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU) (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm",
+			"the European Free Trade Association Surveillance Authority filed a suit against Iceland, claiming the country violated the Agreement on the European Economic Area in failing to pay minimum compensation to Icesave depositors"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 48,
+				"date": "2019"
+			}
+		}
+	}
+}

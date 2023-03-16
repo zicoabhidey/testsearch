@@ -1,0 +1,1807 @@
+{
+	"name": "Namibia",
+	"introduction": {
+		"background": "Various ethnic groups occupied south western Africa prior to Germany establishing a colony over most of the territory in 1884. South Africa occupied the colony, then known as German South West Africa, in 1915 during World War I and administered it as a mandate until after World War II, when it annexed the territory.  In 1966, the Marxist South-West Africa People's Organization (SWAPO) guerrilla group launched a war of independence for the area that became Namibia, but it was not until 1988 that South Africa agreed to end its administration in accordance with a UN peace plan for the entire region. Namibia gained independence in 1990 and has been governed by SWAPO since, though the party has dropped much of its Marxist ideology. President Hage GEINGOB was elected in 2014 in a landslide victory, replacing Hifikepunye POHAMBA who stepped down after serving two terms. SWAPO retained its parliamentary super majority in the 2014 elections. In 2019 elections, GEINGOB was reelected but by a substantially reduced majority and SWAPO narrowly lost its super majority in parliament. Namibia gained independence in 1990."
+	},
+	"geography": {
+		"location": "Southern Africa, bordering the South Atlantic Ocean, between Angola and South Africa",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 22,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 17,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 824292,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 823290,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1002,
+				"units": "sq km"
+			},
+			"global_rank": 35,
+			"comparative": "almost seven times the size of Pennsylvania; slightly more than half the size of Alaska"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4220,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Angola",
+					"border_length": {
+						"value": 1427,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Botswana",
+					"border_length": {
+						"value": 1544,
+						"units": "km"
+					}
+				},
+				{
+					"country": "South Africa",
+					"border_length": {
+						"value": 1005,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Zambia",
+					"border_length": {
+						"value": 244,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1572,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "desert; hot, dry; rainfall sparse and erratic",
+		"terrain": "mostly high plateau; Namib Desert along coast; Kalahari Desert in east",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1141,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Konigstein on Brandberg",
+				"elevation": {
+					"value": 2573,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"diamonds",
+				"copper",
+				"uranium",
+				"gold",
+				"silver",
+				"lead",
+				"tin",
+				"lithium",
+				"cadmium",
+				"tungsten",
+				"zinc",
+				"salt",
+				"hydropower",
+				"fish",
+				"note",
+				"suspected deposits of oil",
+				"coal",
+				"iron ore"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 47.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 46.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 8.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 44,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 80,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "prolonged periods of drought",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"depletion and degradation of water and aquatic resources",
+				"desertification",
+				"land degradation",
+				"loss of biodiversity and biotic resources",
+				"wildlife poaching"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Marine Living Resources",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2630073,
+			"global_rank": 142,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Namibian(s)",
+			"adjective": "Namibian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Ovambo",
+					"percent": 50
+				},
+				{
+					"name": "Kavangos",
+					"percent": 9
+				},
+				{
+					"name": "Herero",
+					"percent": 7
+				},
+				{
+					"name": "Damara",
+					"percent": 7
+				},
+				{
+					"name": "mixed European and African ancestry",
+					"percent": 6.5
+				},
+				{
+					"name": "European 6%"
+				},
+				{
+					"name": "Nama",
+					"percent": 5
+				},
+				{
+					"name": "Caprivian",
+					"percent": 4
+				},
+				{
+					"name": "San",
+					"percent": 3
+				},
+				{
+					"name": "Baster",
+					"percent": 2
+				},
+				{
+					"name": "Tswana .5%"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Oshiwambo languages",
+					"percent": 49.7
+				},
+				{
+					"name": "Nama/Damara",
+					"percent": 11
+				},
+				{
+					"name": "Kavango languages",
+					"percent": 10.4
+				},
+				{
+					"name": "Afrikaans",
+					"percent": 9.4,
+					"note": "also a common language"
+				},
+				{
+					"name": "Herero languages",
+					"percent": 9.2
+				},
+				{
+					"name": "Zambezi languages",
+					"percent": 4.9
+				},
+				{
+					"name": "English",
+					"percent": 2.3,
+					"note": "official"
+				},
+				{
+					"name": "other African languages",
+					"percent": 1.5
+				},
+				{
+					"name": "other European languages .7%"
+				},
+				{
+					"name": "other",
+					"percent": 1
+				}
+			],
+			"note": "Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages",
+			"date": "2016"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian"
+				}
+			]
+		},
+		"demographic_profile": "Planning officials view Namibia’s reduced population growth rate as sustainable based on the country’s economic growth over the past decade. Prior to independence in 1990, Namibia’s relatively small population grew at about 3% annually, but declining fertility and the impact of HIV/AIDS slowed this growth to 1.4% by 2011, rebounding to close to 2% by 2016. Namibia’s fertility rate has fallen over the last two decades – from about 4.5 children per woman in 1996 to 3.4 in 2016 – due to increased contraceptive use, higher educational attainment among women, and greater female participation in the labor force. The average age at first birth has stayed fairly constant, but the age at first marriage continues to increase, indicating a rising incidence of premarital childbearing.\nThe majority of Namibians are rural dwellers (about 55%) and live in the better-watered north and northeast parts of the country. Migration, historically male-dominated, generally flows from northern communal areas – non-agricultural lands where blacks were sequestered under the apartheid system – to agricultural, mining, and manufacturing centers in the center and south. After independence from South Africa, restrictions on internal movement eased, and rural-urban migration increased, bolstering urban growth.\nSome Namibians – usually persons who are better-educated, more affluent, and from urban areas – continue to legally migrate to South Africa temporarily to visit family and friends and, much less frequently, to pursue tertiary education or better economic opportunities. Namibians concentrated along the country’s other borders make unauthorized visits to Angola, Zambia, Zimbabwe, or Botswana, to visit family and to trade agricultural goods. Few Namibians express interest in permanently settling in other countries; they prefer the safety of their homeland, have a strong national identity, and enjoy a well-supplied retail sector. Although Namibia is receptive to foreign investment and cross-border trade, intolerance toward non-citizens is widespread.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 35.68,
+				"males": 473937,
+				"females": 464453
+			},
+			"15_to_24": {
+				"percent": 20.27,
+				"males": 267106,
+				"females": 265882
+			},
+			"25_to_54": {
+				"percent": 35.47,
+				"males": 449132,
+				"females": 483811
+			},
+			"55_to_64": {
+				"percent": 4.68,
+				"males": 54589,
+				"females": 68619
+			},
+			"65_and_over": {
+				"percent": 3.9,
+				"males": 43596,
+				"females": 58948
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 67.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 61.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 16.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 21.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 21.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 22.6,
+				"units": "years"
+			},
+			"global_rank": 183,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.86,
+			"global_rank": 55,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 25.7,
+			"global_rank": 48,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.3,
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 92,
+			"date": "2020"
+		},
+		"population_distribution": "population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 52,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 4.2,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Windhoek",
+					"population": 431000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.8,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.74,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21.5,
+			"date": "2013"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 195,
+			"global_rank": 48,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 31.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 33.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 29.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 52,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 65.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 63.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 67.3,
+				"units": "years"
+			},
+			"global_rank": 195,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.07,
+			"global_rank": 49,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 56.1,
+			"units": "%",
+			"date": "2013"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.59,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.7,
+			"date": "2009"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 80.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 89.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 19.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 10.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 72.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 22,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 46.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 27.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 78,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 53.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 12.7,
+				"global_rank": 6,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 210000,
+				"global_rank": 28,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 3000,
+				"global_rank": 35,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 17.2,
+			"global_rank": 119,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 13.2,
+			"global_rank": 47,
+			"date": "2013"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.1,
+			"global_rank": 135,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 91.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 91.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 91.4,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 38,
+				"units": "%"
+			},
+			"male": {
+				"value": 37.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 38.5,
+				"units": "%"
+			},
+			"global_rank": 16,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Namibia",
+			"conventional_short_form": "Namibia",
+			"local_long_form": "Republic of Namibia",
+			"local_short_form": "Namibia",
+			"former": "German South-West Africa (Deutsch-Suedwestafrika), South-West Africa",
+			"etymology": "named for the coastal Namib Desert; the name \"namib\" means \"vast place\" in the Nama/Damara language"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Windhoek",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 22,
+					"minutes": 34,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 17,
+					"minutes": 5,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins first Sunday in September; ends first Sunday in April",
+			"etymology": "may derive from the Afrikaans word \"wind-hoek\" meaning \"windy corner\""
+		},
+		"independence": {
+			"date": "1990-03-21",
+			"note": "from South African mandate"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "21 March",
+				"original_year": "1990"
+			}
+		],
+		"constitution": {
+			"history": "adopted 9 February 1990, entered into force 21 March 1990",
+			"amendments": "initiated by the Cabinet; passage requires two-thirds majority vote of the National Assembly membership and of the National Council of Parliament and assent of the president of the republic; if the National Council fails to pass an amendment, the president can call for a referendum; passage by referendum requires two-thirds majority of votes cast; amendments that detract from or repeal constitutional articles on fundamental rights and freedoms cannot be amended, and the requisite majorities needed by Parliament to amend the constitution cannot be changed; amended 1998, 2010, 2014"
+		},
+		"legal_system": "mixed legal system of uncodified civil law based on Roman-Dutch law and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Namibia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)",
+			"cabinet": "Cabinet appointed by the president from among members of the National Assembly",
+			"elections_appointments": "president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in 2024)",
+			"election_results": "Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (Independent) 29.4%, McHenry VENAANI (PDM) 5.3%, Bernadus SWARTBOOI (LPM) 2.7%, Apius AUCHAB (UDF) 2.7%, Esther MUINJANGUE (NUDO) 1.5%, other 2%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly\nNational Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)",
+			"elections": "National Council - elections for regional councils to determine members of the National Council held on 27 November 2015 (next to be held on 27 November 2020)\nNational Assembly - last held on 27 November 2019 (next to be held in 2024)",
+			"election_results": "National Council - percent of vote by party - NA; seats by party - SWAPO 40, NUDO 1, DPM 1; composition - men 32, women 10, percent of women 23.8%\nNational Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)",
+			"judge_selection_and_term_of_office": "judges appointed by the president of Namibia upon the recommendation of the Judicial Service Commission; judges serve until age 65, but terms can be extended by the president until age 70",
+			"subordinate_courts": "High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "All People's Party",
+					"name_alternative": "APP",
+					"leaders": [
+						"Ignatius SHIXWAMENI"
+					]
+				},
+				{
+					"name": "Christian Democratic Voice",
+					"name_alternative": "CDV",
+					"leaders": [
+						"Gothard KANDUME"
+					]
+				},
+				{
+					"name": "Landless People's Movement",
+					"name_alternative": "LPM",
+					"leaders": [
+						"Bernadus SWARTBOOI"
+					]
+				},
+				{
+					"name": "National Unity Democratic Organization",
+					"name_alternative": "NUDO",
+					"leaders": [
+						"Estes MUINJANGUE"
+					]
+				},
+				{
+					"name": "Namibian Economic Freedom Fighters",
+					"name_alternative": "NEFF",
+					"leaders": [
+						"Epafras MUKWIILONGO"
+					]
+				},
+				{
+					"name": "Popular Democratic Movement",
+					"name_alternative": "PDM",
+					"leaders": [
+						"McHenry VENAANI"
+					],
+					"note": "formerly DTA"
+				},
+				{
+					"name": "Rally for Democracy and Progress",
+					"name_alternative": "RDP",
+					"leaders": [
+						"Mike KAVEKOTORA"
+					]
+				},
+				{
+					"name": "Republican Party",
+					"name_alternative": "RP",
+					"leaders": [
+						"Henk MUDGE"
+					]
+				},
+				{
+					"name": "South West Africa National Union",
+					"name_alternative": "SWANU",
+					"leaders": [
+						"Tangeni IIYAMBO"
+					]
+				},
+				{
+					"name": "South West Africa People's Organization",
+					"name_alternative": "SWAPO",
+					"leaders": [
+						"Hage GEINGOB"
+					]
+				},
+				{
+					"name": "United Democratic Front",
+					"name_alternative": "UDF",
+					"leaders": [
+						"Apius AUCHAB"
+					]
+				},
+				{
+					"name": "United People's Movement",
+					"name_alternative": "UPM",
+					"leaders": [
+						"Jan J. VAN WYK"
+					]
+				},
+				{
+					"name": "Workers' Revolutionary Party",
+					"name_alternative": "WRP",
+					"leaders": [
+						"MPs Salmon FLEERMUYS and Benson KAAPALA"
+					],
+					"note": "formerly CPN"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CPLP ",
+				"note": "associate observer"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "SACU"
+			},
+			{
+				"organization": "SADC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Charge d'Affaires Jerome Mutamba MUTAMBA (since 3 August 2020)",
+				"chancery": "1605 New Hampshire Avenue NW, Washington, DC 20009",
+				"telephone": "[1] (202) 986-0540",
+				"fax": "[1] (202) 986-0443"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Lisa A. JOHNSON (since 3 February 2018)",
+				"telephone": "[264] (061) 295-8500",
+				"embassy": "14 Lossen Street, Windhoek",
+				"mailing_address": "Private Bag 12029 Ausspannplatz, Windhoek",
+				"fax": "[264] (061) 295-8603"
+			}
+		},
+		"flag_description": {
+			"description": "a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a golden-yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the golden-yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "oryx ",
+					"note": "antelope"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Namibia, Land of the Brave",
+			"lyrics_music": "Axali DOESEB",
+			"note": "adopted 1991",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/WA.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Namibia’s economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for about 12.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, especially from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors.\nNamibia is one of the world’s largest producers of uranium. The Chinese-owned Husab uranium mine began producing uranium ore in 2017, and is expected to reach full production in August 2018 and produce 15 million pounds of uranium a year. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. Namibia's economy remains vulnerable to world commodity price fluctuations and drought.\nNamibia normally imports about 50% of its cereal requirements; in drought years, food shortages are problematic in rural areas. A high per capita GDP, relative to the region, obscures one of the world's most unequal income distributions; the current government has prioritized exploring wealth redistribution schemes while trying to maintain a pro-business environment. GDP growth in 2017 slowed to about 1%, however, due to contractions in both the construction and mining sectors, as well as an ongoing drought. Growth is expected to recover modestly in 2018.\nA five-year Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU); volatility in the size of Namibia's annual SACU allotment and global mineral prices complicates budget planning.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 26600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 26810000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 26620000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 139,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 13240000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -1.56,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.13,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": -1.02,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 203
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 11200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 11700,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 135,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 24.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.6,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 36.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -47.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 26.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 67,
+							"units": "%",
+							"date": "2017"
+						}
+					},
+					"date": "2016"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 16.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 9.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 125
+		},
+		"agriculture_products": {
+			"products": [
+				"millet",
+				"sorghum",
+				"peanuts",
+				"grapes",
+				"livestock",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"meatpacking",
+				"fish processing",
+				"dairy products",
+				"pasta",
+				"beverages",
+				"mining",
+				"diamonds",
+				"lead",
+				"zinc",
+				"tin",
+				"silver",
+				"tungsten",
+				"uranium",
+				"copper"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -0.4,
+			"global_rank": 171,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 956800,
+				"global_rank": 140,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 31,
+						"units": "%"
+					},
+					"industry": {
+						"value": 14,
+						"units": "%"
+					},
+					"services": {
+						"value": 54,
+						"units": "%"
+					}
+				},
+				"note": "about half of Namibia's people are unemployed while about two-thirds live in rural areas; roughly two-thirds of rural dwellers rely on subsistence agriculture",
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 34,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": 28.1,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 210
+		},
+		"population_below_poverty_line": {
+			"value": 28.7,
+			"units": "%",
+			"date": "2010"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 42,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 4268000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 5000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 32.2,
+			"global_rank": 68,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -5.5,
+			"global_rank": 173,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 41.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 39.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 121
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 6.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 187
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -216000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -465000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 101
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3995000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4003000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 117
+			},
+			"commodities": {
+				"by_commodity": [
+					"diamonds",
+					"copper",
+					"gold",
+					"zinc",
+					"lead",
+					"uranium",
+					"cattle",
+					"white fish",
+					"mollusks"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 27.1
+					},
+					{
+						"name": "Botswana",
+						"percent": 14.9
+					},
+					{
+						"name": "Switzerland",
+						"percent": 12
+					},
+					{
+						"name": "Zambia",
+						"percent": 5.7
+					},
+					{
+						"name": "China",
+						"percent": 4.6
+					},
+					{
+						"name": "Italy",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5384000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5625000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 123
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"petroleum products",
+					"fuel",
+					"machinery",
+					"equipment",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "South Africa",
+						"percent": 61.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2432000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1834000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 115
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 7969000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 6904000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 123
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 13.67,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 14.7096,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 14.7096,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 12.7589,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 10.8526,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Namibian dollars (NAD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 1000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 57,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 78,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 36,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 1403000000,
+				"global_rank": 145,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3891000000,
+				"global_rank": 128,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 88000000,
+				"global_rank": 83,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 3073000000,
+				"global_rank": 50,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 535500,
+				"global_rank": 146,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 28,
+					"global_rank": 187,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 150,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 64,
+					"global_rank": 26,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 8,
+					"global_rank": 89,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 179,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 171,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 172,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 174,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 183,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 27000,
+				"global_rank": 125,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 80,
+				"global_rank": 120,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 26270,
+				"global_rank": 105,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 175,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 179,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 157,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 162,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 62290000000,
+				"global_rank": 60,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 3958000,
+			"global_rank": 139,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 144575,
+				"subscriptions_per_one_hundred_inhabitants": 5.6,
+				"global_rank": 126,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 2921697,
+				"subscriptions_per_one_hundred_inhabitants": 113.17,
+				"global_rank": 142,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 private and 1 state-run TV station; satellite and cable TV service available; state-run radio service broadcasts in multiple languages; about a dozen private radio stations; transmissions of multiple international broadcasters available",
+		"internet": {
+			"country_code": ".na",
+			"users": {
+				"total": 1291944,
+				"percent_of_population": 51,
+				"global_rank": 134,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 21,
+				"annual_passenger_traffic_on_registered_air_carriers": 602893,
+				"annual_freight_traffic_on_registered_air_carriers": 26290000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "V5",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 112,
+					"global_rank": 51,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 19,
+					"over_3047_metres": 4,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 12,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 93,
+					"1524_to_2437_metres": 25,
+					"914_to_1523_metres": 52,
+					"under_914_metres": 16,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 2628,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 2628,
+				"units": "km\n1.067-m"
+			},
+			"global_rank": 65,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 48875,
+				"units": "km"
+			},
+			"paved": {
+				"value": 7893,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 40982,
+				"units": "km"
+			},
+			"global_rank": 83,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 12,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 11
+				}
+			],
+			"global_rank": 151,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Luderitz",
+				"Walvis Bay"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 3.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 4.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 27
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-25 years of age for voluntary military service; no conscription",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border",
+			"the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River",
+			"Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 6595,
+						"country_of_origin": "Democratic Republic of Congo"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Namibia is a country of origin and destination for children and, to a lesser extent, women subjected to forced labor and sex trafficking; victims, lured by promises of legitimate jobs, are forced to work in urban centers and on commercial farms; traffickers exploit Namibian children, as well as children from Angola, Zambia, and Zimbabwe, for forced labor in agriculture, cattle herding, domestic service, fishing, and street vending; children are also forced into prostitution, often catering to tourists from southern Africa and Europe; San and Zemba children are particularly vulnerable; foreign adults and Namibian adults and children are reportedly subjected to forced labor in Chinese-owned retail, construction, and fishing operations",
+			"tier_rating": "Tier 2 Watch List – Namibia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; Namibia was granted a waiver from an otherwise required downgrade to Tier 3 because its government has a written plan that, if implemented would constitute making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking; in 2015, the Child Care and Protection Bill passed, criminalizing child trafficking; the government’s first sex trafficking prosecution remained pending; no new prosecutions were initiated and no trafficking offenders have ever been convicted; accusations of forced labor at Chinese construction and mining companies continue to go uninvestigated; authorities failed to fully implement victim identification and referral processes, which led to the deportation of possible victims (2015)"
+		}
+	}
+}

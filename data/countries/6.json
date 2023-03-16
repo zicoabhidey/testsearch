@@ -1,0 +1,1160 @@
+{
+	"name": "Andorra",
+	"introduction": {
+		"background": "The landlocked Principality of Andorra is one of the smallest states in Europe, nestled high in the Pyrenees between the French and Spanish borders. For 715 years, from 1278 to 1993, Andorrans lived under a unique coprincipality, ruled by French and Spanish leaders (from 1607 onward, the French chief of state and the Bishop of Urgell). In 1993, this feudal system was modified with the introduction of a modern constitution; the co-princes remained as titular heads of state, but the government transformed into a parliamentary democracy.\nAndorra has become a popular tourist destination visited by approximately 8 million people each year drawn by the winter sports, summer climate, and duty-free shopping. Andorra has also become a wealthy international commercial center because of its mature banking sector and low taxes. As part of its effort to modernize its economy, Andorra has opened to foreign investment, and engaged in other reforms, such as advancing tax initiatives aimed at supporting a broader infrastructure. Although not a member of the EU, Andorra enjoys a special relationship with the bloc that is governed by various customs and cooperation agreements and uses the euro as its national currency."
+	},
+	"geography": {
+		"location": "Southwestern Europe, Pyrenees mountains, on the border between France and Spain",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 42,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 1,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 468,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 468,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 196,
+			"comparative": "2.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 118,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "France",
+					"border_length": {
+						"value": 55,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Spain",
+					"border_length": {
+						"value": 63,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate; snowy, cold winters and warm, dry summers",
+		"terrain": "rugged mountains dissected by narrow valleys",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1996,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Riu Runer",
+				"elevation": {
+					"value": 840,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Pic de Coma Pedrosa",
+				"elevation": {
+					"value": 2946,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower",
+				"mineral water",
+				"timber",
+				"iron ore",
+				"lead"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 40,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 38.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 34,
+					"units": "%"
+				},
+				"other": {
+					"value": 26,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)",
+		"natural_hazards": [
+			{
+				"description": "avalanches",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"overgrazing of mountain meadows contributes to soil erosion",
+				"air pollution",
+				"wastewater treatment and solid waste disposal"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Desertification",
+					"Hazardous Wastes",
+					"Ozone Layer Protection"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 77000,
+			"global_rank": 201,
+			"date": "2019"
+		},
+		"nationality": {
+			"noun": "Andorran(s)",
+			"adjective": "Andorran"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Andorran",
+					"percent": 48.8
+				},
+				{
+					"name": "Spanish",
+					"percent": 25.1
+				},
+				{
+					"name": "Portuguese",
+					"percent": 12
+				},
+				{
+					"name": "French",
+					"percent": 4.4
+				},
+				{
+					"name": "other",
+					"percent": 9.7
+				}
+			],
+			"note": "data represent population by nationality",
+			"date": "2017"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Catalan",
+					"note": "official"
+				},
+				{
+					"name": "French"
+				},
+				{
+					"name": "Castilian"
+				},
+				{
+					"name": "Portuguese"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"note": "predominant"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 13.37,
+				"males": 5901,
+				"females": 5551
+			},
+			"15_to_24": {
+				"percent": 10.16,
+				"males": 4474,
+				"females": 4227
+			},
+			"25_to_54": {
+				"percent": 43.19,
+				"males": 18857,
+				"females": 18131
+			},
+			"55_to_64": {
+				"percent": 15.91,
+				"males": 7184,
+				"females": 6443
+			},
+			"65_and_over": {
+				"percent": 17.36,
+				"males": 7544,
+				"females": 7323
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 46.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 46.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 46.1,
+				"units": "years"
+			},
+			"global_rank": 6,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.06,
+			"global_rank": 200,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 7,
+			"global_rank": 227,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.7,
+			"global_rank": 99,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 75,
+			"date": "2020"
+		},
+		"population_distribution": "population is unevenly distributed and is concentrated in the seven urbanized valleys that make up the country's parishes (political administrative divisions)",
+		"urbanization": {
+			"urban_population": {
+				"value": 87.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.31,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Andorra La Vella",
+					"population": 23000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.12,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.03,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.06,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 197,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 83,
+				"units": "years"
+			},
+			"male": {
+				"value": 80.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 85.4,
+				"units": "years"
+			},
+			"global_rank": 9,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.43,
+			"global_rank": 213,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.33,
+			"date": "2015"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.5,
+			"date": "2009"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 25.6,
+			"global_rank": 49,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.2,
+			"global_rank": 129,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 100,
+				"units": "%"
+			},
+			"male": {
+				"value": 100,
+				"units": "%"
+			},
+			"female": {
+				"value": 100,
+				"units": "%"
+			},
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Principality of Andorra",
+			"conventional_short_form": "Andorra",
+			"local_long_form": "Principat d'Andorra",
+			"local_short_form": "Andorra",
+			"etymology": "the origin of the country's name is obscure; the name may derive from the Arabic \"ad-darra\" meaning \"the forest,\" a reference to its location as part of the Spanish March (defensive buffer zone) against the invading Moors in the 8th century"
+		},
+		"government_type": "parliamentary democracy (since March 1993) that retains its chiefs of state in the form of a co-principality; the two princes are the President of France and Bishop of Seu d'Urgell, Spain",
+		"capital": {
+			"name": "Andorra la Vella",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 42,
+					"minutes": 30,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 1,
+					"minutes": 31,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "translates as \"Andorra the Old\" in Catalan"
+		},
+		"independence": {
+			"note": "formed under the joint sovereignty of the French Count of Foix and the Spanish Bishop of Urgell"
+		},
+		"national_holidays": [
+			{
+				"name": "Our Lady of Meritxell Day",
+				"day": "8 September",
+				"original_year": "1278"
+			}
+		],
+		"constitution": {
+			"history": "drafted 1991, approved by referendum 14 March 1993, effective 28 April 1993",
+			"amendments": "proposed by the coprinces jointly or by the General Council; passage requires at least a two-thirds majority vote by the General Council, ratification in a referendum, and sanctioning by the coprinces"
+		},
+		"legal_system": "mixed legal system of civil and customary law with the influence of canon (religious) law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the mother must be an Andorran citizen or the father must have been born in Andorra and both parents maintain permanent residence in Andorra",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "25 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Co-prince Emmanuel MACRON (since 14 May 2017); represented by Patrick STROZDA (since 14 May 2017); and Co-prince Archbishop Joan-Enric VIVES i Sicilia (since 12 May 2003); represented by Josep Maria MAURI (since 20 July 2012)",
+			"head_of_government": "Head of Government (or Cap de Govern) Xaviar Espot ZAMORA (since 16 May 2019)",
+			"cabinet": "Executive Council of 12 ministers designated by the head of government",
+			"elections_appointments": "head of government indirectly elected by the General Council (Andorran parliament), formally appointed by the coprinces for a 4-year term; election last held on 7 April 2019 (next to be held in April 2023); the leader of the majority party in the General Council is usually elected head of government",
+			"election_results": "Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%"
+		},
+		"legislative_branch": {
+			"description": "unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in multi-seat constituencies (parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list",
+			"elections": "last held on 7 April 2019 (next to be held on April 2023)",
+			"election_results": "percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 14, women 14, percent of women 50%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)",
+			"judge_selection_and_term_of_office": "Supreme Court president and judges appointed by the Supreme Council of Justice, a 5-member judicial policy and administrative body appointed 1 each by the coprinces, 1 by the General Council, 1 by the executive council president, and 1 by the courts; judges serve 6-year renewable terms; Constitutional magistrates - 2 appointed by the coprinces and 2 by the General Council; magistrates' appointments limited to 2 consecutive 8-year terms",
+			"subordinate_courts": "Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democrats for Andorra",
+					"name_alternative": "DA",
+					"leaders": [
+						"Xaviar ESPOT ZAMORA"
+					]
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Vicenc ALFY FERRER"
+					]
+				},
+				{
+					"name": "Liberals of Andorra",
+					"name_alternative": "L'A",
+					"leaders": [
+						"Jordi GALLARDO FERNANDEZ"
+					]
+				},
+				{
+					"name": "Third Way/Lauredian Union",
+					"leaders": [
+						"Josep PINTAT FORNE"
+					]
+				},
+				{
+					"name": "Social Democracy and Progress",
+					"name_alternative": "SDP",
+					"leaders": [
+						"Victor NAUDI ZAMORA"
+					]
+				},
+				{
+					"name": "United for the Progress of Andorra",
+					"name_alternative": "UPA",
+					"leaders": [
+						"Alfons CLAVERA ARIZTI"
+					]
+				}
+			],
+			"note": "Andorra has several smaller parties at the parish level (one is Lauredian Union)"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Elisenda VIVES BALMANA (since 2 March 2016)",
+				"chancery": "2 United Nations Plaza, 27th Floor, New York, NY 10017",
+				"telephone": "[1] (212) 750-8064",
+				"fax": "[1] (212) 750-6630"
+			}
+		},
+		"flag_description": {
+			"description": "three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection",
+			"note": "similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "red cow ",
+					"note": "breed unspecified"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"El Gran Carlemany\" (The Great Charlemagne)",
+			"lyrics_music": "Joan BENLLOCH i VIVO/Enric MARFANY BONS",
+			"note": "adopted 1921; the anthem provides a brief history of Andorra in a first person narrative"
+		}
+	},
+	"economy": {
+		"overview": "Andorra has a developed economy and a free market, with per capita income above the European average and above the level of its neighbors, Spain and France. The country has developed a sophisticated infrastructure including a one-of-a-kind micro-fiber-optic network for the entire country. Tourism, retail sales, and finance comprise more than three-quarters of GDP. Duty-free shopping for some products and the country’s summer and winter resorts attract millions of visitors annually. Andorra uses the euro and is effectively subject to the monetary policy of the European Central Bank. Andorra's comparative advantage as a tax haven eroded when the borders of neighboring France and Spain opened and the government eased bank secrecy laws under pressure from the EU and OECD.\nAgricultural production is limited - only about 5% of the land is arable - and most food has to be imported, making the economy vulnerable to changes in fuel and food prices. The principal livestock is sheep. Manufacturing output and exports consist mainly of perfumes and cosmetic products, products of the printing industry, electrical machinery and equipment, clothing, tobacco products, and furniture. Andorra is a member of the EU Customs Union and is treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products.\nTo provide incentives for growth and diversification in the economy, the Andorran government began sweeping economic reforms in 2006. The Parliament approved three laws to complement the first phase of economic openness: on companies (October 2007), on business accounting (December 2007), and on foreign investment (April 2008 and June 2012). From 2011 to 2015, the Parliament also approved direct taxes in the form of taxes on corporations, on individual incomes of residents and non-residents, and on capital gains, savings, and economic activities. These regulations aim to establish a transparent, modern, and internationally comparable regulatory framework, in order to attract foreign investment and businesses that offer higher value added.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3327000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 3363000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 3273000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 186,
+				"note": "data are in 2012 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2712000000,
+				"date": "2016"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -1.1,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 1.4,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": -0.1,
+						"units": "%",
+						"date": "2013"
+					}
+				],
+				"global_rank": 200
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 49900,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 51300,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 50300,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 32
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 11.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 33.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 54.5,
+							"units": "%"
+						}
+					},
+					"date": "2015"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"rye",
+				"wheat",
+				"barley",
+				"oats",
+				"vegetables",
+				"tobacco",
+				"sheep",
+				"cattle"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism particularly skiing",
+				"banking",
+				"timber",
+				"furniture"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 39750,
+				"global_rank": 196,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.5,
+						"units": "%"
+					},
+					"industry": {
+						"value": 4.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 95.1,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.7,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": 4.1,
+					"units": "%",
+					"date": "2015"
+				}
+			],
+			"global_rank": 52
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 1872000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2060000000,
+				"units": "USD"
+			},
+			"date": "2016"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 69,
+			"global_rank": 5,
+			"date": "2016"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -6.9,
+			"global_rank": 192,
+			"date": "2016"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 41,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				},
+				{
+					"value": 41.4,
+					"units": "percent_of_gdp",
+					"date": "2013"
+				}
+			],
+			"global_rank": 122
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.9,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": -0.1,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 1
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 78710000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 79570000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 200
+			},
+			"commodities": {
+				"by_commodity": [
+					"tobacco products",
+					"furniture"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1257000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 1264000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 178
+			},
+			"commodities": {
+				"by_commodity": [
+					"consumer goods",
+					"food",
+					"fuel",
+					"electricity"
+				]
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 203
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 99480000,
+				"global_rank": 201,
+				"date": "2015"
+			},
+			"consumption": {
+				"kWh": 221600000,
+				"global_rank": 190,
+				"date": "2015"
+			},
+			"exports": {
+				"kWh": 6000,
+				"global_rank": 95,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 471300000,
+				"global_rank": 81,
+				"date": "2015"
+			},
+			"installed_generating_capacity": {
+				"kW": 520000,
+				"global_rank": 147,
+				"date": "2010"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 61,
+					"global_rank": 126,
+					"date": "2010"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 36,
+					"date": "2016"
+				},
+				"hydroelectric_plants": {
+					"percent": 23,
+					"global_rank": 82,
+					"date": "2010"
+				},
+				"other_renewable_sources": {
+					"percent": 15,
+					"global_rank": 56,
+					"date": "2010"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 103,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 84,
+				"date": "2016"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 87,
+				"date": "2016"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 101,
+				"date": "2016"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 112,
+				"date": "2016"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 98,
+				"date": "2016"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 118,
+				"date": "2016"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 60,
+				"date": "2016"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 85,
+				"date": "2016"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 104,
+				"date": "2016"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 44050,
+				"subscriptions_per_one_hundred_inhabitants": 51.41,
+				"global_rank": 160,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 97645,
+				"subscriptions_per_one_hundred_inhabitants": 113.96,
+				"global_rank": 193,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 public TV station and 2 public radio stations; about 10 commercial radio stations; good reception of radio and TV broadcasts from stations in France and Spain; upgraded to terrestrial digital TV broadcasting in 2007; roughly 25 international TV channels available (2019)",
+		"internet": {
+			"country_code": ".ad",
+			"users": {
+				"total": 78483,
+				"percent_of_population": 91.57,
+				"global_rank": 182,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "C3",
+				"date": "2016"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 320,
+				"units": "km"
+			},
+			"global_rank": 201,
+			"date": "2019"
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France and Spain"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

@@ -1,0 +1,1847 @@
+{
+	"name": "Sudan",
+	"introduction": {
+		"background": "The region along the Nile River south of Egypt has long been referred to as Nubia. It was the site of the Kingdom of Kerma, which flourished for about a millennium (ca. 2500-1500 B.C.) until absorbed into the New Kingdom of Egypt. By the 11th century B.C., a Kingdom of Kush emerged and regained the region's independence from Egypt; it lasted in various forms until the middle of the fourth century A.D. After the fall of Kush, the Nubians formed three Christian kingdoms of Nobatia, Makuria, and Alodia, the latter two endured until around 1500. Between the 14th and 15th centuries much of Sudan was settled by Arab nomads, and between the 16th–19th centuries it underwent extensive Islamization. Egyptian occupation early in the 19th century was overthrown by a native Mahdist Sudan state (1885-99) that was crushed by the British who then set up an Anglo-Egyptian Sudan - nominally a condominium, but in effect a British colony.\nFollowing independence from Anglo-Egyptian co-rule in 1956, military regimes favoring Islamic-oriented governments have dominated national politics. Sudan was embroiled in two prolonged civil wars during most of the remainder of the 20th century. These conflicts were rooted in northern economic, political, and social domination of largely non-Muslim, non-Arab southern Sudanese. The first civil war ended in 1972 but another broke out in 1983. Peace talks gained momentum in 2002-04 with the signing of several accords. The final North/South Comprehensive Peace Agreement (CPA), signed in January 2005, granted the southern rebels autonomy for six years followed by a referendum on independence for Southern Sudan. The referendum was held in January 2011 and indicated overwhelming support for independence. South Sudan became independent on 9 July 2011. Sudan and South Sudan have yet to fully implement security and economic agreements signed in September 2012 relating to the normalization of relations between the two countries. The final disposition of the contested Abyei region has also to be decided. The 30-year reign of President Umar Hassan Ahmad al-BASHIR ended in his ouster in April 2019, and a Sovereignty Council, a joint civilian-military-executive body, holds power as of November 2019.\nFollowing South Sudan's independence, conflict broke out between the government and the Sudan People's Liberation Movement-North in Southern Kordofan and Blue Nile states (together known as the Two Areas), resulting in a humanitarian crisis affecting more than a million people. A earlier conflict that broke out in the western region of Darfur in 2003, displaced nearly 2 million people and caused thousands of deaths.  While some repatriation has taken place, about 1.83 million IDPs remain in Sudan as of May 2019. Fighting in both the Two Areas and Darfur between government forces and opposition has largely subsided, however the civilian populations are affected by low-level violence including inter-tribal conflict and banditry, largely a result of weak rule of law. The UN and the African Union have jointly commanded a Darfur peacekeeping operation (UNAMID) since 2007, but are slowly drawing down as the situation in Darfur becomes more stable. Sudan also has faced refugee influxes from neighboring countries, primarily Ethiopia, Eritrea, Chad, Central African Republic, and South Sudan. Armed conflict, poor transport infrastructure, and denial of access by both the government and armed opposition have impeded the provision of humanitarian assistance to affected populations. However, Sudan's new transitional government has stated its priority to allow greater humanitarian access, as the food security and humanitarian situation in Sudan worsens and as it appeals to the West for greater engagement."
+	},
+	"geography": {
+		"location": "north-eastern Africa, bordering the Red Sea, between Egypt and Eritrea",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 30,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1861484,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1731671,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 129813,
+				"units": "sq km"
+			},
+			"global_rank": 17,
+			"comparative": "slightly less than one-fifth the size of the US"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 6819,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Central African Republic",
+					"border_length": {
+						"value": 174,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Chad",
+					"border_length": {
+						"value": 1403,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Egypt",
+					"border_length": {
+						"value": 1276,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Eritrea",
+					"border_length": {
+						"value": 682,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ethiopia",
+					"border_length": {
+						"value": 744,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Libya",
+					"border_length": {
+						"value": 382,
+						"units": "km"
+					}
+				},
+				{
+					"country": "South Sudan",
+					"border_length": {
+						"value": 2158,
+						"units": "km"
+					}
+				}
+			],
+			"note": "Sudan-South Sudan boundary represents 1 January 1956 alignment; final alignment pending negotiations and demarcation; final sovereignty status of Abyei region pending negotiations between Sudan and South Sudan"
+		},
+		"coastline": {
+			"value": 853,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 18,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "hot and dry; arid desert; rainy season varies by region (April to November)",
+		"terrain": "generally flat, featureless plain; desert dominates the north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 568,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Red Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Jabal Marrah",
+				"elevation": {
+					"value": 3042,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"iron ore",
+				"copper",
+				"chromium ore",
+				"zinc",
+				"tungsten",
+				"mica",
+				"silver",
+				"gold",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 100,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 15.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 84.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 0,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 18900,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and througout South Darfur as shown on this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "dust storms and periodic persistent droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution",
+				"inadequate supplies of potable water",
+				"water scarcity and periodic drought",
+				"wildlife populations threatened by excessive hunting",
+				"soil erosion",
+				"desertification",
+				"deforestation",
+				"loss of biodiversity"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 45561556,
+			"global_rank": 31,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Sudanese (singular and plural)",
+			"adjective": "Sudanese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "unspecified Sudanese Arab",
+					"breakdown": [
+						{
+							"name": "approximately",
+							"percent": 70
+						}
+					]
+				},
+				{
+					"name": "Fur"
+				},
+				{
+					"name": "Beja"
+				},
+				{
+					"name": "Nuba"
+				},
+				{
+					"name": "Fallata"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Nubian"
+				},
+				{
+					"name": "Ta Bedawie"
+				},
+				{
+					"name": "Fur"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Sunni Muslim"
+				},
+				{
+					"name": "small Christian minority"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 42.01,
+				"males": 9726937,
+				"females": 9414988
+			},
+			"15_to_24": {
+				"percent": 20.94,
+				"males": 4852903,
+				"females": 4687664
+			},
+			"25_to_54": {
+				"percent": 29.89,
+				"males": 6633567,
+				"females": 6986241
+			},
+			"55_to_64": {
+				"percent": 4.13,
+				"males": 956633,
+				"females": 923688
+			},
+			"65_and_over": {
+				"percent": 3.03,
+				"males": 729214,
+				"females": 649721
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 76.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 70.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 15.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 18.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 18.5,
+				"units": "years"
+			},
+			"global_rank": 212,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.69,
+			"global_rank": 17,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 33.8,
+			"global_rank": 23,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.5,
+			"global_rank": 144,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.4,
+			"global_rank": 125,
+			"date": "2020"
+		},
+		"population_distribution": "with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and througout South Darfur as shown on this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 35.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.17,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Khartoum",
+					"population": 5829000,
+					"is_capital": true
+				},
+				{
+					"place": "Nyala",
+					"population": 923000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.95,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.12,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 295,
+			"global_rank": 38,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 41.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 46.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 36.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 35,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 66.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 64.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 68.8,
+				"units": "years"
+			},
+			"global_rank": 186,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.72,
+			"global_rank": 19,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 12.2,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.26,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.7,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 99,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 80.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 87,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 19.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 13,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 72.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 30.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 44.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 27.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 69.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 55.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 110,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 46000,
+				"global_rank": 64,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 2300,
+				"global_rank": 44,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever",
+				"Rift Valley fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.6,
+			"global_rank": 166,
+			"date": "2014"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 33.1,
+			"global_rank": 5,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.2,
+			"global_rank": 166,
+			"date": "2009"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 60.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 65.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 56.1,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 8,
+				"units": "years"
+			},
+			"male": {
+				"value": 8,
+				"units": "years"
+			},
+			"female": {
+				"value": 7,
+				"units": "years"
+			},
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of the Sudan",
+			"conventional_short_form": "Sudan",
+			"local_long_form": "Jumhuriyat as-Sudan",
+			"local_short_form": "As-Sudan",
+			"former": "Anglo-Egyptian Sudan, Democratic Republic of the Sudan",
+			"etymology": "the name \"Sudan\" derives from the Arabic \"bilad-as-sudan\" meaning \"Land of the Black [peoples]\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Khartoum",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 15,
+					"minutes": 36,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 32,
+					"minutes": 32,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "several explanations of the name exist; two of the more plausible are that it is derived from Arabic \"al-jartum\" meaning \"elephant's trunk\" or \"hose,\" and likely referring to the narrow strip of land extending between the Blue and White Niles; alternatively, the name could derive from the Dinka words \"khar-tuom,\" indicating a \"place where rivers meet\""
+		},
+		"independence": {
+			"date": "1956-01-01",
+			"note": "from Egypt and the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "1 January",
+				"original_year": "1956"
+			}
+		],
+		"constitution": {
+			"history": "previous 1973, 1998; 2005 (interim constitution, which was suspended in April 2019); latest initial draft completed by Transitional Military Council in May 2019; revised draft known as the \"Draft Constitutional Charter for the 2019 Transitional Period,\" was signed by the Council and opposition coalition on 4 August 2019",
+			"amendments": "NA"
+		},
+		"legal_system": "mixed legal system of Islamic law and English common law; note - in mid-July 2020, Sudan amended 15 provisions of its 1991 penal code",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"withdrew acceptance of ICCt jurisdiction in 2008"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Sudan",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 17,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "president (vacant); note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal as the \"Sovereignty Council,\" chaired by  General Abd-al-Fatah al-BURHAN Abd-al-Rahman and consisting of 6 civilians and 5 generals; the Council is currently led by the military but is intended to transition to civilian leadership in May 2021 until elections can be held; General BURHAN serves as both chief of state and head of government",
+			"head_of_government": "president (vacant); note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal as the \"Sovereignty Council,\" chaired by  General Abd-al-Fatah al-BURHAN Abd-al-Rahman and consisting of 6 civilians and 5 generals; the Council is currently led by the military but is intended to transition to civilian leadership in May 2021 until elections can be held (Abd-al-Rahman)",
+			"cabinet": "Council of Ministers appointed by the prime minister (2019)",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed; last held on 13-16 April 2015 (next to be held in 2022 at the end of the transitional period); prime minister typically appointed by the president; note - the position of prime minister was reinstated in December 2016 as a result of the 2015-16 national dialogue process, and President al-BASHIR appointed BAKRI Hassan Salih to the position on 2 March 2017; on 21 August 2019, the Forces for Freedom and Change, the civilian opposition alliance, named Abdallah HANDOUK as prime minister of Sudan for the transitional period",
+			"election_results": "Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9%"
+		},
+		"legislative_branch": {
+			"description": "according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held in 2022; as of early December 2019, the TLC had not been established",
+			"elections": "Council of State - last held 1 June 2015\nNational Assembly - last held on 13-15 April 2015\nnote - elections for an as yet defined new legislature to be held in 2022 at the expiry of the Transnational Legislative Council",
+			"election_results": "Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2%\nNational Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31%"
+		},
+		"judicial_branch": {
+			"highest_courts": "National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary",
+			"judge_selection_and_term_of_office": "National Supreme Court and Constitutional Court judges selected by the Supreme Judicial Council, which replaced the National Judicial Service Commission upon enactment of the Draft Constitutional Charter for the 2019 Transitional Period",
+			"subordinate_courts": "Court of Appeal; other national courts; public courts; district, town, and rural courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Unionist Party",
+					"name_alternative": "DUP",
+					"leaders": [
+						"Jalal al-DIGAIR"
+					]
+				},
+				{
+					"name": "Democratic Unionist Party",
+					"leaders": [
+						"Muhammad Uthman al-MIRGHANI"
+					]
+				},
+				{
+					"name": "Federal Umma Party",
+					"leaders": [
+						"Dr. Ahmed Babikir NAHAR"
+					]
+				},
+				{
+					"name": "Muslim Brotherhood",
+					"name_alternative": "MB"
+				},
+				{
+					"name": "National Congress Party",
+					"name_alternative": "NCP",
+					"note": "in November 2019, Sudan's transitional government approved a law to \"dismantle\" the regime of former President Omar al-Bashir, including the dissolution of his political party, the NCP"
+				},
+				{
+					"name": "National Umma Party",
+					"name_alternative": "NUP",
+					"leaders": [
+						"Saddiq al-MAHDI"
+					]
+				},
+				{
+					"name": "Popular Congress Party",
+					"name_alternative": "PCP",
+					"leaders": [
+						"Hassan al-TURABI"
+					]
+				},
+				{
+					"name": "Reform Movement NowSudan National Front [Ali Mahmud HASANAYN]",
+					"leaders": [
+						"Dr. Ghazi Salahuddin al-ATABANI"
+					]
+				},
+				{
+					"name": "Sudanese Communist Party",
+					"name_alternative": "SCP",
+					"leaders": [
+						"Mohammed Moktar Al-KHATEEB"
+					]
+				},
+				{
+					"name": "Sudanese Congress Party",
+					"name_alternative": "SCoP",
+					"leaders": [
+						"Ibrahim Al-SHEIKH"
+					]
+				},
+				{
+					"name": "Umma Party for Reform and Development"
+				},
+				{
+					"name": "Unionist Movement Party",
+					"name_alternative": "UMP"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Nureldin Mohamed Hamed SATTI (since 17 September 2020)",
+				"chancery": "2210 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 338-8565",
+				"fax": "[1] (202) 667-2406"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Brian SHUKAN (since September 2019)",
+				"telephone": "[249] 18702-2000",
+				"embassy": "Kilo 10, Soba, Khartoum",
+				"mailing_address": "P.O. Box 699, Kilo 10, Soba, Khartoum; APO AE 09829",
+				"fax": "[249] 18702-2547"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "secretary bird"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nahnu Djundulla Djundulwatan\" (We Are the Army of God and of Our Land)",
+			"lyrics_music": "Sayed Ahmad Muhammad SALIH/Ahmad MURJAN",
+			"note": "adopted 1956; originally served as the anthem of the Sudanese military",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SU.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Sudan has experienced protracted social conflict and the loss of three quarters of its oil production due to the secession of South Sudan. The oil sector had driven much of Sudan's GDP growth since 1999. For nearly a decade, the economy boomed on the back of rising oil production, high oil prices, and significant inflows of foreign direct investment. Since the economic shock of South Sudan's secession, Sudan has struggled to stabilize its economy and make up for the loss of foreign exchange earnings. The interruption of oil production in South Sudan in 2012 for over a year and the consequent loss of oil transit fees further exacerbated the fragile state of Sudan’s economy. Ongoing conflicts in Southern Kordofan, Darfur, and the Blue Nile states, lack of basic infrastructure in large areas, and reliance by much of the population on subsistence agriculture, keep close to half of the population at or below the poverty line.\nSudan was subject to comprehensive US sanctions, which were lifted in October 2017. Sudan is attempting to develop non-oil sources of revenues, such as gold mining and agriculture, while carrying out an austerity program to reduce expenditures. The world’s largest exporter of gum Arabic, Sudan produces 75-80% of the world’s total output. Agriculture continues to employ 80% of the work force.\nSudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017. (2017)",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 177400000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 174900000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 169800000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 71,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 45820000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.3,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 160
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 4300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 4400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 174,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 77.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 5.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 18.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.6,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 9.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -11.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 39.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 2.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 57.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 12.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 13.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 12.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 149
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"groundnuts",
+				"peanuts",
+				"sorghum",
+				"millet",
+				"wheat",
+				"gum Arabic",
+				"sugarcane",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"mangoes",
+				"papaya",
+				"bananas",
+				"sweet potatoes",
+				"sesame seeds",
+				"animal feed",
+				"sheep",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"oil",
+				"cotton ginning",
+				"textiles",
+				"cement",
+				"edible oils",
+				"sugar",
+				"soap distilling",
+				"shoes",
+				"petroleum refining",
+				"pharmaceuticals",
+				"armaments",
+				"automobile/light truck assembly",
+				"milling"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.5,
+			"global_rank": 66,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 11920000,
+				"global_rank": 46,
+				"date": "2007"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 80,
+						"units": "%"
+					},
+					"industry": {
+						"value": 7,
+						"units": "%"
+					},
+					"services": {
+						"value": 13,
+						"units": "%"
+					}
+				},
+				"date": "1998"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 19.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 20.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 187
+		},
+		"population_below_poverty_line": {
+			"value": 46.5,
+			"units": "%",
+			"date": "2009"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 26.7,
+				"units": "%"
+			},
+			"date": "2009"
+		},
+		"budget": {
+			"revenues": {
+				"value": 8480000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 13360000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 18.5,
+			"global_rank": 159,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -10.6,
+			"global_rank": 213,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 121.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 99.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 10
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 32.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 17.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 223
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -4811000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -4213000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 183
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4099999999.9999995,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3094000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 116
+			},
+			"commodities": {
+				"by_commodity": [
+					"gold",
+					"oil",
+					"petroleum products",
+					"cotton",
+					"sesame",
+					"livestock",
+					"peanuts",
+					"gum Arabic",
+					"sugar"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UAE",
+						"percent": 55.5
+					},
+					{
+						"name": "Egypt",
+						"percent": 14.7
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 8.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 8220000000.000001,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7480000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 109
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"manufactured goods",
+					"refinery",
+					"transport equipment",
+					"medicines",
+					"chemicals",
+					"textiles",
+					"wheat"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UAE",
+						"percent": 12.7
+					},
+					{
+						"name": "Egypt",
+						"percent": 10.6
+					},
+					{
+						"name": "India",
+						"percent": 10.5
+					},
+					{
+						"name": "Turkey",
+						"percent": 10.2
+					},
+					{
+						"name": "Japan",
+						"percent": 7.6
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 6
+					},
+					{
+						"name": "Germany",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 198000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 168300000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 177
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 56050000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 51260000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 62
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 6.72,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 6.14,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 6.14,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 6.03,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 5.74,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Sudanese pounds (SDG) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 23000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 47,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 71,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 35,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 13990000000,
+				"global_rank": 89,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 12120000000,
+				"global_rank": 88,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 203,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 205,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 3437000,
+				"global_rank": 96,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 44,
+					"global_rank": 162,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 188,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 51,
+					"global_rank": 39,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 6,
+					"global_rank": 104,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 95000,
+				"global_rank": 43,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 19540,
+				"global_rank": 50,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 9440,
+				"global_rank": 73,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 5000000000,
+				"global_rank": 22,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 94830,
+				"global_rank": 68,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 112000,
+				"global_rank": 75,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 8541,
+				"global_rank": 85,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 24340,
+				"global_rank": 108,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 201,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 202,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 190,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 193,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 84950000000,
+				"global_rank": 55,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 16030000.000000002,
+			"global_rank": 92,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 141922,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 127,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 34198859,
+				"subscriptions_per_one_hundred_inhabitants": 77.11,
+				"global_rank": 44,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the Sudanese Government directly controls TV and radio, requiring that both media reflect government policies; TV has a permanent military censor; a private radio station is in operation (2019)",
+		"internet": {
+			"country_code": ".sd",
+			"users": {
+				"total": 13311404,
+				"percent_of_population": 30.87,
+				"global_rank": 47,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 9,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 42,
+				"annual_passenger_traffic_on_registered_air_carriers": 269958,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "ST",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 67,
+					"global_rank": 74,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 17,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 11,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2020"
+				},
+				"unpaved": {
+					"total": 50,
+					"1524_to_2437_metres": 17,
+					"914_to_1523_metres": 24,
+					"under_914_metres": 9,
+					"date": "2020"
+				}
+			},
+			"heliports": {
+				"total": 7,
+				"date": "2020"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 156,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 4070,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 1613,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 7251,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 5851,
+				"units": "km\n1.067-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 31,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 31000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 8000,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 23000,
+				"units": "km"
+			},
+			"urban": {
+				"value": 1000,
+				"units": "km"
+			},
+			"global_rank": 98,
+			"date": "2019"
+		},
+		"waterways": {
+			"value": 4068,
+			"units": "km",
+			"note": "1,723 km open year-round on White and Blue Nile Rivers",
+			"global_rank": 24,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 17,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 17
+				}
+			],
+			"global_rank": 146,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Port Sudan"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 3.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 76
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-33 years of age for male and female compulsory or voluntary military service; 1-2 year service obligation",
+			"date": "2013"
+		},
+		"note": "United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 4,000 personnel deployed as of January 2020\nin addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) has operated in the war-torn Darfur region since 2007; UNAMID is a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continue; as of March 2020, UNAMID had about 6,500 personnel deployed (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states",
+			"Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence",
+			"as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan",
+			"Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan",
+			"Sudan accuses South Sudan of supporting Sudanese rebel groups",
+			"Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary",
+			"periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic",
+			"South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation",
+			"final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 729557,
+						"country_of_origin": "South Sudan",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 122227,
+						"country_of_origin": "Eritrea",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 93498,
+						"country_of_origin": "Syria",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 26523,
+						"country_of_origin": "Central African Republic"
+					},
+					{
+						"people": 13130,
+						"country_of_origin": "Ethiopia",
+						"note": "refugees and asylum seekers"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 2134000,
+				"note": "civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes",
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Sudan is a source, transit, and destination country for men, women, and children who are subjected to forced labor and sex trafficking; Sudanese women and girls, particularly those from rural areas or who are internally displaced, or refugees are vulnerable to domestic servitude in country, as well as domestic servitude and sex trafficking abroad; migrants from East and West Africa, South Sudan, Syria, and Nigeria smuggled into or through Sudan are vulnerable to exploitation; Ethiopian, Eritrean, and Filipino women are subjected to domestic servitude in Sudanese homes, and East African and possibly Thai women are forced into prostitution in Sudan; Sudanese children continue to be recruited and used as combatants by government forces and armed groups",
+			"tier_rating": "Tier 2 Watch List - Sudan does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government increased its efforts to publically address and prevent trafficking, established a national anti-trafficking council, and began drafting a national action plan against trafficking; the government acknowledges cross-border trafficking but still denies the existence of forced labor, sex trafficking, and the recruitment of child soldiers domestically; law enforcement and judicial officials struggled to apply the national anti-trafficking law, often relying on other statutes with lesser penalties; authorities did not use systematic procedure to identify victims or refer them to care and relied on international organizations and domestic groups to provide protective services; some foreign victims were penalized for unlawful acts committed as a direct result of being trafficked, such as immigration or prostitution violations (2015)"
+		}
+	}
+}

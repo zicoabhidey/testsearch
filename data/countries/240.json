@@ -1,0 +1,2368 @@
+{
+	"name": "Uganda",
+	"introduction": {
+		"background": "British influence in Uganda began in the 1860s with explorers seeking the source of the Nile and expanded in subsequent decades with various trade agreements and the establishment of the Uganda Protectorate in 1894. The colonial boundaries created by Britain to delimit Uganda grouped together a wide range of ethnic groups with different political systems and cultures. These differences complicated the establishment of a working political community after independence was achieved in 1962. The dictatorial regime of Idi AMIN (1971-79) was responsible for the deaths of some 300,000 opponents; guerrilla war and human rights abuses under Milton OBOTE (1980-85) claimed at least another 100,000 lives. The rule of Yoweri MUSEVENI since 1986 has brought relative stability and economic growth to Uganda. In December 2017, parliament approved the removal of presidential age limits, thereby making it possible for MUSEVENI to continue standing for office. Uganda faces numerous challenges, however, that could affect future stability, including explosive population growth, power and infrastructure constraints, corruption, underdeveloped democratic institutions, and human rights deficits."
+	},
+	"geography": {
+		"location": "East-Central Africa, west of Kenya, east of the Democratic Republic of the Congo",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 1,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 32,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 241038,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 197100,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 43938,
+				"units": "sq km"
+			},
+			"global_rank": 82,
+			"comparative": "slightly more than two times the size of Pennsylvania; slightly smaller than Oregon"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2729,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Democratic Republic of the Congo",
+					"border_length": {
+						"value": 877,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kenya",
+					"border_length": {
+						"value": 814,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Rwanda",
+					"border_length": {
+						"value": 172,
+						"units": "km"
+					}
+				},
+				{
+					"country": "South Sudan",
+					"border_length": {
+						"value": 475,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Tanzania",
+					"border_length": {
+						"value": 391,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "tropical; generally rainy with two dry seasons (December to February, June to August); semiarid in northeast",
+		"terrain": "mostly plateau with rim of mountains",
+		"elevation": {
+			"lowest_point": {
+				"name": "Albert Nile",
+				"elevation": {
+					"value": 614,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Margherita Peak on Mount Stanley",
+				"elevation": {
+					"value": 5110,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"copper",
+				"cobalt",
+				"hydropower",
+				"limestone",
+				"salt",
+				"arable land",
+				"gold"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 71.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 34.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 11.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 25.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 14.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 14.3,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 140,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "floods",
+				"type": "hazard"
+			},
+			{
+				"description": "earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "hailstorms",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"draining of wetlands for agricultural use",
+				"deforestation",
+				"overgrazing",
+				"soil erosion",
+				"water pollution from industrial discharge and water hyacinth infestation in Lake Victoria",
+				"widespread poaching"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Environmental Modification"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 43252966,
+			"global_rank": 34,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Ugandan(s)",
+			"adjective": "Ugandan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Baganda",
+					"percent": 16.5
+				},
+				{
+					"name": "Banyankole",
+					"percent": 9.6
+				},
+				{
+					"name": "Basoga",
+					"percent": 8.8
+				},
+				{
+					"name": "Bakiga",
+					"percent": 7.1
+				},
+				{
+					"name": "Iteso",
+					"percent": 7
+				},
+				{
+					"name": "Langi",
+					"percent": 6.3
+				},
+				{
+					"name": "Bagisu",
+					"percent": 4.9
+				},
+				{
+					"name": "Acholi",
+					"percent": 4.4
+				},
+				{
+					"name": "Lugbara",
+					"percent": 3.3
+				},
+				{
+					"name": "other",
+					"percent": 32.1
+				}
+			],
+			"date": "2014"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official language, taught in schools, used in courts of law and by most newspapers and some radio broadcasts"
+				},
+				{
+					"name": "Ganda or Luganda",
+					"note": "most widely used of the Niger-Congo languages and the language used most often in the capital"
+				},
+				{
+					"name": "other Niger-Congo languages"
+				},
+				{
+					"name": "Nilo-Saharan languages"
+				},
+				{
+					"name": "Swahili",
+					"note": "official"
+				},
+				{
+					"name": "Arabic"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 45.1,
+					"breakdown": [
+						{
+							"name": "Anglican",
+							"percent": 32
+						},
+						{
+							"name": "Pentecostal/Born Again/Evangelical",
+							"percent": 11.1
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 1.7
+						},
+						{
+							"name": "Baptist .3%"
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 39.3
+				},
+				{
+					"name": "Muslim",
+					"percent": 13.7
+				},
+				{
+					"name": "other",
+					"percent": 1.6
+				},
+				{
+					"name": "none",
+					"percent": 0.2
+				}
+			],
+			"date": "2014"
+		},
+		"demographic_profile": "Uganda has one of the youngest and most rapidly growing populations in the world; its total fertility rate is among the world’s highest at 5.8 children per woman. Except in urban areas, actual fertility exceeds women’s desired fertility by one or two children, which is indicative of the widespread unmet need for contraception, lack of government support for family planning, and a cultural preference for large families. High numbers of births, short birth intervals, and the early age of childbearing contribute to Uganda’s high maternal mortality rate. Gender inequities also make fertility reduction difficult; women on average are less-educated, participate less in paid employment, and often have little say in decisions over childbearing and their own reproductive health. However, even if the birth rate were significantly reduced, Uganda’s large pool of women entering reproductive age ensures rapid population growth for decades to come.\nUnchecked, population increase will further strain the availability of arable land and natural resources and overwhelm the country’s limited means for providing food, employment, education, health care, housing, and basic services. The country’s north and northeast lag even further behind developmentally than the rest of the country as a result of long-term conflict (the Ugandan Bush War 1981-1986 and more than 20 years of fighting between the Lord’s Resistance Army (LRA) and Ugandan Government forces), ongoing inter-communal violence, and periodic natural disasters.\nUganda has been both a source of refugees and migrants and a host country for refugees. In 1972, then President Idi AMIN, in his drive to return Uganda to Ugandans, expelled the South Asian population that composed a large share of the country’s business people and bankers. Since the 1970s, thousands of Ugandans have emigrated, mainly to southern Africa or the West, for security reasons, to escape poverty, to search for jobs, and for access to natural resources. The emigration of Ugandan doctors and nurses due to low wages is a particular concern given the country’s shortage of skilled health care workers. Africans escaping conflicts in neighboring states have found refuge in Uganda since the 1950s; the country currently struggles to host tens of thousands from the Democratic Republic of the Congo, South Sudan, and other nearby countries.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 48.21,
+				"males": 10548913,
+				"females": 10304876
+			},
+			"15_to_24": {
+				"percent": 20.25,
+				"males": 4236231,
+				"females": 4521698
+			},
+			"25_to_54": {
+				"percent": 26.24,
+				"males": 5202570,
+				"females": 6147304
+			},
+			"55_to_64": {
+				"percent": 2.91,
+				"males": 579110,
+				"females": 681052
+			},
+			"65_and_over": {
+				"percent": 2.38,
+				"males": 442159,
+				"females": 589053
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 92.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 88.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 3.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 26.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 15.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 14.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 16.5,
+				"units": "years"
+			},
+			"global_rank": 227,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 3.34,
+			"global_rank": 5,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 42.3,
+			"global_rank": 3,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.3,
+			"global_rank": 193,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3.5,
+			"global_rank": 184,
+			"date": "2020"
+		},
+		"population_distribution": "population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 25,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 5.7,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Kampala",
+					"population": 3298000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.85,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.75,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 18.9,
+			"date": "2011"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 375,
+			"global_rank": 30,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 32.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 36.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 28.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 68.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 66,
+				"units": "years"
+			},
+			"female": {
+				"value": 70.5,
+				"units": "years"
+			},
+			"global_rank": 177,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 5.54,
+			"global_rank": 7,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 41.8,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.17,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.5,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 92.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 77.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 80.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 22.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 19.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 67.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 26.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 36.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 32.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 73.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 63.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 6.1,
+				"global_rank": 11,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1500000,
+				"global_rank": 7,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 21000,
+				"global_rank": 8,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"hepatitis E",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever",
+				"Trypanosomiasis-Gambiense (African sleeping sickness)"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 5.3,
+			"global_rank": 181,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 10.4,
+			"global_rank": 62,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.6,
+			"global_rank": 157,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 76.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 82.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 70.8,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 10,
+				"units": "years"
+			},
+			"male": {
+				"value": 10,
+				"units": "years"
+			},
+			"female": {
+				"value": 10,
+				"units": "years"
+			},
+			"date": "2011"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 14.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 12.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 17.3,
+				"units": "%"
+			},
+			"global_rank": 92,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Uganda",
+			"conventional_short_form": "Uganda",
+			"etymology": "from the name \"Buganda,\" adopted by the British as the designation for their East African colony in 1894; Buganda had been a powerful East African state during the 18th and 19th centuries"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Kampala",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 0,
+					"minutes": 19,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 32,
+					"minutes": 33,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 3,
+				"note": "8 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the site of the original British settlement was referred to by its native name as Akasozi ke'Empala (\"hill of the impala\" [plural]); over time this designation was shortened to K'empala and finally Kampala"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Abim",
+				"type": ""
+			},
+			{
+				"name": "Adjumani",
+				"type": ""
+			},
+			{
+				"name": "Agago",
+				"type": ""
+			},
+			{
+				"name": "Alebtong",
+				"type": ""
+			},
+			{
+				"name": "Amolatar",
+				"type": ""
+			},
+			{
+				"name": "Amudat",
+				"type": ""
+			},
+			{
+				"name": "Amuria",
+				"type": ""
+			},
+			{
+				"name": "Amuru",
+				"type": ""
+			},
+			{
+				"name": "Apac",
+				"type": ""
+			},
+			{
+				"name": "Arua",
+				"type": ""
+			},
+			{
+				"name": "Budaka",
+				"type": ""
+			},
+			{
+				"name": "Bududa",
+				"type": ""
+			},
+			{
+				"name": "Bugiri",
+				"type": ""
+			},
+			{
+				"name": "Bugweri",
+				"type": ""
+			},
+			{
+				"name": "Buhweju",
+				"type": ""
+			},
+			{
+				"name": "Buikwe",
+				"type": ""
+			},
+			{
+				"name": "Bukedea",
+				"type": ""
+			},
+			{
+				"name": "Bukomansimbi",
+				"type": ""
+			},
+			{
+				"name": "Bukwo",
+				"type": ""
+			},
+			{
+				"name": "Bulambuli",
+				"type": ""
+			},
+			{
+				"name": "Buliisa",
+				"type": ""
+			},
+			{
+				"name": "Bundibugyo",
+				"type": ""
+			},
+			{
+				"name": "Bunyangabu",
+				"type": ""
+			},
+			{
+				"name": "Bushenyi",
+				"type": ""
+			},
+			{
+				"name": "Busia",
+				"type": ""
+			},
+			{
+				"name": "Butaleja",
+				"type": ""
+			},
+			{
+				"name": "Butambala",
+				"type": ""
+			},
+			{
+				"name": "Butebo",
+				"type": ""
+			},
+			{
+				"name": "Buvuma",
+				"type": ""
+			},
+			{
+				"name": "Buyende",
+				"type": ""
+			},
+			{
+				"name": "Dokolo",
+				"type": ""
+			},
+			{
+				"name": "Gomba",
+				"type": ""
+			},
+			{
+				"name": "Gulu",
+				"type": ""
+			},
+			{
+				"name": "Hoima",
+				"type": ""
+			},
+			{
+				"name": "Ibanda",
+				"type": ""
+			},
+			{
+				"name": "Iganga",
+				"type": ""
+			},
+			{
+				"name": "Isingiro",
+				"type": ""
+			},
+			{
+				"name": "Jinja",
+				"type": ""
+			},
+			{
+				"name": "Kaabong",
+				"type": ""
+			},
+			{
+				"name": "Kabale",
+				"type": ""
+			},
+			{
+				"name": "Kabarole",
+				"type": ""
+			},
+			{
+				"name": "Kaberamaido",
+				"type": ""
+			},
+			{
+				"name": "Kagadi",
+				"type": ""
+			},
+			{
+				"name": "Kakumiro",
+				"type": ""
+			},
+			{
+				"name": "Kalaki",
+				"type": ""
+			},
+			{
+				"name": "Kalangala",
+				"type": ""
+			},
+			{
+				"name": "Kaliro",
+				"type": ""
+			},
+			{
+				"name": "Kalungu",
+				"type": ""
+			},
+			{
+				"name": "Kampala",
+				"type": ""
+			},
+			{
+				"name": "Kamuli",
+				"type": ""
+			},
+			{
+				"name": "Kamwenge",
+				"type": ""
+			},
+			{
+				"name": "Kanungu",
+				"type": ""
+			},
+			{
+				"name": "Kapchorwa",
+				"type": ""
+			},
+			{
+				"name": "Kapelebyong",
+				"type": ""
+			},
+			{
+				"name": "Karenga",
+				"type": ""
+			},
+			{
+				"name": "Kasese",
+				"type": ""
+			},
+			{
+				"name": "Kasanda",
+				"type": ""
+			},
+			{
+				"name": "Katakwi",
+				"type": ""
+			},
+			{
+				"name": "Kayunga",
+				"type": ""
+			},
+			{
+				"name": "Kazo",
+				"type": ""
+			},
+			{
+				"name": "Kibaale",
+				"type": ""
+			},
+			{
+				"name": "Kiboga",
+				"type": ""
+			},
+			{
+				"name": "Kibuku",
+				"type": ""
+			},
+			{
+				"name": "Kikuube",
+				"type": ""
+			},
+			{
+				"name": "Kiruhura",
+				"type": ""
+			},
+			{
+				"name": "Kiryandongo",
+				"type": ""
+			},
+			{
+				"name": "Kisoro",
+				"type": ""
+			},
+			{
+				"name": "Kitagwenda",
+				"type": ""
+			},
+			{
+				"name": "Kitgum",
+				"type": ""
+			},
+			{
+				"name": "Koboko",
+				"type": ""
+			},
+			{
+				"name": "Kole",
+				"type": ""
+			},
+			{
+				"name": "Kotido",
+				"type": ""
+			},
+			{
+				"name": "Kumi",
+				"type": ""
+			},
+			{
+				"name": "Kwania",
+				"type": ""
+			},
+			{
+				"name": "Kween",
+				"type": ""
+			},
+			{
+				"name": "Kyankwanzi",
+				"type": ""
+			},
+			{
+				"name": "Kyegegwa",
+				"type": ""
+			},
+			{
+				"name": "Kyenjojo",
+				"type": ""
+			},
+			{
+				"name": "Kyotera",
+				"type": ""
+			},
+			{
+				"name": "Lamwo",
+				"type": ""
+			},
+			{
+				"name": "Lira",
+				"type": ""
+			},
+			{
+				"name": "Luuka",
+				"type": ""
+			},
+			{
+				"name": "Luwero",
+				"type": ""
+			},
+			{
+				"name": "Lwengo",
+				"type": ""
+			},
+			{
+				"name": "Lyantonde",
+				"type": ""
+			},
+			{
+				"name": "Madi-Okollo",
+				"type": ""
+			},
+			{
+				"name": "Manafwa",
+				"type": ""
+			},
+			{
+				"name": "Maracha",
+				"type": ""
+			},
+			{
+				"name": "Masaka",
+				"type": ""
+			},
+			{
+				"name": "Masindi",
+				"type": ""
+			},
+			{
+				"name": "Mayuge",
+				"type": ""
+			},
+			{
+				"name": "Mbale",
+				"type": ""
+			},
+			{
+				"name": "Mbarara",
+				"type": ""
+			},
+			{
+				"name": "Mitooma",
+				"type": ""
+			},
+			{
+				"name": "Mityana",
+				"type": ""
+			},
+			{
+				"name": "Moroto",
+				"type": ""
+			},
+			{
+				"name": "Moyo",
+				"type": ""
+			},
+			{
+				"name": "Mpigi",
+				"type": ""
+			},
+			{
+				"name": "Mubende",
+				"type": ""
+			},
+			{
+				"name": "Mukono",
+				"type": ""
+			},
+			{
+				"name": "Nabilatuk",
+				"type": ""
+			},
+			{
+				"name": "Nakapiripirit",
+				"type": ""
+			},
+			{
+				"name": "Nakaseke",
+				"type": ""
+			},
+			{
+				"name": "Nakasongola",
+				"type": ""
+			},
+			{
+				"name": "Namayingo",
+				"type": ""
+			},
+			{
+				"name": "Namisindwa",
+				"type": ""
+			},
+			{
+				"name": "Namutumba",
+				"type": ""
+			},
+			{
+				"name": "Napak",
+				"type": ""
+			},
+			{
+				"name": "Nebbi",
+				"type": ""
+			},
+			{
+				"name": "Ngora",
+				"type": ""
+			},
+			{
+				"name": "Ntoroko",
+				"type": ""
+			},
+			{
+				"name": "Ntungamo",
+				"type": ""
+			},
+			{
+				"name": "Nwoya",
+				"type": ""
+			},
+			{
+				"name": "Obongi",
+				"type": ""
+			},
+			{
+				"name": "Omoro",
+				"type": ""
+			},
+			{
+				"name": "Otuke",
+				"type": ""
+			},
+			{
+				"name": "Oyam",
+				"type": ""
+			},
+			{
+				"name": "Pader",
+				"type": ""
+			},
+			{
+				"name": "Pakwach",
+				"type": ""
+			},
+			{
+				"name": "Pallisa",
+				"type": ""
+			},
+			{
+				"name": "Rakai",
+				"type": ""
+			},
+			{
+				"name": "Rubanda",
+				"type": ""
+			},
+			{
+				"name": "Rubirizi",
+				"type": ""
+			},
+			{
+				"name": "Rukiga",
+				"type": ""
+			},
+			{
+				"name": "Rukungiri",
+				"type": ""
+			},
+			{
+				"name": "Rwampara",
+				"type": ""
+			},
+			{
+				"name": "Sembabule",
+				"type": ""
+			},
+			{
+				"name": "Serere",
+				"type": ""
+			},
+			{
+				"name": "Sheema",
+				"type": ""
+			},
+			{
+				"name": "Sironko",
+				"type": ""
+			},
+			{
+				"name": "Soroti",
+				"type": ""
+			},
+			{
+				"name": "Tororo",
+				"type": ""
+			},
+			{
+				"name": "Wakiso",
+				"type": ""
+			},
+			{
+				"name": "Yumbe",
+				"type": ""
+			},
+			{
+				"name": "Zombo",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1962-10-09",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "9 October",
+				"original_year": "1962"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 27 September 1995, promulgated 8 October 1995",
+			"amendments": "proposed by the National Assembly; passage requires at least two-thirds majority vote of the Assembly membership in the second and third readings; proposals affecting \"entrenched clauses,\" including the sovereignty of the people, supremacy of the constitution, human rights and freedoms, the democratic and multiparty form of government, presidential term of office, independence of the judiciary, and the institutions of traditional or cultural leaders, also requires passage by referendum, ratification by at least two-thirds majority vote of district council members in at least two thirds of Uganda's districts, and assent ofthe president of the republic; amended several times, last in 2017"
+		},
+		"legal_system": "mixed legal system of English common law and customary law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent or grandparent must be a native-born citizen of Uganda",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "an aggregate of 20 years and continuously for the last 2 years prior to applying for citizenship"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"head_of_government": "President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); Prime Minister Ruhakana RUGUNDA (since 19 September 2014); First Deputy Prime Minister Moses ALI (since 6 June 2016); Second Deputy Prime Minister Kirunda KIVEJINJA (since 6 June 2016)",
+			"cabinet": "Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 18 February 2016 (next scheduled to be held February 2021)",
+			"election_results": "Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%",
+			"head_of_state": "President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); note - the president is both head of state and head of government"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 \"representatives\" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)",
+			"elections": "last held on 18 February 2016 (next to be held in February 2021)",
+			"election_results": "percent of vote by party - NA; seats by party - NRM 292, FDC 37, DP 5, UPDF 10, UPC 6, independent 66 (excludes 19 ex-officio members)"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Uganda (consists of the chief justice and at least 6 justices)",
+			"judge_selection_and_term_of_office": "justices appointed by the president of the republic in consultation with the Judicial Service Commission, an 8-member independent advisory body, and approved by the National Assembly; justices serve until mandatory retirement at age 70",
+			"subordinate_courts": "Court of Appeal (also acts as the Constitutional Court); High Court (includes 12 High Court Circuits and 8 High Court Divisions); Industrial Court; Chief Magistrate Grade One and Grade Two Courts throughout the country; qadhis courts; local council courts; family and children courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for National Transformation",
+					"name_alternative": "ANT",
+					"leaders": [
+						"Ms. Alice ALASO",
+						"acting national coordinator"
+					],
+					"note": "Mugisha MUNTU resigned his position as ANT national coordinator in late June 2020 to run in the 2021 presidential election"
+				},
+				{
+					"name": "Democratic Party",
+					"name_alternative": "DP",
+					"leaders": [
+						"Norbert MAO"
+					]
+				},
+				{
+					"name": "Forum for Democratic Change",
+					"name_alternative": "FDC",
+					"leaders": [
+						"Patrick Oboi AMURIAT"
+					]
+				},
+				{
+					"name": "Justice Forum",
+					"name_alternative": "JEEMA",
+					"leaders": [
+						"Asuman BASALIRWA"
+					]
+				},
+				{
+					"name": "National Resistance Movement",
+					"name_alternative": "NRM",
+					"leaders": [
+						"Yoweri MUSEVENI"
+					]
+				},
+				{
+					"name": "Uganda People's Congress",
+					"name_alternative": "UPC",
+					"leaders": [
+						"James AKENA"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "EAC"
+			},
+			{
+				"organization": "EADB"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mull Sebujja KATENDE (since 8 September 2017)",
+				"chancery": "5911 16th Street NW, Washington, DC 20011",
+				"telephone": "[1] (202) 726-7100",
+				"fax": "[1] (202) 726-1727"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Natalie E. BROWN (since 17 November 2020)",
+				"telephone": "(256)-414-259791",
+				"embassy": "1577 Ggaba Road, Kampala",
+				"mailing_address": "P.O. Box 7007, Kampala",
+				"fax": "[256] 414-306-009"
+			}
+		},
+		"flag_description": {
+			"description": "six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "grey crowned crane"
+				}
+			],
+			"colors": [
+				{
+					"color": "black"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Oh Uganda, Land of Beauty!",
+			"lyrics_music": "George Wilberforce KAKOMOA",
+			"note": "adopted 1962"
+		}
+	},
+	"economy": {
+		"overview": "Uganda has substantial natural resources, including fertile soils, regular rainfall, substantial reserves of recoverable oil, and small deposits of copper, gold, and other minerals. Agriculture is one of the most important sectors of the economy, employing 72% of the work force. The country’s export market suffered a major slump following the outbreak of conflict in South Sudan, but has recovered lately, largely due to record coffee harvests, which account for 16% of exports, and increasing gold exports, which account for 10% of exports. Uganda has a small industrial sector that is dependent on imported inputs such as refined oil and heavy equipment. Overall, productivity is hampered by a number of supply-side constraints, including insufficient infrastructure, lack of modern technology in agriculture, and corruption.\nUganda’s economic growth has slowed since 2016 as government spending and public debt has grown. Uganda’s budget is dominated by energy and road infrastructure spending, while Uganda relies on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through concessional loans, but at inflated costs. As a result, debt servicing for these loans is expected to rise.\nOil revenues and taxes are expected to become a larger source of government funding as oil production starts in the next three to 10 years. Over the next three to five years, foreign investors are planning to invest $9 billion in production facilities projects, $4 billion in an export pipeline, as well as in a $2-3 billion refinery to produce petroleum products for the domestic and East African Community markets. Furthermore, the government is looking to build several hundred million dollars’ worth of highway projects to the oil region.\nUganda faces many economic challenges. Instability in South Sudan has led to a sharp increase in Sudanese refugees and is disrupting Uganda's main export market. Additional economic risks include: poor economic management, endemic corruption, and the government’s failure to invest adequately in the health, education, and economic opportunities for a burgeoning young population. Uganda has one of the lowest electrification rates in Africa - only 22% of Ugandans have access to electricity, dropping to 10% in rural areas.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 89190000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 85070000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 83140000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 89,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 26620000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 2.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 5.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 56
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 200,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 74.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -25.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 28.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 21.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 50.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 17.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 93
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"tea",
+				"cotton",
+				"tobacco",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"potatoes",
+				"corn",
+				"millet",
+				"pulses",
+				"cut flowers",
+				"beef",
+				"goat meat",
+				"milk",
+				"poultry",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"sugar processing",
+				"brewing",
+				"tobacco",
+				"cotton textiles",
+				"cement",
+				"steel production"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.4,
+			"global_rank": 69,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 15840000,
+				"global_rank": 34,
+				"date": "2015"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 71,
+						"units": "%"
+					},
+					"industry": {
+						"value": 7,
+						"units": "%"
+					},
+					"services": {
+						"value": 22,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 9.4,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 142
+		},
+		"population_below_poverty_line": {
+			"value": 21.4,
+			"units": "%",
+			"date": "2017"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 36.1,
+				"units": "%"
+			},
+			"date": "2009"
+		},
+		"budget": {
+			"revenues": {
+				"value": 3848000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4928000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 14.5,
+			"global_rank": 199,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.1,
+			"global_rank": 158,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 40,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 37.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 127
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 181
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1212000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -707000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 151
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3339000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2921000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 124
+			},
+			"commodities": {
+				"by_commodity": [
+					"coffee",
+					"fish",
+					"fish products",
+					"tea",
+					"cotton",
+					"flowers",
+					"horticultural products",
+					"gold"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Kenya",
+						"percent": 17.7
+					},
+					{
+						"name": "UAE",
+						"percent": 16.7
+					},
+					{
+						"name": "Democratic Republic of the Congo",
+						"percent": 6.6
+					},
+					{
+						"name": "Rwanda",
+						"percent": 6.1
+					},
+					{
+						"name": "Italy",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5036000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4424000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 127
+			},
+			"commodities": {
+				"by_commodity": [
+					"capital equipment",
+					"vehicles",
+					"petroleum",
+					"medical supplies",
+					"cereals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 17.4
+					},
+					{
+						"name": "India",
+						"percent": 13.4
+					},
+					{
+						"name": "UAE",
+						"percent": 12.2
+					},
+					{
+						"name": "Kenya",
+						"percent": 7.9
+					},
+					{
+						"name": "Japan",
+						"percent": 6.4
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 6.3
+					},
+					{
+						"name": "Indonesia",
+						"percent": 4.4
+					},
+					{
+						"name": "South Africa",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3654000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3034000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 101,
+			"note": "excludes gold"
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 10800000000,
+					"units": "USD",
+					"date": "2018-03-22"
+				},
+				{
+					"value": 11540000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 6241000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 112
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3695,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3420.1,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3420.1,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3234.1,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2599.8,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Ugandan shillings (UGX) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 32000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 29,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 66,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 17,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 3463000000,
+				"global_rank": 130,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3106000000,
+				"global_rank": 135,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 121000000,
+				"global_rank": 81,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 50000000,
+				"global_rank": 107,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1020000,
+				"global_rank": 127,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 19,
+					"global_rank": 195,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 203,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 68,
+					"global_rank": 19,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 12,
+					"global_rank": 75,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 211,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 211,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 209,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 2500000000,
+				"global_rank": 31,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 212,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 32000,
+				"global_rank": 119,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 213,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 31490,
+				"global_rank": 99,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 210,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 210,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 205,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 206,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 14160000000,
+				"global_rank": 76,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 4703000,
+			"global_rank": 135,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 184065,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 123,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 23957740,
+				"subscriptions_per_one_hundred_inhabitants": 57.27,
+				"global_rank": 51,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and TV networks; 31 Free-To-Air (FTA) TV stations, 2 digital terrestrial TV stations, 3 cable TV stations, and 5 digital satellite TV stations; 258 operational FM stations",
+		"internet": {
+			"country_code": ".ug",
+			"users": {
+				"total": 9620681,
+				"percent_of_population": 23.71,
+				"global_rank": 53,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 26,
+				"annual_passenger_traffic_on_registered_air_carriers": 21537,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5X",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 47,
+					"global_rank": 93,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 5,
+					"over_3047_metres": 3,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 42,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 8,
+					"914_to_1523_metres": 26,
+					"under_914_metres": 7,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 1244,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 1244,
+				"units": "km\n1.000-m"
+			},
+			"global_rank": 85,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 20544,
+				"units": "km",
+				"note": "excludes local roads"
+			},
+			"paved": {
+				"value": 4257,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 16287,
+				"units": "km"
+			},
+			"global_rank": 112,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 1,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				}
+			],
+			"global_rank": 181,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"lake_ports": [
+				"Entebbe",
+				"Jinja",
+				"Port Bell (Lake Victoria)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 46
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-25 years of age for voluntary military duty (must be single, no children); 9-year service obligation",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders",
+			"Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park",
+			"LRA forces have also attacked Kenyan villages across the border"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 885171,
+						"country_of_origin": "South Sudan",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 418369,
+						"country_of_origin": "Democratic Republic of the Congo",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 49082,
+						"country_of_origin": "Burundi"
+					},
+					{
+						"people": 41850,
+						"country_of_origin": "Somalia",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 17239,
+						"country_of_origin": "Rwanda",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 14865,
+						"country_of_origin": "Eritrea",
+						"note": "refugees and asylum seekers"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 32000,
+				"note": "displaced in northern Uganda because of fighting between government forces and the Lord's Resistance Army; as of 2011, most of the 1.8 million people displaced to IDP camps at the height of the conflict had returned home or resettled, but many had not found durable solutions; intercommunal violence, land disputes, and cattle raids",
+				"date": "2019"
+			}
+		}
+	}
+}

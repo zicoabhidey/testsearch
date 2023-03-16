@@ -1,0 +1,1117 @@
+{
+	"name": "Montserrat",
+	"introduction": {
+		"background": "English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. Much of this island was devastated and two-thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in 2013."
+	},
+	"geography": {
+		"location": "Caribbean, island in the Caribbean Sea, southeast of Puerto Rico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 16,
+				"minutes": 45,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 62,
+				"minutes": 12,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 102,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 102,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 226,
+			"comparative": "about 0.6 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 40,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; little daily or seasonal temperature variation",
+		"terrain": "volcanic island, mostly mountainous, with small coastal lowland",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Soufriere Hills volcano pre-eruption height was",
+				"elevation": {
+					"value": 915
+				},
+				"note": "m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1,050 m in 2015"
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"NEGL"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 30,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 20,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10,
+					"units": "%"
+				},
+				"forest": {
+					"value": 25,
+					"units": "%"
+				},
+				"other": {
+					"value": 45,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity",
+		"natural_hazards": [
+			{
+				"description": "volcanic eruptions",
+				"type": "hazard"
+			},
+			{
+				"description": "severe hurricanes (June to November)",
+				"type": "hazard"
+			},
+			{
+				"description": "Soufriere Hills volcano (915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable; the island of Montserrat is part of the volcanic island arc of the Lesser Antilles that extends from Saba in the north to Grenada in the south",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"land erosion occurs on slopes that have been cleared for cultivation"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5373,
+			"global_rank": 227,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Montserratian(s)",
+			"adjective": "Montserratian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "African/black",
+					"percent": 88.4
+				},
+				{
+					"name": "mixed",
+					"percent": 3.7
+				},
+				{
+					"name": "hispanic/Spanish",
+					"percent": 3
+				},
+				{
+					"name": "caucasian/white",
+					"percent": 2.7
+				},
+				{
+					"name": "East Indian/Indian",
+					"percent": 1.5
+				},
+				{
+					"name": "other",
+					"percent": 0.7
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 67.1,
+					"breakdown": [
+						{
+							"name": "includes Anglican",
+							"percent": 21.8
+						},
+						{
+							"name": "Methodist",
+							"percent": 17
+						},
+						{
+							"name": "Pentecostal",
+							"percent": 14.1
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 10.5
+						},
+						{
+							"name": "and Church of God",
+							"percent": 3.7
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 11.6
+				},
+				{
+					"name": "Rastafarian",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 6.5
+				},
+				{
+					"name": "none",
+					"percent": 2.6
+				},
+				{
+					"name": "unspecified",
+					"percent": 10.8
+				}
+			],
+			"date": "2001"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.02,
+				"males": 443,
+				"females": 418
+			},
+			"15_to_24": {
+				"percent": 20.55,
+				"males": 579,
+				"females": 525
+			},
+			"25_to_54": {
+				"percent": 47.09,
+				"males": 1217,
+				"females": 1313
+			},
+			"55_to_64": {
+				"percent": 9.79,
+				"males": 246,
+				"females": 280
+			},
+			"65_and_over": {
+				"percent": 6.55,
+				"males": 196,
+				"females": 156
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 34.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 34.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 35.6,
+				"units": "years"
+			},
+			"global_rank": 88,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.58,
+			"global_rank": 152,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.7,
+			"global_rank": 167,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6,
+			"global_rank": 164,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 91,
+			"date": "2020"
+		},
+		"population_distribution": "only the northern half of the island is populated, the southern portion is uninhabitable due to volcanic activity",
+		"urbanization": {
+			"urban_population": {
+				"value": 9.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.64,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.88,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.26,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 8.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 13.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 121,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 74.1,
+				"units": "years"
+			},
+			"global_rank": 118,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.36,
+			"global_rank": 220,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 99,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 99,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.1,
+			"global_rank": 59,
+			"date": "2009"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2019"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Montserrat",
+			"etymology": "island named by explorer Christopher COLUMBUS in 1493 after the Benedictine abbey Santa Maria de Montserrat, near Barcelona, Spain"
+		},
+		"government_type": "parliamentary democracy; self-governing overseas territory of the UK",
+		"capital": {
+			"name": "Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate, the de facto capital, in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 16,
+					"minutes": 42,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 62,
+					"minutes": 13,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology_and_note": "now entirely deserted because of volcanic activity, the city was originally named after Plymouth, England; de jure, Plymouth remains the capital city of Montserrat; it is therefore the only ghost town that serves as the capital of a political entity"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Saint Anthony",
+				"type": ""
+			},
+			{
+				"name": "Saint Georges",
+				"type": ""
+			},
+			{
+				"name": "Saint Peter",
+				"type": ""
+			}
+		],
+		"independence": {
+			"note": "overseas territory of the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Birthday of Queen ELIZABETH II",
+				"day": "usually celebrated the Monday after the second Saturday in June",
+				"original_year": "1926"
+			}
+		],
+		"constitution": {
+			"history": "previous 1960; latest effective 1 September 2010 (The Montserrat Constitution Order 2010)",
+			"amendments": "amended 2011"
+		},
+		"legal_system": "English common law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Andrew PEARCE (since 1 February 2018)",
+			"head_of_government": "Premier Easton TAYLOR-FARRELL (since 19 November 2019); note - effective with The Constitution Order 2010, effective October 2010, the office of premier replaced the office of chief minister",
+			"cabinet": "Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary",
+			"elections_appointments": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Assembly (11 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)",
+			"elections": "last held on 18 November 2019 (next scheduled for 2024)",
+			"election_results": "percent of vote by party - MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1"
+		},
+		"judicial_branch": {
+			"highest_courts": "the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice",
+			"judge_selection_and_term_of_office": "chief justice of Eastern Caribbean Supreme Court appointed by the Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission, and independent body of judicial officials; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62",
+			"subordinate_courts": "magistrate's court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Movement for Change and Prosperity",
+					"name_alternative": "MCAP",
+					"leaders": [
+						"Easton Taylor FARRELL"
+					]
+				},
+				{
+					"name": "People's Democratic Movement",
+					"name_alternative": "PDM",
+					"leaders": [
+						"Donaldson ROMERO"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "Interpol ",
+				"note": "subbureau"
+			},
+			{
+				"organization": "OECS"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness"
+		},
+		"national_anthem": {
+			"note": "as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MH.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops.\nProspects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat’s aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 167400000,
+						"units": "USD",
+						"date": "2011"
+					},
+					{
+						"value": 155900000,
+						"units": "USD",
+						"date": "2010"
+					},
+					{
+						"value": 162700000,
+						"units": "USD",
+						"date": "2009"
+					}
+				],
+				"global_rank": 223
+			},
+			"official_exchange_rate": {
+				"USD": 167400000,
+				"date": "2011"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.4,
+						"units": "%",
+						"date": "2011"
+					},
+					{
+						"value": -4.2,
+						"units": "%",
+						"date": "2010"
+					}
+				],
+				"global_rank": 15
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 34000,
+						"units": "USD",
+						"date": "2011"
+					},
+					{
+						"value": 31100,
+						"units": "USD",
+						"date": "2010"
+					},
+					{
+						"value": 32300,
+						"units": "USD",
+						"date": "2009"
+					}
+				],
+				"global_rank": 60
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 90.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 50.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 29.5,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -88.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 7.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 90.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"cabbages",
+				"carrots",
+				"cucumbers",
+				"tomatoes",
+				"onions",
+				"peppers",
+				"livestock products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"rum",
+				"textiles",
+				"electronic appliances"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -21,
+			"global_rank": 200,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4521,
+				"global_rank": 222,
+				"date": "2012"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 85.9,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6,
+					"units": "%",
+					"date": "1998"
+				}
+			],
+			"global_rank": 83
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 66670000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 47040000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 66
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -15400000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -12200000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 71
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4400000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5200000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 218
+			},
+			"commodities": {
+				"by_commodity": [
+					"electronic components",
+					"plastic bags",
+					"apparel",
+					"hot peppers",
+					"limes",
+					"live plants",
+					"cattle"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 29
+					},
+					{
+						"name": "France",
+						"percent": 23
+					},
+					{
+						"name": "Saint Kitts and Nevis",
+						"percent": 22.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 39440000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 36100000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 221
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transportation equipment",
+					"foodstuffs",
+					"manufactured goods",
+					"fuels",
+					"lubricants"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 72.8
+					},
+					{
+						"name": "Trinidad and Tobago",
+						"percent": 6
+					},
+					{
+						"name": "UK",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 47580000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 51470000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 187
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 8900000,
+					"units": "USD",
+					"date": "1997"
+				}
+			],
+			"global_rank": 200
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.7,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "East Caribbean dollars (XCD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 24000000,
+				"global_rank": 211,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 22320000,
+				"global_rank": 211,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 173,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 176,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 5000,
+				"global_rank": 213,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 13,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 147,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 187,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 202,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 177,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 168,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 170,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 172,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 181,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 400,
+				"global_rank": 212,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 184,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 406,
+				"global_rank": 208,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 174,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 178,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 155,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 160,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 173,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 57180,
+			"global_rank": 210,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3227,
+				"subscriptions_per_one_hundred_inhabitants": 60.4,
+				"global_rank": 211,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 5377,
+				"subscriptions_per_one_hundred_inhabitants": 100.66,
+				"global_rank": 217,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)",
+		"internet": {
+			"country_code": ".ms",
+			"users": {
+				"total": 2860,
+				"percent_of_population": 54.6,
+				"global_rank": 222,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 3,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "VP-M",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 229,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"note": "volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Little Bay",
+				"Plymouth"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"illicit_drugs": {
+			"note": "transshipment point for South American narcotics destined for the US and Europe"
+		}
+	}
+}

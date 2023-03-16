@@ -1,0 +1,1108 @@
+{
+	"name": "Liechtenstein",
+	"introduction": {
+		"background": "The Principality of Liechtenstein was established within the Holy Roman Empire in 1719. Occupied by both French and Russian troops during the Napoleonic Wars, it became a sovereign state in 1806 and joined the German Confederation in 1815. Liechtenstein became fully independent in 1866 when the Confederation dissolved. Until the end of World War I, it was closely tied to Austria, but the economic devastation caused by that conflict forced Liechtenstein to enter into a customs and monetary union with Switzerland. Since World War II (in which Liechtenstein remained neutral), the country's low taxes have spurred outstanding economic growth. In 2000, shortcomings in banking regulatory oversight resulted in concerns about the use of financial institutions for money laundering. However, Liechtenstein implemented anti-money laundering legislation and a Mutual Legal Assistance Treaty with the US that went into effect in 2003."
+	},
+	"geography": {
+		"location": "Central Europe, between Austria and Switzerland",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 47,
+				"minutes": 16,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 9,
+				"minutes": 32,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 160,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 160,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 219,
+			"comparative": "about 0.9 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 75,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Austria",
+					"border_length": {
+						"value": 34,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Switzerland",
+					"border_length": {
+						"value": 41,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "doubly landlocked"
+		},
+		"climate": "continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers",
+		"terrain": "mostly mountainous (Alps) with Rhine Valley in western third",
+		"elevation": {
+			"lowest_point": {
+				"name": "Ruggeller Riet",
+				"elevation": {
+					"value": 430,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Vorder-Grauspitz",
+				"elevation": {
+					"value": 2599,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydroelectric potential",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 37.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 18.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 18.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 43.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 19.3,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the population is found in the western half of the country along the Rhine River",
+		"natural_hazards": [
+			{
+				"description": "avalanches, landslides",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"some air pollution generated locally",
+				"some transfered from surrounding countries"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 39137,
+			"global_rank": 213,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Liechtensteiner(s)",
+			"adjective": "Liechtenstein"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Liechtensteiner",
+					"percent": 66
+				},
+				{
+					"name": "Swiss",
+					"percent": 9.6
+				},
+				{
+					"name": "Austrian",
+					"percent": 5.8
+				},
+				{
+					"name": "German",
+					"percent": 4.3
+				},
+				{
+					"name": "Italian",
+					"percent": 3.1
+				},
+				{
+					"name": "other",
+					"percent": 11.2
+				}
+			],
+			"note": "data represent population by nationality",
+			"date": "2017"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "German",
+					"percent": 91.5,
+					"note": "official; Alemannic is the main dialect"
+				},
+				{
+					"name": "Italian",
+					"percent": 1.5
+				},
+				{
+					"name": "Turkish",
+					"percent": 1.3
+				},
+				{
+					"name": "Portuguese",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 4.6
+				}
+			],
+			"date": "2015"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 73.4,
+					"note": "official"
+				},
+				{
+					"name": "Protestant Reformed",
+					"percent": 6.3
+				},
+				{
+					"name": "Muslim",
+					"percent": 5.9
+				},
+				{
+					"name": "Christian Orthodox",
+					"percent": 1.3
+				},
+				{
+					"name": "Lutheran",
+					"percent": 1.2
+				},
+				{
+					"name": "other Protestant .7%"
+				},
+				{
+					"name": "other Christian .3%"
+				},
+				{
+					"name": "other .8%"
+				},
+				{
+					"name": "none",
+					"percent": 7
+				},
+				{
+					"name": "unspecified",
+					"percent": 3.3
+				}
+			],
+			"date": "2015"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.2,
+				"males": 3259,
+				"females": 2688
+			},
+			"15_to_24": {
+				"percent": 11.29,
+				"males": 2238,
+				"females": 2181
+			},
+			"25_to_54": {
+				"percent": 40.22,
+				"males": 7869,
+				"females": 7872
+			},
+			"55_to_64": {
+				"percent": 14.41,
+				"males": 2711,
+				"females": 2930
+			},
+			"65_and_over": {
+				"percent": 18.88,
+				"males": 3403,
+				"females": 3986
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 43.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 42,
+				"units": "years"
+			},
+			"female": {
+				"value": 45.3,
+				"units": "years"
+			},
+			"global_rank": 22,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.75,
+			"global_rank": 134,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.4,
+			"global_rank": 189,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.8,
+			"global_rank": 98,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 4.9,
+			"global_rank": 24,
+			"date": "2020"
+		},
+		"population_distribution": "most of the population is found in the western half of the country along the Rhine River",
+		"urbanization": {
+			"urban_population": {
+				"value": 14.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.81,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Vaduz",
+					"population": 5000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.26,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.21,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.93,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 31.3,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 186,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 85,
+				"units": "years"
+			},
+			"global_rank": 21,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.69,
+			"global_rank": 177,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 98,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.6,
+			"global_rank": 154,
+			"date": "2011"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 15,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Principality of Liechtenstein",
+			"conventional_short_form": "Liechtenstein",
+			"local_long_form": "Fuerstentum Liechtenstein",
+			"local_short_form": "Liechtenstein",
+			"etymology": "named after the Liechtenstein dynasty that purchased and united the counties of Schellenburg and Vaduz and that was allowed by the Holy Roman Emperor in 1719 to rename the new property after their family; the name in German means \"light (bright) stone\""
+		},
+		"government_type": "constitutional monarchy",
+		"capital": {
+			"name": "Vaduz",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 47,
+					"minutes": 8,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 9,
+					"minutes": 31,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "may be a conflation from the Latin \"vallis\" (valley) and the High German \"diutisk\" (meaning \"German\") to produce \"Valdutsch\" (German valley), which over time simplified and came to refer specifically to Vaduz, the town"
+		},
+		"independence": {
+			"date": "1719-01-23",
+			"note": "Principality of Liechtenstein established; 12 July 1806 (independence from the Holy Roman Empire); 24 August 1866 (independence from the German Confederation)"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "15 August",
+				"original_year": "1940",
+				"note": "a National Day was originally established in 1940 to combine celebrations for the Feast of the Assumption  with those honoring the birthday of former Prince FRANZ JOSEF II  whose birth fell on 16 August; 15 August; 1906-1989"
+			},
+			{
+				"name": "after the prince's death",
+				"day": "National Day became the official national holiday by law in 1990"
+			}
+		],
+		"constitution": {
+			"history": "previous 1862; latest adopted 5 October 1921",
+			"amendments": "proposed by Parliament, by the reigning prince (in the form of \"Government\" proposals), by petition of at least 1,500 qualified voters, or by at least four communes; passage requires unanimous approval of Parliament members in one sitting or three-quarters majority vote in two successive sittings; referendum required only if petitioned by at least 1,500 voters or by at least four communes; passage by referendum requires absolute majority of votes cast; amended many times, last in 2018(2019)"
+		},
+		"legal_system": "civil law system influenced by Swiss, Austrian, and German law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Liechtenstein; in the case of a child born out of wedlock, the mother must be a citizen",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Prince HANS-ADAM II (since 13 November 1989, assumed executive powers on 26 August 1984); Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); note - 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but HANS-ADAM II retains status of chief of state",
+			"head_of_government": "Prime Minister Adrian HASLER (since 27 March 2013)",
+			"cabinet": "Cabinet elected by the Parliament, confirmed by the monarch",
+			"elections_appointments": "the monarchy is hereditary; following legislative elections, the leader of the majority party in the Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in the Landtag usually appointed the deputy head of government by the monarch if there is a coalition government"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by proportional representation vote to serve 4-year terms)",
+			"elections": "last held on 5 February 2017 (next to be held on 7 February 2021)",
+			"election_results": "percent of vote by party - FBP 35.2%, VU 33.7%, DU 18.4% FL 12.6%; seats by party - FBP 9, VU 8, DU 5, FL 3; composition - men 22, women 3, percent of women 12%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)",
+			"judge_selection_and_term_of_office": "judges of both courts elected by the Landtag and appointed by the monarch; Supreme Court judges serve 4-year renewable terms; Constitutional Court judges appointed for renewable 5-year terms",
+			"subordinate_courts": "Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Fatherland Union",
+					"name_alternative": "VU",
+					"leaders": [
+						"Guenther FRITZ"
+					],
+					"note": "Vaterlaendische Union"
+				},
+				{
+					"name": "Progressive Citizens' Party",
+					"name_alternative": "FBP",
+					"leaders": [
+						"Thomas BANZER"
+					],
+					"note": "Fortschrittliche Buergerpartei"
+				},
+				{
+					"name": "The Free List",
+					"name_alternative": "FL",
+					"leaders": [
+						"Pepo FRICK and Conny BUECHEL BRUEHWILER"
+					],
+					"note": "Die Freie Liste"
+				},
+				{
+					"name": "The Independents",
+					"name_alternative": "DU",
+					"leaders": [
+						"Harry QUADERER"
+					],
+					"note": "Die Unabhaengigen"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "EFTA"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Kurt JAEGER (since 16 September 2016)",
+				"chancery": "2900 K Street NW, Suite 602B, Washington, DC 20007",
+				"telephone": "[1] (202) 331-0590",
+				"fax": "[1] (202) 331-3221"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of blue (top) and red with a gold crown on the hoist side of the blue band; the colors may derive from the blue and red livery design used in the principality's household in the 18th century; the prince's crown was introduced in 1937 to distinguish the flag from that of Haiti"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "princely hat ",
+					"note": "crown"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Oben am jungen Rhein\" (High Above the Young Rhine)",
+			"lyrics_music": "Jakob Joseph JAUCH/Josef FROMMELT",
+			"note": "adopted 1850, revised 1963; uses the tune of \"God Save the Queen\"",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/LS.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.\nThe country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.\nSince 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its \"grey list\" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 4978000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 3200000000,
+						"units": "USD",
+						"date": "2009"
+					},
+					{
+						"value": 3216000000,
+						"units": "USD",
+						"date": "2008"
+					}
+				],
+				"global_rank": 179
+			},
+			"official_exchange_rate": {
+				"USD": 6672000000,
+				"date": "2014"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.8,
+						"units": "%",
+						"date": "2012"
+					},
+					{
+						"value": -0.5,
+						"units": "%",
+						"date": "2011"
+					},
+					{
+						"value": 3.1,
+						"units": "%",
+						"date": "2007"
+					}
+				],
+				"global_rank": 147
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 139100,
+						"units": "USD",
+						"date": "2009"
+					},
+					{
+						"value": 90100,
+						"units": "USD",
+						"date": "2008"
+					},
+					{
+						"value": 91300,
+						"units": "USD",
+						"date": "2007"
+					}
+				],
+				"global_rank": 1
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 41,
+							"units": "%"
+						},
+						"services": {
+							"value": 52,
+							"units": "%"
+						}
+					},
+					"date": "2014"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"barley",
+				"corn",
+				"potatoes",
+				"livestock",
+				"dairy products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"electronics",
+				"metal manufacturing",
+				"dental products",
+				"ceramics",
+				"pharmaceuticals",
+				"food products",
+				"precision instruments",
+				"tourism",
+				"optical instruments"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 38520,
+				"global_rank": 199,
+				"date": "2012"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 36.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 62.3,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 26
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 995300000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 890400000,
+				"units": "USD",
+				"note": "2011 est."
+			},
+			"date": "2012"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 14.9,
+			"global_rank": 195,
+			"date": "2012"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.6,
+			"global_rank": 20,
+			"date": "2012"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.4,
+					"units": "%",
+					"date": "2016"
+				},
+				{
+					"value": -0.2,
+					"units": "%",
+					"date": "2013"
+				}
+			],
+			"global_rank": 7
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 3217000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 3774000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 127,
+				"note": "trade data exclude trade with Switzerland"
+			},
+			"commodities": {
+				"by_commodity": [
+					"small specialty machinery",
+					"connectors for audio",
+					"video",
+					"parts for motor vehicles",
+					"dental products",
+					"hardware",
+					"prepared foodstuffs",
+					"electronic equipment",
+					"optical products"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2230000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 163,
+				"note": "NA (2015 est.); trade data exclude trade with Switzerland"
+			},
+			"commodities": {
+				"by_commodity": [
+					"agricultural products",
+					"raw materials",
+					"energy products",
+					"machinery",
+					"metal goods",
+					"textiles",
+					"foodstuffs",
+					"motor vehicles"
+				]
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2015"
+				}
+			],
+			"global_rank": 206,
+			"note": "public external debt only; private external debt unavailable"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.9875,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.9852,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9852,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.9627,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.9152,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Swiss francs (CHF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 68430000,
+				"global_rank": 202,
+				"date": "2015"
+			},
+			"consumption": {
+				"kWh": 393600000,
+				"global_rank": 174,
+				"date": "2015"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 161,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 325200000,
+				"global_rank": 88,
+				"date": "2015"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 14337,
+				"subscriptions_per_one_hundred_inhabitants": 36.91,
+				"global_rank": 185,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 49355,
+				"subscriptions_per_one_hundred_inhabitants": 127.06,
+				"global_rank": 206,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "relies on foreign terrestrial and satellite broadcasters for most broadcast media services; first Liechtenstein-based TV station established August 2008; Radio Liechtenstein operates multiple radio stations; a Swiss-based broadcaster operates one radio station in Liechtenstein",
+		"internet": {
+			"country_code": ".li",
+			"users": {
+				"total": 37815,
+				"percent_of_population": 98.1,
+				"global_rank": 202,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HB",
+				"date": "2016"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 434.5,
+					"units": "km"
+				}
+			],
+			"date": "2018"
+		},
+		"railways": {
+			"total": {
+				"length": 9,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 9,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"note": "belongs to the Austrian Railway System connecting Austria and Switzerland",
+			"global_rank": 136,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 630,
+				"units": "km"
+			},
+			"global_rank": 191,
+			"date": "2019"
+		},
+		"waterways": {
+			"value": 28,
+			"units": "km",
+			"global_rank": 105,
+			"date": "2010"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"illicit_drugs": {
+			"note": "has strengthened money laundering controls, but money laundering remains a concern due to Liechtenstein's sophisticated offshore financial services sector"
+		}
+	}
+}

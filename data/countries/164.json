@@ -1,0 +1,1328 @@
+{
+	"name": "New Caledonia",
+	"introduction": {
+		"background": "Settled by both Britain and France during the first half of the 19th century, the island became a French possession in 1853. It served as a penal colony for four decades after 1864. Agitation for independence during the 1980s and early 1990s ended in the 1998 Noumea Accord, which over two decades transferred an increasing amount of governing responsibility from France to New Caledonia. In a referendum held in November 2018, residents rejected independence and decided to retain their territorial status, although two additional referendums may occur in 2020 and 2022, per the Noumea Accord."
+	},
+	"geography": {
+		"location": "Oceania, islands in the South Pacific Ocean, east of Australia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 21,
+				"minutes": 30,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 165,
+				"minutes": 30,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 18575,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 18275,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 300,
+				"units": "sq km"
+			},
+			"global_rank": 156,
+			"comparative": "slightly smaller than New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 2254,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; modified by southeast trade winds; hot, humid",
+		"terrain": "coastal plains with interior mountains",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mont Panie",
+				"elevation": {
+					"value": 1628,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"nickel",
+				"chrome",
+				"iron",
+				"cobalt",
+				"manganese",
+				"silver",
+				"gold",
+				"lead",
+				"copper"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 10.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 9.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 45.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 43.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 100,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the populace lives in the southern part of the main island, in and around the capital of Noumea",
+		"natural_hazards": [
+			{
+				"description": "cyclones, most frequent from November to March",
+				"type": "hazard"
+			},
+			{
+				"description": "Matthew and Hunter Islands are historically active",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"preservation of coral reefs",
+				"prevention of invasive species",
+				"limiting erosion caused by nickel mining and forest fires"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 290009,
+			"global_rank": 183,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "New Caledonian(s)",
+			"adjective": "New Caledonian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Kanak",
+					"percent": 39.1
+				},
+				{
+					"name": "European",
+					"percent": 27.1
+				},
+				{
+					"name": "Wallisian"
+				},
+				{
+					"name": "Futunian",
+					"percent": 8.2
+				},
+				{
+					"name": "Tahitian",
+					"percent": 2.1
+				},
+				{
+					"name": "Indonesian",
+					"percent": 1.4
+				},
+				{
+					"name": "Ni-Vanuatu",
+					"percent": 1
+				},
+				{
+					"name": "Vietnamese",
+					"percent": 0.9
+				},
+				{
+					"name": "other",
+					"percent": 17.7
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.5
+				}
+			],
+			"date": "2014"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "Melanesian-Polynesian dialects",
+					"percent": 33
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 60
+				},
+				{
+					"name": "Protestant",
+					"percent": 30
+				},
+				{
+					"name": "other",
+					"percent": 10
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 21.74,
+				"males": 32227,
+				"females": 30819
+			},
+			"15_to_24": {
+				"percent": 15.63,
+				"males": 23164,
+				"females": 22163
+			},
+			"25_to_54": {
+				"percent": 43.73,
+				"males": 63968,
+				"females": 62856
+			},
+			"55_to_64": {
+				"percent": 9.06,
+				"males": 12700,
+				"females": 13568
+			},
+			"65_and_over": {
+				"percent": 9.84,
+				"males": 12552,
+				"females": 15992
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 46.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 32.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 14.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 32.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 33.7,
+				"units": "years"
+			},
+			"global_rank": 103,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.25,
+			"global_rank": 88,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.5,
+			"global_rank": 129,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.9,
+			"global_rank": 173,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 3.8,
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"population_distribution": "most of the populace lives in the southern part of the main island, in and around the capital of Noumea",
+		"urbanization": {
+			"urban_population": {
+				"value": 71.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.89,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Noumea",
+					"population": 198000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.78,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 178,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 78.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.5,
+				"units": "years"
+			},
+			"global_rank": 67,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.88,
+			"global_rank": 134,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.22,
+			"date": "2009"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 96.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 97.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 96.5,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 38.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 37.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 40,
+				"units": "%"
+			},
+			"global_rank": 15,
+			"date": "2014"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Territory of New Caledonia and Dependencies",
+			"conventional_short_form": "New Caledonia",
+			"local_long_form": "Territoire des Nouvelle-Caledonie et Dependances",
+			"local_short_form": "Nouvelle-Caledonie",
+			"etymology": "British explorer Captain James COOK discovered and named New Caledonia in 1774; he used the appellation because the northeast of the island reminded him of Scotland (Caledonia is the Latin designation for Scotland)"
+		},
+		"government_type": "parliamentary democracy (Territorial Congress); an overseas collectivity of France",
+		"capital": {
+			"name": "Noumea",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 22,
+					"minutes": 16,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 166,
+					"minutes": 27,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 11,
+				"note": "16 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866, in order to avoid any confusion with Fort-de-France in Martinique; the New Caledonian language of Ndrumbea (also spelled Ndumbea, Dubea, and Drubea) spoken in the area gave its name to the capital city, Noumea, as well as to the neighboring town (suburb) of Dumbea"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Province Iles (Islands Province)",
+				"type": ""
+			},
+			{
+				"name": "Province Nord (North Province)",
+				"type": ""
+			},
+			{
+				"name": "and Province Sud (South Province)",
+				"type": ""
+			}
+		],
+		"independence": {
+			"note": "overseas collectivity of France; note - in two independence referenda, on 4 November 2018 and 4 October 2020, the majority voted to reject independence in favor of maintaining the status quo"
+		},
+		"national_holidays": [
+			{
+				"name": "Fete de la Federation",
+				"day": "14 July",
+				"original_year": "1853",
+				"note": "the local holiday is New Caledonia Day, 24 September"
+			}
+		],
+		"constitution": {
+			"history": "4 October 1958 (French Constitution with changes as reflected in the Noumea Accord of 5 May 1998)",
+			"amendments": "French constitution amendment procedures apply"
+		},
+		"legal_system": "civil law system based on French civil law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Laurent PREVOST (since 5 August 2019)",
+			"head_of_government": "President of the Government Thierry SANTA (since 9 July 2019); Temporary Vice President Gilbert TUIENON (since 9 July 2019); note - Temporary Vice President Gilbert TUIENON was elected so that the new government could take over; Philippe GERMAIN' s government remained caretaker government until the new government was settled",
+			"cabinet": "Cabinet elected from and by the Territorial Congress",
+			"elections_appointments": "French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 13 June 2017 (next to be held in 2022)",
+			"election_results": "Thierry SANTA elected president by Territorial Congress with 6 votes out of 11"
+		},
+		"legislative_branch": {
+			"description": "unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population\nNew Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term",
+			"elections": "Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)\nFrench Senate - election last held on 24 September 2017 (next to be held not later than 2019)\nFrench National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)",
+			"election_results": "Territorial Congress - percent of vote by party - N/A; seats by party -Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - men 30, women 24, percent of women 44.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)",
+			"judge_selection_and_term_of_office": "judge appointment and tenure based on France's judicial system",
+			"subordinate_courts": "Courts of First Instance include: civil, juvenile, commercial, labor, police, criminal, assizes, and also a pre-trial investigation chamber; Joint Commerce Tribunal; administrative courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Build Our Rainbow Nation"
+				},
+				{
+					"name": "Caledonia Together",
+					"name_alternative": "CE",
+					"leaders": [
+						"Philippe GERMAIN"
+					]
+				},
+				{
+					"name": "Caledonian Union",
+					"name_alternative": "UC",
+					"leaders": [
+						"Daniel GOA"
+					]
+				},
+				{
+					"name": "Future Together ",
+					"leaders": [
+						"Harold MARTIN"
+					],
+					"note": "l'Avenir Ensemble"
+				},
+				{
+					"name": "Kanak Socialist Front for National Liberation",
+					"name_alternative": "FLNKS",
+					"leaders": [
+						"Victor TUTUGORO"
+					],
+					"note": "alliance includes PALIKA, UNI, UC, UPM"
+				},
+				{
+					"name": "Labor Party",
+					"name_alternative": "PT",
+					"leaders": [
+						"Louis Kotra UREGEI"
+					],
+					"note": "Parti Travailliste"
+				},
+				{
+					"name": "National Union for Independence",
+					"name_alternative": "UNI",
+					"note": "Union Nationale pour l'Independance"
+				},
+				{
+					"name": "Party of Kanak Liberation",
+					"name_alternative": "PALIKA",
+					"leaders": [
+						"Paul NEAOUTYINE"
+					],
+					"note": "Parti de Liberation Kanak"
+				},
+				{
+					"name": "Socialist Kanak Liberation",
+					"name_alternative": "LKS",
+					"leaders": [
+						"Nidoish NAISSELINE"
+					]
+				},
+				{
+					"name": "The Republicans ",
+					"leaders": [
+						"interim leader Thierry SANTA"
+					],
+					"note": "formerly The Rally or UMP"
+				},
+				{
+					"name": "Union for Caledonia in France"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "PIF ",
+				"note": "associate member"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"flag_description": {
+			"description": "New Caledonia has two official flags; alongside the flag of France, the Kanak (indigenous Melanesian) flag has equal status; the latter consists of three equal horizontal bands of blue (top), red, and green; a large yellow disk - diameter two-thirds the height of the flag - shifted slightly to the hoist side is edged in black and displays a black fleche faitiere symbol, a native rooftop adornment"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "fleche faitiere ",
+					"note": "native rooftop adornment"
+				},
+				{
+					"symbol": "kagu bird"
+				}
+			],
+			"colors": [
+				{
+					"color": "gray"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Soyons unis, devenons freres\" (Let Us Be United, Let Us Become Brothers)",
+			"lyrics_music": "Chorale Melodia (a local choir)",
+			"note": "adopted 2008; contains a mixture of lyrics in both French and Nengone (an indigenous language); as a self-governing territory of France, in addition to the local anthem, \"La Marseillaise\" is official (see France)"
+		}
+	},
+	"economy": {
+		"overview": "New Caledonia has 11% of the world's nickel reserves, representing the second largest reserves on the planet. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy.\nWith the gradual increase in the production of two new nickel plants in 2015, average production of metallurgical goods stood at a record level of 94 thousand tons. However, the sector is exposed to the high volatility of nickel prices, which have been in decline since 2016. In 2017, one of the three major mining firms on the island, Vale, put its operations up for sale, triggering concerns of layoffs ahead of the 2018 independence referendum.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 11110000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10890000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 10770000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 159,
+				"note": "data are in 2015 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 9770000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.2,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 154
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 31100,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 32100,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 29800,
+						"units": "USD",
+						"date": "2012"
+					}
+				],
+				"global_rank": 66
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 64.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 24,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 38.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -45.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 26.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 72.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"beef",
+				"venison",
+				"livestock products",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"nickel mining",
+				"smelting"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.5,
+			"global_rank": 87,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 119500,
+				"global_rank": 181,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 74.9,
+						"units": "%"
+					}
+				},
+				"date": "2010"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 14.7,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 14,
+					"units": "%",
+					"date": "2009"
+				}
+			],
+			"global_rank": 171
+		},
+		"population_below_poverty_line": {
+			"value": 17,
+			"units": "%",
+			"date": "2008"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 1995000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1993000000,
+				"units": "USD"
+			},
+			"date": "2015"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.4,
+			"global_rank": 147,
+			"date": "2015"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0,
+			"global_rank": 45,
+			"date": "2015"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 6.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				},
+				{
+					"value": 6.5,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				}
+			],
+			"global_rank": 203
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 79
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1469000000,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": -1861000000,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"global_rank": 156
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2207000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 137
+			},
+			"commodities": {
+				"by_commodity": [
+					"ferronickels",
+					"nickel ore",
+					"fish"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 25.4
+					},
+					{
+						"name": "Japan",
+						"percent": 16.6
+					},
+					{
+						"name": "South Korea",
+						"percent": 14.8
+					},
+					{
+						"name": "France",
+						"percent": 8.2
+					},
+					{
+						"name": "Belgium",
+						"percent": 5
+					},
+					{
+						"name": "US",
+						"percent": 4.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2715000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 4400000000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 153
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"fuels",
+					"chemicals",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "France",
+						"percent": 24.2
+					},
+					{
+						"name": "Singapore",
+						"percent": 13.1
+					},
+					{
+						"name": "China",
+						"percent": 9.2
+					},
+					{
+						"name": "Australia",
+						"percent": 7.1
+					},
+					{
+						"name": "South Korea",
+						"percent": 5.2
+					},
+					{
+						"name": "Malaysia",
+						"percent": 4.7
+					},
+					{
+						"name": "NZ",
+						"percent": 4.4
+					},
+					{
+						"name": "US",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 112000000,
+					"units": "USD",
+					"date": "2013-12-31"
+				},
+				{
+					"value": 79000000,
+					"units": "USD",
+					"date": "1998-12-31"
+				}
+			],
+			"global_rank": 192
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 110.2,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 107.84,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 107.84,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 89.85,
+					"units": "USD",
+					"date": "2013"
+				},
+				{
+					"value": 90.56,
+					"units": "USD",
+					"date": "2012"
+				}
+			],
+			"note": "Comptoirs Francais du Pacifique francs (XPF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 2945000000,
+				"global_rank": 133,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2739000000,
+				"global_rank": 139,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 175,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 178,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 996200,
+				"global_rank": 128,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 87,
+					"global_rank": 64,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 153,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 8,
+					"global_rank": 123,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 6,
+					"global_rank": 101,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 182,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 174,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 175,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 177,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 186,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 20000,
+				"global_rank": 142,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 188,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 19100,
+				"global_rank": 124,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 178,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 182,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 160,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 165,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 176,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 6165000,
+			"global_rank": 128,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 82111,
+				"subscriptions_per_one_hundred_inhabitants": 28.67,
+				"global_rank": 142,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 275002,
+				"subscriptions_per_one_hundred_inhabitants": 96.02,
+				"global_rank": 180,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the publicly owned French Overseas Network (RFO), which operates in France's overseas departments and territories, broadcasts over the RFO Nouvelle-Calédonie TV and radio stations; a small number of privately owned radio stations also broadcast",
+		"internet": {
+			"country_code": ".nc",
+			"users": {
+				"total": 231887,
+				"percent_of_population": 82.01,
+				"global_rank": 172,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 15,
+				"date": "2020"
+			},
+			"airports": {
+				"total": {
+					"airports": 25,
+					"global_rank": 128,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 12,
+					"over_3047_metres": 1,
+					"914_to_1523_metres": 10,
+					"under_914_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 13,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 8,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 8,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 5622,
+				"units": "km"
+			},
+			"global_rank": 146,
+			"date": "2006"
+		},
+		"merchant_marine": {
+			"total": 19,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 13
+				}
+			],
+			"global_rank": 144,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Noumea"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Matthew and Hunter Islands east of New Caledonia claimed by France and Vanuatu"
+		]
+	}
+}

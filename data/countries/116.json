@@ -1,0 +1,1846 @@
+{
+	"name": "Israel",
+	"introduction": {
+		"background": "The State of Israel was declared in 1948, after Britain withdrew from its mandate of Palestine. The UN proposed partitioning the area into Arab and Jewish states, and Arab armies that rejected the UN plan were defeated. Israel was admitted as a member of the UN in 1949 and saw rapid population growth, primarily due to migration from Europe and the Middle East, over the following years. Israel fought wars against its Arab neighbors in 1967 and 1973, followed by peace treaties with Egypt in 1979 and Jordan in 1994. Israel took control of the West Bank and Gaza Strip in the 1967 war, and subsequently administered those territories through military authorities. Israel and Palestinian officials signed a number of interim agreements in the 1990s that created an interim period of Palestinian self-rule in the West Bank and Gaza. Israel withdrew from Gaza in 2005. While the most recent formal efforts to negotiate final status issues occurred in 2013-2014, the US continues its efforts to advance peace. Immigration to Israel continues, with 28,600 new immigrants, mostly Jewish, in 2016. The Israeli economy has undergone a dramatic transformation in the last 25 years, led by cutting-edge, high-tech sectors. Offshore gas discoveries in the Mediterranean, most notably in the Tamar and Leviathan gas fields, place Israel at the center of a potential regional natural gas market. However, longer-term structural issues such as low labor force participation among minority populations, low workforce productivity, high costs for housing and consumer staples, and a lack of competition, remain a concern for many Israelis and an important consideration for Israeli politicians. Prime Minister Benjamin NETANYAHU has led the Israeli Government since 2009; he formed a center-right coalition following the 2015 elections. Three Knesset elections held in April and September 2019 and March 2020 all failed to form a new government. The political stalemate was finally resolved in April 2020 when NETANYAHU and Blue and White party leader Benny GANTZ signed an agreement to form a coalition government. Under the terms of the agreement, NETANYAHU would remain as prime minister until October 2021 when GANTZ would succeed him. On 15 September 2020, Israel signed a peace agreement, the Abraham Accords – brokered by the US – with Bahrain and the United Arab Emirates in Washington DC. Israel signed similar peace agreements with Egypt (1979) and Jordan (1994)."
+	},
+	"geography": {
+		"location": "Middle East, bordering the Mediterranean Sea, between Egypt and Lebanon",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 31,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 34,
+				"minutes": 45,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 21937,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 21497,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 440,
+				"units": "sq km"
+			},
+			"global_rank": 153,
+			"comparative": "slightly larger than New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1065,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Egypt",
+					"border_length": {
+						"value": 206,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Gaza Strip",
+					"border_length": {
+						"value": 59,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Jordan",
+					"border_length": {
+						"value": 336,
+						"units": "km"
+					},
+					"note": "20 km are within the Dead Sea"
+				},
+				{
+					"country": "Lebanon",
+					"border_length": {
+						"value": 107,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Syria",
+					"border_length": {
+						"value": 79,
+						"units": "km"
+					}
+				},
+				{
+					"country": "West Bank",
+					"border_length": {
+						"value": 278,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 273,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": "to depth of exploitation"
+		},
+		"climate": "temperate; hot and dry in southern and eastern desert areas",
+		"terrain": "Negev desert in the south; low coastal plain; central mountains; Jordan Rift Valley",
+		"elevation": {
+			"mean_elevation": {
+				"value": 508,
+				"units": "m",
+				"note": "note - does not include elevation data from the Golan Heights"
+			},
+			"lowest_point": {
+				"name": "Dead Sea",
+				"elevation": {
+					"value": -431,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mitspe Shlagim",
+				"elevation": {
+					"value": 2224
+				},
+				"note": "m; note - this is the highest named point, the actual highest point is an unnamed dome slightly to the west of Mitspe Shlagim at 2,236 m; both points are on the northeastern border of Israel, along the southern end of the Anti-Lebanon mountain range"
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"potash",
+				"copper ore",
+				"natural gas",
+				"phosphate rock",
+				"magnesium bromide",
+				"clays",
+				"sand"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 23.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 13.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 6.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 7.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 69.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 2250,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba",
+		"natural_hazards": [
+			{
+				"description": "sandstorms may occur during spring and summer",
+				"type": "hazard"
+			},
+			{
+				"description": "droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic earthquakes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited arable land and restricted natural freshwater resources",
+				"desertification",
+				"air pollution from industrial and vehicle emissions",
+				"groundwater pollution from industrial and domestic waste",
+				"chemical fertilizers",
+				"and pesticides"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 8675475,
+			"global_rank": 98,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Israeli(s)",
+			"adjective": "Israeli"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Jewish",
+					"percent": 74.4,
+					"breakdown": [
+						{
+							"name": "of which Israel-born",
+							"percent": 76.9
+						},
+						{
+							"name": "Europe/America/Oceania-born",
+							"percent": 15.9
+						},
+						{
+							"name": "Africa-born",
+							"percent": 4.6
+						},
+						{
+							"name": "Asia-born",
+							"percent": 2.6
+						}
+					]
+				},
+				{
+					"name": "Arab",
+					"percent": 20.9
+				},
+				{
+					"name": "other",
+					"percent": 4.7
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Hebrew",
+					"note": "official"
+				},
+				{
+					"name": "Arabic",
+					"note": "special status under Israeli law"
+				},
+				{
+					"name": "English",
+					"note": "most commonly used foreign language"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Jewish",
+					"percent": 74.3
+				},
+				{
+					"name": "Muslim",
+					"percent": 17.8
+				},
+				{
+					"name": "Christian",
+					"percent": 1.9
+				},
+				{
+					"name": "Druze",
+					"percent": 1.6
+				},
+				{
+					"name": "other",
+					"percent": 4.4
+				}
+			],
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2018"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 26.76,
+				"males": 1187819,
+				"females": 1133365
+			},
+			"15_to_24": {
+				"percent": 15.67,
+				"males": 694142,
+				"females": 665721
+			},
+			"25_to_54": {
+				"percent": 37.2,
+				"males": 1648262,
+				"females": 1579399
+			},
+			"55_to_64": {
+				"percent": 8.4,
+				"males": 363262,
+				"females": 365709
+			},
+			"65_and_over": {
+				"percent": 11.96,
+				"males": 467980,
+				"females": 569816
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 67.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 46.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 20.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.8,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 30.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 29.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 31,
+				"units": "years"
+			},
+			"global_rank": 121,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.46,
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 17.6,
+			"global_rank": 94,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.3,
+			"global_rank": 190,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.1,
+			"global_rank": 48,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba",
+		"urbanization": {
+			"urban_population": {
+				"value": 92.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.64,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Tel Aviv-Yafo",
+					"population": 4181000
+				},
+				{
+					"place": "Haifa",
+					"population": 1147000
+				},
+				{
+					"place": "Jerusalem",
+					"population": 932000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.82,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.6,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 3,
+			"global_rank": 179,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 208,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 83,
+				"units": "years"
+			},
+			"male": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 85,
+				"units": "years"
+			},
+			"global_rank": 10,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.59,
+			"global_rank": 68,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.48,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 100,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 9000,
+				"global_rank": 108,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 26.1,
+			"global_rank": 44,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.8,
+			"global_rank": 33,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 96.8,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 7.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 6.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 7.4,
+				"units": "%"
+			},
+			"global_rank": 149,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "State of Israel",
+			"conventional_short_form": "Israel",
+			"local_long_form": "Medinat Yisra'el",
+			"local_short_form": "Yisra'el",
+			"etymology": "named after the ancient Kingdom of Israel; according to Biblical tradition, the Jewish patriarch Jacob received the name \"Israel\" (\"He who struggles with God\") after he wrestled an entire night with an angel of the Lord; Jacob's 12 sons became the ancestors of the Israelites, also known as the Twelve Tribes of Israel, who formed the Kingdom of Israel"
+		},
+		"government_type": "parliamentary democracy",
+		"capital": {
+			"name": "Jerusalem; note - the US recognized Jerusalem as Israel’s capital in December 2017 without taking a position on the specific boundaries of Israeli sovereignty",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 31,
+					"minutes": 46,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 35,
+					"minutes": 14,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, Friday before the last Sunday in March; ends the last Sunday in October",
+			"etymology": "Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; \"uru-shalim\" likely means \"foundation of [by] the god Shalim\", and derives from Hebrew/Semitic \"yry\", \"to found or lay a cornerstone\", and Shalim, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for \"peace\" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as \"The City of Peace\" or \"The Abode of Peace\""
+		},
+		"independence": {
+			"date": "1948-05-14",
+			"note": "following League of Nations mandate under British administration"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "14 May",
+				"original_year": "1948",
+				"note": "Israel declared independence on 14 May 1948, but the Jewish calendar is lunar and the holiday may occur in April or May"
+			}
+		],
+		"constitution": {
+			"history": "no formal constitution; some functions of a constitution are filled by the Declaration of Establishment (1948), the Basic Laws, and the Law of Return (as amended)",
+			"amendments": "proposed by Government of Israel ministers or by the Knesset; passage requires a majority vote of Knesset members and subject to Supreme Court judicial review; 11 of the 13 Basic Laws have been amended at least once, latest in 2020"
+		},
+		"legal_system": "mixed legal system of English common law, British Mandate regulations, and Jewish, Christian, and Muslim religious laws",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"withdrew acceptance of ICCt jurisdiction in 2002"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Israel",
+			"dual_citizenship_recognized": "yes, but naturalized citizens are not allowed to maintain dual citizenship",
+			"residency_requirement_for_naturalization": "3 out of the 5 years preceding the application for naturalization",
+			"note": "Israeli law (Law of Return, 5 July 1950) provides for the granting of citizenship to any Jew - defined as a person being born to a Jewish mother or having converted to Judaism while renouncing any other religion - who immigrates to and expresses a desire to settle in Israel on the basis of the Right of aliyah; the 1970 amendment of this act extended the right to family members including the spouse of a Jew, any child or grandchild, and the spouses of children and grandchildren"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal; 17 years of age for municipal elections"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Reuben RIVLIN (since 27 July 2014)",
+			"head_of_government": "Prime Minister Binyamin NETANYAHU (since 31 March 2009)",
+			"cabinet": "Cabinet selected by prime minister and approved by the Knesset",
+			"elections_appointments": "president indirectly elected by the Knesset for a single 7-year term; election last held on 10 June 2014 (next to be held in 2021); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a government",
+			"election_results": "Reuven RIVLIN elected president in second round; Knesset vote - Reuven RIVLIN (Likud) 63, Meir SHEETRIT (The Movement) 53, other/invalid 4; note - on 20 May 2020 – after three national elections, each ending in failed bids by Prime Minister Binyamin NETANYAHU and Blue and White party leader Benny GANTZ to form a coalition government, both signed an agreement on the formation of a national emergency government in which NETANYAHU continues as prime minister for 18 months when GANTZ will replace him"
+		},
+		"legislative_branch": {
+			"description": "unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% threshold to gain representation; members serve 4-year terms)",
+			"elections": "last held on 2 March 2020 ( next to be held in 2024)",
+			"election_results": "percent by party (preliminary) - Likud 29.2%, Blue and White 26.4%, Joint List 13.1%, Shas 7.7%, United Torah Judaism 6.2%, Yisrael Beiteinu 5.9%, Labor-Gesher-Meretz 5.7%, Yamina 5%, other 0.8%; seats by party (preliminary) - Likud 36, Blue and White 33, Joint List 15, Shas 9, United Torah Judaism 7, Yisrael Beiteinu 7, Labor-Gesher Meretz 7, Yamina 6; composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices",
+			"judge_selection_and_term_of_office": "judges selected by the 9-member Judicial Selection Committee, consisting of the Minister of Justice (chair), the president of the Supreme Court, two other Supreme Court justices, 1 other Cabinet minister, 2 Knesset members, and 2 representatives of the Israel Bar Association; judges can serve up to mandatory retirement at age 70",
+			"subordinate_courts": "district and magistrate courts; national and regional labor courts; family and juvenile courts; special and religious courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Union ",
+					"leaders": [
+						"Nitzan HOROWITZ"
+					],
+					"note": "alliance includes Democratic Israel, Meretz, Green Movement"
+				},
+				{
+					"name": "Joint List ",
+					"leaders": [
+						"Ayman ODEH"
+					],
+					"note": "alliance includes Hadash, Ta’al, United Arab List, Balad"
+				},
+				{
+					"name": "Kahol Lavan ",
+					"leaders": [
+						"Benny GANTZ"
+					],
+					"note": "alliance includes Israeli Resilience, Yesh Atid, Telem"
+				},
+				{
+					"name": "Labor-Gesher",
+					"leaders": [
+						"Amir PERETZ"
+					]
+				},
+				{
+					"name": "Likud",
+					"leaders": [
+						"Binyamin NETANYAHU"
+					]
+				},
+				{
+					"name": "Otzma Yehudit",
+					"leaders": [
+						"Itamar BEN-GVIR"
+					]
+				},
+				{
+					"name": "SHAS",
+					"leaders": [
+						"Arye DERI"
+					]
+				},
+				{
+					"name": "United Torah Judaism,",
+					"name_alternative": "UTJ",
+					"leaders": [
+						"Yaakov LITZMAN"
+					],
+					"note": "alliance includes Agudat Israel and Degel HaTorah"
+				},
+				{
+					"name": "Yamina",
+					"leaders": [
+						"Ayelet SHAKED"
+					]
+				},
+				{
+					"name": "Yisrael Beiteinu",
+					"leaders": [
+						"Avigdor LIEBERMAN"
+					]
+				},
+				{
+					"name": "Zehut",
+					"leaders": [
+						"Moshe FEIGLIN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CE ",
+				"note": "observer"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW ",
+				"note": "signatory"
+			},
+			{
+				"organization": "OSCE ",
+				"note": "partner"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Ron DERMER (since 3 December 2013)",
+				"chancery": "3514 International Drive NW, Washington, DC 20008",
+				"telephone": "[1] (202) 364-5500",
+				"fax": "[1] (202) 364-5607",
+				"consulates_general": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador David M. FRIEDMAN (since 23 May 2017)",
+				"telephone": "[972] (2) 630-4000",
+				"embassy": "David Flusser St.14, Jerusalem, 9378322",
+				"fax": "NA",
+				"note": "on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission"
+			}
+		},
+		"flag_description": {
+			"description": "white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times",
+			"note": "the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Star of David ",
+					"note": "Magen David"
+				},
+				{
+					"symbol": "menorah ",
+					"note": "seven-branched lampstand"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Hatikvah\" (The Hope)",
+			"lyrics_music": "Naftali Herz IMBER/traditional, arranged by Samuel COHEN",
+			"note": "adopted 2004, unofficial since 1948; used as the anthem of the Zionist movement since 1897; the 1888 arrangement by Samuel COHEN is thought to be based on the Romanian folk song \"Carul cu boi\" (The Ox Driven Cart)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/IS.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "Israel has a technologically advanced free market economy. Cut diamonds, high-technology equipment, and pharmaceuticals are among its leading exports. Its major imports include crude oil, grains, raw materials, and military equipment. Israel usually posts sizable trade deficits, which are offset by tourism and other service exports, as well as significant foreign investment inflows.\nBetween 2004 and 2013, growth averaged nearly 5% per year, led by exports. The global financial crisis of 2008-09 spurred a brief recession in Israel, but the country entered the crisis with solid fundamentals, following years of prudent fiscal policy and a resilient banking sector. Israel's economy also weathered the 2011 Arab Spring because strong trade ties outside the Middle East insulated the economy from spillover effects.\nSlowing domestic and international demand and decreased investment resulting from Israel’s uncertain security situation reduced GDP growth to an average of roughly 2.8% per year during the period 2014-17. Natural gas fields discovered off Israel's coast since 2009 have brightened Israel's energy security outlook. The Tamar and Leviathan fields were some of the world's largest offshore natural gas finds in the last decade. Political and regulatory issues have delayed the development of the massive Leviathan field, but production from Tamar provided a 0.8% boost to Israel's GDP in 2013 and a 0.3% boost in 2014. One of the most carbon intense OECD countries, Israel generates about 57% of its power from coal and only 2.6% from renewable sources.\nIncome inequality and high housing and commodity prices continue to be a concern for many Israelis. Israel's income inequality and poverty rates are among the highest of OECD countries, and there is a broad perception among the public that a small number of \"tycoons\" have a cartel-like grip over the major parts of the economy. Government officials have called for reforms to boost the housing supply and to increase competition in the banking sector to address these public grievances. Despite calls for reforms, the restricted housing supply continues to impact younger Israelis seeking to purchase homes. Tariffs and non-tariff barriers, coupled with guaranteed prices and customs tariffs for farmers kept food prices high in 2016. Private consumption is expected to drive growth through 2018, with consumers benefitting from low inflation and a strong currency.\nIn the long term, Israel faces structural issues including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel's progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 317100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 307000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 295300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 54,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 350700000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.28,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.69,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.63,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 91
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 36400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 35900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 35200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 55,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 55.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 22.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 28.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -27.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 26.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 69.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 23.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 25,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 72
+		},
+		"agriculture_products": {
+			"products": [
+				"citrus",
+				"vegetables",
+				"cotton",
+				"beef",
+				"poultry",
+				"dairy products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"high-technology products including aviation",
+				"communications",
+				"computer-aided design",
+				"manufactures",
+				"medical electronics",
+				"fiber optics",
+				"wood",
+				"paper products",
+				"potash",
+				"phosphates",
+				"food",
+				"beverages",
+				"tobacco",
+				"caustic soda",
+				"cement",
+				"pharmaceuticals",
+				"construction",
+				"metal products",
+				"chemical products",
+				"plastics",
+				"cut diamonds",
+				"textiles",
+				"footwear"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.5,
+			"global_rank": 86,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 3893000,
+				"global_rank": 91,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 17.3,
+						"units": "%"
+					},
+					"services": {
+						"value": 81.6,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.81,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 4,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 56
+		},
+		"population_below_poverty_line": {
+			"value": 22,
+			"units": "%",
+			"note": "Israel's poverty line is $7.30 per person per day",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31.3,
+				"units": "%"
+			},
+			"date": "2010"
+		},
+		"budget": {
+			"revenues": {
+				"value": 93110000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 100200000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 26.5,
+			"global_rank": 110,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2,
+			"global_rank": 105,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 60.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 62.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 73
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 17
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 13411000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 7888000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 20
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 58670000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 56170000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 48
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"software",
+					"cut diamonds",
+					"agricultural products",
+					"chemicals",
+					"textiles",
+					"apparel"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 28.8
+					},
+					{
+						"name": "UK",
+						"percent": 8.2
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 7
+					},
+					{
+						"name": "China",
+						"percent": 5.4
+					},
+					{
+						"name": "Belgium",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 68610000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 63900000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 46
+			},
+			"commodities": {
+				"by_commodity": [
+					"raw materials",
+					"military equipment",
+					"investment goods",
+					"rough diamonds",
+					"fuels",
+					"grain",
+					"consumer goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 11.7
+					},
+					{
+						"name": "China",
+						"percent": 9.5
+					},
+					{
+						"name": "Switzerland",
+						"percent": 8
+					},
+					{
+						"name": "Germany",
+						"percent": 6.8
+					},
+					{
+						"name": "UK",
+						"percent": 6.2
+					},
+					{
+						"name": "Belgium",
+						"percent": 5.9
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.2
+					},
+					{
+						"name": "Turkey",
+						"percent": 4.2
+					},
+					{
+						"name": "Italy",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 113000000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 95450000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 23
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 88660000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 87960000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 54
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.606,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.8406,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.8406,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.8869,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 3.5779,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "new Israeli shekels (ILS) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 63090000000,
+				"global_rank": 46,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 55000000000,
+				"global_rank": 47,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 5200000000,
+				"global_rank": 35,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 161,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 17590000,
+				"global_rank": 48,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 95,
+					"global_rank": 44,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 113,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 179,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 5,
+					"global_rank": 107,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 390,
+				"global_rank": 94,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 141,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 231600,
+				"global_rank": 28,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 12730000,
+				"global_rank": 87,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 294300,
+				"global_rank": 42,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 242200,
+				"global_rank": 52,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 111700,
+				"global_rank": 39,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 98860,
+				"global_rank": 54,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 9826000000,
+				"global_rank": 42,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 9995000000,
+				"global_rank": 49,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 126,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 509700000,
+				"global_rank": 66,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 176000000000,
+				"global_rank": 45,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 73820000,
+			"global_rank": 49,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 3050693,
+				"subscriptions_per_one_hundred_inhabitants": 35.68,
+				"global_rank": 44,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 10839024,
+				"subscriptions_per_one_hundred_inhabitants": 126.77,
+				"global_rank": 81,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the Israel Broadcasting Corporation (est 2015) broadcasts on 3 channels, two in Hebrew and the other in Arabic; multi-channel satellite and cable TV packages provide access to foreign channels; the Israeli Broadcasting Corporation broadcasts on 8 radio networks with multiple repeaters and Israel Defense Forces Radio broadcasts over multiple stations; about 15 privately owned radio stations; overall more than 100 stations and repeater stations (2019)",
+		"internet": {
+			"country_code": ".il",
+			"users": {
+				"total": 6873037,
+				"percent_of_population": 81.58,
+				"global_rank": 73,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 64,
+				"annual_passenger_traffic_on_registered_air_carriers": 7404373,
+				"annual_freight_traffic_on_registered_air_carriers": 994540000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "4X",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 42,
+					"global_rank": 100,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 33,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 5,
+					"914_to_1523_metres": 12,
+					"under_914_metres": 8,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 9,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 6,
+					"date": "2020"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 763,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 442,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 261,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 1384,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 1384,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 83,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 19555,
+				"units": "km"
+			},
+			"paved": {
+				"value": 19555,
+				"units": "km",
+				"note": "includes 449 km of expressways"
+			},
+			"global_rank": 116,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 40,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 5
+				},
+				{
+					"type": "general cargo",
+					"count": 3
+				},
+				{
+					"type": "oil tanker",
+					"count": 3
+				},
+				{
+					"type": "other",
+					"count": 29
+				}
+			],
+			"global_rank": 121,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Ashdod",
+				"Elat (Eilat)",
+				"Hadera",
+				"Haifa"
+			],
+			"container_ports": [
+				{
+					"place": "Ashdod",
+					"twenty_foot_equivalent_units": 1443000
+				}
+			],
+			"date": "2016"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 5,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 5.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 5.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 5.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 6
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women)",
+			"date": "2015"
+		},
+		"note": "the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of March 2020, UNDOF consisted of about 1,000 personnel (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation",
+			"Israel continues construction of a \"seam line\" separation barrier along parts of the Green Line and within the West Bank",
+			"Israel withdrew its settlers and military from the Gaza Strip and from four settlements in the West Bank in August 2005",
+			"Golan Heights is Israeli-controlled (Lebanon claims the Shab'a Farms area of Golan Heights)",
+			"since 1948, about 350 peacekeepers from the UN Truce Supervision Organization headquartered in Jerusalem monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 12181,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 5061,
+						"country_of_origin": "Ukraine"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 42,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "increasingly concerned about ecstasy, cocaine, and heroin abuse; drugs arrive in country from Lebanon and, increasingly, from Jordan; money-laundering center"
+		}
+	}
+}

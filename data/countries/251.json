@@ -1,0 +1,178 @@
+{
+	"name": "Wake Island",
+	"introduction": {
+		"background": "The US annexed Wake Island in 1899 for a cable station. An important air and naval base was constructed in 1940-41. In December 1941, the island was captured by the Japanese and held until the end of World War II. In subsequent years, Wake became a stopover and refueling site for military and commercial aircraft transiting the Pacific. Since 1974, the island's airstrip has been used by the US military, as well as for emergency landings. Operations on the island were temporarily suspended and all personnel evacuated in 2006 with the approach of super typhoon IOKE (category 5), but resultant damage was comparatively minor. A US Air Force repair team restored full capability to the airfield and facilities, and the island remains a vital strategic link in the Pacific region."
+	},
+	"geography": {
+		"location": "Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 19,
+				"minutes": 17,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 166,
+				"minutes": 39,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 7,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 6.5,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 246,
+			"comparative": "about 11 times the size of the National Mall in Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 19.3,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical",
+		"terrain": "atoll of three low coral islands, Peale, Wake, and Wilkes, built up on an underwater volcano; central lagoon is former crater, islands are part of the rim",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed location",
+				"elevation": {
+					"value": 8,
+					"units": "m"
+				}
+			}
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"natural_hazards": [
+			{
+				"description": "subject to occasional typhoons",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"potable water obtained through a catchment rainwater system and a desalinization plant for brackish ground water",
+				"hazardous wastes moved to an accumulation site for storage and eventual transport off site via barge"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Wake Island",
+			"etymology": "although first discovered by British Captain William WAKE in 1792, the island is named after British Captain Samuel WAKE, who rediscovered the island in 1796"
+		},
+		"independence": {
+			"note": "territory of the US"
+		},
+		"legal_system": "US common law",
+		"flag_description": {
+			"description": "the flag of the US is used"
+		}
+	},
+	"economy": {
+		"overview": "Economic activity is limited to providing services to military personnel and contractors located on the island. All food and manufactured goods must be imported."
+	},
+	"energy": {
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 216,
+				"date": "2018"
+			}
+		}
+	},
+	"communications": {
+		"broadcast_media": "American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)"
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 238,
+					"date": "2018"
+				},
+				"paved": {
+					"total": 1,
+					"2438_to_3047_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"note": "there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available"
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the US; the US Air Force is responsible for overall administration and operation of the island facilities; the launch support facility is administered by the US Missile Defense Agency (MDA)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"claimed by Marshall Islands"
+		]
+	}
+}

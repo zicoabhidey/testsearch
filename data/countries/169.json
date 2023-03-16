@@ -1,0 +1,914 @@
+{
+	"name": "Niue",
+	"introduction": {
+		"background": "Niue's remoteness, as well as cultural and linguistic differences between its Polynesian inhabitants and those of the adjacent Cook Islands, has caused it to be separately administered by New Zealand. The population of the island has trended downwards over recent decades (from a peak of 5,200 in 1966 to 1,618 in 2017) with substantial emigration to New Zealand 2,400 km to the southwest."
+	},
+	"geography": {
+		"location": "Oceania, island in the South Pacific Ocean, east of Tonga",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 19,
+				"minutes": 2,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 169,
+				"minutes": 52,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 260,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 260,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 213,
+			"comparative": "1.5 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 64,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; modified by southeast trade winds",
+		"terrain": "steep limestone cliffs along coast, central plateau",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "unnamed elevation",
+				"elevation": {
+					"value": 1.4,
+					"units": "km"
+				},
+				"note": "east of Hikutavake 80 m"
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 19.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 3.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 11.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 3.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 71.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 9.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population distributed around the peripheral coastal areas of the island",
+		"natural_hazards": [
+			{
+				"description": "tropical cyclones",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"increasing attention to conservationist practices to counter loss of soil fertility from traditional slash and burn agriculture"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Law of the Sea",
+					"Ozone Layer Protection"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2000,
+			"global_rank": 232,
+			"date": "2019"
+		},
+		"nationality": {
+			"noun": "Niuean(s)",
+			"adjective": "Niuean"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Niuean",
+					"percent": 66.5
+				},
+				{
+					"name": "part-Niuean",
+					"percent": 13.4
+				},
+				{
+					"name": "non-Niuean",
+					"percent": 20.1,
+					"breakdown": [
+						{
+							"name": "includes European and Asian and other Pacific Islanders",
+							"percent": 8
+						}
+					]
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Niuean",
+					"percent": 46,
+					"note": "official; a Polynesian language closely related to Tongan and Samoan"
+				},
+				{
+					"name": "Niuean and English",
+					"percent": 32
+				},
+				{
+					"name": "English",
+					"percent": 11,
+					"note": "official"
+				},
+				{
+					"name": "Niuean and others",
+					"percent": 5
+				},
+				{
+					"name": "other",
+					"percent": 6
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Ekalesia Niue",
+					"percent": 67,
+					"note": "Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society"
+				},
+				{
+					"name": "other Protestant",
+					"percent": 3,
+					"breakdown": [
+						{
+							"name": "includes Seventh Day Adventist",
+							"percent": 1
+						},
+						{
+							"name": "Presbyterian",
+							"percent": 1
+						},
+						{
+							"name": "and Methodist",
+							"percent": 1
+						}
+					]
+				},
+				{
+					"name": "Mormon",
+					"percent": 10
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 10
+				},
+				{
+					"name": "Jehovah's Witnesses",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 6
+				},
+				{
+					"name": "none",
+					"percent": 2
+				}
+			],
+			"date": "2011"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.03,
+			"global_rank": 198,
+			"date": "2014"
+		},
+		"population_distribution": "population distributed around the peripheral coastal areas of the island",
+		"urbanization": {
+			"urban_population": {
+				"value": 46.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.69,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Alofi",
+					"population": 1000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 98.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 96.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 3.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 50,
+			"global_rank": 6,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Niue",
+			"former": "Savage Island",
+			"etymology": "the origin of the name is obscure; in Niuean, the word supposedly translates as \"behold the coconut\"",
+			"note": "pronunciation falls between nyu-way and new-way, but not like new-wee"
+		},
+		"government_type": "parliamentary democracy",
+		"capital": {
+			"name": "Alofi",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 19,
+					"minutes": 1,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 169,
+					"minutes": 55,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -11,
+				"note": "6 hours behind Washington, DC, during Standard Time"
+			}
+		},
+		"independence": {
+			"date": "1974-10-19",
+			"note": "Niue became a self-governing state in free association with New Zealand"
+		},
+		"national_holidays": [
+			{
+				"name": "Waitangi Day",
+				"day": "6 February",
+				"original_year": "1840",
+				"note": "Treaty of Waitangi established British sovereignty over New Zealand"
+			}
+		],
+		"constitution": {
+			"history": "several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act 1974)",
+			"amendments": "proposed by the Assembly; passage requires at least two-thirds majority vote of the Assembly membership in each of three readings and approval by the majority of votes in a referendum; passage of amendments to a number of sections, including Niue’s self-governing status, British nationality and New Zealand citizenship, external affairs and defense, economic and administrative assistance by New Zealand, and amendment procedures, requires at least two-thirds majority vote by the Assembly and at least two thirds of votes in a referendum; amended 1992, 2007"
+		},
+		"legal_system": "English common law",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor-General of New Zealand Dame Patricia Lee REDDY (since 28 September 2016); the UK and New Zealand are represented by New Zealand High Commissioner Kirk YATES (since May 2018)",
+			"head_of_government": "Premier Dalton TAGELAGI (since 10 June 2020)",
+			"cabinet": "Cabinet chosen by the premier",
+			"elections_appointments": "the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year term; election last held on 10 June 2020 (next to be held in 2023)",
+			"election_results": "Dalton TAGELAGI elected premier; Legislative Assembly vote - Dalton TAGELAGI (independent) 13, O'Love JACOBSEN (independent) 7; Toke TALAGI lost his seat in election"
+		},
+		"legislative_branch": {
+			"description": "unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or \"common roll\" by majority vote; members serve 3-year terms)",
+			"elections": "last held on 30 May 2020 (next to be held on 2023)",
+			"election_results": "percent of vote by party - NA; seats by party - independent 20"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal",
+			"judge_selection_and_term_of_office": "Niue chief justice appointed by the governor general on the advice of the Cabinet and tendered by the premier; other judges appointed by the governor general on the advice of the Cabinet and tendered by the chief justice and the minister of justice; judges serve until age 68",
+			"subordinate_courts": "High Court",
+			"note": "Niue is a participant in the Pacific Judicial Development Program, which is designed to build governance and the rule of law in 15 Pacific island countries"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance of Independents",
+					"name_alternative": "AI"
+				},
+				{
+					"name": "Niue People's Action Party",
+					"name_alternative": "NPP",
+					"leaders": [
+						"Young VIVIAN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"flag_description": {
+			"description": "yellow with the flag of the UK in the upper hoist-side quadrant; the flag of the UK bears five yellow five-pointed stars - a large star on a blue disk in the center and a smaller star on each arm of the bold red cross; the larger star stands for Niue, the smaller stars recall the Southern Cross constellation on the New Zealand flag and symbolize links with that country; yellow represents the bright sunshine of Niue and the warmth and friendship between Niue and New Zealand"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "yellow"
+				},
+				{
+					"symbol": "five-pointed star"
+				},
+				{
+					"symbol": "national color: yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Ko e Iki he Lagi\" (The Lord in Heaven)",
+			"lyrics_music": "unknown/unknown, prepared by Sioeli FUSIKATA",
+			"note": "adopted 1974"
+		}
+	},
+	"economy": {
+		"overview": "The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue.\nGovernment expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half.\nThe island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 10010000,
+						"units": "USD",
+						"date": "2003"
+					}
+				],
+				"global_rank": 228
+			},
+			"official_exchange_rate": {
+				"USD": 10010000,
+				"date": "2003"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.2,
+						"units": "%",
+						"date": "2003"
+					}
+				],
+				"global_rank": 32
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5800,
+						"units": "USD",
+						"date": "2003"
+					}
+				],
+				"global_rank": 168
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 23.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 26.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 49.5,
+							"units": "%"
+						}
+					},
+					"date": "2003"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"coconuts",
+				"passion fruit",
+				"honey",
+				"limes",
+				"taro",
+				"yams",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"sweet potatoes",
+				"pigs",
+				"poultry",
+				"beef cattle"
+			]
+		},
+		"industries": {
+			"industries": [
+				"handicrafts",
+				"food processing"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 663,
+				"global_rank": 230,
+				"date": "2001"
+			},
+			"by_occupation": {
+				"note": "most work on family plantations; paid work exists only in government service, small industry, and the Niue Development Board"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 12,
+					"units": "%",
+					"date": "2001"
+				}
+			],
+			"global_rank": 159
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 15070000,
+				"units": "USD",
+				"note": "FY04/05"
+			},
+			"expenditures": {
+				"value": 16329999.999999998,
+				"units": "USD",
+				"note": "FY04/05"
+			}
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -12.6,
+			"global_rank": 215
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4,
+					"units": "%",
+					"date": "2005"
+				}
+			],
+			"global_rank": 155
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 201400,
+						"units": "USD",
+						"date": "2004"
+					}
+				],
+				"global_rank": 221
+			},
+			"commodities": {
+				"by_commodity": [
+					"canned coconut cream",
+					"copra",
+					"honey",
+					"vanilla",
+					"passion fruit products",
+					"pawpaws",
+					"root crops",
+					"limes",
+					"footballs",
+					"stamps",
+					"handicrafts"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 9038000,
+						"units": "USD",
+						"date": "2004"
+					}
+				],
+				"global_rank": 223
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"live animals",
+					"manufactured goods",
+					"machinery",
+					"fuels",
+					"lubricants",
+					"chemicals",
+					"drugs"
+				]
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 418000,
+					"units": "USD",
+					"date": "2002"
+				}
+			],
+			"global_rank": 202
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.416,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.2039,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "New Zealand dollars (NZD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"production": {
+				"kWh": 3000000,
+				"global_rank": 216,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 2790000,
+				"global_rank": 215,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 179,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 181,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 2300,
+				"global_rank": 214,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 87,
+					"global_rank": 65,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 158,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 191,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 13,
+					"global_rank": 68,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 184,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 177,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 178,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 179,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 187,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 50,
+				"global_rank": 215,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 189,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 54,
+				"global_rank": 211,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 181,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 185,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 164,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 170,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 179,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7252,
+			"global_rank": 213,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"broadcast_media": "1 government-owned TV station with many of the programs supplied by Television New Zealand; 1 government-owned radio station broadcasting in AM and FM (2019)",
+		"internet": {
+			"country_code": ".nu",
+			"users": {
+				"total": 1090,
+				"percent_of_population": 91.6,
+				"global_rank": 225,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 231,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 234,
+				"units": "km"
+			},
+			"paved": {
+				"value": 210,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 24,
+				"units": "km"
+			},
+			"global_rank": 206,
+			"date": "2017"
+		},
+		"merchant_marine": {
+			"total": 61,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 4
+				},
+				{
+					"type": "container ship",
+					"count": 1
+				},
+				{
+					"type": "general cargo",
+					"count": 29
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 25
+				}
+			],
+			"global_rank": 108,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Alofi"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of New Zealand"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

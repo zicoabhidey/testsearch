@@ -1,0 +1,1537 @@
+{
+	"name": "Brunei",
+	"introduction": {
+		"background": "The Sultanate of Brunei's influence peaked between the 15th and 17th centuries when its control extended over coastal areas of northwest Borneo and the southern Philippines. Brunei subsequently entered a period of decline brought on by internal strife over royal succession, colonial expansion of European powers, and piracy. In 1888, Brunei became a British protectorate; independence was achieved in 1984. The same family has ruled Brunei for over six centuries. Brunei benefits from extensive petroleum and natural gas fields, the source of one of the highest per capita GDPs in the world. In 2017, Brunei celebrated the 50th anniversary of the Sultan Hassanal BOLKIAH’s accession to the throne."
+	},
+	"geography": {
+		"location": "Southeastern Asia, along the northern coast of the island of Borneo, bordering the South China Sea and Malaysia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 4,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 114,
+				"minutes": 40,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 5765,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 5265,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 500,
+				"units": "sq km"
+			},
+			"global_rank": 173,
+			"comparative": "slightly smaller than Delaware"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 266,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Malaysia",
+					"border_length": {
+						"value": 266,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 161,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to median line"
+			}
+		},
+		"climate": "tropical; hot, humid, rainy",
+		"terrain": "flat coastal plain rises to mountains in east; hilly lowland in west",
+		"elevation": {
+			"mean_elevation": {
+				"value": 478,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "South China Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Bukit Pagon",
+				"elevation": {
+					"value": 1850,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"timber"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 2.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 71.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 10,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"natural_hazards": [
+			{
+				"description": "typhoons, earthquakes, and severe flooding are rare",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"no major environmental problems",
+				"but air pollution control is becoming a concern",
+				"seasonal trans-boundary haze from forest fires in Indonesia"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 464478,
+			"global_rank": 174,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Bruneian(s)",
+			"adjective": "Bruneian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Malay",
+					"percent": 65.7
+				},
+				{
+					"name": "Chinese",
+					"percent": 10.3
+				},
+				{
+					"name": "other",
+					"percent": 24
+				}
+			],
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Malay",
+					"note": "Bahasa Melayu; official"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Chinese dialects"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 78.8,
+					"note": "official"
+				},
+				{
+					"name": "Christian",
+					"percent": 8.7
+				},
+				{
+					"name": "Buddhist",
+					"percent": 7.8
+				},
+				{
+					"name": "other",
+					"percent": 4.7,
+					"note": "includes indigenous beliefs"
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 22.41,
+				"males": 53653,
+				"females": 50446
+			},
+			"15_to_24": {
+				"percent": 16.14,
+				"males": 37394,
+				"females": 37559
+			},
+			"25_to_54": {
+				"percent": 47.21,
+				"males": 103991,
+				"females": 115291
+			},
+			"55_to_64": {
+				"percent": 8.34,
+				"males": 19159,
+				"females": 19585
+			},
+			"65_and_over": {
+				"percent": 5.9,
+				"males": 13333,
+				"females": 14067
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 38.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 31,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 12.9,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 31.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 30.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 31.8,
+				"units": "years"
+			},
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.51,
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 16.5,
+			"global_rank": 104,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3.8,
+			"global_rank": 216,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.3,
+			"global_rank": 42,
+			"date": "2020"
+		},
+		"urbanization": {
+			"urban_population": {
+				"value": 78.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.66,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bandar Seri Begawan Note: The Boundaries Of The Capital City Were Expanded In",
+					"population": 2007,
+					"is_capital": true
+				},
+				{
+					"place": "Greatly Increasing The City Area"
+				},
+				{
+					"place": "The Population Of The Capital Increased Tenfold"
+				}
+			],
+			"date": "2011"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.95,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 31,
+			"global_rank": 109,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 8.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 10.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 7.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 75.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 80.4,
+				"units": "years"
+			},
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.75,
+			"global_rank": 159,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.61,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.9,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 14.1,
+			"global_rank": 129,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 9.6,
+			"global_rank": 65,
+			"date": "2009"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.4,
+			"global_rank": 88,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 93.4,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 28.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 28.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 29.5,
+				"units": "%"
+			},
+			"global_rank": 37,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Brunei Darussalam",
+			"conventional_short_form": "Brunei",
+			"local_long_form": "Negara Brunei Darussalam",
+			"local_short_form": "Brunei",
+			"etymology": "derivation of the name is unclear; according to legend, MUHAMMAD SHAH, who would become the first sultan of Brunei, upon discovering what would become Brunei exclaimed \"Baru nah,\" which roughly translates as \"there\" or \"that's it\""
+		},
+		"government_type": "absolute monarchy or sultanate",
+		"capital": {
+			"name": "Bandar Seri Begawan",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 4,
+					"minutes": 53,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 114,
+					"minutes": 56,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 8,
+				"note": "13 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; \"The Father of Independence\") who adopted the title of \"Seri Begawan\" (approximate meaning \"honored lord\") upon his abdication in 1967; \"bandar\" in Malay means \"town\" or \"city\"; the capital had previously been called Bandar Brunei (Brunei Town)"
+		},
+		"independence": {
+			"date": "1984-01-01",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "23 February",
+				"original_year": "1984",
+				"note": "1 January 1984 was the date of independence from the UK, 23 February 1984 was the date of independence from British protection"
+			},
+			{
+				"name": "the Sultan's birthday",
+				"day": "15 June"
+			}
+		],
+		"constitution": {
+			"history": "drafted 1954 to 1959, signed 29 September 1959",
+			"note": "some constitutional provisions suspended since 1962 under a State of Emergency, others suspended since independence in 1984",
+			"amendments": "proposed by the monarch; passage requires submission to the Privy Council for Legislative Council review and finalization takes place by proclamation; the monarch can accept or reject changes to the original proposal provided by the Legislative Council; amended several times"
+		},
+		"legal_system": "mixed legal system based on English common law and Islamic law; note - in April 2019, the full sharia penal codes came into force and apply to Muslims and non-Muslims in parallel with present common law codes",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICC"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Brunei",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "12 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age for village elections; universal"
+		},
+		"executive_branch": {
+			"chief_of_state": "Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967); note - the monarch is both chief of state and head of government",
+			"head_of_government": "Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)",
+			"cabinet": "Council of Ministers appointed and presided over by the monarch; note - 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council",
+			"elections_appointments": "none; the monarchy is hereditary"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (36 seats; members appointed by the sultan including 3 ex-officio members - the speaker and first and second secretaries; members appointed for 5-year terms)",
+			"elections": "appointed by the sultan",
+			"election_results": "NA; composition - men 33, women 3, percent of women 8.3%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the monarch to serve until age 65, and older if approved by the monarch; Sharia Court judges appointed by the monarch for life",
+			"subordinate_courts": "Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "National Development Party",
+					"name_alternative": "NDP",
+					"leaders": [
+						"YASSIN Affendi"
+					]
+				}
+			],
+			"note": "Brunei National Solidarity Party or PPKB [Abdul LATIF bin Chuchu] and People's Awareness Party or PAKAR [Awang Haji MAIDIN bin Haji Ahmad] were deregistered in 2007; parties are small and have limited activity"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Serbini ALI (since 28 January 2016)",
+				"chancery": "3520 International Court NW, Washington, DC 20008",
+				"telephone": "[1] (202) 237-1838",
+				"fax": "[1] (202) 885-0560",
+				"consulates": "New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Scott E. WOODARD (since 20 May 2020)",
+				"telephone": "[673] 238-4616",
+				"embassy": "Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115",
+				"mailing_address": "Unit 4280, Box 40, FPO AP 96507; P.O. Box 2991, Bandar Seri Begawan BS8675, Negara Brunei Darussalam",
+				"fax": "[673] 238-4604"
+			}
+		},
+		"flag_description": {
+			"description": "yellow with two diagonal bands of white (top, almost double width) and black starting from the upper hoist side; the national emblem in red is superimposed at the center; yellow is the color of royalty and symbolizes the sultanate; the white and black bands denote Brunei's chief ministers; the emblem includes five main components: a swallow-tailed flag, the royal umbrella representing the monarchy, the wings of four feathers symbolizing justice, tranquility, prosperity, and peace, the two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the crescent moon denoting Islam, the state religion; the state motto \"Always render service with God's guidance\" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads \"Brunei, the Abode of Peace\""
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "royal parasol"
+				}
+			],
+			"colors": [
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Allah Peliharakan Sultan\" (God Bless His Majesty)",
+			"lyrics_music": "Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji BESAR bin Sagap",
+			"note": "adopted 1951",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BX.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.\nPer capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.\nThe Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 33869999999.999996,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 33420000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 34270000000.000004,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 128,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 12130000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.3,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -2.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -0.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 162
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 78900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 79000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 82200,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 9,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 25,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 24.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 32.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 8.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 45.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -36.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 56.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 42.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 47.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 50.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 51.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 3
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"vegetables",
+				"fruits",
+				"chickens",
+				"water buffalo",
+				"cattle",
+				"goats",
+				"eggs"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"petroleum refining",
+				"liquefied natural gas",
+				"construction",
+				"agriculture",
+				"aquaculture",
+				"transportation"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.5,
+			"global_rank": 142,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 203600,
+				"global_rank": 168,
+				"date": "2014"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 4.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 62.8,
+						"units": "%"
+					},
+					"services": {
+						"value": 33,
+						"units": "%"
+					}
+				},
+				"date": "2008"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 108
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 2245000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4345000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 18.5,
+			"global_rank": 158,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -17.3,
+			"global_rank": 218,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 2.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 207
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 9
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 2021000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1470000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 40
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 5885000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5023000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 103
+			},
+			"commodities": {
+				"by_commodity": [
+					"mineral fuels",
+					"organic chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Japan",
+						"percent": 27.8
+					},
+					{
+						"name": "South Korea",
+						"percent": 12.4
+					},
+					{
+						"name": "Thailand",
+						"percent": 11.5
+					},
+					{
+						"name": "Malaysia",
+						"percent": 11.3
+					},
+					{
+						"name": "India",
+						"percent": 9.3
+					},
+					{
+						"name": "Singapore",
+						"percent": 7.7
+					},
+					{
+						"name": "Switzerland",
+						"percent": 5
+					},
+					{
+						"name": "China",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2998000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2658000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 147
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"mechanical appliance parts",
+					"mineral fuels",
+					"motor vehicles",
+					"electric machinery"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 19.6
+					},
+					{
+						"name": "Singapore",
+						"percent": 19
+					},
+					{
+						"name": "Malaysia",
+						"percent": 18.8
+					},
+					{
+						"name": "US",
+						"percent": 9.2
+					},
+					{
+						"name": "Germany",
+						"percent": 5.9
+					},
+					{
+						"name": "Japan",
+						"percent": 4.1
+					},
+					{
+						"name": "UK",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3488000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3366000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 105
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"global_rank": 204,
+			"note": "public external debt only; private external debt unavailable"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.394,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3814,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3814,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3749,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.267,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Bruneian dollars (BND) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 4014000000,
+				"global_rank": 127,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 3771000000,
+				"global_rank": 129,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 111,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 129,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 821000,
+				"global_rank": 134,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 5,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 56,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 161,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 179,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 100000,
+				"global_rank": 42,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 127400,
+				"global_rank": 33,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 160,
+				"global_rank": 82,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 1100000000,
+				"global_rank": 39,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 10310,
+				"global_rank": 100,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 18000,
+				"global_rank": 144,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 135,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 6948,
+				"global_rank": 159,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 12740000000,
+				"global_rank": 38,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 3936000000,
+				"global_rank": 66,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 8268000000.000001,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 97,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 260500000000,
+				"global_rank": 39,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 10040000,
+			"global_rank": 107,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 91415,
+				"subscriptions_per_one_hundred_inhabitants": 19.98,
+				"global_rank": 141,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 588616,
+				"subscriptions_per_one_hundred_inhabitants": 128.65,
+				"global_rank": 171,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-controlled Radio Television Brunei (RTB) operates 5 channels; 3 Malaysian TV stations are available; foreign TV broadcasts are available via satellite systems; RTB operates 5 radio networks and broadcasts on multiple frequencies; British Forces Broadcast Service (BFBS) provides radio broadcasts on 2 FM stations; some radio broadcast stations from Malaysia are available via repeaters",
+		"internet": {
+			"country_code": ".bn",
+			"users": {
+				"total": 426234,
+				"percent_of_population": 94.6,
+				"global_rank": 157,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 10,
+				"annual_passenger_traffic_on_registered_air_carriers": 1234455,
+				"annual_freight_traffic_on_registered_air_carriers": 129350000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "V8",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 216,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"over_3047_metres": 1,
+					"date": "2019"
+				}
+			},
+			"heliports": {
+				"total": 3,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 33,
+					"units": "km"
+				},
+				{
+					"type": "condensate/gas",
+					"length": 86,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 628,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 492,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 2976,
+				"units": "km"
+			},
+			"paved": {
+				"value": 2559,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 417,
+				"units": "km"
+			},
+			"global_rank": 162,
+			"date": "2014"
+		},
+		"waterways": {
+			"value": 209,
+			"units": "km",
+			"note": "navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links",
+			"global_rank": 96,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 104,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 18
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 84
+				}
+			],
+			"global_rank": 89,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Muara"
+			],
+			"oil_terminals": [
+				"Lumut",
+				"Seria"
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Lumut"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.3,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 21
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training",
+			"date": "2019"
+		},
+		"note": "Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes a Gurkha battalion and a jungle warfare school; there is also a long-term Singaporean military presence (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei",
+			"nonetheless, Brunei claims a maritime boundary extending as far as a median with Vietnam, thus asserting an implicit claim to Louisa Reef"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 20863,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "drug trafficking and illegally importing controlled substances are serious offenses in Brunei and carry a mandatory death penalty"
+		}
+	}
+}

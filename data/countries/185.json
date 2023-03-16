@@ -1,0 +1,1912 @@
+{
+	"name": "Poland",
+	"introduction": {
+		"background": "Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union \"Solidarity\" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A \"shock therapy\" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004. With its transformation to a democratic, market-oriented country largely completed and with large investments in defense, energy, and other infrastructure, Poland is an increasingly active member of Euro-Atlantic organizations."
+	},
+	"geography": {
+		"location": "Central Europe, east of Germany",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 52,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 20,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 312685,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 304255,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 8430,
+				"units": "sq km"
+			},
+			"global_rank": 71,
+			"comparative": "about twice the size of Georgia; slightly smaller than New Mexico"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 3071,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Belarus",
+					"border_length": {
+						"value": 418,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Czech Republic",
+					"border_length": {
+						"value": 796,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 467,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Lithuania",
+					"border_length": {
+						"value": 104,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia (Kaliningrad Oblast)",
+					"border_length": {
+						"value": 210,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Slovakia",
+					"border_length": {
+						"value": 541,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ukraine",
+					"border_length": {
+						"value": 535,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 440,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": "defined by international treaties"
+		},
+		"climate": "temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers",
+		"terrain": "mostly flat plain; mountains along southern border",
+		"elevation": {
+			"mean_elevation": {
+				"value": 173,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "near Raczki Elblaskie",
+				"elevation": {
+					"value": -2,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Rysy",
+				"elevation": {
+					"value": 2499,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"sulfur",
+				"copper",
+				"natural gas",
+				"silver",
+				"lead",
+				"salt",
+				"amber",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 48.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 36.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 30.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 21.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 970,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"decreased emphasis on heavy industry and increased environmental concern by post-communist governments has improved environment",
+				"air pollution remains serious because of emissions from burning low-quality coals in homes and from coal-fired power plants",
+				"the resulting acid rain causes forest damage",
+				"water pollution from industrial and municipal sources is a problem",
+				"as is disposal of hazardous wastes"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 94"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 38282325,
+			"global_rank": 37,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Pole(s)",
+			"adjective": "Polish"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Polish",
+					"percent": 96.9
+				},
+				{
+					"name": "Silesian",
+					"percent": 1.1
+				},
+				{
+					"name": "German",
+					"percent": 0.2
+				},
+				{
+					"name": "Ukrainian",
+					"percent": 0.1
+				},
+				{
+					"name": "other and unspecified",
+					"percent": 1.7
+				}
+			],
+			"note": "represents ethnicity declared first",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Polish",
+					"percent": 98.2,
+					"note": "official"
+				},
+				{
+					"name": "Silesian",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 1.1
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.3
+				}
+			],
+			"note": "data represents the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Catholic",
+					"percent": 85.9,
+					"breakdown": [
+						{
+							"name": "includes Roman Catholic and Greek Catholic",
+							"percent": 85.6
+						},
+						{
+							"name": "Armenian Catholic"
+						},
+						{
+							"name": "and Byzantine-Slavic Catholic .3%"
+						}
+					]
+				},
+				{
+					"name": "Orthodox",
+					"percent": 1.3,
+					"note": "almost all are Polish Autocephalous Orthodox"
+				},
+				{
+					"name": "Protestant",
+					"percent": 0.4,
+					"note": "mainly Augsburg Evangelical and Pentacostal"
+				},
+				{
+					"name": "other",
+					"percent": 0.4,
+					"note": "includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Mormon"
+				},
+				{
+					"name": "unspecified",
+					"percent": 12.1
+				}
+			],
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 14.83,
+				"males": 2918518,
+				"females": 2756968
+			},
+			"15_to_24": {
+				"percent": 9.8,
+				"males": 1928637,
+				"females": 1823894
+			},
+			"25_to_54": {
+				"percent": 43.33,
+				"males": 8384017,
+				"females": 8203646
+			},
+			"55_to_64": {
+				"percent": 13.32,
+				"males": 2424638,
+				"females": 2675351
+			},
+			"65_and_over": {
+				"percent": 18.72,
+				"males": 2867315,
+				"females": 4299341
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 51.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 28.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 41.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.6,
+				"units": "years"
+			},
+			"global_rank": 39,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.19,
+			"global_rank": 210,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.9,
+			"global_rank": 206,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.6,
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.3,
+			"global_rank": 120,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk",
+		"urbanization": {
+			"urban_population": {
+				"value": 60,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.25,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Warsaw",
+					"population": 1783000,
+					"is_capital": true
+				},
+				{
+					"place": "Krakow",
+					"population": 769000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.91,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.67,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 2,
+			"global_rank": 184,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 185,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 78.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.3,
+				"units": "years"
+			},
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.38,
+			"global_rank": 218,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 62.3,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.38,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"vectorborne_diseases": [
+				"tickborne encephalitis"
+			],
+			"date": "2016"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 23.1,
+			"global_rank": 69,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.6,
+			"global_rank": 84,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 15,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 11.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 11.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 12.1,
+				"units": "%"
+			},
+			"global_rank": 112,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Poland",
+			"conventional_short_form": "Poland",
+			"local_long_form": "Rzeczpospolita Polska",
+			"local_short_form": "Polska",
+			"former": "Polish People's Republic",
+			"etymology": "name derives from the Polanians, a west Slavic tribe that united several surrounding Slavic groups (9th-10th centuries A.D.) and who passed on their name to the country; the name of the tribe likely comes from the Slavic \"pole\" (field or plain), indicating the flat nature of their country"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Warsaw",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 52,
+					"minutes": 15,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 21,
+					"minutes": 0,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the origin of the name is unknown; the Polish designation \"Warszawa\" was the name of a fishing village and several legends/traditions link the city's founding to a man named Wars or Warsz"
+		},
+		"independence": {
+			"date": "1918-11-11",
+			"note": "republic proclaimed; notable earlier dates: 14 April 966 (adoption of Christianity, traditional founding date), 1 July 1569 (Polish-Lithuanian Commonwealth created)"
+		},
+		"national_holidays": [
+			{
+				"name": "Constitution Day",
+				"day": "3 May",
+				"original_year": "1791"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 2 April 1997, approved by referendum 25 May 1997, effective 17 October 1997",
+			"amendments": "proposed by at least one fifth of Sejm deputies, by the Senate, or by the president of the republic; passage requires at least two-thirds majority vote in the Sejm and absolute majority vote in the Senate; amendments to articles relating to sovereignty, personal freedoms, and constitutional amendment procedures also require passage by majority vote in a referendum; amended 2006, 2009"
+		},
+		"legal_system": "civil law system; judicial review of legislative, administrative, and other governmental acts; constitutional law rulings of the Constitutional Tribunal are final",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "both parents must be citizens of Poland",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Andrzej DUDA (since 6 August 2015)",
+			"head_of_government": "Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI and Jaroslaw GOWIN (since 16 November 2015), Jacek SASIN (since 4 June 2019)",
+			"cabinet": "Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm",
+			"election_results": "Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%"
+		},
+		"legislative_branch": {
+			"description": "bicameral legislature consists of: Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)\nSejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)",
+			"elections": "Senate - last held on 13 October 2019 (next to be held in October 2023)\nSejm - last held on 13 October 2019 (next to be held in October 2023)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%\nSejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%",
+			"note": "the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)",
+			"judge_selection_and_term_of_office": "president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for 9-year terms",
+			"subordinate_courts": "administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Civic Coalition",
+					"name_alternative": "KO",
+					"leaders": [
+						"Grzegorz SCHETYNA"
+					]
+				},
+				{
+					"name": "Confederation Liberty and Independence",
+					"name_alternative": "KWiN",
+					"leaders": [
+						"Janusz KORWIN-MIKKE",
+						"Robert WINNICKI",
+						"Grzegorz BRAUN"
+					]
+				},
+				{
+					"name": "Democratic Left Alliance",
+					"name_alternative": "SLD",
+					"leaders": [
+						"Wlodzimierz CZARZASTY"
+					]
+				},
+				{
+					"name": "German Minority",
+					"name_alternative": "MN",
+					"leaders": [
+						"Ryszard GALLA"
+					]
+				},
+				{
+					"name": "Kukiz 15",
+					"name_alternative": "K15",
+					"leaders": [
+						"Pawel KUKIZ"
+					]
+				},
+				{
+					"name": "Law and Justice",
+					"name_alternative": "PiS",
+					"leaders": [
+						"Jaroslaw KACZYNSKI"
+					]
+				},
+				{
+					"name": "TERAZ! ",
+					"leaders": [
+						"Ryszard PETRU"
+					],
+					"note": "NOW!"
+				},
+				{
+					"name": "Nowoczesna",
+					"name_alternative": "N",
+					"leaders": [
+						"Katarzyna LUBNAUER"
+					],
+					"note": "Modern"
+				},
+				{
+					"name": "Polish People's Party",
+					"name_alternative": "PSL",
+					"leaders": [
+						"Wladyslaw KOSINIAK-KAMYSZ"
+					]
+				},
+				{
+					"name": "Razem ",
+					"leaders": [
+						"collective leadership"
+					],
+					"note": "Together"
+				},
+				{
+					"name": "Wiosna ",
+					"leaders": [
+						"Robert BIEDRON"
+					],
+					"note": "Spring"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CEI"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Piotr Antoni WILCZEK (since 18 January 2017)",
+				"chancery": "2640 16th Street NW, Washington, DC 20009",
+				"telephone": "[1] (202) 499-1700",
+				"fax": "[1] (202) 328-6271",
+				"consulates_general": "Chicago, Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Georgette MOSBACHER (since 6 September 2018)",
+				"telephone": "[48] (22) 504-2000",
+				"embassy": "Aleje Ujazdowskie 29/31 00-540 Warsaw",
+				"mailing_address": "American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch)",
+				"fax": "[48] (22) 504-2226",
+				"consulates_general": "Krakow"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field",
+			"note": "similar to the flags of Indonesia and Monaco which are red (top) and white"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "white crowned eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Mazurek Dabrowskiego\" (Dabrowski's Mazurka)",
+			"lyrics_music": "Jozef WYBICKI/traditional",
+			"note": "adopted 1927; the anthem, commonly known as \"Jeszcze Polska nie zginela\" (Poland Has Not Yet Perished), was written in 1797; the lyrics resonate strongly with Poles because they reflect the numerous occasions in which the nation's lands have been occupied",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/PL.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.\nThe Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.\nPoland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1126000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1076000000000.0001,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1044999999999.9999,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 23,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 524799999999.99994,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.55,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 5.36,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 4.83,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 61
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 29600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 28300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 27500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 69,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 58.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 54,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -49.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 2.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 40.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 57.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 19.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 97
+		},
+		"agriculture_products": {
+			"products": [
+				"potatoes",
+				"fruits",
+				"vegetables",
+				"wheat",
+				"poultry",
+				"eggs",
+				"pork",
+				"dairy"
+			]
+		},
+		"industries": {
+			"industries": [
+				"machine building",
+				"iron",
+				"steel",
+				"coal mining",
+				"chemicals",
+				"shipbuilding",
+				"food processing",
+				"glass",
+				"beverages",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 7.5,
+			"global_rank": 28,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 9561000,
+				"global_rank": 51,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 11.5,
+						"units": "%"
+					},
+					"industry": {
+						"value": 30.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 57.6,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.43,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 6.08,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 87
+		},
+		"population_below_poverty_line": {
+			"value": 17.6,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 23.9,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 207500000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 216200000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.5,
+			"global_rank": 45,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.7,
+			"global_rank": 96,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 50.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 54.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 100,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 106
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 2920000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -7520000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 35
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 224600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 195700000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 23
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"intermediate manufactured goods",
+					"miscellaneous manufactured goods",
+					"food",
+					"live animals"
+				],
+				"date": "2012"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 27.4
+					},
+					{
+						"name": "Czech Republic",
+						"percent": 6.4
+					},
+					{
+						"name": "UK",
+						"percent": 6.4
+					},
+					{
+						"name": "France",
+						"percent": 5.6
+					},
+					{
+						"name": "Italy",
+						"percent": 4.9
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 223800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 193200000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 23
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"intermediate manufactured goods",
+					"chemicals",
+					"minerals",
+					"fuels",
+					"lubricants",
+					"related materials"
+				],
+				"date": "2011"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 27.9
+					},
+					{
+						"name": "China",
+						"percent": 8
+					},
+					{
+						"name": "Russia",
+						"percent": 6.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6
+					},
+					{
+						"name": "Italy",
+						"percent": 5.3
+					},
+					{
+						"name": "France",
+						"percent": 4.2
+					},
+					{
+						"name": "Czech Republic",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 113300000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 114400000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 22
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 241000000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 347800000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 31
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.748,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.9459,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.9459,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.7721,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 3.1538,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "zlotych (PLN) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 156900000000,
+				"global_rank": 25,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 149400000000,
+				"global_rank": 24,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 12020000000,
+				"global_rank": 17,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 14020000000,
+				"global_rank": 17,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 38110000,
+				"global_rank": 28,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 79,
+					"global_rank": 87,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 166,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 2,
+					"global_rank": 141,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 19,
+					"global_rank": 44,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 21000,
+				"global_rank": 65,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 4451,
+				"global_rank": 66,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 493100,
+				"global_rank": 19,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 126000000,
+				"global_rank": 66,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 554200,
+				"global_rank": 30,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 649600,
+				"global_rank": 30,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 104800,
+				"global_rank": 43,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 222300,
+				"global_rank": 32,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 5748000000,
+				"global_rank": 49,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 20100000000,
+				"global_rank": 38,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 1246000000,
+				"global_rank": 39,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 15720000000,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 79790000000,
+				"global_rank": 56,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 359000000,
+			"global_rank": 18,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 6907937,
+				"subscriptions_per_one_hundred_inhabitants": 18.01,
+				"global_rank": 22,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 52916105,
+				"subscriptions_per_one_hundred_inhabitants": 137.96,
+				"global_rank": 30,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run public TV operates 2 national channels supplemented by 16 regional channels and several niche channels; privately owned entities operate several national TV networks and a number of special interest channels; many privately owned channels broadcasting locally; roughly half of all households are linked to either satellite or cable TV systems providing access to foreign television networks; state-run public radio operates 5 national networks and 17 regional radio stations; 2 privately owned national radio networks, several commercial stations broadcasting to multiple cities, and many privately owned local radio stations (2019)",
+		"internet": {
+			"country_code": ".pl",
+			"users": {
+				"total": 29791401,
+				"percent_of_population": 77.54,
+				"global_rank": 28,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 169,
+				"annual_passenger_traffic_on_registered_air_carriers": 9277538,
+				"annual_freight_traffic_on_registered_air_carriers": 271490000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "SP",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 126,
+					"global_rank": 46,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 87,
+					"over_3047_metres": 5,
+					"2438_to_3047_metres": 30,
+					"1524_to_2437_metres": 36,
+					"914_to_1523_metres": 10,
+					"under_914_metres": 6,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 39,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 17,
+					"under_914_metres": 21,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 6,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 14198,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 1374,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 2483,
+					"units": "km"
+				}
+			],
+			"date": "2016"
+		},
+		"railways": {
+			"total": {
+				"length": 19231,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 18836,
+				"electrified": 11874,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"broad_gauge": {
+				"length": 395,
+				"units": "km\n1.524-m"
+			},
+			"global_rank": 16,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 420000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 291000,
+				"units": "km",
+				"note": "includes 1,492 km of expressways, 1,559 of motorways"
+			},
+			"unpaved": {
+				"value": 129000,
+				"units": "km"
+			},
+			"global_rank": 17,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 3997,
+			"units": "km",
+			"note": "navigable rivers and canals",
+			"global_rank": 27,
+			"date": "2009"
+		},
+		"merchant_marine": {
+			"total": 144,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 12
+				},
+				{
+					"type": "oil tanker",
+					"count": 7
+				},
+				{
+					"type": "other",
+					"count": 125
+				}
+			],
+			"global_rank": 73,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Gdansk",
+				"Gdynia",
+				"Swinoujscie"
+			],
+			"container_ports": [
+				{
+					"place": "Gdansk",
+					"twenty_foot_equivalent_units": 1593761
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Swinoujscie"
+			],
+			"river_ports": [
+				"Szczecin (River Oder)"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.02,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.89,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.99,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.22,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 52
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"as a member state that forms part of the EU's external border, Poland has implemented the strict Schengen border rules to restrict illegal immigration and trade along its eastern borders with Belarus and Ukraine"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 9870,
+						"country_of_origin": "Russia"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 1328,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "despite diligent counternarcotics measures and international information sharing on cross-border crimes, a major illicit producer of synthetic drugs for the international market; minor transshipment point for Southwest Asian heroin and Latin American cocaine to Western Europe"
+		}
+	}
+}

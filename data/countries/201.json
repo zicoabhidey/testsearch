@@ -1,0 +1,1603 @@
+{
+	"name": "Sao Tome And Principe",
+	"introduction": {
+		"background": "Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister are held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation."
+	},
+	"geography": {
+		"location": "Central Africa, islands in the Gulf of Guinea, just north of the Equator, west of Gabon",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 1,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 7,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 964,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 964,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 185,
+			"comparative": "more than five times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 209,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "measured from claimed archipelagic baselines"
+			}
+		},
+		"climate": "tropical; hot, humid; one rainy season (October to May)",
+		"terrain": "volcanic, mountainous",
+		"elevation": {
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Pico de Sao Tome",
+				"elevation": {
+					"value": 2024,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 50.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 40.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 28.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 21.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 100,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation and illegal logging",
+				"soil erosion and exhaustion",
+				"inadequate sewage treatment in cities",
+				"biodiversity preservation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 211122,
+			"global_rank": 184,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Sao Tomean(s)",
+			"adjective": "Sao Tomean"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestico"
+				},
+				{
+					"name": "angolares",
+					"note": "descendants of Angolan slaves"
+				},
+				{
+					"name": "forros",
+					"note": "descendants of freed slaves"
+				},
+				{
+					"name": "servicais",
+					"note": "contract laborers from Angola, Mozambique, and Cabo Verde"
+				},
+				{
+					"name": "tongas",
+					"note": "children of servicais born on the islands"
+				},
+				{
+					"name": "Europeans",
+					"note": "primarily Portuguese"
+				},
+				{
+					"name": "Asians",
+					"note": "mostly Chinese"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Portuguese",
+					"percent": 98.4,
+					"note": "official"
+				},
+				{
+					"name": "Forro",
+					"percent": 36.2
+				},
+				{
+					"name": "Cabo Verdian",
+					"percent": 8.5
+				},
+				{
+					"name": "French",
+					"percent": 6.8
+				},
+				{
+					"name": "Angolar",
+					"percent": 6.6
+				},
+				{
+					"name": "English",
+					"percent": 4.9
+				},
+				{
+					"name": "Lunguie",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 2.4,
+					"note": "including sign language"
+				}
+			],
+			"note": "shares sum to more than 100% because some respondents gave more than one answer on the census",
+			"date": "2012"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Catholic",
+					"percent": 55.7
+				},
+				{
+					"name": "Adventist",
+					"percent": 4.1
+				},
+				{
+					"name": "Assembly of God",
+					"percent": 3.4
+				},
+				{
+					"name": "New Apostolic",
+					"percent": 2.9
+				},
+				{
+					"name": "Mana",
+					"percent": 2.3
+				},
+				{
+					"name": "Universal Kingdom of God",
+					"percent": 2
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 6.2
+				},
+				{
+					"name": "none",
+					"percent": 21.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 1
+				}
+			],
+			"date": "2012"
+		},
+		"demographic_profile": "Sao Tome and Principe’s youthful age structure – more than 60% of the population is under the age of 25 – and high fertility rate ensure future population growth. Although Sao Tome has a net negative international migration rate, emigration is not a sufficient safety valve to reduce already high levels of unemployment and poverty. While literacy and primary school attendance have improved in recent years, Sao Tome still struggles to improve its educational quality and to increase its secondary school completion rate. Despite some improvements in education and access to healthcare, Sao Tome and Principe has much to do to decrease its high poverty rate, create jobs, and increase its economic growth.\nThe population of Sao Tome and Principe descends primarily from the islands’ colonial Portuguese settlers, who first arrived in the late 15th century, and the much larger number of African slaves brought in for sugar production and the slave trade. For about 100 years after the abolition of slavery in 1876, the population was further shaped by the widespread use of imported unskilled contract laborers from Portugal’s other African colonies, who worked on coffee and cocoa plantations. In the first decades after abolition, most workers were brought from Angola under a system similar to slavery. While Angolan laborers were technically free, they were forced or coerced into long contracts that were automatically renewed and extended to their children. Other contract workers from Mozambique and famine-stricken Cape Verde first arrived in the early 20th century under short-term contracts and had the option of repatriation, although some chose to remain in Sao Tome and Principe.\nToday’s Sao Tomean population consists of mesticos (creole descendants of the European immigrants and African slaves that first inhabited the islands), forros (descendants of freed African slaves), angolares (descendants of runaway African slaves that formed a community in the south of Sao Tome Island and today are fishermen), servicais (contract laborers from Angola, Mozambique, and Cape Verde), tongas (locally born children of contract laborers), and lesser numbers of Europeans and Asians.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 39.77,
+				"males": 42690,
+				"females": 41277
+			},
+			"15_to_24": {
+				"percent": 21.59,
+				"males": 23088,
+				"females": 22487
+			},
+			"25_to_54": {
+				"percent": 31.61,
+				"males": 32900,
+				"females": 33834
+			},
+			"55_to_64": {
+				"percent": 4.17,
+				"males": 4095,
+				"females": 4700
+			},
+			"65_and_over": {
+				"percent": 2.87,
+				"males": 2631,
+				"females": 3420
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 81,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 75.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 18.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 19.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 19.7,
+				"units": "years"
+			},
+			"global_rank": 205,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.58,
+			"global_rank": 65,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 29.7,
+			"global_rank": 33,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.3,
+			"global_rank": 153,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -7.9,
+			"global_rank": 213,
+			"date": "2020"
+		},
+		"population_distribution": "Sao Tome, the capital city, has roughly a quarter of the nation's population; Santo Antonio is the largest town on Principe; the northern areas of both islands have the highest population densities as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 74.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.33,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Sao Tome",
+					"population": 80000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.87,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.77,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 19.4,
+			"date": "2008"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 130,
+			"global_rank": 62,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 41.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 43.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 39.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 36,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 66.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 64.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 67.8,
+				"units": "years"
+			},
+			"global_rank": 187,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.82,
+			"global_rank": 33,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 40.6,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.05,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.9,
+			"date": "2011"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 88.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 11.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 3.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 54.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 35.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 49.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 45.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 64.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 50.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.7,
+				"global_rank": 56,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 1100,
+				"global_rank": 144,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2018"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 12.4,
+			"global_rank": 133,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 8.8,
+			"global_rank": 69,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.9,
+			"global_rank": 68,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 92.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 96.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 89.5,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.8,
+				"units": "%"
+			},
+			"global_rank": 62,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Democratic Republic of Sao Tome and Principe",
+			"conventional_short_form": "Sao Tome and Principe",
+			"local_long_form": "Republica Democratica de Sao Tome e Principe",
+			"local_short_form": "Sao Tome e Principe",
+			"etymology": "Sao Tome was named after Saint THOMAS the Apostle by the Portuguese who discovered the island on 21 December 1470 (or 1471), the saint's feast day; Principe is a shortening of the original Portuguese name of \"Ilha do Principe\" (Isle of the Prince) referring to the Prince of Portugal to whom duties on the island's sugar crop were paid"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Sao Tome",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 0,
+					"minutes": 20,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 6,
+					"minutes": 44,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "named after Saint Thomas the Apostle"
+		},
+		"administrative_divisions": [
+			{
+				"name": "distrito)",
+				"type": ""
+			},
+			{
+				"name": "1 autonomous region",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1975-07-12",
+			"note": "from Portugal"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "12 July",
+				"original_year": "1975"
+			}
+		],
+		"constitution": {
+			"history": "approved 5 November 1975",
+			"amendments": "proposed by the National Assembly; passage requires two-thirds majority vote by the Assembly; the Assembly can propose to the president of the republic that an amendment be submitted to a referendum; revised several times, last in 2006"
+		},
+		"legal_system": "mixed legal system of civil law based on the Portuguese model and customary law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Sao Tome and Principe",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Evaristo CARVALHO (since 3 September 2016)",
+			"head_of_government": "Prime Minister Jorge Bom JESUS (since 3 December 2018)",
+			"cabinet": "Council of Ministers proposed by the prime minister, appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 July 2016 and 7 August 2016 (next to be held in July 2021); prime minister chosen by the National Assembly and approved by the president",
+			"election_results": "Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)",
+			"elections": "last held on 7 October 2018 (next to be held in October 2022)",
+			"election_results": "percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 45, women 10, percent of women 18.2%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the National Assembly; judge tenure NA; Constitutional Court judges nominated by the president and elected by the National Assembly for 5-year terms",
+			"subordinate_courts": "Court of First Instance; Audit Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Force for Democratic Change Movement",
+					"name_alternative": "MDFM",
+					"leaders": [
+						"Fradique Bandeira Melo DE MENEZES"
+					]
+				},
+				{
+					"name": "Independent Democratic Action",
+					"name_alternative": "ADI",
+					"leaders": [
+						"vacant"
+					]
+				},
+				{
+					"name": "Movement for the Liberation of Sao Tome and Principe-Social Democratic Party",
+					"name_alternative": "MLSTP-PSD",
+					"leaders": [
+						"Aurelio MARTINS"
+					]
+				},
+				{
+					"name": "Party for Democratic Convergence-Reflection Group",
+					"name_alternative": "PCD-GR",
+					"leaders": [
+						"Leonel Mario D'ALVA"
+					]
+				},
+				{
+					"name": "Other small parties"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CEMAC"
+			},
+			{
+				"organization": "CPLP"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Carlos Filomeno Azevedo Agostinho das NEVES (since 3 December 2013)",
+				"chancery": "675 Third Avenue, Suite 1807, New York, NY 10017",
+				"telephone": "[1] (212) 651-8116",
+				"fax": "[1] (212) 651-8117"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of green (top), yellow (double width), and green with two black five-pointed stars placed side by side in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red recalls the struggle for independence, and yellow represents cocoa, one of the country's main agricultural products; the two stars symbolize the two main islands",
+			"note": "uses the popular Pan-African colors of Ethiopia"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "palm tree"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Independencia total\" (Total Independence)",
+			"lyrics_music": "Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto de Sousa e ALMEIDA",
+			"note": "adopted 1975",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TP.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.\nSão Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.\nConsiderable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.\nVolatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 686000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 660400000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 633900000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 208,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 393000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 76
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 191,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 81.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 33.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 7.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -40.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 11.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 14.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 73.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 18.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 19.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 107
+		},
+		"agriculture_products": {
+			"products": [
+				"cocoa",
+				"coconuts",
+				"palm kernels",
+				"copra",
+				"cinnamon",
+				"pepper",
+				"coffee",
+				"bananas",
+				"papayas",
+				"beans",
+				"poultry",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"light construction",
+				"textiles",
+				"soap",
+				"beer",
+				"fish processing",
+				"timber"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5,
+			"global_rank": 57,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 72600,
+				"global_rank": 186,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 26.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 21.4,
+						"units": "%"
+					},
+					"services": {
+						"value": 52.5,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 12.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 12.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 166
+		},
+		"population_below_poverty_line": {
+			"value": 66.2,
+			"units": "%",
+			"date": "2009"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 103000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 112400000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 26.2,
+			"global_rank": 114,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.4,
+			"global_rank": 113,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 88.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 93.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 27
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 182
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -32000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -23000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 76
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 15600000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 9310000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 215
+			},
+			"commodities": {
+				"by_commodity": [
+					"cocoa",
+					"copra",
+					"coffee",
+					"palm oil"
+				],
+				"date": "2010"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Guyana",
+						"percent": 43.7
+					},
+					{
+						"name": "Germany",
+						"percent": 23.6
+					},
+					{
+						"name": "Portugal",
+						"percent": 6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.5
+					},
+					{
+						"name": "Poland",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 127700000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 119100000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 213
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"electrical equipment",
+					"food products",
+					"petroleum products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Portugal",
+						"percent": 54.7
+					},
+					{
+						"name": "Angola",
+						"percent": 16.5
+					},
+					{
+						"name": "China",
+						"percent": 5.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 58950000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 61500000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 185
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 292900000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 308500000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 184
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 22689,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 21797,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 22149,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 22091,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 18466,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "dobras (STD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 71,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 87,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 25,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 66000000,
+				"global_rank": 203,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 61380000,
+				"global_rank": 203,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 193,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 195,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 18100,
+				"global_rank": 205,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 88,
+					"global_rank": 60,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 177,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 11,
+					"global_rank": 115,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 166,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 196,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 189,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 191,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 191,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 198,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 1000,
+				"global_rank": 206,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 199,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 1027,
+				"global_rank": 202,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 193,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 195,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 178,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 184,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 190,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 148100,
+			"global_rank": 204,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 4614,
+				"subscriptions_per_one_hundred_inhabitants": 2.22,
+				"global_rank": 205,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 160189,
+				"subscriptions_per_one_hundred_inhabitants": 77.08,
+				"global_rank": 188,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 government-owned TV station; 1 government-owned radio station; 3 independent local radio stations authorized in 2005 with 2 operating at the end of 2006; transmissions of multiple international broadcasters are available",
+		"internet": {
+			"country_code": ".st",
+			"users": {
+				"total": 61193,
+				"percent_of_population": 29.93,
+				"global_rank": 192,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 1,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "S9",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 2,
+					"global_rank": 206,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1300,
+				"units": "km"
+			},
+			"paved": {
+				"value": 230,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 1070,
+				"units": "km"
+			},
+			"global_rank": 177,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 15,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 11
+				},
+				{
+					"type": "other",
+					"count": 4
+				}
+			],
+			"global_rank": 148,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Sao Tome"
+			]
+		}
+	},
+	"military_and_security": {
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

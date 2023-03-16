@@ -1,0 +1,1810 @@
+{
+	"name": "Honduras",
+	"introduction": {
+		"background": "Once part of Spain's vast empire in the New World, Honduras became an independent nation in 1821. After two and a half decades of mostly military rule, a freely elected civilian government came to power in 1982. During the 1980s, Honduras proved a haven for anti-Sandinista contras fighting the Marxist Nicaraguan Government and an ally to Salvadoran Government forces fighting leftist guerrillas. The country was devastated by Hurricane Mitch in 1998, which killed about 5,600 people and caused approximately $2 billion in damage. Since then, the economy has slowly rebounded."
+	},
+	"geography": {
+		"location": "Central America, bordering the Caribbean Sea, between Guatemala and Nicaragua and bordering the Gulf of Fonseca (North Pacific Ocean), between El Salvador and Nicaragua",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 15,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 86,
+				"minutes": 30,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 112090,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 111890,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 200,
+				"units": "sq km"
+			},
+			"global_rank": 104,
+			"comparative": "slightly larger than Tennessee"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1575,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Guatemala",
+					"border_length": {
+						"value": 244,
+						"units": "km"
+					}
+				},
+				{
+					"country": "El Salvador",
+					"border_length": {
+						"value": 391,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Nicaragua",
+					"border_length": {
+						"value": 940,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 823,
+			"units": "km",
+			"note": "Caribbean Sea 669 km, Gulf of Fonseca 163 km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "subtropical in lowlands, temperate in mountains",
+		"terrain": "mostly mountains in interior, narrow coastal plains",
+		"elevation": {
+			"mean_elevation": {
+				"value": 684,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Cerro Las Minas",
+				"elevation": {
+					"value": 2870,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"gold",
+				"silver",
+				"copper",
+				"lead",
+				"zinc",
+				"iron ore",
+				"antimony",
+				"coal",
+				"fish",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 28.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 9.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 15.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 45.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.9,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 900,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area",
+		"natural_hazards": [
+			{
+				"description": "frequent, but generally mild, earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "extremely susceptible to damaging hurricanes and floods along the Caribbean coast",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"urban population expanding",
+				"deforestation results from logging and the clearing of land for agricultural purposes",
+				"further land degradation and soil erosion hastened by uncontrolled development and improper land use practices such as farming of marginal lands",
+				"mining activities polluting Lago de Yojoa (the country's largest source of fresh water)",
+				"as well as several rivers and streams",
+				"with heavy metals"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 9235340,
+			"global_rank": 95,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Honduran(s)",
+			"adjective": "Honduran"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 90,
+					"note": "mixed Amerindian and European"
+				},
+				{
+					"name": "Amerindian",
+					"percent": 7
+				},
+				{
+					"name": "black",
+					"percent": 2
+				},
+				{
+					"name": "white",
+					"percent": 1
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				},
+				{
+					"name": "Amerindian dialects"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 46
+				},
+				{
+					"name": "Protestant",
+					"percent": 41
+				},
+				{
+					"name": "atheist",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 2
+				},
+				{
+					"name": "none",
+					"percent": 9
+				}
+			],
+			"date": "2014"
+		},
+		"demographic_profile": "Honduras is one of the poorest countries in Latin America and has one of the world's highest murder rates. More than half of the population lives in poverty and per capita income is one of the lowest in the region. Poverty rates are higher among rural and indigenous people and in the south, west, and along the eastern border than in the north and central areas where most of Honduras' industries and infrastructure are concentrated. The increased productivity needed to break Honduras' persistent high poverty rate depends, in part, on further improvements in educational attainment. Although primary-school enrollment is near 100%, educational quality is poor, the drop-out rate and grade repetition remain high, and teacher and school accountability is low.\nHonduras' population growth rate has slowed since the 1990s, but it remains high at nearly 2% annually because the birth rate averages approximately three children per woman and more among rural, indigenous, and poor women. Consequently, Honduras' young adult population - ages 15 to 29 - is projected to continue growing rapidly for the next three decades and then stabilize or slowly shrink. Population growth and limited job prospects outside of agriculture will continue to drive emigration. Remittances represent about a fifth of GDP.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 30.2,
+				"males": 1411537,
+				"females": 1377319
+			},
+			"15_to_24": {
+				"percent": 21.03,
+				"males": 969302,
+				"females": 972843
+			},
+			"25_to_54": {
+				"percent": 37.79,
+				"males": 1657260,
+				"females": 1832780
+			},
+			"55_to_64": {
+				"percent": 5.58,
+				"males": 233735,
+				"females": 281525
+			},
+			"65_and_over": {
+				"percent": 5.4,
+				"males": 221779,
+				"females": 277260
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 47.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 25.2,
+				"units": "years"
+			},
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.27,
+			"global_rank": 85,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 18.5,
+			"global_rank": 84,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.7,
+			"global_rank": 205,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.4,
+			"global_rank": 153,
+			"date": "2020"
+		},
+		"population_distribution": "most residents live in the mountainous western half of the country; unlike other Central American nations, Honduras is the only one with an urban population that is distributed between two large centers - the capital of Tegucigalpa and the city of San Pedro Sula; the Rio Ulua valley in the north is the only densely populated lowland area",
+		"urbanization": {
+			"urban_population": {
+				"value": 58.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.75,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Tegucigalpa",
+					"population": 1444000,
+					"is_capital": true
+				},
+				{
+					"place": "San Pedro Sula",
+					"population": 903000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.83,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.8,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 20.4,
+			"date": "2011"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 65,
+			"global_rank": 86,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 14.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 16.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 12.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 100,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.3,
+				"units": "years"
+			},
+			"global_rank": 129,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.09,
+			"global_rank": 101,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 73.2,
+			"units": "%",
+			"date": "2011"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.31,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 88.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 94.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 11.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 5.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 95.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 83.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 90.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 4.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 16.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 9.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 77,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 25000,
+				"global_rank": 82,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 21.4,
+			"global_rank": 89,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 7.1,
+			"global_rank": 72,
+			"date": "2012"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6,
+			"global_rank": 32,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 87.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 87.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 87.3,
+				"units": "%"
+			},
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 10,
+				"units": "years"
+			},
+			"male": {
+				"value": 10,
+				"units": "years"
+			},
+			"female": {
+				"value": 11,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 10.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 7.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 16.3,
+				"units": "%"
+			},
+			"global_rank": 120,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Honduras",
+			"conventional_short_form": "Honduras",
+			"local_long_form": "Republica de Honduras",
+			"local_short_form": "Honduras",
+			"etymology": "the name means \"depths\" in Spanish and refers to the deep anchorage in the northern Bay of Trujillo"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Tegucigalpa; note - article eight of the Honduran constitution states that the twin cities of Tegucigalpa and Comayaguela, jointly, constitute the capital of the Republic of Honduras; however, virtually all governmental institutions are on the Tegucigalpa side, which in practical terms makes Tegucigalpa the capital",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 14,
+					"minutes": 6,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 87,
+					"minutes": 13,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -6,
+				"note": "1 hour behind Washington, DC during Standard Time"
+			},
+			"etymology": "while most sources agree that Tegucigalpa is of Nahuatl derivation, there is no consensus on its original meaning"
+		},
+		"independence": {
+			"date": "1821-09-15",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "15 September",
+				"original_year": "1821"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved 11 January 1982, effective 20 January 1982",
+			"amendments": "proposed by the National Congress with at least two-thirds majority vote of the membership; passage requires at least two-thirds majority vote of Congress in its next annual session; constitutional articles, such as the form of government, national sovereignty, the presidential term, and the procedure for amending the constitution, cannot be amended; amended many times, last in 2015",
+			"note": "the 2015 amendment struck down several constitutional articles on presidential term limits"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "1 to 3 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)",
+			"cabinet": "Cabinet appointed by president",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 4-year term; election last held on 26 November 2017 (next to be held in November 2021); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits",
+			"election_results": "Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion conta la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other .9%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Congress or Congreso Nacional (128 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 27 November 2017 (next to be held on 28 November 2021)",
+			"election_results": "percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1; composition - men 101, women 27, percent of women 21.1%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction",
+			"judge_selection_and_term_of_office": "court president elected by his peers; judges elected by the National Congress from candidates proposed by the Nominating Board, a diverse 7-member group of judicial officials and other government and non-government officials nominated by each of their organizations; judges elected by Congress for renewable, 7-year terms",
+			"subordinate_courts": "courts of appeal; courts of first instance; justices of the peace"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance against the Dictatorship",
+					"name_alternative": "Alianza de Oposicion conta la Dictadura",
+					"leaders": [
+						"Salvador NASRALLA"
+					],
+					"note": "electoral coalition"
+				},
+				{
+					"name": "Anti-Corruption Party",
+					"name_alternative": "PAC",
+					"leaders": [
+						"Marlene ALVARENGA"
+					]
+				},
+				{
+					"name": "Christian Democratic Party",
+					"name_alternative": "DC",
+					"leaders": [
+						"Lucas AGUILERA"
+					]
+				},
+				{
+					"name": "Democratic Unification Party",
+					"name_alternative": "UD",
+					"leaders": [
+						"Alfonso DIAZ"
+					]
+				},
+				{
+					"name": "Freedom and Refoundation Party",
+					"name_alternative": "LIBRE",
+					"leaders": [
+						"Jose Manuel ZELAYA Rosales"
+					]
+				},
+				{
+					"name": "Honduran Patriotic Alliance",
+					"name_alternative": "AP",
+					"leaders": [
+						"Romeo VASQUEZ Velasquez"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "PL",
+					"leaders": [
+						"Luis Orlando ZELAYA Medrano"
+					]
+				},
+				{
+					"name": "National Party of Honduras",
+					"name_alternative": "PNH",
+					"leaders": [
+						"Reinaldo SANCHEZ Rivera"
+					]
+				},
+				{
+					"name": "Innovation and Unity Party",
+					"name_alternative": "PINU",
+					"leaders": [
+						"Guillermo VALLE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "CACM"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "EITI ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-11"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC ",
+				"note": "suspended"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "subscriber"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "SICA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO ",
+				"note": "suspended"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Luis Fernando SUAZO BARAHONA (since 17 September 2020)",
+				"chancery": "Suite 700, 1250 Connecticut Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 966-7702",
+				"fax": "[1] (202) 966-9751",
+				"consulates_general": "Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco",
+				"consulates": "Dallas, McAllen (TX)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Colleen A. HOEY (since August 2019)",
+				"telephone": "[504] 2236-9320, 2238-5114",
+				"embassy": "Avenida La Paz, Tegucigalpa M.D.C.",
+				"mailing_address": "American Embassy, APO AA 34022, Tegucigalpa",
+				"fax": "[504] 2236-9037"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people",
+			"note": "similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "scarlet macaw"
+				},
+				{
+					"symbol": "white-tailed deer"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional de Honduras\" (National Anthem of Honduras)",
+			"lyrics_music": "Augusto Constancio COELLO/Carlos HARTLING",
+			"note": "adopted 1915; the anthem's seven verses chronicle Honduran history; on official occasions, only the chorus and last verse are sung",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/HO.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.\nHonduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.\nThe economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 46300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 44180000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 42580000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 112,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 22980000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 3.8,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 56
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5400,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 170,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 77.7,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 13.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 43.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -58.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 14.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 28.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 57,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 22.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 20.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 83
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"coffee",
+				"citrus",
+				"corn",
+				"African palm",
+				"beef",
+				"timber",
+				"shrimp",
+				"tilapia",
+				"lobster",
+				"sugar",
+				"oriental vegetables"
+			]
+		},
+		"industries": {
+			"industries": [
+				"sugar processing",
+				"coffee",
+				"woven",
+				"knit apparel",
+				"wood products",
+				"cigars"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.5,
+			"global_rank": 65,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 3735000,
+				"global_rank": 96,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 39.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 20.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 39.8,
+						"units": "%"
+					}
+				},
+				"date": "2005"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 6.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 82,
+			"note": "about one-third of the people are underemployed"
+		},
+		"population_below_poverty_line": {
+			"value": 29.6,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 38.4,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 4658000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 5283000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.3,
+			"global_rank": 150,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.7,
+			"global_rank": 120,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 39.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 38.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 131
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 152
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -380000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -587000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 110
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 8675000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 7841000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 94
+			},
+			"commodities": {
+				"by_commodity": [
+					"coffee",
+					"apparel",
+					"coffee",
+					"shrimp",
+					"automobile wire harnesses",
+					"cigars",
+					"bananas",
+					"gold",
+					"palm oil",
+					"fruit",
+					"lobster",
+					"lumber"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 34.5
+					},
+					{
+						"name": "Germany",
+						"percent": 8.9
+					},
+					{
+						"name": "Belgium",
+						"percent": 7.7
+					},
+					{
+						"name": "El Salvador",
+						"percent": 7.3
+					},
+					{
+						"name": "Netherlands",
+						"percent": 7.2
+					},
+					{
+						"name": "Guatemala",
+						"percent": 5.2
+					},
+					{
+						"name": "Nicaragua",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11320000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10560000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 96
+			},
+			"commodities": {
+				"by_commodity": [
+					"communications equipment",
+					"machinery",
+					"transport",
+					"industrial raw materials",
+					"chemical products",
+					"fuels",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 40.3
+					},
+					{
+						"name": "Guatemala",
+						"percent": 10.5
+					},
+					{
+						"name": "China",
+						"percent": 8.5
+					},
+					{
+						"name": "Mexico",
+						"percent": 6.2
+					},
+					{
+						"name": "El Salvador",
+						"percent": 5.7
+					},
+					{
+						"name": "Panama",
+						"percent": 4.4
+					},
+					{
+						"name": "Costa Rica",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 4708000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3814000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 96
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 8625000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 7852000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 118
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 23.74,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 22.995,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 22.995,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 22.098,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 21.137,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "lempiras (HNL) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 2000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 87.6,
+					"units": "%",
+					"note": "2016"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 72.2,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2017"
+			},
+			"production": {
+				"kWh": 8500999999.999999,
+				"global_rank": 108,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 7220000000,
+				"global_rank": 107,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 536000000,
+				"global_rank": 67,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 195000000,
+				"global_rank": 94,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 2546000,
+				"global_rank": 108,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 40,
+					"global_rank": 169,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 107,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 25,
+					"global_rank": 77,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 34,
+					"global_rank": 11,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 149,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 137,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 141,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 145,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 157,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 59000,
+				"global_rank": 97,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 12870,
+				"global_rank": 77,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 56120,
+				"global_rank": 75,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 146,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 159,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 121,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 139,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 147,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 9436000,
+			"global_rank": 110,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 458696,
+				"subscriptions_per_one_hundred_inhabitants": 5.03,
+				"global_rank": 98,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 6633309,
+				"subscriptions_per_one_hundred_inhabitants": 72.74,
+				"global_rank": 107,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple privately owned terrestrial TV networks, supplemented by multiple cable TV networks; Radio Honduras is the lone government-owned radio network; roughly 300 privately owned radio stations",
+		"internet": {
+			"country_code": ".hn",
+			"users": {
+				"total": 2853505,
+				"percent_of_population": 31.7,
+				"global_rank": 101,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 26,
+				"annual_passenger_traffic_on_registered_air_carriers": 251149,
+				"annual_freight_traffic_on_registered_air_carriers": 450000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "HR",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 103,
+					"global_rank": 53,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 13,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 3,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 90,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 16,
+					"under_914_metres": 73,
+					"date": "2013"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 699,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 164,
+				"units": "km\n1.067-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 101,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 14742,
+				"units": "km"
+			},
+			"paved": {
+				"value": 3367,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 11375,
+				"units": "km",
+				"note": "1,543 km summer only"
+			},
+			"note": "an additional 8,951 km of non-official roads used by the coffee industry",
+			"global_rank": 126,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 465,
+			"units": "km",
+			"note": "most navigable only by small craft",
+			"global_rank": 84,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 527,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 247
+				},
+				{
+					"type": "oil tanker",
+					"count": 83
+				},
+				{
+					"type": "other",
+					"count": 197
+				}
+			],
+			"global_rank": 41,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"La Ceiba",
+				"Puerto Cortes",
+				"San Lorenzo",
+				"Tela"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 73
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary 2- to 3-year military service; no conscription",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"International Court of Justice (ICJ) ruled on the delimitation of \"bolsones\" (disputed areas) along the El Salvador-Honduras border in 1992 with final settlement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003",
+			"the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca with consideration of Honduran access to the Pacific",
+			"El Salvador continues to claim tiny Conejo Island, not mentioned in the ICJ ruling, off Honduras in the Gulf of Fonseca",
+			"Honduras claims the Belizean-administered Sapodilla Cays off the coast of Belize in its constitution, but agreed to a joint ecological park around the cays should Guatemala consent to a maritime corridor in the Caribbean under the OAS-sponsored 2002 Belize-Guatemala Differendum"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 247000,
+				"note": "violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018",
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment point for drugs and narcotics; illicit producer of cannabis, cultivated on small plots and used principally for local consumption; corruption is a major problem; some money-laundering activity"
+		}
+	}
+}

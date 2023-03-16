@@ -1,0 +1,1662 @@
+{
+	"name": "Cuba",
+	"introduction": {
+		"background": "The native Amerindian population of Cuba began to decline after the European discovery of the island by Christopher COLUMBUS in 1492 and following its development as a Spanish colony during the next several centuries. Large numbers of African slaves were imported to work the coffee and sugar plantations, and Havana became the launching point for the annual treasure fleets bound for Spain from Mexico and Peru. Spanish rule eventually provoked an independence movement and occasional rebellions were harshly suppressed. US intervention during the Spanish-American War in 1898 assisted the Cubans in overthrowing Spanish rule. The Treaty of Paris established Cuban independence from Spain in 1898 and, following three-and-a-half years of subsequent US military rule, Cuba became an independent republic in 1902 after which the island experienced a string of governments mostly dominated by the military and corrupt politicians. Fidel CASTRO led a rebel army to victory in 1959; his authoritarian rule held the subsequent regime together for nearly five decades. He stepped down as president in February 2008 in favor of his younger brother Raul CASTRO. Cuba's communist revolution, with Soviet support, was exported throughout Latin America and Africa during the 1960s, 1970s, and 1980s. Miguel DIAZ-CANEL Bermudez, hand-picked by Raul CASTRO to succeed him, was approved as president by the National Assembly and took office on 19 April 2018.\nThe country faced a severe economic downturn in 1990 following the withdrawal of former Soviet subsidies worth $4-6 billion annually. Cuba traditionally and consistently portrays the US embargo, in place since 1961, as the source of its difficulties. As a result of efforts begun in December 2014 to re-establish diplomatic relations with the Cuban Government, which were severed in January 1961, the US and Cuba reopened embassies in their respective countries in July 2015. The embargo remains in place, and the relationship between the US and Cuba remains tense.\nIllicit migration of Cuban nationals to the US via maritime and overland routes has been a longstanding challenge. On 12 January 2017, the US and Cuba signed a Joint Statement ending the so-called \"wet-foot, dry-foot\" policy – by which Cuban nationals who reached US soil were permitted to stay. Illicit Cuban migration by sea has since dropped significantly, but land border crossings continue. In FY 2018, the US Coast Guard interdicted 312 Cuban nationals at sea. Also in FY 2018, 7,249 Cuban migrants presented themselves at various land border ports of entry throughout the US."
+	},
+	"geography": {
+		"location": "Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, 150 km south of Key West, Florida",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 21,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 80,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 110860,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 109820,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1040,
+				"units": "sq km"
+			},
+			"global_rank": 107,
+			"comparative": "slightly smaller than Pennsylvania"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 28.5,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "US Naval Base at Guantanamo Bay",
+					"border_length": {
+						"value": 28.5,
+						"units": "km"
+					}
+				}
+			],
+			"note": "Guantanamo Naval Base is leased by the US and remains part of Cuba"
+		},
+		"coastline": {
+			"value": 3735,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)",
+		"terrain": "mostly flat to rolling plains, with rugged hills and mountains in the southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 108,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Pico Turquino",
+				"elevation": {
+					"value": 1974,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"cobalt",
+				"nickel",
+				"iron ore",
+				"chromium",
+				"copper",
+				"salt",
+				"timber",
+				"silica",
+				"petroleum",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 60.3,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 33.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 22.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 27.3,
+					"units": "%"
+				},
+				"other": {
+					"value": 12.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 8700,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana",
+		"natural_hazards": [
+			{
+				"description": "the east coast is subject to hurricanes from August to November (in general, the country averages about one hurricane every other year)",
+				"type": "hazard"
+			},
+			{
+				"description": "droughts are common",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil degradation and desertification (brought on by poor farming techniques and natural disasters) are the main environmental problems",
+				"biodiversity loss",
+				"deforestation",
+				"air and water pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 11059062,
+			"global_rank": 83,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Cuban(s)",
+			"adjective": "Cuban"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white",
+					"percent": 64.1
+				},
+				{
+					"name": "mulatto or mixed",
+					"percent": 26.6
+				},
+				{
+					"name": "black",
+					"percent": 9.3
+				}
+			],
+			"note": "data represent racial self-identification from Cuba's 2012 national census",
+			"date": "2012"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 59.2
+				},
+				{
+					"name": "folk",
+					"percent": 17.4
+				},
+				{
+					"name": "other .4%"
+				},
+				{
+					"name": "none",
+					"percent": 23
+				}
+			],
+			"note": "folk religion includes religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba",
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.34,
+				"males": 929927,
+				"females": 877035
+			},
+			"15_to_24": {
+				"percent": 11.81,
+				"males": 678253,
+				"females": 627384
+			},
+			"25_to_54": {
+				"percent": 41.95,
+				"males": 2335680,
+				"females": 2303793
+			},
+			"55_to_64": {
+				"percent": 14.11,
+				"males": 760165,
+				"females": 799734
+			},
+			"65_and_over": {
+				"percent": 15.8,
+				"males": 794743,
+				"females": 952348
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 46.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 23.3,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 23.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 43.8,
+				"units": "years"
+			},
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.25,
+			"global_rank": 212,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 10.4,
+			"global_rank": 188,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.1,
+			"global_rank": 58,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3.7,
+			"global_rank": 185,
+			"date": "2020"
+		},
+		"population_distribution": "large population clusters found throughout the country, the more significant ones being in the larger towns and cities, particularly the capital of Havana",
+		"urbanization": {
+			"urban_population": {
+				"value": 77.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.14,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Havana",
+					"population": 2140000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.95,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.83,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 36,
+			"global_rank": 105,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 184,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.7,
+				"units": "years"
+			},
+			"global_rank": 59,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.71,
+			"global_rank": 169,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 73.7,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 8.3,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 5.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 94.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 5.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 96.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 94.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 95.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 3.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 5.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 85,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 32000,
+				"global_rank": 72,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A"
+			],
+			"vectorborne_diseases": [
+				"dengue fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 24.6,
+			"global_rank": 56,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 12.8,
+			"global_rank": 1,
+			"date": "2010"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 6.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 5.6,
+				"units": "%"
+			},
+			"global_rank": 159,
+			"date": "2010"
+		},
+		"note": "illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called \"wet-foot, dry-foot\" policy on 12 January 2017"
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Cuba",
+			"conventional_short_form": "Cuba",
+			"local_long_form": "Republica de Cuba",
+			"local_short_form": "Cuba",
+			"etymology": "name derives from the Taino Indian designation for the island \"coabana\" meaning \"great place\""
+		},
+		"government_type": "communist state",
+		"capital": {
+			"name": "Havana",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 23,
+					"minutes": 7,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 82,
+					"minutes": 21,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -5,
+				"note": "same time as Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in March; ends first Sunday in November; note - Cuba has been known to alter the schedule of DST on short notice in an attempt to conserve electricity for lighting",
+			"etymology": "the sites of Spanish colonial cities often retained their original Taino names; Habana, the Spanish name for the city, may be based on the name of a local Taino chief, HABAGUANEX"
+		},
+		"administrative_divisions": [
+			{
+				"name": "provincia) and 1 special municipality",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1902-05-20"
+		},
+		"national_holidays": [
+			{
+				"name": "Triumph of the Revolution",
+				"day": "1 January",
+				"original_year": "1959",
+				"note": "Liberation Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest drafted 14 July 2018, approved by the National Assembly 22 December 2018, approved by referendum 24 February 2019",
+			"amendments": "proposed by the National Assembly of People’s Power; passage requires approval of at least two-thirds majority of the National Assembly membership; amendments to constitutional articles on the authorities of the National Assembly, Council of State, or any rights and duties in the constitution also require approval in a referendum; constitutional articles on the Cuban political, social, and economic system cannot be amended"
+		},
+		"legal_system": "civil law system based on Spanish civil code",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "unknown"
+		},
+		"suffrage": {
+			"age": 16,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Miguel DIAZ-CANEL Bermudez (since 10 October 2019); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Roberto MORALES Ojeda, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019)",
+			"cabinet": "Council of Ministers proposed by the president and appointed by the National Assembly; it is subordinate to the 21-member Council of State, which is elected by the Assembly to act on its behalf when it is not in session",
+			"elections_appointments": "president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 10 October 2019 (next to be held in 2024)",
+			"election_results": "Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%\nnote - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Council of State; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Council of State"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in july 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election",
+			"elections": "last held on 11 March 2018 (next to be held in early 2023)",
+			"election_results": "Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition - men 283, women 322, percent of women 53.2%"
+		},
+		"judicial_branch": {
+			"highest_courts": "People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)",
+			"judge_selection_and_term_of_office": "professional judges elected by the National Assembly are not subject to a specific term; lay judges nominated by workplace collectives and neighborhood associations and elected by municipal or provincial assemblies; lay judges appointed for 5-year terms and serve up to 30 days per year",
+			"subordinate_courts": "People's Provincial Courts; People's Regional Courts; People's Courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Cuban Communist Party",
+					"name_alternative": "PCC",
+					"leaders": [
+						"Raul CASTRO Ruz"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ALBA"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM ",
+				"note": "observer"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS ",
+				"note": "excluded from formal participation since 1962"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Jose Ramon CABANAS Rodriguez (since 17 September 2015)",
+				"chancery": "2630 16th Street NW, Washington, DC 20009",
+				"telephone": "[1] (202) 797-8518"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Mara TEKACH (since 20 June 2018)",
+				"telephone": "[53] (7) 839-4100",
+				"embassy": "Calzada between L & M Streets, Vedado, Havana",
+				"mailing_address": "use embassy street address",
+				"fax": "NA"
+			}
+		},
+		"flag_description": {
+			"description": "five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas",
+			"note": "design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "royal palm"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"La Bayamesa\" (The Bayamo Song)",
+			"lyrics_music": "Pedro FIGUEREDO",
+			"note": "adopted 1940; Pedro FIGUEREDO first performed \"La Bayamesa\" in 1868 during the Ten Years War against the Spanish; a leading figure in the uprising, FIGUEREDO was captured in 1870 and executed by a firing squad; just prior to the fusillade he is reputed to have shouted, \"Morir por la Patria es vivir\" (To die for the country is to live), a line from the anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CU.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "The government continues to balance the need for loosening its socialist economic system against a desire for firm political control. In April 2011, the government held the first Cuban Communist Party Congress in almost 13 years, during which leaders approved a plan for wide-ranging economic changes. Since then, the government has slowly and incrementally implemented limited economic reforms, including allowing Cubans to buy electronic appliances and cell phones, stay in hotels, and buy and sell used cars. The government has cut state sector jobs as part of the reform process, and it has opened up some retail services to \"self-employment,\" leading to the rise of so-called \"cuentapropistas\" or entrepreneurs. More than 500,000 Cuban workers are currently registered as self-employed.\nThe Cuban regime has updated its economic model to include permitting the private ownership and sale of real estate and new vehicles, allowing private farmers to sell agricultural goods directly to hotels, allowing the creation of non-agricultural cooperatives, adopting a new foreign investment law, and launching a \"Special Development Zone\" around the Mariel port.\nSince 2016, Cuba has attributed slowed economic growth in part to problems with petroleum product deliveries from Venezuela. Since late 2000, Venezuela provided petroleum products to Cuba on preferential terms, supplying at times nearly 100,000 barrels per day. Cuba paid for the oil, in part, with the services of Cuban personnel in Venezuela, including some 30,000 medical professionals.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 137000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 134800000000.00002,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 134199999999.99998,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 79,
+				"note": "data are in 2016 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 93790000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 0.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 4.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 151
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12300,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 12200,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 12100,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 128,
+				"note": "data are in 2016 US dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 57,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 31.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 9.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 14.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -12.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 22.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 73.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 11.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 12.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 12.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 156
+		},
+		"agriculture_products": {
+			"products": [
+				"sugar",
+				"tobacco",
+				"citrus",
+				"coffee",
+				"rice",
+				"potatoes",
+				"beans",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"nickel",
+				"cobalt",
+				"pharmaceuticals",
+				"tobacco",
+				"construction",
+				"steel",
+				"cement",
+				"agricultural machinery",
+				"sugar"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -1.2,
+			"global_rank": 179,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 4691000,
+				"global_rank": 83,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 18,
+						"units": "%"
+					},
+					"industry": {
+						"value": 10,
+						"units": "%"
+					},
+					"services": {
+						"value": 72,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 2.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 29,
+			"note": "data are official rates; unofficial estimates are about double"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 54520000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 64640000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 58.1,
+			"global_rank": 8,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -10.8,
+			"global_rank": 214,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 47.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 42.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 110
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 5.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 4.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 178
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 985400000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2008000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 50
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 2630000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2546000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 131
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"nickel",
+					"medical products",
+					"sugar",
+					"tobacco",
+					"fish",
+					"citrus",
+					"coffee"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Venezuela",
+						"percent": 17.8
+					},
+					{
+						"name": "Spain",
+						"percent": 12.2
+					},
+					{
+						"name": "Russia",
+						"percent": 7.9
+					},
+					{
+						"name": "Lebanon",
+						"percent": 6.1
+					},
+					{
+						"name": "Indonesia",
+						"percent": 4.5
+					},
+					{
+						"name": "Germany",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11060000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10280000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 98
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"food",
+					"machinery",
+					"equipment",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 22
+					},
+					{
+						"name": "Spain",
+						"percent": 14
+					},
+					{
+						"name": "Russia",
+						"percent": 5
+					},
+					{
+						"name": "Brazil",
+						"percent": 5
+					},
+					{
+						"name": "Mexico",
+						"percent": 4.9
+					},
+					{
+						"name": "Italy",
+						"percent": 4.8
+					},
+					{
+						"name": "US",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 11350000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 12300000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 72
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 30060000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 29890000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 80
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 22.7,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Cuban pesos (CUP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 19280000000,
+				"global_rank": 76,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 16160000000,
+				"global_rank": 75,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 124,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 138,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 6998000,
+				"global_rank": 74,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 91,
+					"global_rank": 53,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 75,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 1,
+					"global_rank": 147,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 8,
+					"global_rank": 85,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 50000,
+				"global_rank": 53,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 111,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 112400,
+				"global_rank": 41,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 124000000,
+				"global_rank": 68,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 104100,
+				"global_rank": 67,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 175000,
+				"global_rank": 60,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 24190,
+				"global_rank": 69,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 52750,
+				"global_rank": 78,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 1189000000,
+				"global_rank": 66,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 1189000000,
+				"global_rank": 90,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 90,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 113,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 70790000000,
+				"global_rank": 57,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 26940000,
+			"global_rank": 78,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1475679,
+				"subscriptions_per_one_hundred_inhabitants": 13.31,
+				"global_rank": 64,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 5911586,
+				"subscriptions_per_one_hundred_inhabitants": 53.32,
+				"global_rank": 112,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2,) 2 international channels (Cubavision Internacional and Caribe,) 16 regional TV stations, 6 national radio networks and multiple regional stations; the Cuban government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media (2019)",
+		"internet": {
+			"country_code": ".cu",
+			"users": {
+				"total": 6353020,
+				"percent_of_population": 57.15,
+				"note": "private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled \"intranet\"",
+				"global_rank": 76,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 4,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 18,
+				"annual_passenger_traffic_on_registered_air_carriers": 560754,
+				"annual_freight_traffic_on_registered_air_carriers": 17760000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "CU",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 133,
+					"global_rank": 41,
+					"date": "2017"
+				},
+				"paved": {
+					"total": 64,
+					"over_3047_metres": 7,
+					"2438_to_3047_metres": 10,
+					"1524_to_2437_metres": 16,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 27,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 69,
+					"914_to_1523_metres": 11,
+					"under_914_metres": 58,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 41,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 230,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 8367,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 8195,
+				"electrified": 124,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 172,
+				"units": "km\n1.000-m"
+			},
+			"note": {
+				"length": 82,
+				"units": "km",
+				"gauge": "of"
+			},
+			"global_rank": 26,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 60000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 20000,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 40000,
+				"units": "km"
+			},
+			"global_rank": 76,
+			"date": "2015"
+		},
+		"waterways": {
+			"value": 240,
+			"units": "km",
+			"note": "almost all navigable inland waterways are near the mouths of rivers",
+			"global_rank": 94,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 52,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 12
+				},
+				{
+					"type": "oil tanker",
+					"count": 3
+				},
+				{
+					"type": "other",
+					"count": 37
+				}
+			],
+			"global_rank": 116,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Antilla",
+				"Cienfuegos",
+				"Guantanamo",
+				"Havana",
+				"Matanzas",
+				"Mariel",
+				"Nuevitas Bay",
+				"Santiago de Cuba"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				},
+				{
+					"value": 3.5,
+					"units": "percent_of_gdp",
+					"date": "2014"
+				}
+			],
+			"global_rank": 29
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females",
+			"date": "2017"
+		},
+		"note": "the FAR remains well trained and professional in nature, but the collapse of the Soviet Union deprived the Cuban military of its major economic and logistic support and had a significant impact on the state of equipment; the lack of replacement parts for its existing equipment has increasingly affected operational capabilities (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"US Naval Base at Guantanamo Bay is leased to US and only mutual agreement or US abandonment of the facility can terminate the lease"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Cuba is a source country for adults and children subjected to sex trafficking and forced labor; child sex trafficking and child sex tourism occur in Cuba, while some Cubans are forced into prostitution in South America and the Caribbean; allegations have been made that some Cubans have been forced or coerced to work at Cuban medical missions abroad; assessing the scope of trafficking within Cuba is difficult because of the lack of information",
+			"tier_rating": "Tier 2 Watch List - Cuba does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; Cuba’s penal code does not criminalize all forms of human trafficking, but the government reported that it is in the process of amending its criminal code to comply with the 2000 UN TIP Protocol, to which it acceded in 2013; the government in 2014 prosecuted and convicted 13 sex traffickers and provided services to the victims in those cases but does not have shelters specifically for trafficking victims; the government did not recognize forced labor as a problem and took no action to address it; state media produced newspaper articles and TV and radio programs to raise public awareness about sex trafficking (2015)"
+		},
+		"illicit_drugs": {
+			"note": "territorial waters and air space serve as transshipment zone for US- and European-bound drugs; established the death penalty for certain drug-related crimes in 1999"
+		}
+	}
+}

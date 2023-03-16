@@ -1,0 +1,1844 @@
+{
+	"name": "Togo",
+	"introduction": {
+		"background": "From the 11th to the 16th centuries, various ethnic groups settled the Togo region. From the 16th to the 18th centuries, the coastal region became a major slave trading center and the surrounding region  took on the name of \"The Slave Coast.\" In 1884, Germany declared a region including present-day Togo as a protectorate called Togoland. After World War I, rule over Togo was transferred to France. French Togoland became Togo upon independence in 1960. Gen. Gnassingbe EYADEMA, installed as military ruler in 1967, ruled Togo with a heavy hand for almost four decades. Despite the facade of multi-party elections instituted in the early 1990s, the government was largely dominated by President EYADEMA, whose Rally of the Togolese People (RPT) party has been in power almost continually since 1967 and its successor, the Union for the Republic, maintains a majority of seats in today's legislature. Upon EYADEMA's death in February 2005, the military installed the president's son, Faure GNASSINGBE, and then engineered his formal election two months later. Democratic gains since then allowed Togo to hold its first relatively free and fair legislative elections in October 2007. Since 2007, President GNASSINGBE has started the country along a gradual path to democratic reform. Togo has since held multiple presidential and legislative elections deemed generally free and fair by international observers. Despite those positive moves, political reconciliation has moved slowly, and the country experiences periodic outbursts of violent protest by frustrated citizens. Recent constitutional changes to institute a runoff system in presidential elections and establish term limits has done little to reduce the resentment many Togolese feel after over 50 years of one-family rule."
+	},
+	"geography": {
+		"location": "Western Africa, bordering the Bight of Benin, between Benin and Ghana",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 1,
+				"minutes": 10,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 56785,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 54385,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2400,
+				"units": "sq km"
+			},
+			"global_rank": 127,
+			"comparative": "slightly smaller than West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1880,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Benin",
+					"border_length": {
+						"value": 651,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Burkina Faso",
+					"border_length": {
+						"value": 131,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Ghana",
+					"border_length": {
+						"value": 1098,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 56,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 30,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; hot, humid in south; semiarid in north",
+		"terrain": "gently rolling savanna in north; central hills; southern plateau; low coastal plain with extensive lagoons and marshes",
+		"elevation": {
+			"mean_elevation": {
+				"value": 236,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mont Agou",
+				"elevation": {
+					"value": 986,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"phosphates",
+				"limestone",
+				"marble",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 67.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 45.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 18.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 4.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 27.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 70,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "hot, dry harmattan wind can reduce visibility in north during winter",
+				"type": "hazard"
+			},
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation attributable to slash-and-burn agriculture and the use of wood for fuel",
+				"very little rain forest still present and what remains is highly degraded",
+				"desertification",
+				"water pollution presents health hazards and hinders the fishing industry",
+				"air pollution increasing in urban areas"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 8608444,
+			"global_rank": 99,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Togolese (singular and plural)",
+			"adjective": "Togolese"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Adja-Ewe/Mina",
+					"percent": 42.4
+				},
+				{
+					"name": "Kabye/Tem",
+					"percent": 25.9
+				},
+				{
+					"name": "Para-Gourma/Akan",
+					"percent": 17.1
+				},
+				{
+					"name": "Akposso/Akebu",
+					"percent": 4.1
+				},
+				{
+					"name": "Ana-Ife",
+					"percent": 3.2
+				},
+				{
+					"name": "other Togolese",
+					"percent": 1.7
+				},
+				{
+					"name": "foreigners",
+					"percent": 5.2
+				},
+				{
+					"name": "no response .4%",
+					"note": "2013-14 est."
+				}
+			],
+			"note": "Togo has an estimated 37 ethnic groups"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official, the language of commerce"
+				},
+				{
+					"name": "Ewe and Mina",
+					"note": "the two major African languages in the south"
+				},
+				{
+					"name": "Kabye  and Dagomba",
+					"note": "sometimes spelled Kabiye; the two major African languages in the north"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 43.7
+				},
+				{
+					"name": "folk",
+					"percent": 35.6
+				},
+				{
+					"name": "Muslim",
+					"percent": 14
+				},
+				{
+					"name": "Hindu <.1%"
+				},
+				{
+					"name": "Buddhist <.1%"
+				},
+				{
+					"name": "Jewish <.1%"
+				},
+				{
+					"name": "other .5%"
+				},
+				{
+					"name": "none",
+					"percent": 6.2
+				}
+			],
+			"date": "2010"
+		},
+		"demographic_profile": "Togo’s population is estimated to have grown to four times its size between 1960 and 2010. With nearly 60% of its populace under the age of 25 and a high annual growth rate attributed largely to high fertility, Togo’s population is likely to continue to expand for the foreseeable future. Reducing fertility, boosting job creation, and improving education will be essential to reducing the country’s high poverty rate. In 2008, Togo eliminated primary school enrollment fees, leading to higher enrollment but increased pressure on limited classroom space, teachers, and materials. Togo has a good chance of achieving universal primary education, but educational quality, the underrepresentation of girls, and the low rate of enrollment in secondary and tertiary schools remain concerns.\nTogo is both a country of emigration and asylum. In the early 1990s, southern Togo suffered from the economic decline of the phosphate sector and ethnic and political repression at the hands of dictator Gnassingbe EYADEMA and his northern, Kabye-dominated administration. The turmoil led 300,000 to 350,000 predominantly southern Togolese to flee to Benin and Ghana, with most not returning home until relative stability was restored in 1997. In 2005, another outflow of 40,000 Togolese to Benin and Ghana occurred when violence broke out between the opposition and security forces over the disputed election of EYADEMA’s son Faure GNASSINGBE to the presidency. About half of the refugees reluctantly returned home in 2006, many still fearing for their safety. Despite ethnic tensions and periods of political unrest, Togo in September 2017 was home to more than 9,600 refugees from Ghana.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 39.73,
+				"males": 1716667,
+				"females": 1703230
+			},
+			"15_to_24": {
+				"percent": 19.03,
+				"males": 817093,
+				"females": 820971
+			},
+			"25_to_54": {
+				"percent": 33.26,
+				"males": 1423554,
+				"females": 1439380
+			},
+			"55_to_64": {
+				"percent": 4.42,
+				"males": 179779,
+				"females": 200392
+			},
+			"65_and_over": {
+				"percent": 3.57,
+				"males": 132304,
+				"females": 175074
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 77.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 72,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.1,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 19.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 20,
+				"units": "years"
+			},
+			"male": {
+				"value": 19.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.3,
+				"units": "years"
+			},
+			"global_rank": 197,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.56,
+			"global_rank": 21,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 32,
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.5,
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0,
+			"global_rank": 97,
+			"date": "2020"
+		},
+		"population_distribution": "one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 42.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.76,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Lome",
+					"population": 1828000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.76,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 21,
+			"date": "2013"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 396,
+			"global_rank": 28,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 38.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 44.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 32.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 41,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 66.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 63.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 69.3,
+				"units": "years"
+			},
+			"global_rank": 185,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.22,
+			"global_rank": 26,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 23.9,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.03,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 0.7,
+			"date": "2011"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 92.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 56,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 70.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 44,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 29.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 80.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 16.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 41.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 19.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 83.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 57.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 2.3,
+				"global_rank": 22,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 120000,
+				"global_rank": 41,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 3000,
+				"global_rank": 36,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever",
+				"yellow fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 8.4,
+			"global_rank": 152,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 15.2,
+			"global_rank": 39,
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5,
+			"global_rank": 63,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 63.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 77.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 51.2,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years",
+				"note": "NA"
+			},
+			"female": {
+				"value": 12,
+				"units": "years",
+				"note": "NA"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 3.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 3.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 4.1,
+				"units": "%"
+			},
+			"global_rank": 168,
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Togolese Republic",
+			"conventional_short_form": "Togo",
+			"local_long_form": "Republique Togolaise",
+			"local_short_form": "none",
+			"former": "French Togoland",
+			"etymology": "derived from the Ewe words \"to\" (river) and \"godo\" (on the other side) to give the sense of \"on the other side of the river\"; originally, this designation applied to the town of Togodo (now Togoville) on the northern shore of Lake Togo, but the name was eventually extended to the entire nation"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Lome",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 6,
+					"minutes": 7,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 1,
+					"minutes": 13,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "Lome comes from \"alotime\" which in the native Ewe language means \"among the alo plants\"; alo trees dominated the city's original founding site"
+		},
+		"independence": {
+			"date": "1960-04-27",
+			"note": "from French-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "27 April",
+				"original_year": "1960"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 27 September 1992, effective 14 October 1992",
+			"amendments": "proposed by the president of the republic or supported by at least one fifth of the National Assembly membership; passage requires four-fifths majority vote by the Assembly; a referendum is required if approved by only two-thirds majority of the Assembly or if requested by the president; constitutional articles on the republican and secular form of government cannot be amended; amended 2002, 2007, 2019 when the National Assembly unanimously approved a package of amendments, including setting presidential term limits of two 5-year mandates"
+		},
+		"legal_system": "customary law system",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Togo",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Faure GNASSINGBE (since 4 May 2005)",
+			"head_of_government": "Prime Minister Victoire Tomegah DOGBE (since 28 September 2020)",
+			"cabinet": "Council of Ministers appointed by the president on the advice of the prime minister",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held  February 2025); prime minister appointed by the president",
+			"election_results": "Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 72.4%, Agbeyome KODJO (MPDD) 18.4%, Jean-Pierre FABRE (ANC) 4.4%, other 5%"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)",
+			"elections": "last held on 20 December 2018 (next to be held in 2023)",
+			"election_results": "percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 75, women 16, percent of women 17.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)",
+			"judge_selection_and_term_of_office": "Supreme Court president appointed by decree of the president of the republic upon the proposal of the Supreme Council of the Magistracy, a 9-member judicial, advisory, and disciplinary body; other judicial appointments and judge tenure NA; Constitutional Court judges appointed by the National Assembly; judge tenure NA",
+			"subordinate_courts": "Court of Assizes (sessions court); Appeal Court; tribunals of first instance (divided into civil, commercial, and correctional chambers; Court of State Security; military tribunal"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Action Committee for Renewal",
+					"name_alternative": "CAR",
+					"leaders": [
+						"Yaovi AGBOYIBO"
+					]
+				},
+				{
+					"name": "Alliance of Democrats for Integral Development",
+					"name_alternative": "ADDI",
+					"leaders": [
+						"Tchaboure GOGUE"
+					]
+				},
+				{
+					"name": "Democratic Convention of African Peoples",
+					"name_alternative": "CDPA",
+					"leaders": [
+						"Brigitte ADJAMAGBO-JOHNSON"
+					]
+				},
+				{
+					"name": "Democratic Forces for the Republic",
+					"name_alternative": "FDR",
+					"leaders": [
+						"Dodji APEVON"
+					]
+				},
+				{
+					"name": "National Alliance for Change",
+					"name_alternative": "ANC",
+					"leaders": [
+						"Jean-Pierre FABRE"
+					]
+				},
+				{
+					"name": "New Togolese Commitment",
+					"leaders": [
+						"Gerry TAAMA"
+					]
+				},
+				{
+					"name": "Pan-African National Party",
+					"name_alternative": "PNP",
+					"leaders": [
+						"Tikpi ATCHADAM"
+					]
+				},
+				{
+					"name": "Pan-African Patriotic Convergence",
+					"name_alternative": "CPP",
+					"leaders": [
+						"Edem KODJO"
+					]
+				},
+				{
+					"name": "Patriotic Movement for Democracy and Development",
+					"name_alternative": "MPDD",
+					"leaders": [
+						"Agbeyome KODJO"
+					]
+				},
+				{
+					"name": "Socialist Pact for Renewal",
+					"name_alternative": "PSR",
+					"leaders": [
+						"Abi TCHESSA"
+					]
+				},
+				{
+					"name": "The Togolese Party",
+					"leaders": [
+						"Nathaniel OLYMPIO"
+					]
+				},
+				{
+					"name": "Union of Forces for Change",
+					"name_alternative": "UFC",
+					"leaders": [
+						"Gilchrist OLYMPIO"
+					]
+				},
+				{
+					"name": "Union for the Republic",
+					"name_alternative": "UNIR",
+					"leaders": [
+						"Faure GNASSINGBE"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "ECOWAS"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "Entente"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WADB ",
+				"note": "regional"
+			},
+			{
+				"organization": "WAEMU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Frederic Edem HEGBE (since 24 April 2017)",
+				"chancery": "2208 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 234-4212",
+				"fax": "[1] (202) 232-3190"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Eric W. STROHMAYER (since 11 April 2019)",
+				"telephone": "[228] 2261-5470",
+				"embassy": "4332 Blvd. Eyadema, Lome",
+				"mailing_address": "B.P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300",
+				"fax": "[228] 2261-5501"
+			}
+		},
+		"flag_description": {
+			"description": "five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence",
+			"note": "uses the popular Pan-African colors of Ethiopia"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Salut a toi, pays de nos aieux\" (Hail to Thee, Land of Our Forefathers)",
+			"lyrics_music": "Alex CASIMIR-DOSSEH",
+			"note": "adopted 1960, restored 1992; this anthem was replaced by another during one-party rule between 1979 and 1992",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TO.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.\nSupported by the World Bank and the IMF, the government's decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.\nTogo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12970000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 12420000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 11820000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 155,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 4767000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.4,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 5.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 5.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 63
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 215,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 84.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 23.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -1.4,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 43.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -61,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 28.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 21.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 49.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 16.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 21.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 129
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"cocoa",
+				"cotton",
+				"yams",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"corn",
+				"beans",
+				"rice",
+				"millet",
+				"sorghum",
+				"livestock",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"phosphate mining",
+				"agricultural processing",
+				"cement",
+				"handicrafts",
+				"textiles",
+				"beverages"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5,
+			"global_rank": 58,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2595000,
+				"global_rank": 112,
+				"date": "2007"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 65,
+						"units": "%"
+					},
+					"industry": {
+						"value": 5,
+						"units": "%"
+					},
+					"services": {
+						"value": 30,
+						"units": "%"
+					}
+				},
+				"date": "1998"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 110
+		},
+		"population_below_poverty_line": {
+			"value": 55.1,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 27.1,
+				"units": "%"
+			},
+			"date": "2006"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1022999999.9999999,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1203000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 21.5,
+			"global_rank": 137,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.8,
+			"global_rank": 154,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 75.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 81.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 40
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 4
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -383000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -416000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 114
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1046000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 967400000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 158
+			},
+			"commodities": {
+				"by_commodity": [
+					"reexports",
+					"cotton",
+					"phosphates",
+					"coffee",
+					"cocoa"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Benin",
+						"percent": 16.7
+					},
+					{
+						"name": "Burkina Faso",
+						"percent": 15.2
+					},
+					{
+						"name": "Niger",
+						"percent": 8.9
+					},
+					{
+						"name": "India",
+						"percent": 7.3
+					},
+					{
+						"name": "Mali",
+						"percent": 6.7
+					},
+					{
+						"name": "Ghana",
+						"percent": 5.5
+					},
+					{
+						"name": "Cote dIvoire",
+						"percent": 5.4
+					},
+					{
+						"name": "Nigeria",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1999000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 167
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"foodstuffs",
+					"petroleum products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 27.5
+					},
+					{
+						"name": "France",
+						"percent": 9.1
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.4
+					},
+					{
+						"name": "Japan",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 77800000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 42600000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 182
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1442000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1220000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 160
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 617.4,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 591.45,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 494.42,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Communaute Financiere Africaine francs (XOF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 5000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 43,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 77,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 19,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 232600000,
+				"global_rank": 189,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 1261000000,
+				"global_rank": 151,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 208,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1140000000,
+				"global_rank": 67,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 230000,
+				"global_rank": 164,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 70,
+					"global_rank": 110,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 195,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 29,
+					"global_rank": 71,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 169,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 207,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 206,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 204,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 204,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 208,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 15000,
+				"global_rank": 152,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 209,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 13100,
+				"global_rank": 142,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 206,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 206,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 200,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 200,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 200,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 2651000,
+			"global_rank": 151,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 45311,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 159,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 6477816,
+				"subscriptions_per_one_hundred_inhabitants": 77.2,
+				"global_rank": 109,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "1 state-owned TV station with multiple transmission sites; five private TV stations broadcast locally; cable TV service is available; state-owned radio network with two stations (in Lome and Kara); several dozen private radio stations and a few community radio stations; transmissions of multiple international broadcasters available (2019)",
+		"internet": {
+			"country_code": ".tg",
+			"users": {
+				"total": 1010609,
+				"percent_of_population": 12.36,
+				"global_rank": 141,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 8,
+				"annual_passenger_traffic_on_registered_air_carriers": 566295,
+				"annual_freight_traffic_on_registered_air_carriers": 10890000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5V",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 8,
+					"global_rank": 163,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 2,
+					"2438_to_3047_metres": 2,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 6,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 62,
+					"units": "km"
+				}
+			]
+		},
+		"railways": {
+			"total": {
+				"length": 568,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 568,
+				"units": "km\n1.000-m"
+			},
+			"global_rank": 111,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 11734,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1794,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 8157,
+				"units": "km"
+			},
+			"urban": {
+				"value": 1783,
+				"units": "km"
+			},
+			"global_rank": 133,
+			"date": "2081"
+		},
+		"waterways": {
+			"value": 50,
+			"units": "km",
+			"note": "seasonally navigable by small craft on the Mono River depending on rainfall",
+			"global_rank": 102,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 405,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 5
+				},
+				{
+					"type": "container ship",
+					"count": 5
+				},
+				{
+					"type": "general cargo",
+					"count": 266
+				},
+				{
+					"type": "oil tanker",
+					"count": 50
+				},
+				{
+					"type": "other",
+					"count": 79
+				}
+			],
+			"global_rank": 44,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Kpeme",
+				"Lome"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 3.1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 26
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for military service; 2-year service obligation; currently the military is only an all-volunteer force",
+			"date": "2017"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in 2001, Benin claimed Togo moved boundary monuments - joint commission continues to resurvey the boundary",
+			"talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 9556,
+						"country_of_origin": "Ghana"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transit hub for Nigerian heroin and cocaine traffickers; money laundering not a significant problem"
+		}
+	}
+}

@@ -1,0 +1,443 @@
+{
+	"name": "Pitcairn Islands",
+	"introduction": {
+		"background": "Pitcairn Island was discovered in 1767 by the British and settled in 1790 by the Bounty mutineers and their Tahitian companions. Pitcairn was the first Pacific island to become a British colony (in 1838) and today remains the last vestige of that empire in the South Pacific. Outmigration, primarily to New Zealand, has thinned the population from a peak of 233 in 1937 to less than 50 today."
+	},
+	"geography": {
+		"location": "Oceania, islands in the South Pacific Ocean, about midway between Peru and New Zealand",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 25,
+				"minutes": 4,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 130,
+				"minutes": 6,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 47,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 47,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 234,
+			"comparative": "about three-tenths the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 51,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; hot and humid; modified by southeast trade winds; rainy season (November to March)",
+		"terrain": "rugged volcanic formation; rocky coastline with cliffs",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Palwala Valley Point on Big Ridge",
+				"elevation": {
+					"value": 347,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"miro trees; used for handicrafts",
+				"fish",
+				"note",
+				"manganese",
+				"iron",
+				"copper",
+				"gold",
+				"silver",
+				"zinc have been discovered offshore"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 74.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 25.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown",
+		"natural_hazards": [
+			{
+				"description": "occasional tropical cyclones (especially November to March), but generally only heavy tropical storms",
+				"type": "hazard"
+			},
+			{
+				"description": "landslides",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation (only a small portion of the original forest remains because of burning and clearing for settlement)"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 50,
+			"global_rank": 238,
+			"date": "2020"
+		},
+		"nationality": {
+			"noun": "Pitcairn Islander(s)",
+			"adjective": "Pitcairn Islander"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "other descendants of the Bounty mutineers and their Tahitian wives"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "Pitkern",
+					"note": "mixture of an 18th century English dialect and a Tahitian dialect"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Seventh-Day Adventist",
+					"percent": 100
+				}
+			]
+		},
+		"population_growth_rate": {
+			"growth_rate": 0,
+			"global_rank": 195,
+			"date": "2014"
+		},
+		"population_distribution": "less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown",
+		"urbanization": {
+			"urban_population": {
+				"value": 0,
+				"units": "%",
+				"date": "2012"
+			}
+		},
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Pitcairn, Henderson, Ducie, and Oeno Islands",
+			"conventional_short_form": "Pitcairn Islands",
+			"etymology": "named after Midshipman Robert PITCAIRN who first sighted the island in 1767"
+		},
+		"government_type": "parliamentary democracy",
+		"capital": {
+			"name": "Adamstown",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 25,
+					"minutes": 4,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 130,
+					"minutes": 5,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -9,
+				"note": "4 hours behind Washington, DC, during Standard Time"
+			},
+			"etymology": "named after John Adams (1767–1829), the last survivor of the Bounty mutineers who settled on Pitcairn Island in January 1790"
+		},
+		"independence": {
+			"note": "overseas territory of the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Birthday of Queen ELIZABETH II",
+				"day": "second Saturday in June",
+				"original_year": "1926"
+			},
+			{
+				"name": "Discovery Day",
+				"day": "2 July",
+				"original_year": "1767",
+				"note": "Pitcairn Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest drafted 10 February 2010, presented 17 February 2010, effective 4 March 2010"
+		},
+		"legal_system": "local island by-laws",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal with three years residency"
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Laura CLARK (since 25 January 2018)",
+			"head_of_government": "Mayor and Chairman of the Island Council Charlene WARREN-PEU (since 1 January 2020)",
+			"cabinet": "none",
+			"elections_appointments": "the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on 6 November 2019 (next to be held not later than December 2022)",
+			"election_results": "Charlene WARREN-PEU elected mayor and chairman of the Island Council; Island Council vote - NA"
+		},
+		"legislative_branch": {
+			"description": "unicameral Island Council (10 seats; 4 members directly elected by proportional representation vote, 1 nominated by the elected Council members, 2 appointed by the governor, and 3 ex-officio members - the governor, deputy governor, and commissioner; elected members serve 1-year terms)",
+			"elections": "last held in November 2017 (next to be held not later than December 2019)",
+			"election_results": "percent of vote - NA; seats - 5 independent; composition - men 5, women 5, percent of women 50%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)",
+			"judge_selection_and_term_of_office": "all judges of both courts appointed by the governor of the Pitcairn Islands on the instructions of the Queen of England through the Secretary of State; all judges can serve until retirement, normally at age 75",
+			"subordinate_courts": "Magistrate's Court"
+		},
+		"political_parties_and_leaders": {
+			"note": "none"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"flag_description": {
+			"description": "blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the green, yellow, and blue of the shield represents the island rising from the ocean; the green field features a yellow anchor surmounted by a bible (both the anchor and the bible were items found on the HMS Bounty); sitting on the crest is a Pitcairn Island wheelbarrow from which springs a flowering twig of miro (a local plant)"
+		},
+		"national_anthem": {
+			"name": "We From Pitcairn Island",
+			"lyrics_music": "unknown/Frederick M. LEHMAN",
+			"note": "serves as a local anthem; as a territory of the UK, \"God Save the Queen\" is official (see United Kingdom)"
+		}
+	},
+	"economy": {
+		"overview": "The inhabitants of this tiny isolated economy exist on fishing, subsistence farming, handicrafts, and postage stamps. The fertile soil of the valleys produces a wide variety of fruits and vegetables, including citrus, sugarcane, watermelons, bananas, yams, and beans. Bartering is an important part of the economy. The major sources of revenue are the sale of postage stamps to collectors and the sale of handicrafts to passing ships.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"note": "NA"
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"honey",
+				"fruits",
+				"vegetables",
+				"goats",
+				"chickens",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"postage stamps",
+				"handicrafts",
+				"beekeeping",
+				"honey"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 15,
+				"global_rank": 232,
+				"date": "2004"
+			},
+			"by_occupation": {
+				"note": "no business community in the usual sense; some public works; subsistence farming and fishing"
+			}
+		},
+		"budget": {
+			"revenues": {
+				"value": 746000,
+				"note": "FY04/05"
+			},
+			"expenditures": {
+				"value": 1028000,
+				"units": "USD",
+				"note": "FY04/05"
+			}
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"honey",
+					"fruits",
+					"vegetables",
+					"curios",
+					"postage stamps"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"fuel oil",
+					"machinery",
+					"building materials",
+					"flour",
+					"sugar",
+					"other foodstuffs"
+				]
+			}
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.416,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.4279,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.2039,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "New Zealand dollars (NZD) per US dollar"
+		}
+	},
+	"communications": {
+		"broadcast_media": "satellite TV from Fiji-based Sky Pacific offering a wide range of international channels",
+		"internet": {
+			"country_code": ".pn",
+			"users": {
+				"total": 54,
+				"percent_of_population": 100,
+				"global_rank": 229,
+				"date": "2016-07-01"
+			}
+		},
+		"note": "satellite-based local phone service and broadband Internet connections available in all homes"
+	},
+	"transportation": {
+		"roadways": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			},
+			"global_rank": 224
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Adamstown (on Bounty Bay)"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the UK"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

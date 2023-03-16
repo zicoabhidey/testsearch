@@ -1,0 +1,1725 @@
+{
+	"name": "Uruguay",
+	"introduction": {
+		"background": "Montevideo, founded by the Spanish in 1726 as a military stronghold, soon took advantage of its natural harbor to become an important commercial center. Claimed by Argentina but annexed by Brazil in 1821, Uruguay declared its independence four years later and secured its freedom in 1828 after a three-year struggle. The administrations of President Jose BATLLE in the early 20th century launched widespread political, social, and economic reforms that established a statist tradition. A violent Marxist urban guerrilla movement named the Tupamaros, launched in the late 1960s, led Uruguay's president to cede control of the government to the military in 1973. By yearend, the rebels had been crushed, but the military continued to expand its hold over the government. Civilian rule was restored in 1985. In 2004, the left-of-center Frente Amplio Coalition won national elections that effectively ended 170 years of political control previously held by the Colorado and National (Blanco) parties. Uruguay's political and labor conditions are among the freest on the continent."
+	},
+	"geography": {
+		"location": "Southern South America, bordering the South Atlantic Ocean, between Argentina and Brazil",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 33,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 56,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 176215,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 175015,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1200,
+				"units": "sq km"
+			},
+			"global_rank": 92,
+			"comparative": "about the size of Virginia and West Virginia combined; slightly smaller than the state of Washington"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1591,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Argentina",
+					"border_length": {
+						"value": 541,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Brazil",
+					"border_length": {
+						"value": 1050,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 660,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or the edge of continental margin"
+			}
+		},
+		"climate": "warm temperate; freezing temperatures almost unknown",
+		"terrain": "mostly rolling plains and low hills; fertile coastal lowland",
+		"elevation": {
+			"mean_elevation": {
+				"value": 109,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Cerro Catedral",
+				"elevation": {
+					"value": 514,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land",
+				"hydropower",
+				"minor minerals",
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 87.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 10.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 76.9,
+					"units": "%"
+				},
+				"forest": {
+					"value": 10.2,
+					"units": "%"
+				},
+				"other": {
+					"value": 2.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 2380,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo",
+		"natural_hazards": [
+			{
+				"description": "seasonally high winds (the pampero is a chilly and occasional violent wind that blows north from the Argentine pampas), droughts, floods",
+				"type": "hazard"
+			},
+			{
+				"description": "because of the absence of mountains, which act as weather barriers, all locations are particularly vulnerable to rapid changes from weather fronts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution from meat packing/tannery industry",
+				"heavy metal pollution",
+				"inadequate solid/hazardous waste disposal",
+				"deforestation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Marine Dumping",
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 3387605,
+			"global_rank": 132,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Uruguayan(s)",
+			"adjective": "Uruguayan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white",
+					"percent": 87.7
+				},
+				{
+					"name": "black",
+					"percent": 4.6
+				},
+				{
+					"name": "indigenous",
+					"percent": 2.4
+				},
+				{
+					"name": "other",
+					"percent": 0.3
+				},
+				{
+					"name": "none or unspecified",
+					"percent": 5
+				}
+			],
+			"note": "data represent primary ethnic identity",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 47.1
+				},
+				{
+					"name": "non-Catholic Christians",
+					"percent": 11.1
+				},
+				{
+					"name": "nondenominational",
+					"percent": 23.2
+				},
+				{
+					"name": "Jewish",
+					"percent": 0.3
+				},
+				{
+					"name": "atheist or agnostic",
+					"percent": 17.2
+				},
+				{
+					"name": "other",
+					"percent": 1.1
+				}
+			],
+			"date": "2006"
+		},
+		"demographic_profile": "Uruguay rates high for most development indicators and is known for its secularism, liberal social laws, and well-developed social security, health, and educational systems. It is one of the few countries in Latin America and the Caribbean where the entire population has access to clean water. Uruguay's provision of free primary through university education has contributed to the country's high levels of literacy and educational attainment. However, the emigration of human capital has diminished the state's return on its investment in education. Remittances from the roughly 18% of Uruguayans abroad amount to less than 1 percent of national GDP. The emigration of young adults and a low birth rate are causing Uruguay's population to age rapidly.\nIn the 1960s, Uruguayans for the first time emigrated en masse - primarily to Argentina and Brazil - because of economic decline and the onset of more than a decade of military dictatorship. Economic crises in the early 1980s and 2002 also triggered waves of emigration, but since 2002 more than 70% of Uruguayan emigrants have selected the US and Spain as destinations because of better job prospects. Uruguay had a tiny population upon its independence in 1828 and welcomed thousands of predominantly Italian and Spanish immigrants, but the country has not experienced large influxes of new arrivals since the aftermath of World War II. More recent immigrants include Peruvians and Arabs.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 19.51,
+				"males": 336336,
+				"females": 324563
+			},
+			"15_to_24": {
+				"percent": 15.14,
+				"males": 259904,
+				"females": 252945
+			},
+			"25_to_54": {
+				"percent": 39.86,
+				"males": 670295,
+				"females": 679850
+			},
+			"55_to_64": {
+				"percent": 10.79,
+				"males": 172313,
+				"females": 193045
+			},
+			"65_and_over": {
+				"percent": 14.71,
+				"males": 200516,
+				"females": 297838
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 54.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 31.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 23.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 4.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 35.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 33.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 37.3,
+				"units": "years"
+			},
+			"global_rank": 85,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.27,
+			"global_rank": 175,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.9,
+			"global_rank": 146,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.3,
+			"global_rank": 52,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.9,
+			"global_rank": 141,
+			"date": "2020"
+		},
+		"population_distribution": "most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo",
+		"urbanization": {
+			"urban_population": {
+				"value": 95.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.46,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Montevideo",
+					"population": 1752000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.89,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.67,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 17,
+			"global_rank": 134,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 7.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 8.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 6.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 152,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 77.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.2,
+				"units": "years"
+			},
+			"global_rank": 73,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.77,
+			"global_rank": 156,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 79.6,
+			"units": "%",
+			"note": "percent of women aged 15-44",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 5.08,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 93.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 95,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.6,
+				"global_rank": 65,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 14000,
+				"global_rank": 95,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 27.9,
+			"global_rank": 34,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 4,
+			"global_rank": 90,
+			"date": "2011"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.9,
+			"global_rank": 69,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 99,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 25.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 22.4,
+				"units": "%"
+			},
+			"female": {
+				"value": 30.7,
+				"units": "%"
+			},
+			"global_rank": 46,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Oriental Republic of Uruguay",
+			"conventional_short_form": "Uruguay",
+			"local_long_form": "Republica Oriental del Uruguay",
+			"local_short_form": "Uruguay",
+			"former": "Banda Oriental, Cisplatine Province",
+			"etymology": "name derives from the Spanish pronunciation of the Guarani Indian designation of the Uruguay River, which makes up the western border of the country and whose name later came to be applied to the entire country"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Montevideo",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 34,
+					"minutes": 51,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 56,
+					"minutes": 10,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the name \"Montevidi\" was originally applied to the hill that overlooked the bay upon which the city of Montevideo was founded; the earliest meaning may have been \"[the place where we] saw the hill\""
+		},
+		"independence": {
+			"date": "1825-08-25",
+			"note": "from Brazil"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "25 August",
+				"original_year": "1825"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved by plebiscite 27 November 1966, effective 15 February 1967",
+			"amendments": "initiated by public petition of at least 10% of qualified voters, proposed by agreement of at least two fifths of the General Assembly membership, or by existing \"constitutional laws\" sanctioned by at least two thirds of the membership in both houses of the Assembly; proposals can also be submitted by senators, representatives, or by the executive power and require the formation of and approval in a national constituent convention; final passage by either method requires approval by absolute majority of votes cast in a referendum; amended many times, last in 2004"
+		},
+		"legal_system": "civil law system based on the Spanish civil code",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "3-5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020); the president is both chief of state and head of government",
+			"head_of_government": "President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020)",
+			"cabinet": "Council of Ministers appointed by the president with approval of the General Assembly",
+			"elections_appointments": "president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2019 with a runoff election on 24 November 2019 (next to be held in October 2024, and a runoff if needed in November 2024)",
+			"election_results": "Luis Alberto LACALLE POU elected president - results of the first round of presidential elections: percent of vote - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (Blanco) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, and Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; results of the second round: percent of vote - Luis Alberto LACALLE POU (Blanco) 50.6%, Daniel MARTINEZ (FA) 49.4%"
+		},
+		"legislative_branch": {
+			"description": "bicameral General Assembly or Asamblea General consists of: Chamber of Senators or Camara de Senadores (31 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)\nChamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)",
+			"elections": "Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024)\nChamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)",
+			"election_results": "Chamber of Senators - percent of vote by coalition/party - na; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3;\nChamber of Representatives - percent of vote by coalition/party - na; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice (consists of 5 judges)",
+			"judge_selection_and_term_of_office": "judges nominated by the president and appointed in joint conference of the General Assembly; judges serve 10-year terms, with reelection possible after a lapse of 5 years following the previous term",
+			"subordinate_courts": "Courts of Appeal; District Courts (Juzgados Letrados); Peace Courts (Juzgados de Paz); Rural Courts (Juzgados Rurales)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Broad Front",
+					"name_alternative": "FA  -  [Jose MUJICA], Broad Front Commitment [Raul SENDIC], Big House [Constanza MOREIRA], Communist Party [Marcos CARAMBULA], The Federal League [Dario PEREZ]",
+					"leaders": [
+						"Javier MIRANDA"
+					],
+					"note": "Frente Amplio; a broad governing coalition that includes Uruguay Assembly [Danilo ASTORI], Progressive Alliance [Rodolfo NIN NOVOA], New Space [Rafael MICHELINI], Socialist Party [Monica XAVIER], Vertiente Artiguista [Enrique RUBIO], Christian Democratic Party [Jorge RODRIGUEZ], For the People’s Victory [Luis PUIG], Popular Participation Movement (MPP"
+				},
+				{
+					"name": "Colorado Party , Open Space, Open Batllism [Ope PASQUET]",
+					"leaders": [
+						"Tabare VIERA"
+					],
+					"note": "including Vamos Uruguay (or Let's Go Uruguay; "
+				},
+				{
+					"name": "Independent Party",
+					"leaders": [
+						"Pablo MIERES"
+					]
+				},
+				{
+					"name": "National Party",
+					"name_alternative": "Blanco",
+					"note": "including Everyone [Luis LACALLE POU] and National Alliance [Jorge LARRANAGA]"
+				},
+				{
+					"name": "Popular Unity",
+					"leaders": [
+						"Gonzalo ABELLA"
+					]
+				},
+				{
+					"name": "Open Cabildo",
+					"leaders": [
+						"Guido MANINI RIOS"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "CAN ",
+				"note": "associate"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "Mercosur"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Charge d'Affaires Alejandro Ramon RODRIGUEZ COTRO (since 15 July 2020)",
+				"chancery": "1913 I Street NW, Washington, DC 20006",
+				"telephone": "[1] (202) 331-1313",
+				"fax": "[1] (202) 331-8142",
+				"consulates_general": "Chicago, Los Angeles, Miami, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Kenneth S. GEORGE (since 2 September 2019)",
+				"telephone": "(+598) 1770-2000",
+				"embassy": "Laura Muller 1776, Montevideo 11200",
+				"mailing_address": "APO AA 34035",
+				"fax": "[598] (2) 1770-2128"
+			}
+		},
+		"flag_description": {
+			"description": "nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun",
+			"note": "the banner was inspired by the national colors of Argentina and by the design of the US flag"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Sun of May ",
+					"note": "a sun-with-face symbol"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional\" (National Anthem of Uruguay)",
+			"lyrics_music": "Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI",
+			"note": "adopted 1848; the anthem is also known as \"Orientales, la Patria o la tumba!\" (\"Uruguayans, the Fatherland or Death!\"); it is the world's longest national anthem in terms of music (105 bars; almost five minutes); generally only the first verse and chorus are sung",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/UY.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor's mix of pro-market policies and a strong social safety net.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 78160000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 76140000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 74870000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 96,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 59180000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.7,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 1.7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 0.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 108
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 22400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 21900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 21600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 85,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 66.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 16.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 21.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -18.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 24.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 69.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 17.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 18.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 18.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 119
+		},
+		"agriculture_products": {
+			"products": [
+				"Cellulose",
+				"beef",
+				"soybeans",
+				"rice",
+				"wheat",
+				"dairy products",
+				"fish",
+				"lumber",
+				"tobacco",
+				"wine"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food processing",
+				"electrical machinery",
+				"transportation equipment",
+				"petroleum products",
+				"textiles",
+				"chemicals",
+				"beverages"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -3.6,
+			"global_rank": 190,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1748000,
+				"global_rank": 124,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 13,
+						"units": "%"
+					},
+					"industry": {
+						"value": 14,
+						"units": "%"
+					},
+					"services": {
+						"value": 73,
+						"units": "%"
+					}
+				},
+				"date": "2010"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 117
+		},
+		"population_below_poverty_line": {
+			"value": 9.7,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.9,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30.8,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 17660000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 19720000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 29.8,
+			"global_rank": 79,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.5,
+			"global_rank": 149,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 65.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 61.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 57,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions."
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 6.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 9.6,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 189
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 879000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 410000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 51
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11410000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8387000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 86
+			},
+			"commodities": {
+				"by_commodity": [
+					"beef",
+					"soybeans",
+					"cellulose",
+					"rice",
+					"wheat",
+					"wood",
+					"dairy products",
+					"wool"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 19
+					},
+					{
+						"name": "Brazil",
+						"percent": 16.1
+					},
+					{
+						"name": "US",
+						"percent": 5.7
+					},
+					{
+						"name": "Argentina",
+						"percent": 5.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 8607000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8462999999.999999,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 106
+			},
+			"commodities": {
+				"by_commodity": [
+					"refined oil",
+					"crude oil",
+					"passenger",
+					"other transportation vehicles",
+					"vehicle parts",
+					"cellular phones"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 20
+					},
+					{
+						"name": "Brazil",
+						"percent": 19.5
+					},
+					{
+						"name": "Argentina",
+						"percent": 12.6
+					},
+					{
+						"name": "US",
+						"percent": 10.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 15960000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 13470000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 66
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 28370000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 27900000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 84
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 28.77,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 30.16,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 30.16,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 27.52,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 23.25,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Uruguayan pesos (UYU) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 13130000000,
+				"global_rank": 92,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 10770000000,
+				"global_rank": 93,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1321000000,
+				"global_rank": 53,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 24000000,
+				"global_rank": 111,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 4808000,
+				"global_rank": 81,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 29,
+					"global_rank": 185,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 205,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 29,
+					"global_rank": 72,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 42,
+					"global_rank": 5,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 213,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 212,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 40200,
+				"global_rank": 57,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 209,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 42220,
+				"global_rank": 81,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 53000,
+				"global_rank": 101,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 214,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 9591,
+				"global_rank": 150,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 211,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 70790000,
+				"global_rank": 110,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 207,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 70790000,
+				"global_rank": 75,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 204,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7554000,
+			"global_rank": 122,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1137193,
+				"subscriptions_per_one_hundred_inhabitants": 33.66,
+				"global_rank": 72,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 4664993,
+				"subscriptions_per_one_hundred_inhabitants": 138.08,
+				"global_rank": 122,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "mixture of privately owned and state-run broadcast media; more than 100 commercial radio stations and about 20 TV channels; cable TV is available; many community radio and TV stations; adopted the hybrid Japanese/Brazilian HDTV standard (ISDB-T) in December 2010 (2019)",
+		"internet": {
+			"country_code": ".uy",
+			"users": {
+				"total": 2300557,
+				"percent_of_population": 68.28,
+				"global_rank": 115,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 5,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "CX",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 133,
+					"global_rank": 42,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 11,
+					"over_3047_metres": 1,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 2,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 122,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 40,
+					"under_914_metres": 79,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 257,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 160,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 1673,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 1673,
+				"units": "km\n1.435-m"
+			},
+			"global_rank": 80,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 77732,
+				"units": "km"
+			},
+			"paved": {
+				"value": 7743,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 69989,
+				"units": "km"
+			},
+			"global_rank": 64,
+			"date": "2010"
+		},
+		"waterways": {
+			"value": 1600,
+			"units": "km",
+			"global_rank": 50,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 60,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				},
+				{
+					"type": "general cargo",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 3
+				},
+				{
+					"type": "other",
+					"count": 51
+				}
+			],
+			"global_rank": 109,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Montevideo"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 53
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina",
+			"the two countries formed a joint pollution monitoring regime",
+			"uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question",
+			"smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 19713,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"illicit_drugs": {
+			"note": "small-scale transit country for drugs mainly bound for Europe, often through sea-borne containers; law enforcement corruption; money laundering because of strict banking secrecy laws; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs"
+		}
+	}
+}

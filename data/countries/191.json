@@ -1,0 +1,1712 @@
+{
+	"name": "Rwanda",
+	"introduction": {
+		"background": "A Rwandan kingdom dominated the region from the mid-18th century onward, with the Tutsi rulers conquering others militarily, centralizing power, and increasingly enacting anti-Hutu policies. German colonial rule began in 1898, but Belgian forces captured Rwanda in 1916 during World War I. Both European nations ruled through the kings and pursued a pro-Tutsi policy. In 1959, three years before independence from Belgium, the majority ethnic group, the Hutus, overthrew the ruling Tutsi king. Over the next several years, thousands of Tutsis were killed, and some 150,000 driven into exile in neighboring countries. The children of these exiles later formed a rebel group, the Rwandan Patriotic Front (RPF), and began a civil war in 1990. The war, along with several political and economic upheavals, exacerbated ethnic tensions, culminating in April 1994 in a state-orchestrated genocide, in which Rwandans killed approximately 800,000 of their fellow citizens, including approximately three-quarters of the Tutsi population. The genocide ended later that same year when the predominantly Tutsi RPF, operating out of Uganda and northern Rwanda, defeated the national army and Hutu militias, and established an RPF-led government of national unity. Rwanda held its first local elections in 1999 and its first post-genocide presidential and legislative elections in 2003. Rwanda joined the Commonwealth in late 2009. President Paul KAGAME won the presidential election in August 2017 after changing the constitution in 2016 to allow him to run for a third term."
+	},
+	"geography": {
+		"location": "Central Africa, east of the Democratic Republic of the Congo, north of Burundi",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 2,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 30,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 26338,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 24668,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1670,
+				"units": "sq km"
+			},
+			"global_rank": 149,
+			"comparative": "slightly smaller than Maryland"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 930,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Burundi",
+					"border_length": {
+						"value": 315,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Democratic Republic of the Congo",
+					"border_length": {
+						"value": 221,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Tanzania",
+					"border_length": {
+						"value": 222,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uganda",
+					"border_length": {
+						"value": 172,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible",
+		"terrain": "mostly grassy uplands and hills; relief is mountainous with altitude declining from west to east",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1598,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Rusizi River",
+				"elevation": {
+					"value": 950,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Volcan Karisimbi",
+				"elevation": {
+					"value": 4519,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"gold",
+				"cassiterite",
+				"tin ore",
+				"wolframite",
+				"tungsten ore",
+				"methane",
+				"hydropower",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 74.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 47,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 10.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 17.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 18,
+					"units": "%"
+				},
+				"other": {
+					"value": 7.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 96,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "the volcanic Virunga Mountains are in the northwest along the border with Democratic Republic of the Congo",
+				"type": "hazard"
+			},
+			{
+				"description": "Visoke (3,711 m), located on the border with the Democratic Republic of the Congo, is the country's only historically active volcano",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation results from uncontrolled cutting of trees for fuel",
+				"overgrazing",
+				"land degradation",
+				"soil erosion",
+				"a decline in soil fertility (soil exhaustion)",
+				"wetland degradation and loss of biodiversity",
+				"widespread poaching"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 12712431,
+			"global_rank": 75,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Rwandan(s)",
+			"adjective": "Rwandan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Hutu"
+				},
+				{
+					"name": "Tutsi"
+				},
+				{
+					"name": "Twa",
+					"note": "Pygmy"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Kinyarwanda",
+					"percent": 93.2,
+					"note": "official, universal Bantu vernacular"
+				},
+				{
+					"name": "French  <.1",
+					"note": "official"
+				},
+				{
+					"name": "English  <.1",
+					"note": "official"
+				},
+				{
+					"name": "Swahili/Kiswahili  <.1",
+					"note": "official, used in commercial centers"
+				},
+				{
+					"name": "more than one language"
+				},
+				{
+					"name": "other",
+					"percent": 6.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.3
+				}
+			],
+			"date": "2002"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 49.5,
+					"breakdown": [
+						{
+							"name": "includes Adventist and other Protestant",
+							"percent": 37.7
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 43.7
+				},
+				{
+					"name": "Muslim",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 0.9,
+					"note": "includes Jehovah's Witness"
+				},
+				{
+					"name": "none",
+					"percent": 2.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.3
+				}
+			],
+			"date": "2012"
+		},
+		"demographic_profile": "Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation.\nThe UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts almost 160,000 refugees as of 2017; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 39.95,
+				"males": 2564893,
+				"females": 2513993
+			},
+			"15_to_24": {
+				"percent": 20.1,
+				"males": 1280948,
+				"females": 1273853
+			},
+			"25_to_54": {
+				"percent": 33.06,
+				"males": 2001629,
+				"females": 2201132
+			},
+			"55_to_64": {
+				"percent": 4.24,
+				"males": 241462,
+				"females": 298163
+			},
+			"65_and_over": {
+				"percent": 2.65,
+				"males": 134648,
+				"females": 201710
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 74.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 68.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 18.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 19.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 20.4,
+				"units": "years"
+			},
+			"global_rank": 200,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2,
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 27.9,
+			"global_rank": 40,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.1,
+			"global_rank": 160,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -3.3,
+			"global_rank": 182,
+			"date": "2020"
+		},
+		"population_distribution": "one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 17.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.86,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Kigali",
+					"population": 1132000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.91,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.81,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.67,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 23,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 248,
+			"global_rank": 44,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 28,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 30.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 25.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 61,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 65.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 63.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 67.1,
+				"units": "years"
+			},
+			"global_rank": 196,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.52,
+			"global_rank": 41,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 53.2,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.14,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 92,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 76.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 79.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 23.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 20.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 88.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 79.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 80.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 11.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 20.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 19.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 2.9,
+				"global_rank": 19,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 230000,
+				"global_rank": 26,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 2800,
+				"global_rank": 37,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria",
+				"dengue fever"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 5.8,
+			"global_rank": 174,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 9.6,
+			"global_rank": 66,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.1,
+			"global_rank": 137,
+			"date": "2018"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 73.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 77.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 69.4,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 11,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 18.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 22.6,
+				"units": "%"
+			},
+			"global_rank": 64,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Rwanda",
+			"conventional_short_form": "Rwanda",
+			"local_long_form": "Republika y'u Rwanda",
+			"local_short_form": "Rwanda",
+			"former": "Ruanda, German East Africa",
+			"etymology": "the name translates as \"domain\" in the native Kinyarwanda language"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Kigali",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 1,
+					"minutes": 57,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 30,
+					"minutes": 3,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "the city takes its name from nearby Mount Kigali; the name \"Kigali\" is composed of the Bantu prefix \"ki\" and the Rwandan \"gali\" meaning \"broad\" and likely refers to the broad, sprawling hill that has been dignified with the title of \"mount\""
+		},
+		"independence": {
+			"date": "1962-07-01",
+			"note": "from Belgium-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "1 July",
+				"original_year": "1962"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted by referendum 26 May 2003, effective 4 June 2003",
+			"amendments": "proposed by the president of the republic (with Council of Ministers approval) or by two-thirds majority vote of both houses of Parliament; passage requires at least three-quarters majority vote in both houses; changes to constitutional articles on national sovereignty, the presidential term, the form and system of government, and political pluralism also require approval in a referendum; amended 2008, 2010, 2015"
+		},
+		"legal_system": "mixed legal system of civil law, based on German and Belgian models, and customary law; judicial review of legislative acts in the Supreme Court",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Rwanda; if the father is stateless or unknown, the mother must be a citizen",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Paul KAGAME (since 22 April 2000)",
+			"head_of_government": "Prime Minister Edouard NGIRENTE (since 30 August 2017)",
+			"cabinet": "Council of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by simple majority vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held in August 2024); prime minister appointed by the president",
+			"election_results": "Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent) 0.7%, Frank HABINEZA (DGPR)0.5%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)\nChamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)",
+			"elections": "Senate - last held on 16-18 September 2019 (next to be held in 2027)\nChamber of Deputies - last held on 3 September 2018 (next to be held in September 2023)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - NA; composition - men 16, women 10, percent of women 38.5%\nChamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 26, women 54, percent of women 67.5%; note - total Parliament percent of women 60.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by the president after consultation with the Cabinet and the Superior Council of the Judiciary (SCJ), a 27-member body of judges, other judicial officials, and legal professionals) and approved by the Senate; chief and deputy chief justices appointed for 8-year nonrenewable terms; tenure of judges NA; High Court president and vice president appointed by the president of the republic upon approval by the Senate; judges appointed by the Supreme Court chief justice upon approval of the SCJ; judge tenure NA",
+			"subordinate_courts": "High Court of the Republic; commercial courts including the High Commercial Court; intermediate courts; primary courts; and military specialized courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Green Party of Rwanda",
+					"name_alternative": "DGPR",
+					"leaders": [
+						"Frank HABINEZA"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "PL",
+					"leaders": [
+						"Donatille MUKABALISA"
+					]
+				},
+				{
+					"name": "Party for Progress and Concord",
+					"name_alternative": "PPC",
+					"leaders": [
+						"Dr. Alivera MUKABARAMBA"
+					]
+				},
+				{
+					"name": "Party Imberakuri",
+					"name_alternative": "PS-Imberakuri",
+					"leaders": [
+						"Christine MUKABUNANI"
+					]
+				},
+				{
+					"name": "Rwandan Patriotic Front",
+					"name_alternative": "RPF",
+					"leaders": [
+						"Paul KAGAME"
+					]
+				},
+				{
+					"name": "Rwandan Patriotic Front Coalition ",
+					"leaders": [
+						"Paul KAGAME"
+					],
+					"note": "includes RPF, PPC"
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "PSD",
+					"leaders": [
+						"Vincent BIRUTA"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CEPGL"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "EAC"
+			},
+			{
+				"organization": "EADB"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Mathilde MUKANTABANA (since 18 July 2013)",
+				"chancery": "1875 Connecticut Avenue NW, Suite 418, Washington, DC 20009",
+				"telephone": "[1] (202) 232-2882",
+				"fax": "[1] (202) 232-4544"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Peter H. VROOMAN (since 5 April 2018)",
+				"telephone": "[250] 252 596-400",
+				"embassy": "2657 Avenue de la Gendarmerie, P. O. Box 28, Kigali",
+				"mailing_address": "B.P. 28, Kigali",
+				"fax": "[250] 252 580 325"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of sky blue (top, double width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue represents happiness and peace, yellow economic development and mineral wealth, green hope of prosperity and natural resources; the sun symbolizes unity, as well as enlightenment and transparency from ignorance"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "traditional woven basket with peaked lid"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Rwanda nziza\" (Rwanda, Our Beautiful Country)",
+			"lyrics_music": "Faustin MURIGO/Jean-Bosco HASHAKAIMANA",
+			"note": "adopted 2001",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/RW.mp3?1538604759"
+		}
+	},
+	"economy": {
+		"overview": "Rwanda is a rural, agrarian country with agriculture accounting for about 63% of export earnings, and with some mineral and agro-processing. Population density is high but, with the exception of the capital Kigali, is not concentrated in large cities – its 12 million people are spread out on a small amount of land (smaller than the state of Maryland). Tourism, minerals, coffee, and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth.\nThe 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy well beyond pre-1994 levels. GDP has rebounded with an average annual growth of 6%-8% since 2003 and inflation has been reduced to single digits. In 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006.\nThe government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment. Rwanda consistently ranks well for ease of doing business and transparency.\nThe Rwandan Government is seeking to become a regional leader in information and communication technologies and aims to reach middle-income status by 2020 by leveraging the service industry. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction. In 2016, the government launched an online system to give investors information about public land and its suitability for agricultural development.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 24680000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 23260000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 21940000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 142,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 9136000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.1,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 8.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 29
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2100,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 208,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 75.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -32.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 30.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 17.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 51.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 12.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 6.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 7.5,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 147
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"tea",
+				"pyrethrum",
+				"insecticide made from chrysanthemums",
+				"bananas",
+				"beans",
+				"sorghum",
+				"potatoes",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"cement",
+				"agricultural products",
+				"small-scale beverages",
+				"soap",
+				"furniture",
+				"shoes",
+				"plastic goods",
+				"textiles",
+				"cigarettes"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.2,
+			"global_rank": 72,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 6227000,
+				"global_rank": 70,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 75.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 6.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 18,
+						"units": "%"
+					}
+				},
+				"date": "2012"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 31
+		},
+		"population_below_poverty_line": {
+			"value": 39.1,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 43.2,
+				"units": "%"
+			},
+			"date": "2011"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1943000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2337000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 21.3,
+			"global_rank": 142,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.3,
+			"global_rank": 162,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 40.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 37.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 125
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4.8,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 170
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -622000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1336000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 128
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1050000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 745000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 157
+			},
+			"commodities": {
+				"by_commodity": [
+					"coffee",
+					"tea",
+					"hides",
+					"tin ore"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UAE",
+						"percent": 38.3
+					},
+					{
+						"name": "Kenya",
+						"percent": 15.1
+					},
+					{
+						"name": "Switzerland",
+						"percent": 9.9
+					},
+					{
+						"name": "Democratic Republic of the Congo",
+						"percent": 9.5
+					},
+					{
+						"name": "US",
+						"percent": 4.9
+					},
+					{
+						"name": "Singapore",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1922000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2036000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 168
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"machinery",
+					"equipment",
+					"steel",
+					"petroleum products",
+					"cement",
+					"construction material"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 20.4
+					},
+					{
+						"name": "Uganda",
+						"percent": 11
+					},
+					{
+						"name": "India",
+						"percent": 7.2
+					},
+					{
+						"name": "Kenya",
+						"percent": 7.1
+					},
+					{
+						"name": "Tanzania",
+						"percent": 5.3
+					},
+					{
+						"name": "UAE",
+						"percent": 5.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 997600000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1104000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 132
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 3258000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2611000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 141
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 839.1,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 787.25,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 787.25,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 720.54,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 680.95,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Rwandan francs (RWF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 6000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 53,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 76,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 48,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 525000000,
+				"global_rank": 164,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 527299999.99999994,
+				"global_rank": 169,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 4000000,
+				"global_rank": 92,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 42000000,
+				"global_rank": 108,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 191000,
+				"global_rank": 166,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 42,
+					"global_rank": 164,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 170,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 51,
+					"global_rank": 37,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 7,
+					"global_rank": 96,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 189,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 182,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 184,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 184,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 191,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 6700,
+				"global_rank": 167,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 192,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 6628,
+				"global_rank": 162,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 186,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 188,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 171,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 177,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 56630000000,
+				"global_rank": 61,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 985600,
+			"global_rank": 169,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 11215,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 188,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 9531609,
+				"subscriptions_per_one_hundred_inhabitants": 76.49,
+				"global_rank": 90,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "13 TV stations; 35 radio stations registered, including international broadcasters, government owns most popular TV and radio stations; regional satellite-based TV services available",
+		"internet": {
+			"country_code": ".rw",
+			"users": {
+				"total": 2653197,
+				"percent_of_population": 21.77,
+				"global_rank": 107,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 12,
+				"annual_passenger_traffic_on_registered_air_carriers": 1073528,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "9XR",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 7,
+					"global_rank": 171,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 4,
+					"over_3047_metres": 1,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 3,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 4700,
+				"units": "km"
+			},
+			"paved": {
+				"value": 1207,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3493,
+				"units": "km"
+			},
+			"global_rank": 148,
+			"date": "2012"
+		},
+		"ports_and_terminals": {
+			"lake_ports": [
+				"Cyangugu",
+				"Gisenyi",
+				"Kibuye (Lake Kivu)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 106
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; no conscription; Rwandan citizenship is required, as is a 9th-grade education for enlisted recruits and an A-level certificate for officer candidates; enlistment is either as contract (5-years, renewable twice) or career; retirement (for officers and senior NCOs) after 20 years of service or at 40-60 years of age",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965",
+			"fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies",
+			"nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres",
+			"the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 77017,
+						"country_of_origin": "Democratic Republic of the Congo"
+					},
+					{
+						"people": 72007,
+						"country_of_origin": "Burundi"
+					}
+				],
+				"date": "2020"
+			}
+		}
+	}
+}

@@ -1,0 +1,1751 @@
+{
+	"name": "Costa Rica",
+	"introduction": {
+		"background": "Although explored by the Spanish early in the 16th century, initial attempts at colonizing Costa Rica proved unsuccessful due to a combination of factors, including disease from mosquito-infested swamps, brutal heat, resistance by natives, and pirate raids. It was not until 1563 that a permanent settlement of Cartago was established in the cooler, fertile central highlands. The area remained a colony for some two and a half centuries. In 1821, Costa Rica became one of several Central American provinces that jointly declared their independence from Spain. Two years later it joined the United Provinces of Central America, but this federation disintegrated in 1838, at which time Costa Rica proclaimed its sovereignty and independence. Since the late 19th century, only two brief periods of violence have marred the country's democratic development. On 1 December 1948, Costa Rica dissolved its armed forces. Although it still maintains a large agricultural sector, Costa Rica has expanded its economy to include strong technology and tourism industries. The standard of living is relatively high. Land ownership is widespread."
+	},
+	"geography": {
+		"location": "Central America, bordering both the Caribbean Sea and the North Pacific Ocean, between Nicaragua and Panama",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 10,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 84,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 51100,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 51060,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 40,
+				"units": "sq km"
+			},
+			"note": "includes Isla del Coco",
+			"global_rank": 130,
+			"comparative": "slightly smaller than West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 661,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Nicaragua",
+					"border_length": {
+						"value": 313,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Panama",
+					"border_length": {
+						"value": 348,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1290,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands",
+		"terrain": "coastal plains separated by rugged mountains including over 100 volcanic cones, of which several are major active volcanoes",
+		"elevation": {
+			"mean_elevation": {
+				"value": 746,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Cerro Chirripo",
+				"elevation": {
+					"value": 3819,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 37.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 4.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 6.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 25.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 51.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 11.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 1015,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population",
+		"natural_hazards": [
+			{
+				"description": "occasional earthquakes, hurricanes along Atlantic coast",
+				"type": "hazard"
+			},
+			{
+				"description": "frequent flooding of lowlands at onset of rainy season and landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "active volcanoes",
+				"type": "hazard"
+			},
+			{
+				"description": "Arenal (1,670 m), which erupted in 2010, is the most active volcano in Costa Rica; a 1968 eruption destroyed the town of Tabacon; Irazu (3,432 m), situated just east of San Jose, has the potential to spew ash over the capital city as it did between 1963 and 1965; other historically active volcanoes include Miravalles, Poas, Rincon de la Vieja, and Turrialba",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation and land use change",
+				"largely a result of the clearing of land for cattle ranching and agriculture",
+				"soil erosion",
+				"coastal marine pollution",
+				"fisheries protection",
+				"solid waste management",
+				"air pollution"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Marine Life Conservation"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5097988,
+			"global_rank": 123,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Costa Rican(s)",
+			"adjective": "Costa Rican"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white or mestizo",
+					"percent": 83.6
+				},
+				{
+					"name": "mulatto",
+					"percent": 6.7
+				},
+				{
+					"name": "indigenous",
+					"percent": 2.4
+				},
+				{
+					"name": "black of African descent",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 1.1
+				},
+				{
+					"name": "none",
+					"percent": 2.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.2
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"note": "official"
+				},
+				{
+					"name": "English"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 71.8
+				},
+				{
+					"name": "Evangelical and Pentecostal",
+					"percent": 12.3
+				},
+				{
+					"name": "other Protestant",
+					"percent": 2.6
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 0.5
+				},
+				{
+					"name": "other",
+					"percent": 2.4
+				},
+				{
+					"name": "none",
+					"percent": 10.4
+				}
+			],
+			"date": "2016"
+		},
+		"demographic_profile": "Costa Rica's political stability, high standard of living, and well-developed social benefits system set it apart from its Central American neighbors. Through the government's sustained social spending - almost 20% of GDP annually - Costa Rica has made tremendous progress toward achieving its goal of providing universal access to education, healthcare, clean water, sanitation, and electricity. Since the 1970s, expansion of these services has led to a rapid decline in infant mortality, an increase in life expectancy at birth, and a sharp decrease in the birth rate. The average number of children born per women has fallen from about 7 in the 1960s to 3.5 in the early 1980s to below replacement level today. Costa Rica's poverty rate is lower than in most Latin American countries, but it has stalled at around 20% for almost two decades.\nCosta Rica is a popular regional immigration destination because of its job opportunities and social programs. Almost 9% of the population is foreign-born, with Nicaraguans comprising nearly three-quarters of the foreign population. Many Nicaraguans who perform unskilled seasonal labor enter Costa Rica illegally or overstay their visas, which continues to be a source of tension. Less than 3% of Costa Rica's population lives abroad. The overwhelming majority of expatriates have settled in the United States after completing a university degree or in order to work in a highly skilled field.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 22.08,
+				"males": 575731,
+				"females": 549802
+			},
+			"15_to_24": {
+				"percent": 15.19,
+				"males": 395202,
+				"females": 379277
+			},
+			"25_to_54": {
+				"percent": 43.98,
+				"males": 1130387,
+				"females": 1111791
+			},
+			"55_to_64": {
+				"percent": 9.99,
+				"males": 247267,
+				"females": 261847
+			},
+			"65_and_over": {
+				"percent": 8.76,
+				"males": 205463,
+				"females": 241221
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 45.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 30.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 14.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 6.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 32.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 33.1,
+				"units": "years"
+			},
+			"global_rank": 109,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.08,
+			"global_rank": 99,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.8,
+			"global_rank": 122,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.9,
+			"global_rank": 198,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.8,
+			"global_rank": 63,
+			"date": "2020"
+		},
+		"population_distribution": "roughly half of the nation's population resides in urban areas; the capital of San Jose is the largest city and home to approximately one-fifth of the population",
+		"urbanization": {
+			"urban_population": {
+				"value": 80.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.5,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "San Jose",
+					"population": 1400000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.85,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 27,
+			"global_rank": 116,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 7.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 8.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 6.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 153,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 82,
+				"units": "years"
+			},
+			"global_rank": 58,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.87,
+			"global_rank": 136,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 70.9,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.95,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.1,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 95.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 4.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.4,
+				"global_rank": 75,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 14000,
+				"global_rank": 91,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"dengue fever"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 25.7,
+			"global_rank": 48,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.4,
+			"global_rank": 10,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 97.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 97.9,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 17.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 25.9,
+				"units": "%"
+			},
+			"global_rank": 63,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Costa Rica",
+			"conventional_short_form": "Costa Rica",
+			"local_long_form": "Republica de Costa Rica",
+			"local_short_form": "Costa Rica",
+			"etymology": "the name means \"rich coast\" in Spanish and was first applied in the early colonial period of the 16th century"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "San Jose",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 9,
+					"minutes": 56,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 84,
+					"minutes": 5,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -6,
+				"note": "1 hour behind Washington, DC, during Standard Time"
+			},
+			"etymology": "named in honor of Saint Joseph"
+		},
+		"independence": {
+			"date": "1821-09-15",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "15 September",
+				"original_year": "1821"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest effective 8 November 1949",
+			"amendments": "proposals require the signatures of at least 10 Legislative Assembly members or petition of at least 5% of qualified voters; consideration of proposals requires two-thirds majority approval in each of three readings by the Assembly, followed by preparation of the proposal as a legislative bill and its approval by simple majority of the Assembly; passage requires at least two-thirds majority vote of the Assembly membership; a referendum is required only if approved by at least two thirds of the Assembly; amended many times, last in 2015"
+		},
+		"legal_system": "civil law system based on Spanish civil code; judicial review of legislative acts in the Supreme Court",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018)",
+			"cabinet": "Cabinet selected by the president",
+			"elections_appointments": "president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 4 February 2018 with a runoff on 1 April 2018 (next to be held in February 2022)",
+			"election_results": "Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed list proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 4 February 2018 (next to be held in February 2022)",
+			"election_results": "percent of vote by party - PLN 19.5%, PRN 18.2%, PAC 16.3%, PUSC 14.6%, PIN 7.7%, PRS 4.2%, PFA 4%, ADC 2.5%, ML 2.3%, PASE 2.3%, PNG 2.2%, other 6.2%; seats by party - PLN 17, PRN 14, PAC 10, PUSC 9, PIN 4, PRS 2, PFA 1; composition - men 31, women 26, percent of women 45.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court of Justice judges elected by the National Assembly for 8-year terms with renewal decided by the National Assembly",
+			"subordinate_courts": "appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Accessibility Without Exclusion",
+					"name_alternative": "PASE",
+					"leaders": [
+						"Oscar Andres LOPEZ Arias"
+					]
+				},
+				{
+					"name": "Broad Front",
+					"name_alternative": "PFA",
+					"leaders": [
+						"Ana Patricia MORA Castellanos"
+					],
+					"note": "Frente Amplio"
+				},
+				{
+					"name": "Christian Democratic Alliance",
+					"name_alternative": "ADC",
+					"leaders": [
+						"Mario REDONDO Poveda"
+					]
+				},
+				{
+					"name": "Citizen Action Party",
+					"name_alternative": "PAC",
+					"leaders": [
+						"Marta Eugenia SOLANO Arias"
+					]
+				},
+				{
+					"name": "Costa Rican Renewal Party",
+					"name_alternative": "PRC",
+					"leaders": [
+						"Justo OROZCO Alvarez"
+					]
+				},
+				{
+					"name": "Libertarian Movement Party",
+					"name_alternative": "ML",
+					"leaders": [
+						"Victor Danilo CUBERO Corrales"
+					]
+				},
+				{
+					"name": "National Integration Party",
+					"name_alternative": "PIN",
+					"leaders": [
+						"Walter MUNOZ Cespedes"
+					]
+				},
+				{
+					"name": "National Liberation Party",
+					"name_alternative": "PLN",
+					"leaders": [
+						"Jorge Julio PATTONI Saenz"
+					]
+				},
+				{
+					"name": "National Restoration Party",
+					"name_alternative": "PRN",
+					"leaders": [
+						"Carlos Luis AVENDANO Calvo"
+					]
+				},
+				{
+					"name": "New Generation",
+					"name_alternative": "PNG",
+					"leaders": [
+						"Sergio MENA"
+					]
+				},
+				{
+					"name": "Patriotic Alliance",
+					"leaders": [
+						"Jorge ARAYA Westover"
+					]
+				},
+				{
+					"name": "Social Christian Republican Party",
+					"name_alternative": "PRS",
+					"leaders": [
+						"Dragos DOLANESCU Valenciano"
+					]
+				},
+				{
+					"name": "Social Christian Unity Party",
+					"name_alternative": "PUSC",
+					"leaders": [
+						"Pedro MUNOZ Fonseca"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "BCIE"
+			},
+			{
+				"organization": "CACM"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA ",
+				"note": "observer"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Fernando LLORCA Castro (since 17 September 2018)",
+				"chancery": "2114 S Street NW, Washington, DC 20008",
+				"telephone": "[1] (202) 499-2980",
+				"fax": "[1] (202) 265-4795",
+				"consulates_general": "Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington DC",
+				"consulates": "Saint Paul (MN), San Juan (Puerto Rico), Tucson (AZ)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Sharon DAY (since 5 October 2017)",
+				"telephone": "[506] 2519-2000",
+				"embassy": "Calle 98 Via 104, Pavas, San Jose",
+				"mailing_address": "APO AA 34020",
+				"fax": "[506] 2519-2305"
+			}
+		},
+		"flag_description": {
+			"description": "five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people",
+			"note": "somewhat resembles the flag of North Korea; similar to the flag of Thailand but with the blue and red colors reversed"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "yiguirro ",
+					"note": "clay-colored robin"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional de Costa Rica\" (National Anthem of Costa Rica)",
+			"lyrics_music": "Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ",
+			"note": "adopted 1949; the anthem's music was originally written for an 1853 welcome ceremony for diplomatic missions from the US and UK; the lyrics were added in 1903",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CS.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.\nForeign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.\nCosta Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 83940000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 81270000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 77960000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 93,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 58270000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.3,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.6,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 90
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 16900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 16600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 105,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 64.2,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 17.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 33.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -32.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 5.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 73.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 15.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 16.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 15,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 135
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"pineapples",
+				"coffee",
+				"melons",
+				"ornamental plants",
+				"sugar",
+				"corn",
+				"rice",
+				"beans",
+				"potatoes",
+				"beef",
+				"poultry",
+				"dairy",
+				"timber"
+			]
+		},
+		"industries": {
+			"industries": [
+				"medical equipment",
+				"food processing",
+				"textiles",
+				"clothing",
+				"construction materials",
+				"fertilizer",
+				"plastic products"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 1.3,
+			"global_rank": 147,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1843000,
+				"global_rank": 123,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 14,
+						"units": "%"
+					},
+					"industry": {
+						"value": 22,
+						"units": "%"
+					},
+					"services": {
+						"value": 64,
+						"units": "%"
+					}
+				},
+				"date": "2006"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 9.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 126
+		},
+		"population_below_poverty_line": {
+			"value": 21.7,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 36.9,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 8356999999.999999,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 11920000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 14.3,
+			"global_rank": 200,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -6.1,
+			"global_rank": 185,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 48.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 44.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 105
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 89
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1692000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1326000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 163
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 10810000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10150000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 90
+			},
+			"commodities": {
+				"by_commodity": [
+					"bananas",
+					"pineapples",
+					"coffee",
+					"melons",
+					"ornamental plants",
+					"sugar",
+					"beef",
+					"seafood",
+					"electronic components",
+					"medical equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 40.9
+					},
+					{
+						"name": "Belgium",
+						"percent": 6.3
+					},
+					{
+						"name": "Panama",
+						"percent": 5.6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.6
+					},
+					{
+						"name": "Nicaragua",
+						"percent": 5.1
+					},
+					{
+						"name": "Guatemala",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 15150000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 14530000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 89
+			},
+			"commodities": {
+				"by_commodity": [
+					"raw materials",
+					"consumer goods",
+					"capital equipment",
+					"petroleum",
+					"construction materials"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 38.1
+					},
+					{
+						"name": "China",
+						"percent": 13.1
+					},
+					{
+						"name": "Mexico",
+						"percent": 7.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 7150000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 7574000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 86
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 26830000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 24300000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 86
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 573.5,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 544.74,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 544.74,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 534.57,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 538.32,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Costa Rican colones (CRC) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 10790000000,
+				"global_rank": 100,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 9812000000,
+				"global_rank": 98,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 643000000,
+				"global_rank": 64,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 807000000,
+				"global_rank": 72,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 3584000,
+				"global_rank": 94,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 18,
+					"global_rank": 196,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 72,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 64,
+					"global_rank": 25,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 18,
+					"global_rank": 48,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 124,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 109,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 115,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 120,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 134,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 53000,
+				"global_rank": 100,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 147,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 51320,
+				"global_rank": 80,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 120,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 136,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 88,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 111,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 125,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7653000,
+			"global_rank": 120,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 630386,
+				"subscriptions_per_one_hundred_inhabitants": 12.5,
+				"global_rank": 89,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 8163744,
+				"subscriptions_per_one_hundred_inhabitants": 161.88,
+				"global_rank": 96,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple privately owned TV stations and 1 publicly owned TV station; cable network services are widely available; more than 100 privately owned radio stations and a public radio network (2017)",
+		"internet": {
+			"country_code": ".cr",
+			"users": {
+				"total": 3694974,
+				"percent_of_population": 74.09,
+				"global_rank": 94,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 39,
+				"annual_passenger_traffic_on_registered_air_carriers": 1948546,
+				"annual_freight_traffic_on_registered_air_carriers": 11130000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TI",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 161,
+					"global_rank": 34,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 47,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 27,
+					"under_914_metres": 16,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 114,
+					"914_to_1523_metres": 18,
+					"under_914_metres": 96,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "refined products",
+					"length": 662,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 278,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 278,
+				"units": "km\n1.067-m"
+			},
+			"note": "the entire rail network fell into disrepair and out of use at the end of the 20th century; since 2005, certain sections of rail have been rehabilitated",
+			"global_rank": 123,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 5035,
+				"units": "km"
+			},
+			"global_rank": 147,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 730,
+			"units": "km",
+			"note": "seasonally navigable by small craft",
+			"global_rank": 74,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 11,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 11
+				}
+			],
+			"global_rank": 153,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Atlantic Ocean (Caribbean) - Puerto Limon\nPacific Ocean - Caldera"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Costa Rica and Nicaragua regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the International Court of Justice (ICJ)",
+			"in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river",
+			"in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area",
+			"in 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage",
+			"in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel",
+			"in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 13517,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			},
+			"stateless_persons": {
+				"people": 231,
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Costa Rica is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Costa Rican women and children, as well as those from Nicaragua, the Dominican Republic, and other Latin American countries, are sex trafficked in Costa Rica; child sex tourism is a particular problem with offenders coming from the US and Europe; men and children from Central America, including indigenous Panamanians, and Asia are exploited in agriculture, construction, fishing, and commerce; Nicaraguans transit Costa Rica to reach Panama, where some are subjected to forced labor or sex trafficking",
+			"tier_rating": "Tier 2 Watch List – Costa Rica does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; anti-trafficking law enforcement efforts declined in 2014, with fewer prosecutions and no convictions and no actions taken against complicit government personnel; some officials conflated trafficking with smuggling, and authorities reported the diversion of funds to combat smuggling hindered anti-trafficking efforts; the government identified more victims than the previous year but did not make progress in ensuring that victims received adequate protective services; specialized services were limited and mostly provided by NGOs without government support, even from a dedicated fund for anti-trafficking efforts; victims services were virtually non-existent outside of the capital (2015)"
+		},
+		"illicit_drugs": {
+			"note": "transshipment country for cocaine and heroin from South America; illicit production of cannabis in remote areas; domestic cocaine consumption, particularly crack cocaine, is rising; significant consumption of amphetamines; seizures of smuggled cash in Costa Rica and at the main border crossing to enter Costa Rica from Nicaragua have risen in recent years"
+		}
+	}
+}

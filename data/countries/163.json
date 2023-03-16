@@ -1,0 +1,1947 @@
+{
+	"name": "Netherlands",
+	"introduction": {
+		"background": "The Dutch United Provinces declared their independence from Spain in 1579; during the 17th century, they became a leading seafaring and commercial power, with settlements and colonies around the world. After a 20-year French occupation, a Kingdom of the Netherlands was formed in 1815. In 1830, Belgium seceded and formed a separate kingdom. The Netherlands remained neutral in World War I, but suffered German invasion and occupation in World War II. A modern, industrialized nation, the Netherlands is also a large exporter of agricultural products. The country was a founding member of NATO and the EEC (now the EU) and participated in the introduction of the euro in 1999. In October 2010, the former Netherlands Antilles was dissolved and the three smallest islands - Bonaire, Sint Eustatius, and Saba - became special municipalities in the Netherlands administrative structure. The larger islands of Sint Maarten and Curacao joined the Netherlands and Aruba as constituent countries forming the Kingdom of the Netherlands.\nIn February 2018, the Sint Eustatius island council (governing body) was dissolved and replaced by a government commissioner to restore the integrity of public administration. According to the Dutch Government, the intervention will be as \"short as possible and as long as needed.\""
+	},
+	"geography": {
+		"location": "Western Europe, bordering the North Sea, between Belgium and Germany",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 52,
+				"minutes": 30,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 5,
+				"minutes": 45,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 41543,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 33893,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 7650,
+				"units": "sq km"
+			},
+			"global_rank": 135,
+			"comparative": "slightly less than twice the size of New Jersey"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1053,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Belgium",
+					"border_length": {
+						"value": 478,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Germany",
+					"border_length": {
+						"value": 575,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 451,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "temperate; marine; cool summers and mild winters",
+		"terrain": "mostly coastal lowland and reclaimed land (polders); some hills in southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 30,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Zuidplaspolder",
+				"elevation": {
+					"value": -7,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Scenery (on the island of Saba in the Caribbean, now considered an integral part of the Netherlands following the dissolution of the Netherlands Antilles)",
+				"elevation": {
+					"value": 862,
+					"units": "m"
+				}
+			},
+			"note": "the highest point on continental Netherlands is Vaalserberg at 322 m"
+		},
+		"natural_resources": {
+			"resources": [
+				"natural gas",
+				"petroleum",
+				"peat",
+				"limestone",
+				"salt",
+				"sand",
+				"gravel",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 55.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 29.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 24.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 10.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 34.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 4860,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "Mount Scenery (887 m), located on the island of Saba in the Caribbean, last erupted in 1640;; Round Hill (601 m), a dormant volcano also known as The Quill, is located on the island of St. Eustatius in the Caribbean;; these islands are at the northern end of the volcanic island arc of the Lesser Antilles that extends south to Grenada",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water and air pollution are significant environmental problems",
+				"pollution of the country's rivers from industrial and agricultural chemicals",
+				"including heavy metals",
+				"organic compounds",
+				"nitrates",
+				"and phosphates",
+				"air pollution from vehicles and refining activities"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 17280397,
+			"global_rank": 67,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Dutchman(men), Dutchwoman(women)",
+			"adjective": "Dutch"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Dutch",
+					"percent": 76.9
+				},
+				{
+					"name": "EU",
+					"percent": 6.4
+				},
+				{
+					"name": "Turkish",
+					"percent": 2.4
+				},
+				{
+					"name": "Moroccan",
+					"percent": 2.3
+				},
+				{
+					"name": "Indonesian",
+					"percent": 2.1
+				},
+				{
+					"name": "German",
+					"percent": 2.1
+				},
+				{
+					"name": "Surinamese",
+					"percent": 2
+				},
+				{
+					"name": "Polish",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 4.8
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Dutch",
+					"note": "official"
+				}
+			],
+			"note": "Frisian is an official language in Fryslan province; Frisian, Low Saxon, Limburgish, Romani, and Yiddish have protected status under the European Charter for Regional or Minority Languages; Dutch is the official language of the three special municipalities of the Caribbean Netherlands; English is a recognized regional language on Sint Eustatius and Saba; Papiamento is a recognized regional language on Bonaire"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 23.6
+				},
+				{
+					"name": "Protestant",
+					"percent": 14.9,
+					"breakdown": [
+						{
+							"name": "includes Dutch Reformed",
+							"percent": 6.4
+						},
+						{
+							"name": "Protestant Church of The Netherlands",
+							"percent": 5.6
+						},
+						{
+							"name": "Calvinist",
+							"percent": 2.9
+						}
+					]
+				},
+				{
+					"name": "Muslim",
+					"percent": 5.1
+				},
+				{
+					"name": "other",
+					"percent": 5.6,
+					"note": "includes Hindu, Buddhist, Jewish"
+				},
+				{
+					"name": "none",
+					"percent": 50.7
+				}
+			],
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 16.11,
+				"males": 1425547,
+				"females": 1358894
+			},
+			"15_to_24": {
+				"percent": 11.91,
+				"males": 1049000,
+				"females": 1008763
+			},
+			"25_to_54": {
+				"percent": 38.47,
+				"males": 3334064,
+				"females": 3313238
+			},
+			"55_to_64": {
+				"percent": 13.69,
+				"males": 1177657,
+				"females": 1188613
+			},
+			"65_and_over": {
+				"percent": 19.82,
+				"males": 1558241,
+				"females": 1866380
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 24.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 31.2,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 42.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 41.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 44,
+				"units": "years"
+			},
+			"global_rank": 32,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.37,
+			"global_rank": 166,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11,
+			"global_rank": 179,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.2,
+			"global_rank": 56,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 1.9,
+			"global_rank": 50,
+			"date": "2020"
+		},
+		"population_distribution": "an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country",
+		"urbanization": {
+			"urban_population": {
+				"value": 92.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.74,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Amsterdam",
+					"population": 1149000,
+					"is_capital": true
+				},
+				{
+					"place": "Rotterdam",
+					"population": 1010000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.83,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 5,
+			"global_rank": 169,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 199,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 79.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.1,
+				"units": "years"
+			},
+			"global_rank": 28,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.77,
+			"global_rank": 154,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 73,
+			"units": "%",
+			"note": "percent of women aged 18-45",
+			"date": "2013"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.61,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.3,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 107,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 24000,
+				"global_rank": 83,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.4,
+			"global_rank": 99,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.5,
+			"global_rank": 39,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 19,
+				"units": "years"
+			},
+			"male": {
+				"value": 18,
+				"units": "years"
+			},
+			"female": {
+				"value": 19,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 7.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 7.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 6.6,
+				"units": "%"
+			},
+			"global_rank": 150,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of the Netherlands",
+			"conventional_short_form": "Netherlands",
+			"local_long_form": "Koninkrijk der Nederlanden",
+			"local_short_form": "Nederland",
+			"abbreviation": "NL",
+			"etymology": "the country name literally means \"the lowlands\" and refers to the geographic features of the land being both flat and down river from higher areas (i.e., at the estuaries of the Scheldt, Meuse, and Rhine Rivers; only about half of the Netherlands is more than 1 meter above sea level)"
+		},
+		"government_type": "parliamentary constitutional monarchy; part of the Kingdom of the Netherlands",
+		"capital": {
+			"name": "Amsterdam; note - The Hague is the seat of government",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 52,
+					"minutes": 21,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 4,
+					"minutes": 55,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "time descriptions apply to the continental Netherlands only, for the constituent countries in the Caribbean, the time difference is UTC-4",
+			"etymology": "the original Dutch name, Amstellerdam, meaning \"a dam on the Amstel River,\" dates to the 13th century; over time the name simplified to Amsterdam"
+		},
+		"administrative_divisions": [
+			{
+				"name": "provincie)",
+				"type": ""
+			},
+			{
+				"name": "3 public entities",
+				"type": ""
+			}
+		],
+		"dependent_areas": {
+			"areas": [
+				"Aruba",
+				"Curacao",
+				"Sint Maarten"
+			]
+		},
+		"independence": {
+			"date": "1579-01-23"
+		},
+		"national_holidays": [
+			{
+				"name": "King's Day",
+				"day": "27 April",
+				"original_year": "1967",
+				"note": "King's or Queen's Day are observed on the ruling monarch's birthday; birthday of King WILLEM-ALEXANDER"
+			}
+		],
+		"constitution": {
+			"history": "previous 1597, 1798; latest adopted 24 August 1815 (substantially revised in 1848)",
+			"amendments": "proposed as an Act of Parliament by or on behalf of the king or by the Second Chamber of the States General; the Second Chamber is dissolved after its first reading of the Act; passage requires a second reading by both the First Chamber and the newly elected Second Chamber, followed by at least two-thirds majority vote of both chambers, and ratification by the king; amended many times, last in 2010"
+		},
+		"legal_system": "civil law system based on the French system; constitution does not permit judicial review of acts of the States General",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of the Netherlands",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003)",
+			"head_of_government": "Prime Minister Mark RUTTE (since 14 October 2010; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017",
+			"cabinet": "Council of Ministers appointed by the monarch",
+			"elections_appointments": "the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch"
+		},
+		"legislative_branch": {
+			"description": "bicameral States General or Staten Generaal consists of: First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)\nSecond Chamber or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve up to 4-year terms)",
+			"elections": "First Chamber - last held on 27 May 2019 (next to be held on NA May 2023)\nSecond Chamber - last held on 15 March 2017 (next to be held 15 March 2021)",
+			"election_results": "First Chamber - percent of vote by party - NA; seats by party - FvD 12, VVD 12, CDA 9, GL 8, D66 7, MvdA 6, PVV 5, SP 4, CU 4, other 8; composition - men 49, women 26, percent of women 34.7%\nSecond Chamber - percent of vote by party - VVD 21.3%, PVV 13.1%, CDA 12.4%, D66 12.2%, GL 9.1%, SP 9.1%, PvdA 5.7%, CU 3.4%, PvdD 3.2%, 50 Plus 3.1%, other 7.4%; seats by party - VVD 33, PVV 20, CDA 19, D66 19, GL 14, SP 14, PvdA 9, CU 5, PvdD 5, 50 Plus 4, other 8; composition - men 96, women 54, percent of women 36%; note - total States General percent of women 35.6%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers",
+			"judge_selection_and_term_of_office": "justices appointed by the monarch from a list provided by the Second Chamber of the States General; justices appointed for life or until mandatory retirement at age 70",
+			"subordinate_courts": "courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Christian Democratic Appeal",
+					"name_alternative": "CDA",
+					"leaders": [
+						"Sybrand VAN HAERSMA BUMA"
+					]
+				},
+				{
+					"name": "Christian Union",
+					"name_alternative": "CU",
+					"leaders": [
+						"Gert-Jan SEGERS"
+					]
+				},
+				{
+					"name": "Democrats 66",
+					"name_alternative": "D66",
+					"leaders": [
+						"Rob JETTEN"
+					]
+				},
+				{
+					"name": "Denk",
+					"leaders": [
+						"Tunahan KUZU"
+					]
+				},
+				{
+					"name": "50 Plus",
+					"leaders": [
+						"Henk KROL"
+					]
+				},
+				{
+					"name": "Forum for Democracy",
+					"name_alternative": "FvD",
+					"leaders": [
+						"Thierry BAUDET"
+					]
+				},
+				{
+					"name": "Green Left",
+					"name_alternative": "GL",
+					"leaders": [
+						"Jesse KLAVER"
+					]
+				},
+				{
+					"name": "Labor Party",
+					"name_alternative": "PvdA",
+					"leaders": [
+						"Lodewijk ASSCHER"
+					]
+				},
+				{
+					"name": "Party for Freedom",
+					"name_alternative": "PVV",
+					"leaders": [
+						"Geert WILDERS"
+					]
+				},
+				{
+					"name": "Party for the Animals",
+					"name_alternative": "PvdD",
+					"leaders": [
+						"Marianne THIEME"
+					]
+				},
+				{
+					"name": "People's Party for Freedom and Democracy",
+					"name_alternative": "VVD",
+					"leaders": [
+						"Mark RUTTE"
+					]
+				},
+				{
+					"name": "Reformed Political Party",
+					"name_alternative": "SGP",
+					"leaders": [
+						"Kees VAN DER STAAIJ"
+					]
+				},
+				{
+					"name": "Socialist Party",
+					"name_alternative": "SP",
+					"leaders": [
+						"Emile ROEMER"
+					]
+				}
+			],
+			"note": "plus a few minor parties"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "Benelux"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNDOF"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Andre HASPELS (since 16 September 2019)",
+				"chancery": "4200 Linnean Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 244-5300, [1] 877-388-2443",
+				"fax": "[1] (202) 362-3430",
+				"consulates_general": "Chicago, Miami, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Peter HOEKSTRA (since 10 January 2018)",
+				"telephone": "[31] (70) 310-2209",
+				"embassy": "John Adams Park 1, 2244 BZ Wassenaar",
+				"mailing_address": "PSC 71, Box 1000, APO AE 09715",
+				"fax": "[31] (70) 310-2207",
+				"consulates_general": "Amsterdam"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (bright vermilion; top), white, and blue (cobalt); similar to the flag of Luxembourg, which uses a lighter blue and is longer; the colors were derived from those of WILLIAM I, Prince of Orange, who led the Dutch Revolt against Spanish sovereignty in the latter half of the 16th century; originally the upper band was orange, but because its dye tended to turn red over time, the red shade was eventually made the permanent color; the banner is perhaps the oldest tricolor in continuous use"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				},
+				{
+					"symbol": "tulip"
+				},
+				{
+					"symbol": "national color: orange"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Het Wilhelmus\" (The William)",
+			"lyrics_music": "Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown",
+			"note": "adopted 1932, in use since the 17th century, making it the oldest national anthem in the world; also known as \"Wilhelmus van Nassouwe\" (William of Nassau), it is in the form of an acrostic, where the first letter of each stanza spells the name of the leader of the Dutch Revolt",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/NL.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.\nThe Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.\nIn 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 924400000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 898600000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 879400000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 27,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 832200000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.63,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.32,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.02,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 150
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 53900,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 52800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 51900,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 23,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 44.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 24.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 83,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -72.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 17.9,
+							"units": "%"
+						},
+						"services": {
+							"value": 70.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 31.2,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 28.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 28
+		},
+		"agriculture_products": {
+			"products": [
+				"vegetables",
+				"ornamentals",
+				"dairy",
+				"poultry",
+				"livestock products",
+				"propagation materials"
+			]
+		},
+		"industries": {
+			"industries": [
+				"agroindustries",
+				"metal",
+				"engineering products",
+				"electrical machinery",
+				"equipment",
+				"chemicals",
+				"petroleum",
+				"construction",
+				"microelectronics",
+				"fishing"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.3,
+			"global_rank": 96,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 8907000,
+				"global_rank": 53,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 17.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 81.6,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.41,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 3.84,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 46
+		},
+		"population_below_poverty_line": {
+			"value": 8.8,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.3,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 24.9,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 361400000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 352400000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 43.4,
+			"global_rank": 27,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.1,
+			"global_rank": 32,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 56.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 61.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 78,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 70
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 90207000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 98981000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 4
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 555600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 495400000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 6
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"chemicals",
+					"mineral fuels",
+					"food",
+					"livestock",
+					"manufactured goods"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 24.2
+					},
+					{
+						"name": "Belgium",
+						"percent": 10.7
+					},
+					{
+						"name": "UK",
+						"percent": 8.8
+					},
+					{
+						"name": "France",
+						"percent": 8.8
+					},
+					{
+						"name": "Italy",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 453800000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 402900000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 10
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"chemicals",
+					"fuels",
+					"foodstuffs",
+					"clothing"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 16.4
+					},
+					{
+						"name": "Germany",
+						"percent": 15.3
+					},
+					{
+						"name": "Belgium",
+						"percent": 8.5
+					},
+					{
+						"name": "US",
+						"percent": 6.9
+					},
+					{
+						"name": "UK",
+						"percent": 5.1
+					},
+					{
+						"name": "Russia",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 38440000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 38210000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 46
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 4062999999999.9995,
+					"units": "USD",
+					"date": "2016-12-31"
+				},
+				{
+					"value": 4054000000000.0005,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 5
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 109300000000,
+				"global_rank": 33,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 108800000000,
+				"global_rank": 32,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 19340000000,
+				"global_rank": 8,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 24260000000,
+				"global_rank": 7,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 34170000,
+				"global_rank": 29,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 75,
+					"global_rank": 95,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 1,
+					"global_rank": 31,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 189,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 23,
+					"global_rank": 32,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 18000,
+				"global_rank": 67,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 7984,
+				"global_rank": 62,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 1094000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 81130000,
+				"global_rank": 72,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 1282000,
+				"global_rank": 17,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 954500,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 2406000,
+				"global_rank": 3,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 2148000,
+				"global_rank": 3,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 45330000000,
+				"global_rank": 17,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 43380000000,
+				"global_rank": 21,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 51250000000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 51000000000,
+				"global_rank": 7,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 801400000000,
+				"global_rank": 26,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 250200000,
+			"global_rank": 26,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 5598798,
+				"subscriptions_per_one_hundred_inhabitants": 32.52,
+				"global_rank": 25,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 21914852,
+				"subscriptions_per_one_hundred_inhabitants": 127.29,
+				"global_rank": 54,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "more than 90% of households are connected to cable or satellite TV systems that provide a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder operating in regional and local markets; 2 major nationwide commercial television companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations providing national or regional coverage",
+		"internet": {
+			"country_code": ".nl",
+			"users": {
+				"total": 16243928,
+				"percent_of_population": 94.71,
+				"global_rank": 41,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 8,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 238,
+				"annual_passenger_traffic_on_registered_air_carriers": 43996044,
+				"annual_freight_traffic_on_registered_air_carriers": 5886510000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "PH",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 29,
+					"global_rank": 117,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 23,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 11,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 6,
+					"under_914_metres": 2,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 6,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 14000,
+					"units": "km"
+				},
+				{
+					"type": "oil and refined products",
+					"length": 2500,
+					"units": "km"
+				},
+				{
+					"type": "chemicals",
+					"length": 3000,
+					"units": "km"
+				}
+			],
+			"date": "2016"
+		},
+		"railways": {
+			"total": {
+				"length": 3058,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 3058,
+				"electrified": 2314,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 61,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 139124,
+				"units": "km",
+				"note": "includes 3,654 km of expressways"
+			},
+			"global_rank": 37,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 6237,
+			"units": "km",
+			"note": "navigable by ships up to 50 tons",
+			"global_rank": 21,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 1217,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 13
+				},
+				{
+					"type": "container ship",
+					"count": 43
+				},
+				{
+					"type": "general cargo",
+					"count": 568
+				},
+				{
+					"type": "oil tanker",
+					"count": 22
+				},
+				{
+					"type": "other",
+					"count": 571
+				}
+			],
+			"global_rank": 24,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"IJmuiden",
+				"Vlissingen"
+			],
+			"container_ports": [
+				{
+					"place": "Rotterdam",
+					"twenty_foot_equivalent_units": 13734000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Rotterdam"
+			],
+			"river_ports": [
+				"Amsterdam (Nordsee Kanaal)",
+				"Moerdijk (Hollands Diep River)",
+				"Rotterdam (Rhine River)",
+				"Terneuzen (Western Scheldt River)"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.36,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.21,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.15,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.16,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.13,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 88
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17 years of age for an all-volunteer force",
+			"date": "2016"
+		},
+		"note": "in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); C-SOCC is scheduled to be fully operational in 2021 (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 31694,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 14809,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 13007,
+						"country_of_origin": "Somalia"
+					},
+					{
+						"people": 8423,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 5815,
+						"country_of_origin": "Afghanistan"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 1951,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "major European producer of synthetic drugs, including ecstasy, and cannabis cultivator; important gateway for cocaine, heroin, and hashish entering Europe; major source of US-bound ecstasy and a significant consumer of ecstasy; a large financial sector vulnerable to money laundering"
+		}
+	}
+}

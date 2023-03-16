@@ -1,0 +1,509 @@
+{
+	"name": "Christmas Island",
+	"introduction": {
+		"background": "Although Europeans had sighted the island at least as early as 1615, it was only named in 1643 for the day of its rediscovery. The island was annexed and settlement began by the UK in 1888 with the discovery of the island's phosphate deposits. Following the Second World War, Christmas Island came under the jurisdiction of the new British Colony of Singapore. The island existed as a separate Crown colony from 1 January 1958 to 1 October 1958 when its transfer to Australian jurisdiction was finalized. That date is still celebrated on the first Monday in October as Territory Day. Almost two-thirds of the island has been declared a national park."
+	},
+	"geography": {
+		"location": "Southeastern Asia, island in the Indian Ocean, south of Indonesia",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 10,
+				"minutes": 30,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 105,
+				"minutes": 40,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 135,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 135,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 222,
+			"comparative": "about three-quarters the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 138.9,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical with a wet season (December to April) and dry season; heat and humidity moderated by trade winds",
+		"terrain": "steep cliffs along coast rise abruptly to central plateau",
+		"elevation": {
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Murray Hill",
+				"elevation": {
+					"value": 361,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"phosphate",
+				"beaches"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "majority of the population lives on the northern tip of the island",
+		"natural_hazards": [
+			{
+				"description": "the narrow fringing reef surrounding the island can be a maritime hazard",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"loss of rainforest",
+				"impact of phosphate mining"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2205,
+			"global_rank": 231,
+			"date": "2016"
+		},
+		"nationality": {
+			"noun": "Christmas Islander(s)",
+			"adjective": "Christmas Island"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Chinese",
+					"percent": 70
+				},
+				{
+					"name": "European",
+					"percent": 20
+				},
+				{
+					"name": "Malay",
+					"percent": 10
+				}
+			],
+			"note": "no indigenous population",
+			"date": "2001"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 27.6,
+					"note": "official"
+				},
+				{
+					"name": "Mandarin",
+					"percent": 17.2
+				},
+				{
+					"name": "Malay",
+					"percent": 17.1
+				},
+				{
+					"name": "Cantonese",
+					"percent": 3.9
+				},
+				{
+					"name": "Min Nan",
+					"percent": 1.6
+				},
+				{
+					"name": "Tagalog",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 4.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 27.1
+				}
+			],
+			"note": "data represent language spoken at home",
+			"date": "2016"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 19.4
+				},
+				{
+					"name": "Buddhist",
+					"percent": 18.3
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 8.8
+				},
+				{
+					"name": "Protestant",
+					"percent": 6.5,
+					"breakdown": [
+						{
+							"name": "includes Anglican",
+							"percent": 3.6
+						},
+						{
+							"name": "Uniting Church",
+							"percent": 1.2
+						},
+						{
+							"name": "other",
+							"percent": 1.7
+						}
+					]
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.3
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				},
+				{
+					"name": "none",
+					"percent": 15.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 27.7
+				}
+			],
+			"date": "2016"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 12.79,
+				"males": 147,
+				"females": 135
+			},
+			"15_to_24": {
+				"percent": 12.2,
+				"males": 202,
+				"females": 67
+			},
+			"25_to_54": {
+				"percent": 57.91,
+				"males": 955,
+				"females": 322
+			},
+			"55_to_64": {
+				"percent": 11.66,
+				"males": 172,
+				"females": 85
+			},
+			"65_and_over": {
+				"percent": 5.44,
+				"males": 84,
+				"females": 36
+			},
+			"date": "2017"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.11,
+			"global_rank": 95,
+			"date": "2014"
+		},
+		"population_distribution": "majority of the population lives on the northern tip of the island",
+		"infant_mortality_rate": {
+			"date": "2018"
+		},
+		"life_expectancy_at_birth": {
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Territory of Christmas Island",
+			"conventional_short_form": "Christmas Island",
+			"etymology": "named by English Captain William MYNORS for the day of its rediscovery, Christmas Day (25 December 1643); the island had been sighted by Europeans as early as 1615"
+		},
+		"government_type": "non-self-governing overseas territory of Australia",
+		"capital": {
+			"name": "The Settlement (Flying Fish Cove)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 10,
+					"minutes": 25,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 105,
+					"minutes": 43,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 7,
+				"note": "12 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "self-descriptive name for the main locus of population"
+		},
+		"independence": {
+			"note": "territory of Australia"
+		},
+		"national_holidays": [
+			{
+				"name": "Australia Day",
+				"day": "26 January",
+				"original_year": "1788",
+				"note": "commemorates the arrival of the First Fleet of Australian settlers"
+			}
+		],
+		"constitution": {
+			"history": "1 October 1958 (Christmas Island Act 1958)",
+			"amendments": "amended many times, last in 2016"
+		},
+		"legal_system": "legal system is under the authority of the governor general of Australia and Australian law",
+		"suffrage": {
+			"age": 18
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General Sir Peter COSGROVE (since 28 March 2014)",
+			"head_of_government": "Administrator Natasha GRIGGS (since 5 October 2018)",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia"
+		},
+		"legislative_branch": {
+			"description": "unicameral Christmas Island Shire Council (9 seats; members directly elected by simple majority vote to serve 4-year terms with a portion of the membership renewed every 2 years)",
+			"elections": "held every 2 years with half the members standing for election; last held on 21 October 2017 (next to be held in October 2019)",
+			"election_results": "percent of vote - NA; seats by party - independent 9; composition as of 17 October 2015 - men 7, women 2, percent of women 22.2%"
+		},
+		"political_parties_and_leaders": {
+			"note": "none"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "none"
+			}
+		],
+		"flag_description": {
+			"description": "territorial flag; divided diagonally from upper hoist to lower fly; the upper triangle is green with a yellow image of the Golden Bosun Bird superimposed; the lower triangle is blue with the Southern Cross constellation, representing Australia, superimposed; a centered yellow disk displays a green map of the island",
+			"note": "the flag of Australia is used for official purposes"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden bosun bird"
+				}
+			]
+		},
+		"national_anthem": {
+			"note": "as a territory of Australia, \"Advance Australia Fair\" remains official as the national anthem, while \"God Save the Queen\" serves as the royal anthem (see Australia)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/KT.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "The main economic activities on Christmas Island are the mining of low grade phosphate, limited tourism, the provision of government services and, since 2005, the construction and operation of the Immigration Detention Center. The government sector includes administration, health, education, policing, customs, quarantine, and defense.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"note": "NA"
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"NA"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"phosphate extraction"
+			]
+		},
+		"budget": {},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"exports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"phosphate"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"note": "NA"
+			},
+			"commodities": {
+				"by_commodity": [
+					"consumer goods"
+				]
+			}
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.311,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3442,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3442,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.3291,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.1094,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Australian dollars (AUD) per US dollar"
+		}
+	},
+	"communications": {
+		"broadcast_media": "1 community radio station; satellite broadcasts of several Australian radio and TV stations (2017)",
+		"internet": {
+			"country_code": ".cx",
+			"users": {
+				"total": 790,
+				"percent_of_population": 35.8,
+				"global_rank": 227,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 217,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 18,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 18,
+				"units": "km\n1.435-m"
+			},
+			"note": "the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place",
+			"global_rank": 134,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 140,
+				"units": "km"
+			},
+			"paved": {
+				"value": 30,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 110,
+				"units": "km"
+			},
+			"global_rank": 210,
+			"date": "2011"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Flying Fish Cove"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Australia"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

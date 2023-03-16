@@ -1,0 +1,1789 @@
+{
+	"name": "Latvia",
+	"introduction": {
+		"background": "Several eastern Baltic tribes merged in medieval times to form the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.). The region subsequently came under the control of Germans, Poles, Swedes, and finally, Russians. A Latvian republic emerged following World War I, but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. Latvia reestablished its independence in 1991 following the breakup of the Soviet Union. Although the last Russian troops left in 1994, the status of the Russian minority (some 26% of the population) remains of concern to Moscow. Latvia acceded to both NATO and the EU in the spring of 2004; it joined the euro zone in 2014 and the OECD in 2016. A dual citizenship law was adopted in 2013, easing naturalization for non-citizen children."
+	},
+	"geography": {
+		"location": "Eastern Europe, bordering the Baltic Sea, between Estonia and Lithuania",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 57,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 25,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 64589,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 62249,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2340,
+				"units": "sq km"
+			},
+			"global_rank": 125,
+			"comparative": "slightly larger than West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1370,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Belarus",
+					"border_length": {
+						"value": 161,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Estonia",
+					"border_length": {
+						"value": 333,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Lithuania",
+					"border_length": {
+						"value": 544,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia",
+					"border_length": {
+						"value": 332,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 498,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": "limits as agreed to by Estonia, Finland, Latvia, Sweden, and Russia",
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "maritime; wet, moderate winters",
+		"terrain": "low plain",
+		"elevation": {
+			"mean_elevation": {
+				"value": 87,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Baltic Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Gaizina Kalns",
+				"elevation": {
+					"value": 312,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"peat",
+				"limestone",
+				"dolomite",
+				"amber",
+				"hydropower",
+				"timber",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 29.2,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 18.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 10.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 54.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 16.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 12,
+			"units": "sq km",
+			"note": "note: land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85 % of agricultural land has been improved by drainage",
+			"date": "2012"
+		},
+		"population_distribution": "largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country",
+		"natural_hazards": [
+			{
+				"description": "large percentage of agricultural fields can become waterlogged and require drainage",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"while land",
+				"water",
+				"and air pollution are evident",
+				"Latvia's environment has benefited from a shift to service industries after the country regained independence",
+				"improvements have occurred in drinking water quality",
+				"sewage treatment",
+				"household and hazardous waste management",
+				"as well as reduction of air pollution",
+				"concerns include nature protection and the management of water resources and the protection of the Baltic Sea"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1881232,
+			"global_rank": 153,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Latvian(s)",
+			"adjective": "Latvian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Latvian",
+					"percent": 62.2
+				},
+				{
+					"name": "Russian",
+					"percent": 25.2
+				},
+				{
+					"name": "Belarusian",
+					"percent": 3.2
+				},
+				{
+					"name": "Ukrainian",
+					"percent": 2.2
+				},
+				{
+					"name": "Polish",
+					"percent": 2.1
+				},
+				{
+					"name": "Lithuanian",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 1.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 2.3
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Latvian",
+					"percent": 56.3,
+					"note": "official"
+				},
+				{
+					"name": "Russian",
+					"percent": 33.8
+				},
+				{
+					"name": "other",
+					"percent": 0.6,
+					"note": "includes Polish, Ukrainian, and Belarusian"
+				},
+				{
+					"name": "unspecified",
+					"percent": 9.4
+				}
+			],
+			"note": "data represent language usually spoken at home",
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Lutheran",
+					"percent": 36.2
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 19.5
+				},
+				{
+					"name": "Orthodox",
+					"percent": 19.1
+				},
+				{
+					"name": "other Christian",
+					"percent": 1.6
+				},
+				{
+					"name": "other",
+					"percent": 0.1
+				},
+				{
+					"name": "unspecified/none",
+					"percent": 23.5
+				}
+			],
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.32,
+				"males": 148120,
+				"females": 140028
+			},
+			"15_to_24": {
+				"percent": 9,
+				"males": 87372,
+				"females": 81965
+			},
+			"25_to_54": {
+				"percent": 40.41,
+				"males": 380817,
+				"females": 379359
+			},
+			"55_to_64": {
+				"percent": 14.77,
+				"males": 125401,
+				"females": 152548
+			},
+			"65_and_over": {
+				"percent": 20.5,
+				"males": 128151,
+				"females": 257471
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 59,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 26.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 32.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 48,
+				"units": "years"
+			},
+			"global_rank": 16,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -1.12,
+			"global_rank": 231,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.2,
+			"global_rank": 204,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 14.6,
+			"global_rank": 4,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -5.9,
+			"global_rank": 202,
+			"date": "2020"
+		},
+		"population_distribution": "largest concentration of people is found in and around the port and capital city of Riga; small agglomerations are scattered throughout the country",
+		"urbanization": {
+			"urban_population": {
+				"value": 68.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.93,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Riga",
+					"population": 631000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.82,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.5,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.86,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.6,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 19,
+			"global_rank": 124,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 5.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 4.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 177,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 80.1,
+				"units": "years"
+			},
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.53,
+			"global_rank": 198,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.19,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 5.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.6,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.4,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 84.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 94.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 15.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 5.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.3,
+				"global_rank": 91,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 5600,
+				"global_rank": 122,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"vectorborne_diseases": [
+				"tickborne encephalitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 23.6,
+			"global_rank": 65,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.3,
+			"global_rank": 49,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.9,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.9,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 16,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 12.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 12.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 11.8,
+				"units": "%"
+			},
+			"global_rank": 109,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Latvia",
+			"conventional_short_form": "Latvia",
+			"local_long_form": "Latvijas Republika",
+			"local_short_form": "Latvija",
+			"former": "Latvian Soviet Socialist Republic",
+			"etymology": "the name \"Latvia\" originates from the ancient Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.)"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Riga",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 56,
+					"minutes": 57,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 24,
+					"minutes": 6,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word \"rija,\" meaning \"warehouse,\" where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century"
+		},
+		"administrative_divisions": [
+			{
+				"name": "novads) and 9 cities",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1918-11-18",
+			"note": "from Soviet Russia; 4 May 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "18 November",
+				"original_year": "1918",
+				"note": "18 November 1918 was the date Latvia established its statehood and its concomitant independence from Soviet Russia; Republic of Latvia Proclamation Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous (pre-1991 independence)",
+			"note": "following the restoration of independence in 1991, parts of the 1922 constitution were reintroduced 4 May 1990 and fully reintroduced 6 July 1993",
+			"amendments": "proposed by two thirds of Parliament members or by petition of one tenth of qualified voters submitted through the president; passage requires at least two-thirds majority vote of Parliament in each of three readings; amendment of constitutional articles, including national sovereignty, language, the parliamentary electoral system, and constitutional amendment procedures, requires passage in a referendum by majority vote of at least one half of the electorate; amended several times, last in 2019"
+		},
+		"legal_system": "civil law system with traces of socialist legal traditions and practices",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Latvia",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Egils LEVITS (since 8 July 2019)",
+			"head_of_government": "Prime Minister Krisjanis KARINS (since 23 January 2019)",
+			"cabinet": "Cabinet of Ministers nominated by the prime minister, appointed by Parliament",
+			"elections_appointments": "president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament",
+			"election_results": "Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes, Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party list proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 6 October 2018 (next to be held in October 2022)",
+			"election_results": "percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition - men 69, women 31, percent of women 31%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by chief justice and confirmed by the Saeima; judges serve until age 70, but term can be extended 2 years; Constitutional Court judges - 3 nominated by Saeima members, 2 by Cabinet ministers, and 2 by plenum of Supreme Court; all judges confirmed by Saeima majority vote; Constitutional Court president and vice president serve in their positions for 3 years; all judges serve 10-year terms; mandatory retirement at age 70",
+			"subordinate_courts": "district (city) and regional courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Development/For!",
+					"name_alternative": "AP!",
+					"leaders": [
+						"Daniels PAVLUTS",
+						"Juris PUCE"
+					]
+				},
+				{
+					"name": "National Alliance \"All For Latvia!\"-\"For Fatherland and Freedom/LNNK\" or NA New Conservative Party or JKP [Janis BORDANS]",
+					"name_alternative": "",
+					"leaders": [
+						"Raivis DZINTARS"
+					]
+				},
+				{
+					"name": "Social Democratic Party \"Harmony\" or SDPS Union of Greens and Farmers or ZZS [Armands KRAUZE] Unity or V [Arvils ASERADENS]",
+					"name_alternative": "",
+					"leaders": [
+						"Nils USAKOVS"
+					]
+				},
+				{
+					"name": "Who Owns the State?",
+					"name_alternative": "KPV LV",
+					"leaders": [
+						"Artuss KAIMINS"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BA"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA ",
+				"note": "cooperating state"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Andris TEIKMANIS (since 16 September 2016)",
+				"chancery": "2306 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 328-2840",
+				"fax": "[1] (202) 328-2860"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador John Leslie CARWILE (since 5 November 2019)",
+				"telephone": "[371] 6710-7000",
+				"embassy": "1 Samnera Velsa St, Riga LV-1510",
+				"mailing_address": "Embassy of the United States of America, 1 Samnera Velsa St, Riga, LV-1510",
+				"fax": "[371] 6710-7050"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world; a medieval chronicle mentions a red standard with a white stripe being used by Latvian tribes in about 1280"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "white wagtail ",
+					"note": "bird"
+				}
+			],
+			"colors": [
+				{
+					"color": "maroon"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Dievs, sveti Latviju!\" (God Bless Latvia)",
+			"lyrics_music": "Karlis BAUMANIS",
+			"note": "adopted 1920, restored 1990; first performed in 1873 while Latvia was a part of Russia; banned during the Soviet occupation from 1940 to 1990",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/LG.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.\nLatvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.\nIn the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 54020000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 51670000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 50550000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 108,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 30330000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.08,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 3.23,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 133
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 27700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 26200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 25500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 76,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 61.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 19.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 60.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -61.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 22.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 73.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 21.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 91
+		},
+		"agriculture_products": {
+			"products": [
+				"grain",
+				"rapeseed",
+				"potatoes",
+				"vegetables",
+				"pork",
+				"poultry",
+				"milk",
+				"eggs",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"processed foods",
+				"processed wood products",
+				"textiles",
+				"processed metals",
+				"pharmaceuticals",
+				"railroad cars",
+				"synthetic fibers",
+				"electronics"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 10.6,
+			"global_rank": 12,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 885000,
+				"global_rank": 142,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 7.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 68.1,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.14,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 6.51,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 99
+		},
+		"population_below_poverty_line": {
+			"value": 25.5,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 26.3,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 11390000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 11530000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 37.5,
+			"global_rank": 54,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -0.5,
+			"global_rank": 62,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 36.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 37.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 147,
+			"note": "data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 130
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -222000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -99000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 102
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 12840000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11350000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 81
+			},
+			"commodities": {
+				"by_commodity": [
+					"foodstuffs",
+					"wood",
+					"wood products",
+					"metals",
+					"machinery",
+					"equipment",
+					"textiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Lithuania",
+						"percent": 15.8
+					},
+					{
+						"name": "Russia",
+						"percent": 14
+					},
+					{
+						"name": "Estonia",
+						"percent": 10.9
+					},
+					{
+						"name": "Germany",
+						"percent": 6.9
+					},
+					{
+						"name": "Sweden",
+						"percent": 5.7
+					},
+					{
+						"name": "UK",
+						"percent": 4.9
+					},
+					{
+						"name": "Poland",
+						"percent": 4.3
+					},
+					{
+						"name": "Denmark",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 15790000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 13610000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 86
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"consumer goods",
+					"chemicals",
+					"fuels",
+					"vehicles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Lithuania",
+						"percent": 17.6
+					},
+					{
+						"name": "Germany",
+						"percent": 11.7
+					},
+					{
+						"name": "Poland",
+						"percent": 8.7
+					},
+					{
+						"name": "Estonia",
+						"percent": 7.6
+					},
+					{
+						"name": "Russia",
+						"percent": 7.1
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.2
+					},
+					{
+						"name": "Finland",
+						"percent": 4.2
+					},
+					{
+						"name": "Italy",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 4614000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3514000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 97
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 40020000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 38190000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 74
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 6241000000,
+				"global_rank": 115,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 6798000000,
+				"global_rank": 109,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 3795000000,
+				"global_rank": 38,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 4828000000,
+				"global_rank": 39,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 2932000,
+				"global_rank": 98,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 39,
+					"global_rank": 173,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 125,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 53,
+					"global_rank": 33,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 8,
+					"global_rank": 87,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 160,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 152,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 150,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 155,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 163,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 44600,
+				"global_rank": 111,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 16180,
+				"global_rank": 72,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 54370,
+				"global_rank": 77,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 155,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 1218000000,
+				"global_rank": 88,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 136,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 1246000000,
+				"global_rank": 58,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 156,
+				"date": "2014"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 8632000,
+			"global_rank": 114,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 227149,
+				"subscriptions_per_one_hundred_inhabitants": 11.94,
+				"global_rank": 120,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 2067174,
+				"subscriptions_per_one_hundred_inhabitants": 108.66,
+				"global_rank": 151,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "several national and regional commercial TV stations are foreign-owned, 2 national TV stations are publicly owned; system supplemented by privately owned regional and local TV stations; cable and satellite multi-channel TV services with domestic and foreign broadcasts available; publicly owned broadcaster operates 4 radio networks with dozens of stations throughout the country; dozens of private broadcasters also operate radio stations",
+		"internet": {
+			"country_code": ".lv",
+			"users": {
+				"total": 1607711,
+				"percent_of_population": 83.58,
+				"global_rank": 129,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 53,
+				"annual_passenger_traffic_on_registered_air_carriers": 4058762,
+				"annual_freight_traffic_on_registered_air_carriers": 4010000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "YL",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 42,
+					"global_rank": 101,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 18,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 3,
+					"under_914_metres": 7,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 24,
+					"under_914_metres": 24,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 213,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 417,
+					"units": "km"
+				}
+			],
+			"date": "2018"
+		},
+		"railways": {
+			"total": {
+				"length": 1860,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 34,
+				"units": "km\n0.750-m"
+			},
+			"broad_gauge": {
+				"length": 1826,
+				"units": "km\n1.520-m"
+			},
+			"global_rank": 75,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 70244,
+				"units": "km"
+			},
+			"paved": {
+				"value": 15158,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 55086,
+				"units": "km"
+			},
+			"global_rank": 70,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 300,
+			"units": "km",
+			"note": "navigable year-round",
+			"global_rank": 92,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 58,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 11
+				},
+				{
+					"type": "oil tanker",
+					"count": 8
+				},
+				{
+					"type": "other",
+					"count": 39
+				}
+			],
+			"global_rank": 110,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Riga",
+				"Ventspils"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.01,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.08,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.59,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.45,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.04,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 49
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary male and female military service; no conscription; under current law, every citizen is entitled to serve in the armed forces for life",
+			"date": "2017"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Russia demands better Latvian treatment of ethnic Russians in Latvia",
+			"boundary demarcated with Latvia and Lithuania",
+			"the Latvian parliament has not ratified its 1998 maritime boundary treaty with Lithuania, primarily due to concerns over oil exploration rights",
+			"as a member state that forms part of the EU's external border, Latvia has implemented the strict Schengen border rules with Russia"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 216851,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment and destination point for cocaine, synthetic drugs, opiates, and cannabis from Southwest Asia, Western Europe, Latin America, and neighboring Baltic countries; despite improved legislation, vulnerable to money laundering due to nascent enforcement capabilities and comparatively weak regulation of offshore companies and the gaming industry; CIS organized crime (including counterfeiting, corruption, extortion, stolen cars, and prostitution) accounts for most laundered proceeds"
+		}
+	}
+}

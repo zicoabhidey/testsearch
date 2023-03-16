@@ -1,0 +1,138 @@
+{
+	"name": "Pacific Ocean",
+	"introduction": {
+		"background": "The Pacific Ocean is the largest of the world's five oceans (followed by the Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean). Strategically important access waterways include the La Perouse, Tsugaru, Tsushima, Taiwan, Singapore, and Torres Straits.The decision by the International Hydrographic Organization in the spring of 2000 to delimit a fifth ocean, the Southern Ocean, removed the portion of the Pacific Ocean south of 60 degrees south."
+	},
+	"geography": {
+		"location": "body of water between the Southern Ocean, Asia, Australia, and the Western Hemisphere",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 0,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 160,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Political Map of the World",
+		"area": {
+			"total": {
+				"value": 155557000,
+				"units": "sq km"
+			},
+			"note": "includes Bali Sea, Bering Sea, Bering Strait, Coral Sea, East China Sea, Gulf of Alaska, Gulf of Tonkin, Philippine Sea, Sea of Japan, Sea of Okhotsk, South China Sea, Tasman Sea, and other tributary water bodies",
+			"comparative": "about 15 times the size of the US; covers about 28% of the global surface; almost equal to the total land area of the world"
+		},
+		"coastline": {
+			"value": 135663,
+			"units": "km"
+		},
+		"climate": "planetary air pressure systems and resultant wind patterns exhibit remarkable uniformity in the south and east; trade winds and westerly winds are well-developed patterns, modified by seasonal fluctuations; tropical cyclones (hurricanes) may form south of Mexico from June to October and affect Mexico and Central America; continental influences cause climatic uniformity to be much less pronounced in the eastern and western regions at the same latitude in the North Pacific Ocean; the western Pacific is monsoonal - a rainy season occurs during the summer months, when moisture-laden winds blow from the ocean over the land, and a dry season during the winter months, when dry winds blow from the Asian landmass back to the ocean; tropical cyclones (typhoons) may strike southeast and east Asia from May to December",
+		"terrain": "surface dominated by two large gyres (broad, circular systems of currents), one in the northern Pacific and another in the southern Pacific; in the northern Pacific, sea ice forms in the Bering Sea and Sea of Okhotsk in winter; in the southern Pacific, sea ice from Antarctica reaches its northernmost extent in October; the ocean floor in the eastern Pacific is dominated by the East Pacific Rise, while the western Pacific is dissected by deep trenches, including the Mariana Trench, which is the world's deepest at 10,924 m\nmajor surface currents: clockwise North Pacific Gyre formed by the warm northward flowing Kuroshio Current in the west, the eastward flowing North Pacific Current in the north, the southward flowing cold California Current in the east, and the westward flowing North Equatorial Current in the south; the counterclockwise South Pacific Gyre composed of the southward flowing warm East Australian Current in the west, the eastward flowing South Pacific Current in the south, the northward flowing cold Peru (Humbolt) Current in the east, and the westward flowing South Equatorial Current in the north",
+		"elevation": {
+			"mean_depth": {
+				"value": -2970,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Challenger Deep in the Mariana Trench",
+				"elevation": {
+					"value": -10924,
+					"units": "m"
+				}
+			},
+			"highest_point": "sea level"
+		},
+		"natural_resources": {
+			"resources": [
+				"oil",
+				"gas fields",
+				"polymetallic nodules",
+				"sand",
+				"gravel aggregates",
+				"placer deposits",
+				"fish"
+			]
+		},
+		"natural_hazards": [
+			{
+				"description": "surrounded by a zone of violent volcanic and earthquake activity sometimes referred to as the \"Pacific Ring of Fire\"",
+				"type": "hazard"
+			},
+			{
+				"description": "subject to tropical cyclones (typhoons) in southeast and east Asia from May to December (most frequent from July to October)",
+				"type": "hazard"
+			},
+			{
+				"description": "tropical cyclones (hurricanes) may form south of Mexico and strike Central America and Mexico from June to October (most common in August and September)",
+				"type": "hazard"
+			},
+			{
+				"description": "cyclical El Nino/La Nina phenomenon occurs in the equatorial Pacific, influencing weather in the Western Hemisphere and the western Pacific",
+				"type": "hazard"
+			},
+			{
+				"description": "ships subject to superstructure icing in extreme north from October to May",
+				"type": "hazard"
+			},
+			{
+				"description": "persistent fog in the northern Pacific can be a maritime hazard from June to December",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"pollution (such as sewage",
+				"runoff from land and toxic waste)",
+				"habitat destruction",
+				"over-fishing",
+				"climate change leading to sea level rise",
+				"ocean acidification",
+				"and warming",
+				"endangered marine species include the dugong",
+				"sea lion",
+				"sea otter",
+				"seals",
+				"turtles",
+				"and whales",
+				"oil pollution in Philippine Sea and South China Sea"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"etymology": "named by Portuguese explorer Ferdinand MAGELLAN during the Spanish circumnavigation of the world in 1521; encountering favorable winds upon reaching the ocean, he called it \"Mar Pacifico,\" which means \"peaceful sea\" in both Portuguese and Spanish"
+		}
+	},
+	"economy": {
+		"overview": "The Pacific Ocean is a major contributor to the world economy and particularly to those nations its waters directly touch. It provides low-cost sea transportation between East and West, extensive fishing grounds, offshore oil and gas fields, minerals, and sand and gravel for the construction industry. In 1996, over 60% of the world's fish catch came from the Pacific Ocean. Exploitation of offshore oil and gas reserves is playing an ever-increasing role in the energy supplies of the US, Australia, NZ, China, and Peru. The high cost of recovering offshore oil and gas, combined with the wide swings in world prices for oil since 1985, has led to fluctuations in new drillings."
+	},
+	"transportation": {
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Bangkok (Thailand)",
+				"Hong Kong (China)",
+				"Kao-hsiung (Taiwan)",
+				"Los Angeles (US)",
+				"Manila (Philippines)",
+				"Pusan (South Korea)",
+				"San Francisco (US)",
+				"Seattle (US)",
+				"Shanghai (China)",
+				"Singapore",
+				"Sydney (Australia)",
+				"Vladivostok (Russia)",
+				"Wellington (NZ)",
+				"Yokohama (Japan)"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"some maritime disputes (see littoral states)"
+		]
+	}
+}

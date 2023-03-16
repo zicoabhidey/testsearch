@@ -1,0 +1,966 @@
+{
+	"name": "Sint Maarten",
+	"introduction": {
+		"background": "Although sighted by Christopher COLUMBUS in 1493 and claimed for Spain, it was the Dutch who occupied the island in 1631 and began exploiting its salt deposits. The Spanish retook the island in 1633, but the Dutch continued to assert their claims. The Spanish finally relinquished the island of Saint Martin to the French and Dutch, who divided it between themselves in 1648. The establishment of cotton, tobacco, and sugar plantations dramatically expanded African slavery on the island in the 18th and 19th centuries; the practice was not abolished in the Dutch half until 1863. The island's economy declined until 1939 when it became a free port; the tourism industry was dramatically expanded beginning in the 1950s. In 1954, Sint Maarten and several other Dutch Caribbean possessions became part of the Kingdom of the Netherlands as the Netherlands Antilles. In a 2000 referendum, the citizens of Sint Maarten voted to become a self-governing country within the Kingdom of the Netherlands, effective October 2010. On 6 September 2017, Hurricane Irma hit Saint Martin/Sint Maarten, causing extensive damage to roads, communications, electrical power, and housing. The UN estimated the storm destroyed or damaged 90% of the buildings, and Princess Juliana International Airport was heavily damaged and closed to commercial air traffic for five weeks."
+	},
+	"geography": {
+		"location": "Caribbean, located in the Leeward Islands (northern) group; Dutch part of the island of Saint Martin in the Caribbean Sea; Sint Maarten lies east of the US Virgin Islands",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 18,
+				"minutes": 4,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 63,
+				"minutes": 4,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 34,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 34,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "Dutch part of the island of Saint Martin",
+			"global_rank": 236,
+			"comparative": "one-fifth the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 16,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Saint Martin (France)",
+					"border_length": {
+						"value": 16,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 58.9,
+			"units": "km",
+			"note": "for entire island"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical marine climate, ameliorated by northeast trade winds, results in moderate temperatures; average rainfall of 150 cm/year; hurricane season stretches from July to November",
+		"terrain": "low, hilly terrain, volcanic origin",
+		"elevation": {
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Flagstaff",
+				"elevation": {
+					"value": 383,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish",
+				"salt"
+			]
+		},
+		"population_distribution": "most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac",
+		"natural_hazards": [
+			{
+				"description": "subject to hurricanes from July to November",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"scarcity of potable water (increasing percentage provided by desalination)",
+				"inadequate solid waste management",
+				"pollution from construction",
+				"chemical runoff",
+				"and sewage harms reefs"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 43847,
+			"global_rank": 212,
+			"date": "2020-07-01"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Saint Maarten",
+					"percent": 29.9
+				},
+				{
+					"name": "Dominican Republic",
+					"percent": 10.2
+				},
+				{
+					"name": "Haiti",
+					"percent": 7.8
+				},
+				{
+					"name": "Jamaica",
+					"percent": 6.6
+				},
+				{
+					"name": "Saint Martin",
+					"percent": 5.9
+				},
+				{
+					"name": "Guyana",
+					"percent": 5
+				},
+				{
+					"name": "Dominica",
+					"percent": 4.4
+				},
+				{
+					"name": "Curacao",
+					"percent": 4.1
+				},
+				{
+					"name": "Aruba",
+					"percent": 3.4
+				},
+				{
+					"name": "Saint Kitts and Nevis",
+					"percent": 2.8
+				},
+				{
+					"name": "India",
+					"percent": 2.6
+				},
+				{
+					"name": "Netherlands",
+					"percent": 2.2
+				},
+				{
+					"name": "US",
+					"percent": 1.6
+				},
+				{
+					"name": "Suriname",
+					"percent": 1.4
+				},
+				{
+					"name": "Saint Lucia",
+					"percent": 1.3
+				},
+				{
+					"name": "Anguilla",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 8
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.7
+				}
+			],
+			"note": "data represent population by country of birth",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 67.5,
+					"note": "official"
+				},
+				{
+					"name": "Spanish",
+					"percent": 12.9
+				},
+				{
+					"name": "Creole",
+					"percent": 8.2
+				},
+				{
+					"name": "Dutch",
+					"percent": 4.2,
+					"note": "official"
+				},
+				{
+					"name": "Papiamento",
+					"percent": 2.2,
+					"note": "a Spanish-Portuguese-Dutch-English dialect"
+				},
+				{
+					"name": "French",
+					"percent": 1.5
+				},
+				{
+					"name": "other",
+					"percent": 3.5
+				}
+			],
+			"date": "2001"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 41.9,
+					"breakdown": [
+						{
+							"name": "Pentecostal",
+							"percent": 14.7
+						},
+						{
+							"name": "Methodist",
+							"percent": 10
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 6.6
+						},
+						{
+							"name": "Baptist",
+							"percent": 4.7
+						},
+						{
+							"name": "Anglican",
+							"percent": 3.1
+						},
+						{
+							"name": "other Protestant",
+							"percent": 2.8
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 33.1
+				},
+				{
+					"name": "Hindu",
+					"percent": 5.2
+				},
+				{
+					"name": "Christian",
+					"percent": 4.1
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.7
+				},
+				{
+					"name": "Evangelical",
+					"percent": 1.4
+				},
+				{
+					"name": "Muslim/Jewish",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 1.3,
+					"note": "includes Buddhist, Sikh, Rastafarian"
+				},
+				{
+					"name": "none",
+					"percent": 7.9
+				},
+				{
+					"name": "no response",
+					"percent": 2.4
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 18.64,
+				"males": 4242,
+				"females": 3932
+			},
+			"15_to_24": {
+				"percent": 13.26,
+				"males": 2967,
+				"females": 2849
+			},
+			"25_to_54": {
+				"percent": 39.08,
+				"males": 8417,
+				"females": 8717
+			},
+			"55_to_64": {
+				"percent": 17.47,
+				"males": 3638,
+				"females": 4020
+			},
+			"65_and_over": {
+				"percent": 11.55,
+				"males": 2385,
+				"females": 2680
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 41.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 39.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 42.7,
+				"units": "years"
+			},
+			"global_rank": 46,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.34,
+			"global_rank": 82,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.9,
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.8,
+			"global_rank": 175,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 6,
+			"global_rank": 19,
+			"date": "2020"
+		},
+		"population_distribution": "most populous areas are Lower Prince's Quarter (north of Philipsburg), followed closely by Cul de Sac",
+		"urbanization": {
+			"urban_population": {
+				"value": 100,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.56,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Philipsburg",
+					"population": 1327,
+					"is_capital": true
+				}
+			],
+			"date": "2011"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.89,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.98,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 7.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 8.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 6.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 154,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 78.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.3,
+				"units": "years"
+			},
+			"global_rank": 64,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.02,
+			"global_rank": 111,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 95.1,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 4.9,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 98.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 12,
+				"units": "years"
+			},
+			"female": {
+				"value": 12,
+				"units": "years"
+			},
+			"date": "2014"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Country of Sint Maarten",
+			"conventional_short_form": "Sint Maarten",
+			"local_long_form": "Land Sint Maarten (Dutch); Country of Sint Maarten (English)",
+			"local_short_form": "Sint Maarten (Dutch and English)",
+			"former": "Netherlands Antilles; Curacao and Dependencies",
+			"etymology": "explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day"
+		},
+		"government_type": "parliamentary democracy under a constitutional monarchy",
+		"capital": {
+			"name": "Philipsburg",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 18,
+					"minutes": 1,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 63,
+					"minutes": 2,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -4,
+				"note": "1 hour ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy"
+		},
+		"independence": {
+			"note": "part of the Kingdom of the Netherlands"
+		},
+		"national_holidays": [
+			{
+				"name": "King's Day",
+				"day": "27 April",
+				"original_year": "1967",
+				"note": "King's or Queen's Day are observed on the ruling monarch's birthday; birthday of King WILLEM-ALEXANDER"
+			},
+			{
+				"name": "local holiday Sint Maarten's Day",
+				"day": "11 November",
+				"original_year": "1985",
+				"note": ", commemorates the discovery of the island by COLUMBUS on Saint Martin's Day, 11 November 1493"
+			}
+		],
+		"constitution": {
+			"history": "previous 1947, 1955; latest adopted 21 July 2010, entered into force 10 October 2010 (regulates governance of Sint Maarten but is subordinate to the Charter for the Kingdom of the Netherlands)"
+		},
+		"legal_system": "based on Dutch civil law system with some English common law influence",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Eugene HOLIDAY (since 10 October 2010)",
+			"head_of_government": "Interim Prime Minister Silveria JACOBS (since 16 January 2020)",
+			"cabinet": "Cabinet nominated by the prime minister and appointed by the governor-general",
+			"elections_appointments": "the monarch is hereditary; governor general appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament\nnote - on 16 January 2020, Governor Eugene HOLIDAY appoints Silveria JACOBS as formateur of a new government"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament of Sint Maarten (15 seats; members directly elected by proportional representation vote to serve 4-year terms)",
+			"elections": "last held 9 January 2020 (next to be held in 2024)",
+			"election_results": "percent of vote by party - NA 35.2%, UP 24.2%, US Party 13.2%, PFP 10.6%, UD 8.7%, other 8.1%; seats by party - NA 6, UP 4, PFP 2, US Party 2, UD 1"
+		},
+		"judicial_branch": {
+			"highest_courts": "Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or \"Joint Court of Justice\" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba",
+			"judge_selection_and_term_of_office": "Joint Court judges appointed by the monarch serve for life",
+			"subordinate_courts": "Courts in First Instance"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "National Alliance",
+					"name_alternative": "NA",
+					"leaders": [
+						"William MARLIN"
+					]
+				},
+				{
+					"name": "Party for Progress",
+					"name_alternative": "PFP",
+					"leaders": [
+						"Melissa GUMBS"
+					]
+				},
+				{
+					"name": "Sint Maarten Christian Party",
+					"name_alternative": "SMCP",
+					"leaders": [
+						"Wycliffe SMITH"
+					]
+				},
+				{
+					"name": "United Democrats Party",
+					"name_alternative": "UD",
+					"leaders": [
+						"Theodore HEYLIGER"
+					]
+				},
+				{
+					"name": "United Peoples Party",
+					"name_alternative": "UP",
+					"leaders": [
+						"NA"
+					]
+				},
+				{
+					"name": "United Sint Maarten Party",
+					"name_alternative": "US Party",
+					"leaders": [
+						"Frans RICHARDSON"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Caricom ",
+				"note": "observer"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "UNESCO ",
+				"note": "associate"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"flag_description": {
+			"description": "two equal horizontal bands of red (top) and blue with a white isosceles triangle based on the hoist side; the center of the triangle displays the Sint Maarten coat of arms; the arms consist of an orange-bordered  blue shield prominently displaying the white court house in Philipsburg, as well as a bouquet of yellow sage (the national flower) in the upper left,  and the silhouette of a Dutch-French friendship monument in the upper right; the shield is surmounted by a yellow rising sun in front of which is a brown pelican in flight; a yellow scroll below the shield bears the motto: SEMPER PROGREDIENS (Always Progressing); the three main colors are identical to those on the Dutch flag",
+			"note": "the flag somewhat resembles that of the Philippines but with the main red and blue bands reversed; the banner more closely evokes the wartime Philippine flag"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "brown pelican"
+				},
+				{
+					"symbol": "yellow sage ",
+					"note": "flower"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "O Sweet Saint Martin's Land",
+			"lyrics_music": "Gerard KEMPS",
+			"note": "the song, written in 1958, is used as an unofficial anthem for the entire island (both French and Dutch sides); as a collectivity of France, in addition to the local anthem, \"La Marseillaise\" is official on the French side (see France); as a constituent part of the Kingdom of the Netherlands, in addition to the local anthem, \"Het Wilhelmus\" is official on the Dutch side (see Netherlands)"
+		}
+	},
+	"economy": {
+		"overview": "The economy of Sint Maarten centers around tourism with nearly four-fifths of the labor force engaged in this sector. Nearly 1.8 million visitors came to the island by cruise ship and roughly 500,000 visitors arrived through Princess Juliana International Airport in 2013. Cruise ships and yachts also call on Sint Maarten's numerous ports and harbors. Limited agriculture and local fishing means that almost all food must be imported. Energy resources and manufactured goods are also imported. Sint Maarten had the highest per capita income among the five islands that formerly comprised the Netherlands Antilles.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 365800000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 353500000,
+						"units": "USD",
+						"date": "2013"
+					},
+					{
+						"value": 339600000,
+						"units": "USD",
+						"date": "2012"
+					}
+				],
+				"global_rank": 214,
+				"note": "data are in 2014 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 304100000,
+				"date": "2014"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.6,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": 4.1,
+						"units": "%",
+						"date": "2013"
+					},
+					{
+						"value": 1.9,
+						"units": "%",
+						"date": "2012"
+					}
+				],
+				"global_rank": 97
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 66800,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 65500,
+						"units": "USD",
+						"date": "2013"
+					},
+					{
+						"value": 63900,
+						"units": "USD",
+						"date": "2012"
+					}
+				],
+				"global_rank": 14,
+				"note": "data are in 2015 US dollars"
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 18.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 81.3,
+							"units": "%"
+						}
+					},
+					"date": "2008"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"sugar"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"light industry"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 23200,
+				"global_rank": 210,
+				"date": "2008"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 83.7,
+						"units": "%"
+					}
+				},
+				"date": "2008"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 12,
+					"units": "%",
+					"date": "2012"
+				},
+				{
+					"value": 10.6,
+					"units": "%",
+					"date": "2008"
+				}
+			],
+			"global_rank": 160
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 4,
+					"units": "%",
+					"date": "2012"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2009"
+				}
+			],
+			"global_rank": 157
+		},
+		"exports": {
+			"commodities": {
+				"by_commodity": [
+					"sugar"
+				]
+			}
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.79,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Netherlands Antillean guilders (ANG) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 304300000,
+				"global_rank": 181,
+				"date": "2008"
+			}
+		},
+		"crude_oil": {
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 193,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 195,
+				"date": "2015"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 201,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 10600,
+				"global_rank": 161,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 202,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 10440,
+				"global_rank": 148,
+				"date": "2015"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"mobile_cellular": {
+				"total_subscriptions": 84773,
+				"subscriptions_per_one_hundred_inhabitants": 195.94,
+				"global_rank": 196,
+				"date": "2019"
+			}
+		},
+		"internet": {
+			"country_code": ".sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization"
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 236,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"note": "Princess Juliana International Airport (SXM) was severely damaged on 6 September 2017 by hurricane Irma but resumed commercial operations on 10 October 2017",
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 53,
+				"units": "km"
+			},
+			"global_rank": 216
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Philipsburg"
+			],
+			"oil_terminals": [
+				"Coles Bay oil terminal"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the Kingdom of the Netherlands"
+	}
+}

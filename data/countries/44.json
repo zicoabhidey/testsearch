@@ -1,0 +1,1888 @@
+{
+	"name": "Cameroon",
+	"introduction": {
+		"background": "Much of the area of present-day Cameroon was ruled by powerful chiefdoms before becoming a German colony in 1884 known as Kamerun. After World War I, the territory was divided between France and the UK as League of Nations mandates. French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972, a new constitution replaced the federation with a unitary state, the United Republic of Cameroon. The country has generally enjoyed stability, which has enabled the development of agriculture, roads, and railways, as well as a petroleum industry. Despite slow movement toward democratic reform, political power remains firmly in the hands of President Paul BIYA."
+	},
+	"geography": {
+		"location": "Central Africa, bordering the Bight of Biafra, between Equatorial Guinea and Nigeria",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 6,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 12,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 475440,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 472710,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2730,
+				"units": "sq km"
+			},
+			"global_rank": 55,
+			"comparative": "slightly larger than California; about four times the size of Pennsylvania"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 5018,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Central African Republic",
+					"border_length": {
+						"value": 901,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Chad",
+					"border_length": {
+						"value": 1116,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Republic of the Congo",
+					"border_length": {
+						"value": 494,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Equatorial Guinea",
+					"border_length": {
+						"value": 183,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Gabon",
+					"border_length": {
+						"value": 349,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Nigeria",
+					"border_length": {
+						"value": 1975,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 402,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "varies with terrain, from tropical along coast to semiarid and hot in north",
+		"terrain": "diverse, with coastal plain in southwest, dissected plateau in center, mountains in west, plains in north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 667,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Fako on Mont Cameroun",
+				"elevation": {
+					"value": 4045,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"bauxite",
+				"iron ore",
+				"timber",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 20.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 13.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 3.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 4.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 41.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 37.7,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 290,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "volcanic activity with periodic releases of poisonous gases from Lake Nyos and Lake Monoun volcanoes",
+				"type": "hazard"
+			},
+			{
+				"description": "Mt. Cameroon (4,095 m), which last erupted in 2000, is the most frequently active volcano in West Africa; lakes in Oku volcanic field have released fatal levels of gas on occasion, killing some 1,700 people in 1986",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"waterborne diseases are prevalent",
+				"deforestation and overgrazing result in erosion",
+				"desertification",
+				"and reduced quality of pastureland",
+				"poaching",
+				"overfishing",
+				"overhunting"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 27744989,
+			"global_rank": 51,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Cameroonian(s)",
+			"adjective": "Cameroonian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Bamileke-Bamu",
+					"percent": 24.3
+				},
+				{
+					"name": "Beti/Bassa"
+				},
+				{
+					"name": "Mbam",
+					"percent": 21.6
+				},
+				{
+					"name": "Biu-Mandara",
+					"percent": 14.6
+				},
+				{
+					"name": "Arab-Choa/Hausa/Kanuri",
+					"percent": 11
+				},
+				{
+					"name": "Adamawa-Ubangi"
+				},
+				{
+					"percent": 9.8
+				},
+				{
+					"name": "Grassfields",
+					"percent": 7.7
+				},
+				{
+					"name": "Kako"
+				},
+				{
+					"name": "Meka/Pygmy",
+					"percent": 3.3
+				},
+				{
+					"name": "Cotier/Ngoe/Oroko",
+					"percent": 2.7
+				},
+				{
+					"name": "Southwestern Bantu",
+					"percent": 0.7
+				},
+				{
+					"name": "foreign/other ethnic group",
+					"percent": 4.5
+				}
+			],
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "major African language groups",
+					"percent": 24
+				},
+				{
+					"name": "English",
+					"note": "official"
+				},
+				{
+					"name": "French",
+					"note": "official"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 38.3
+				},
+				{
+					"name": "Protestant",
+					"percent": 25.5
+				},
+				{
+					"name": "other Christian",
+					"percent": 6.9
+				},
+				{
+					"name": "Muslim",
+					"percent": 24.4
+				},
+				{
+					"name": "animist",
+					"percent": 2.2
+				},
+				{
+					"name": "other",
+					"percent": 0.5
+				},
+				{
+					"name": "none",
+					"percent": 2.2
+				}
+			],
+			"date": "2018"
+		},
+		"demographic_profile": "Cameroon has a large youth population, with more than 60% of the populace under the age of 25. Fertility is falling but remains at a high level, especially among poor, rural, and uneducated women, in part because of inadequate access to contraception. Life expectancy remains low at about 55 years due to the prevalence of HIV and AIDs and an elevated maternal mortality rate, which has remained high since 1990. Cameroon, particularly the northern region, is vulnerable to food insecurity largely because of government mismanagement, corruption, high production costs, inadequate infrastructure, and natural disasters. Despite economic growth in some regions, poverty is on the rise, and is most prevalent in rural areas, which are especially affected by a shortage of jobs, declining incomes, poor school and health care infrastructure, and a lack of clean water and sanitation. Underinvestment in social safety nets and ineffective public financial management also contribute to Cameroon’s high rate of poverty.\nInternational migration has been driven by unemployment (including fewer government jobs), poverty, the search for educational opportunities, and corruption. The US and Europe are preferred destinations, but, with tighter immigration restrictions in these countries, young Cameroonians are increasingly turning to neighboring states, such as Gabon and Nigeria, South Africa, other parts of Africa, and the Near and Far East. Cameroon’s limited resources make it dependent on UN support to host more than 420,000 refugees and asylum seekers as of September 2020. These refugees and asylum seekers are primarily from the Central African Republic and Nigeria.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 42.34,
+				"males": 5927640,
+				"females": 5820226
+			},
+			"15_to_24": {
+				"percent": 20.04,
+				"males": 2782376,
+				"females": 2776873
+			},
+			"25_to_54": {
+				"percent": 30.64,
+				"males": 4191151,
+				"females": 4309483
+			},
+			"55_to_64": {
+				"percent": 3.87,
+				"males": 520771,
+				"females": 552801
+			},
+			"65_and_over": {
+				"percent": 3.11,
+				"males": 403420,
+				"females": 460248
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 81.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 76.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 4.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 20.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 18.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 18.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 18.8,
+				"units": "years"
+			},
+			"global_rank": 210,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.78,
+			"global_rank": 12,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 36.3,
+			"global_rank": 17,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 8.1,
+			"global_rank": 88,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.3,
+			"global_rank": 116,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 57.6,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.63,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Yaounde",
+					"population": 3922000,
+					"is_capital": true
+				},
+				{
+					"place": "Douala",
+					"population": 3663000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.94,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.88,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 19.7,
+			"date": "2011"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 529,
+			"global_rank": 18,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 51.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 56.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 46.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 23,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 62.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 60.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 64,
+				"units": "years"
+			},
+			"global_rank": 209,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 4.66,
+			"global_rank": 20,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 19.3,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.09,
+			"date": "2011"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.3,
+			"date": "2010"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 94,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 54.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 76.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 45.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 23.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 83.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 25.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 57.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 16.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 74.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 42.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 3.2,
+				"global_rank": 17,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 510000,
+				"global_rank": 16,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 14000,
+				"global_rank": 13,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"protozoal diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"malaria and dengue fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"animal_contact_diseases": [
+				"rabies"
+			],
+			"respiratory_diseases": [
+				"meningococcal meningitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 11.4,
+			"global_rank": 135,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 11,
+			"global_rank": 60,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 3.1,
+			"global_rank": 133,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 77.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 82.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 71.6,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 12,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 11,
+				"units": "years"
+			},
+			"date": "2016"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 5.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 6.8,
+				"units": "%"
+			},
+			"global_rank": 157,
+			"date": "2014"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Cameroon",
+			"conventional_short_form": "Cameroon",
+			"local_long_form": "Republique du Cameroun/Republic of Cameroon",
+			"local_short_form": "Cameroun/Cameroon",
+			"former": "Kamerun, French Cameroon, British Cameroon, Federal Republic of Cameroon, United Republic of Cameroon",
+			"etymology": "in the 15th century, Portuguese explorers named the area near the mouth of the Wouri River the Rio dos Camaroes (River of Prawns) after the abundant shrimp in the water; over time the designation became Cameroon in English; this is the only instance where a country is named after a crustacean"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Yaounde",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 3,
+					"minutes": 52,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 11,
+					"minutes": 31,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "founded as a German colonial settlement of Jaunde in 1888 and named after the local Yaunde (Ewondo) people"
+		},
+		"independence": {
+			"date": "1960-01-01",
+			"note": "from French-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "State Unification Day",
+				"day": "20 May",
+				"original_year": "1972",
+				"note": "National Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest effective 18 January 1996",
+			"amendments": "proposed by the president of the republic or by Parliament; amendment drafts require approval of at least one third of the membership in either house of Parliament; passage requires absolute majority vote of the Parliament membership; passage of drafts requested by the president for a second reading in Parliament requires two-thirds majority vote of its membership; the president can opt to submit drafts to a referendum, in which case passage requires a simple majority; constitutional articles on Cameroon’s unity and territorial integrity and its democratic principles cannot be amended; amended 2008"
+		},
+		"legal_system": "mixed legal system of English common law, French civil law, and customary law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Cameroon",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 20,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Paul BIYA (since 6 November 1982)",
+			"head_of_government": "Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)",
+			"cabinet": "Cabinet proposed by the prime minister, appointed by the president",
+			"elections_appointments": "president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president",
+			"election_results": "Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Parlement consists of: Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)\nNational Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate - last held on 25 March 2018 (next to be held in 2023)\nNational Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined",
+			"election_results": "Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7\nNational Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the president with the advice of the Higher Judicial Council of Cameroon, a body chaired by the president and includes the minister of justice, selected magistrates, and representatives of the National Assembly; judge term NA; Constitutional Council members appointed by the president for single 9-year terms",
+			"subordinate_courts": "Parliamentary Court of Justice (jurisdiction limited to cases involving the president and prime minister); appellate and first instance courts; circuit and magistrates' courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance for Democracy and Development"
+				},
+				{
+					"name": "Cameroon People's Democratic Movement",
+					"name_alternative": "CPDM",
+					"leaders": [
+						"Paul BIYA"
+					]
+				},
+				{
+					"name": "Cameroon People's Party",
+					"name_alternative": "CPP",
+					"leaders": [
+						"Edith Kah WALLA"
+					]
+				},
+				{
+					"name": "Cameroon Renaissance Movement",
+					"name_alternative": "MRC",
+					"leaders": [
+						"Maurice KAMTO"
+					]
+				},
+				{
+					"name": "Cameroonian Democratic Union",
+					"name_alternative": "UDC",
+					"leaders": [
+						"Adamou Ndam NJOYA"
+					]
+				},
+				{
+					"name": "Cameroonian Party for National Reconciliation",
+					"name_alternative": "PCRN",
+					"leaders": [
+						"Cabral LIBII"
+					]
+				},
+				{
+					"name": "Front for the National Salvation of Cameroon",
+					"name_alternative": "FSNC",
+					"leaders": [
+						"Issa Tchiroma BAKARY"
+					]
+				},
+				{
+					"name": "Movement for the Defense of the Republic",
+					"name_alternative": "MDR",
+					"leaders": [
+						"Dakole DAISSALA"
+					]
+				},
+				{
+					"name": "Movement for the Liberation and Development of Cameroon",
+					"name_alternative": "MLDC",
+					"leaders": [
+						"Marcel YONDO"
+					]
+				},
+				{
+					"name": "National Union for Democracy and Progress",
+					"name_alternative": "UNDP",
+					"leaders": [
+						"Maigari BELLO BOUBA"
+					]
+				},
+				{
+					"name": "Progressive Movement",
+					"name_alternative": "MP",
+					"leaders": [
+						"Jean-Jacques EKINDI"
+					]
+				},
+				{
+					"name": "Social Democratic Front",
+					"name_alternative": "SDF",
+					"leaders": [
+						"John FRU NDI"
+					]
+				},
+				{
+					"name": "Union of Peoples of Cameroon",
+					"name_alternative": "UPC",
+					"leaders": [
+						"Provisionary Management Bureau"
+					]
+				},
+				{
+					"name": "Union of Socialist Movements"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "BDEAC"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CEMAC"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FZ"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)",
+				"chancery": "2349 Massachusetts Avenue, Washington, DC 20008",
+				"telephone": "[1] (202) 265-8790",
+				"fax": "[1] (202) 387-3826"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Peter Henry BARLERIN (since 20 December 2017)",
+				"telephone": "[237] 22220 1500; Consular: [237] 22220 1603",
+				"embassy": "Avenue Rosa Parks, Yaoundé",
+				"mailing_address": "P.O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520",
+				"fax": "[237] 22220 1500 Ext. 4531; Consular fax: [237] 22220 1752",
+				"branch_offices": "Douala"
+			}
+		},
+		"flag_description": {
+			"description": "three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the \"star of unity\"",
+			"note": "uses the popular Pan-African colors of Ethiopia"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"O Cameroun, Berceau de nos Ancetres\" (O Cameroon, Cradle of Our Forefathers)",
+			"lyrics_music": "Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French], Benard Nsokika FONLON [English]/Rene Djam AFAME",
+			"note": "adopted 1957; Cameroon's anthem, also known as \"Chant de Ralliement\" (The Rallying Song), has been used unofficially since 1948 and officially adopted in 1957; the anthem has French and English versions whose lyrics differ",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CM.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.\nSince 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.\nCameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 89540000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 86470000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 82630000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 88,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 34990000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 3.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.6,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 5.7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 84
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 182,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 66.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.8,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 21.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -20.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 16.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 26.5,
+							"units": "%"
+						},
+						"services": {
+							"value": 56.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 25.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 25.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 23.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 56
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"cocoa",
+				"cotton",
+				"rubber",
+				"bananas",
+				"oilseed",
+				"grains",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"livestock",
+				"timber"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum production",
+				"refining",
+				"aluminum production",
+				"food processing",
+				"light consumer goods",
+				"textiles",
+				"lumber",
+				"ship repair"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.3,
+			"global_rank": 94,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 9912000,
+				"global_rank": 50,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 70,
+						"units": "%"
+					},
+					"industry": {
+						"value": 13,
+						"units": "%"
+					},
+					"services": {
+						"value": 17,
+						"units": "%"
+					}
+				},
+				"date": "2001"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.3,
+					"units": "%",
+					"date": "2014"
+				},
+				{
+					"value": 30,
+					"units": "%",
+					"date": "2001"
+				}
+			],
+			"global_rank": 63
+		},
+		"population_below_poverty_line": {
+			"value": 30,
+			"units": "%",
+			"date": "2001"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 37.5,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 35.4,
+				"units": "%"
+			},
+			"date": "2001"
+		},
+		"budget": {
+			"revenues": {
+				"value": 5363000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 6556000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 15.3,
+			"global_rank": 191,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.4,
+			"global_rank": 143,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 36.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 32.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 143
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.6,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 31
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -932000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1034000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 144
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4732000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4561000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 109
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"petroleum products",
+					"lumber",
+					"cocoa beans",
+					"aluminum",
+					"coffee",
+					"cotton"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Netherlands",
+						"percent": 15.6
+					},
+					{
+						"name": "France",
+						"percent": 12.6
+					},
+					{
+						"name": "China",
+						"percent": 11.7
+					},
+					{
+						"name": "Belgium",
+						"percent": 6.8
+					},
+					{
+						"name": "Italy",
+						"percent": 6.3
+					},
+					{
+						"name": "Algeria",
+						"percent": 4.8
+					},
+					{
+						"name": "Malaysia",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4812000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4827000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 132
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"electrical equipment",
+					"transport equipment",
+					"fuel",
+					"food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 19
+					},
+					{
+						"name": "France",
+						"percent": 10.3
+					},
+					{
+						"name": "Thailand",
+						"percent": 7.9
+					},
+					{
+						"name": "Nigeria",
+						"percent": 4.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 3235000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 2260000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 107
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 9375000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 7364000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 115
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 605.3,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 593.01,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 591.45,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 494.42,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Cooperation Financiere en Afrique Centrale francs (XAF) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 8000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 70,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 98,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 32,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 8108000000.000001,
+				"global_rank": 109,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 6411000000,
+				"global_rank": 113,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 117,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 55000000,
+				"global_rank": 105,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1558000,
+				"global_rank": 122,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 52,
+					"global_rank": 145,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 62,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 47,
+					"global_rank": 44,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 1,
+					"global_rank": 150,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 69000,
+				"global_rank": 47,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 96370,
+				"global_rank": 35,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 36480,
+				"global_rank": 59,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 200000000,
+				"global_rank": 55,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 39080,
+				"global_rank": 82,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 45000,
+				"global_rank": 109,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 8545,
+				"global_rank": 84,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 14090,
+				"global_rank": 138,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 910400000,
+				"global_rank": 69,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 906100000,
+				"global_rank": 93,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 79,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 103,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 135100000000,
+				"global_rank": 48,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 7672000,
+			"global_rank": 119,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 966035,
+				"subscriptions_per_one_hundred_inhabitants": 3.58,
+				"global_rank": 76,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 22062303,
+				"subscriptions_per_one_hundred_inhabitants": 81.76,
+				"global_rank": 53,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "government maintains tight control over broadcast media; state-owned Cameroon Radio Television (CRTV), broadcasting on both a TV and radio network, was the only officially recognized and fully licensed broadcaster until August 2007, when the government finally issued licenses to 2 private TV broadcasters and 1 private radio broadcaster; about 70 privately owned, unlicensed radio stations operating but are subject to closure at any time; foreign news services required to partner with state-owned national station (2019)",
+		"internet": {
+			"country_code": ".cm",
+			"users": {
+				"total": 6089200,
+				"percent_of_population": 23.2,
+				"global_rank": 77,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 3,
+				"annual_passenger_traffic_on_registered_air_carriers": 265136,
+				"annual_freight_traffic_on_registered_air_carriers": 70000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TJ",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 33,
+					"global_rank": 111,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 11,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 22,
+					"1524_to_2437_metres": 4,
+					"914_to_1523_metres": 10,
+					"under_914_metres": 8,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 53,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 5,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 1107,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 35,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 987,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 987,
+				"units": "km\n1.000-m"
+			},
+			"note": "railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL",
+			"global_rank": 89,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 77589,
+				"units": "km"
+			},
+			"paved": {
+				"value": 5133,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 72456,
+				"units": "km"
+			},
+			"global_rank": 65,
+			"date": "2016"
+		},
+		"merchant_marine": {
+			"total": 29,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 9
+				},
+				{
+					"type": "other",
+					"count": 20
+				}
+			],
+			"global_rank": 133,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"oil_terminals": [
+				"Limboh Terminal"
+			],
+			"river_ports": [
+				"Douala (Wouri)\nGaroua (Benoue)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 110
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years; periodic government calls for volunteers",
+			"date": "2012"
+		},
+		"note": "the FAC is largely focused on the threat from the terror group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of Feb 2020, this internal conflict has left an estimated 3,000 civilians dead and over 500,000 people displaced since fighting started in 2016); in addition, the FAC has occasionally deployed units to the border region with the Central African Republic to counter intrusions from armed militias and bandits (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008",
+			"Cameroon and Nigeria agreed on maritime delimitation in March 2008",
+			"sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River",
+			"only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 310097,
+						"country_of_origin": "Central African Republic"
+					},
+					{
+						"people": 116623,
+						"country_of_origin": "Nigeria"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 1032942,
+				"note": "includes far north, northwest, and southwest",
+				"date": "2020"
+			}
+		}
+	}
+}

@@ -1,0 +1,1098 @@
+{
+	"name": "American Samoa",
+	"introduction": {
+		"background": "Settled as early as 1000 B.C., Samoa was not reached by European explorers until the 18th century. International rivalries in the latter half of the 19th century were settled by an 1899 treaty in which Germany and the US divided the Samoan archipelago. The US formally occupied its portion - a smaller group of eastern islands with the excellent harbor of Pago Pago - the following year."
+	},
+	"geography": {
+		"location": "Oceania, group of islands in the South Pacific Ocean, about halfway between Hawaii and New Zealand",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 14,
+				"minutes": 20,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 170,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 224,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 224,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"note": "includes Rose Island and Swains Island",
+			"global_rank": 216,
+			"comparative": "slightly larger than Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 116,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical marine, moderated by southeast trade winds; annual rainfall averages about 3 m; rainy season (November to April), dry season (May to October); little seasonal temperature variation",
+		"terrain": "five volcanic islands with rugged peaks and limited coastal plains, two coral atolls (Rose Island, Swains Island)",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Lata Mountain",
+				"elevation": {
+					"value": 964,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"pumice",
+				"pumicite"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 21.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 13.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 8.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 78.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 0,
+					"units": "%"
+				}
+			},
+			"date": "2016"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"natural_hazards": [
+			{
+				"description": "cyclones common from December to March",
+				"type": "hazard"
+			},
+			{
+				"description": "limited volcanic activity on the Ofu and Olosega Islands; neither has erupted since the 19th century",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"limited supply of drinking water",
+				"pollution",
+				"waste disposal",
+				"coastal and stream alteration",
+				"soil erosion"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 49437,
+			"global_rank": 211,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "American Samoan(s) (US nationals)",
+			"adjective": "American Samoan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Pacific Islander",
+					"percent": 92.6,
+					"breakdown": [
+						{
+							"name": "includes Samoan",
+							"percent": 88.9
+						},
+						{
+							"name": "Tongan",
+							"percent": 2.9
+						},
+						{
+							"name": "other .8%"
+						}
+					]
+				},
+				{
+					"name": "Asian",
+					"percent": 3.6,
+					"breakdown": [
+						{
+							"name": "includes Filipino",
+							"percent": 2.2
+						},
+						{
+							"name": "other",
+							"percent": 1.4
+						}
+					]
+				},
+				{
+					"name": "mixed",
+					"percent": 2.7
+				},
+				{
+					"name": "other",
+					"percent": 1.2
+				}
+			],
+			"note": "data represent population by ethnic origin or race",
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Samoan",
+					"percent": 88.6,
+					"note": "closely related to Hawaiian and other Polynesian languages"
+				},
+				{
+					"name": "English",
+					"percent": 3.9
+				},
+				{
+					"name": "Tongan",
+					"percent": 2.7
+				},
+				{
+					"name": "other Pacific islander",
+					"percent": 3
+				},
+				{
+					"name": "other",
+					"percent": 1.8
+				}
+			],
+			"note": "most people are bilingual",
+			"date": "2010"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 98.3
+				},
+				{
+					"name": "other",
+					"percent": 1
+				},
+				{
+					"name": "unaffiliated",
+					"percent": 0.7
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 27.76,
+				"males": 7063,
+				"females": 6662
+			},
+			"15_to_24": {
+				"percent": 18.16,
+				"males": 4521,
+				"females": 4458
+			},
+			"25_to_54": {
+				"percent": 37.49,
+				"males": 9164,
+				"females": 9370
+			},
+			"55_to_64": {
+				"percent": 9.69,
+				"males": 2341,
+				"females": 2447
+			},
+			"65_and_over": {
+				"percent": 6.9,
+				"males": 1580,
+				"females": 1831
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 27.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 26.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 27.7,
+				"units": "years"
+			},
+			"global_rank": 149,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -1.4,
+			"global_rank": 234,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 17.8,
+			"global_rank": 93,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.9,
+			"global_rank": 168,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -26.1,
+			"global_rank": 226,
+			"date": "2020"
+		},
+		"urbanization": {
+			"urban_population": {
+				"value": 87.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.07,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Pago Pago",
+					"population": 49000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.86,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 9.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 11.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 131,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 77.5,
+				"units": "years"
+			},
+			"global_rank": 123,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.35,
+			"global_rank": 80,
+			"date": "2020"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 99,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "American Samoa",
+			"conventional_short_form": "American Samoa",
+			"abbreviation": "AS",
+			"etymology": "the meaning of Samoa is disputed; some modern explanations are that the \"sa\" connotes  \"sacred\" and \"moa\" indicates \"center,\" so the name can mean \"Holy Center\"; alternatively, some assertions state that it can mean \"place of the sacred moa bird\" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as \"sa'a\" meaning \"tribe or people\" and \"moa\" meaning \"deep sea or ocean\" to convey the meaning \"people of the deep sea\""
+		},
+		"government_type": "republican form of government with separate executive, legislative, and judicial branches; unincorporated unorganized territory of the US with local self-government",
+		"capital": {
+			"name": "Pago Pago",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 14,
+					"minutes": 16,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 170,
+					"minutes": 42,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -11,
+				"note": "6 hours behind Washington, DC, during Standard Time"
+			},
+			"note": "pronounced pahn-go pahn-go"
+		},
+		"independence": {
+			"note": "territory of the US"
+		},
+		"national_holidays": [
+			{
+				"name": "Flag Day",
+				"day": "17 April",
+				"original_year": "1900"
+			}
+		],
+		"constitution": {
+			"history": "adopted 17 October 1960; revised 1 July 1967",
+			"amendments": "proposed by either house of the Legislative Assembly; passage requires three-fifths majority vote by the membership of each house, approval in a referendum, and approval by the US Secretary of the Interior; amended 1971, 1977, 1979"
+		},
+		"legal_system": "mixed legal system of US common law and customary law",
+		"citizenship": {
+			"note": "in accordance with US Code Title 8, Section 1408, persons born in American Samoa are US nationals but not US citizens"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Donald J. TRUMP (since 20 January 2017); Vice President Michael R. PENCE (since 20 January 2017)",
+			"head_of_government": "Governor Lolo Matalasi MOLIGA (since 3 January 2013)",
+			"cabinet": "Cabinet consists of 12 department directors appointed by the governor with the consent of the Legislature or Fono",
+			"elections_appointments": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 8 November 2016 (next to be held in November 2020)",
+			"election_results": "Lolo Matalasi MOLIGA reelected governor in first round; percent of vote - Lolo Matalasi MOLIGA (independent) 60.2%, Faoa Aitofele SUNIA (Democratic Party) 35.8%, Tuika TUIKA (independent) 4%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Legislature or Fono consists of: Senate (18 seats; members indirectly selected by regional governing councils to serve 4-year terms)\nHouse of Representatives (21 seats; 20 members directly elected by simple majority vote and 1 decided by public meeting on Swains Island; members serve 2-year terms)",
+			"elections": "Senate - last held on 8 November 2016 (next to be held in November 2020)\nHouse of Representatives - last held on 6 November 2018 (next to be held in November 2020)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - independent 18; composition - men 17, women 1, percent of women 9.5%\nHouse of Representatives - percent of vote by party - NA; seats by party - NA; composition - men 14, women 7, percent of women 33.3%; note - total percent of women in Legislature 20.5%",
+			"note": "American Samoa elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 6 November 2018 (next to be held in November 2020)"
+		},
+		"judicial_branch": {
+			"highest_courts": "High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions); note - American Samoa has no US federal courts",
+			"judge_selection_and_term_of_office": "chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life",
+			"subordinate_courts": "district and village courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democratic Party",
+					"leaders": [
+						"Fagafaga Daniel LANGKILDE",
+						"chairman"
+					]
+				},
+				{
+					"name": "Republican Party",
+					"leaders": [
+						"William SWORD",
+						"chairman"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AOSIS ",
+				"note": "observer"
+			},
+			{
+				"organization": "Interpol ",
+				"note": "subbureau"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "PIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "SPC"
+			}
+		],
+		"flag_description": {
+			"description": "blue, with a white triangle edged in red that is based on the fly side and extends to the hoist side; a brown and white American bald eagle flying toward the hoist side is carrying 2 traditional Samoan symbols of authority, a war club known as a \"fa'alaufa'i\" (upper; left talon), and a coconut-fiber fly whisk known as a \"fue\" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the US and American Samoa"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "a fue  crossed with a to'oto'o ",
+					"note": "coconut fiber fly whisk; representing wisdom; staff; representing authority"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Amerika Samoa\" (American Samoa)",
+			"lyrics_music": "Mariota Tiumalu TUIASOSOPO/Napoleon Andrew TUITELELEAPAGA",
+			"note": "local anthem adopted 1950; as a territory of the United States, \"The Star-Spangled Banner\" is official (see United States)"
+		}
+	},
+	"economy": {
+		"overview": "American Samoa s a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and processing are the backbone of the private sector with processed fish products as the primary exports. The fish processing business accounted for 15.5% of employment in 2015.\nIn late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being.\nAttempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism has some potential as a source of income and jobs.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 658000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 674900000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 666900000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 209,
+				"note": "data are in 2016 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 658000000,
+				"date": "2016"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -2.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.2,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 1,
+						"units": "%",
+						"date": "2014"
+					}
+				],
+				"global_rank": 208
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 11200,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 11300,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 11200,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 134
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 66.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 49.7,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 7.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 5.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 65,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -93.5,
+							"units": "%"
+						}
+					},
+					"date": "2016"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 27.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 12.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 60.2,
+							"units": "%"
+						}
+					},
+					"date": "2012"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"coconuts",
+				"vegetables",
+				"taro",
+				"breadfruit",
+				"yams",
+				"copra",
+				"pineapples",
+				"papayas",
+				"dairy products",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tuna canneries",
+				"largely supplied by foreign fishing vessels",
+				"handicrafts"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 17850,
+				"global_rank": 213,
+				"date": "2015"
+			},
+			"by_occupation": {
+				"occupation": {
+					"industry": {
+						"value": 15.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 46.4,
+						"units": "%"
+					}
+				},
+				"agriculture": "NA",
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 29.8,
+					"units": "%",
+					"date": "2005"
+				}
+			],
+			"global_rank": 206
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 249000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 262500000,
+				"units": "USD"
+			},
+			"date": "2016"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 37.8,
+			"global_rank": 53,
+			"date": "2016"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.1,
+			"global_rank": 107,
+			"date": "2016"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 12.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 197
+		},
+		"fiscal_year": {
+			"start": "1 October",
+			"end": "30 September"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": -0.5,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 1.4,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 5
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 428000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 427000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 178
+			},
+			"commodities": {
+				"by_commodity": [
+					"canned tuna"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Australia",
+						"percent": 25
+					},
+					{
+						"name": "Ghana",
+						"percent": 19
+					},
+					{
+						"name": "Indonesia",
+						"percent": 15.6
+					},
+					{
+						"name": "Burma",
+						"percent": 10.4
+					},
+					{
+						"name": "Portugal",
+						"percent": 5.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 615000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 657000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 194
+			},
+			"commodities": {
+				"by_commodity": [
+					"raw materials for canneries",
+					"food",
+					"petroleum products",
+					"machinery",
+					"parts"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Fiji",
+						"percent": 10.7
+					},
+					{
+						"name": "Singapore",
+						"percent": 10.4
+					},
+					{
+						"name": "NZ",
+						"percent": 10.4
+					},
+					{
+						"name": "South Korea",
+						"percent": 9.3
+					},
+					{
+						"name": "Samoa",
+						"percent": 8.2
+					},
+					{
+						"name": "Kenya",
+						"percent": 6.4
+					},
+					{
+						"name": "Australia",
+						"percent": 5.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"note": "the US dollar is used"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 22219,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 59,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 60,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 45,
+					"units": "%"
+				},
+				"date": "2012"
+			},
+			"production": {
+				"kWh": 169000000,
+				"global_rank": 195,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 157200000,
+				"global_rank": 197,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 97,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 118,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 43000,
+				"global_rank": 195,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 98,
+					"global_rank": 27,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 35,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 152,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 131,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 102,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 83,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 86,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 100,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 111,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 2375,
+				"global_rank": 192,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 125,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 2346,
+				"global_rank": 188,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 97,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 117,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 59,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 84,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 103,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 361100,
+			"global_rank": 189,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 8984,
+				"subscriptions_per_one_hundred_inhabitants": 17.92,
+				"global_rank": 190,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations",
+		"internet": {
+			"country_code": ".as",
+			"users": {
+				"total": 17000,
+				"percent_of_population": 31.3,
+				"global_rank": 210,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 3,
+					"global_rank": 192,
+					"date": "2020"
+				},
+				"paved": {
+					"total": 3,
+					"over_3047_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 241,
+				"units": "km"
+			},
+			"global_rank": 205,
+			"date": "2016"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Pago Pago"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of the US"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution"
+		]
+	}
+}

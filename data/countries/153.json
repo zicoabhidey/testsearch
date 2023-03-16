@@ -1,0 +1,1023 @@
+{
+	"name": "Monaco",
+	"introduction": {
+		"background": "The Genoese built a fortress on the site of present day Monaco in 1215. The current ruling GRIMALDI family first seized control in 1297 but was not able to permanently secure its holding until 1419. Economic development was spurred in the late 19th century with a railroad linkup to France and the opening of a casino. Since then, the principality's mild climate, splendid scenery, and gambling facilities have made Monaco world famous as a tourist and recreation center."
+	},
+	"geography": {
+		"location": "Western Europe, bordering the Mediterranean Sea on the southern coast of France, near the border with Italy",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 43,
+				"minutes": 44,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 7,
+				"minutes": 24,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 2,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 255,
+			"comparative": "about three times the size of the National Mall in Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 6,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "France",
+					"border_length": {
+						"value": 6,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 4.1,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 12,
+				"units": "nm"
+			}
+		},
+		"climate": "Mediterranean with mild, wet winters and hot, dry summers",
+		"terrain": "hilly, rugged, rocky",
+		"elevation": {
+			"lowest_point": {
+				"name": "Mediterranean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Chemin des Revoires on Mont Agel",
+				"elevation": {
+					"value": 162,
+					"units": "m"
+				}
+			}
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 99,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the second most densely populated country in the world (after Macau); its entire population living on 2 square km",
+		"natural_hazards": null,
+		"environment": {
+			"current_issues": [
+				"no serious issues",
+				"actively monitors pollution levels in air and water"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 39000,
+			"global_rank": 214,
+			"date": "2019"
+		},
+		"nationality": {
+			"noun": "Monegasque(s) or Monacan(s)",
+			"adjective": "Monegasque or Monacan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Monegasque",
+					"percent": 32.1
+				},
+				{
+					"name": "French",
+					"percent": 19.9
+				},
+				{
+					"name": "Italian",
+					"percent": 15.3
+				},
+				{
+					"name": "British",
+					"percent": 5
+				},
+				{
+					"name": "Belgian",
+					"percent": 2.3
+				},
+				{
+					"name": "Swiss",
+					"percent": 2
+				},
+				{
+					"name": "German",
+					"percent": 1.9
+				},
+				{
+					"name": "Russian",
+					"percent": 1.8
+				},
+				{
+					"name": "American",
+					"percent": 1.1
+				},
+				{
+					"name": "Dutch",
+					"percent": 1.1
+				},
+				{
+					"name": "Moroccan",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 16.6
+				}
+			],
+			"note": "data represent population by country of birth\nFrench 24.9%, Monegasque 22.5%, Italian 21.9%, British 7.5%, Swiss 3.2%, Belgian 2.9%, German 2.4%, Russian 2%, Dutch 1.5%, Portuguese 1.4%, Greek 1.1%, American 1%, other 7.7%\ndata represent population by nationality",
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "French",
+					"note": "official"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "Italian"
+				},
+				{
+					"name": "Monegasque"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 90,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 10
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 9.41,
+				"males": 1497,
+				"females": 1415
+			},
+			"15_to_24": {
+				"percent": 9.52,
+				"males": 1538,
+				"females": 1406
+			},
+			"25_to_54": {
+				"percent": 30.46,
+				"males": 4779,
+				"females": 4644
+			},
+			"55_to_64": {
+				"percent": 15.47,
+				"males": 2370,
+				"females": 2417
+			},
+			"65_and_over": {
+				"percent": 35.15,
+				"males": 4817,
+				"females": 6057
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 55.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 53.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 57,
+				"units": "years"
+			},
+			"global_rank": 1,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.37,
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 6.4,
+			"global_rank": 229,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 10.8,
+			"global_rank": 24,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 8.3,
+			"global_rank": 10,
+			"date": "2020"
+		},
+		"population_distribution": "the second most densely populated country in the world (after Macau); its entire population living on 2 square km",
+		"urbanization": {
+			"urban_population": {
+				"value": 100,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.51,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Monaco",
+					"population": 39000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.8,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.94,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 1.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 1.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 227,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 89.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 85.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 93.3,
+				"units": "years"
+			},
+			"global_rank": 1,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.55,
+			"global_rank": 195,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 7.51,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 13.8,
+			"date": "2012"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 1.5,
+			"global_rank": 173,
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 26.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 25.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 27.9,
+				"units": "%"
+			},
+			"global_rank": 43,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Principality of Monaco",
+			"conventional_short_form": "Monaco",
+			"local_long_form": "Principaute de Monaco",
+			"local_short_form": "Monaco",
+			"etymology": "founded as a Greek colony in the 6th century B.C., the name derives from two Greek words \"monos\" (single, alone) and \"oikos\" (house) to convey the sense of a people \"living apart\" or in a \"single habitation\""
+		},
+		"government_type": "constitutional monarchy",
+		"capital": {
+			"name": "Monaco",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 43,
+					"minutes": 44,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 7,
+					"minutes": 25,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+		},
+		"independence": {
+			"note": "beginning of permanent rule by the House of GRIMALDI"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "19 November",
+				"original_year": "1857",
+				"note": "Saint Rainier's Day"
+			}
+		],
+		"constitution": {
+			"history": "previous 1911 (suspended 1959); latest adopted 17 December 1962",
+			"amendments": "proposed by joint agreement of the chief of state (the prince) and the National Council; passage requires two-thirds majority vote of National Council members; amended 2002"
+		},
+		"legal_system": "civil law system influenced by French legal tradition",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Monaco; in the case of a child born out of wedlock, the mother must be a citizen and father unknown",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Prince ALBERT II (since 6 April 2005)",
+			"head_of_government": "Minister of State Serge TELLE (since 1 February 2016)",
+			"cabinet": "Council of Government under the authority of the monarch",
+			"elections_appointments": "the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government"
+		},
+		"legislative_branch": {
+			"description": "unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)",
+			"elections": "last held on 11 February 2018 (next to be held in February 2023)",
+			"election_results": "percent of vote by party - Priorite Monaco 57.7%, Horizon Monaco 26.1%, Union Monegasque 16.2%; seats by party - Priorite Monaco 21, Horizon Monaco 2, Union Monegasque 1; composition - men 16, women 8, percent of women 33.3%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 5 permanent members and 2 substitutes)",
+			"judge_selection_and_term_of_office": "Supreme Court members appointed by the monarch upon the proposals of the National Council, State Council, Crown Council, Court of Appeal, and Trial Court",
+			"subordinate_courts": "Court of Appeal; Civil Court of First Instance"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Horizon Monaco",
+					"leaders": [
+						"Laurent NOUVION"
+					]
+				},
+				{
+					"name": "Priorite Monaco",
+					"leaders": [
+						"Stephane VALERI"
+					]
+				},
+				{
+					"name": "Renaissance",
+					"leaders": [
+						"SBM "
+					],
+					"note": "public corporation"
+				},
+				{
+					"name": "Union Monegasque",
+					"leaders": [
+						"Jean-Francois ROBILLON"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Schengen Convention ",
+				"note": "de facto member"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Maguy MACCARIO-DOYLE (since 3 December 2013)",
+				"chancery": "3400 International Drive NW, Suite 2K-100, Washington, DC 20008",
+				"telephone": "(202) 234-1530",
+				"fax": "(202) 244-7656",
+				"consulates_general": "New York"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners",
+			"note": "similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "red and white lozenges ",
+					"note": "diamond shapes"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"A Marcia de Muneghu\" (The March of Monaco)",
+			"lyrics_music": "Louis NOTARI/Charles ALBRECHT",
+			"note": "music adopted 1867, lyrics adopted 1931; although French is commonly spoken, only the Monegasque lyrics are official; the French version is known as \"Hymne Monegasque\" (Monegasque Anthem); the words are generally only sung on official occasions",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/MN.mp3?1538604757"
+		}
+	},
+	"economy": {
+		"overview": "Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.\nThe state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's \"grey list\" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.\nMonaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 7672000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 7279000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 6790000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 165,
+				"note": "data are in 2015 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 6006000000,
+				"date": "2015"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 5.4,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": 7.2,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": 9.6,
+						"units": "%",
+						"date": "2013"
+					}
+				],
+				"global_rank": 36
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 115700,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 109200,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 101900,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 4
+			},
+			"composition": {
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0,
+							"units": "%"
+						},
+						"industry": {
+							"value": 14,
+							"units": "%"
+						},
+						"services": {
+							"value": 86,
+							"units": "%"
+						}
+					},
+					"date": "2013"
+				}
+			}
+		},
+		"industries": {
+			"industries": [
+				"banking",
+				"insurance",
+				"tourism",
+				"construction",
+				"small-scale industrial",
+				"consumer products"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 6.8,
+			"global_rank": 33,
+			"date": "2015"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 52000,
+				"global_rank": 190,
+				"date": "2014"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 0,
+						"units": "%"
+					},
+					"industry": {
+						"value": 16.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 83.9,
+						"units": "%"
+					}
+				},
+				"date": "2012"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "%",
+					"date": "2012"
+				}
+			],
+			"global_rank": 20
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 896300000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 953600000,
+				"units": "USD"
+			},
+			"date": "2011"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 14.9,
+			"global_rank": 196,
+			"date": "2011"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 80,
+			"date": "2011"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "%",
+					"date": "2010"
+				}
+			],
+			"global_rank": 84
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 964600000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1115000000,
+						"units": "USD",
+						"date": "2011"
+					}
+				],
+				"global_rank": 161,
+				"note": "full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1371000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1162000000,
+						"units": "USD",
+						"date": "2011"
+					}
+				],
+				"global_rank": 176,
+				"note": "full customs integration with France, which collects and rebates Monegasque trade duties; also participates in EU market system through customs union with France"
+			}
+		},
+		"external_debt": {
+			"note": "NA"
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 34903,
+				"subscriptions_per_one_hundred_inhabitants": 113.23,
+				"global_rank": 166,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 26725,
+				"subscriptions_per_one_hundred_inhabitants": 86.7,
+				"global_rank": 211,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has extensive radio networks in France and Italy with French-language broadcasts to France beginning in the 1960s and Italian-language broadcasts to Italy beginning in the 1970s; other radio stations include Riviera Radio and Radio Monaco",
+		"internet": {
+			"country_code": ".mc",
+			"users": {
+				"total": 29821,
+				"percent_of_population": 97.05,
+				"global_rank": 204,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "3A",
+				"date": "2016"
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2012"
+			}
+		},
+		"railways": {
+			"note": "Monaco has a single railway station but does not operate its own train service;  the French operator SNCF operates rail services in Monaco"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Hercules Port"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of France"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

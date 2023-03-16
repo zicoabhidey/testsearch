@@ -1,0 +1,1514 @@
+{
+	"name": "Samoa",
+	"introduction": {
+		"background": "New Zealand occupied the German protectorate of Western Samoa at the outbreak of World War I in 1914. It continued to administer the islands as a mandate and then as a trust territory until 1962, when the islands became the first Polynesian nation to reestablish independence in the 20th century. The country dropped the \"Western\" from its name in 1997.\nIn the late 2000s, Samoa began making efforts to more closely align with Australia and New Zealand. In 2009, Samoa changed its driving orientation to the left side of the road, in line with other Commonwealth countries. In 2011, Samoa jumped forward one day - skipping December 30 - by moving to the west of the International Date Line so that it was one hour ahead of New Zealand and three hours ahead of the east coast of Australia, rather than 23 and 21 hours behind, respectively."
+	},
+	"geography": {
+		"location": "Oceania, group of islands in the South Pacific Ocean, about halfway between Hawaii and New Zealand",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 35,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 172,
+				"minutes": 20,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Oceania",
+		"area": {
+			"total": {
+				"value": 2831,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2821,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 10,
+				"units": "sq km"
+			},
+			"global_rank": 178,
+			"comparative": "slightly smaller than Rhode Island"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 403,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; rainy season (November to April), dry season (May to October)",
+		"terrain": "two main islands (Savaii, Upolu) and several smaller islands and uninhabited islets; narrow coastal plain with volcanic, rugged mountains in interior",
+		"elevation": {
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Silisili",
+				"elevation": {
+					"value": 1857,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"hardwood forests",
+				"fish",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 12.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 7.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 1.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 60.4,
+					"units": "%"
+				},
+				"other": {
+					"value": 27.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "about three-quarters of the population lives on the island of Upolu",
+		"natural_hazards": [
+			{
+				"description": "occasional cyclones",
+				"type": "hazard"
+			},
+			{
+				"description": "active volcanism",
+				"type": "hazard"
+			},
+			{
+				"description": "Savai'I Island (1,858 m), which last erupted in 1911, is historically active",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil erosion",
+				"deforestation",
+				"invasive species",
+				"overfishing"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 203774,
+			"global_rank": 185,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Samoan(s)",
+			"adjective": "Samoan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Samoan",
+					"percent": 96
+				},
+				{
+					"name": "Samoan/New Zealander",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 1.9
+				}
+			],
+			"note": "data represent the population by country of citizenship",
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Samoan",
+					"percent": 91.1,
+					"note": "Polynesian; official"
+				},
+				{
+					"name": "Somoan/English",
+					"percent": 6.7
+				},
+				{
+					"name": "English",
+					"percent": 0.5,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 0.2
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.6
+				}
+			],
+			"date": "2006"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Protestant",
+					"percent": 54.9,
+					"breakdown": [
+						{
+							"name": "Congregationalist",
+							"percent": 29
+						},
+						{
+							"name": "Methodist",
+							"percent": 12.4
+						},
+						{
+							"name": "Assembly of God",
+							"percent": 6.8
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 4.4
+						},
+						{
+							"name": "other Protestant",
+							"percent": 2.3
+						}
+					]
+				},
+				{
+					"name": "Roman Catholic",
+					"percent": 18.8
+				},
+				{
+					"name": "Mormon",
+					"percent": 16.9
+				},
+				{
+					"name": "Worship Centre",
+					"percent": 2.8
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.6
+				},
+				{
+					"name": "other",
+					"percent": 2.9,
+					"note": "includes Baha'i, Muslim"
+				},
+				{
+					"name": "none",
+					"percent": 0.2
+				}
+			],
+			"date": "2016"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 29.31,
+				"males": 30825,
+				"females": 28900
+			},
+			"15_to_24": {
+				"percent": 19.61,
+				"males": 20519,
+				"females": 19439
+			},
+			"25_to_54": {
+				"percent": 37.4,
+				"males": 39011,
+				"females": 37200
+			},
+			"55_to_64": {
+				"percent": 7.5,
+				"males": 7780,
+				"females": 7505
+			},
+			"65_and_over": {
+				"percent": 6.18,
+				"males": 5513,
+				"females": 7082
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 73.3,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 64.5,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 11.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 25.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 25.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 26,
+				"units": "years"
+			},
+			"global_rank": 159,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.61,
+			"global_rank": 149,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 19.6,
+			"global_rank": 77,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 5.4,
+			"global_rank": 187,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -8.1,
+			"global_rank": 214,
+			"date": "2020"
+		},
+		"population_distribution": "about three-quarters of the population lives on the island of Upolu",
+		"urbanization": {
+			"urban_population": {
+				"value": 17.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.47,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Apia",
+					"population": 36000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.78,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.04,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 23.6,
+			"date": "2009"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 43,
+			"global_rank": 98,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 17,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 20,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 13.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 88,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 77.7,
+				"units": "years"
+			},
+			"global_rank": 128,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.5,
+			"global_rank": 75,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 26.9,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.34,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 96.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 3.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea"
+			],
+			"vectorborne_diseases": [
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 47.3,
+			"global_rank": 8,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 3.2,
+			"global_rank": 97,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.1,
+			"global_rank": 99,
+			"date": "2016"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 99,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.2,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 31.9,
+				"units": "%"
+			},
+			"male": {
+				"value": 24.6,
+				"units": "%"
+			},
+			"female": {
+				"value": 43.4,
+				"units": "%"
+			},
+			"global_rank": 28,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Independent State of Samoa",
+			"conventional_short_form": "Samoa",
+			"local_long_form": "Malo Sa'oloto Tuto'atasi o Samoa",
+			"local_short_form": "Samoa",
+			"former": "Western Samoa",
+			"etymology": "the meaning of Samoa is disputed; some modern explanations are that the \"sa\" connotes  \"sacred\" and \"moa\" indicates \"center,\" so the name can mean \"Holy Center\"; alternatively, some assertions state that it can mean \"place of the sacred moa bird\" of Polynesian mythology; the name, however, may go back to Proto-Polynesian (PPn) times (before 1000 B.C.); a plausible PPn reconstruction has the first syllable as \"sa'a\" meaning \"tribe or people\" and \"moa\" meaning \"deep sea or ocean\" to convey the meaning \"people of the deep sea\""
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Apia",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 13,
+					"minutes": 49,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 171,
+					"minutes": 46,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 13,
+				"note": "18 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in September; ends first Sunday in April",
+			"etymology": "name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital"
+		},
+		"administrative_divisions": [
+			{
+				"name": "A'ana",
+				"type": ""
+			},
+			{
+				"name": "Aiga-i-le-Tai",
+				"type": ""
+			},
+			{
+				"name": "Atua",
+				"type": ""
+			},
+			{
+				"name": "Fa'asaleleaga",
+				"type": ""
+			},
+			{
+				"name": "Gaga'emauga",
+				"type": ""
+			},
+			{
+				"name": "Gagaifomauga",
+				"type": ""
+			},
+			{
+				"name": "Palauli",
+				"type": ""
+			},
+			{
+				"name": "Satupa'itea",
+				"type": ""
+			},
+			{
+				"name": "Tuamasaga",
+				"type": ""
+			},
+			{
+				"name": "Va'a-o-Fonoti",
+				"type": ""
+			},
+			{
+				"name": "Vaisigano",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1962-01-01",
+			"note": "from New Zealand-administered UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day Celebration",
+				"day": "1 June",
+				"original_year": "1962",
+				"note": "1 January 1962 is the date of independence from the New Zealand-administered UN trusteeship, but it is observed in June"
+			}
+		],
+		"constitution": {
+			"history": "several previous (preindependence); latest 1 January 1962",
+			"amendments": "proposed as an act by the Legislative Assembly; passage requires at least two-thirds majority vote by the Assembly membership in the third reading - provided at least 90 days have elapsed since the second reading, and assent of the chief of state; passage of amendments affecting constitutional articles on customary land or constitutional amendment procedures also requires at least two-thirds majority approval in a referendum; amended several times, last in 2015"
+		},
+		"legal_system": "mixed legal system of English common law and customary law; judicial review of legislative acts with respect to fundamental rights of the citizen",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Samoa",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 21,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "TUIMALEALI'IFANO Va’aletoa Sualauvi II (since 21 July 2017)",
+			"head_of_government": "Prime Minister TUILA'EPA Lupesoliai Sailele Malielegaoi (since 23 November 1998); Deputy Prime Minister FIAME Naomi Mata’afa (since 2016)",
+			"cabinet": "Cabinet appointed by the chief of state on the prime minister's advice",
+			"elections_appointments": "chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2- term limit); election last held on 4 July 2017 (next to be held in 2022); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly",
+			"election_results": "TUIMALEALI'IFANO Va’aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017"
+		},
+		"legislative_branch": {
+			"description": "unicameral Legislative Assembly or Fono (50 seats for 2016-2021 term); members from 49 single-seat constituencies directly elected by simple majority vote and 1 seat for a woman, added for the 2016 election to meet the mandated 10% representation of women in the Assembly; members serve 5-year terms)",
+			"elections": "election last held on 4 March 2016 (next election to be held no later than March 2021)",
+			"election_results": "percent of vote by party - HRPP 89.8%, Tautua Samoa 4.1%, independent 6.1%; seats by party – initial election results - HRPP 44, Tautua Samoa 2, independents 3; post-election party affiliation – HRPP 47, (informal) opposition 3; composition - men 45, women 5, percent of women 10%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)",
+			"judge_selection_and_term_of_office": "chief justice appointed by the chief of state upon the advice of the prime minister; other Supreme Court judges appointed by the Judicial Service Commission, a 3-member body chaired by the chief justice and includes the attorney general and an appointee of the Minister of Justice; judges normally serve until retirement at age 68",
+			"subordinate_courts": "District Court; Magistrates' Courts; Land and Titles Courts; village fono or village chief councils"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Human Rights Protection Party",
+					"name_alternative": "HRPP",
+					"leaders": [
+						"TUILA'EPA Sailele Malielegaoi"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PIF"
+			},
+			{
+				"organization": "Sparteca"
+			},
+			{
+				"organization": "SPC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Aliioaiga Feturi ELISAIA (since 4 December 2003)",
+				"chancery": "800 Second Avenue, Suite 400J, New York, NY 10017",
+				"telephone": "[1] (212) 599-6196 through 6197",
+				"fax": "[1] (212) 599-0797",
+				"consulates_general": "Pago Pago (American Samoa)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "the US Ambassador to New Zealand is accredited to Samoa",
+				"telephone": "[685] 21-631 (2018)",
+				"embassy": "Accident Corporation Building, 5th Floor, Matafele, Apia",
+				"mailing_address": "P. O. Box 3430, Matafele, Apia",
+				"fax": "[685] 22-030 (2018)"
+			}
+		},
+		"flag_description": {
+			"description": "red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity",
+			"note": "similar to the flag of Taiwan"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Southern Cross constellation ",
+					"note": "five, five-pointed stars"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"O le Fu'a o le Sa'olotoga o Samoa\" (The Banner of Freedom)",
+			"lyrics_music": "Sauni Liga KURESA",
+			"note": "adopted 1962; also known as \"Samoa Tula'i\" (Samoa Arise)"
+		}
+	},
+	"economy": {
+		"overview": "The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.\nThe country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.\nThe Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1137000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1110000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1036000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 204,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 841000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 2.5,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 7.1,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.6,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 114
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 5700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 5300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 169,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"exports_of_goods_and_services": {
+							"value": 27.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -50.5,
+							"units": "%"
+						}
+					},
+					"household_consumption": "NA",
+					"government_consumption": "NA",
+					"investment_in_fixed_capital": "NA",
+					"investment_in_inventories": "NA",
+					"date": "2015"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 10.4,
+							"units": "%"
+						},
+						"industry": {
+							"value": 23.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 66,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"coconuts",
+				"nonu",
+				"bananas",
+				"taro",
+				"yams",
+				"coffee",
+				"cocoa"
+			]
+		},
+		"industries": {
+			"industries": [
+				"food processing",
+				"building materials",
+				"auto parts"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -1.8,
+			"global_rank": 180,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 50700,
+				"global_rank": 193,
+				"date": "2016"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 65,
+						"units": "%"
+					},
+					"industry": {
+						"value": 6,
+						"units": "%"
+					},
+					"services": {
+						"value": 29,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 5.5,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 83,
+			"note": "NA"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 237300000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 276800000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 28.2,
+			"global_rank": 95,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -4.7,
+			"global_rank": 166,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 49.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 52.6,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 103
+		},
+		"fiscal_year": {
+			"start": "June 1",
+			"end": "May 31"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 72
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -19000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -37000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 72
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 27500000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 207
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"coconut oil",
+					"cream",
+					"nonu",
+					"copra",
+					"taro",
+					"automotive parts",
+					"garments",
+					"beer"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Australia",
+						"percent": 22.9
+					},
+					{
+						"name": "NZ",
+						"percent": 22.8
+					},
+					{
+						"name": "American Samoa",
+						"percent": 22.1
+					},
+					{
+						"name": "Afghanistan",
+						"percent": 14.9
+					},
+					{
+						"name": "US",
+						"percent": 5.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 89290000000,
+						"units": "USD",
+						"date": "2018"
+					},
+					{
+						"value": 312600000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 41
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"industrial supplies",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "NZ",
+						"percent": 22
+					},
+					{
+						"name": "Singapore",
+						"percent": 20.7
+					},
+					{
+						"name": "US",
+						"percent": 12.5
+					},
+					{
+						"name": "China",
+						"percent": 10.1
+					},
+					{
+						"name": "Australia",
+						"percent": 8.6
+					},
+					{
+						"name": "Fiji",
+						"percent": 5.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 133000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 122500000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 180
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 447200000,
+					"units": "USD",
+					"date": "2013-12-31"
+				}
+			],
+			"global_rank": 179
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2.566,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2.565,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2.565,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.5609,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.3318,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "tala (SAT) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 132000000,
+				"global_rank": 197,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 122800000,
+				"global_rank": 199,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 192,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 194,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 45000,
+				"global_rank": 194,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 48,
+					"global_rank": 155,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 176,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 23,
+					"global_rank": 85,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 29,
+					"global_rank": 20,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 195,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 188,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 190,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 190,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 197,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 2400,
+				"global_rank": 191,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 198,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 2363,
+				"global_rank": 187,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 192,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 194,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 177,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 183,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 189,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 341100,
+			"global_rank": 191,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 8770,
+				"subscriptions_per_one_hundred_inhabitants": 4.33,
+				"global_rank": 192,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 128776,
+				"subscriptions_per_one_hundred_inhabitants": 63.58,
+				"global_rank": 190,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-owned TV station privatized in 2008; 4 privately owned television broadcast stations; about a half-dozen privately owned radio stations and one state-owned radio station; TV and radio broadcasts of several stations from American Samoa are available (2019)",
+		"internet": {
+			"country_code": ".ws",
+			"users": {
+				"total": 67662,
+				"percent_of_population": 33.61,
+				"global_rank": 190,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 4,
+				"annual_passenger_traffic_on_registered_air_carriers": 137770,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5W",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 4,
+					"global_rank": 188,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"2438_to_3047_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 3,
+					"under_914_metres": 3,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 1150,
+				"units": "km"
+			},
+			"global_rank": 181,
+			"date": "2018"
+		},
+		"merchant_marine": {
+			"total": 13,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 5
+				},
+				{
+					"type": "oil tanker",
+					"count": 1
+				},
+				{
+					"type": "other",
+					"count": 7
+				}
+			],
+			"global_rank": 149,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Apia"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "Samoa has no formal defense structure or regular armed forces; informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

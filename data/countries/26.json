@@ -1,0 +1,1750 @@
+{
+	"name": "Belize",
+	"introduction": {
+		"background": "Belize was the site of several Mayan city states until their decline at the end of the first millennium A.D. The British and Spanish disputed the region in the 17th and 18th centuries; it formally became the colony of British Honduras in 1862. Territorial disputes between the UK and Guatemala delayed the independence of Belize until 1981. Guatemala refused to recognize the new nation until 1992 and the two countries are involved in an ongoing border dispute. Both nations have voted to send the dispute for final resolution to the International Court of Justice. Tourism has become the mainstay of the economy. Current concerns include the country's heavy foreign debt burden, high crime rates, high unemployment combined with a majority youth population, growing involvement in the Mexican and South American drug trade, and one of the highest HIV/AIDS prevalence rates in Central America."
+	},
+	"geography": {
+		"location": "Central America, bordering the Caribbean Sea, between Guatemala and Mexico",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 17,
+				"minutes": 15,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 88,
+				"minutes": 45,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Central America and the Caribbean",
+		"area": {
+			"total": {
+				"value": 22966,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 22806,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 160,
+				"units": "sq km"
+			},
+			"global_rank": 152,
+			"comparative": "slightly smaller than Massachusetts"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 542,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Guatemala",
+					"border_length": {
+						"value": 266,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Mexico",
+					"border_length": {
+						"value": 276,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 386,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm",
+				"note": "in the north, 3 nm in the south; note - from the mouth of the Sarstoon River to Ranguana Cay, Belize's territorial sea is 3 nm; according to Belize's Maritime Areas Act, 1992, the purpose of this limitation is to provide a framework for negotiating a definitive agreement on territorial differences with Guatemala"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; very hot and humid; rainy season (May to November); dry season (February to May)",
+		"terrain": "flat, swampy coastal plain; low mountains in south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 173,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Caribbean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Doyle's Delight",
+				"elevation": {
+					"value": 1124,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land potential",
+				"timber",
+				"fish",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 6.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 3.3,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 1.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 2.2,
+					"units": "%"
+				},
+				"forest": {
+					"value": 60.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 32.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 35,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east",
+		"natural_hazards": [
+			{
+				"description": "frequent, devastating hurricanes (June to November) and coastal flooding (especially in south)",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation",
+				"water pollution",
+				"including pollution of Belize's Barrier Reef System",
+				"from sewage",
+				"industrial effluents",
+				"agricultural runoff",
+				"inability to properly dispose of solid waste"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 399598,
+			"global_rank": 176,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Belizean(s)",
+			"adjective": "Belizean"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "mestizo",
+					"percent": 52.9
+				},
+				{
+					"name": "Creole",
+					"percent": 25.9
+				},
+				{
+					"name": "Maya",
+					"percent": 11.3
+				},
+				{
+					"name": "Garifuna",
+					"percent": 6.1
+				},
+				{
+					"name": "East Indian",
+					"percent": 3.9
+				},
+				{
+					"name": "Mennonite",
+					"percent": 3.6
+				},
+				{
+					"name": "white",
+					"percent": 1.2
+				},
+				{
+					"name": "Asian",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 1.2
+				},
+				{
+					"name": "unknown",
+					"percent": 0.3
+				}
+			],
+			"note": "percentages add up to more than 100% because respondents were able to identify more than one ethnic origin",
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English",
+					"percent": 62.9,
+					"note": "official"
+				},
+				{
+					"name": "Spanish",
+					"percent": 56.6
+				},
+				{
+					"name": "Creole",
+					"percent": 44.6
+				},
+				{
+					"name": "Maya",
+					"percent": 10.5
+				},
+				{
+					"name": "German",
+					"percent": 3.2
+				},
+				{
+					"name": "Garifuna",
+					"percent": 2.9
+				},
+				{
+					"name": "other",
+					"percent": 1.8
+				},
+				{
+					"name": "unknown",
+					"percent": 0.3
+				},
+				{
+					"name": "none",
+					"percent": 0.2,
+					"note": "cannot speak"
+				}
+			],
+			"note": "shares sum to more than 100% because some respondents gave more than one answer on the census",
+			"date": "2010"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 40.1
+				},
+				{
+					"name": "Protestant",
+					"percent": 31.5,
+					"breakdown": [
+						{
+							"name": "includes Pentecostal",
+							"percent": 8.4
+						},
+						{
+							"name": "Seventh Day Adventist",
+							"percent": 5.4
+						},
+						{
+							"name": "Anglican",
+							"percent": 4.7
+						},
+						{
+							"name": "Mennonite",
+							"percent": 3.7
+						},
+						{
+							"name": "Baptist",
+							"percent": 3.6
+						},
+						{
+							"name": "Methodist",
+							"percent": 2.9
+						},
+						{
+							"name": "Nazarene",
+							"percent": 2.8
+						}
+					]
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1.7
+				},
+				{
+					"name": "other",
+					"percent": 10.5,
+					"note": "includes Baha'i, Buddhist, Hindu, Mormon, Muslim, Rastafarian, Salvation Army"
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.6
+				},
+				{
+					"name": "none",
+					"percent": 15.5
+				}
+			],
+			"date": "2010"
+		},
+		"demographic_profile": "Migration continues to transform Belize's population. About 16% of Belizeans live abroad, while immigrants constitute approximately 15% of Belize's population. Belizeans seeking job and educational opportunities have preferred to emigrate to the United States rather than former colonizer Great Britain because of the United States' closer proximity and stronger trade ties with Belize. Belizeans also emigrate to Canada, Mexico, and English-speaking Caribbean countries. The emigration of a large share of Creoles (Afro-Belizeans) and the influx of Central American immigrants, mainly Guatemalans, Salvadorans, and Hondurans, has changed Belize's ethnic composition. Mestizos have become the largest ethnic group, and Belize now has more native Spanish speakers than English or Creole speakers, despite English being the official language. In addition, Central American immigrants are establishing new communities in rural areas, which contrasts with the urbanization trend seen in neighboring countries. Recently, Chinese, European, and North American immigrants have become more frequent.\nImmigration accounts for an increasing share of Belize's population growth rate, which is steadily falling due to fertility decline. Belize's declining birth rate and its increased life expectancy are creating an aging population. As the elderly population grows and nuclear families replace extended households, Belize's government will be challenged to balance a rising demand for pensions, social services, and healthcare for its senior citizens with the need to reduce poverty and social inequality and to improve sanitation.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 32.57,
+				"males": 66454,
+				"females": 63700
+			},
+			"15_to_24": {
+				"percent": 19,
+				"males": 39238,
+				"females": 36683
+			},
+			"25_to_54": {
+				"percent": 37.72,
+				"males": 73440,
+				"females": 77300
+			},
+			"55_to_64": {
+				"percent": 6.18,
+				"males": 12235,
+				"females": 12444
+			},
+			"65_and_over": {
+				"percent": 4.53,
+				"males": 8781,
+				"females": 9323
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 52,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 44.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 23.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 23,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.8,
+				"units": "years"
+			},
+			"global_rank": 172,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.72,
+			"global_rank": 61,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 22,
+			"global_rank": 66,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.1,
+			"global_rank": 212,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1,
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"population_distribution": "approximately 25% to 30% of the population lives in the former capital, Belize City; over half of the overall population is rural; population density is slightly higher in the north and east",
+		"urbanization": {
+			"urban_population": {
+				"value": 46,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.32,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Belmopan",
+					"population": 23000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.95,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.94,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 36,
+			"global_rank": 104,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12.4,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 118,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 77,
+				"units": "years"
+			},
+			"global_rank": 117,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.7,
+			"global_rank": 64,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 51.4,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.12,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.8,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 98.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 95.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 4.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 3.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 1.9,
+				"global_rank": 24,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 4900,
+				"global_rank": 123,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 200,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 24.1,
+			"global_rank": 60,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 4.6,
+			"global_rank": 85,
+			"date": "2015"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.4,
+			"global_rank": 9,
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 15.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 9.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 24.8,
+				"units": "%"
+			},
+			"global_rank": 89,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Belize",
+			"former": "British Honduras",
+			"etymology": "may be named for the Belize River, whose name possibly derives from the Maya word \"belix,\" meaning \"muddy-watered\""
+		},
+		"government_type": "parliamentary democracy (National Assembly) under a constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "Belmopan",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 17,
+					"minutes": 15,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 88,
+					"minutes": 46,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -6,
+				"note": "1 hour behind Washington, DC, during Standard Time"
+			},
+			"etymology": "the decision to move the capital of the country inland to higher and more stable land was made in the 1960s; the name chosen for the new city was formed from the union of two words: \"Belize,\" the name of the longest river in the country, and \"Mopan,\" one of the rivers in the area of the new capital that empties into the Belize River"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Belize",
+				"type": ""
+			},
+			{
+				"name": "Cayo",
+				"type": ""
+			},
+			{
+				"name": "Corozal",
+				"type": ""
+			},
+			{
+				"name": "Orange Walk",
+				"type": ""
+			},
+			{
+				"name": "Stann Creek",
+				"type": ""
+			},
+			{
+				"name": "Toledo",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1981-09-21",
+			"note": "from the UK"
+		},
+		"national_holidays": [
+			{
+				"name": "Battle of St. George's Caye Day",
+				"day": "10 September",
+				"original_year": "1798",
+				"note": "National Day"
+			},
+			{
+				"name": "Independence Day",
+				"day": "21 September",
+				"original_year": "1981"
+			}
+		],
+		"constitution": {
+			"history": "previous 1954, 1963 (preindependence); latest signed and entered into force 21 September 1981",
+			"amendments": "proposed and adopted by two-thirds majority vote of the National Assembly House of Representatives except for amendments relating to rights and freedoms, changes to the Assembly, and to elections and judiciary matters, which require at least three-quarters majority vote of the House; both types of amendments require assent of the governor general; amended several times, last in 2018"
+		},
+		"legal_system": "English common law",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Colville Norbert YOUNG, Sr. (since 17 November 1993)",
+			"head_of_government": "Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)",
+			"cabinet": "Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly",
+			"elections_appointments": "the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Assembly consists of: Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; term of appointment NA\nHouse of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)",
+			"elections": "Senate -  last appointed 11 November 2020 (next appointments in November 2025)\nHouse of Representatives - last held on 11 November 2020 (next to be held in November 2025)",
+			"election_results": "House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London",
+			"judge_selection_and_term_of_office": "Court of Appeal president and justices appointed by the governor-general upon advice of the prime minister after consultation with the National Assembly opposition leader; justices' tenures vary by terms of appointment; Supreme Court chief justice appointed by the governor-general upon the advice of the prime minister and the National Assembly opposition leader; other judges appointed by the governor-general upon the advice of the Judicial and Legal Services Section of the Public Services Commission and with the concurrence of the prime minister after consultation with the National Assembly opposition leader; judges can be appointed beyond age 65 but must retire by age 75; in 2013, the Supreme Court chief justice overturned a constitutional amendment that had restricted Court of Appeal judge appointments to as short as 1 year",
+			"subordinate_courts": "Magistrates' Courts; Family Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Belize Progressive Party",
+					"name_alternative": "BPP",
+					"leaders": [
+						"Patrick ROGERS"
+					],
+					"note": "formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, other smaller political groups"
+				},
+				{
+					"name": "People's United Party",
+					"name_alternative": "PUP",
+					"leaders": [
+						"Johnny BRICENO"
+					]
+				},
+				{
+					"name": "United Democratic Party",
+					"name_alternative": "UDP",
+					"leaders": [
+						"Dean Oliver BARROW"
+					]
+				},
+				{
+					"name": "Vision Inspired by the People",
+					"name_alternative": "VIP",
+					"leaders": [
+						"Hubert ENRIQUEZ"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ACP"
+			},
+			{
+				"organization": "AOSIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "Caricom"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Petrocaribe"
+			},
+			{
+				"organization": "SICA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Francisco Daniel GUTIEREZ (since 21 July 2017)",
+				"chancery": "2535 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 332-9636",
+				"fax": "[1] (202) 332-6888",
+				"consulates_general": "Los Angeles",
+				"consulates": "Miami"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d’Affaires Keith R. GILGES (since 24 July 2018)",
+				"telephone": "[011] (501) 822-4011",
+				"embassy": "Floral Park Road, Belmopan City, Cayo District",
+				"mailing_address": "P.O. Box 497, Belmopan City, Cayo District, Belize",
+				"fax": "[011] (501) 822-4012"
+			}
+		},
+		"flag_description": {
+			"description": "royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize",
+			"note": "Belize's flag is the only national flag that depicts human beings; two British overseas territories, Montserrat and the British Virgin Islands, also depict humans"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Baird's tapir ",
+					"note": "a large, browsing, forest-dwelling mammal"
+				},
+				{
+					"symbol": "keel-billed toucan"
+				},
+				{
+					"symbol": "Black Orchid"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Land of the Free",
+			"lyrics_music": "Samuel Alfred HAYNES/Selwyn Walford YOUNG",
+			"note": "adopted 1981; as a Commonwealth country, in addition to the national anthem, \"God Save the Queen\" serves as the royal anthem (see United Kingdom)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BH.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.\nThe government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.\nAlthough Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3218000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3194000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3210000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 187,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 1854000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.8,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -0.5,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.8,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 177
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 8800,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 149,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 75.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 15.2,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 49.1,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -63.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 10.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 21.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 68,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 11.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 13.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 14.2,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 157
+		},
+		"agriculture_products": {
+			"products": [
+				"bananas",
+				"cacao",
+				"citrus",
+				"sugar",
+				"fish",
+				"cultured shrimp",
+				"lumber"
+			]
+		},
+		"industries": {
+			"industries": [
+				"garment production",
+				"food processing",
+				"tourism",
+				"construction",
+				"oil"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -0.6,
+			"global_rank": 172,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 120500,
+				"global_rank": 180,
+				"date": "2008"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 10.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 18.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 71.7,
+						"units": "%"
+					}
+				},
+				"date": "2007"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 137
+		},
+		"population_below_poverty_line": {
+			"value": 41,
+			"units": "%",
+			"date": "2013"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 553500000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 572000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 29.9,
+			"global_rank": 78,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1,
+			"global_rank": 75,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 99,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 95.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 17
+		},
+		"fiscal_year": {
+			"start": "1 April",
+			"end": "31 March"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 55
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -143000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -163000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 92
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 457500000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 442700000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 177
+			},
+			"commodities": {
+				"by_commodity": [
+					"sugar",
+					"bananas",
+					"citrus",
+					"clothing",
+					"fish products",
+					"molasses",
+					"wood",
+					"crude oil"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UK",
+						"percent": 33.9
+					},
+					{
+						"name": "US",
+						"percent": 22
+					},
+					{
+						"name": "Jamaica",
+						"percent": 6.7
+					},
+					{
+						"name": "Italy",
+						"percent": 6.4
+					},
+					{
+						"name": "Barbados",
+						"percent": 5.9
+					},
+					{
+						"name": "Ireland",
+						"percent": 5.5
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 845900000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 916200000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 188
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"manufactured goods",
+					"fuels",
+					"chemicals",
+					"pharmaceuticals",
+					"food",
+					"beverages",
+					"tobacco"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 35.6
+					},
+					{
+						"name": "China",
+						"percent": 11.2
+					},
+					{
+						"name": "Mexico",
+						"percent": 11.2
+					},
+					{
+						"name": "Guatemala",
+						"percent": 6.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 312100000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 376700000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 167
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 1315000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1338000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 161
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Belizean dollars (BZD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 99.5,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 97.1,
+					"units": "%",
+					"note": "2016"
+				},
+				"rural_electrification": {
+					"value": 88.4,
+					"units": "%",
+					"note": "2016"
+				},
+				"date": "2018"
+			},
+			"production": {
+				"kWh": 280000000,
+				"global_rank": 186,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 453000000,
+				"global_rank": 172,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 105,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 243000000,
+				"global_rank": 92,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 198000,
+				"global_rank": 165,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 51,
+					"global_rank": 147,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 48,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 27,
+					"global_rank": 73,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 22,
+					"global_rank": 33,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 2000,
+				"global_rank": 85,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1220,
+				"global_rank": 73,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 95,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 6700000,
+				"global_rank": 93,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 36,
+				"global_rank": 109,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 4000,
+				"global_rank": 182,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 130,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 4161,
+				"global_rank": 176,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 103,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 120,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 68,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 90,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 110,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 556700,
+			"global_rank": 183,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 18617,
+				"subscriptions_per_one_hundred_inhabitants": 4.74,
+				"global_rank": 179,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 256479,
+				"subscriptions_per_one_hundred_inhabitants": 65.3,
+				"global_rank": 182,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "8 privately owned TV stations; multi-channel cable TV provides access to foreign stations; about 25 radio stations broadcasting on roughly 50 different frequencies; state-run radio was privatized in 1998 (2019)",
+		"internet": {
+			"country_code": ".bz",
+			"users": {
+				"total": 181660,
+				"percent_of_population": 47.08,
+				"global_rank": 176,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 2,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 28,
+				"annual_passenger_traffic_on_registered_air_carriers": 1297533,
+				"annual_freight_traffic_on_registered_air_carriers": 3780000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "V3",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 47,
+					"global_rank": 91,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 6,
+					"2438_to_3047_metres": 1,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 3,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 41,
+					"2438_to_3047_metres": 1,
+					"914_to_1523_metres": 11,
+					"under_914_metres": 29,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"total": {
+				"value": 3281,
+				"units": "km"
+			},
+			"paved": {
+				"value": 601,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 2680,
+				"units": "km"
+			},
+			"global_rank": 160,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 825,
+			"units": "km",
+			"note": "navigable only by small craft",
+			"global_rank": 70,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 786,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 56
+				},
+				{
+					"type": "container ship",
+					"count": 4
+				},
+				{
+					"type": "general cargo",
+					"count": 398
+				},
+				{
+					"type": "oil tanker",
+					"count": 65
+				},
+				{
+					"type": "other",
+					"count": 263
+				}
+			],
+			"global_rank": 29,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Belize City",
+				"Big Creek"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 101
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient; conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Guatemala persists in its territorial claim to approximately half of Belize, but agrees to the Line of Adjacency to keep Guatemalan squatters out of Belize's forested interior",
+			"both countries agreed in April 2012 to hold simultaneous referenda, scheduled for 6 October 2013, to decide whether to refer the dispute to the ICJ for binding resolution, but this vote was suspended indefinitely",
+			"Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty"
+		],
+		"trafficking_in_persons": {
+			"current_situation": "Belize is a source, destination, and transit country for men, women, and children subjected to forced labor and sex trafficking; the coerced prostitution of women and children by family members has not led to arrests; child sex tourism, involving primarily US citizens, is on the rise; sex trafficking and forced labor of Belizean and foreign women and LGBT individuals occurs in bars, nightclubs, brothels, and domestic service; workers from Central America, Mexico, and Asia may fall victim to forced labor in restaurants, shops, agriculture, and fishing",
+			"tier_rating": "Tier 3 – Belize does not comply fully with the minimum standards for the elimination of human trafficking and is not making significant efforts to do so; authorities did not initiate any new trafficking investigations of prosecutions, and cases from previous years remain pending; law enforcement efforts to use informal means to identify and refer victims were ineffective and draft procedures for referring victims to services are still not finalized; trafficking victims were more commonly arrested, detained, or deported based on immigration violations than provided with assistance; the government did not make progress in implementing the 2012-14 anti-trafficking national strategic plan (2015)"
+		},
+		"illicit_drugs": {
+			"note": "major transshipment point for cocaine; small-scale illicit producer of cannabis, primarily for local consumption; offshore sector money-laundering activity related to narcotics trafficking and other crimes"
+		}
+	}
+}

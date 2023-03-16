@@ -1,0 +1,2034 @@
+{
+	"name": "Egypt",
+	"introduction": {
+		"background": "The regularity and richness of the annual Nile River flood, coupled with semi-isolation provided by deserts to the east and west, allowed for the development of one of the world's great civilizations. A unified kingdom arose circa 3200 B.C., and a series of dynasties ruled in Egypt for the next three millennia. The last native dynasty fell to the Persians in 341 B.C., who in turn were replaced by the Greeks, Romans, and Byzantines. It was the Arabs who introduced Islam and the Arabic language in the 7th century and who ruled for the next six centuries. A local military caste, the Mamluks took control about 1250 and continued to govern after the conquest of Egypt by the Ottoman Turks in 1517. Completion of the Suez Canal in 1869 elevated Egypt as an important world transportation hub. Ostensibly to protect its investments, Britain seized control of Egypt's government in 1882, but nominal allegiance to the Ottoman Empire continued until 1914. Partially independent from the UK in 1922, Egypt acquired full sovereignty from Britain in 1952. The completion of the Aswan High Dam in 1971 and the resultant Lake Nasser have reaffirmed the time-honored place of the Nile River in the agriculture and ecology of Egypt. A rapidly growing population (the largest in the Arab world), limited arable land, and dependence on the Nile all continue to overtax resources and stress society. The government has struggled to meet the demands of Egypt's fast-growing population as it implements far-reaching economic reforms, including the reduction of select subsidies, large-scale infrastructure projects, energy cooperation, and foreign direct investment appeals.\nInspired by the 2010 Tunisian revolution, Egyptian opposition groups led demonstrations and labor strikes countrywide, culminating in President Hosni MUBARAK's ouster in 2011. Egypt's military assumed national leadership until a new legislature was in place in early 2012; later that same year, Muhammad MURSI won the presidential election. Following protests throughout the spring of 2013 against MURSI's government and the Muslim Brotherhood, the Egyptian Armed Forces intervened and removed MURSI from power in July 2013 and replaced him with interim president Adly MANSOUR. Simultaneously, the government began enacting laws to limit freedoms of assembly and expression. In January 2014, voters approved a new constitution by referendum and in May 2014 elected former defense minister Abdelfattah ELSISI president. Egypt elected a new legislature in December 2015, its first Hose of Representatives since 2012. ELSISI was reelected to a second four-year term in March 2018. In April 2019, Egypt approved via national referendum a set of constitutional amendments extending ELSISI’s term in office through 2024 and possibly through 2030 if re-elected for a third term. The amendments would also allow future presidents up to two consecutive six-year terms in office, re-establish an upper legislative house, allow for one or more vice presidents, establish a 25% quota for female legislators, reaffirm the military’s role as guardian of Egypt, and expand presidential authority to appoint the heads of judicial councils."
+	},
+	"geography": {
+		"location": "Northern Africa, bordering the Mediterranean Sea, between Libya and the Gaza Strip, and the Red Sea north of Sudan, and includes the Asian Sinai Peninsula",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 27,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 30,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1001450,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 995450,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 6000,
+				"units": "sq km"
+			},
+			"global_rank": 31,
+			"comparative": "more than eight times the size of Ohio; slightly more than three times the size of New Mexico"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2612,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Gaza Strip",
+					"border_length": {
+						"value": 13,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Israel",
+					"border_length": {
+						"value": 208,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Libya",
+					"border_length": {
+						"value": 1115,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sudan",
+					"border_length": {
+						"value": 1276,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 2450,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "or the equidistant median line with Cyprus"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "desert; hot, dry summers with moderate winters",
+		"terrain": "vast desert plateau interrupted by Nile valley and delta",
+		"elevation": {
+			"mean_elevation": {
+				"value": 321,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Qattara Depression",
+				"elevation": {
+					"value": -133,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Catherine",
+				"elevation": {
+					"value": 2629,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"iron ore",
+				"phosphates",
+				"manganese",
+				"limestone",
+				"gypsum",
+				"talc",
+				"asbestos",
+				"lead",
+				"rare earth elements",
+				"zinc"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 3.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 2.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 96.3,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 36500,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "periodic droughts",
+				"type": "hazard"
+			},
+			{
+				"description": "frequent earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "flash floods",
+				"type": "hazard"
+			},
+			{
+				"description": "landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "hot, driving windstorms called khamsin occur in spring",
+				"type": "hazard"
+			},
+			{
+				"description": "dust storms",
+				"type": "hazard"
+			},
+			{
+				"description": "sandstorms",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"agricultural land being lost to urbanization and windblown sands",
+				"increasing soil salination below Aswan High Dam",
+				"desertification",
+				"oil pollution threatening coral reefs",
+				"beaches",
+				"and marine habitats",
+				"other water pollution from agricultural pesticides",
+				"raw sewage",
+				"and industrial effluents",
+				"limited natural freshwater resources away from the Nile",
+				"which is the only perennial water source",
+				"rapid growth in population overstraining the Nile and natural resources"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 104124440,
+			"global_rank": 14,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Egyptian(s)",
+			"adjective": "Egyptian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Egyptian",
+					"percent": 99.7
+				},
+				{
+					"name": "other",
+					"percent": 0.3
+				}
+			],
+			"note": "data represent respondents by nationality",
+			"date": "2006"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "Arabic"
+				},
+				{
+					"name": "English"
+				},
+				{
+					"name": "and French widely understood by educated classes"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 90,
+					"note": "predominantly Sunni"
+				},
+				{
+					"name": "Christian",
+					"percent": 10,
+					"note": "majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican"
+				}
+			],
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2015"
+		},
+		"demographic_profile": "Egypt is the most populous country in the Arab world and the third most populous country in Africa, behind Nigeria and Ethiopia. Most of the country is desert, so about 95% of the population is concentrated in a narrow strip of fertile land along the Nile River, which represents only about 5% of Egypt’s land area. Egypt’s rapid population growth – 46% between 1994 and 2014 – stresses limited natural resources, jobs, housing, sanitation, education, and health care.\nAlthough the country’s total fertility rate (TFR) fell from roughly 5.5 children per woman in 1980 to just over 3 in the late 1990s, largely as a result of state-sponsored family planning programs, the population growth rate dropped more modestly because of decreased mortality rates and longer life expectancies. During the last decade, Egypt’s TFR decline stalled for several years and then reversed, reaching 3.6 in 2011, and has plateaued the last few years. Contraceptive use has held steady at about 60%, while preferences for larger families and early marriage may have strengthened in the wake of the recent 2011 revolution. The large cohort of women of or nearing childbearing age will sustain high population growth for the foreseeable future (an effect called population momentum).\nNevertheless, post-MUBARAK governments have not made curbing population growth a priority. To increase contraceptive use and to prevent further overpopulation will require greater government commitment and substantial social change, including encouraging smaller families and better educating and empowering women. Currently, literacy, educational attainment, and labor force participation rates are much lower for women than men. In addition, the prevalence of violence against women, the lack of female political representation, and the perpetuation of the nearly universal practice of female genital cutting continue to keep women from playing a more significant role in Egypt’s public sphere.\nPopulation pressure, poverty, high unemployment, and the fragmentation of inherited land holdings have historically motivated Egyptians, primarily young men, to migrate internally from rural and smaller urban areas in the Nile Delta region and the poorer rural south to Cairo, Alexandria, and other urban centers in the north, while a much smaller number migrated to the Red Sea and Sinai areas. Waves of forced internal migration also resulted from the 1967 Arab-Israeli War and the floods caused by the completion of the Aswan High Dam in 1970. Limited numbers of students and professionals emigrated temporarily prior to the early 1970s, when economic problems and high unemployment pushed the Egyptian Government to lift restrictions on labor migration. At the same time, high oil revenues enabled Saudi Arabia, Iraq, and other Gulf states, as well as Libya and Jordan, to fund development projects, creating a demand for unskilled labor (mainly in construction), which attracted tens of thousands of young Egyptian men.\nBetween 1970 and 1974 alone, Egyptian migrants in the Gulf countries increased from approximately 70,000 to 370,000. Egyptian officials encouraged legal labor migration both to alleviate unemployment and to generate remittance income (remittances continue to be one of Egypt’s largest sources of foreign currency and GDP). During the mid-1980s, however, depressed oil prices resulting from the Iran-Iraq War, decreased demand for low-skilled labor, competition from less costly South Asian workers, and efforts to replace foreign workers with locals significantly reduced Egyptian migration to the Gulf States. The number of Egyptian migrants dropped from a peak of almost 3.3 million in 1983 to about 2.2 million at the start of the 1990s, but numbers gradually recovered.\nIn the 2000s, Egypt began facilitating more labor migration through bilateral agreements, notably with Arab countries and Italy, but illegal migration to Europe through overstayed visas or maritime human smuggling via Libya also rose. The Egyptian Government estimated there were 6.5 million Egyptian migrants in 2009, with roughly 75% being temporary migrants in other Arab countries (Libya, Saudi Arabia, Jordan, Kuwait, and the United Arab Emirates) and 25% being predominantly permanent migrants in the West (US, UK, Italy, France, and Canada).\nDuring the 2000s, Egypt became an increasingly important transit and destination country for economic migrants and asylum seekers, including Palestinians, East Africans, and South Asians and, more recently, Iraqis and Syrians. Egypt draws many refugees because of its resettlement programs with the West; Cairo has one of the largest urban refugee populations in the world. Many East African migrants are interned or live in temporary encampments along the Egypt-Israel border, and some have been shot and killed by Egyptian border guards.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 33.62,
+				"males": 18112550,
+				"females": 16889155
+			},
+			"15_to_24": {
+				"percent": 18.01,
+				"males": 9684437,
+				"females": 9071163
+			},
+			"25_to_54": {
+				"percent": 37.85,
+				"males": 20032310,
+				"females": 19376847
+			},
+			"55_to_64": {
+				"percent": 6.08,
+				"males": 3160438,
+				"females": 3172544
+			},
+			"65_and_over": {
+				"percent": 4.44,
+				"males": 2213539,
+				"females": 2411457
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 64.6,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 55.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 11.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.5,
+				"units": "years"
+			},
+			"global_rank": 166,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.28,
+			"global_rank": 31,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 27.2,
+			"global_rank": 42,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 4.4,
+			"global_rank": 209,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.3,
+			"global_rank": 117,
+			"date": "2020"
+		},
+		"population_distribution": "approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 42.8,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.86,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Cairo",
+					"population": 20901000,
+					"is_capital": true
+				},
+				{
+					"place": "Alexandria",
+					"population": 5281000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.92,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.05,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.7,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 37,
+			"global_rank": 102,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 17.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 18.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 15.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 87,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 72.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 75.3,
+				"units": "years"
+			},
+			"global_rank": 140,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.29,
+			"global_rank": 45,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 58.5,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.8,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.4,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 98.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 1.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 97.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 2.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 26000,
+				"global_rank": 80,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"note": "clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring throughout Egypt; as of 10 November 2020, Egypt has reported a total of 108,962 cases of COVID-19 or 1,065 cumulative cases of COVID-19 per 1 million population with 62 cumulative deaths per 1 million population",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 32,
+			"global_rank": 18,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 7,
+			"global_rank": 73,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 71.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 76.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 65.5,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 29.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 25.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 38.3,
+				"units": "%"
+			},
+			"global_rank": 32,
+			"date": "2017"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Arab Republic of Egypt",
+			"conventional_short_form": "Egypt",
+			"local_long_form": "Jumhuriyat Misr al-Arabiyah",
+			"local_short_form": "Misr",
+			"former": "United Arab Republic (with Syria)",
+			"etymology": "the English name \"Egypt\" derives from the ancient Greek name for the country \"Aigyptos\"; the Arabic name \"Misr\" can be traced to the ancient Akkadian \"misru\" meaning border or frontier"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Cairo",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 30,
+					"minutes": 3,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 31,
+					"minutes": 15,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "from the Arabic \"al-Qahira,\" meaning \"the victorious\""
+		},
+		"independence": {
+			"date": "1922-02-28"
+		},
+		"national_holidays": [
+			{
+				"name": "Revolution Day",
+				"day": "23 July",
+				"original_year": "1952"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest approved by a constitutional committee in December 2013, approved by referendum held on 14-15 January 2014, ratified by interim president on 19 January 2014",
+			"amendments": "proposed by the president of the republic or by one fifth of the House of Representatives members; a decision to accept the proposal requires majority vote by House members; passage of amendment requires a two-thirds majority vote by House members and passage by majority vote in a referendum; articles of reelection of the president and principles of freedom are not amendable unless the amendment \"brings more guarantees;\" amended 2019"
+		},
+		"legal_system": "mixed legal system based on Napoleonic civil and penal law, Islamic religious law, and vestiges of colonial-era laws; judicial review of the constitutionality of laws by the Supreme Constitutional Court",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "if the father was born in Egypt",
+			"dual_citizenship_recognized": "only with prior permission from the government",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": true
+		},
+		"executive_branch": {
+			"chief_of_state": "President Abdelfattah ELSISI (since 8 June 2014)",
+			"head_of_government": "Prime Minister Mostafa MADBOULY (since 7 June 2018)",
+			"cabinet": "Cabinet ministers nominated by the executive branch and approved by the House of Representatives",
+			"elections_appointments": "president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 26-28 March 2018 (next to be held in 2024); prime minister appointed by the president, approved by the House of Representatives; note - following  a constitutional amendment approved by referendum in April 2019, the presidential term was extended from 4 to 6 years and eligibility extended to 3 consecutive terms",
+			"election_results": "Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: Senate (Majlis Al-Shiyoukh) (300 seats; 100 members elected in single seat constituencies, 100 elected by closed party-list system, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020\nHouse of Representatives (Majlis Al-Nowaab) (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms",
+			"elections": "Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round to be held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)\nHouse of Representatives - last held from 17 October to 2 December 2015 (next to be held 24-25 October and 7-8 November 2020)",
+			"election_results": "Senate first round results - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - NA\nHouse of Representatives (2015) - percent of vote by party - NA; seats by party - Free Egyptians Party 65, Future of the Nation 53, New Wafd Party 36, Homeland's Protector Party 18, Republican People's Party 13, Congress Party 12, Al-Nour Party 11, Conservative Party 6, Democratic Peace Party 5, Egyptian National Movement 4, Egyptian Social Democratic Party 4, Modern Egypt Party 4, Freedom Party 3, My Homeland Egypt Party 3, Reform and Development Party 3, National Progressive Unionist Party 2, Arab Democratic Nasserist Party 1, El Serh El Masry el Hor 1, Revolutionary Guards Party 1, independent 351; composition - men 507, women 89, percent of women 14.9%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as \"ordinary justices\"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council",
+			"judge_selection_and_term_of_office": "under the 2014 constitution, all judges and justices selected and appointed by the Supreme Judiciary Council and approved as a formality by the president of the Republic; judges appointed for life; under the 2019 amendments, the president has the power to appoint heads of judiciary authorities and courts, the prosecutor general, and the head of the Supreme Constitutional Court",
+			"subordinate_courts": "Courts of Appeal; Courts of First Instance; courts of limited jurisdiction; Family Court (established in 2004)"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Al-Nour",
+					"leaders": [
+						"Yunis MAKHYUN"
+					]
+				},
+				{
+					"name": "Arab Democratic Nasserist Party",
+					"leaders": [
+						"Dr. Mohamed ABDUL ELLA "
+					]
+				},
+				{
+					"name": "Congress Party",
+					"leaders": [
+						"Omar Al-Mokhtar SEMIDA"
+					]
+				},
+				{
+					"name": "Conservative Party",
+					"leaders": [
+						"Akmal KOURTAM"
+					]
+				},
+				{
+					"name": "Democratic Peace Party",
+					"leaders": [
+						"Ahmed FADALY"
+					]
+				},
+				{
+					"name": "Egyptian National Movement Party",
+					"leaders": [
+						"Gen. Raouf EL SAYED"
+					]
+				},
+				{
+					"name": "Egyptian Social Democratic Party",
+					"leaders": [
+						"Farid ZAHRAN"
+					]
+				},
+				{
+					"name": "El Ghad Party",
+					"leaders": [
+						"Moussa Mostafa MOUSSA"
+					]
+				},
+				{
+					"name": "El Serh El Masry el Hor",
+					"leaders": [
+						"Tarek Ahmed Abbas NADIM"
+					]
+				},
+				{
+					"name": "Freedom Party",
+					"leaders": [
+						"Salah HASSABALAH"
+					]
+				},
+				{
+					"name": "Free Egyptians Party",
+					"leaders": [
+						"Essam KHALIL"
+					]
+				},
+				{
+					"name": "Homeland’s Protector Party",
+					"leaders": [
+						"Lt. Gen.  Galal AL-HARIDI"
+					],
+					"note": "retired"
+				},
+				{
+					"name": "Modern Egypt Party",
+					"leaders": [
+						"Nabil DEIBIS"
+					]
+				},
+				{
+					"name": "Nation's Future Party ",
+					"leaders": [
+						"Mohamed Ashraf RASHAD"
+					],
+					"note": "Mostaqbal Watan"
+				},
+				{
+					"name": "My Homeland Egypt Party",
+					"leaders": [
+						"Gen. Seif El Islam ABDEL BARY "
+					]
+				},
+				{
+					"name": "National Progressive Unionist  Party",
+					"leaders": [
+						"Sayed Abdel AAL"
+					],
+					"note": "Tagammu"
+				},
+				{
+					"name": "Reform and Development Party",
+					"leaders": [
+						"Mohamad Anwar al-SADAT"
+					]
+				},
+				{
+					"name": "Republican People’s Party",
+					"leaders": [
+						"Hazim AMR"
+					]
+				},
+				{
+					"name": "Revolutionary Guards Party",
+					"leaders": [
+						"Magdy EL-SHARIF"
+					]
+				},
+				{
+					"name": "Wafd Party",
+					"note": "party chairman Bahaa ABU SHOKA resigned in late September 2020"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "D-8"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OSCE ",
+				"note": "partner"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)",
+				"chancery": "3521 International Court NW, Washington, DC 20008",
+				"telephone": "[1] (202) 895-5400",
+				"fax": "[1] (202) 244-5131",
+				"consulates_general": "Chicago, Houston, Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Jonathan R. COHEN (since 17 November 2019)",
+				"telephone": "[20-2] 2797-3300",
+				"embassy": "5 Tawfik Diab St., Garden City, Cairo",
+				"mailing_address": "Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo",
+				"fax": "[20-2] 2797-3200"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)",
+			"note": "similar to the flag of Syria, which has two green stars in the white band, Iraq, which has an Arabic inscription centered in the white band, and Yemen, which has a plain white band"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "golden eagle"
+				},
+				{
+					"symbol": "white lotus"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "black"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Bilady, Bilady, Bilady\" (My Homeland, My Homeland, My Homeland)",
+			"lyrics_music": "Younis-al QADI/Sayed DARWISH",
+			"note": "adopted 1979; the current anthem, less militaristic than the previous one, was created after the signing of the 1979 peace treaty with Israel; Sayed DARWISH, commonly considered the father of modern Egyptian music, composed the anthem",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/EG.mp3?1538604752"
+		}
+	},
+	"economy": {
+		"overview": "Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.\nDespite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.\nIn late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 1204000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1155000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1107000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 21,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 236500000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.2,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 4.4,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 68
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 12700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 12800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 12400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 124,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 86.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 10.1,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 14.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 16.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -28.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 11.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 34.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 54,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 9.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 10.6,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 166
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"rice",
+				"corn",
+				"wheat",
+				"beans",
+				"fruits",
+				"vegetables",
+				"cattle",
+				"water buffalo",
+				"sheep",
+				"goats"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"food processing",
+				"tourism",
+				"chemicals",
+				"pharmaceuticals",
+				"hydrocarbons",
+				"construction",
+				"cement",
+				"metals",
+				"light manufactures"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.5,
+			"global_rank": 84,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 24113000,
+				"global_rank": 22,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 25.8,
+						"units": "%"
+					},
+					"industry": {
+						"value": 25.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 49.1,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.86,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 12.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 121
+		},
+		"population_below_poverty_line": {
+			"value": 27.8,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 26.6,
+				"units": "%"
+			},
+			"date": "2008"
+		},
+		"budget": {
+			"revenues": {
+				"value": 42320000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 62610000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 17.9,
+			"global_rank": 165,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -8.6,
+			"global_rank": 202,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 103,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 96.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 14,
+			"note": "data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 July",
+			"end": "30 June"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 23.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 10.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 217
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -8915000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -7682000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 190
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 23300000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 20020000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 67
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"petroleum products",
+					"fruits",
+					"vegetables",
+					"cotton",
+					"textiles",
+					"metal products",
+					"chemicals",
+					"processed food"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "UAE",
+						"percent": 10.9
+					},
+					{
+						"name": "Italy",
+						"percent": 10
+					},
+					{
+						"name": "US",
+						"percent": 7.4
+					},
+					{
+						"name": "UK",
+						"percent": 5.7
+					},
+					{
+						"name": "Turkey",
+						"percent": 4.4
+					},
+					{
+						"name": "Germany",
+						"percent": 4.3
+					},
+					{
+						"name": "India",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 59780000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 57840000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 50
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"equipment",
+					"foodstuffs",
+					"chemicals",
+					"wood products",
+					"fuels"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 7.9
+					},
+					{
+						"name": "UAE",
+						"percent": 5.2
+					},
+					{
+						"name": "Germany",
+						"percent": 4.8
+					},
+					{
+						"name": "Saudi Arabia",
+						"percent": 4.6
+					},
+					{
+						"name": "US",
+						"percent": 4.4
+					},
+					{
+						"name": "Russia",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 35890000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 23200000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 47
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 77470000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 62380000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 56
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 18.05,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 8.8,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 10.07,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 7.7133,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 7.08,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Egyptian pounds (EGP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 183500000000,
+				"global_rank": 22,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 159700000000,
+				"global_rank": 23,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1158000000,
+				"global_rank": 57,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 54000000,
+				"global_rank": 106,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 45120000,
+				"global_rank": 23,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 91,
+					"global_rank": 54,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 82,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 6,
+					"global_rank": 129,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 139,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 639000,
+				"global_rank": 27,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 246500,
+				"global_rank": 29,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 64760,
+				"global_rank": 51,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 4400000000,
+				"global_rank": 24,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 547500,
+				"global_rank": 31,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 878000,
+				"global_rank": 25,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 47360,
+				"global_rank": 56,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 280200,
+				"global_rank": 26,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 50860000000,
+				"global_rank": 16,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 57710000000,
+				"global_rank": 13,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 212400000,
+				"global_rank": 45,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 7079000000,
+				"global_rank": 29,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 2186000000000,
+				"global_rank": 15,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 232700000,
+			"global_rank": 30,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 8885103,
+				"subscriptions_per_one_hundred_inhabitants": 8.73,
+				"global_rank": 19,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 96657295,
+				"subscriptions_per_one_hundred_inhabitants": 94.97,
+				"global_rank": 17,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "mix of state-run and private broadcast media; state-run TV operates 2 national and 6 regional terrestrial networks, as well as a few satellite channels; dozens of private satellite channels and a large number of Arabic satellite channels are available for free; some limited satellite services are also available via subscription; state-run radio operates about 30 stations belonging to 8 networks; privately-owned radio includes 8 major stations, 4 of which belong to 1 network (2019)",
+		"internet": {
+			"country_code": ".eg",
+			"users": {
+				"total": 46644728,
+				"percent_of_population": 46.92,
+				"global_rank": 18,
+				"date": "2018-07-01"
+			}
+		},
+		"note": "one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence"
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 14,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 101,
+				"annual_passenger_traffic_on_registered_air_carriers": 12340832,
+				"annual_freight_traffic_on_registered_air_carriers": 437630000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "SU",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 83,
+					"global_rank": 65,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 72,
+					"over_3047_metres": 15,
+					"2438_to_3047_metres": 36,
+					"1524_to_2437_metres": 15,
+					"under_914_metres": 6,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 11,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 3,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 7,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 486,
+					"units": "km"
+				},
+				{
+					"type": "condensate/gas",
+					"length": 74,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 7986,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 957,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 5225,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 37,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 895,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 65,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 5085,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 5085,
+				"electrified": 62,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 39,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 65050,
+				"units": "km"
+			},
+			"paved": {
+				"value": 48000,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 17050,
+				"units": "km"
+			},
+			"global_rank": 74,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 3500,
+			"units": "km",
+			"note": "includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches; ; ",
+			"global_rank": 29
+		},
+		"merchant_marine": {
+			"total": 393,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 13
+				},
+				{
+					"type": "container ship",
+					"count": 7
+				},
+				{
+					"type": "general cargo",
+					"count": 28
+				},
+				{
+					"type": "oil tanker",
+					"count": 36
+				},
+				{
+					"type": "other",
+					"count": 309
+				}
+			],
+			"global_rank": 45,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Mediterranean Sea - Alexandria",
+				"Damietta",
+				"El Dekheila",
+				"Port Said"
+			],
+			"oil_terminals": [
+				"Ain Sukhna terminal",
+				"Sidi Kerir terminal"
+			],
+			"container_ports": [
+				{
+					"place": "Alexandria",
+					"twenty_foot_equivalent_units": 1613000
+				},
+				{
+					"place": "Port Said",
+					"twenty_foot_equivalent_units": 2968308
+				}
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Damietta",
+				"Idku (Abu Qir Bay)\nGulf of Suez - Suez"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.2,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 102
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-30 years of age for male conscript military service; service obligation - 18-36 months, followed by a 9-year reserve obligation; voluntary enlistment possible from age 15",
+			"date": "2017"
+		},
+		"note": "since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of early 2020, Egypt reportedly had over 40,000 troops plus thousands of police and other security personnel deployed to the Sinai for internal security duties where more than 1,000 have been killed\nthe military has a large stake in the civilian economy, including running businesses, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing developments (2020)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary",
+			"Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps",
+			"Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border",
+			"Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 70010,
+						"country_of_origin": "West Bank and Gaza Strip"
+					},
+					{
+						"people": 130085,
+						"country_of_origin": "Syria",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 49290,
+						"country_of_origin": "Sudan",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 19814,
+						"country_of_origin": "South Sudan",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 19200,
+						"country_of_origin": "Eritrea",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 16181,
+						"country_of_origin": "Ethiopia",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 9259,
+						"country_of_origin": "Yemen",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 6824,
+						"country_of_origin": "Iraq",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 6755,
+						"country_of_origin": "Somalia",
+						"date": "2020",
+						"note": "refugees and asylum seekers"
+					}
+				],
+				"date": "2019"
+			},
+			"internally_displaced_persons": {
+				"people": 97000,
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 5,
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Egypt is a source, transit, and destination country for men, women, and children subjected to sex trafficking and forced labor; Egyptian children, including the large population of street children are vulnerable to forced labor in domestic service, begging and agriculture or may be victims of sex trafficking or child sex tourism, which occurs in Cairo, Alexandria, and Luxor; some Egyptian women and girls are sold into \"temporary\" or \"summer\" marriages with Gulf men, through the complicity of their parents or marriage brokers, and are exploited for prostitution or forced labor; Egyptian men are subject to forced labor in neighboring countries, while adults from South and Southeast Asia and East Africa – and increasingly Syrian refugees – are forced to work in domestic service, construction, cleaning, and begging in Egypt; women and girls, including migrants and refugees, from Asia, Sub-Saharan Africa, and the Middle East are sex trafficked in Egypt; the Egyptian military cracked down on criminal group’s smuggling, abducting, trafficking, and extorting African migrants in the Sinai Peninsula, but the practice has reemerged along Egypt’s western border with Libya",
+			"tier_rating": "Tier 2 Watch List – Egypt does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government gathered data nationwide on trafficking cases to better allocate and prioritize anti-trafficking efforts, but overall it did not demonstrate increased progress; prosecutions increased in 2014, but no offenders were convicted for the second consecutive year; fewer trafficking victims were identified in 2014, which represents a significant and ongoing decrease from the previous two reporting periods; the government relied on NGOs and international organizations to identify and refer victims to protective services, and focused on Egyptian victims and refused to provide some services to foreign victims, at times including shelter (2015)"
+		},
+		"illicit_drugs": {
+			"note": "transit point for cannabis, heroin, and opium moving to Europe, Israel, and North Africa; transit stop for Nigerian drug couriers; concern as money laundering site due to lax enforcement of financial regulations"
+		}
+	}
+}

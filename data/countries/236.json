@@ -1,0 +1,1967 @@
+{
+	"name": "Turkey",
+	"introduction": {
+		"background": "Modern Turkey was founded in 1923 from the remnants of the defeated Ottoman Empire by national hero Mustafa KEMAL, who was later honored with the title Ataturk or \"Father of the Turks.\" Under his leadership, the country adopted radical social, legal, and political reforms. After a period of one-party rule, an experiment with multi-party politics led to the 1950 election victory of the opposition Democrat Party and the peaceful transfer of power. Since then, Turkish political parties have multiplied, but democracy has been fractured by periods of instability and military coups (1960, 1971, 1980), which in each case eventually resulted in a return of formal political power to civilians. In 1997, the military again helped engineer the ouster - popularly dubbed a \"post-modern coup\" - of the then Islamic-oriented government. An unsuccessful coup attempt was made in July 2016 by a faction of the Turkish Armed Forces.\nTurkey intervened militarily on Cyprus in 1974 to prevent a Greek takeover of the island and has since acted as patron state to the \"Turkish Republic of Northern Cyprus,\" which only Turkey recognizes. A separatist insurgency begun in 1984 by the Kurdistan Workers' Party (PKK), a US-designated terrorist organization, has long dominated the attention of Turkish security forces and claimed more than 40,000 lives. In 2013, the Turkish Government and the PKK conducted negotiations aimed at ending the violence, however intense fighting resumed in 2015. Turkey joined the UN in 1945 and in 1952 it became a member of NATO. In 1963, Turkey became an associate member of the European Community; it began accession talks with the EU in 2005. Over the past decade, economic reforms, coupled with some political reforms, have contributed to a growing economy, although economic growth slowed in recent years.\nFrom 2015 and continuing through 2016, Turkey witnessed an uptick in terrorist violence, including major attacks in Ankara, Istanbul, and throughout the predominantly Kurdish southeastern region of Turkey. On 15 July 2016, elements of the Turkish Armed forces attempted a coup that ultimately failed following widespread popular resistance. More than 240 people were killed and over 2,000 injured when Turkish citizens took to the streets en masse to confront the coup forces. The government accused followers of the Fethullah Gulen transnational religious and social movement (\"Hizmet\") for allegedly instigating the failed coup and designates the movement’s followers as terrorists. Since the attempted coup, Turkish Government authorities arrested, suspended, or dismissed more than 130,000 security personnel, journalists, judges, academics, and civil servants due to their alleged connection to Gulen's movement. Following the failed coup, the Turkish Government instituted a State of Emergency from July 2016 to July 2018. The Turkish Government conducted a referendum on 16 April 2017 in which voters approved constitutional amendments changing Turkey from a parliamentary to a presidential system. The amendments went into effect fully following the presidential and parliamentary elections in June 2018."
+	},
+	"geography": {
+		"location": "Southeastern Europe and Southwestern Asia (that portion of Turkey west of the Bosporus is geographically part of Europe), bordering the Black Sea, between Bulgaria and Georgia, and bordering the Aegean Sea and the Mediterranean Sea, between Greece and Syria",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 39,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 35,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 783562,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 769632,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 13930,
+				"units": "sq km"
+			},
+			"global_rank": 38,
+			"comparative": "slightly larger than Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2816,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Armenia",
+					"border_length": {
+						"value": 311,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Azerbaijan",
+					"border_length": {
+						"value": 17,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Bulgaria",
+					"border_length": {
+						"value": 223,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Georgia",
+					"border_length": {
+						"value": 273,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Greece",
+					"border_length": {
+						"value": 192,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Iran",
+					"border_length": {
+						"value": 534,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Iraq",
+					"border_length": {
+						"value": 367,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Syria",
+					"border_length": {
+						"value": 899,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 7200,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 6,
+				"units": "nm",
+				"note": "in the Aegean Sea"
+			},
+			"exclusive_economic_zone": {
+				"value": 12,
+				"units": "nm",
+				"note": "in Black Sea and in Mediterranean Sea"
+			}
+		},
+		"climate": "temperate; hot, dry summers with mild, wet winters; harsher in interior",
+		"terrain": "high central plateau (Anatolia); narrow coastal plain; several mountain ranges",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1132,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Mediterranean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Ararat",
+				"elevation": {
+					"value": 5137,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"iron ore",
+				"copper",
+				"chromium",
+				"antimony",
+				"mercury",
+				"gold",
+				"barite",
+				"borate",
+				"celestite",
+				"strontium",
+				"emery",
+				"feldspar",
+				"limestone",
+				"magnesite",
+				"marble",
+				"perlite",
+				"pumice",
+				"pyrites",
+				"sulfur",
+				"clay",
+				"arable land",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 49.7,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 26.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 19,
+					"units": "%"
+				},
+				"forest": {
+					"value": 14.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 35.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 52150,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast",
+		"natural_hazards": [
+			{
+				"description": "severe earthquakes, especially in northern Turkey, along an arc extending from the Sea of Marmara to Lake Van",
+				"type": "hazard"
+			},
+			{
+				"description": "landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "limited volcanic activity; its three historically active volcanoes; Ararat, Nemrut Dagi, and Tendurek Dagi have not erupted since the 19th century or earlier",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution from dumping of chemicals and detergents",
+				"air pollution",
+				"particularly in urban areas",
+				"deforestation",
+				"land degradation",
+				"concern for oil spills from increasing Bosporus ship traffic",
+				"conservation of biodiversity"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Environmental Modification"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 82017514,
+			"global_rank": 18,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Turk(s)",
+			"adjective": "Turkish"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Turkish",
+					"percent": 70
+				},
+				{
+					"name": "Kurdish",
+					"percent": 19
+				},
+				{
+					"name": "other minorities",
+					"percent": 7
+				}
+			],
+			"date": "2016"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Turkish",
+					"note": "official"
+				},
+				{
+					"name": "Kurdish"
+				},
+				{
+					"name": "other minority languages"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 99.8,
+					"note": "mostly Sunni"
+				},
+				{
+					"name": "other",
+					"percent": 0.2,
+					"note": "mostly Christians and Jews"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 23.41,
+				"males": 9823553,
+				"females": 9378767
+			},
+			"15_to_24": {
+				"percent": 15.67,
+				"males": 6564263,
+				"females": 6286615
+			},
+			"25_to_54": {
+				"percent": 43.31,
+				"males": 17987103,
+				"females": 17536957
+			},
+			"55_to_64": {
+				"percent": 9.25,
+				"males": 3764878,
+				"females": 3822946
+			},
+			"65_and_over": {
+				"percent": 8.35,
+				"males": 3070258,
+				"females": 3782174
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 49.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 35.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.4,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.5,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 32.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 31.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 32.8,
+				"units": "years"
+			},
+			"global_rank": 111,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.45,
+			"global_rank": 159,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.8,
+			"global_rank": 123,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.1,
+			"global_rank": 161,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -4.3,
+			"global_rank": 191,
+			"date": "2020"
+		},
+		"population_distribution": "the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast",
+		"urbanization": {
+			"urban_population": {
+				"value": 76.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.04,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Istanbul",
+					"population": 15190000
+				},
+				{
+					"place": "Ankara",
+					"population": 5118000,
+					"is_capital": true
+				},
+				{
+					"place": "Izmir",
+					"population": 2993000
+				},
+				{
+					"place": "Bursa",
+					"population": 1986000
+				},
+				{
+					"place": "Adana",
+					"population": 1771000
+				},
+				{
+					"place": "Gaziantep",
+					"population": 1704000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.81,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.3,
+			"date": "2010"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 17,
+			"global_rank": 133,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 15.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 16.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 14.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 95,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.2,
+				"units": "years"
+			},
+			"global_rank": 110,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.96,
+			"global_rank": 118,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 69.8,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.85,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.8,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.9,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 91.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 8.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 10 November 2020, Turkey has reported a total of 391,739 cases of COVID-19 or 4,645 cumulative cases of COVID-19 per 1 million population with 128 cumulative deaths per 1 million population",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 32.1,
+			"global_rank": 17,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1.5,
+			"global_rank": 121,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.3,
+			"global_rank": 91,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 96.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 93.5,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 19,
+				"units": "years"
+			},
+			"female": {
+				"value": 18,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 20.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 17.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 25,
+				"units": "%"
+			},
+			"global_rank": 68,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Turkey",
+			"conventional_short_form": "Turkey",
+			"local_long_form": "Turkiye Cumhuriyeti",
+			"local_short_form": "Turkiye",
+			"etymology": "the name means \"Land of the Turks\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Ankara",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 39,
+					"minutes": 56,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 32,
+					"minutes": 52,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning \"anchor\" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara"
+		},
+		"independence": {
+			"date": "1923-10-29",
+			"note": "republic proclaimed, succeeding the Ottoman Empire"
+		},
+		"national_holidays": [
+			{
+				"name": "Republic Day",
+				"day": "29 October",
+				"original_year": "1923"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest ratified 9 November 1982",
+			"amendments": "proposed by written consent of at least one third of Grand National Assembly of Turkey (TBMM) members; adoption of draft amendments requires two debates in plenary TBMM session and three-fifths majority vote of all GNA members; the president of the republic can request TBMM reconsideration of the amendment and, if readopted by two-thirds majority TBMM vote, the president may submit the amendment to a referendum; passage by referendum requires absolute majority vote; amended several times, last in 2017"
+		},
+		"legal_system": "civil law system based on various European legal systems, notably the Swiss civil code",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Turkey",
+			"dual_citizenship_recognized": "yes, but requires prior permission from the government",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2019); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Recep Tayyip ERDOGAN (head of government since 9 July 2019; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election",
+			"cabinet": "Council of Ministers appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2018 (next scheduled for June 2023)",
+			"election_results": "Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)",
+			"elections": "last held on 24 June 2018 (next to be held in June 2023)",
+			"election_results": "percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats"
+		},
+		"judicial_branch": {
+			"highest_courts": "Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)",
+			"judge_selection_and_term_of_office": "Constitutional Court members - 3 appointed by the Grand National Assembly and 12 by the president of the republic; court president and 2 deputy court presidents appointed from among its members for 4-year terms; judges serve 12-year, nonrenewable terms with mandatory retirement at age 65; Court of Cassation judges appointed by the Board of Judges and Prosecutors, a 13-member body of judicial officials; Court of Cassation judges serve until retirement at age 65; Council of State members appointed by the Board and by the president of the republic; members serve renewable, 4-year terms",
+			"subordinate_courts": "regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Democrat Party",
+					"name_alternative": "DP",
+					"leaders": [
+						"Gultekin UYSAL"
+					]
+				},
+				{
+					"name": "Democratic Regions Party",
+					"name_alternative": "DBP",
+					"leaders": [
+						"Sebahat TUNCEL",
+						"Mehmet ARSLAN"
+					]
+				},
+				{
+					"name": "Felicity Party",
+					"name_alternative": "SP",
+					"leaders": [
+						"Temel KARAMOLLAOGLU"
+					]
+				},
+				{
+					"name": "Free Cause Party",
+					"name_alternative": "HUDAPAR",
+					"leaders": [
+						"Ishak SAGLAM"
+					]
+				},
+				{
+					"name": "Good Party",
+					"name_alternative": "TYIi",
+					"leaders": [
+						"Meral AKSENER"
+					]
+				},
+				{
+					"name": "Grand Unity Party",
+					"name_alternative": "BBP",
+					"leaders": [
+						"Mustafa DESTICI"
+					]
+				},
+				{
+					"name": "Justice and Development Party",
+					"name_alternative": "AKP",
+					"leaders": [
+						"Recep Tayyip ERDOGAN"
+					]
+				},
+				{
+					"name": "Nation Alliance  ",
+					"note": "CHP, IYI, SP; electoral alliance"
+				},
+				{
+					"name": "Nationalist Movement Party",
+					"name_alternative": "MHP",
+					"leaders": [
+						"Devlet BAHCELI"
+					]
+				},
+				{
+					"name": "People's Alliance  ",
+					"note": "AKP, MHP; electoral alliance"
+				},
+				{
+					"name": "Patriotic Party",
+					"name_alternative": "VP",
+					"leaders": [
+						"Dogu PERINCEK"
+					]
+				},
+				{
+					"name": "People's Democratic Party",
+					"name_alternative": "HDP",
+					"leaders": [
+						"Pervin BULDAN",
+						"Sezai TEMELLI"
+					]
+				},
+				{
+					"name": "Republican People's Party",
+					"name_alternative": "CHP",
+					"leaders": [
+						"Kemal KILICDAROGLU"
+					]
+				}
+			],
+			"note": "� as of December 2018, 83 political parties were legally registered"
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN ",
+				"note": "observer"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CPLP ",
+				"note": "associate observer"
+			},
+			{
+				"organization": "D-8"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECO"
+			},
+			{
+				"organization": "EU ",
+				"note": "candidate country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club ",
+				"note": "associate"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "SCO ",
+				"note": "dialogue member"
+			},
+			{
+				"organization": "SELEC"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Serdar KILIC (since 21 May 2014)",
+				"chancery": "2525 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 612-6700",
+				"fax": "[1] (202) 612-6744",
+				"consulates_general": "Boston, Chicago, Houston, Los Angeles, Miami, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador David M. SATTERFIELD (since 28 August 2019)",
+				"telephone": "[90] (312) 455-5555",
+				"embassy": "110 Ataturk Boulevard, Kavaklidere, 06100 Ankara",
+				"mailing_address": "PSC 93, Box 5000, APO AE 09823",
+				"fax": "[90] (312) 467-0019",
+				"consulates_general": "Istanbul",
+				"consulates": "Adana"
+			}
+		},
+		"flag_description": {
+			"description": "red with a vertical white crescent moon (the closed portion is toward the hoist side) and white five-pointed star centered just outside the crescent opening; the flag colors and designs closely resemble those on the banner of the Ottoman Empire, which preceded modern-day Turkey; the crescent moon and star serve as insignia for Turkic peoples; according to one interpretation, the flag represents the reflection of the moon and a star in a pool of blood of Turkish warriors"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "vertical crescent moon with adjacent five-pointed star"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Istiklal Marsi\" (Independence March)",
+			"lyrics_music": "Mehmet Akif ERSOY/Zeki UNGOR",
+			"note": "lyrics adopted 1921, music adopted 1932; the anthem's original music was adopted in 1924; a new composition was agreed upon in 1932",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/TU.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "Turkey's largely free-market economy is driven by its industry and, increasingly, service sectors, although its traditional agriculture sector still accounts for about 25% of employment. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey's export mix. However, the recent period of political stability and economic dynamism has given way to domestic uncertainty and security concerns, which are generating financial market volatility and weighing on Turkey’s economic outlook.\nCurrent government policies emphasize populist spending measures and credit breaks, while implementation of structural economic reforms has slowed. The government is playing a more active role in some strategic sectors and has used economic institutions and regulators to target political opponents, undermining private sector confidence in the judicial system. Between July 2016 and March 2017, three credit ratings agencies downgraded Turkey’s sovereign credit ratings, citing concerns about the rule of law and the pace of economic reforms.\nTurkey remains highly dependent on imported oil and gas but is pursuing energy relationships with a broader set of international partners and taking steps to increase use of domestic energy sources including renewables, nuclear, and coal. The joint Turkish-Azerbaijani Trans-Anatolian Natural Gas Pipeline is moving forward to increase transport of Caspian gas to Turkey and Europe, and when completed will help diversify Turkey's sources of imported gas.\nAfter Turkey experienced a severe financial crisis in 2001, Ankara adopted financial and fiscal reforms as part of an IMF program. The reforms strengthened the country's economic fundamentals and ushered in an era of strong growth, averaging more than 6% annually until 2008. An aggressive privatization program also reduced state involvement in basic industry, banking, transport, power generation, and communication. Global economic conditions and tighter fiscal policy caused GDP to contract in 2009, but Turkey's well-regulated financial markets and banking system helped the country weather the global financial crisis, and GDP growth rebounded to around 9% in 2010 and 2011, as exports and investment recovered following the crisis.\nThe growth of Turkish GDP since 2016 has revealed the persistent underlying imbalances in the Turkish economy. In particular, Turkey’s large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. Other troublesome trends include rising unemployment and inflation, which increased in 2017, given the Turkish lira’s continuing depreciation against the dollar. Although government debt remains low at about 30% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2186000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2033999999999.9998,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 1972000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 13,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 851500000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.98,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.04,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 7.54,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 174
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 27000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 25500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 25000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 77,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 59.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 29.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 24.9,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -29.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.8,
+							"units": "%"
+						},
+						"industry": {
+							"value": 32.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 60.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 25.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 24.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 57
+		},
+		"agriculture_products": {
+			"products": [
+				"tobacco",
+				"cotton",
+				"grain",
+				"olives",
+				"sugar beets",
+				"hazelnuts",
+				"pulses",
+				"citrus",
+				"livestock"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"food processing",
+				"automobiles",
+				"electronics",
+				"mining",
+				"coal",
+				"chromate",
+				"copper",
+				"boron",
+				"steel",
+				"petroleum",
+				"construction",
+				"lumber",
+				"paper"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 9.1,
+			"global_rank": 18,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 25677000,
+				"global_rank": 20,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 18.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 26.6,
+						"units": "%"
+					},
+					"services": {
+						"value": 54.9,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 13.68,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 11,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 169
+		},
+		"population_below_poverty_line": {
+			"value": 21.9,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.1,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 30.3,
+				"units": "%"
+			},
+			"date": "2008"
+		},
+		"budget": {
+			"revenues": {
+				"value": 172800000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 185800000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.3,
+			"global_rank": 151,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.5,
+			"global_rank": 91,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 28.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 28.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 169
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 11.1,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 7.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 204
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 8561000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -20745000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 26
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 166200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 150200000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 30
+			},
+			"commodities": {
+				"by_commodity": [
+					"apparel",
+					"foodstuffs",
+					"textiles",
+					"metal manufactures",
+					"transport equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 9.6
+					},
+					{
+						"name": "UK",
+						"percent": 6.1
+					},
+					{
+						"name": "UAE",
+						"percent": 5.9
+					},
+					{
+						"name": "Iraq",
+						"percent": 5.8
+					},
+					{
+						"name": "US",
+						"percent": 5.5
+					},
+					{
+						"name": "Italy",
+						"percent": 5.4
+					},
+					{
+						"name": "France",
+						"percent": 4.2
+					},
+					{
+						"name": "Spain",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 225100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 191100000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 22
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"chemicals",
+					"semi-finished goods",
+					"fuels",
+					"transport equipment"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 10
+					},
+					{
+						"name": "Germany",
+						"percent": 9.1
+					},
+					{
+						"name": "Russia",
+						"percent": 8.4
+					},
+					{
+						"name": "US",
+						"percent": 5.1
+					},
+					{
+						"name": "Italy",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 107700000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 106100000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 24
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 452400000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 404900000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 26
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.628,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.0201,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.0201,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 2.72,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.1885,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Turkish liras (TRY) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 261899999999.99997,
+				"global_rank": 16,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 231100000000,
+				"global_rank": 18,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 1442000000,
+				"global_rank": 49,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 6330000000,
+				"global_rank": 31,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 78500000,
+				"global_rank": 15,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 53,
+					"global_rank": 144,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 199,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 33,
+					"global_rank": 64,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 14,
+					"global_rank": 64,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 55000,
+				"global_rank": 51,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 208,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 521500,
+				"global_rank": 17,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 341600000,
+				"global_rank": 51,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 657900,
+				"global_rank": 27,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 989900,
+				"global_rank": 21,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 141600,
+				"global_rank": 37,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 560000,
+				"global_rank": 16,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 368100000,
+				"global_rank": 75,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 53600000000,
+				"global_rank": 15,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 622900000,
+				"global_rank": 42,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 55130000000,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 5097000000,
+				"global_rank": 92,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 379500000,
+			"global_rank": 17,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 11283768,
+				"subscriptions_per_one_hundred_inhabitants": 13.82,
+				"global_rank": 17,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 79068023,
+				"subscriptions_per_one_hundred_inhabitants": 96.84,
+				"global_rank": 20,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "Turkish Radio and Television Corporation (TRT) operates multiple TV and radio networks and stations; multiple privately owned national television stations and 567 private regional and local television stations; multi-channel cable TV subscriptions available; 1,007 private radio broadcast stations (2019)",
+		"internet": {
+			"country_code": ".tr",
+			"users": {
+				"total": 57725143,
+				"percent_of_population": 71.04,
+				"global_rank": 15,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 11,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 618,
+				"annual_passenger_traffic_on_registered_air_carriers": 115595495,
+				"annual_freight_traffic_on_registered_air_carriers": 5949210000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "TC",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 98,
+					"global_rank": 58,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 91,
+					"over_3047_metres": 16,
+					"2438_to_3047_metres": 38,
+					"1524_to_2437_metres": 17,
+					"914_to_1523_metres": 16,
+					"under_914_metres": 4,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 7,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 4,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 20,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 666,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 293,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 12710,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 11497,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 21,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 67333,
+				"units": "km"
+			},
+			"paved": {
+				"value": 24082,
+				"units": "km",
+				"note": "includes 2,159 km of expressways"
+			},
+			"unpaved": {
+				"value": 43251,
+				"units": "km"
+			},
+			"global_rank": 73,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 1200,
+			"units": "km",
+			"global_rank": 60,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 1234,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 57
+				},
+				{
+					"type": "container ship",
+					"count": 54
+				},
+				{
+					"type": "general cargo",
+					"count": 363
+				},
+				{
+					"type": "oil tanker",
+					"count": 124
+				},
+				{
+					"type": "other",
+					"count": 636
+				}
+			],
+			"global_rank": 23,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Aliaga",
+				"Ambarli",
+				"Diliskelesi",
+				"Eregli",
+				"Izmir",
+				"Kocaeli (Izmit)",
+				"Mersin (Icel)",
+				"Limani",
+				"Yarimca"
+			],
+			"container_ports": [
+				{
+					"place": "Ambarli",
+					"twenty_foot_equivalent_units": 3131621
+				},
+				{
+					"place": "Mersin",
+					"twenty_foot_equivalent_units": 1592000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Izmir Aliaga",
+				"Marmara Ereglisi"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.89,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.85,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.52,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.46,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.39,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 57
+		},
+		"service_age_and_obligation": {
+			"note": "President Erdoğan on 25 June 2019 signed a new law cutting the men’s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for private and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras",
+			"date": "2019"
+		},
+		"note": "the ruling Justice and Development Party (AKP) has actively pursued the goal of asserting civilian control over the military since first taking power in 2002; the Turkish Armed Forces (TSK) role in internal security has been significantly reduced; the TSK leadership continues to be an influential institution within Turkey, but plays a much smaller role in politics; the Turkish military remains focused on the threats emanating from the Syrian civil war, Russia's actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the \"Force 2014\" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities including in Afghanistan; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an \"Aerospace and Missile Defense Concept\" in 2002 and has initiated project work on an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in July 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"complex maritime, air, and territorial disputes with Greece in the Aegean Sea",
+			"status of north Cyprus question remains",
+			"Turkey has expressed concern over the status of Kurds in Iraq",
+			"in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered",
+			"Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 3630702,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 170000,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 142000,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 39000,
+						"country_of_origin": "Iran"
+					},
+					{
+						"people": 5700,
+						"country_of_origin": "Somalia"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 1099000,
+				"note": "displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most internally_displaced_persons are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects",
+				"date": "2018"
+			},
+			"stateless_persons": {
+				"people": 117,
+				"date": "2018"
+			}
+		},
+		"illicit_drugs": {
+			"note": "key transit route for Southwest Asian heroin to Western Europe and, to a lesser extent, the US - via air, land, and sea routes; major Turkish and other international trafficking organizations operate out of Istanbul; laboratories to convert imported morphine base into heroin exist in remote regions of Turkey and near Istanbul; government maintains strict controls over areas of legal opium poppy cultivation and over output of poppy straw concentrate; lax enforcement of money-laundering controls"
+		}
+	}
+}

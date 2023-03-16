@@ -1,0 +1,1968 @@
+{
+	"name": "Chile",
+	"introduction": {
+		"background": "Prior to the arrival of the Spanish in the 16th century, the Inca ruled northern Chile for nearly a century while an indigenous people, the Mapuche, inhabited central and southern Chile. Although Chile declared its independence in 1810, it did not achieve decisive victory over the Spanish until 1818. In the War of the Pacific (1879-83), Chile defeated Peru and Bolivia to win its present northern regions. In the 1880s, the Chilean central government gained control over the central and southern regions inhabited by the Mapuche. After a series of elected governments, the three-year-old Marxist government of Salvador ALLENDE was overthrown in 1973 by a military coup led by General Augusto PINOCHET, who ruled until a democratically-elected president was inaugurated in 1990. Economic reforms, maintained consistently since the 1980s, contributed to steady growth, reduced poverty rates by over half, and helped secure the country's commitment to democratic and representative government. Chile has increasingly assumed regional and international leadership roles befitting its status as a stable, democratic nation."
+	},
+	"geography": {
+		"location": "Southern South America, bordering the South Pacific Ocean, between Argentina and Peru",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 30,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 71,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 756102,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 743812,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 12290,
+				"units": "sq km"
+			},
+			"note": "includes Easter Island (Isla de Pascua) and Isla Sala y Gomez",
+			"global_rank": 39,
+			"comparative": "slightly smaller than twice the size of Montana"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 7801,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Argentina",
+					"border_length": {
+						"value": 6691,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Bolivia",
+					"border_length": {
+						"value": 942,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Peru",
+					"border_length": {
+						"value": 168,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 6435,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": "200/350 nm"
+		},
+		"climate": "temperate; desert in north; Mediterranean in central region; cool and damp in south",
+		"terrain": "low coastal mountains, fertile central valley, rugged Andes in east",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1871,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Pacific Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Nevado Ojos del Salado",
+				"elevation": {
+					"value": 6880,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"copper",
+				"timber",
+				"iron ore",
+				"nitrates",
+				"precious metals",
+				"molybdenum",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 21.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 18.8,
+					"units": "%"
+				},
+				"forest": {
+					"value": 21.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 57,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 11100,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated",
+		"natural_hazards": [
+			{
+				"description": "severe earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "active volcanism",
+				"type": "hazard"
+			},
+			{
+				"description": "tsunamis",
+				"type": "hazard"
+			},
+			{
+				"description": "significant volcanic activity due to more than three-dozen active volcanoes along the Andes Mountains; Lascar (5,592 m), which last erupted in 2007, is the most active volcano in the northern Chilean Andes; Llaima (3,125 m) in central Chile, which last erupted in 2009, is another of the country's most active; Chaiten's 2008 eruption forced major evacuations; other notable historically active volcanoes include Cerro Hudson, Calbuco, Copahue, Guallatiri, Llullaillaco, Nevados de Chillan, Puyehue, San Pedro, and Villarrica; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution from industrial and vehicle emissions",
+				"water pollution from raw sewage",
+				"noise pollution",
+				"improper garbage disposal",
+				"soil degradation",
+				"widespread deforestation and mining threaten the environment",
+				"wildlife conservation"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 18186770,
+			"global_rank": 65,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Chilean(s)",
+			"adjective": "Chilean"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white and non-indigenous",
+					"percent": 88.9
+				},
+				{
+					"name": "Mapuche",
+					"percent": 9.1
+				},
+				{
+					"name": "Aymara",
+					"percent": 0.7
+				},
+				{
+					"name": "other indigenous groups",
+					"percent": 1,
+					"note": "includes Rapa Nui, Likan Antai, Quechua, Colla, Diaguita, Kawesqar, Yagan or Yamana"
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.3
+				}
+			],
+			"date": "2012"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Spanish",
+					"percent": 99.5,
+					"note": "official"
+				},
+				{
+					"name": "English",
+					"percent": 10.2
+				},
+				{
+					"name": "indigenous",
+					"percent": 1,
+					"note": "includes Mapudungun, Aymara, Quechua, Rapa Nui"
+				},
+				{
+					"name": "other",
+					"percent": 2.3
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.2
+				}
+			],
+			"note": "shares sum to more than 100% because some respondents gave more than one answer on the census",
+			"date": "2012"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 66.7
+				},
+				{
+					"name": "Evangelical or Protestant",
+					"percent": 16.4
+				},
+				{
+					"name": "Jehovah's Witness",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 3.4
+				},
+				{
+					"name": "none",
+					"percent": 11.5
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.1
+				}
+			],
+			"date": "2012"
+		},
+		"demographic_profile": "Chile is in the advanced stages of demographic transition and is becoming an aging society - with fertility below replacement level, low mortality rates, and life expectancy on par with developed countries. Nevertheless, with its dependency ratio nearing its low point, Chile could benefit from its favorable age structure. It will need to keep its large working-age population productively employed, while preparing to provide for the needs of its growing proportion of elderly people, especially as women - the traditional caregivers - increasingly enter the workforce. Over the last two decades, Chile has made great strides in reducing its poverty rate, which is now lower than most Latin American countries. However, its severe income inequality ranks as the worst among members of the Organization for Economic Cooperation and Development. Unequal access to quality education perpetuates this uneven income distribution.\nChile has historically been a country of emigration but has slowly become more attractive to immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional destinations have concurrently experienced deteriorating economic and political conditions). Most of Chile's small but growing foreign-born population consists of transplants from other Latin American countries, especially Peru.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 19.79,
+				"males": 1836240,
+				"females": 1763124
+			},
+			"15_to_24": {
+				"percent": 13.84,
+				"males": 1283710,
+				"females": 1233238
+			},
+			"25_to_54": {
+				"percent": 42.58,
+				"males": 3882405,
+				"females": 3860700
+			},
+			"55_to_64": {
+				"percent": 11.98,
+				"males": 1034049,
+				"females": 1145022
+			},
+			"65_and_over": {
+				"percent": 11.81,
+				"males": 902392,
+				"females": 1245890
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 45.9,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 28.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 17.9,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 5.6,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 35.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 34.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 36.7,
+				"units": "years"
+			},
+			"global_rank": 83,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.71,
+			"global_rank": 138,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 13.1,
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.5,
+			"global_rank": 142,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 0.3,
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"population_distribution": "90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated",
+		"urbanization": {
+			"urban_population": {
+				"value": 87.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.87,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Santiago",
+					"population": 6767000,
+					"is_capital": true
+				},
+				{
+					"place": "Valparaiso",
+					"population": 984000
+				},
+				{
+					"place": "Concepcion",
+					"population": 881000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.72,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 13,
+			"global_rank": 138,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 6.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 6.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 5.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 164,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 79.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 76.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 82.5,
+				"units": "years"
+			},
+			"global_rank": 53,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.77,
+			"global_rank": 153,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 76.3,
+			"units": "%",
+			"date": "2015"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.44,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.1,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.5,
+				"global_rank": 67,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 74000,
+				"global_rank": 54
+			},
+			"deaths": {
+				"total": 1000,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 28,
+			"global_rank": 32,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 0.5,
+			"global_rank": 129,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.4,
+			"global_rank": 41,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 96.4,
+				"units": "%"
+			},
+			"male": {
+				"value": 96.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 96.3,
+				"units": "%"
+			},
+			"date": "2017"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 18.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 16.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 20.2,
+				"units": "%"
+			},
+			"global_rank": 73,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Chile",
+			"conventional_short_form": "Chile",
+			"local_long_form": "Republica de Chile",
+			"local_short_form": "Chile",
+			"etymology": "derivation of the name is unclear, but it may come from the Mapuche word \"chilli\" meaning \"limit of the earth\" or from the Quechua \"chiri\" meaning \"cold\""
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Santiago; note - Valparaiso is the seat of the national legislature",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 33,
+					"minutes": 27,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 70,
+					"minutes": 40,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year",
+			"note": "Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5",
+			"etymology": "Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; \"Santiago\" derives from the local Galician evolution of the Vulgar Latin \"Sanctu Iacobu\"; Valparaiso derives from the Spanish \"Valle Paraiso\" meaning \"Paradise Valley\""
+		},
+		"independence": {
+			"date": "1810-09-18",
+			"note": "from Spain"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "18 September",
+				"original_year": "1810"
+			}
+		],
+		"constitution": {
+			"history": "many previous; latest adopted 11 September 1980, effective 11 March 1981; a referendum held in late October 2020 approved a referendum on forming a convention to draft a new constittion",
+			"amendments": "proposed by members of either house of the National Congress or by the president of the republic; passage requires at least three-fifths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles, such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process, requires at least two-third majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment; amended many times, last in 2020",
+			"note": "a referendum on a new constitution scheduled for 26 April 2020 has been postponed due to the COVID-19 pandemic"
+		},
+		"legal_system": "civil law system influenced by several West European civil legal systems; judicial review of legislative acts by the Constitutional Tribunal",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Sebastian PINERA Echenique (since 11 March 2018); note - the president is both chief of state and head of government",
+			"head_of_government": "President Sebastian PINERA Echenique (since 11 March 2018)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (next to be held in November 2021)",
+			"election_results": "Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Congress or Congreso Nacional consists of: Senate or Senado (43 seats following the 2017 election; to increase to 50 in 2021); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)\nChamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by oen party-list proportional representation vote to serve 4-year terms)",
+			"elections": "Senate - last held on 19 November 2017 (next to be held in 2021)\nChamber of Deputies - last held on 19 November 2017 (next to be held in 2021)",
+			"election_results": "Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3%\nChamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)",
+			"judge_selection_and_term_of_office": "Supreme Court president and judges (ministers) appointed by the president of the republic and ratified by the Senate from lists of candidates provided by the court itself; judges appointed for life with mandatory retirement at age 70; Constitutional Court members appointed - 3 by the Supreme Court, 3 by the president of the republic, 2 by the Chamber of Deputies, and 2 by the Senate; members serve 9-year terms with partial membership replacement every 3 years (the court reviews constitutionality of legislation); Elections Qualifying Court members appointed by lottery - 1 by the former president or vice president of the Senate and 1 by the former president or vice president of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparaiso; members appointed for 4-year terms",
+			"subordinate_courts": "Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Amplitude ",
+					"leaders": [
+						"Lily PEREZ"
+					],
+					"note": "Amplitud"
+				},
+				{
+					"name": "Broad Front Coalition",
+					"name_alternative": "FA",
+					"leaders": [
+						"Beatriz SANCHEZ"
+					],
+					"note": "Frente Amplio; includes RD, PL, PH, PEV, Igualdad, Poder"
+				},
+				{
+					"name": "Broad Social Movement of Leftist Citizens ",
+					"leaders": [
+						"Fernando ZAMORANO"
+					],
+					"note": "includes former MAS and Izquierda Ciudadana"
+				},
+				{
+					"name": "Christian Democratic Party",
+					"name_alternative": "PDC",
+					"leaders": [
+						"Fuad CHAHIN"
+					]
+				},
+				{
+					"name": "Citizen Power ",
+					"leaders": [
+						"Karina OLIVA"
+					],
+					"note": "Poder"
+				},
+				{
+					"name": "Communist Party of Chile",
+					"name_alternative": "PC",
+					"leaders": [
+						"Guillermo TEILLIER del Valle"
+					]
+				},
+				{
+					"name": "Democratic Revolution",
+					"name_alternative": "RD",
+					"leaders": [
+						"Rodrigo ECHECOPAR"
+					]
+				},
+				{
+					"name": "Equality Party ",
+					"leaders": [
+						"Guillermo GONZALEZ"
+					],
+					"note": "Igualdad"
+				},
+				{
+					"name": "Green Ecological Party",
+					"name_alternative": "PEV",
+					"leaders": [
+						"Felix GONZALEZ"
+					]
+				},
+				{
+					"name": "Humanist Party",
+					"name_alternative": "PH",
+					"leaders": [
+						"Octavio GONZALEZ"
+					]
+				},
+				{
+					"name": "Independent Democratic Union",
+					"name_alternative": "UDI",
+					"leaders": [
+						"Jacqueline VAN RYSSELBERGHE Herrera"
+					],
+					"note": ""
+				},
+				{
+					"name": "Independent Regionalist Democratic Party",
+					"name_alternative": "PRI",
+					"leaders": [
+						"Hugo ORTIZ de Filippi"
+					]
+				},
+				{
+					"name": "Let’s Go Chile Coalition  ",
+					"leaders": [
+						"Sebastian PINERA"
+					],
+					"note": "Chile Vamos; includes EVOPOLI, PRI, RN, UDI"
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "PL",
+					"leaders": [
+						"Luis Felipe RAMOS"
+					],
+					"note": "Partido Liberal de Chile"
+				},
+				{
+					"name": "National Renewal",
+					"name_alternative": "RN",
+					"leaders": [
+						"Mario DESBORDES"
+					]
+				},
+				{
+					"name": "New Majority Coalition ",
+					"leaders": [
+						"Michelle BACHELET"
+					],
+					"note": "Nueva Mayoria; includes PDC, PC, PPD, PRSD, PS; dissolved in March 2018"
+				},
+				{
+					"name": "Party for Democracy",
+					"name_alternative": "PPD",
+					"leaders": [
+						"Heraldo MUNOZ"
+					]
+				},
+				{
+					"name": "Political Evolution",
+					"name_alternative": "EVOPOLI",
+					"leaders": [
+						"Hernan LARRAIN MATTE"
+					]
+				},
+				{
+					"name": "Progressive Party",
+					"name_alternative": "PRO",
+					"leaders": [
+						"Camilo LAGOS"
+					]
+				},
+				{
+					"name": "Radical Social Democratic Party",
+					"name_alternative": "PRSD,",
+					"leaders": [
+						"Carlos MALDONADO Curti"
+					]
+				},
+				{
+					"name": "Socialist Party",
+					"name_alternative": "PS",
+					"leaders": [
+						"Alvaro ELIZALDE Soto"
+					],
+					"note": "formerly known as Concertacion"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CAN ",
+				"note": "associate"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "Mercosur ",
+				"note": "associate"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECD ",
+				"note": "enhanced engagement"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Pacific Alliance"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Oscar Alfonso Sebastian SILVA Navarro (since 17 September 2018)",
+				"chancery": "1732 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 785-1746",
+				"fax": "[1] (202) 887-5579",
+				"consulates_general": "Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Richard H. GLENN (since August 2020)",
+				"telephone": "[56] (2) 2330-3000",
+				"embassy": "Avenida Andres Bello 2800, Las Condes, Santiago",
+				"mailing_address": "APO AA 34033",
+				"fax": "[56] (2) 2330-3710, 2330-3160"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence",
+			"note": "design influenced by the US flag"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "huemul ",
+					"note": "mountain deer"
+				},
+				{
+					"symbol": "Andean condor"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Himno Nacional de Chile\" (National Anthem of Chile)",
+			"lyrics_music": "Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle",
+			"note": "music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto PINOCHET's military rule, a verse glorifying the army was added; however, as a protest, some citizens refused to sing this verse; it was removed when democracy was restored in 1990",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CI.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.\nFrom 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.\nChile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.\nThe Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.\nIn 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 452100000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 445500000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 439900000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 44,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 277000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.03,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 4,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 1.41,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 171
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 24600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 24500,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 24400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 82,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 62.3,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 14,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.5,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 28.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -27,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 4.2,
+							"units": "%"
+						},
+						"industry": {
+							"value": 32.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 63,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 20.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 21.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 94
+		},
+		"agriculture_products": {
+			"products": [
+				"grapes",
+				"apples",
+				"pears",
+				"onions",
+				"wheat",
+				"corn",
+				"oats",
+				"peaches",
+				"garlic",
+				"asparagus",
+				"beans",
+				"beef",
+				"poultry",
+				"wool",
+				"fish",
+				"timber"
+			]
+		},
+		"industries": {
+			"industries": [
+				"copper",
+				"lithium",
+				"other minerals",
+				"foodstuffs",
+				"fish processing",
+				"iron",
+				"steel",
+				"wood",
+				"wood products",
+				"transport equipment",
+				"cement",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": -0.4,
+			"global_rank": 170,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 7249000,
+				"global_rank": 63,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 9.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 23.7,
+						"units": "%"
+					},
+					"services": {
+						"value": 67.1,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 7.22,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 7.33,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 115
+		},
+		"population_below_poverty_line": {
+			"value": 14.4,
+			"units": "%",
+			"date": "2013"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 41.5,
+				"units": "%"
+			},
+			"date": "2013"
+		},
+		"budget": {
+			"revenues": {
+				"value": 57750000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 65379999999.99999,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 20.8,
+			"global_rank": 145,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.8,
+			"global_rank": 124,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 23.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 21,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 182
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3.8,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 113
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -10933000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -10601000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 193
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 69230000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 60600000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 42
+			},
+			"commodities": {
+				"by_commodity": [
+					"copper",
+					"fruit",
+					"fish products",
+					"paper",
+					"pulp",
+					"chemicals",
+					"wine"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 27.5
+					},
+					{
+						"name": "US",
+						"percent": 14.5
+					},
+					{
+						"name": "Japan",
+						"percent": 9.3
+					},
+					{
+						"name": "South Korea",
+						"percent": 6.2
+					},
+					{
+						"name": "Brazil",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 61310000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 55290000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 49
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum",
+					"petroleum products",
+					"chemicals",
+					"electrical",
+					"telecommunications equipment",
+					"industrial machinery",
+					"vehicles",
+					"natural gas"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 23.9
+					},
+					{
+						"name": "US",
+						"percent": 18.1
+					},
+					{
+						"name": "Brazil",
+						"percent": 8.6
+					},
+					{
+						"name": "Argentina",
+						"percent": 4.5
+					},
+					{
+						"name": "Germany",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 38980000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 40490000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 44
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 183400000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 158100000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 37
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 653.9,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 676.94,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 676.94,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 658.93,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 570.37,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Chilean pesos (CLP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 76090000000,
+				"global_rank": 39,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 73220000000,
+				"global_rank": 38,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 121,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 135,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 24530000,
+				"global_rank": 37,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 59,
+					"global_rank": 133,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 66,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 26,
+					"global_rank": 75,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 15,
+					"global_rank": 57,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 3000,
+				"global_rank": 84,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 169600,
+				"global_rank": 33,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 150000000,
+				"global_rank": 60,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 216200,
+				"global_rank": 49,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 354500,
+				"global_rank": 39,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 7359,
+				"global_rank": 87,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 166400,
+				"global_rank": 38,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 1218000000,
+				"global_rank": 65,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 5125000000,
+				"global_rank": 58,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 277500000,
+				"global_rank": 43,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 4446000000,
+				"global_rank": 38,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 97970000000,
+				"global_rank": 52,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 88230000,
+			"global_rank": 47,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 2620195,
+				"subscriptions_per_one_hundred_inhabitants": 14.51,
+				"global_rank": 48,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 23870679,
+				"subscriptions_per_one_hundred_inhabitants": 132.19,
+				"global_rank": 52,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned Television Nacional de Chile (TVN) network is self-financed through commercial advertising revenues and is not under direct government control; large number of privately owned TV stations; about 250 radio stations",
+		"internet": {
+			"country_code": ".cl",
+			"users": {
+				"total": 14757868,
+				"percent_of_population": 82.33,
+				"global_rank": 45,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 9,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 173,
+				"annual_passenger_traffic_on_registered_air_carriers": 19517185,
+				"annual_freight_traffic_on_registered_air_carriers": 1226440000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "CC",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 481,
+					"global_rank": 14,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 90,
+					"over_3047_metres": 5,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 23,
+					"914_to_1523_metres": 31,
+					"under_914_metres": 24,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 391,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 11,
+					"914_to_1523_metres": 56,
+					"under_914_metres": 319,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 3160,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 781,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 985,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 722,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 7282,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 3853.5,
+				"units": "km\n1.000-m"
+			},
+			"broad_gauge": {
+				"length": 3428,
+				"electrified": 1691,
+				"units": "km\n1.676-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 30,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 77801,
+				"units": "km"
+			},
+			"global_rank": 63,
+			"date": "2016"
+		},
+		"merchant_marine": {
+			"total": 221,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 7
+				},
+				{
+					"type": "container ship",
+					"count": 5
+				},
+				{
+					"type": "general cargo",
+					"count": 51
+				},
+				{
+					"type": "oil tanker",
+					"count": 14
+				},
+				{
+					"type": "other",
+					"count": 144
+				}
+			],
+			"global_rank": 63,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Coronel",
+				"Huasco",
+				"Lirquen",
+				"Puerto Ventanas",
+				"San Antonio",
+				"San Vicente",
+				"Valparaiso"
+			],
+			"container_ports": [
+				{
+					"place": "San Antonio",
+					"twenty_foot_equivalent_units": 1296890
+				},
+				{
+					"place": "Valparaiso",
+					"twenty_foot_equivalent_units": 1073734
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Mejillones",
+				"Quintero"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.9,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 60
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-45 years of age for voluntary male and female military service, although the right to compulsory recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy and Air Force",
+			"date": "2015"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to Bolivian natural gas",
+			"Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru",
+			"in October 2007, Peru took its maritime complaint with Chile to the ICJ",
+			"territorial claim in Antarctica (Chilean Antarctic Territory) partially overlaps Argentine and British claims",
+			"the joint boundary commission, established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur)"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 475688,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment country for cocaine destined for Europe and the region; some money laundering activity, especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic cocaine consumption is rising, making Chile a significant consumer of cocaine"
+		}
+	}
+}

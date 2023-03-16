@@ -1,0 +1,1715 @@
+{
+	"name": "Kyrgyzstan",
+	"introduction": {
+		"background": "A Central Asian country of incredible natural beauty and proud nomadic traditions, most of the territory of the present-day Kyrgyz Republic was formally annexed to the Russian Empire in 1876. The Kyrgyz staged a major revolt against the Tsarist Empire in 1916 in which almost one-sixth of the Kyrgyz population was killed. The Kyrgyz Republic became a Soviet republic in 1936 and achieved independence in 1991 when the USSR dissolved. Nationwide demonstrations in 2005 and 2010 resulted in the ouster of the country’s first two presidents, Askar AKAEV and Kurmanbek BAKIEV. Interim President Roza OTUNBAEVA led a transitional government and following a nation-wide election, President Almazbek ATAMBAEV was sworn in as president in 2011. In 2017, ATAMBAEV became the first Kyrgyzstani president to step down after serving one full six-year term as required in the country’s constitution. Former prime minister and ruling Social-Democratic Party of Kyrgyzstan member Sooronbay JEENBEKOV replaced him after winning an October 2017 presidential election that was the most competitive in the country’s history, although international and local election observers noted cases of vote buying and abuse of public resources. The president holds substantial powers as head of state even though the prime minister oversees the Kyrgyzstani Government and selects most cabinet members. The president represents the country internationally and can sign or veto laws, call for new elections, and nominate Supreme Court judges, cabinet members for posts related to security or defense, and numerous other high-level positions. Continuing concerns for the Kyrgyz Republic include the trajectory of democratization, endemic corruption, a history of tense, and at times violent, interethnic relations, border security vulnerabilities, and potential terrorist threats."
+	},
+	"geography": {
+		"location": "Central Asia, west of China, south of Kazakhstan",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 41,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 75,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Asia",
+		"area": {
+			"total": {
+				"value": 199951,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 191801,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 8150,
+				"units": "sq km"
+			},
+			"global_rank": 88,
+			"comparative": "slightly smaller than South Dakota"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4573,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "China",
+					"border_length": {
+						"value": 1063,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Kazakhstan",
+					"border_length": {
+						"value": 1212,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Tajikistan",
+					"border_length": {
+						"value": 984,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uzbekistan",
+					"border_length": {
+						"value": 1314,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 0,
+			"units": "km",
+			"note": "landlocked"
+		},
+		"climate": "dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone",
+		"terrain": "peaks of the Tien Shan mountain range and associated valleys and basins encompass the entire country",
+		"elevation": {
+			"mean_elevation": {
+				"value": 2988,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Kara-Daryya (Karadar'ya)",
+				"elevation": {
+					"value": 132,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Jengish Chokusu (Pik Pobedy)",
+				"elevation": {
+					"value": 7439,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"abundant hydropower",
+				"gold",
+				"rare earth metals",
+				"coal",
+				"oil",
+				"natural gas",
+				"nepheline",
+				"mercury",
+				"bismuth",
+				"lead",
+				"zinc"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 55.4,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 6.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 48.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 5.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 39.5,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 10233,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains",
+		"natural_hazards": [
+			{
+				"description": "major flooding during snow melt",
+				"type": "hazard"
+			},
+			{
+				"description": "prone to earthquakes",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution",
+				"many people get their water directly from contaminated streams and wells",
+				"as a result",
+				"water-borne diseases are prevalent",
+				"increasing soil salinity from faulty irrigation practices",
+				"air pollution due to rapid increase of traffic"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Hazardous Wastes",
+					"Ozone Layer Protection",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 5964897,
+			"global_rank": 114,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Kyrgyzstani(s)",
+			"adjective": "Kyrgyzstani"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Kyrgyz",
+					"percent": 73.5
+				},
+				{
+					"name": "Uzbek",
+					"percent": 14.7
+				},
+				{
+					"name": "Russian",
+					"percent": 5.5
+				},
+				{
+					"name": "Dungan",
+					"percent": 1.1
+				},
+				{
+					"name": "other",
+					"percent": 5.2,
+					"note": "includes Uyghur, Tajik, Turk, Kazakh, Tatar, Ukrainian, Korean, German"
+				}
+			],
+			"date": "2019"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Kyrgyz",
+					"percent": 71.4,
+					"note": "official"
+				},
+				{
+					"name": "Uzbek",
+					"percent": 14.4
+				},
+				{
+					"name": "Russian",
+					"percent": 9,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 5.2
+				}
+			],
+			"date": "2009"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 90,
+					"note": "majority Sunni"
+				},
+				{
+					"name": "Christian",
+					"percent": 7,
+					"breakdown": [
+						{
+							"name": "Russian Orthodox",
+							"percent": 3
+						}
+					]
+				},
+				{
+					"name": "other",
+					"percent": 3,
+					"note": "includes Jewish, Buddhist, Baha'i"
+				}
+			],
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 30.39,
+				"males": 930455,
+				"females": 882137
+			},
+			"15_to_24": {
+				"percent": 15.7,
+				"males": 475915,
+				"females": 460604
+			},
+			"25_to_54": {
+				"percent": 40.02,
+				"males": 1172719,
+				"females": 1214624
+			},
+			"55_to_64": {
+				"percent": 8.09,
+				"males": 210994,
+				"females": 271480
+			},
+			"65_and_over": {
+				"percent": 5.8,
+				"males": 132134,
+				"females": 213835
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 59.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 52.1,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 27.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 26.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 28.5,
+				"units": "years"
+			},
+			"global_rank": 147,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.96,
+			"global_rank": 109,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 20.6,
+			"global_rank": 74,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.3,
+			"global_rank": 151,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -5,
+			"global_rank": 197,
+			"date": "2020"
+		},
+		"population_distribution": "the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains",
+		"urbanization": {
+			"urban_population": {
+				"value": 36.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 2.03,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Bishkek",
+					"population": 1038000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.78,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.62,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.9,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 60,
+			"global_rank": 89,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 23.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 27.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 19.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 71.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 67.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.2,
+				"units": "years"
+			},
+			"global_rank": 159,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.54,
+			"global_rank": 69,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 39.4,
+			"units": "%",
+			"date": "2018"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.21,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 4.4,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 84.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 89.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 15.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 10.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.1,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 102,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 10000,
+				"global_rank": 103,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 16.6,
+			"global_rank": 121,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1.8,
+			"global_rank": 115,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.2,
+			"global_rank": 12,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.6,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.5,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 13,
+				"units": "years"
+			},
+			"date": "2019"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 14.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 10.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 22.3,
+				"units": "%"
+			},
+			"global_rank": 96,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kyrgyz Republic",
+			"conventional_short_form": "Kyrgyzstan",
+			"local_long_form": "Kyrgyz Respublikasy",
+			"local_short_form": "Kyrgyzstan",
+			"former": "Kirghiz Soviet Socialist Republic",
+			"etymology": "a combination of the Turkic words \"kyrg\" (forty) and \"-yz\" (tribes) with the Persian suffix \"-stan\" (country) creating the meaning \"Land of the Forty Tribes\"; the name refers to the 40 clans united by the legendary Kyrgyz hero, MANAS"
+		},
+		"government_type": "parliamentary republic",
+		"capital": {
+			"name": "Bishkek",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 42,
+					"minutes": 52,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 74,
+					"minutes": 36,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 6,
+				"note": "11 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "founded in 1868 as a Russian settlement on the site of a previously destroyed fortress named \"Pishpek\"; the name was retained and overtime became \"Bishkek\""
+		},
+		"administrative_divisions": [
+			{
+				"name": "oblus) and 2 cities",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1991-08-31",
+			"note": "from the Soviet Union"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "31 August",
+				"original_year": "1991"
+			}
+		],
+		"constitution": {
+			"history": "previous 1993; latest adopted by referendum 27 June 2010, effective 2 July 2010",
+			"note": "constitutional amendments that bolstered some presidential powers and transferred others from the president to the prime minister passed in a referendum in December 2016, effective December 2017",
+			"amendments": "proposed as a draft law by the majority of the Supreme Council membership or by petition of 300,000 voters; passage requires at least two-thirds majority vote of the Council membership in each of at least three readings of the draft two months apart; the draft may be submitted to a referendum if approved by two thirds of the Council membership; adoption requires the signature of the president; amended 2017"
+		},
+		"legal_system": "civil law system, which includes features of French civil law and Russian Federation laws",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICCt"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Kyrgyzstan",
+			"dual_citizenship_recognized": "yes, but only if a mutual treaty on dual citizenship is in force",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Acting President Talant MAMYTOV (since 14 November 2020); President Sooronbay JEENBEKOV resigned on 16 October 2020 following massive protests brought on by disputed legislative election results of 4 October 2020",
+			"head_of_government": "Acting Prime Minister Artem NOVIKOV (since 14 November 2020); note - Prime Minister Kubatbek BORONOV resigned on 9 October 2020 following massive protests brought on by disputed legislative election results of 4 October 2020",
+			"cabinet": "Cabinet of Ministers proposed by the prime minister, appointed by the president upon approval by the Supreme Council; defense and security committee chairs appointed by the president",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a single 6-year term; election last held on 15 October 2017 (next to be held 10 January 2021); prime minister nominated by the majority party or majority coalition in the Supreme Council, appointed by the president upon approval by the Supreme Council",
+			"election_results": "Sooronbay JEENBEKOV elected president in first round; percent of vote - Sooronbay JEENBEKOV (SDPK) 54.2%, Omurbek BABANOV (Respublika) 33.5%, Adakhan MADUMAROV (Butun Kyrgyzstan) 6.6%, Temir SARIYEV (Akshumar) 2.5%, other 3.2%; note - JEENBEKOV resigned as president on 16 October 2020; BORONOV resigned as prime minister on 9 October 2020"
+		},
+		"legislative_branch": {
+			"description": "unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists to serve 5-year terms)",
+			"elections": "last held on 4 October 2020 (next to be held NA); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests",
+			"election_results": "percent of vote by party - NA; seats by party - NA"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court and Constitutional Court judges appointed by the Supreme Council on the recommendation of the president; Supreme Court judges serve for 10 years, Constitutional Court judges serve for 15 years; mandatory retirement at age 70 for judges of both courts",
+			"subordinate_courts": "Higher Court of Arbitration; oblast (provincial) and city courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Ata-Meken ",
+					"leaders": [
+						"Almambet SHYKMAMATOV"
+					],
+					"note": "Fatherland"
+				},
+				{
+					"name": "Bir Bol ",
+					"leaders": [
+						"Altynbek SULAYMANOV"
+					],
+					"note": "Stay United"
+				},
+				{
+					"name": "Kyrgyzstan Party",
+					"leaders": [
+						"Almazbek BAATYRBEKOV"
+					]
+				},
+				{
+					"name": "Onuguu-Progress ",
+					"leaders": [
+						"Bakyt TOROBAEV"
+					],
+					"note": "Development-Progress"
+				},
+				{
+					"name": "Respublika-Ata-Jurt  ",
+					"leaders": [
+						"Jyrgalbek TURUSKULOV"
+					],
+					"note": "Republic-Homeland; parliamentary faction"
+				},
+				{
+					"name": "Social-Democratic Party of Kyrgyzstan",
+					"name_alternative": "SDPK",
+					"leaders": [
+						"Almazbek ATAMBAEV",
+						"Isa OMURKULOV"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "CIS"
+			},
+			{
+				"organization": "CSTO"
+			},
+			{
+				"organization": "EAEC"
+			},
+			{
+				"organization": "EAEU"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECO"
+			},
+			{
+				"organization": "EITI ",
+				"note": "compliant country"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "GCTU"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "SCO"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Bolot I. OTUNBAEV (since 8 April 2018)",
+				"chancery": "2360 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 449-9822",
+				"fax": "[1] (202) 449-8275",
+				"honorary_consulates": "Maple Valley (WA)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Donald LU (since 18 September 2018)",
+				"telephone": "[996] (312) 597-000",
+				"embassy": "171 Prospect Mira, Bishkek 720016",
+				"mailing_address": "use embassy street address",
+				"fax": "[996] (312) 597-744"
+			}
+		},
+		"flag_description": {
+			"description": "red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of a \"tunduk\" - the crown of a traditional Kyrgyz yurt; red symbolizes bravery and valor, the sun evinces peace and wealth"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "white falcon"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Kyrgyz Respublikasynyn Mamlekettik Gimni\" (National Anthem of the Kyrgyz Republic)",
+			"lyrics_music": "Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOLDOBASANOV",
+			"note": "adopted 1992",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/KG.mp3?1538604755"
+		}
+	},
+	"economy": {
+		"overview": "Kyrgyzstan is a landlocked, mountainous, lower middle income country with an economy dominated by minerals extraction, agriculture, and reliance on remittances from citizens working abroad. Cotton, wool, and meat are the main agricultural products, although only cotton is exported in any quantity. Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity. The country has sought to attract foreign investment to expand its export base, including construction of hydroelectric dams, but a difficult investment climate and an ongoing legal battle with a Canadian firm over the joint ownership structure of the nation’s largest gold mine deter potential investors. Remittances from Kyrgyz migrant workers, predominantly in Russia and Kazakhstan, are equivalent to more than one-quarter of Kyrgyzstan’s GDP.\nFollowing independence, Kyrgyzstan rapidly implemented market reforms, such as improving the regulatory system and instituting land reform. In 1998, Kyrgyzstan was the first Commonwealth of Independent States country to be accepted into the World Trade Organization. The government has privatized much of its ownership shares in public enterprises. Despite these reforms, the country suffered a severe drop in production in the early 1990s and has again faced slow growth in recent years as the global financial crisis and declining oil prices have dampened economies across Central Asia. The Kyrgyz government remains dependent on foreign donor support to finance its annual budget deficit of approximately 3 to 5% of GDP.\nKyrgyz leaders hope the country’s August 2015 accession to the Eurasian Economic Union (EAEU) will bolster trade and investment, but slowing economies in Russia and China and low commodity prices continue to hamper economic growth. Large-scale trade and investment pledged by Kyrgyz leaders has been slow to develop. Many Kyrgyz entrepreneurs and politicians complain that non-tariff measures imposed by other EAEU member states are hurting certain sectors of the Kyrgyz economy, such as meat and dairy production, in which they have comparative advantage. Since acceding to the EAEU, the Kyrgyz Republic has continued harmonizing its laws and regulations to meet EAEU standards, though many local entrepreneurs believe this process as disjointed and incomplete. Kyrgyzstan’s economic development continues to be hampered by corruption, lack of administrative transparency, lack of diversity in domestic industries, and difficulty attracting foreign aid and investment.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 23150000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 22140000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 21220000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 144,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 7565000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.6,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 4.3,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 3.9,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 59
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3700,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 183,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 85.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.9,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 33.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 39.7,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -79,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 14.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 31.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 54.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 27.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 20.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 18.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 42
+		},
+		"agriculture_products": {
+			"products": [
+				"cotton",
+				"potatoes",
+				"vegetables",
+				"grapes",
+				"fruits",
+				"berries",
+				"sheep",
+				"goats",
+				"cattle",
+				"wool"
+			]
+		},
+		"industries": {
+			"industries": [
+				"small machinery",
+				"textiles",
+				"food processing",
+				"cement",
+				"shoes",
+				"lumber",
+				"refrigerators",
+				"furniture",
+				"electric motors",
+				"gold",
+				"rare earth metals"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 10.9,
+			"global_rank": 10,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 2841000,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 48,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12.5,
+						"units": "%"
+					},
+					"services": {
+						"value": 39.5,
+						"units": "%"
+					}
+				},
+				"date": "2005"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.18,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 2.59,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 43
+		},
+		"population_below_poverty_line": {
+			"value": 32.1,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 4.4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 22.9,
+				"units": "%"
+			},
+			"date": "2014"
+		},
+		"budget": {
+			"revenues": {
+				"value": 2169000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 2409000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 28.7,
+			"global_rank": 92,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -3.2,
+			"global_rank": 140,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 56,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 55.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 79
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 135
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -306000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -792000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 109
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1840000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1544000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 144
+			},
+			"commodities": {
+				"by_commodity": [
+					"gold",
+					"cotton",
+					"wool",
+					"garments",
+					"meat",
+					"mercury",
+					"uranium",
+					"electricity",
+					"machinery",
+					"shoes"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Switzerland",
+						"percent": 59.1
+					},
+					{
+						"name": "Uzbekistan",
+						"percent": 9.4
+					},
+					{
+						"name": "Kazakhstan",
+						"percent": 5.1
+					},
+					{
+						"name": "Russia",
+						"percent": 4.9
+					},
+					{
+						"name": "UK",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 4187000000.0000005,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3709000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 137
+			},
+			"commodities": {
+				"by_commodity": [
+					"oil",
+					"gas",
+					"machinery",
+					"equipment",
+					"chemicals",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 32.6
+					},
+					{
+						"name": "Russia",
+						"percent": 24.8
+					},
+					{
+						"name": "Kazakhstan",
+						"percent": 16.4
+					},
+					{
+						"name": "Turkey",
+						"percent": 4.8
+					},
+					{
+						"name": "US",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 2177000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1970000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 120
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 8164000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 8182000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 121
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 68.35,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 69.914,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 69.914,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 64.462,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 53.654,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "soms (KGS) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 13040000000,
+				"global_rank": 93,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 10520000000,
+				"global_rank": 94,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 184000000,
+				"global_rank": 77,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 331000000,
+				"global_rank": 87,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 4046000.0000000005,
+				"global_rank": 87,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 24,
+					"global_rank": 190,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 123,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 76,
+					"global_rank": 13,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 197,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1000,
+				"global_rank": 92,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 150,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 4480,
+				"global_rank": 77,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 40000000,
+				"global_rank": 79,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 6996,
+				"global_rank": 102,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 37000,
+				"global_rank": 114,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 2290,
+				"global_rank": 103,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 34280,
+				"global_rank": 96,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 28320000,
+				"global_rank": 88,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 186900000,
+				"global_rank": 106,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 134,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 169900000,
+				"global_rank": 74,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 5663000000,
+				"global_rank": 89,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 10020000,
+			"global_rank": 108,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 275311,
+				"subscriptions_per_one_hundred_inhabitants": 4.66,
+				"global_rank": 111,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 7940306,
+				"subscriptions_per_one_hundred_inhabitants": 134.4,
+				"global_rank": 98,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-funded public TV broadcaster KTRK has nationwide coverage; also operates Ala-Too 24 news channel which broadcasts 24/7 and 4 other educational, cultural, and sports channels; ELTR and Channel 5 are state-owned stations with national reach; the switchover to digital TV in 2017 resulted in private TV station growth; approximately 20 stations are struggling to increase their own content up to 50% of airtime, as required by law, instead of rebroadcasting primarily programs from Russian channels or airing unlicensed movies and music; 3 Russian TV stations also broadcast; state-funded radio stations and about 10 significant private radio stations also exist (2019)",
+		"internet": {
+			"country_code": ".kg",
+			"users": {
+				"total": 2222732,
+				"percent_of_population": 38,
+				"global_rank": 117,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 5,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 17,
+				"annual_passenger_traffic_on_registered_air_carriers": 709198,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "EX",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 28,
+					"global_rank": 122,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 18,
+					"over_3047_metres": 1,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 11,
+					"under_914_metres": 3,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 10,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 8,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 3566,
+					"units": "km"
+				},
+				{
+					"type": "oil (2013)",
+					"length": 16,
+					"units": "km"
+				}
+			],
+			"date": "2018"
+		},
+		"railways": {
+			"total": {
+				"length": 424,
+				"units": "km"
+			},
+			"broad_gauge": {
+				"length": 424,
+				"units": "km\n1.520-m"
+			},
+			"global_rank": 118,
+			"date": "2018"
+		},
+		"roadways": {
+			"total": {
+				"value": 34000,
+				"units": "km"
+			},
+			"global_rank": 94,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 600,
+			"units": "km",
+			"global_rank": 78,
+			"date": "2010"
+		},
+		"ports_and_terminals": {
+			"lake_ports": [
+				"Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.7,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 81
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations",
+			"date": "2016"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"disputes in Isfara Valley delay completion of delimitation with Tajikistan",
+			"delimitation of approximately 15% or 200 km of border with Uzbekistan is hampered by serious disputes over enclaves and other areas"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 58,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "limited illicit cultivation of cannabis and opium poppy for CIS markets; limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; major consumer of opiates"
+		}
+	}
+}

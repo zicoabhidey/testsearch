@@ -1,0 +1,885 @@
+{
+	"name": "Gaza Strip",
+	"introduction": {
+		"background": "Inhabited since at least the 15th century B.C., the Gaza Strip has been dominated by many different peoples and empires throughout its history; it was incorporated into the Ottoman Empire in the early 16th century. The Gaza Strip fell to British forces during World War I, becoming a part of the British Mandate of Palestine. Following the 1948 Arab-Israeli War, Egypt administered the newly formed Gaza Strip; Israel captured it in the Six-Day War in 1967. Under a series of agreements known as the Oslo accords signed between 1993 and 1999, Israel transferred to the newly-created Palestinian Authority (PA) security and civilian responsibility for many Palestinian-populated areas of the Gaza Strip as well as the West Bank. In 2000, a violent intifada or uprising began, and in 2001 negotiations to determine the permanent status of the West bank and Gaza Strip stalled. Subsequent attempts to re-start negotiations have not resulted in progress toward determining final status of the Israeli-Palestinian conflict.\nIsrael by late 2005 unilaterally withdrew all of its settlers and soldiers and dismantled its military facilities in the Gaza Strip, but it continues to control the Gaza Strip’s land and maritime borders and airspace. In early 2006, the Islamic Resistance Movement (HAMAS) won a majority in the Palestinian Legislative Council election. Attempts to form a unity government between Fatah, the dominant Palestinian political faction in the West Bank, and HAMAS failed, leading to violent clashes between their respective supporters and HAMAS's violent seizure of all military and governmental institutions in the Gaza Strip in June 2007. Since HAMAS’s takeover, Israel and Egypt have enforced tight restrictions on movement and access of goods and individuals into and out of the territory. Fatah and HAMAS have since reached a series of agreements aimed at restoring political unity between the Gaza Strip and the West Bank but have struggled to enact them; a reconciliation agreement signed in October 2017 remains unimplemented.\nIn July 2014, HAMAS and other Gaza-based militant groups engaged in a 51-day conflict with Israel culminating in late August with an open-ended truce. Since 2014, Palestinian militants and the Israel Defense Forces have exchanged projectiles and air strikes respectively, sometimes lasting multiple days and resulting in multiple deaths on both sides. Egypt, Qatar, and the UN Special Coordinator for the Middle East Peace Process have negotiated multiple ceasefires to avert a broader conflict. Since March 2018, HAMAS has coordinated weekly demonstrations along the Gaza security fence, many of which have turned violent, resulting in one Israeli soldier death and several Israeli soldier injuries as well as more than 200 Palestinian deaths and thousands of injuries."
+	},
+	"geography": {
+		"location": "Middle East, bordering the Mediterranean Sea, between Egypt and Israel",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 31,
+				"minutes": 25,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 34,
+				"minutes": 20,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Middle East",
+		"area": {
+			"total": {
+				"value": 360,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 360,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 207,
+			"comparative": "slightly more than twice the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 72,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Egypt",
+					"border_length": {
+						"value": 13,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Israel",
+					"border_length": {
+						"value": 59,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 40,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"note": "effective 3 January 2009, the Gaza maritime area is closed to all maritime traffic and is under blockade imposed by Israeli Navy until further notice"
+		},
+		"climate": "temperate, mild winters, dry and warm to hot summers",
+		"terrain": "flat to rolling, sand- and dune-covered coastal plain",
+		"elevation": {
+			"lowest_point": {
+				"name": "Mediterranean Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Abu 'Awdah (Joz Abu 'Awdah)",
+				"elevation": {
+					"value": 105,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"arable land",
+				"natural gas"
+			]
+		},
+		"irrigated_land": {
+			"value": 240,
+			"units": "sq",
+			"note": "km; note - includes the West Bank",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated in major cities, particularly Gaza City in the north",
+		"natural_hazards": [
+			{
+				"description": "droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"soil degradation",
+				"desertification",
+				"water pollution from chemicals and pesticides",
+				"salination of fresh water",
+				"improper sewage treatment",
+				"water-borne disease",
+				"depletion and contamination of underground water resources"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 1918221,
+			"global_rank": 152,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "NA",
+			"adjective": "NA"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Palestinian Arab"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic"
+				},
+				{
+					"name": "Hebrew",
+					"note": "spoken by many Palestinians"
+				},
+				{
+					"name": "English",
+					"note": "widely understood"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim -",
+					"percent": 99,
+					"note": "predominantly Sunni"
+				},
+				{
+					"name": "Christian",
+					"percent": 1
+				},
+				{
+					"name": "other"
+				},
+				{
+					"name": "unaffiliated"
+				},
+				{
+					"name": "unspecified",
+					"percent": 1
+				}
+			],
+			"note": "dismantlement of Israeli settlements was completed in September 2005; Gaza has had no Jewish population since then",
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2012"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 42.53,
+				"males": 418751,
+				"females": 397013
+			},
+			"15_to_24": {
+				"percent": 21.67,
+				"males": 210240,
+				"females": 205385
+			},
+			"25_to_54": {
+				"percent": 29.47,
+				"males": 275976,
+				"females": 289277
+			},
+			"55_to_64": {
+				"percent": 3.66,
+				"males": 36409,
+				"females": 33731
+			},
+			"65_and_over": {
+				"percent": 2.68,
+				"males": 27248,
+				"females": 24191
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 71.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 65.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 5.5,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 18.2,
+					"units": "%"
+				}
+			},
+			"note": "data represent Gaza Strip and the West Bank",
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 18,
+				"units": "years"
+			},
+			"male": {
+				"value": 17.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 18.4,
+				"units": "years"
+			},
+			"global_rank": 214,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 2.13,
+			"global_rank": 40,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 28.6,
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3,
+			"global_rank": 225,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -4.7,
+			"global_rank": 194,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated in major cities, particularly Gaza City in the north",
+		"urbanization": {
+			"urban_population": {
+				"value": 76.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3,
+				"units": "%"
+			},
+			"note": "data represent Gaza Strip and the West Bank",
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.95,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.08,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.13,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.02,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 27,
+			"global_rank": 117,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 14.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 16,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 13.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 98,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 73.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.7,
+				"units": "years"
+			},
+			"global_rank": 122,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.64,
+			"global_rank": 39,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 57.2,
+			"units": "%",
+			"note": "  includes Gaza Strip and West Bank",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.77,
+			"date": "2018"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.3,
+			"date": "2018"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.1,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 97.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 96.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.9,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 2.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 3.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 99.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 99.8,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0.2,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 1.4,
+			"global_rank": 122,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.3,
+			"global_rank": 47,
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 97.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 95.7,
+				"units": "%"
+			},
+			"note": "estimates are for Gaza and the West Bank",
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"note": "data represent Gaza Strip and the West Bank",
+			"date": "2013"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 42.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 37,
+				"units": "%"
+			},
+			"female": {
+				"value": 69.4,
+				"units": "%"
+			},
+			"note": "includes the West Bank",
+			"global_rank": 8,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Gaza Strip",
+			"local_long_form": "none",
+			"local_short_form": "Qita' Ghazzah",
+			"etymology": "named for the largest city in the region, Gaza, whose settlement can be traced back to at least the 15th century B.C. (as \"Ghazzat\")"
+		}
+	},
+	"economy": {
+		"overview": "Movement and access restrictions, violent attacks, and the slow pace of post-conflict reconstruction continue to degrade economic conditions in the Gaza Strip, the smaller of the two areas comprising the Palestinian territories. Israeli controls became more restrictive after HAMAS seized control of the territory in June 2007. Under Hamas control, Gaza has suffered from rising unemployment, elevated poverty rates, and a sharp contraction of the private sector, which had relied primarily on export markets.\nSince April 2017, the Palestinian Authority has reduced payments for electricity supplied to Gaza and cut salaries for its employees there, exacerbating poor economic conditions. Since 2014, Egypt’s crackdown on the Gaza Strip’s extensive tunnel-based smuggling network has exacerbated fuel, construction material, and consumer goods shortages in the territory. Donor support for reconstruction following the 51-day conflict in 2014 between Israel and HAMAS and other Gaza-based militant groups has fallen short of post-conflict needs.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"note": "see entry for the West Bank"
+			},
+			"official_exchange_rate": {
+				"USD": 2938000000,
+				"date": "2014"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": -15.2,
+						"units": "%",
+						"date": "2014"
+					},
+					{
+						"value": 5.6,
+						"units": "%",
+						"date": "2013"
+					},
+					{
+						"value": 7,
+						"units": "%",
+						"date": "2012"
+					}
+				],
+				"global_rank": 223,
+				"note": "excludes the West Bank"
+			},
+			"per_capita_purchasing_power_parity": {
+				"note": "see entry for the the West Bank"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 88.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 26.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 22.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -55.6,
+							"units": "%"
+						}
+					},
+					"note": "data exclude the West Bank",
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 21.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 75,
+							"units": "%"
+						}
+					},
+					"note": "data exclude the West Bank",
+					"date": "2017"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"olives",
+				"fruit",
+				"vegetables",
+				"flowers",
+				"beef",
+				"dairy products"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"food processing",
+				"furniture"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.2,
+			"global_rank": 125,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1240000,
+				"global_rank": 138,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 5.2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 10,
+						"units": "%"
+					},
+					"services": {
+						"value": 84.8,
+						"units": "%"
+					}
+				},
+				"note": "data exclude the West Bank",
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 27.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 27,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 201,
+			"note": "data exclude the West Bank"
+		},
+		"population_below_poverty_line": {
+			"value": 30,
+			"units": "%",
+			"note": "data exclude the West Bank",
+			"date": "2011"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.2,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": -0.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 16,
+			"note": "excludes the West Bank"
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1444000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1348000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 152,
+			"note": "excludes the West Bank"
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1955000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1827000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 141
+			},
+			"commodities": {
+				"by_commodity": [
+					"strawberries",
+					"carnations",
+					"vegetables",
+					"fish (small",
+					"irregular shipments",
+					"as permitted to transit the Israeli-controlled Kerem Shalom crossing)"
+				]
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 8590000000,
+						"units": "USD",
+						"date": "2018"
+					},
+					{
+						"value": 7852000000,
+						"units": "USD",
+						"date": "2017"
+					}
+				],
+				"global_rank": 108,
+				"note": "see entry for the West Bank"
+			},
+			"commodities": {
+				"by_commodity": [
+					"food",
+					"consumer goods",
+					"fuel"
+				]
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 446300000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 583000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 156
+		},
+		"external_debt": {
+			"note": "see entry for the West Bank"
+		},
+		"exchange_rates": {
+			"note": "see entry for the West Bank"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 80930,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 98,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 93,
+					"units": "%"
+				},
+				"note": "data for Gaza Strip and West Bank combined",
+				"date": "2012"
+			},
+			"production": {
+				"kWh": 51000,
+				"global_rank": 218,
+				"date": "2011"
+			},
+			"consumption": {
+				"kWh": 202000,
+				"global_rank": 216,
+				"date": "2009"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 139,
+				"date": "2011"
+			},
+			"imports": {
+				"kWh": 193000,
+				"global_rank": 117,
+				"date": "2011"
+			}
+		},
+		"crude_oil": {
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 136,
+				"date": "2010-01-01"
+			}
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 472293,
+				"subscriptions_per_one_hundred_inhabitants": 9,
+				"global_rank": 92,
+				"date": "2016-07-01"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 4135363,
+				"subscriptions_per_one_hundred_inhabitants": 76,
+				"global_rank": 128,
+				"date": "2017"
+			}
+		},
+		"broadcast_media": "1 TV station and about 10 radio stations; satellite TV accessible",
+		"internet": {
+			"country_code": ".psnote - same as the West Bank",
+			"users": {
+				"total": 2673000,
+				"percent_of_population": 57.4,
+				"global_rank": 105,
+				"date": "2016-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 222,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 1,
+					"under_914_metres": 1,
+					"date": "2019"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"roadways": {
+			"note": "see entry for the West Bank"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Gaza"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"the status of the Gaza Strip is a final status issue to be resolved through negotiations",
+			"Israel removed settlers and military personnel from Gaza Strip in September 2005"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 1460315,
+						"country_of_origin": "Palestinian refugees"
+					}
+				],
+				"date": "2020"
+			},
+			"internally_displaced_persons": {
+				"people": 243000,
+				"note": "includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian internally_displaced_persons in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006",
+				"date": "2019"
+			}
+		}
+	}
+}

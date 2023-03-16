@@ -1,0 +1,1634 @@
+{
+	"name": "Libya",
+	"introduction": {
+		"background": "Berbers have inhabited central north Africa since ancient times, but the region has been settled and ruled by Phoenicians, Greeks, Carthaginians, Persians, Egyptians, Greeks, Romans, and Vandals. In the the 7th century, Islam spread through the region; in the mid-16th century, Ottoman rule began. The Italians supplanted the Ottoman Turks in the area around Tripoli in 1911 and did not relinquish their hold until 1943 when they were defeated in World War II. Libya then passed to UN administration and achieved independence in 1951. Following a 1969 military coup, Col. Muammar al-QADHAFI assumed leadership and began to espouse his political system at home, which was a combination of socialism and Islam. During the 1970s, QADHAFI used oil revenues to promote his ideology outside Libya, supporting subversive and terrorist activities that included the downing of two airliners - one over Scotland, another in Northern Africa - and a discotheque bombing in Berlin. UN sanctions in 1992 isolated QADHAFI politically and economically following the attacks; sanctions were lifted in 2003 following Libyan acceptance of responsibility for the bombings and agreement to claimant compensation. QADHAFI also agreed to end Libya's program to develop weapons of mass destruction, and he made significant strides in normalizing relations with Western nations.\nUnrest that began in several Middle Eastern and North African countries in late 2010 erupted in Libyan cities in early 2011. QADHAFI's brutal crackdown on protesters spawned a civil war that triggered UN authorization of air and naval intervention by the international community. After months of seesaw fighting between government and opposition forces, the QADHAFI regime was toppled in mid-2011 and replaced by a transitional government known as the National Transitional Council (NTC). In 2012, the NTC handed power to an elected parliament, the General National Congress (GNC). Voters chose a new parliament to replace the GNC in June 2014 - the House of Representatives (HoR), which relocated to the eastern city of Tobruk after fighting broke out in Tripoli and Benghazi in July 2014.\nIn December 2015, the UN brokered an agreement among a broad array of Libyan political parties and social groups - known as the Libyan Political Agreement (LPA). Members of the Libyan Political Dialogue, including representatives of the HoR and GNC, signed the LPA in December 2015. The LPA called for the formation of an interim Government of National Accord or GNA, with a nine-member Presidency Council, the HoR, and an advisory High Council of State that most ex-GNC members joined. The LPA’s roadmap for a transition to a new constitution and elected government was subsequently endorsed by UN Security Council Resolution 2259, which also called upon member states to cease official contact with parallel institutions. In January 2016, the HoR voted to approve the LPA, including the Presidency Council, while voting against a controversial provision on security leadership positions and the Presidency Council’s proposed cabinet of ministers. In March 2016, the GNA Presidency Council seated itself in Tripoli. In 2016, the GNA twice announced a slate of ministers who operate in an acting capacity, but the HoR did not endorse the ministerial list. The HoR and defunct-GNC-affiliated political hardliners continued to oppose the GNA and hamper the LPA’s implementation. In September 2017, UN Special Representative Ghassan SALAME announced a new roadmap for national political reconciliation. SALAME’s plan called for amendments to the LPA, a national conference of Libyan leaders, and a constitutional referendum and general elections. In November 2018, the international partners supported SALAME’s recalibrated Action Plan for Libya that aimed to break the political deadlock by holding a National Conference in Libya in 2019 on a timeline for political transition.  The National Conference was delayed following a failure of the parties to implement an agreement mediated by SALAME in Abu Dhabi on February 27, and the subsequent military action by Khalifa HAFTAR’s Libyan National Army against GNA forces in Tripoli that began in April 2019."
+	},
+	"geography": {
+		"location": "Northern Africa, bordering the Mediterranean Sea, between Egypt, Tunisia, and Algeria",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 25,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 17,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Africa",
+		"area": {
+			"total": {
+				"value": 1759540,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 1759540,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 18,
+			"comparative": "about 2.5 times the size of Texas; slightly larger than Alaska"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 4339,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Algeria",
+					"border_length": {
+						"value": 989,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Chad",
+					"border_length": {
+						"value": 1050,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Egypt",
+					"border_length": {
+						"value": 1115,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Niger",
+					"border_length": {
+						"value": 342,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Sudan",
+					"border_length": {
+						"value": 382,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Tunisia",
+					"border_length": {
+						"value": 461,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 1770,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 62,
+				"units": "nm"
+			},
+			"note": "Gulf of Sidra closing line - 32 degrees, 30 minutes north"
+		},
+		"climate": "Mediterranean along coast; dry, extreme desert interior",
+		"terrain": "mostly barren, flat to undulating plains, plateaus, depressions",
+		"elevation": {
+			"mean_elevation": {
+				"value": 423,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Sabkhat Ghuzayyil",
+				"elevation": {
+					"value": -47,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Bikku Bitti",
+				"elevation": {
+					"value": 2267,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"petroleum",
+				"natural gas",
+				"gypsum"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 8.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 7.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0.1,
+					"units": "%"
+				},
+				"other": {
+					"value": 91.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 4700,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map",
+		"natural_hazards": [
+			{
+				"description": "hot, dry, dust-laden ghibli is a southern wind lasting one to four days in spring and fall",
+				"type": "hazard"
+			},
+			{
+				"description": "dust storms, sandstorms",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"desertification",
+				"limited natural freshwater resources",
+				"the Great Manmade River Project",
+				"the largest water development scheme in the world",
+				"brings water from large aquifers under the Sahara to coastal cities",
+				"water pollution is a significant problem",
+				"the combined impact of sewage",
+				"oil byproducts",
+				"and industrial waste threatens Libya's coast and the Mediterranean Sea"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 6890535,
+			"global_rank": 107,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Libyan(s)",
+			"adjective": "Libyan"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Berber and Arab",
+					"percent": 97
+				},
+				{
+					"name": "other",
+					"percent": 3,
+					"note": "includes Egyptian, Greek, Indian, Italian, Maltese, Pakistani, Tunisian, and Turkish"
+				}
+			]
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Arabic",
+					"note": "official"
+				},
+				{
+					"name": "Italian"
+				},
+				{
+					"name": "English ; Berber",
+					"note": "all widely understood in the major cities; Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Muslim",
+					"percent": 96.6,
+					"note": "official; virtually all Sunni"
+				},
+				{
+					"name": "Christian",
+					"percent": 2.7
+				},
+				{
+					"name": "Buddhist",
+					"percent": 0.3
+				},
+				{
+					"name": "Hindu",
+					"percent": 0.1
+				},
+				{
+					"name": "Jewish",
+					"percent": 0.1
+				},
+				{
+					"name": "folk religion",
+					"percent": 0.1
+				},
+				{
+					"name": "unafilliated",
+					"percent": 0.2
+				},
+				{
+					"name": "other",
+					"percent": 0.1
+				}
+			],
+			"note": "non-Sunni Muslims include native Ibadhi Muslims (<1% of the population) and foreign Muslims",
+			"m_e_n_a_religious_affiliation": "PDF",
+			"date": "2010"
+		},
+		"demographic_profile": "Despite continuing unrest, Libya remains a destination country for economic migrants. It is also a hub for transit migration to Europe because of its proximity to southern Europe and its lax border controls. Labor migrants have been drawn to Libya since the development of its oil sector in the 1960s. Until the latter part of the 1990s, most migrants to Libya were Arab (primarily Egyptians and Sudanese). However, international isolation stemming from Libya’s involvement in international terrorism and a perceived lack of support from Arab countries led QADHAFI in 1998 to adopt a decade-long pan-African policy that enabled large numbers of Sub-Saharan migrants to enter Libya without visas to work in the construction and agricultural industries. Although Sub-Saharan Africans provided a cheap labor source, they were poorly treated and were subjected to periodic mass expulsions.\nBy the mid-2000s, domestic animosity toward African migrants and a desire to reintegrate into the international community motivated QADHAFI to impose entry visas on Arab and African immigrants and to agree to joint maritime patrols and migrant repatriations with Italy, the main recipient of illegal migrants departing Libya. As his regime neared collapse in 2011, QADHAFI reversed his policy of cooperating with Italy to curb illegal migration and sent boats loaded with migrants and asylum seekers to strain European resources. Libya’s 2011 revolution decreased immigration drastically and prompted nearly 800,000 migrants to flee to third countries, mainly Tunisia and Egypt, or to their countries of origin. The inflow of migrants declined in 2012 but returned to normal levels by 2013, despite continued hostility toward Sub-Saharan Africans and a less-inviting job market.\nWhile Libya is not an appealing destination for migrants, since 2014, transiting migrants – primarily from East and West Africa – continue to exploit its political instability and weak border controls and use it as a primary departure area to migrate across the central Mediterranean to Europe in growing numbers. In addition, more than 200,000 people were displaced internally as of August 2017 by fighting between armed groups in eastern and western Libya and, to a lesser extent, by inter-tribal clashes in the country’s south.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 33.65,
+				"males": 1184755,
+				"females": 1134084
+			},
+			"15_to_24": {
+				"percent": 15.21,
+				"males": 534245,
+				"females": 513728
+			},
+			"25_to_54": {
+				"percent": 41.57,
+				"males": 1491461,
+				"females": 1373086
+			},
+			"55_to_64": {
+				"percent": 5.52,
+				"males": 186913,
+				"females": 193560
+			},
+			"65_and_over": {
+				"percent": 4.04,
+				"males": 129177,
+				"females": 149526
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 47.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 41,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 6.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 15,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 25.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 25.9,
+				"units": "years"
+			},
+			"female": {
+				"value": 25.7,
+				"units": "years"
+			},
+			"global_rank": 156,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.94,
+			"global_rank": 50,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 23,
+			"global_rank": 59,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 3.5,
+			"global_rank": 219,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.7,
+			"global_rank": 132,
+			"date": "2020"
+		},
+		"population_distribution": "well over 90% of the population lives along the Mediterranean coast in and between Tripoli to the west and Al Bayda to the east; the interior remains vastly underpopulated due to the Sahara and lack of surface water as shown in this population distribution map",
+		"urbanization": {
+			"urban_population": {
+				"value": 80.7,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.68,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Tripoli",
+					"population": 1165000,
+					"is_capital": true
+				},
+				{
+					"place": "Misratah",
+					"population": 881000
+				},
+				{
+					"place": "Benghazi",
+					"population": 824000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.09,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.97,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.86,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.05,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 72,
+			"global_rank": 81,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 11.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 12.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 10,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 113,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 76.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 74.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 79.1,
+				"units": "years"
+			},
+			"global_rank": 90,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 3.17,
+			"global_rank": 48,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 27.7,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.09,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 3.2,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"total": {
+					"value": 98.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 1.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 103,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 9500,
+				"global_rank": 106,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2019"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 32.5,
+			"global_rank": 16,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 11.7,
+			"global_rank": 56,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 91,
+				"units": "%"
+			},
+			"male": {
+				"value": 96.7,
+				"units": "%"
+			},
+			"female": {
+				"value": 85.6,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 48.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 40.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 67.8,
+				"units": "%"
+			},
+			"global_rank": 4,
+			"date": "2012"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "State of Libya",
+			"conventional_short_form": "Libya",
+			"local_long_form": "Dawiat Libiya",
+			"local_short_form": "Libiya",
+			"etymology": "name derives from the Libu, an ancient Libyan tribe first mentioned in texts from the 13th century B.C."
+		},
+		"government_type": "in transition",
+		"capital": {
+			"name": "Tripoli (Tarabulus)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 32,
+					"minutes": 53,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 13,
+					"minutes": 10,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "originally founded by the Phoenicians as Oea in the 7th century B.C., the city changed rulers many times over the successive centuries; by the beginning of the 3rd century A.D. the region around the city was referred to as Regio Tripolitana by the Romans, meaning \"region of the three cities\" - namely Oea (i.e., modern Tripoli), Sabratha (to the west), and Leptis Magna (to the east); over time, the shortened name of \"Tripoli\" came to refer to just Oea, which derives from the Greek words \"tria\" and \"polis\" meaning \"three cities\""
+		},
+		"independence": {
+			"date": "1951-12-24",
+			"note": "from UN trusteeship"
+		},
+		"national_holidays": [
+			{
+				"name": "Liberation Day",
+				"day": "23 October",
+				"original_year": "2011"
+			}
+		],
+		"constitution": {
+			"history": "previous 1951, 1977; in July 2017, the Constitutional Assembly completed and approved a draft of a new permanent constitution; in September 2018, the House of Representatives passed a constitutional referendum law in a session with contested reports of the quorum needed to pass the vote, and submitted it to the High National Elections Commission in December to begin preparations for a constitutional referendum"
+		},
+		"legal_system": "Libya's post-revolution legal system is in flux and driven by state and non-state entities",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"non-party state to the ICC"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent or grandparent must be a citizen of Libya",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "varies from 3 to 5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Chairman, Presidential Council, Fayiz al-SARAJ (since December 2015)",
+			"head_of_government": "Prime Minister Fayiz al-SARAJ (since December 2015)",
+			"cabinet": "GNA Presidency Council (pending approval by the House of Representatives - as of December 2018)",
+			"elections_appointments": "direct presidential election to be held pending election-related legislation and constitutional referendum law",
+			"election_results": "NA"
+		},
+		"legislative_branch": {
+			"description": "unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High Council of State serves as an advisory group for the HoR",
+			"elections": "last held on 25 June 2014 ( parliamentary election to be held pending election-related legislation); note - the Libyan Supreme Court in November 2014 declared the HoR election unconstitutional, but the HoR and the international community rejected the ruling",
+			"election_results": "percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "NA"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ABEDA"
+			},
+			{
+				"organization": "AfDB"
+			},
+			{
+				"organization": "AFESD"
+			},
+			{
+				"organization": "AMF"
+			},
+			{
+				"organization": "AMU"
+			},
+			{
+				"organization": "AU"
+			},
+			{
+				"organization": "BDEAC"
+			},
+			{
+				"organization": "CAEU"
+			},
+			{
+				"organization": "COMESA"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IDB"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "LAS"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAPEC"
+			},
+			{
+				"organization": "OIC"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OPEC"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO ",
+				"note": "observer"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Wafa M.T. BUGHAIGHIS (since 29 November 2017)",
+				"chancery": "1460 Dahlia Street NW, Washington, DC",
+				"telephone": "[1] (202) 944-9601",
+				"fax": "[1] (202) 944-9606"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Richard B. NORLAND (since 22 August 2019)",
+				"telephone": "[218] (0) 91-220-3239",
+				"embassy": "Sidi Slim Area/Walie Al-Ahed Road, Tripoli (temporarily closed); please direct inquiries regarding US citizens in Libya to LibyaEmergencyUSC@state.gov",
+				"mailing_address": "US Embassy, 8850 Tripoli Place, Washington, DC 20521-8850",
+				"note": "the US Embassy in Tripoli closed in July 2014 due to fighting near the embassy related to Libyan civil unrest; embassy staff and operations temporarily first relocated to Valetta, Malta and currently are temporarily relocated to Tunis, Tunisia"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of red (top), black (double width), and green with a white crescent and star centered on the black stripe; the National Transitional Council reintroduced this flag design of the former Kingdom of Libya (1951-1969) on 27 February 2011; it replaced the former all-green banner promulgated by the QADHAFI regime in 1977; the colors represent the three major regions of the country: red stands for Fezzan, black symbolizes Cyrenaica, and green denotes Tripolitania; the crescent and star represent Islam, the main religion of the country"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "star and crescent"
+				},
+				{
+					"symbol": "hawk"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "black"
+				},
+				{
+					"color": "green"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "Libya, Libya, Libya",
+			"lyrics_music": "Al Bashir AL AREBI/Mohamad Abdel WAHAB",
+			"note": "also known as \"Ya Beladi\" or \"Oh, My Country!\"; adopted 1951; readopted 2011 with some modification to the lyrics; during the QADHAFI years between 1969 and 2011, the anthem was \"Allahu Akbar,\" (God is Great) a marching song of the Egyptian Army in the 1956 Suez War"
+		}
+	},
+	"economy": {
+		"overview": "Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.\nThe Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 61970000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 37780000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 40800000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 106,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 30570000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 64,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": -7.4,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": -13,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 1
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 9600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 5900,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 6500,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 141,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 71.6,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 2.7,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.3,
+							"units": "%",
+							"date": "2016"
+						},
+						"exports_of_goods_and_services": {
+							"value": 38.8,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -33.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 52.3,
+							"units": "%"
+						},
+						"services": {
+							"value": 46.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": -9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": -25.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 177
+		},
+		"agriculture_products": {
+			"products": [
+				"wheat",
+				"barley",
+				"olives",
+				"dates",
+				"citrus",
+				"vegetables",
+				"peanuts",
+				"soybeans",
+				"cattle"
+			]
+		},
+		"industries": {
+			"industries": [
+				"petroleum",
+				"petrochemicals",
+				"aluminum",
+				"iron",
+				"steel",
+				"food processing",
+				"textiles",
+				"handicrafts",
+				"cement"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 60.3,
+			"global_rank": 1,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1114000,
+				"global_rank": 137,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 17,
+						"units": "%"
+					},
+					"industry": {
+						"value": 23,
+						"units": "%"
+					},
+					"services": {
+						"value": 59,
+						"units": "%"
+					}
+				},
+				"date": "2004"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 30,
+					"units": "%",
+					"date": "2004"
+				}
+			],
+			"global_rank": 206
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 15780000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 23460000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 51.6,
+			"global_rank": 14,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -25.1,
+			"global_rank": 219,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 4.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 7.5,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 205
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 28.5,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 25.9,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 221
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 2574000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -4575000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 36
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 18380000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 11990000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 71
+			},
+			"commodities": {
+				"by_commodity": [
+					"crude oil",
+					"refined petroleum products",
+					"natural gas",
+					"chemicals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Italy",
+						"percent": 19
+					},
+					{
+						"name": "Spain",
+						"percent": 12.5
+					},
+					{
+						"name": "France",
+						"percent": 11
+					},
+					{
+						"name": "Egypt",
+						"percent": 8.6
+					},
+					{
+						"name": "Germany",
+						"percent": 8.6
+					},
+					{
+						"name": "China",
+						"percent": 8.3
+					},
+					{
+						"name": "US",
+						"percent": 4.9
+					},
+					{
+						"name": "UK",
+						"percent": 4.6
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11360000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8667000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 94
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"semi-finished goods",
+					"food",
+					"transport equipment",
+					"consumer products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 13.5
+					},
+					{
+						"name": "Turkey",
+						"percent": 11.3
+					},
+					{
+						"name": "Italy",
+						"percent": 6.9
+					},
+					{
+						"name": "South Korea",
+						"percent": 5.9
+					},
+					{
+						"name": "Spain",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 74710000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 66050000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 31
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 3020000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 3116000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 143
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 1.413,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 1.3904,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 1.3904,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 1.379,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 1.2724,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Libyan dinars (LYD) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 98.5,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 99.1,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 96.4,
+					"units": "%"
+				},
+				"date": "2016"
+			},
+			"production": {
+				"kWh": 34240000000.000004,
+				"global_rank": 61,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 27300000000,
+				"global_rank": 65,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 160,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 376000000,
+				"global_rank": 83,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 9460000,
+				"global_rank": 62,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 100,
+					"global_rank": 11,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 129,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 0,
+					"global_rank": 183,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 199,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1038999.9999999999,
+				"global_rank": 19,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 337800,
+				"global_rank": 23,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 154,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 48360000000,
+				"global_rank": 9,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 89620,
+				"global_rank": 69,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 260000,
+				"global_rank": 49,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 16880,
+				"global_rank": 71,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 168200,
+				"global_rank": 36,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 9089000000,
+				"global_rank": 43,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 4446000000,
+				"global_rank": 64,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 4644000000,
+				"global_rank": 31,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 150,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 1505000000000,
+				"global_rank": 21,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 46480000,
+			"global_rank": 62,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1618511,
+				"subscriptions_per_one_hundred_inhabitants": 23.95,
+				"global_rank": 62,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 6182105,
+				"subscriptions_per_one_hundred_inhabitants": 91.48,
+				"global_rank": 111,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-funded and private TV stations; some provinces operate local TV stations; pan-Arab satellite TV stations are available; state-funded radio (2019)",
+		"internet": {
+			"country_code": ".ly",
+			"users": {
+				"total": 1440859,
+				"percent_of_population": 21.76,
+				"global_rank": 131,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 9,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 55,
+				"annual_passenger_traffic_on_registered_air_carriers": 927153,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "5A",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 146,
+					"global_rank": 39,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 68,
+					"over_3047_metres": 23,
+					"2438_to_3047_metres": 7,
+					"1524_to_2437_metres": 30,
+					"914_to_1523_metres": 7,
+					"under_914_metres": 1,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 78,
+					"over_3047_metres": 2,
+					"2438_to_3047_metres": 5,
+					"1524_to_2437_metres": 14,
+					"914_to_1523_metres": 37,
+					"under_914_metres": 20,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 882,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 3743,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 7005,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"roadways": {
+			"total": {
+				"value": 37000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 34000,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 3000,
+				"units": "km"
+			},
+			"global_rank": 92,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 94,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 2
+				},
+				{
+					"type": "oil tanker",
+					"count": 12
+				},
+				{
+					"type": "other",
+					"count": 80
+				}
+			],
+			"global_rank": 94,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Marsa al Burayqah (Marsa el Brega)",
+				"Tripoli"
+			],
+			"oil_terminals": [
+				"Az Zawiyah",
+				"Ra's Lanuf"
+			],
+			"liquid_natural_gas_terminals_export": [
+				"Marsa el Brega"
+			]
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria and the FLN's assertions of a claim to Chirac Pastures in southeastern Morocco",
+			"various Chadian rebels from the Aozou region reside in southern Libya"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 16820,
+						"country_of_origin": "Syria",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 12220,
+						"country_of_origin": "Sudan",
+						"note": "refugees and asylum seekers"
+					},
+					{
+						"people": 5899,
+						"country_of_origin": "Eritrea",
+						"note": "refugees and asylum seekers"
+					}
+				],
+				"date": "2019"
+			},
+			"internally_displaced_persons": {
+				"people": 392241,
+				"note": "conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014",
+				"date": "2020"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Libya is a destination and transit country for men and women from Sub-Saharan Africa and Asia subjected to forced labor and forced prostitution; migrants who seek employment in Libya as laborers and domestic workers or who transit Libya en route to Europe are vulnerable to forced labor; private employers also exploit migrants from detention centers as forced laborers on farms and construction sites, returning them to detention when they are no longer needed; some Sub-Saharan women are reportedly forced to work in Libyan brothels, particularly in the country’s south; since 2013, militia groups and other informal armed groups, including some affiliated with the government, are reported to conscript Libyan children under the age of 18; large-scale violence driven by militias, civil unrest, and increased lawlessness increased in 2014, making it more difficult to obtain information on human trafficking",
+			"tier_rating": "Tier 3 - the Libyan Government does not fully comply with the minimum standards for the elimination of trafficking and is not making significant efforts to do so; in 2014, the government’s capacity to address human trafficking was hampered by the ongoing power struggle and violence; the judicial system was not functioning, preventing any efforts to investigate, prosecute, or convict traffickers, complicit detention camp guards or government officials, or militias or armed groups that used child soldiers; the government failed to identify or provide protection to trafficking victims, including child conscripts, and continued to punish victims for unlawful acts committed as a direct result of being trafficked; no public anti-trafficking awareness campaigns were conducted (2015)"
+		}
+	}
+}

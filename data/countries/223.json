@@ -1,0 +1,1960 @@
+{
+	"name": "Sweden",
+	"introduction": {
+		"background": "A military power during the 17th century, Sweden has not participated in any war for two centuries. An armed neutrality was preserved in both World Wars. Since then, Sweden has pursued a successful economic formula consisting of a capitalist system intermixed with substantial welfare elements. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum. The share of Sweden’s population born abroad increased from 11.3% in 2000 to 19.1% in 2018."
+	},
+	"geography": {
+		"location": "Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, Kattegat, and Skagerrak, between Finland and Norway",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 62,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 15,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 450295,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 410335,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 39960,
+				"units": "sq km"
+			},
+			"global_rank": 57,
+			"comparative": "almost three times the size of Georgia; slightly larger than California"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2211,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Finland",
+					"border_length": {
+						"value": 545,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Norway",
+					"border_length": {
+						"value": 1666,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 3218,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm",
+				"note": "adjustments made to return a portion of straits to high seas"
+			},
+			"exclusive_economic_zone": "agreed boundaries or midlines",
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "temperate in south with cold, cloudy winters and cool, partly cloudy summers; subarctic in north",
+		"terrain": "mostly flat or gently rolling lowlands; mountains in west",
+		"elevation": {
+			"mean_elevation": {
+				"value": 320,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "reclaimed bay of Lake Hammarsjon, near Kristianstad",
+				"elevation": {
+					"value": -2.4,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Kebnekaise",
+				"elevation": {
+					"value": 2111,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"iron ore",
+				"copper",
+				"lead",
+				"zinc",
+				"gold",
+				"silver",
+				"tungsten",
+				"uranium",
+				"arsenic",
+				"feldspar",
+				"timber",
+				"hydropower"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 7.5,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 6.4,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 1.1,
+					"units": "%"
+				},
+				"forest": {
+					"value": 68.7,
+					"units": "%"
+				},
+				"other": {
+					"value": 23.8,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 1640,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated",
+		"natural_hazards": [
+			{
+				"description": "ice floes in the surrounding waters, especially in the Gulf of Bothnia, can interfere with maritime traffic",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"marine pollution (Baltic Sea and North Sea)",
+				"acid rain damage to soils and lakes",
+				"air pollution",
+				"inappropriate timber harvesting practices"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 10202491,
+			"global_rank": 91,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Swede(s)",
+			"adjective": "Swedish"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Swedish",
+					"percent": 80.9
+				},
+				{
+					"name": "Syrian",
+					"percent": 1.8
+				},
+				{
+					"name": "Finnish",
+					"percent": 1.4
+				},
+				{
+					"name": "Iraqi",
+					"percent": 1.4
+				},
+				{
+					"name": "other",
+					"percent": 14.5
+				}
+			],
+			"note": "data represent the population by country of birth; the indigenous Sami people are estimated to number between 20,000 and 40,000",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Swedish",
+					"note": "official"
+				}
+			],
+			"note": "Finnish, Sami, Romani, Yiddish, and Meankieli are official minority languages"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Church of Sweden",
+					"percent": 60.2,
+					"note": "Lutheran"
+				},
+				{
+					"name": "other",
+					"percent": 8.5,
+					"note": "includes Roman Catholic, Orthodox, Baptist Muslim, Jewish, and Buddhist"
+				},
+				{
+					"name": "none or unspecified",
+					"percent": 31.3
+				}
+			],
+			"note": "estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members); an estimated 57.7% of Sweden's population were members of the Church of Sweden in 2018",
+			"date": "2017"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 17.71,
+				"males": 928413,
+				"females": 878028
+			},
+			"15_to_24": {
+				"percent": 10.8,
+				"males": 569082,
+				"females": 532492
+			},
+			"25_to_54": {
+				"percent": 39.01,
+				"males": 2016991,
+				"females": 1962617
+			},
+			"55_to_64": {
+				"percent": 11.9,
+				"males": 610521,
+				"females": 603795
+			},
+			"65_and_over": {
+				"percent": 20.59,
+				"males": 974410,
+				"females": 1126142
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 61.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 28.4,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 32.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 41.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 42.1,
+				"units": "years"
+			},
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.79,
+			"global_rank": 130,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 12.1,
+			"global_rank": 161,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.4,
+			"global_rank": 49,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 5.2,
+			"global_rank": 22,
+			"date": "2020"
+		},
+		"population_distribution": "most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated",
+		"urbanization": {
+			"urban_population": {
+				"value": 88,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.05,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Stockholm",
+					"population": 1633000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.87,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.3,
+			"date": "2015"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 4,
+			"global_rank": 175,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 2.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 2.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 2.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 220,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 82.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 80.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 84.5,
+				"units": "years"
+			},
+			"global_rank": 18,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.87,
+			"global_rank": 138,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 3.98,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.2,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.2,
+				"global_rank": 111,
+				"date": "2016"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 11000,
+				"global_rank": 100,
+				"date": "2016"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 20.6,
+			"global_rank": 97,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 7.7,
+			"global_rank": 6,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 20,
+				"units": "years"
+			},
+			"male": {
+				"value": 19,
+				"units": "years"
+			},
+			"female": {
+				"value": 21,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 16.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 18,
+				"units": "%"
+			},
+			"female": {
+				"value": 15.5,
+				"units": "%"
+			},
+			"global_rank": 81,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Sweden",
+			"conventional_short_form": "Sweden",
+			"local_long_form": "Konungariket Sverige",
+			"local_short_form": "Sverige",
+			"etymology": "name ultimately derives from the North Germanic Svear tribe, which inhabited central Sweden and is first mentioned in the first centuries A.D."
+		},
+		"government_type": "parliamentary constitutional monarchy",
+		"capital": {
+			"name": "Stockholm",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 59,
+					"minutes": 20,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 18,
+					"minutes": 3,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "\"stock\" and \"holm\" literally mean \"log\" and \"islet\" in Swedish, but there is no consensus as to what the words refer to"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Blekinge",
+				"type": ""
+			},
+			{
+				"name": "Dalarna",
+				"type": ""
+			},
+			{
+				"name": "Gavleborg",
+				"type": ""
+			},
+			{
+				"name": "Gotland",
+				"type": ""
+			},
+			{
+				"name": "Halland",
+				"type": ""
+			},
+			{
+				"name": "Jamtland",
+				"type": ""
+			},
+			{
+				"name": "Jonkoping",
+				"type": ""
+			},
+			{
+				"name": "Kalmar",
+				"type": ""
+			},
+			{
+				"name": "Kronoberg",
+				"type": ""
+			},
+			{
+				"name": "Norrbotten",
+				"type": ""
+			},
+			{
+				"name": "Orebro",
+				"type": ""
+			},
+			{
+				"name": "Ostergotland",
+				"type": ""
+			},
+			{
+				"name": "Skane",
+				"type": ""
+			},
+			{
+				"name": "Sodermanland",
+				"type": ""
+			},
+			{
+				"name": "Stockholm",
+				"type": ""
+			},
+			{
+				"name": "Uppsala",
+				"type": ""
+			},
+			{
+				"name": "Varmland",
+				"type": ""
+			},
+			{
+				"name": "Vasterbotten",
+				"type": ""
+			},
+			{
+				"name": "Vasternorrland",
+				"type": ""
+			},
+			{
+				"name": "Vastmanland",
+				"type": ""
+			},
+			{
+				"name": "Vastra Gotaland",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1523-06-06",
+			"note": "Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union between Denmark, Norway, and Sweden"
+		},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "6 June",
+				"original_year": "1983",
+				"note": "from 1916 to 1982 this date was celebrated as Swedish Flag Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted 1 January 1975",
+			"amendments": "proposed by Parliament; passage requires simple majority vote in two consecutive parliamentary terms with an intervening general election; passage also requires approval by simple majority vote in a referendum if Parliament approves a motion for a referendum by one third of its members; amended several times, last in 2014 (changes to the \"Instrument of Government\")"
+		},
+		"legal_system": "civil law system influenced by Roman-Germanic law and customary law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "the father must be a citizen of Sweden; in the case of a child born out of wedlock, the mother must be a citizen of Sweden and the father unknown",
+			"dual_citizenship_recognized": "no, unless the other citizenship was acquired involuntarily",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King CARL XVI GUSTAF (since 15 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree (daughter of the monarch, born 14 July 1977)",
+			"head_of_government": "Prime Minister Stefan LOFVEN (since 3 October 2014); Deputy Prime Minister Isabella LOVIN (since 25 May 2016); note - Prime Minister Stefan LOFVEN was ousted in a no-confidence vote on 25 September 2018 and headed a caretaker government until the next government was formed; LOFVEN was reelected as Prime Minister and took office on 21 January 2019",
+			"cabinet": "Cabinet appointed by the prime minister",
+			"elections_appointments": "the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by closed, party-list proportional representation vote and 39 members in \"at-large\" seats directly elected by proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on 9 September 2018 (next to be held in 2022)",
+			"election_results": "percent of vote by party - SAP 28.3%, M 19.8%, SD 17.5%, C 8.6%, V 8%, KD 6.3%, L 5.5%, MP 4.4%, other 1.6%; seats by party - SAP 100, M 70, SD 62, C 31, V 28, KD 22, L 20, MP 16; composition - men 188, women 161, percent of women 46.1%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)",
+			"judge_selection_and_term_of_office": "Supreme Court and Supreme Administrative Court justices nominated by the Judges Proposal Board, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the Government; following a probationary period, justices' appointments are permanent",
+			"subordinate_courts": "first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Center Party",
+					"name_alternative": "C",
+					"leaders": [
+						"Annie LOOF"
+					],
+					"note": "Centerpartiet"
+				},
+				{
+					"name": "Christian Democrats",
+					"name_alternative": "KD",
+					"leaders": [
+						"Ebba Busch THOR"
+					],
+					"note": "Kristdemokraterna"
+				},
+				{
+					"name": "Green Party",
+					"name_alternative": "MP",
+					"leaders": [
+						"Isabella LOVIN and Per BOLUND"
+					],
+					"note": "Miljopartiet de Grona"
+				},
+				{
+					"name": "Left Party",
+					"name_alternative": "V",
+					"leaders": [
+						"Jonas SJOSTEDT"
+					],
+					"note": "Vansterpartiet"
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "L",
+					"leaders": [
+						"Jan BJORKLUND"
+					],
+					"note": "Liberalerna"
+				},
+				{
+					"name": "Moderate Party",
+					"name_alternative": "M",
+					"leaders": [
+						"Ulf KRISTERSSON"
+					],
+					"note": "Moderaterna"
+				},
+				{
+					"name": "Swedish Social Democratic Party",
+					"name_alternative": "SAP",
+					"leaders": [
+						"Stefan LOFVEN"
+					],
+					"note": "Socialdemokraterna"
+				},
+				{
+					"name": "Sweden Democrats",
+					"name_alternative": "SD",
+					"leaders": [
+						"Jimmie AKESSON"
+					],
+					"note": "Sverigedemokraterna"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-9"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PFP"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "temporary"
+			},
+			{
+				"organization": "UNTSO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Karin Ulrika OLOFSDOTTER (since 17 September 2017)",
+				"chancery": "The House of Sweden, 2900 K Street NW, Washington, DC 20007",
+				"telephone": "[1] (202) 536-1500",
+				"fax": "[1] (202) 536-1501",
+				"consulates_general": "New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Kenneth A. HOWERY (since 10 October 2019)",
+				"telephone": "[46] (08) 783 53 00",
+				"embassy": "Dag Hammarskjolds Vag 31, SE-11589 Stockholm",
+				"mailing_address": "American Embassy Stockholm, US Department of State, 5750 Stockholm Place, Washington, DC 20521-5750",
+				"fax": "[46] (08) 661 19 64"
+			}
+		},
+		"flag_description": {
+			"description": "blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors reflect those of the Swedish coat of arms - three gold crowns on a blue field"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "three crowns"
+				},
+				{
+					"symbol": "lion"
+				}
+			],
+			"colors": [
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Du Gamla, Du Fria\" (Thou Ancient, Thou Free)",
+			"lyrics_music": "Richard DYBECK/traditional",
+			"note": "in use since 1844; also known as \"Sang till Norden\" (Song of the North), is based on a Swedish folk tune; it has never been officially adopted by the government; \"Kungssangen\" (The King's Song) serves as the royal anthem and is played in the presence of the royal family and during certain state ceremonies",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/SW.mp3?1538604760"
+		}
+	},
+	"economy": {
+		"overview": "Sweden’s small, open, and competitive economy has been thriving and Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system.\nTimber, hydropower, and iron ore constitute the resource base of a manufacturing economy that relies heavily on foreign trade. Exports, including engines and other machines, motor vehicles, and telecommunications equipment, account for more than 44% of GDP. Sweden enjoys a current account surplus of about 5% of GDP, which is one of the highest margins in Europe.\nGDP grew an estimated 3.3% in 2016 and 2017 driven largely by investment in the construction sector. Swedish economists expect economic growth to ease slightly in the coming years as this investment subsides. Global economic growth boosted exports of Swedish manufactures further, helping drive domestic economic growth in 2017. The Central Bank is keeping an eye on deflationary pressures and bank observers expect it to maintain an expansionary monetary policy in 2018. Swedish prices and wages have grown only slightly over the past few years, helping to support the country’s competitiveness.\nIn the short and medium term, Sweden’s economic challenges include providing affordable housing and successfully integrating migrants into the labor market.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 518000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 507300000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 494000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 40,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 535600000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.29,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 2.06,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.82,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 163
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 51200,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 50800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 50100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 26,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 44.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 26,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 24.9,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.8,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 45.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -41.1,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 1.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 33,
+							"units": "%"
+						},
+						"services": {
+							"value": 65.4,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 28.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 28.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 34
+		},
+		"agriculture_products": {
+			"products": [
+				"barley",
+				"wheat",
+				"sugar beets",
+				"meat",
+				"milk"
+			]
+		},
+		"industries": {
+			"industries": [
+				"iron",
+				"steel",
+				"precision equipment",
+				"bearings",
+				"radio",
+				"telephone parts",
+				"armaments",
+				"wood pulp",
+				"paper products",
+				"processed foods",
+				"motor vehicles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 4.1,
+			"global_rank": 74,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 5029000,
+				"global_rank": 77,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 2,
+						"units": "%"
+					},
+					"industry": {
+						"value": 12,
+						"units": "%"
+					},
+					"services": {
+						"value": 86,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 6.78,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 6.33,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 107
+		},
+		"population_below_poverty_line": {
+			"value": 15,
+			"units": "%",
+			"date": "2014"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.4,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 24,
+				"units": "%"
+			},
+			"date": "2012"
+		},
+		"budget": {
+			"revenues": {
+				"value": 271200000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 264399999999.99997,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 50.6,
+			"global_rank": 16,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.3,
+			"global_rank": 27,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 40.8,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 42.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 124,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.1,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 100
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 22339000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 13902000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 16
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 165600000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 151400000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 31
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery (26%)",
+					"motor vehicles",
+					"paper products",
+					"pulp",
+					"wood",
+					"iron",
+					"steel products",
+					"chemicals"
+				],
+				"date": "2016"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 11
+					},
+					{
+						"name": "Norway",
+						"percent": 10.2
+					},
+					{
+						"name": "Finland",
+						"percent": 6.9
+					},
+					{
+						"name": "US",
+						"percent": 6.9
+					},
+					{
+						"name": "Denmark",
+						"percent": 6.9
+					},
+					{
+						"name": "UK",
+						"percent": 6.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.5
+					},
+					{
+						"name": "China",
+						"percent": 4.5
+					},
+					{
+						"name": "Belgium",
+						"percent": 4.4
+					},
+					{
+						"name": "France",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 153200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 140200000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 30
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"petroleum",
+					"petroleum products",
+					"chemicals",
+					"motor vehicles",
+					"iron",
+					"steel",
+					"foodstuffs",
+					"clothing"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 18.7
+					},
+					{
+						"name": "Netherlands",
+						"percent": 8.9
+					},
+					{
+						"name": "Norway",
+						"percent": 7.7
+					},
+					{
+						"name": "Denmark",
+						"percent": 7.2
+					},
+					{
+						"name": "China",
+						"percent": 5.5
+					},
+					{
+						"name": "UK",
+						"percent": 5.1
+					},
+					{
+						"name": "Finland",
+						"percent": 4.7
+					},
+					{
+						"name": "Belgium",
+						"percent": 4.7
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 62220000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 59390000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 36
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 939900000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 929400000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 16
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 8.442,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 8.5605,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 8.5605,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 8.4335,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 6.8612,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Swedish kronor (SEK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 152900000000,
+				"global_rank": 27,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 133500000000,
+				"global_rank": 27,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 26020000000,
+				"global_rank": 6,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 14290000000,
+				"global_rank": 16,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 40290000,
+				"global_rank": 26,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 5,
+					"global_rank": 204,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 22,
+					"global_rank": 6,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 42,
+					"global_rank": 50,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 32,
+					"global_rank": 16,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 204,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 14570,
+				"global_rank": 55,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 400200,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 200,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 413200,
+				"global_rank": 36,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 323100,
+				"global_rank": 42,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 371100,
+				"global_rank": 23,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 229600,
+				"global_rank": 29,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 204,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 764500000,
+				"global_rank": 97,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 193,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 764500000,
+				"global_rank": 64,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 199,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 52310000,
+			"global_rank": 58,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 1941360,
+				"subscriptions_per_one_hundred_inhabitants": 19.18,
+				"global_rank": 56,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 12785850,
+				"subscriptions_per_one_hundred_inhabitants": 126.32,
+				"global_rank": 73,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "publicly owned TV broadcaster operates 2 terrestrial networks plus regional stations; multiple privately owned TV broadcasters operating nationally, regionally, and locally; about 50 local TV stations; widespread access to pan-Nordic and international broadcasters through multi-channel cable and satellite TV; publicly owned radio broadcaster operates 3 national stations and a network of 25 regional channels; roughly 100 privately owned local radio stations with some consolidating into near national networks; an estimated 900 community and neighborhood radio stations broadcast intermittently",
+		"internet": {
+			"country_code": ".se",
+			"users": {
+				"total": 9251773,
+				"percent_of_population": 92.14,
+				"global_rank": 56,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 11,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 316,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "SE",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 231,
+					"global_rank": 25,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 149,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 12,
+					"1524_to_2437_metres": 75,
+					"914_to_1523_metres": 22,
+					"under_914_metres": 37,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 82,
+					"914_to_1523_metres": 5,
+					"under_914_metres": 77,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1626,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 14127,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 14062,
+				"electrified": 12322,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 65,
+				"electrified": 65,
+				"units": "km\n0.891-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 20,
+			"date": "2016"
+		},
+		"roadways": {
+			"total": {
+				"value": 573134,
+				"units": "km",
+				"note": "includes 2,050 km of expressways"
+			},
+			"paved": {
+				"value": 140100,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 433034,
+				"units": "km"
+			},
+			"note": "includes 98,500 km of state roads, 433,034 km of private roads, and 41,600 km of municipal roads",
+			"global_rank": 13,
+			"date": "2016"
+		},
+		"waterways": {
+			"value": 2052,
+			"units": "km",
+			"global_rank": 40,
+			"date": "2010"
+		},
+		"merchant_marine": {
+			"total": 360,
+			"by_type": [
+				{
+					"type": "general cargo",
+					"count": 51
+				},
+				{
+					"type": "oil tanker",
+					"count": 20
+				},
+				{
+					"type": "other",
+					"count": 289
+				}
+			],
+			"global_rank": 50,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Brofjorden",
+				"Goteborg",
+				"Helsingborg",
+				"Karlshamn",
+				"Lulea",
+				"Malmo",
+				"Stockholm",
+				"Trelleborg",
+				"Visby"
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Brunnsviksholme",
+				"Lysekil"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 114
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both female and male (age 18), and requires 9-12 months of service",
+			"date": "2018"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 113418,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 27933,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 30546,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 17593,
+						"country_of_origin": "Somalia"
+					},
+					{
+						"people": 12460,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 7408,
+						"country_of_origin": "Iran"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 30305,
+				"date": "2019"
+			}
+		}
+	}
+}

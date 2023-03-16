@@ -1,0 +1,180 @@
+{
+	"name": "Jan Mayen",
+	"introduction": {
+		"background": "This desolate, arctic, mountainous island was named after a Dutch whaling captain who indisputably discovered it in 1614 (earlier claims are inconclusive). Visited only occasionally by seal hunters and trappers over the following centuries, the island came under Norwegian sovereignty in 1929. The long dormant Beerenberg volcano, the northernmost active volcano on earth, resumed activity in 1970 and the most recent eruption occurred in 1985."
+	},
+	"geography": {
+		"location": "Northern Europe, island between the Greenland Sea and the Norwegian Sea, northeast of Iceland",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 71,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 8,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Arctic Region",
+		"area": {
+			"total": {
+				"value": 377,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 377,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 206,
+			"comparative": "slightly more than twice the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 124.1,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "arctic maritime with frequent storms and persistent fog",
+		"terrain": "volcanic island, partly covered by glaciers",
+		"elevation": {
+			"lowest_point": {
+				"name": "Norwegian Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Haakon VII Toppen on Beerenberg",
+				"elevation": {
+					"value": 2277
+				}
+			},
+			"note": "Beerenberg volcano has numerous peaks; the highest point on the volcano rim is named Haakon VII Toppen, after Norway's first king following the reestablishment of Norwegian independence in 1905"
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 0,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"natural_hazards": [
+			{
+				"description": "dominated by the volcano Beerenberg",
+				"type": "hazard"
+			},
+			{
+				"description": "Beerenberg (2,227 m) is Norway's only active volcano; volcanic activity resumed in 1970; the most recent eruption occurred in 1985",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"pollutants transported from southerly latitudes by winds",
+				"ocean currents",
+				"and rivers accumulate in the food chains of native animals",
+				"climate change"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Jan Mayen",
+			"etymology": "named after Dutch Captain Jan Jacobszoon MAY, one of the first explorers to reach the island in 1614"
+		},
+		"legal_system": "the laws of Norway apply where applicable",
+		"flag_description": {
+			"description": "the flag of Norway is used"
+		}
+	},
+	"economy": {
+		"overview": "Jan Mayen is a volcanic island with no exploitable natural resources, although surrounding waters contain substantial fish stocks and potential untapped petroleum resources. Economic activity is limited to providing services for employees of Norway's radio and meteorological stations on the island."
+	},
+	"communications": {
+		"broadcast_media": "a coastal radio station has been remotely operated since 1994"
+	},
+	"transportation": {
+		"air_transport": {
+			"airports": {
+				"total": {
+					"airports": 1,
+					"global_rank": 225,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 1,
+					"1524_to_2437_metres": 1,
+					"date": "2013"
+				}
+			}
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Norway"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

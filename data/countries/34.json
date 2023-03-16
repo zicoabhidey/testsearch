@@ -1,0 +1,2250 @@
+{
+	"name": "Brazil",
+	"introduction": {
+		"background": "Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. By far the largest and most populous country in South America, Brazil underwent more than a half century of populist and military government until 1985, when the military regime peacefully ceded power to civilian rulers. Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was seen as symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. In October 2018, Jair BOLSONARO won the presidency with 55 percent of the vote and assumed office on 1 January 2019."
+	},
+	"geography": {
+		"location": "Eastern South America, bordering the Atlantic Ocean",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 10,
+				"minutes": 0,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 55,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "South America",
+		"area": {
+			"total": {
+				"value": 8515770,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 8358140,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 157630,
+				"units": "sq km"
+			},
+			"note": "includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo",
+			"global_rank": 6,
+			"comparative": "slightly smaller than the US"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 16145,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Argentina",
+					"border_length": {
+						"value": 1263,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Bolivia",
+					"border_length": {
+						"value": 3403,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Colombia",
+					"border_length": {
+						"value": 1790,
+						"units": "km"
+					}
+				},
+				{
+					"country": "French Guiana",
+					"border_length": {
+						"value": 649,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Guyana",
+					"border_length": {
+						"value": 1308,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Paraguay",
+					"border_length": {
+						"value": 1371,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Peru",
+					"border_length": {
+						"value": 2659,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Suriname",
+					"border_length": {
+						"value": 515,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Uruguay",
+					"border_length": {
+						"value": 1050,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Venezuela",
+					"border_length": {
+						"value": 2137,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 7491,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or to edge of the continental margin"
+			}
+		},
+		"climate": "mostly tropical, but temperate in south",
+		"terrain": "mostly flat to rolling lowlands in north; some plains, hills, mountains, and narrow coastal belt",
+		"elevation": {
+			"mean_elevation": {
+				"value": 320,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Pico da Neblina",
+				"elevation": {
+					"value": 2994,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"alumina",
+				"bauxite",
+				"beryllium",
+				"gold",
+				"iron ore",
+				"manganese",
+				"nickel",
+				"niobium",
+				"phosphates",
+				"platinum",
+				"tantalum",
+				"tin",
+				"rare earth elements",
+				"uranium",
+				"petroleum",
+				"hydropower",
+				"timber"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 32.9,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 8.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 23.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 61.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 5.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 54000,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro",
+		"natural_hazards": [
+			{
+				"description": "recurring droughts in northeast",
+				"type": "hazard"
+			},
+			{
+				"description": "floods and occasional frost in south",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"deforestation in Amazon Basin destroys the habitat and endangers a multitude of plant and animal species indigenous to the area",
+				"illegal wildlife trade",
+				"illegal poaching",
+				"air and water pollution in Rio de Janeiro",
+				"Sao Paulo",
+				"and several other large cities",
+				"land degradation and water pollution caused by improper mining activities",
+				"wetland degradation",
+				"severe oil spills"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 211715973,
+			"global_rank": 7,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Brazilian(s)",
+			"adjective": "Brazilian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white",
+					"percent": 47.7
+				},
+				{
+					"name": "mulatto",
+					"percent": 43.1,
+					"note": "mixed white and black"
+				},
+				{
+					"name": "black",
+					"percent": 7.6
+				},
+				{
+					"name": "Asian",
+					"percent": 1.1
+				},
+				{
+					"name": "indigenous",
+					"percent": 0.4
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Portuguese",
+					"note": "official and most widely spoken language"
+				}
+			],
+			"note": "less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and a large number of minor Amerindian languages"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 64.6
+				},
+				{
+					"name": "other Catholic",
+					"percent": 0.4
+				},
+				{
+					"name": "Protestant",
+					"percent": 22.2,
+					"breakdown": [
+						{
+							"name": "includes Adventist",
+							"percent": 6.5
+						},
+						{
+							"name": "Assembly of God",
+							"percent": 2
+						},
+						{
+							"name": "Christian Congregation of Brazil",
+							"percent": 1.2
+						},
+						{
+							"name": "Universal Kingdom of God",
+							"percent": 1
+						},
+						{
+							"name": "other Protestant",
+							"percent": 11.5
+						}
+					]
+				},
+				{
+					"name": "other Christian",
+					"percent": 0.7
+				},
+				{
+					"name": "Spiritist",
+					"percent": 2.2
+				},
+				{
+					"name": "other",
+					"percent": 1.4
+				},
+				{
+					"name": "none",
+					"percent": 8
+				},
+				{
+					"name": "unspecified",
+					"percent": 0.4
+				}
+			],
+			"date": "2010"
+		},
+		"demographic_profile": "Brazil's rapid fertility decline since the 1960s is the main factor behind the country's slowing population growth rate, aging population, and fast-paced demographic transition. Brasilia has not taken full advantage of its large working-age population to develop its human capital and strengthen its social and economic institutions but is funding a study abroad program to bring advanced skills back to the country. The current favorable age structure will begin to shift around 2025, with the labor force shrinking and the elderly starting to compose an increasing share of the total population. Well-funded public pensions have nearly wiped out poverty among the elderly, and Bolsa Familia and other social programs have lifted tens of millions out of poverty. More than half of Brazil's population is considered middle class, but poverty and income inequality levels remain high; the Northeast, North, and Center-West, women, and black, mixed race, and indigenous populations are disproportionately affected. Disparities in opportunities foster social exclusion and contribute to Brazil's high crime rate, particularly violent crime in cities and favelas (slums).\nBrazil has traditionally been a net recipient of immigrants, with its southeast being the prime destination. After the importation of African slaves was outlawed in the mid-19th century, Brazil sought Europeans (Italians, Portuguese, Spaniards, and Germans) and later Asians (Japanese) to work in agriculture, especially coffee cultivation. Recent immigrants come mainly from Argentina, Chile, and Andean countries (many are unskilled illegal migrants) or are returning Brazilian nationals. Since Brazil's economic downturn in the 1980s, emigration to the United States, Europe, and Japan has been rising but is negligible relative to Brazil's total population. The majority of these emigrants are well-educated and middle-class. Fewer Brazilian peasants are emigrating to neighboring countries to take up agricultural work.",
+		"age_structure": {
+			"0_to_14": {
+				"percent": 21.11,
+				"males": 22790634,
+				"females": 21907018
+			},
+			"15_to_24": {
+				"percent": 16.06,
+				"males": 17254363,
+				"females": 16750581
+			},
+			"25_to_54": {
+				"percent": 43.83,
+				"males": 46070240,
+				"females": 46729640
+			},
+			"55_to_64": {
+				"percent": 9.78,
+				"males": 9802995,
+				"females": 10911140
+			},
+			"65_and_over": {
+				"percent": 9.21,
+				"males": 8323344,
+				"females": 11176018
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 43.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 29.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 13.8,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 7.3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 33.2,
+				"units": "years"
+			},
+			"male": {
+				"value": 32.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 34.1,
+				"units": "years"
+			},
+			"global_rank": 101,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.67,
+			"global_rank": 140,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 13.6,
+			"global_rank": 137,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6.9,
+			"global_rank": 129,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.1,
+			"global_rank": 101,
+			"date": "2020"
+		},
+		"population_distribution": "the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro",
+		"urbanization": {
+			"urban_population": {
+				"value": 87.1,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.05,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Sao Paulo",
+					"population": 22043000
+				},
+				{
+					"place": "Rio De Janeiro",
+					"population": 13458000
+				},
+				{
+					"place": "Belo Horizonte",
+					"population": 6084000
+				},
+				{
+					"place": "Brasilia",
+					"population": 4646000,
+					"is_capital": true
+				},
+				{
+					"place": "Porto Alegre",
+					"population": 4136999.9999999995
+				},
+				{
+					"place": "Recife",
+					"population": 4127000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.9,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.74,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.97,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 60,
+			"global_rank": 88,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 15.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 18.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 12.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 94,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 74.7,
+				"units": "years"
+			},
+			"male": {
+				"value": 71.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 78.4,
+				"units": "years"
+			},
+			"global_rank": 126,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.73,
+			"global_rank": 165,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 80.2,
+			"units": "%",
+			"date": "2013"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.17,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.1,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 91.6,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 98.2,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 8.4,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 1.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 92.8,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 60.1,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 88.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 7.2,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 39.9,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 11.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.5,
+				"global_rank": 66,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 920000,
+				"global_rank": 12,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 14000,
+				"global_rank": 12,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"water_contact_diseases": [
+				"schistosomiasis"
+			],
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 10 November 2020, Brazil has reported a total of 5,631,181 cases of COVID-19 or 26,492 cumulative cases of COVID-19 per 1 million population with 762 cumulative deaths per 1 million population; the Department of Homeland Security has issued instructions requiring US passengers who have been in Brazil to travel through select airports where the US Government has implemented enhanced screening procedures",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.1,
+			"global_rank": 82,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 6.2,
+			"global_rank": 28,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 93.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 93,
+				"units": "%"
+			},
+			"female": {
+				"value": 93.4,
+				"units": "%"
+			},
+			"date": "2018"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 14,
+				"units": "years"
+			},
+			"male": {
+				"value": 14,
+				"units": "years"
+			},
+			"female": {
+				"value": 14,
+				"units": "years"
+			},
+			"date": "2011"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 28.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 25.3,
+				"units": "%"
+			},
+			"female": {
+				"value": 32.8,
+				"units": "%"
+			},
+			"global_rank": 39,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Federative Republic of Brazil",
+			"conventional_short_form": "Brazil",
+			"local_long_form": "Republica Federativa do Brasil",
+			"local_short_form": "Brasil",
+			"etymology": "the country name derives from the brazilwood tree that used to grow plentifully along the coast of Brazil and that was used to produce a deep red dye"
+		},
+		"government_type": "federal presidential republic",
+		"capital": {
+			"name": "Brasilia",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 15,
+					"minutes": 47,
+					"hemisphere": "S"
+				},
+				"longitude": {
+					"degrees": 47,
+					"minutes": 55,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins third Sunday in October; ends third Sunday in February",
+			"note": "Brazil has four time zones, including one for the Fernando de Noronha Islands",
+			"etymology": "name bestowed on the new capital of Brazil upon its inauguration in 1960; previous Brazilian capitals had been Salvador from 1549 to 1763 and Rio de Janeiro from 1763 to 1960"
+		},
+		"administrative_divisions": [
+			{
+				"name": "estado) and 1 federal district",
+				"type": ""
+			}
+		],
+		"independence": {
+			"date": "1822-09-07",
+			"note": "from Portugal"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "7 September",
+				"original_year": "1822"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest ratified 5 October 1988",
+			"amendments": "proposed by at least one third of either house of the National Congress, by the president of the republic, or by simple majority vote by more than half of the state legislative assemblies; passage requires at least three-fifths majority vote by both houses in each of two readings; constitutional provisions affecting the federal form of government, separation of powers, suffrage, or individual rights and guarantees cannot be amended; amended many times, last in 2017"
+		},
+		"legal_system": "civil law; note - a new civil law code was enacted in 2002 replacing the 1916 code",
+		"international_law_organization_participation": [
+			"has not submitted an ICJ jurisdiction declaration",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "yes",
+			"citizenship_by_descent_only": "yes",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "4 years"
+		},
+		"suffrage": {
+			"note": "voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Jair BOLSONARO (since 1 January 2019); Vice President Antonio Hamilton Martins MOURAO (since 1 January 2019); note - the president is both chief of state and head of government",
+			"head_of_government": "President Jair BOLSONARO (since 1 January 2019); Vice President Antonio Hamilton Martins MOURAO (since 1 January 2019)",
+			"cabinet": "Cabinet appointed by the president",
+			"elections_appointments": "president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 4-year term (eligible for a second term); election last held on 7 October 2018 with runoff on 28 October 2018 (next to be held in October 2022)",
+			"election_results": "Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%"
+		},
+		"legislative_branch": {
+			"description": "bicameral National Congress or Congresso Nacional consists of: Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)\nChamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)",
+			"elections": "Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held in October 2022 for one-third of the Senate)\nChamber of Deputies - last held on 7 October 2018 (next to be held in October 2022)",
+			"election_results": "Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1; composition - men 70, women 11, percent of women 13.6%\nChamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1; composition - men 462, women 51, percent of women 9.9%; total National Congress percent of women 10.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)",
+			"judge_selection_and_term_of_office": "justices appointed by the president and approved by the Federal Senate; justices appointed to serve until mandatory retirement at age 75",
+			"subordinate_courts": "Tribunal of the Union, Federal Appeals Court, Superior Court of Justice, Superior Electoral Court, regional federal courts; state court system"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Avante ",
+					"leaders": [
+						"Luis TIBE"
+					],
+					"note": "formerly Labor Party of Brazil or PTdoB"
+				},
+				{
+					"name": "Brazilian Communist Party",
+					"name_alternative": "PCB",
+					"leaders": [
+						"Ivan Martins PINHEIRO"
+					]
+				},
+				{
+					"name": "Brazilian Democratic Movement Party",
+					"name_alternative": "PMDB",
+					"leaders": [
+						"Michel TEMER"
+					]
+				},
+				{
+					"name": "Brazilian Labor Party",
+					"name_alternative": "PTB",
+					"leaders": [
+						"Cristiane BRASIL"
+					]
+				},
+				{
+					"name": "Brazilian Renewal Labor Party",
+					"name_alternative": "PRTB",
+					"leaders": [
+						"Jose Levy FIDELIX da Cruz"
+					]
+				},
+				{
+					"name": "Brazilian Republican Party",
+					"name_alternative": "PRB",
+					"leaders": [
+						"Marcos Antonio PEREIRA"
+					]
+				},
+				{
+					"name": "Brazilian Social Democracy Party",
+					"name_alternative": "PSDB",
+					"leaders": [
+						"Tasso JEREISSATI"
+					]
+				},
+				{
+					"name": "Brazilian Socialist Party",
+					"name_alternative": "PSB",
+					"leaders": [
+						"Carlos Roberto SIQUEIRA de Barros"
+					]
+				},
+				{
+					"name": "Christian Democracy",
+					"name_alternative": "DC",
+					"leaders": [
+						"Jose Maria EYMAEL"
+					],
+					"note": "formerly Christian Social Democratic Party or PSDC"
+				},
+				{
+					"name": "Christian Labor Party",
+					"name_alternative": "PTC",
+					"leaders": [
+						"Daniel TOURINHO"
+					]
+				},
+				{
+					"name": "Communist Party of Brazil",
+					"name_alternative": "PCdoB",
+					"leaders": [
+						"Jose Renato RABELO"
+					]
+				},
+				{
+					"name": "Democratic Labor Party",
+					"name_alternative": "PDT",
+					"leaders": [
+						"Carlos Roberto LUPI"
+					]
+				},
+				{
+					"name": "The Democrats",
+					"name_alternative": "DEM",
+					"leaders": [
+						"Jose AGRIPINO"
+					],
+					"note": "formerly Liberal Front Party or PFL"
+				},
+				{
+					"name": "Free Homeland Party",
+					"name_alternative": "PPL",
+					"leaders": [
+						"Sergio RUBENS"
+					]
+				},
+				{
+					"name": "Green Party",
+					"name_alternative": "PV",
+					"leaders": [
+						"Jose Luiz PENNA"
+					]
+				},
+				{
+					"name": "Humanist Party of Solidarity",
+					"name_alternative": "PHS",
+					"leaders": [
+						"Eduardo MACHADO"
+					]
+				},
+				{
+					"name": "National Mobilization Party",
+					"name_alternative": "PMN",
+					"leaders": [
+						"Telma RIBEIRO dos Santos"
+					]
+				},
+				{
+					"name": "New Party",
+					"name_alternative": "NOVO",
+					"leaders": [
+						"Moises JARDIM"
+					]
+				},
+				{
+					"name": "Party of the Republic",
+					"name_alternative": "PR",
+					"leaders": [
+						"Alfredo NASCIMENTO"
+					]
+				},
+				{
+					"name": "Patriota ",
+					"leaders": [
+						"Adilson BARROSO Oliveira"
+					],
+					"note": "formerly National Ecologic Party or PEN"
+				},
+				{
+					"name": "Podemos ",
+					"leaders": [
+						"Renata ABREU"
+					],
+					"note": "formerly National Labor Party or PTN"
+				},
+				{
+					"name": "Popular Socialist Party",
+					"name_alternative": "PPS",
+					"leaders": [
+						"Roberto Joao Pereira FREIRE"
+					]
+				},
+				{
+					"name": "Progressive Party",
+					"name_alternative": "PP",
+					"leaders": [
+						"Ciro NOGUEIRA"
+					]
+				},
+				{
+					"name": "Progressive Republican Party",
+					"name_alternative": "PRP",
+					"leaders": [
+						"Ovasco Roma Altimari RESENDE"
+					]
+				},
+				{
+					"name": "Republican Social Order Party",
+					"name_alternative": "PROS",
+					"leaders": [
+						"Euripedes JUNIOR"
+					]
+				},
+				{
+					"name": "Social Christian Party",
+					"name_alternative": "PSC",
+					"leaders": [
+						"Vitor Jorge Abdala NOSSEIS"
+					]
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "PSD",
+					"leaders": [
+						"Guilherme CAMPOS"
+					]
+				},
+				{
+					"name": "Social Liberal Party",
+					"name_alternative": "PSL",
+					"leaders": [
+						"Luciano Caldas BIVAR"
+					]
+				},
+				{
+					"name": "Socialism and Freedom Party",
+					"name_alternative": "PSOL",
+					"leaders": [
+						"Luiz ARAUJO"
+					]
+				},
+				{
+					"name": "Solidarity",
+					"name_alternative": "SD",
+					"leaders": [
+						"Paulo PEREIRA DA SILVA"
+					]
+				},
+				{
+					"name": "Sustainability Network",
+					"name_alternative": "REDE",
+					"leaders": [
+						"Marina SILVA"
+					]
+				},
+				{
+					"name": "United Socialist Workers' Party",
+					"name_alternative": "PSTU",
+					"leaders": [
+						"Jose Maria DE ALMEIDA"
+					]
+				},
+				{
+					"name": "Workers' Cause Party",
+					"name_alternative": "PCO",
+					"leaders": [
+						"Rui Costa PIMENTA"
+					]
+				},
+				{
+					"name": "Workers' Party",
+					"name_alternative": "PT",
+					"leaders": [
+						"Gleisi HOFFMAN"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BRICS"
+			},
+			{
+				"organization": "CAN ",
+				"note": "associate"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CELAC"
+			},
+			{
+				"organization": "CPLP"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-15"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "LAES"
+			},
+			{
+				"organization": "LAIA"
+			},
+			{
+				"organization": "LAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "Mercosur"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NAM ",
+				"note": "observer"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS"
+			},
+			{
+				"organization": "OECD ",
+				"note": "enhanced engagement"
+			},
+			{
+				"organization": "OPANAL"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "Paris Club ",
+				"note": "associate"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNASUR"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNITAR"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires Nestor Jose FORSTER (since 11 July 2019)",
+				"chancery": "3006 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 238-2700",
+				"fax": "[1] (202) 238-2827",
+				"consulates_general": "Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, San Francisco, Washington, DC"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador (vacant); Charge d'Affaires William POPP (since 3 November 2018)",
+				"telephone": "[55] (61) 3312-7000",
+				"embassy": "Avenida das Nacoes, Quadra 801, Lote 3, Distrito Federal Cep 70403-900, Brasilia",
+				"mailing_address": "Unit 7500, DPO AA 34030",
+				"fax": "[55] (61) 3225-9136",
+				"consulates_general": "Belo Horizonte, Recife, Porto Alegre, Rio de Janeiro, Sao Paulo"
+			}
+		},
+		"flag_description": {
+			"description": "green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth (the diamond shape roughly mirrors that of the country); the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District)",
+			"note": "one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Eritrea, and Vanuatu"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Southern Cross constellation"
+				}
+			],
+			"colors": [
+				{
+					"color": "green"
+				},
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Hino Nacional Brasileiro\" (Brazilian National Anthem)",
+			"lyrics_music": "Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA",
+			"note": "music adopted 1890, lyrics adopted 1922; the anthem's music, composed in 1822, was used unofficially for many years before it was adopted",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/BR.mp3?1538604750"
+		}
+	},
+	"economy": {
+		"overview": "Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.\nThe economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.\nThe succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.\nBrazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 3248000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3216000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3332000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 8,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2055000000000.0002,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.13,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.2,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 1.62,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 169
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 15600,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 15600,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 16300,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 108,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 63.4,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 20,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 15.6,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 12.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -11.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 6.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 72.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 15,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 14.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 14.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 136
+		},
+		"agriculture_products": {
+			"products": [
+				"coffee",
+				"soybeans",
+				"wheat",
+				"rice",
+				"corn",
+				"sugarcane",
+				"cocoa",
+				"citrus",
+				"beef"
+			]
+		},
+		"industries": {
+			"industries": [
+				"textiles",
+				"shoes",
+				"chemicals",
+				"cement",
+				"lumber",
+				"iron ore",
+				"tin",
+				"steel",
+				"aircraft",
+				"motor vehicles",
+				"parts",
+				"other machinery",
+				"equipment"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 0,
+			"global_rank": 169,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 86621000,
+				"global_rank": 4,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 9.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 32.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 58.5,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 11.93,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 12.26,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 163
+		},
+		"population_below_poverty_line": {
+			"value": 4.2,
+			"units": "%",
+			"note": "approximately 4% of the population are below the \"extreme\" poverty line",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 0.8,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 43.4,
+				"units": "%"
+			},
+			"date": "2016"
+		},
+		"budget": {
+			"revenues": {
+				"value": 733700000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 756300000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 35.7,
+			"global_rank": 57,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.1,
+			"global_rank": 82,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 84,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 78.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 32
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.4,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 8.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 139
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -50927000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -41540000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 203
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 217200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 184500000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 26
+			},
+			"commodities": {
+				"by_commodity": [
+					"transport equipment",
+					"iron ore",
+					"soybeans",
+					"footwear",
+					"coffee",
+					"automobiles"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 21.8
+					},
+					{
+						"name": "US",
+						"percent": 12.5
+					},
+					{
+						"name": "Argentina",
+						"percent": 8.1
+					},
+					{
+						"name": "Netherlands",
+						"percent": 4.3
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 153200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 139400000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 29
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"electrical",
+					"transport equipment",
+					"chemical products",
+					"oil",
+					"automotive parts",
+					"electronics"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 18.1
+					},
+					{
+						"name": "US",
+						"percent": 16.7
+					},
+					{
+						"name": "Argentina",
+						"percent": 6.3
+					},
+					{
+						"name": "Germany",
+						"percent": 6.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 374000000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 367500000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 10
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 547400000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 548600000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 21
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 3.19,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 3.48,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 3.4901,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 3.3315,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 2.3535,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "reals (BRL) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 567900000000,
+				"global_rank": 8,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 509100000000,
+				"global_rank": 8,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 219000000,
+				"global_rank": 73,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 41310000000,
+				"global_rank": 3,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 150800000,
+				"global_rank": 7,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 17,
+					"global_rank": 197,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 1,
+					"global_rank": 28,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 64,
+					"global_rank": 24,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 18,
+					"global_rank": 46,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 2587000,
+				"global_rank": 10,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 736600,
+				"global_rank": 17,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 297700,
+				"global_rank": 25,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 12630000000,
+				"global_rank": 14,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 2811000,
+				"global_rank": 7,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 2956000,
+				"global_rank": 7,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 279000,
+				"global_rank": 28,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 490400,
+				"global_rank": 17,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 23960000000,
+				"global_rank": 29,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 34350000000,
+				"global_rank": 28,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 134500000,
+				"global_rank": 48,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 10510000000,
+				"global_rank": 26,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 377400000000,
+				"global_rank": 34,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 513799999.99999994,
+			"global_rank": 13,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 33585164,
+				"subscriptions_per_one_hundred_inhabitants": 15.97,
+				"global_rank": 6,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 207862093,
+				"subscriptions_per_one_hundred_inhabitants": 98.84,
+				"global_rank": 6,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "state-run Radiobras operates a radio and a TV network; more than 1,000 radio stations and more than 100 TV channels operating - mostly privately owned; private media ownership highly concentrated",
+		"internet": {
+			"country_code": ".br",
+			"users": {
+				"total": 140908998,
+				"percent_of_population": 67.47,
+				"global_rank": 4,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 9,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 443,
+				"annual_passenger_traffic_on_registered_air_carriers": 102109977,
+				"annual_freight_traffic_on_registered_air_carriers": 1845650000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "PP",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 4093,
+					"global_rank": 2,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 698,
+					"over_3047_metres": 7,
+					"2438_to_3047_metres": 27,
+					"1524_to_2437_metres": 179,
+					"914_to_1523_metres": 436,
+					"under_914_metres": 49,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 3395,
+					"1524_to_2437_metres": 92,
+					"914_to_1523_metres": 1619,
+					"under_914_metres": 1684,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 13,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "refined petroleum product (1",
+					"length": 5959,
+					"units": "km"
+				},
+				{
+					"type": "distribution",
+					"length": 165,
+					"units": "km"
+				},
+				{
+					"type": "transport)",
+					"length": 794,
+					"units": "km"
+				},
+				{
+					"type": "natural gas (2",
+					"length": 11696,
+					"units": "km"
+				},
+				{
+					"type": "distribution",
+					"length": 274,
+					"units": "km"
+				},
+				{
+					"type": "transport)",
+					"length": 422,
+					"units": "km"
+				},
+				{
+					"type": "crude oil (distribution)",
+					"length": 1985,
+					"units": "km"
+				},
+				{
+					"type": "ethanol/petrochemical (37 km distribution",
+					"length": 77,
+					"units": "km"
+				},
+				{
+					"type": "transport)",
+					"length": 40,
+					"units": "km"
+				}
+			],
+			"date": "2016"
+		},
+		"railways": {
+			"total": {
+				"length": 29850,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 194,
+				"units": "km\n1.435-m"
+			},
+			"narrow_gauge": {
+				"length": 23341.6,
+				"electrified": 24,
+				"units": "km\n1.000-m",
+				"gauge": "gauge"
+			},
+			"broad_gauge": {
+				"length": 5822.3,
+				"electrified": 498.3,
+				"units": "km\n1.600-m",
+				"gauge": "gauge"
+			},
+			"dual_gauge": {
+				"length": 492,
+				"units": "km\n1.600-1.000-m"
+			},
+			"global_rank": 9,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 2000000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 246000,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 1754000,
+				"units": "km"
+			},
+			"global_rank": 4,
+			"date": "2018"
+		},
+		"waterways": {
+			"value": 50000,
+			"units": "km",
+			"note": "most in areas remote from industry and population",
+			"global_rank": 3,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 864,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 12
+				},
+				{
+					"type": "container ship",
+					"count": 17
+				},
+				{
+					"type": "general cargo",
+					"count": 45
+				},
+				{
+					"type": "oil tanker",
+					"count": 41
+				},
+				{
+					"type": "other",
+					"count": 749
+				}
+			],
+			"global_rank": 26,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Belem",
+				"Paranagua",
+				"Rio Grande",
+				"Rio de Janeiro",
+				"Santos",
+				"Sao Sebastiao",
+				"Tubarao"
+			],
+			"oil_terminals": [
+				"DTSE/Gegua oil terminal",
+				"Ilha Grande (Gebig)",
+				"Guaiba Island terminal",
+				"Guamare oil terminal"
+			],
+			"container_ports": [
+				{
+					"place": "Santos",
+					"twenty_foot_equivalent_units": 3853719
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Pecem",
+				"Rio de Janiero"
+			],
+			"river_ports": [
+				"Manaus (Amazon)"
+			],
+			"dry_bulk_cargo_ports": [
+				{
+					"place": "Sepetiba ore terminal"
+				},
+				{
+					"place": "Tubarao"
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.5,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 78
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-45 years of age for compulsory military service; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service; an increasing percentage of the ranks are \"long-service\" volunteer professionals; women were allowed to serve in the armed forces beginning in early 1980s, when the Brazilian Army became the first army in South America to accept women into career ranks; women serve in Navy and Air Force only in Women's Reserve Corps",
+			"date": "2012"
+		},
+		"note": "the military's primary role is enforcing border security, particularly in the Amazon states; it also assists with internal security operations with a focus on organized crime\nBrazilian police forces are divided into Federal Police (around 15,000 personnel), Military Police (approximately 400,000 personnel), and Civil Police (approximately 125,000 personnel); the Federal Police serve under the Ministry of Justice, while the Military and Civil police are subordinate to the state governments; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; article 144 of the Brazilian constitution states that all state Military Police are classified as reserve troops and ancillary forces of the Brazilian Army"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question",
+			"smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border",
+			"Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 251832,
+						"country_of_origin": "Venezuela",
+						"note": "economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay"
+					}
+				],
+				"date": "2020"
+			},
+			"stateless_persons": {
+				"people": 7,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "second-largest consumer of cocaine in the world; illicit producer of cannabis; trace amounts of coca cultivation in the Amazon region, used for domestic consumption; government has a large-scale eradication program to control cannabis; important transshipment country for Bolivian, Colombian, and Peruvian cocaine headed for Europe; also used by traffickers as a way station for narcotics air transshipments between Peru and Colombia; upsurge in drug-related violence and weapons smuggling; important market for Colombian, Bolivian, and Peruvian cocaine; illicit narcotics proceeds are often laundered through the financial system; significant illicit financial activity in the Tri-Border Area"
+		}
+	}
+}

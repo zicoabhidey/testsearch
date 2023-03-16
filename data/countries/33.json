@@ -1,0 +1,148 @@
+{
+	"name": "Bouvet Island",
+	"introduction": {
+		"background": "This uninhabited, volcanic, Antarctic island is almost entirely covered by glaciers making it difficult to approach; it is recognized as the most remote island on Earth. (It is furthest in distance from any other point of land, 1,639 km from Antarctica.) Bouvet Island was discovered in 1739 by a French naval officer after whom it is named. No claim was made until 1825, when the British flag was raised. A few expeditions visited the island in the late 19th century. In 1929, the UK waived its claim in favor of Norway, which had occupied the island two years previously. In 1971, Norway designated Bouvet Island and the adjacent territorial waters a nature reserve. Since 1977, Norway has run an automated meteorological station and studied foraging strategies and distribution of fur seals and penguins on the island. In February 2006, an earthquake weakened the station's foundation causing it to be blown out to sea in a winter storm. Norway erected a new research station in 2014 that can hold six people for periods of two to four months."
+	},
+	"geography": {
+		"location": "island in the South Atlantic Ocean, southwest of the Cape of Good Hope (South Africa)",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 54,
+				"minutes": 26,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 3,
+				"minutes": 24,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Antarctic Region",
+		"area": {
+			"total": {
+				"value": 49,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 49,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 233,
+			"comparative": "about 0.3 times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 29.6,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 4,
+				"units": "nm"
+			}
+		},
+		"climate": "antarctic",
+		"terrain": "volcanic; coast is mostly inaccessible",
+		"elevation": {
+			"lowest_point": {
+				"name": "South Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Olavtoppen (Olav Peak)",
+				"elevation": {
+					"value": 780,
+					"units": "m"
+				}
+			}
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"natural_hazards": [
+			{
+				"description": "occasional volcanism, rock slides",
+				"type": "hazard"
+			},
+			{
+				"description": "harsh climate, surrounded by pack ice in winter",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"none",
+				"almost entirely ice covered"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Bouvet Island",
+			"etymology": "named after the French naval officer Jean-Baptiste Charles BOUVET who discovered the island in 1739",
+			"note": "pronounced boo-vay i-land"
+		},
+		"legal_system": "the laws of Norway apply where applicable",
+		"flag_description": {
+			"description": "the flag of Norway is used"
+		}
+	},
+	"economy": {
+		"overview": "no economic activity; declared a nature reserve"
+	},
+	"communications": {
+		"internet": {
+			"country_code": ".bv"
+		},
+		"note": "has an automated meteorological station"
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Norway"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

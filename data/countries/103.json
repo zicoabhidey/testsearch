@@ -1,0 +1,152 @@
+{
+	"name": "Heard Island And Mcdonald Islands",
+	"introduction": {
+		"background": "The UK transferred these uninhabited, barren, sub-Antarctic islands to Australia in 1947. Populated by large numbers of seal and bird species, the islands have been designated a nature preserve."
+	},
+	"geography": {
+		"location": "islands in the Indian Ocean, about two-thirds of the way from Madagascar to Antarctica",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 53,
+				"minutes": 6,
+				"hemisphere": "S"
+			},
+			"longitude": {
+				"degrees": 72,
+				"minutes": 31,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Antarctic Region",
+		"area": {
+			"total": {
+				"value": 412,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 412,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 0,
+				"units": "sq km"
+			},
+			"global_rank": 203,
+			"comparative": "slightly more than two times the size of Washington, DC"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 101.9,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "antarctic",
+		"terrain": "Heard Island - 80% ice-covered, bleak and mountainous, dominated by a large massif (Big Ben) and an active volcano (Mawson Peak); McDonald Islands - small and rocky",
+		"elevation": {
+			"lowest_point": {
+				"name": "Indian Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mawson Peak on Big Ben volcano",
+				"elevation": {
+					"value": 2745,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"fish"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 100,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"natural_hazards": [
+			{
+				"description": "Mawson Peak, an active volcano, is on Heard Island",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"none",
+				"uninhabited and mostly ice covered"
+			]
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Territory of Heard Island and McDonald Islands",
+			"conventional_short_form": "Heard Island and McDonald Islands",
+			"abbreviation": "HIMI",
+			"etymology": "named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854"
+		},
+		"legal_system": "the laws of Australia apply where applicable",
+		"flag_description": {
+			"description": "the flag of Australia is used"
+		}
+	},
+	"economy": {
+		"overview": "The islands have no indigenous economic activity, but the Australian Government allows limited fishing in the surrounding waters. Visits to Heard Island typically focus on terrestrial and marine research and infrequent private expeditions."
+	},
+	"communications": {
+		"internet": {
+			"country_code": ".hm"
+		}
+	},
+	"military_and_security": {
+		"note": "defense is the responsibility of Australia; Australia conducts fisheries patrols"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		]
+	}
+}

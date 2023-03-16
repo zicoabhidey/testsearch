@@ -1,0 +1,2057 @@
+{
+	"name": "Germany",
+	"introduction": {
+		"background": "As Europe's largest economy and second most populous nation (after Russia), Germany is a key member of the continent's economic, political, and defense organizations. European power struggles immersed Germany in two devastating world wars in the first half of the 20th century and left the country occupied by the victorious Allied powers of the US, UK, France, and the Soviet Union in 1945. With the advent of the Cold War, two German states were formed in 1949: the western Federal Republic of Germany (FRG) and the eastern German Democratic Republic (GDR). The democratic FRG embedded itself in key western economic and security organizations, the EC (now the EU) and NATO, while the communist GDR was on the front line of the Soviet-led Warsaw Pact. The decline of the USSR and the end of the Cold War allowed for German reunification in 1990. Since then, Germany has expended considerable funds to bring eastern productivity and wages up to western standards. In January 1999, Germany and 10 other EU countries introduced a common European exchange currency, the euro."
+	},
+	"geography": {
+		"location": "Central Europe, bordering the Baltic Sea and the North Sea, between the Netherlands and Poland, south of Denmark",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 51,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 9,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 357022,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 348672,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 8350,
+				"units": "sq km"
+			},
+			"global_rank": 64,
+			"comparative": "three times the size of Pennsylvania; slightly smaller than Montana"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 3714,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Austria",
+					"border_length": {
+						"value": 801,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Belgium",
+					"border_length": {
+						"value": 133,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Czech Republic",
+					"border_length": {
+						"value": 704,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Denmark",
+					"border_length": {
+						"value": 140,
+						"units": "km"
+					}
+				},
+				{
+					"country": "France",
+					"border_length": {
+						"value": 418,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Luxembourg",
+					"border_length": {
+						"value": 128,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Netherlands",
+					"border_length": {
+						"value": 575,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Poland",
+					"border_length": {
+						"value": 467,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Switzerland",
+					"border_length": {
+						"value": 348,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 2389,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "m",
+				"note": "depth or to the depth of exploitation"
+			}
+		},
+		"climate": "temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind",
+		"terrain": "lowlands in north, uplands in center, Bavarian Alps in south",
+		"elevation": {
+			"mean_elevation": {
+				"value": 263,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Neuendorf bei Wilster",
+				"elevation": {
+					"value": -3.5,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Zugspitze",
+				"elevation": {
+					"value": 2963,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"lignite",
+				"natural gas",
+				"iron ore",
+				"copper",
+				"nickel",
+				"uranium",
+				"potash",
+				"salt",
+				"construction materials",
+				"timber",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 48,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 34.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.6,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 13.3,
+					"units": "%"
+				},
+				"forest": {
+					"value": 31.8,
+					"units": "%"
+				},
+				"other": {
+					"value": 20.2,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 6500,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia",
+		"natural_hazards": [
+			{
+				"description": "flooding",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"emissions from coal-burning utilities and industries contribute to air pollution",
+				"acid rain",
+				"resulting from sulfur dioxide emissions",
+				"is damaging forests",
+				"pollution in the Baltic Sea from raw sewage and industrial effluents from rivers in eastern Germany",
+				"hazardous waste disposal",
+				"government established a mechanism for ending the use of nuclear power by 2022",
+				"government working to meet EU commitment to identify nature preservation areas in line with the EU's Flora",
+				"Fauna",
+				"and Habitat directive"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 85",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 80159662,
+			"global_rank": 19,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "German(s)",
+			"adjective": "German"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "German",
+					"percent": 87.2
+				},
+				{
+					"name": "Turkish",
+					"percent": 1.8
+				},
+				{
+					"name": "Polish",
+					"percent": 1
+				},
+				{
+					"name": "Syrian",
+					"percent": 1
+				},
+				{
+					"name": "other",
+					"percent": 9
+				}
+			],
+			"note": "data represent population by nationality",
+			"date": "2017"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "German",
+					"note": "official"
+				}
+			],
+			"note": "Danish, Frisian, Sorbian, and Romani are official minority languages; Low German, Danish, North Frisian, Sater Frisian, Lower Sorbian, Upper Sorbian, and Romani are recognized as regional languages under the European Charter for Regional or Minority Languages"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 27.7
+				},
+				{
+					"name": "Protestant",
+					"percent": 25.5
+				},
+				{
+					"name": "Muslim",
+					"percent": 5.1
+				},
+				{
+					"name": "Orthodox",
+					"percent": 1.9
+				},
+				{
+					"name": "other Christian",
+					"percent": 1.1
+				},
+				{
+					"name": "other .9%"
+				},
+				{
+					"name": "none",
+					"percent": 37.8
+				}
+			],
+			"date": "2018"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 12.89,
+				"males": 5302850,
+				"females": 5025863
+			},
+			"15_to_24": {
+				"percent": 9.81,
+				"males": 4012412,
+				"females": 3854471
+			},
+			"25_to_54": {
+				"percent": 38.58,
+				"males": 15553328,
+				"females": 15370417
+			},
+			"55_to_64": {
+				"percent": 15.74,
+				"males": 6297886,
+				"females": 6316024
+			},
+			"65_and_over": {
+				"percent": 22.99,
+				"males": 8148873,
+				"females": 10277538
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.4,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 21.7,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 33.7,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 47.8,
+				"units": "years"
+			},
+			"male": {
+				"value": 46.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 49.1,
+				"units": "years"
+			},
+			"global_rank": 4,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.19,
+			"global_rank": 209,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 8.6,
+			"global_rank": 215,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 12.1,
+			"global_rank": 16,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 1.5,
+			"global_rank": 54,
+			"date": "2020"
+		},
+		"population_distribution": "most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia",
+		"urbanization": {
+			"urban_population": {
+				"value": 77.5,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.27,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Berlin",
+					"population": 3562000,
+					"is_capital": true
+				},
+				{
+					"place": "Hamburg",
+					"population": 1790000
+				},
+				{
+					"place": "Munich",
+					"population": 1538000
+				},
+				{
+					"place": "Cologne",
+					"population": 1119000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.79,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.96,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 29.6,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 7,
+			"global_rank": 154,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 3.6,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 206,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.6,
+				"units": "years"
+			},
+			"global_rank": 37,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.47,
+			"global_rank": 208,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 80.3,
+			"units": "%",
+			"note": "percent of women aged 18-49",
+			"date": "2011"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 4.25,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 8,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 123,
+				"date": "2018"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 87000,
+				"global_rank": 49,
+				"date": "2018"
+			},
+			"deaths": {
+				"total": 500,
+				"date": "2018"
+			}
+		},
+		"adult_obesity": {
+			"percent_of_adults": 22.3,
+			"global_rank": 79,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 0.5,
+			"global_rank": 130,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.8,
+			"global_rank": 72,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 7.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 5.1,
+				"units": "%"
+			},
+			"global_rank": 158,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Federal Republic of Germany",
+			"conventional_short_form": "Germany",
+			"local_long_form": "Bundesrepublik Deutschland",
+			"local_short_form": "Deutschland",
+			"former": "German Reich",
+			"etymology": "the Gauls (Celts) of Western Europe may have referred to the newly arriving Germanic tribes who settled in neighboring areas east of the Rhine during the first centuries B.C. as \"Germani,\" a term the Romans adopted as \"Germania\"; the native designation \"Deutsch\" comes from the Old High German \"diutisc\" meaning \"of the people\""
+		},
+		"government_type": "federal parliamentary republic",
+		"capital": {
+			"name": "Berlin",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 52,
+					"minutes": 31,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 13,
+					"minutes": 24,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 1,
+				"note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "the origin of the name is unclear but may be related to the old West Slavic (Polabian) word \"berl\" or \"birl,\" meaning \"swamp\""
+		},
+		"independence": {
+			"date": "1871-01-18",
+			"note": "establishment of the German Empire; divided into four zones of occupation (UK, US, USSR, and France) in 1945 following World War II; Federal Republic of Germany (FRG or West Germany) proclaimed on 23 May 1949 and included the former UK, US, and French zones; German Democratic Republic (GDR or East Germany) proclaimed on 7 October 1949 and included the former USSR zone; West Germany and East Germany unified on 3 October 1990; all four powers formally relinquished rights on 15 March 1991; notable earlier dates: 10 August 843 (Eastern Francia established from the division of the Carolingian Empire); 2 February 962 (crowning of OTTO I, recognized as the first Holy Roman Emperor)"
+		},
+		"national_holidays": [
+			{
+				"name": "German Unity Day",
+				"day": "3 October",
+				"original_year": "1990"
+			}
+		],
+		"constitution": {
+			"history": "previous 1919 (Weimar Constitution); latest drafted 10-23 August 1948, approved 12 May 1949, promulgated 23 May 1949, entered into force 24 May 1949",
+			"amendments": "proposed by Parliament; passage and enactment into law require two-thirds majority vote by both the Bundesrat (upper house) and the Bundestag (lower house) of Parliament; articles including those on basic human rights and freedoms cannot be amended; amended many times, last in 2017"
+		},
+		"legal_system": "civil law system",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a German citizen or a resident alien who has lived in Germany at least 8 years",
+			"dual_citizenship_recognized": "yes, but requires prior permission from government",
+			"residency_requirement_for_naturalization": "8 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal; age 16 for some state and municipal elections"
+		},
+		"executive_branch": {
+			"chief_of_state": "President Frank-Walter STEINMEIER (since 19 March 2017)",
+			"head_of_government": "Chancellor Angela MERKEL (since 22 November 2005)",
+			"cabinet": "Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president",
+			"elections_appointments": "president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor (Angela Merkel since 2005) and appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 14 March 2018 (next to be held after the Bundestag elections in 2021)",
+			"election_results": "Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament or Parlament consists of: Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)\nFederal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)",
+			"elections": "Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election\nBundestag - last held on 24 September 2017 (next to be held in 2021 at the latest); most postwar German governments have been coalitions",
+			"election_results": "Bundesrat - composition - men 50, women 19, percent of women 27.5%\nBundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)",
+			"judge_selection_and_term_of_office": "Federal Court of Justice judges selected by the Judges Election Committee, which consists of the Secretaries of Justice from each of the 16 federated states and 16 members appointed by the Federal Parliament; judges appointed by the president; judges serve until mandatory retirement at age 65; Federal Constitutional Court judges - one-half elected by the House of Representatives and one-half by the Senate; judges appointed for 12-year terms with mandatory retirement at age 68",
+			"subordinate_courts": "Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance '90/Greens",
+					"leaders": [
+						"Annalena BAERBOCK and Robert HABECK"
+					]
+				},
+				{
+					"name": "Alternative for Germany",
+					"name_alternative": "AfD",
+					"leaders": [
+						"Alexander GAULAND and Joerg MEUTHEN"
+					]
+				},
+				{
+					"name": "Christian Democratic Union",
+					"name_alternative": "CDU",
+					"leaders": [
+						"Annegret KRAMP-KARRENBAUER"
+					]
+				},
+				{
+					"name": "Christian Social Union",
+					"name_alternative": "CSU",
+					"leaders": [
+						"Markus SOEDER"
+					]
+				},
+				{
+					"name": "Free Democratic Party",
+					"name_alternative": "FDP",
+					"leaders": [
+						"Christian LINDNER"
+					]
+				},
+				{
+					"name": "The Left",
+					"name_alternative": "Die Linke",
+					"leaders": [
+						"Katja KIPPING and Bernd RIEXINGER"
+					]
+				},
+				{
+					"name": "Social Democratic Party",
+					"name_alternative": "SPD",
+					"leaders": [
+						"Andrea NAHLES"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "BSEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "EMU"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "G-7"
+			},
+			{
+				"organization": "G-8"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINURSO"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Emily Margarethe HABER (since 22 June 2018)",
+				"chancery": "4645 Reservoir Road NW, Washington, DC 20007",
+				"telephone": "[1] (202) 298-4000",
+				"fax": "[1] (202) 298-4249",
+				"consulates_general": "Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Richard GRENELL (since 8 May 2018)",
+				"telephone": "[49] (30) 8305-0",
+				"embassy": "Clayallee 170, 14191 Berlin",
+				"mailing_address": "Clayallee 170, 14191 Berlin",
+				"fax": "[49] (30) 8305-1215",
+				"consulates_general": "Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of black (top), red, and gold; these colors have played an important role in German history and can be traced back to the medieval banner of the Holy Roman Emperor - a black eagle with red claws and beak on a gold field"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "black"
+				},
+				{
+					"color": "red"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Das Lied der Deutschen\" (Song of the Germans)",
+			"lyrics_music": "August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN",
+			"note": "adopted 1922; the anthem, also known as \"Deutschlandlied\" (Song of Germany), was originally adopted for its connection to the March 1848 liberal revolution; following appropriation by the Nazis of the first verse, specifically the phrase, \"Deutschland, Deutschland ueber alles\" (Germany, Germany above all) to promote nationalism, it was banned after 1945; in 1952, its third verse was adopted by West Germany as its national anthem; in 1990, it became the national anthem for the reunited Germany",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/GM.mp3?1538604754"
+		}
+	},
+	"economy": {
+		"overview": "The German economy - the fifth largest economy in the world in PPP terms and Europe's largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment. Germany benefits from a highly skilled labor force, but, like its Western European neighbors, faces significant demographic challenges to sustained long-term growth. Low fertility rates and a large increase in net immigration are increasing pressure on the country's social welfare system and necessitate structural reforms.\nReforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, contributed to strong economic growth and falling unemployment. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II. The German Government introduced a minimum wage in 2015 that increased to $9.79 (8.84 euros) in January 2017.\nStimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL's second term increased Germany's total budget deficit - including federal, state, and municipal - to 4.1% in 2010, but slower spending and higher tax revenues reduced the deficit to 0.8% in 2011 and in 2017 Germany reached a budget surplus of 0.7%. A constitutional amendment approved in 2009 limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016, though the target was already reached in 2012.\nFollowing the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country's 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany plans to replace nuclear power largely with renewable energy, which accounted for 29.5% of gross electricity consumption in 2016, up from 9% in 2000. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production.\nThe German economy suffers from low levels of investment, and a government plan to invest 15 billion euros during 2016-18, largely in infrastructure, is intended to spur needed private investment. Domestic consumption, investment, and exports are likely to drive German GDP growth in 2018, and the country’s budget and trade surpluses are likely to remain high.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 4199000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 4099000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 4011999999999.9995,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 5,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 3701000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 0.59,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.3,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 2.91,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 184
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 50800,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 49800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 49100,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 27,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 53.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 19.5,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 20.4,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -0.5,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 47.3,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -39.7,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 30.7,
+							"units": "%"
+						},
+						"services": {
+							"value": 68.6,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 28,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 28.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 28.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 40
+		},
+		"agriculture_products": {
+			"products": [
+				"potatoes",
+				"wheat",
+				"barley",
+				"sugar beets",
+				"fruit",
+				"cabbages",
+				"milk products",
+				"cattle",
+				"pigs",
+				"poultry"
+			]
+		},
+		"industries": {
+			"industries": [
+				"most technologically advanced producers of iron",
+				"steel",
+				"coal",
+				"cement",
+				"chemicals",
+				"machinery",
+				"vehicles",
+				"machine tools",
+				"electronics",
+				"automobiles",
+				"food",
+				"beverages",
+				"shipbuilding",
+				"textiles"
+			],
+			"note": "among the world's largest"
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.3,
+			"global_rank": 95,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 44585000,
+				"global_rank": 13,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 24.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 74.3,
+						"units": "%"
+					}
+				},
+				"date": "2016"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 4.98,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 5.19,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 75
+		},
+		"population_below_poverty_line": {
+			"value": 16.7,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.6,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 24,
+				"units": "%"
+			},
+			"date": "2000"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1665000000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1619000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 45,
+			"global_rank": 22,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 1.3,
+			"global_rank": 25,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 63.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 67.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 61,
+			"note": "general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 1.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.4,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 92
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 280238000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 297434000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 1
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1434000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1322000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 3
+			},
+			"commodities": {
+				"by_commodity": [
+					"motor vehicles",
+					"machinery",
+					"chemicals",
+					"computer",
+					"electronic products",
+					"electrical equipment",
+					"pharmaceuticals",
+					"metals",
+					"transport equipment",
+					"foodstuffs",
+					"textiles",
+					"rubber",
+					"plastic products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 8.8
+					},
+					{
+						"name": "France",
+						"percent": 8.2
+					},
+					{
+						"name": "China",
+						"percent": 6.8
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6.7
+					},
+					{
+						"name": "UK",
+						"percent": 6.6
+					},
+					{
+						"name": "Italy",
+						"percent": 5.1
+					},
+					{
+						"name": "Austria",
+						"percent": 4.9
+					},
+					{
+						"name": "Poland",
+						"percent": 4.7
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 1135000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 1022000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 3
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"data processing equipment",
+					"vehicles",
+					"chemicals",
+					"oil",
+					"gas",
+					"metals",
+					"electric equipment",
+					"pharmaceuticals",
+					"foodstuffs",
+					"agricultural products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Netherlands",
+						"percent": 13.8
+					},
+					{
+						"name": "China",
+						"percent": 7
+					},
+					{
+						"name": "France",
+						"percent": 6.6
+					},
+					{
+						"name": "Belgium",
+						"percent": 5.9
+					},
+					{
+						"name": "Italy",
+						"percent": 5.4
+					},
+					{
+						"name": "Poland",
+						"percent": 5.4
+					},
+					{
+						"name": "Czechia",
+						"percent": 4.8
+					},
+					{
+						"name": "US",
+						"percent": 4.5
+					},
+					{
+						"name": "Austria",
+						"percent": 4.3
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.2
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 200100000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 173700000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 13
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 5326000000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 5210000000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 4
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.903,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9214,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.885,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7634,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "euros (EUR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 612800000000,
+				"global_rank": 7,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 536500000000,
+				"global_rank": 6,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 78860000000,
+				"global_rank": 1,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 28340000000,
+				"global_rank": 5,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 208500000,
+				"global_rank": 6,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 41,
+					"global_rank": 166,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 5,
+					"global_rank": 21,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 2,
+					"global_rank": 137,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 52,
+					"global_rank": 4,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 41000,
+				"global_rank": 56,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 6569,
+				"global_rank": 63,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 1836000,
+				"global_rank": 6,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 129600000,
+				"global_rank": 65,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 2158000,
+				"global_rank": 9,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 2460000,
+				"global_rank": 9,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 494000,
+				"global_rank": 17,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 883800,
+				"global_rank": 9,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 7900000000,
+				"global_rank": 45,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 93360000000,
+				"global_rank": 8,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 34610000000,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 119500000000,
+				"global_rank": 1,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 39500000000,
+				"global_rank": 64,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 847600000,
+			"global_rank": 6,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 38847530,
+				"subscriptions_per_one_hundred_inhabitants": 48.37,
+				"global_rank": 5,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 103090116,
+				"subscriptions_per_one_hundred_inhabitants": 128.36,
+				"global_rank": 16,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "a mixture of publicly operated and privately owned TV and radio stations; 70 national and regional public broadcasters compete with nearly 400 privately owned national and regional TV stations; more than 90% of households have cable or satellite TV; hundreds of radio stations including multiple national radio networks, regional radio networks, and a large number of local radio stations",
+		"internet": {
+			"country_code": ".de",
+			"users": {
+				"total": 72202773,
+				"percent_of_population": 89.74,
+				"global_rank": 10,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 20,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 1113,
+				"annual_passenger_traffic_on_registered_air_carriers": 109796202,
+				"annual_freight_traffic_on_registered_air_carriers": 7969860000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "D",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 539,
+					"global_rank": 12,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 318,
+					"over_3047_metres": 14,
+					"2438_to_3047_metres": 49,
+					"1524_to_2437_metres": 60,
+					"914_to_1523_metres": 70,
+					"under_914_metres": 125,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 221,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 35,
+					"under_914_metres": 185,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 23,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 37,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 26985,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 2400,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 4479,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 8,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 33590,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 33331,
+				"electrified": 19973,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"narrow_gauge": {
+				"length": 220,
+				"electrified": 79,
+				"units": "km\n1.000-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 7,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 625000,
+				"units": "km"
+			},
+			"paved": {
+				"value": 625000,
+				"units": "km",
+				"note": "includes 12,996 km of expressways"
+			},
+			"note": "includes local roads",
+			"global_rank": 12,
+			"date": "2017"
+		},
+		"waterways": {
+			"value": 7467,
+			"units": "km",
+			"note": "Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea",
+			"global_rank": 18,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 609,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 1
+				},
+				{
+					"type": "container ship",
+					"count": 87
+				},
+				{
+					"type": "general cargo",
+					"count": 83
+				},
+				{
+					"type": "oil tanker",
+					"count": 36
+				},
+				{
+					"type": "other",
+					"count": 402
+				}
+			],
+			"global_rank": 38,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Baltic Sea - Rostock"
+			],
+			"oil_terminals": [
+				"Brunsbuttel Canal terminals"
+			],
+			"container_ports": [
+				{
+					"place": "Bremen/Bremerhaven",
+					"twenty_foot_equivalent_units": 5510000
+				},
+				{
+					"place": "Hamburg",
+					"twenty_foot_equivalent_units": 8860000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Hamburg"
+			],
+			"river_ports": [
+				"Bremen (Weser)\nNorth Sea - Wilhelmshaven Bremerhaven (Geeste) Duisburg",
+				"Karlsruhe",
+				"Neuss-Dusseldorf (Rhine) Brunsbuttel",
+				"Hamburg (Elbe) Lubeck (Wakenitz)"
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1.38,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.24,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.23,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.19,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.18,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 87
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 17,
+			"note": "17-23 years of age for male and female voluntary military service; conscription ended 1 July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001",
+			"date": "2013"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"none"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 572818,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 141650,
+						"country_of_origin": "Iraq"
+					},
+					{
+						"people": 140366,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 58569,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 43244,
+						"country_of_origin": "Iran"
+					},
+					{
+						"people": 28470,
+						"country_of_origin": "Turkey"
+					},
+					{
+						"people": 26015,
+						"country_of_origin": "Somalia"
+					},
+					{
+						"people": 8722,
+						"country_of_origin": "Russia"
+					},
+					{
+						"people": 8639,
+						"country_of_origin": "Serbia and Kosovo"
+					},
+					{
+						"people": 8125,
+						"country_of_origin": "Pakistan"
+					},
+					{
+						"people": 7828,
+						"country_of_origin": "Nigeria"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 14947,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs; major financial center"
+		}
+	}
+}

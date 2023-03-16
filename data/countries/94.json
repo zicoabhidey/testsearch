@@ -1,0 +1,1221 @@
+{
+	"name": "Greenland",
+	"introduction": {
+		"background": "Greenland, the world's largest island, is about 80% ice-capped. Vikings reached the island in the 10th century from Iceland; Danish colonization began in the 18th century, and Greenland became an integral part of the Danish Realm in 1953. It joined the European Community (now the EU) with Denmark in 1973 but withdrew in 1985 over a dispute centered on stringent fishing quotas. Greenland remains a member of the Overseas Countries and Territories Association of the EU. Greenland was granted self-government in 1979 by the Danish parliament; the law went into effect the following year. Greenland voted in favor of increased self-rule in November 2008 and acquired greater responsibility for internal affairs when the Act on Greenland Self-Government was signed into law in June 2009. Denmark, however, continues to exercise control over several policy areas on behalf of Greenland, including foreign affairs, security, and financial policy in consultation with Greenland's Self-Rule Government."
+	},
+	"geography": {
+		"location": "Northern North America, island between the Arctic Ocean and the North Atlantic Ocean, northeast of Canada",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 72,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 40,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Arctic Region",
+		"area": {
+			"total": {
+				"value": 2166086,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 2166086,
+				"units": "sq km",
+				"note": "approximately 1,710,000 sq km ice-covered"
+			},
+			"global_rank": 13,
+			"comparative": "slightly more than three times the size of Texas"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 44087,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 3,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm",
+				"note": "or agreed boundaries or median line"
+			},
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm",
+				"note": "or agreed boundaries or median line"
+			}
+		},
+		"climate": "arctic to subarctic; cool summers, cold winters",
+		"terrain": "flat to gradually sloping icecap covers all but a narrow, mountainous, barren, rocky coast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 1792,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Atlantic Ocean",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Gunnbjorn Fjeld",
+				"elevation": {
+					"value": 3694,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"iron ore",
+				"lead",
+				"zinc",
+				"molybdenum",
+				"diamonds",
+				"gold",
+				"platinum",
+				"niobium",
+				"tantalite",
+				"uranium",
+				"fish",
+				"seals",
+				"whales",
+				"hydropower",
+				"possible oil",
+				"possible gas"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 0.6,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 0.6,
+					"units": "%"
+				},
+				"forest": {
+					"value": 0,
+					"units": "%"
+				},
+				"other": {
+					"value": 99.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"population_distribution": "settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited",
+		"natural_hazards": [
+			{
+				"description": "continuous permafrost over northern two-thirds of the island",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"especially vulnerable to climate change and disruption of the Arctic environment",
+				"preservation of the Inuit traditional way of life",
+				"including whaling and seal hunting"
+			]
+		}
+	},
+	"people": {
+		"population": {
+			"total": 57616,
+			"global_rank": 206,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Greenlander(s)",
+			"adjective": "Greenlandic"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Greenlandic",
+					"percent": 89.7
+				},
+				{
+					"name": "Danish",
+					"percent": 7.8
+				},
+				{
+					"name": "other Nordic",
+					"percent": 1.1
+				},
+				{
+					"name": "and other",
+					"percent": 1.4
+				}
+			],
+			"note": "data represent population by country of birth",
+			"date": "2018"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Greenlandic",
+					"note": "West Greenlandic or Kalaallisut is the official language"
+				},
+				{
+					"name": "Danish"
+				},
+				{
+					"name": "English"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Evangelical Lutheran"
+				},
+				{
+					"name": "traditional Inuit spiritual beliefs"
+				}
+			]
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 20.82,
+				"males": 6079,
+				"females": 5916
+			},
+			"15_to_24": {
+				"percent": 14.45,
+				"males": 4186,
+				"females": 4137
+			},
+			"25_to_54": {
+				"percent": 39.72,
+				"males": 11962,
+				"females": 10921
+			},
+			"55_to_64": {
+				"percent": 14.66,
+				"males": 4561,
+				"females": 3886
+			},
+			"65_and_over": {
+				"percent": 10.36,
+				"males": 3170,
+				"females": 2798
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 34.3,
+				"units": "years"
+			},
+			"male": {
+				"value": 35.1,
+				"units": "years"
+			},
+			"female": {
+				"value": 33.4,
+				"units": "years"
+			},
+			"global_rank": 92,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -0.08,
+			"global_rank": 202,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 14.1,
+			"global_rank": 133,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9,
+			"global_rank": 62,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -6,
+			"global_rank": 204,
+			"date": "2020"
+		},
+		"population_distribution": "settlement concentrated on the southwest shoreline, with limited settlements scattered along the remaining coast; interior is uninhabited",
+		"urbanization": {
+			"urban_population": {
+				"value": 87.3,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.42,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Nuuk",
+					"population": 18000,
+					"is_capital": true
+				}
+			],
+			"date": "2018"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.03,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.01,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.1,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 1.17,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 1.13,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.08,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 8.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 9.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 7.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 148,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 73.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.7,
+				"units": "years"
+			},
+			"female": {
+				"value": 76.3,
+				"units": "years"
+			},
+			"global_rank": 145,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.94,
+			"global_rank": 123,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 1.87,
+			"date": "2016"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 14,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 100,
+				"units": "%"
+			},
+			"male": {
+				"value": 100,
+				"units": "%"
+			},
+			"female": {
+				"value": 100,
+				"units": "%"
+			},
+			"date": "2015"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "none",
+			"conventional_short_form": "Greenland",
+			"local_long_form": "none",
+			"local_short_form": "Kalaallit Nunaat",
+			"note": "named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island"
+		},
+		"government_type": "parliamentary democracy (Parliament of Greenland or Inatsisartut)",
+		"capital": {
+			"name": "Nuuk (Godthaab)",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 64,
+					"minutes": 11,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 51,
+					"minutes": 45,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": -3,
+				"note": "2 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "Greenland has four time zones",
+			"etymology": "\"nuuk\" is the Inuit word for \"cape\" and refers to the city's position at the end of the Nuup Kangerlua fjord"
+		},
+		"administrative_divisions": [
+			{
+				"name": "Avannaata",
+				"type": ""
+			},
+			{
+				"name": "Kujalleq",
+				"type": ""
+			},
+			{
+				"name": "Qeqertalik",
+				"type": ""
+			},
+			{
+				"name": "Qeqqata",
+				"type": ""
+			},
+			{
+				"name": "Sermersooq",
+				"type": ""
+			}
+		],
+		"independence": {},
+		"national_holidays": [
+			{
+				"name": "National Day",
+				"day": "June 21 marks the summer solstice and the longest day of the year in the Northern Hemisphere"
+			}
+		],
+		"constitution": {
+			"history": "previous 1953 (Greenland established as a constituency in the Danish constitution), 1979 (Greenland Home Rule Act); latest 21 June 2009 (Greenland Self-Government Act)"
+		},
+		"legal_system": "the laws of Denmark apply where applicable and Greenlandic law applies to other areas",
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Mikaela ENGELL (since April 2011)",
+			"head_of_government": "Premier Kim KIELSEN (since 30 September 2014)",
+			"cabinet": "Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut) on the basis of the strength of parties",
+			"elections_appointments": "the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term",
+			"election_results": "Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)\nGreenland elects 2 members to the Danish Parliament to serve 4-year terms",
+			"elections": "Greenland Parliament - last held on 24 April 2018 (next to be held by 2022)\nGreenland members to Danish Parliament -  last held on 5 June 2019(next to be held by 4 June 2023)",
+			"election_results": "Greenland Parliament percent of vote by party - S 27.2%, IA 25.5%, D 19.5%, PN 13.4%, A 5.9%, SA 4.1%, NQ 3.4% other 1%; seats by party - S 9, IA 8, D 6, PN 4, A 2, SA 1, NQ 1; composition - men 19, women 12, percent of women 38.7%\nGreenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women"
+		},
+		"judicial_branch": {
+			"highest_courts": "High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)",
+			"judge_selection_and_term_of_office": "judges appointed by the monarch upon the recommendation of the Judicial Appointments Council, a 6-member independent body of judges and lawyers; judges appointed for life with retirement at age 70",
+			"subordinate_courts": "Court of Greenland; 18 district or magistrates' courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Cooperation Party",
+					"name_alternative": "SA",
+					"leaders": [
+						"Michael ROSING"
+					],
+					"note": "Suleqatigiissitsisut or Samarbejdspartiet"
+				},
+				{
+					"name": "Democrats Party",
+					"name_alternative": "D",
+					"leaders": [
+						"Niels THOMSEN"
+					],
+					"note": "Demokraatit"
+				},
+				{
+					"name": "Forward Party",
+					"name_alternative": "S",
+					"leaders": [
+						"Kim KIELSEN"
+					],
+					"note": "Siumut"
+				},
+				{
+					"name": "Inuit Community",
+					"name_alternative": "IA",
+					"leaders": [
+						"Sara OLSVIG"
+					],
+					"note": "Inuit Ataqatigiit"
+				},
+				{
+					"name": "Our Country's Future",
+					"name_alternative": "NQ",
+					"leaders": [
+						"Vittus QUJAUKITSOQ"
+					],
+					"note": "Nunatta Qitornai"
+				},
+				{
+					"name": "Signpost Party",
+					"name_alternative": "PN",
+					"leaders": [
+						"Hans ENOKSEN"
+					],
+					"note": "Partii Naleraq"
+				},
+				{
+					"name": "Fellowship Party",
+					"name_alternative": "A",
+					"leaders": [
+						"Siverth Karl HEILMANN"
+					],
+					"note": "Atassut"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Arctic Council"
+			},
+			{
+				"organization": "ICC"
+			},
+			{
+				"organization": "NC"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "UPU"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"note": "Greenland has an office in the Danish Embassy in the US; it also has offices in the Danish consulates in Chicago and New York"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "polar bear"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nunarput utoqqarsuanngoravit\" (\"Our Country, Who's Become So Old\" also translated as \"You Our Ancient Land\")",
+			"lyrics_music": "Henrik LUND/Jonathan PETERSEN",
+			"note": "adopted 1916; the government also recognizes \"Nuna asiilasooq\" as a secondary anthem"
+		}
+	},
+	"economy": {
+		"overview": "Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.\nThe economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.\nThe public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.\nSignificant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2413000000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 2240000000,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 2203000000,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 193,
+				"note": "data are in 2015 US dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2221000000,
+				"date": "2015"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 7.7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 1.7,
+						"units": "%",
+						"date": "2015"
+					},
+					{
+						"value": -0.8,
+						"units": "%",
+						"date": "2014"
+					}
+				],
+				"global_rank": 11
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 41800,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 38800,
+						"units": "USD",
+						"date": "2014"
+					},
+					{
+						"value": 38500,
+						"units": "USD",
+						"date": "2013"
+					}
+				],
+				"global_rank": 44
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 68.1,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 28,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 14.3,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -13.9,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 18.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -28.6,
+							"units": "%"
+						}
+					},
+					"date": "2015"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 15.9,
+							"units": "%"
+						},
+						"industry": {
+							"value": 10.1,
+							"units": "%"
+						},
+						"services": {
+							"value": 73.9,
+							"units": "%",
+							"date": "2015"
+						}
+					},
+					"date": "2015"
+				}
+			}
+		},
+		"agriculture_products": {
+			"products": [
+				"sheep",
+				"cattle",
+				"reindeer",
+				"fish",
+				"shellfish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"fish processing",
+				"mainly shrimp",
+				"Greenland halibut",
+				"anorthosite",
+				"ruby mining",
+				"handicrafts",
+				"hides",
+				"skins",
+				"small shipyards"
+			]
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 26840,
+				"global_rank": 207,
+				"date": "2015"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 15.9,
+						"units": "%"
+					},
+					"industry": {
+						"value": 10.1,
+						"units": "%"
+					},
+					"services": {
+						"value": 73.9,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 9.1,
+					"units": "%",
+					"date": "2015"
+				},
+				{
+					"value": 10.3,
+					"units": "%",
+					"date": "2014"
+				}
+			],
+			"global_rank": 139
+		},
+		"population_below_poverty_line": {
+			"value": 16.2,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {},
+		"budget": {
+			"revenues": {
+				"value": 1719000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1594000000,
+				"units": "USD"
+			},
+			"date": "2016"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 77.4,
+			"global_rank": 3,
+			"date": "2016"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 5.6,
+			"global_rank": 5,
+			"date": "2016"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 13,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 196
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 0.3,
+					"units": "%",
+					"date": "2017-01-01"
+				},
+				{
+					"value": 1.2,
+					"units": "%",
+					"date": "2016-01-01"
+				}
+			],
+			"global_rank": 19
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 407100000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 599700000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 182
+			},
+			"commodities": {
+				"by_commodity": [
+					"fish",
+					"fish products"
+				],
+				"date": "2015"
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Denmark",
+						"percent": 82.5
+					},
+					{
+						"name": "Iceland",
+						"percent": 4.4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 783500000,
+						"units": "USD",
+						"date": "2015"
+					},
+					{
+						"value": 866100000,
+						"units": "USD",
+						"date": "2014"
+					}
+				],
+				"global_rank": 191
+			},
+			"commodities": {
+				"by_commodity": [
+					"machinery",
+					"transport equipment",
+					"manufactured goods",
+					"food",
+					"petroleum products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Denmark",
+						"percent": 69.7
+					},
+					{
+						"name": "Sweden",
+						"percent": 10.6
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 36400000,
+					"units": "USD",
+					"date": "2010"
+				},
+				{
+					"value": 58000000,
+					"units": "USD",
+					"date": "2009"
+				}
+			],
+			"global_rank": 197
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 6.586,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 6.7309,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 6.7309,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 6.7326,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 5.6125,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Danish kroner (DKK) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 538000000,
+				"global_rank": 163,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 468000000,
+				"global_rank": 170,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 141,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 153,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 187000,
+				"global_rank": 167,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 51,
+					"global_rank": 149,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 99,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 49,
+					"global_rank": 42,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 0,
+					"global_rank": 189,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 142,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 130,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 133,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 138,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 150,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 4000,
+				"global_rank": 184,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 159,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 3973,
+				"global_rank": 177,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 138,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 151,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 113,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 131,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 140,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 613800,
+			"global_rank": 179,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 7259,
+				"subscriptions_per_one_hundred_inhabitants": 12.59,
+				"global_rank": 197,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 66009,
+				"subscriptions_per_one_hundred_inhabitants": 114.48,
+				"global_rank": 202,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "the Greenland Broadcasting Company provides public radio and TV services throughout the island with a broadcast station and a series of repeaters; a few private local TV and radio stations; Danish public radio rebroadcasts are available (2019)",
+		"internet": {
+			"country_code": ".gl",
+			"users": {
+				"total": 40084,
+				"percent_of_population": 69.48,
+				"global_rank": 201,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 1,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 8,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "OY-H",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 15,
+					"global_rank": 146,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 10,
+					"2438_to_3047_metres": 2,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 1,
+					"under_914_metres": 6,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 5,
+					"1524_to_2437_metres": 1,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 2,
+					"date": "2013"
+				}
+			}
+		},
+		"roadways": {
+			"note": "although there are short roads in towns, there are no roads between towns; inter-urban transport is either by sea or by air"
+		},
+		"merchant_marine": {
+			"total": 8,
+			"by_type": [
+				{
+					"type": "other",
+					"count": 8
+				}
+			],
+			"global_rank": 159,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Sisimiut"
+			]
+		}
+	},
+	"military_and_security": {
+		"note": "The Danish military’s Joint Arctic Command in Nuuk is responsible for territorial defense of Greenland (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"managed dispute between Canada and Denmark over Hans Island in the Kennedy Channel between Canada's Ellesmere Island and Greenland",
+			"Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission"
+		]
+	}
+}

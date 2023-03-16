@@ -1,0 +1,1847 @@
+{
+	"name": "Lithuania",
+	"introduction": {
+		"background": "Lithuanian lands were united under MINDAUGAS in 1236; over the next century, through alliances and conquest, Lithuania extended its territory to include most of present-day Belarus and Ukraine. By the end of the 14th century Lithuania was the largest state in Europe. An alliance with Poland in 1386 led the two countries into a union through the person of a common ruler. In 1569, Lithuania and Poland formally united into a single dual state, the Polish-Lithuanian Commonwealth. This entity survived until 1795 when its remnants were partitioned by surrounding countries. Lithuania regained its independence following World War I but was annexed by the USSR in 1940 - an action never recognized by the US and many other countries. On 11 March 1990, Lithuania became the first of the Soviet republics to declare its independence, but Moscow did not recognize this proclamation until September of 1991 (following the abortive coup in Moscow). The last Russian troops withdrew in 1993. Lithuania subsequently restructured its economy for integration into Western European institutions; it joined both NATO and the EU in the spring of 2004. In 2015, Lithuania joined the euro zone, and it joined the Organization for Economic Cooperation and Development in 2018."
+	},
+	"geography": {
+		"location": "Eastern Europe, bordering the Baltic Sea, between Latvia and Russia, west of Belarus",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 56,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 24,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 65300,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 62680,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 2620,
+				"units": "sq km"
+			},
+			"global_rank": 124,
+			"comparative": "slightly larger than West Virginia"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 1549,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Belarus",
+					"border_length": {
+						"value": 640,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Latvia",
+					"border_length": {
+						"value": 544,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Poland",
+					"border_length": {
+						"value": 104,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Russia (Kaliningrad)",
+					"border_length": {
+						"value": 261,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 90,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			}
+		},
+		"climate": "transitional, between maritime and continental; wet, moderate winters and summers",
+		"terrain": "lowland, many scattered small lakes, fertile soil",
+		"elevation": {
+			"mean_elevation": {
+				"value": 110,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Baltic Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Aukstojas",
+				"elevation": {
+					"value": 294,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"peat",
+				"arable land",
+				"amber"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 44.8,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 34.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.5,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 9.4,
+					"units": "%"
+				},
+				"forest": {
+					"value": 34.6,
+					"units": "%"
+				},
+				"other": {
+					"value": 20.6,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 44,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda",
+		"natural_hazards": [
+			{
+				"description": "occasional floods, droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"water pollution",
+				"air pollution",
+				"deforestation",
+				"threatened animal and plant species",
+				"chemicals and waste materials released into the environment contaminate soil and groundwater",
+				"soil degradation and erosion"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulphur 85",
+					"Air Pollution-Sulphur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Wetlands"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 2731464,
+			"global_rank": 141,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Lithuanian(s)",
+			"adjective": "Lithuanian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Lithuanian",
+					"percent": 84.1
+				},
+				{
+					"name": "Polish",
+					"percent": 6.6
+				},
+				{
+					"name": "Russian",
+					"percent": 5.8
+				},
+				{
+					"name": "Belarusian",
+					"percent": 1.2
+				},
+				{
+					"name": "other",
+					"percent": 1.1
+				},
+				{
+					"name": "unspecified",
+					"percent": 1.2
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Lithuanian",
+					"percent": 82,
+					"note": "official"
+				},
+				{
+					"name": "Russian",
+					"percent": 8
+				},
+				{
+					"name": "Polish",
+					"percent": 5.6
+				},
+				{
+					"name": "other",
+					"percent": 0.9
+				},
+				{
+					"name": "unspecified",
+					"percent": 3.5
+				}
+			],
+			"date": "2011"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 77.2
+				},
+				{
+					"name": "Russian Orthodox",
+					"percent": 4.1
+				},
+				{
+					"name": "Old Believer",
+					"percent": 0.8
+				},
+				{
+					"name": "Evangelical Lutheran",
+					"percent": 0.6
+				},
+				{
+					"name": "Evangelical Reformist",
+					"percent": 0.2
+				},
+				{
+					"name": "other",
+					"percent": 0.8,
+					"note": "including Sunni Muslim, Jewish, Greek Catholic, and Karaite"
+				},
+				{
+					"name": "none",
+					"percent": 6.1
+				},
+				{
+					"name": "unspecified",
+					"percent": 10.1
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 15.26,
+				"males": 213802,
+				"females": 202948
+			},
+			"15_to_24": {
+				"percent": 10.23,
+				"males": 144679,
+				"females": 134822
+			},
+			"25_to_54": {
+				"percent": 38.96,
+				"males": 528706,
+				"females": 535485
+			},
+			"55_to_64": {
+				"percent": 15.1,
+				"males": 183854,
+				"females": 228585
+			},
+			"65_and_over": {
+				"percent": 20.45,
+				"males": 190025,
+				"females": 368558
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 56.5,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 24.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 32.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.1,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 44.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 40.2,
+				"units": "years"
+			},
+			"female": {
+				"value": 48.2,
+				"units": "years"
+			},
+			"global_rank": 15,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": -1.13,
+			"global_rank": 232,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 9.5,
+			"global_rank": 197,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 15,
+			"global_rank": 2,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -5.9,
+			"global_rank": 203,
+			"date": "2020"
+		},
+		"population_distribution": "fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda",
+		"urbanization": {
+			"urban_population": {
+				"value": 68,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": -0.31,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Vilnius",
+					"population": 539000,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.06,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.07,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.8,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.52,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.86,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 27.5,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 5,
+			"global_rank": 167,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 3.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.2,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 192,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 75.5,
+				"units": "years"
+			},
+			"male": {
+				"value": 70.3,
+				"units": "years"
+			},
+			"female": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"global_rank": 115,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.6,
+			"global_rank": 185,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 4.83,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 6.6,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 92.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 97.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 7.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 2.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 99.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 87.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 95.5,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 12.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4.5,
+					"units": "percent of population"
+				}
+			},
+			"date": "2015"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 125,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 3400,
+				"global_rank": 130,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 100,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "intermediate",
+			"vectorborne_diseases": [
+				"tickborne encephalitis"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 26.3,
+			"global_rank": 43,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 4.2,
+			"global_rank": 93,
+			"date": "2015"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"male": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 99.8,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 16,
+				"units": "years"
+			},
+			"female": {
+				"value": 17,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 11.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 12,
+				"units": "%"
+			},
+			"female": {
+				"value": 10.1,
+				"units": "%"
+			},
+			"global_rank": 117,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of Lithuania",
+			"conventional_short_form": "Lithuania",
+			"local_long_form": "Lietuvos Respublika",
+			"local_short_form": "Lietuva",
+			"former": "Lithuanian Soviet Socialist Republic",
+			"etymology": "meaning of the name \"Lietuva\" remains unclear; it may derive from the Lietava, a stream in east central Lithuania"
+		},
+		"government_type": "semi-presidential republic",
+		"capital": {
+			"name": "Vilnius",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 54,
+					"minutes": 41,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 25,
+					"minutes": 19,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 2,
+				"note": "7 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "named after the Vilnia River, which flows into the Neris River at Vilnius; the river name derives from the Lithuanian word \"vilnis\" meaning \"a surge\""
+		},
+		"independence": {
+			"date": "1918-02-16",
+			"note": "from Soviet Russia and Germany; 11 March 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union); notable earlier dates: 6 July 1253 (coronation of MINDAUGAS, traditional founding date); 1 July 1569 (Polish-Lithuanian Commonwealth created)"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "16 February",
+				"original_year": "1918",
+				"note": "16 February 1918 was the date Lithuania established its statehood and its concomitant independence from Soviet Russia and Germany; or National Day"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest adopted by referendum 25 October 1992, entered into force 2 November 1992",
+			"amendments": "proposed by at least one fourth of all Parliament members or by petition of at least 300,000 voters; passage requires two-thirds majority vote of Parliament in each of two readings three months apart and a presidential signature; amendments to constitutional articles on national sovereignty and constitutional amendment procedure also require three-fourths voter approval in a referendum; amended 1996, 2003, 2006"
+		},
+		"legal_system": "civil law system; legislative acts can be appealed to the Constitutional Court",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Lithuania",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Gitanas NAUSEDA (since 12 July 2019)",
+			"head_of_government": "Prime Minister Ingrida SIMONYTE (since 24 November 2020)",
+			"cabinet": "Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament",
+			"elections_appointments": "president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament",
+			"election_results": "Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 90 to 4"
+		},
+		"legislative_branch": {
+			"description": "unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)",
+			"elections": "last held on11 and 25 October 2020 (next to be held in October 2024)",
+			"election_results": "percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges nominated by the president and appointed by the Seimas; judges serve 5-year renewable terms; Constitutional Court judges appointed by the Seimas from nominations - 3 each by the president of the republic, the Seimas chairperson, and the Supreme Court president; judges serve 9-year, nonrenewable terms; one-third of membership reconstituted every 3 years",
+			"subordinate_courts": "Court of Appeals; district and local courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Electoral Action of Lithuanian Poles",
+					"name_alternative": "LLRA",
+					"leaders": [
+						"Valdemar TOMASEVSKI"
+					]
+				},
+				{
+					"name": "Farmers and Greens Union",
+					"name_alternative": "LVZS",
+					"leaders": [
+						"Ramunas KARBAUSKIS"
+					]
+				},
+				{
+					"name": "Freedom Party",
+					"name_alternative": "LP",
+					"leaders": [
+						"Ausrine ARMONAITE"
+					]
+				},
+				{
+					"name": "Homeland Union-Lithuanian Christian Democrats",
+					"name_alternative": "TS-LKD",
+					"leaders": [
+						"Gabrielius LANDSBERGIS"
+					]
+				},
+				{
+					"name": "Labor Party",
+					"name_alternative": "DP",
+					"leaders": [
+						"Viktor USPASKICH"
+					]
+				},
+				{
+					"name": "Lithuanian Center Party",
+					"name_alternative": "LCP",
+					"leaders": [
+						"Naglis PUTEIKIS"
+					]
+				},
+				{
+					"name": "Lithuanian Green Party",
+					"name_alternative": "LZP]",
+					"leaders": [
+						"Remigijus LAPINSKAS"
+					]
+				},
+				{
+					"name": "Lithuanian Liberal Movement or LS or LRLS",
+					"name_alternative": "",
+					"leaders": [
+						"Viktorija CMILYTE"
+					]
+				},
+				{
+					"name": "Lithuanian List",
+					"name_alternative": "LL",
+					"leaders": [
+						"Darius KUOLYS"
+					]
+				},
+				{
+					"name": "Lithuanian Social Democratic Party",
+					"name_alternative": "LSDP",
+					"leaders": [
+						"Gintautas PALUCKAS"
+					]
+				},
+				{
+					"name": "Lithuanian Social Democratic Labor Party",
+					"name_alternative": "LSDDP",
+					"leaders": [
+						"Gediminas KIRKILAS"
+					]
+				},
+				{
+					"name": "Freedom and Justice Party",
+					"name_alternative": "LT",
+					"leaders": [
+						"Remigijus ZEMAITAITIS"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BA"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CBSS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NIB"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OIF ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "Schengen Convention"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Rolandas KRISCIUNAS (since 17 September 2015)",
+				"chancery": "2622 16th Street NW, Washington, DC 20009",
+				"telephone": "[1] (202) 234-5860",
+				"fax": "[1] (202) 328-0466",
+				"consulates_general": "Chicago, Los Angeles, New York"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Robert S. GILCHRIST (since 4 February 2010)",
+				"telephone": "[370] (5) 266-5500",
+				"embassy": "Akmenu gatve 6, Vilnius, LT-03106",
+				"mailing_address": "American Embassy, Akmenu Gatve 6, Vilnius LT-03106",
+				"fax": "[370] (5) 266-5510"
+			}
+		},
+		"flag_description": {
+			"description": "three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "mounted knight known as Vytis ",
+					"note": "the Chaser"
+				},
+				{
+					"symbol": "white stork"
+				}
+			],
+			"colors": [
+				{
+					"color": "yellow"
+				},
+				{
+					"color": "green"
+				},
+				{
+					"color": "red"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Tautiska giesme\" (The National Song)",
+			"lyrics_music": "Vincas KUDIRKA",
+			"note": "adopted 1918, restored 1990; written in 1898 while Lithuania was a part of Russia; banned during the Soviet occupation from 1940 to 1990",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/LH.mp3?1538604756"
+		}
+	},
+	"economy": {
+		"overview": "After the country declared independence from the Soviet Union in 1990, Lithuania faced an initial dislocation that is typical during transitions from a planned economy to a free-market economy. Macroeconomic stabilization policies, including privatization of most state-owned enterprises, and a strong commitment to a currency board arrangement led to an open and rapidly growing economy and rising consumer demand. Foreign investment and EU funding aided in the transition. Lithuania joined the WTO in May 2001, the EU in May 2004, and the euro zone in January 2015, and is now working to complete the OECD accession roadmap it received in July 2015. In 2017, joined the OECD Working Group on Bribery, an important step in the OECD accession process.\nThe Lithuanian economy was severely hit by the 2008-09 global financial crisis, but it has rebounded and become one of the fastest growing in the EU. Increases in exports, investment, and wage growth that supported consumption helped the economy grow by 3.6% in 2017. In 2015, Russia was Lithuania’s largest trading partner, followed by Poland, Germany, and Latvia; goods and services trade between the US and Lithuania totaled $2.2 billion. Lithuania opened a self-financed liquefied natural gas terminal in January 2015, providing the first non-Russian supply of natural gas to the Baltic States and reducing Lithuania’s dependence on Russian gas from 100% to approximately 30% in 2016.\nLithuania’s ongoing recovery hinges on improving the business environment, especially by liberalizing labor laws, and improving competitiveness and export growth, the latter hampered by economic slowdowns in the EU and Russia. In addition, a steady outflow of young and highly educated people is causing a shortage of skilled labor, which, combined with a rapidly aging population, could stress public finances and constrain long-term growth.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 91470000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 88070000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 86050000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 87,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 47260000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 4.33,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 3.99,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 4.37,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 64
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 32400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 30700,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 29600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 63,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 63.9,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 16.6,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 18.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": -1.3,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 81.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -79.3,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 3.5,
+							"units": "%"
+						},
+						"industry": {
+							"value": 29.4,
+							"units": "%"
+						},
+						"services": {
+							"value": 67.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 18,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 16.2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 17.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 111
+		},
+		"agriculture_products": {
+			"products": [
+				"grain",
+				"potatoes",
+				"sugar beets",
+				"flax",
+				"vegetables",
+				"beef",
+				"milk",
+				"eggs",
+				"pork",
+				"cheese",
+				"fish"
+			]
+		},
+		"industries": {
+			"industries": [
+				"metal-cutting machine tools",
+				"electric motors",
+				"televisions",
+				"refrigerators",
+				"freezers",
+				"petroleum refining",
+				"shipbuilding",
+				"small ships",
+				"furniture",
+				"textiles",
+				"food processing",
+				"fertilizer",
+				"agricultural machinery",
+				"optical equipment",
+				"lasers",
+				"electronic components",
+				"computers",
+				"amber jewelry",
+				"information technology",
+				"video game development",
+				"app/software development",
+				"biotechnology"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 5.9,
+			"global_rank": 43,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 1333000,
+				"global_rank": 130,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 9.1,
+						"units": "%"
+					},
+					"industry": {
+						"value": 25.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 65.8,
+						"units": "%"
+					}
+				},
+				"date": "2015"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 8.4,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 8.5,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 129
+		},
+		"population_below_poverty_line": {
+			"value": 22.2,
+			"units": "%",
+			"date": "2015"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 28.8,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 15920000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 15700000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 33.7,
+			"global_rank": 65,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": 0.5,
+			"global_rank": 38,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 39.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 40.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 129,
+			"note": "official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 3.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 147
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": 1817000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": 131000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 42
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 29120000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 24230000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 64
+			},
+			"commodities": {
+				"by_commodity": [
+					"refined fuel",
+					"machinery",
+					"equipment",
+					"chemicals",
+					"textiles",
+					"foodstuffs",
+					"plastics"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 15
+					},
+					{
+						"name": "Latvia",
+						"percent": 9.9
+					},
+					{
+						"name": "Poland",
+						"percent": 8.1
+					},
+					{
+						"name": "Germany",
+						"percent": 7.3
+					},
+					{
+						"name": "US",
+						"percent": 5.2
+					},
+					{
+						"name": "Estonia",
+						"percent": 5
+					},
+					{
+						"name": "Sweden",
+						"percent": 4.8
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 31560000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 26210000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 65
+			},
+			"commodities": {
+				"by_commodity": [
+					"oil",
+					"natural gas",
+					"machinery",
+					"equipment",
+					"transport equipment",
+					"chemicals",
+					"textiles",
+					"clothing",
+					"metals"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Russia",
+						"percent": 13
+					},
+					{
+						"name": "Germany",
+						"percent": 12.3
+					},
+					{
+						"name": "Poland",
+						"percent": 10.6
+					},
+					{
+						"name": "Latvia",
+						"percent": 7.1
+					},
+					{
+						"name": "Italy",
+						"percent": 5.2
+					},
+					{
+						"name": "Netherlands",
+						"percent": 5.1
+					},
+					{
+						"name": "Sweden",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 4450000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 1697000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 98
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 34480000000,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 31600000000,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 78
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.884,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.9037,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.9037,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.9012,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.7525,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "litai (LTL) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 3131000000,
+				"global_rank": 131,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 10500000000,
+				"global_rank": 95,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 730000000,
+				"global_rank": 62,
+				"date": "2015"
+			},
+			"imports": {
+				"kWh": 11110000000,
+				"global_rank": 22,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 3710000,
+				"global_rank": 93,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 73,
+					"global_rank": 100,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 130,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 4,
+					"global_rank": 132,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 23,
+					"global_rank": 31,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 2000,
+				"global_rank": 87,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 1002,
+				"global_rank": 75,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 182900,
+				"global_rank": 32,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 12000000,
+				"global_rank": 88,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 196500,
+				"global_rank": 51,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 58000,
+				"global_rank": 98,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 174800,
+				"global_rank": 32,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 42490,
+				"global_rank": 87,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 159,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 2492000000,
+				"global_rank": 79,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 140,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 2492000000,
+				"global_rank": 47,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 160,
+				"date": "2016"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 13490000,
+			"global_rank": 97,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 368515,
+				"subscriptions_per_one_hundred_inhabitants": 13.34,
+				"global_rank": 105,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 4663627,
+				"subscriptions_per_one_hundred_inhabitants": 168.82,
+				"global_rank": 123,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "public broadcaster operates 3 channels with the third channel - a satellite channel - introduced in 2007; various privately owned commercial TV broadcasters operate national and multiple regional channels; many privately owned local TV stations; multi-channel cable and satellite TV services available; publicly owned broadcaster operates 3 radio networks; many privately owned commercial broadcasters, with repeater stations in various regions throughout the country",
+		"internet": {
+			"country_code": ".lt",
+			"users": {
+				"total": 2226806,
+				"percent_of_population": 79.72,
+				"global_rank": 116,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 3,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 50,
+				"annual_passenger_traffic_on_registered_air_carriers": 26031,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "LY",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 61,
+					"global_rank": 79,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 22,
+					"over_3047_metres": 3,
+					"2438_to_3047_metres": 1,
+					"1524_to_2437_metres": 7,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 9,
+					"date": "2017"
+				},
+				"unpaved": {
+					"total": 39,
+					"over_3047_metres": 1,
+					"914_to_1523_metres": 2,
+					"under_914_metres": 36,
+					"date": "2013"
+				}
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 1921,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 121,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 1768,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 22,
+				"units": "km\n1.435-m"
+			},
+			"broad_gauge": {
+				"length": 1746,
+				"electrified": 122,
+				"units": "km\n1.520-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 79,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 84166,
+				"units": "km"
+			},
+			"paved": {
+				"value": 72297,
+				"units": "km",
+				"note": "includes 312 km of expressways"
+			},
+			"unpaved": {
+				"value": 11869,
+				"units": "km"
+			},
+			"global_rank": 60,
+			"date": "2012"
+		},
+		"waterways": {
+			"value": 441,
+			"units": "km",
+			"note": "navigable year-round",
+			"global_rank": 86,
+			"date": "2007"
+		},
+		"merchant_marine": {
+			"total": 58,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 3
+				},
+				{
+					"type": "general cargo",
+					"count": 21
+				},
+				{
+					"type": "oil tanker",
+					"count": 2
+				},
+				{
+					"type": "other",
+					"count": 32
+				}
+			],
+			"global_rank": 111,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Klaipeda"
+			],
+			"oil_terminals": [
+				"Butinge oil terminal"
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Klaipeda"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.03,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 1.98,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.72,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.48,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.14,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 48
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 19,
+			"note": "19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female)",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999",
+			"Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as a EU member state having an external border with a non-EU member, to strict Schengen border rules",
+			"boundary demarcated with Latvia and Lithuania",
+			"as of January 2007, ground demarcation of the boundary with Belarus was complete and mapped with final ratification documents in preparation"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 2904,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "transshipment and destination point for cannabis, cocaine, ecstasy, and opiates from Southwest Asia, Latin America, Western Europe, and neighboring Baltic countries; growing production of high-quality amphetamines, but limited production of cannabis, methamphetamines; susceptible to money laundering despite changes to banking legislation"
+		}
+	}
+}

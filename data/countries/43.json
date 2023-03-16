@@ -1,0 +1,1766 @@
+{
+	"name": "Cambodia",
+	"introduction": {
+		"background": "Most Cambodians consider themselves to be Khmers, descendants of the Angkor Empire that extended over much of Southeast Asia and reached its zenith between the 10th and 13th centuries. Attacks by the Thai and Cham (from present-day Vietnam) weakened the empire, ushering in a long period of decline. The king placed the country under French protection in 1863, and it became part of French Indochina in 1887. Following Japanese occupation in World War II, Cambodia gained full independence from France in 1953. In April 1975, after a seven-year struggle, communist Khmer Rouge forces captured Phnom Penh and evacuated all cities and towns. At least 1.5 million Cambodians died from execution, forced hardships, or starvation during the Khmer Rouge regime under POL POT. A December 1978 Vietnamese invasion drove the Khmer Rouge into the countryside, began a 10-year Vietnamese occupation, and touched off  20 years of civil war."
+	},
+	"geography": {
+		"location": "Southeastern Asia, bordering the Gulf of Thailand, between Thailand, Vietnam, and Laos",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 105,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 181035,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 176515,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 4520,
+				"units": "sq km"
+			},
+			"global_rank": 91,
+			"comparative": "one and a half times the size of Pennsylvania; slightly smaller than Oklahoma"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 2530,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Laos",
+					"border_length": {
+						"value": 555,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Thailand",
+					"border_length": {
+						"value": 817,
+						"units": "km"
+					}
+				},
+				{
+					"country": "Vietnam",
+					"border_length": {
+						"value": 1158,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 443,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"contiguous_zone": {
+				"value": 24,
+				"units": "nm"
+			},
+			"continental_shelf": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation",
+		"terrain": "mostly low, flat plains; mountains in southwest and north",
+		"elevation": {
+			"mean_elevation": {
+				"value": 126,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Gulf of Thailand",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Phnum Aoral",
+				"elevation": {
+					"value": 1810,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"oil",
+				"gas",
+				"timber",
+				"gemstones",
+				"iron ore",
+				"manganese",
+				"phosphates",
+				"hydropower potential",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 32.1,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 22.7,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.9,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 8.5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 56.5,
+					"units": "%"
+				},
+				"other": {
+					"value": 11.4,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 3540,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers",
+		"natural_hazards": [
+			{
+				"description": "monsoonal rains (June to November)",
+				"type": "hazard"
+			},
+			{
+				"description": "flooding",
+				"type": "hazard"
+			},
+			{
+				"description": "occasional droughts",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"illegal logging activities throughout the country and strip mining for gems in the western region along the border with Thailand have resulted in habitat loss and declining biodiversity (in particular",
+				"destruction of mangrove swamps threatens natural fisheries)",
+				"soil erosion",
+				"in rural areas",
+				"most of the population does not have access to potable water",
+				"declining fish stocks because of illegal fishing and overfishing",
+				"coastal ecosystems choked by sediment washed loose from deforested areas inland"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Law of the Sea"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 16926984,
+			"global_rank": 69,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Cambodian(s)",
+			"adjective": "Cambodian"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Khmer",
+					"percent": 97.6
+				},
+				{
+					"name": "Cham",
+					"percent": 1.2
+				},
+				{
+					"name": "Chinese",
+					"percent": 0.1
+				},
+				{
+					"name": "Vietnamese",
+					"percent": 0.1
+				},
+				{
+					"name": "other",
+					"percent": 0.9
+				}
+			],
+			"date": "2013"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "Khmer",
+					"percent": 96.3,
+					"note": "official"
+				},
+				{
+					"name": "other",
+					"percent": 3.7
+				}
+			],
+			"date": "2008"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Buddhist",
+					"percent": 97.9,
+					"note": "official"
+				},
+				{
+					"name": "Muslim",
+					"percent": 1.1
+				},
+				{
+					"name": "Christian",
+					"percent": 0.5
+				},
+				{
+					"name": "other",
+					"percent": 0.6
+				}
+			],
+			"date": "2013"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 30.18,
+				"males": 2582427,
+				"females": 2525619
+			},
+			"15_to_24": {
+				"percent": 17.28,
+				"males": 1452784,
+				"females": 1472769
+			},
+			"25_to_54": {
+				"percent": 41.51,
+				"males": 3442051,
+				"females": 3584592
+			},
+			"55_to_64": {
+				"percent": 6.44,
+				"males": 476561,
+				"females": 612706
+			},
+			"65_and_over": {
+				"percent": 4.59,
+				"males": 287021,
+				"females": 490454
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.7,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 48.2,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 7.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 13.2,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 26.4,
+				"units": "years"
+			},
+			"male": {
+				"value": 25.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 27.2,
+				"units": "years"
+			},
+			"global_rank": 153,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.4,
+			"global_rank": 80,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 21.3,
+			"global_rank": 70,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 7.3,
+			"global_rank": 110,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -0.3,
+			"global_rank": 115,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers",
+		"urbanization": {
+			"urban_population": {
+				"value": 24.2,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 3.25,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Phnom Penh",
+					"population": 2077999.9999999998,
+					"is_capital": true
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.02,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 0.99,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 0.96,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.78,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.59,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.95,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.9,
+			"date": "2014"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 160,
+			"global_rank": 55,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 43.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 49.8,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 37.3,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 30,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 65.9,
+				"units": "years"
+			},
+			"male": {
+				"value": 63.4,
+				"units": "years"
+			},
+			"female": {
+				"value": 68.6,
+				"units": "years"
+			},
+			"global_rank": 189,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.39,
+			"global_rank": 79,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 56.3,
+			"units": "%",
+			"date": "2014"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.19,
+			"date": "2014"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1.9,
+			"date": "2016"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 98.4,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 77.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 80.3,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 1.6,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 22.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 19.7,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 55.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 65.7,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 44.5,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 34.3,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.6,
+				"global_rank": 60,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 73000,
+				"global_rank": 55,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1300,
+				"global_rank": 53,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "very high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"Japanese encephalitis",
+				"malaria"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 3.9,
+			"global_rank": 188,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 24.1,
+			"global_rank": 13,
+			"date": "2014"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 1.9,
+			"global_rank": 170,
+			"date": "2014"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 80.5,
+				"units": "%"
+			},
+			"male": {
+				"value": 86.5,
+				"units": "%"
+			},
+			"female": {
+				"value": 75,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 11,
+				"units": "years"
+			},
+			"male": {
+				"value": 11,
+				"units": "years"
+			},
+			"female": {
+				"value": 10,
+				"units": "years"
+			},
+			"date": "2008"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 1.1,
+				"units": "%"
+			},
+			"male": {
+				"value": 1,
+				"units": "%"
+			},
+			"female": {
+				"value": 1.2,
+				"units": "%"
+			},
+			"global_rank": 177,
+			"date": "2016"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Kingdom of Cambodia",
+			"conventional_short_form": "Cambodia",
+			"local_long_form": "Preahreacheanachakr Kampuchea (phonetic transliteration)",
+			"local_short_form": "Kampuchea",
+			"former": "Khmer Republic, Democratic Kampuchea, People's Republic of Kampuchea, State of Cambodia",
+			"etymology": "the English name Cambodia is an anglicization of the French Cambodge, which is the French transliteration of the native name Kampuchea"
+		},
+		"government_type": "parliamentary constitutional monarchy",
+		"capital": {
+			"name": "Phnom Penh",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 11,
+					"minutes": 33,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 104,
+					"minutes": 55,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 7,
+				"note": "12 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "Phnom Penh translates as \"Penh's Hill\" in Khmer; the city takes its name from the present Wat Phnom (Hill Temple), the tallest religious structure in the city, whose establishment, according to legend, was inspired in the 14th century by a pious nun, Daun PENH"
+		},
+		"independence": {
+			"date": "1953-11-09",
+			"note": "from France"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "9 November",
+				"original_year": "1953"
+			}
+		],
+		"constitution": {
+			"history": "previous 1947; latest promulgated 21 September 1993",
+			"amendments": "proposed by the monarch, by the prime minister, or by the president of the National Assembly if supported by one fourth of the Assembly membership; passage requires two-thirds majority of the Assembly membership; constitutional articles on the multiparty democratic form of government and the monarchy cannot be amended; amended 1999, 2008, 2014, 2018"
+		},
+		"legal_system": "civil law system (influenced by the UN Transitional Authority in Cambodia) customary law, Communist legal theory, and common law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Cambodia",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "7 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "King Norodom SIHAMONI (since 29 October 2004)",
+			"head_of_government": "Prime Minister HUN SEN (since 14 January 1985); Permanent Deputy Prime Minister MEN SAM AN (since 25 September 2008); Deputy Prime Ministers SAR KHENG (since 3 February 1992), TEA BANH, Gen., HOR NAMHONG, (since 16 July 2004), BIN CHHIN (since 5 September 2007), YIM CHHAI LY (since 24 September 2008), KE KIMYAN (since 12 March 2009), AUN PORNMONIROTH (since 24 September 2012), Prak SOKONN, CHEA SOPHARA (since 5 April 2016)",
+			"cabinet": "Council of Ministers named by the prime minister and appointed by the monarch",
+			"elections_appointments": "monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament of Cambodia consists of: Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)\nNational Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)",
+			"elections": "Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023)",
+			"election_results": "Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%\nNational Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2019",
+			"judge_selection_and_term_of_office": "Supreme Court and Constitutional Council judge candidates recommended by the Supreme Council of Magistracy, a 17-member body chaired by the monarch and includes other high-level judicial officers; judges of both courts appointed by the monarch; Supreme Court judges appointed for life; Constitutional Council judges appointed for 9-year terms with one-third of the court renewed every 3 years",
+			"subordinate_courts": "Appellate Court; provincial and municipal courts; Military Court"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Cambodia National Rescue Party",
+					"name_alternative": "CNRP",
+					"leaders": [
+						"KHEM SOKHA"
+					],
+					"note": "dissolved by the Cambodian Supreme Court in November 2017; formed from a 2012 merger of the Sam Rangsi Party or SRP and the former Human Rights Party or HRP [KHEM SOKHA, also spelled KEM SOKHA]"
+				},
+				{
+					"name": "Cambodian Nationality Party",
+					"name_alternative": "CNP",
+					"leaders": [
+						"SENG SOKHENG"
+					]
+				},
+				{
+					"name": "Cambodian People's Party",
+					"name_alternative": "CPP",
+					"leaders": [
+						"HUN SEN"
+					]
+				},
+				{
+					"name": "Khmer Economic Development Party",
+					"name_alternative": "KEDP",
+					"leaders": [
+						"HUON REACH CHAMROEUN"
+					]
+				},
+				{
+					"name": "Khmer National Unity Party",
+					"name_alternative": "KNUP",
+					"leaders": [
+						"NHEK BUN CHHAY"
+					]
+				},
+				{
+					"name": "Khmer Will Party",
+					"leaders": [
+						"KONG MONIKA"
+					]
+				},
+				{
+					"name": "League for Democracy Party",
+					"name_alternative": "LDP",
+					"leaders": [
+						"KHEM Veasna"
+					]
+				},
+				{
+					"name": "National United Front for an Independent, Neutral, Peaceful, Cooperative Cambodia",
+					"name_alternative": "FUNCINPEC",
+					"leaders": [
+						"Prince NORODOM RANARIDDH"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN"
+			},
+			{
+				"organization": "CICA"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO ",
+				"note": "correspondent"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OIF"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNAMID"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "UNIFIL"
+			},
+			{
+				"organization": "UNISFA"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador CHUM SOUNRY (since 17 September 2018)",
+				"chancery": "4530 16th Street NW, Washington, DC 20011",
+				"telephone": "[1] (202) 726-7742",
+				"fax": "[1] (202) 726-8381"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Patrick MURPHY (since 23 October 2019)",
+				"telephone": "[855] (23) 728-000",
+				"embassy": "#1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh",
+				"mailing_address": "Unit 8166, Box P, APO AP 96546",
+				"fax": "[855] (23) 728-600"
+			}
+		},
+		"flag_description": {
+			"description": "three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors",
+			"note": "only national flag to prominently incorporate an actual identifiable building into its design (a few other national flags - those of Afghanistan, San Marino, Portugal, and Spain - show small generic buildings as part of their coats of arms on the flag)"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "Angkor Wat temple"
+				},
+				{
+					"symbol": "kouprey ",
+					"note": "wild ox"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "blue"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Nokoreach\" (Royal Kingdom)",
+			"lyrics_music": "CHUON NAT/F. PERRUCHOT and J. JEKYLL",
+			"note": "adopted 1941, restored 1993; the anthem, based on a Cambodian folk tune, was restored after the defeat of the Communist regime",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/CB.mp3?1538604751"
+		}
+	},
+	"economy": {
+		"overview": "Cambodia has experienced strong economic growth over the last decade; GDP grew at an average annual rate of over 8% between 2000 and 2010 and about 7% since 2011. The tourism, garment, construction and real estate, and agriculture sectors accounted for the bulk of growth. Around 700,000 people, the majority of whom are women, are employed in the garment and footwear sector. An additional 500,000 Cambodians are employed in the tourism sector, and a further 200,000 people in construction. Tourism has continued to grow rapidly with foreign arrivals exceeding 2 million per year in 2007 and reaching 5.6 million visitors in 2017. Mining also is attracting some investor interest and the government has touted opportunities for mining bauxite, gold, iron and gems.\nStill, Cambodia remains one of the poorest countries in Asia, and long-term economic development remains a daunting challenge, inhibited by corruption, limited human resources, high income inequality, and poor job prospects. According to the Asian Development Bank (ADB), the percentage of the population living in poverty decreased to 13.5% in 2016. More than 50% of the population is less than 25 years old. The population lacks education and productive skills, particularly in the impoverished countryside, which also lacks basic infrastructure.\nThe World Bank in 2016 formally reclassified Cambodia as a lower middle-income country as a result of continued rapid economic growth over the past several years. Cambodia’s graduation from a low-income country will reduce its eligibility for foreign assistance and will challenge the government to seek new sources of financing. The Cambodian Government has been working with bilateral and multilateral donors, including the Asian Development Bank, the World Bank and IMF, to address the country's many pressing needs; more than 20% of the government budget will come from donor assistance in 2018. A major economic challenge for Cambodia over the next decade will be fashioning an economic environment in which the private sector can create enough jobs to handle Cambodia's demographic imbalance.\nTextile exports, which accounted for 68% of total exports in 2017, have driven much of Cambodia’s growth over the past several years. The textile sector relies on exports to the United States and European Union, and Cambodia’s dependence on its comparative advantage in textile production is a key vulnerability for the economy, especially because Cambodia has continued to run a current account deficit above 9% of GDP since 2014.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 64209999999.99999,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 60090000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 56180000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 104,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 22090000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.9,
+						"units": "%",
+						"date": "2017"
+					},
+					{
+						"value": 7,
+						"units": "%",
+						"date": "2016"
+					},
+					{
+						"value": 7,
+						"units": "%",
+						"date": "2015"
+					}
+				],
+				"global_rank": 19
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 4000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 3800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 3600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 177,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 76,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 5.4,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 21.8,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 1.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 68.6,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -73,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 25.3,
+							"units": "%"
+						},
+						"industry": {
+							"value": 32.8,
+							"units": "%"
+						},
+						"services": {
+							"value": 41.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.7,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 14.3,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 13.4,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 139
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"rubber",
+				"corn",
+				"vegetables",
+				"cashews",
+				"cassava",
+				"manioc",
+				"tapioca",
+				"silk"
+			]
+		},
+		"industries": {
+			"industries": [
+				"tourism",
+				"garments",
+				"construction",
+				"rice milling",
+				"fishing",
+				"wood",
+				"wood products",
+				"rubber",
+				"cement",
+				"gem mining",
+				"textiles"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 10.6,
+			"global_rank": 11,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 8913000,
+				"global_rank": 52,
+				"date": "2017"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 48.7,
+						"units": "%"
+					},
+					"industry": {
+						"value": 19.9,
+						"units": "%"
+					},
+					"services": {
+						"value": 31.5,
+						"units": "%"
+					}
+				},
+				"date": "2013"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 0.3,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.2,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 2,
+			"note": "high underemployment, according to official statistics"
+		},
+		"population_below_poverty_line": {
+			"value": 16.5,
+			"units": "%",
+			"date": "2016"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 28,
+				"units": "%"
+			},
+			"date": "2013"
+		},
+		"budget": {
+			"revenues": {
+				"value": 3947000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 4354000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 17.9,
+			"global_rank": 164,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.8,
+			"global_rank": 97,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 30.4,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 29.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 165
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 129
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -1871000000,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": -1731000000,
+					"units": "USD",
+					"date": "2016"
+				}
+			],
+			"global_rank": 165
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 11420000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 10070000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 85
+			},
+			"commodities": {
+				"by_commodity": [
+					"clothing",
+					"timber",
+					"rubber",
+					"rice",
+					"fish",
+					"tobacco",
+					"footwear"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 21.5
+					},
+					{
+						"name": "UK",
+						"percent": 9
+					},
+					{
+						"name": "Germany",
+						"percent": 8.6
+					},
+					{
+						"name": "Japan",
+						"percent": 7.6
+					},
+					{
+						"name": "China",
+						"percent": 6.9
+					},
+					{
+						"name": "Canada",
+						"percent": 6.7
+					},
+					{
+						"name": "Spain",
+						"percent": 4.7
+					},
+					{
+						"name": "Belgium",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 14370000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 12650000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 91
+			},
+			"commodities": {
+				"by_commodity": [
+					"petroleum products",
+					"cigarettes",
+					"gold",
+					"construction materials",
+					"machinery",
+					"motor vehicles",
+					"pharmaceutical products"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 34.1
+					},
+					{
+						"name": "Singapore",
+						"percent": 12.8
+					},
+					{
+						"name": "Thailand",
+						"percent": 12.4
+					},
+					{
+						"name": "Vietnam",
+						"percent": 10.1
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 12200000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 9122000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 69
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 11870000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 10300000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 107
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 4055,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 4058.7,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 4058.7,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 4067.8,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 4037.5,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "riels (KHR) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 4000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 75,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 67,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 5210000000,
+				"global_rank": 121,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 5857000000,
+				"global_rank": 117,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 116,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 1583000000,
+				"global_rank": 60,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 1697000,
+				"global_rank": 119,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 35,
+					"global_rank": 178,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 61,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 63,
+					"global_rank": 27,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 2,
+					"global_rank": 136,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 119,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 103,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 0,
+				"global_rank": 106,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 0,
+				"global_rank": 115,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 0,
+				"global_rank": 127,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 45000,
+				"global_rank": 108,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 0,
+				"global_rank": 140,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 43030,
+				"global_rank": 86,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 0,
+				"global_rank": 113,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 0,
+				"global_rank": 129,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 78,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 102,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 0,
+				"global_rank": 119,
+				"date": "2014-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 10550000,
+			"global_rank": 104,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 56749,
+				"subscriptions_per_one_hundred_inhabitants": 1,
+				"global_rank": 156,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 21684767,
+				"subscriptions_per_one_hundred_inhabitants": 129.92,
+				"global_rank": 56,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "mixture of state-owned, joint public-private, and privately owned broadcast media; 27 TV broadcast stations with most operating on multiple channels, including 1 state-operated station broadcasting from multiple locations, 11 stations either jointly operated or privately owned with some broadcasting from several locations; multi-channel cable and satellite systems are available (2019); 84 radio broadcast stations - 1 state-owned broadcaster with multiple stations and a large mixture of public and private broadcasters; one international broadcaster is available (2019) as well as one Chinese joint venture television station with the Ministry of Interior; several television and radio operators broadcast online only (often via Facebook) (2019)",
+		"internet": {
+			"country_code": ".kh",
+			"users": {
+				"total": 6579808,
+				"percent_of_population": 40,
+				"global_rank": 74,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 6,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 25,
+				"annual_passenger_traffic_on_registered_air_carriers": 1411059,
+				"annual_freight_traffic_on_registered_air_carriers": 680000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "XU",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 16,
+					"global_rank": 142,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 6,
+					"2438_to_3047_metres": 3,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 1,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 10,
+					"1524_to_2437_metres": 2,
+					"914_to_1523_metres": 7,
+					"under_914_metres": 1,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 1,
+				"date": "2013"
+			}
+		},
+		"railways": {
+			"total": {
+				"length": 642,
+				"units": "km"
+			},
+			"narrow_gauge": {
+				"length": 642,
+				"units": "km\n1.000-m"
+			},
+			"note": "under restoration",
+			"global_rank": 107,
+			"date": "2014"
+		},
+		"roadways": {
+			"total": {
+				"value": 47263,
+				"units": "km"
+			},
+			"paved": {
+				"value": 12239,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 35024,
+				"units": "km"
+			},
+			"global_rank": 84,
+			"date": "2013"
+		},
+		"waterways": {
+			"value": 3700,
+			"units": "km",
+			"note": "mainly on Mekong River",
+			"global_rank": 28,
+			"date": "2012"
+		},
+		"merchant_marine": {
+			"total": 268,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 2
+				},
+				{
+					"type": "general cargo",
+					"count": 176
+				},
+				{
+					"type": "oil tanker",
+					"count": 19
+				},
+				{
+					"type": "other",
+					"count": 71
+				}
+			],
+			"global_rank": 57,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Sihanoukville (Kampong Saom)"
+			],
+			"river_ports": [
+				"Phnom Penh (Mekong)"
+			]
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.3,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.2,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.1,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.8,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 38
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18 is the legal minimum age for compulsory and voluntary military service",
+			"date": "2012"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Cambodia is concerned about Laos' extensive upstream dam construction",
+			"Cambodia and Thailand dispute sections of boundary",
+			"in 2011 Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear Temple ruins, awarded to Cambodia by an International Court of Justice decision in 1962 and part of a UN World Heritage site",
+			"Cambodia accuses Vietnam of a wide variety of illicit cross-border activities",
+			"progress on a joint development area with Vietnam is hampered by an unresolved dispute over sovereignty of offshore islands"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"stateless_persons": {
+				"people": 57444,
+				"date": "2019"
+			}
+		},
+		"trafficking_in_persons": {
+			"current_situation": "Cambodia is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Cambodian men, women, and children migrate to countries within the region and, increasingly, the Middle East for legitimate work but are subjected to sex trafficking, domestic servitude, or forced labor in fishing, agriculture, construction, and factories; Cambodian men recruited to work on Thai-owned fishing vessels are subsequently subjected to forced labor in international waters and are kept at sea for years; poor Cambodian children are vulnerable and, often with the families’ complicity, are subject to forced labor, including domestic servitude and forced begging, in Thailand and Vietnam; Cambodian and ethnic Vietnamese women and girls are trafficked from rural areas to urban centers and tourist spots for sexual exploitation; Cambodian men are the main exploiters of child prostitutes, but men from other Asian countries, and the West travel to Cambodia for child sex tourism",
+			"tier_rating": "Tier 2 Watch List – Cambodia does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government has a written plan that, if implemented, would constitute making significant efforts to meet the minimum standards for the elimination of trafficking; authorities made modest progress in prosecutions and convictions of traffickers in 2014 but did not provide comprehensive data; endemic corruption continued to impede law enforcement efforts, and no complicit officials were prosecuted or convicted; the government sustained efforts to identify victims and refer them to NGOs for care, but victim protection remained inadequate, particularly for assisting male victims and victims identified abroad; a new national action plan was adopted, but guidelines for victim identification and guidance on undercover investigation techniques are still pending after several years (2015)"
+		},
+		"illicit_drugs": {
+			"note": "narcotics-related corruption reportedly involving some in the government, military, and police; limited methamphetamine production; vulnerable to money laundering due to its cash-based economy and porous borders"
+		}
+	}
+}

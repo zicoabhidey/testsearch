@@ -1,0 +1,1949 @@
+{
+	"name": "Philippines",
+	"introduction": {
+		"background": "The Philippine Islands became a Spanish colony during the 16th century; they were ceded to the US in 1898 following the Spanish-American War. In 1935 the Philippines became a self-governing commonwealth. Manuel QUEZON was elected president and was tasked with preparing the country for independence after a 10-year transition. In 1942 the islands fell under Japanese occupation during World War II, and US forces and Filipinos fought together during 1944-45 to regain control. On 4 July 1946 the Republic of the Philippines attained its independence. A 21-year rule by Ferdinand MARCOS ended in 1986, when a \"people power\" movement in Manila (\"EDSA 1\") forced him into exile and installed Corazon AQUINO as president. Her presidency was hampered by several coup attempts that prevented a return to full political stability and economic development. Fidel RAMOS was elected president in 1992. His administration was marked by increased stability and by progress on economic reforms. In 1992, the US closed its last military bases on the islands. Joseph ESTRADA was elected president in 1998. He was succeeded by his vice-president, Gloria MACAPAGAL-ARROYO, in January 2001 after ESTRADA's stormy impeachment trial on corruption charges broke down and another \"people power\" movement (\"EDSA 2\") demanded his resignation. MACAPAGAL-ARROYO was elected to a six-year term as president in May 2004. Her presidency was marred by several corruption allegations but the Philippine economy was one of the few to avoid contraction following the 2008 global financial crisis, expanding each year of her administration. Benigno AQUINO III was elected to a six-year term as president in May 2010 and was succeeded by Rodrigo DUTERTE in May 2016.\nThe Philippine Government faces threats from several groups, some of which are on the US Government's Foreign Terrorist Organization list. Manila has waged a decades-long struggle against ethnic Moro insurgencies in the southern Philippines, which led to a peace accord with the Moro National Liberation Front and a separate agreement with a break away faction, the Moro Islamic Liberation Front. The decades-long Maoist-inspired New People's Army insurgency also operates through much of the country. In 2017, Philippine armed forces battled an ISIS-Philippines siege in Marawi City, driving DUTERTE to declare martial law in the region. The Philippines faces increased tension with China over disputed territorial and maritime claims in the South China Sea."
+	},
+	"geography": {
+		"location": "Southeastern Asia, archipelago between the Philippine Sea and the South China Sea, east of Vietnam",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 13,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 122,
+				"minutes": 0,
+				"hemisphere": "E"
+			}
+		},
+		"map_references": "Southeast Asia",
+		"area": {
+			"total": {
+				"value": 300000,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 298170,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1830,
+				"units": "sq km"
+			},
+			"global_rank": 74,
+			"comparative": "slightly less than twice the size of Georgia; slightly larger than Arizona"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 0,
+				"units": "km"
+			}
+		},
+		"coastline": {
+			"value": 36289,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 100,
+				"units": "nm",
+				"note": "from coastline as defined by 1898 treaty; since late 1970s has also claimed polygonal-shaped area in South China Sea as wide as 285 nm"
+			},
+			"exclusive_economic_zone": {
+				"value": 200,
+				"units": "nm"
+			},
+			"continental_shelf": "to the depth of exploitation"
+		},
+		"climate": "tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)",
+		"terrain": "mostly mountains with narrow to extensive coastal lowlands",
+		"elevation": {
+			"mean_elevation": {
+				"value": 442,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "Philippine Sea",
+				"elevation": {
+					"value": 0,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Mount Apo",
+				"elevation": {
+					"value": 2954,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"timber",
+				"petroleum",
+				"nickel",
+				"cobalt",
+				"silver",
+				"gold",
+				"salt",
+				"copper"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 41,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 18.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 17.8,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 5,
+					"units": "%"
+				},
+				"forest": {
+					"value": 25.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 33.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 16270,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population",
+		"natural_hazards": [
+			{
+				"description": "astride typhoon belt, usually affected by 15 and struck by five to six cyclonic storms each year",
+				"type": "hazard"
+			},
+			{
+				"description": "landslides",
+				"type": "hazard"
+			},
+			{
+				"description": "active volcanoes",
+				"type": "hazard"
+			},
+			{
+				"description": "destructive earthquakes",
+				"type": "hazard"
+			},
+			{
+				"description": "tsunamis",
+				"type": "hazard"
+			},
+			{
+				"description": "significant volcanic activity; Taal (311 m), which has shown recent unrest and may erupt in the near future, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; Mayon (2,462 m), the country's most active volcano, erupted in 2009 forcing over 33,000 to be evacuated; other historically active volcanoes include Biliran, Babuyan Claro, Bulusan, Camiguin, Camiguin de Babuyanes, Didicas, Iraya, Jolo, Kanlaon, Makaturing, Musuan, Parker, Pinatubo, and Ragang; see note 2 under \"Geography - note\"",
+				"type": "volcanism"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"uncontrolled deforestation especially in watershed areas",
+				"illegal mining and logging",
+				"soil erosion",
+				"air and water pollution in major urban centers",
+				"coral reef degradation",
+				"increasing pollution of coastal mangrove swamps that are important fish breeding grounds",
+				"coastal erosion",
+				"dynamite fishing",
+				"wildlife extinction"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": [
+					"Air Pollution-Persistent Organic Pollutants"
+				]
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 109180815,
+			"global_rank": 12,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Filipino(s)",
+			"adjective": "Philippine"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "Tagalog",
+					"percent": 24.4
+				},
+				{
+					"name": "Bisaya/Binisaya",
+					"percent": 11.4
+				},
+				{
+					"name": "Cebuano",
+					"percent": 9.9
+				},
+				{
+					"name": "Ilocano",
+					"percent": 8.8
+				},
+				{
+					"name": "Hiligaynon/Ilonggo",
+					"percent": 8.4
+				},
+				{
+					"name": "Bikol/Bicol",
+					"percent": 6.8
+				},
+				{
+					"name": "Waray",
+					"percent": 4
+				},
+				{
+					"name": "other local ethnicity",
+					"percent": 26.1
+				},
+				{
+					"name": "other foreign ethnicity .1%"
+				}
+			],
+			"date": "2010"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "unspecified"
+				}
+			]
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Roman Catholic",
+					"percent": 80.6
+				},
+				{
+					"name": "Protestant",
+					"percent": 8.2,
+					"breakdown": [
+						{
+							"name": "includes Philippine Council of Evangelical Churches",
+							"percent": 2.7
+						},
+						{
+							"name": "National Council of Churches in the Philippines",
+							"percent": 1.2
+						},
+						{
+							"name": "other Protestant",
+							"percent": 4.3
+						}
+					]
+				},
+				{
+					"name": "other Christian",
+					"percent": 3.4
+				},
+				{
+					"name": "Muslim",
+					"percent": 5.6
+				},
+				{
+					"name": "tribal religions .2%"
+				},
+				{
+					"name": "other",
+					"percent": 1.9
+				},
+				{
+					"name": "none .1%"
+				}
+			],
+			"date": "2010"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 32.42,
+				"males": 18060976,
+				"females": 17331781
+			},
+			"15_to_24": {
+				"percent": 19.16,
+				"males": 10680325,
+				"females": 10243047
+			},
+			"25_to_54": {
+				"percent": 37.37,
+				"males": 20777741,
+				"females": 20027153
+			},
+			"55_to_64": {
+				"percent": 6.18,
+				"males": 3116485,
+				"females": 3633301
+			},
+			"65_and_over": {
+				"percent": 4.86,
+				"males": 2155840,
+				"females": 3154166
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 55.2,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 46.6,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 8.6,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 11.7,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 24.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 23.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 24.6,
+				"units": "years"
+			},
+			"global_rank": 168,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 1.52,
+			"global_rank": 68,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 22.9,
+			"global_rank": 60,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 6,
+			"global_rank": 166,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": -1.8,
+			"global_rank": 164,
+			"date": "2020"
+		},
+		"population_distribution": "population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population",
+		"urbanization": {
+			"urban_population": {
+				"value": 47.4,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 1.99,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "Manila",
+					"population": 13923000,
+					"is_capital": true
+				},
+				{
+					"place": "Davao",
+					"population": 1825000
+				},
+				{
+					"place": "Cebu City",
+					"population": 980000
+				},
+				{
+					"place": "Zamboanga",
+					"population": 917000
+				},
+				{
+					"place": "Antipolo",
+					"population": 881000
+				},
+				{
+					"place": "Cagayan De Oro City",
+					"population": 753000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.04,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.86,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.68,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 1.01,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 22.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 121,
+			"global_rank": 64,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 20,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 22.9,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 17,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 77,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 70,
+				"units": "years"
+			},
+			"male": {
+				"value": 66.5,
+				"units": "years"
+			},
+			"female": {
+				"value": 73.8,
+				"units": "years"
+			},
+			"global_rank": 166,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 2.92,
+			"global_rank": 54,
+			"date": "2020"
+		},
+		"contraceptive_prevalence_rate": {
+			"value": 54.1,
+			"units": "%",
+			"date": "2017"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 0.6,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 1,
+			"date": "2014"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 97.7,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 92.7,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 95.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 2.3,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 7.3,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 4.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 95,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 88.2,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 91.4,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 5,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 11.8,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 8.6,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"hiv_aids": {
+			"adult_prevalence_rate": {
+				"percent_of_adults": 0.1,
+				"global_rank": 131,
+				"date": "2019"
+			},
+			"people_living_with_hiv_aids": {
+				"total": 97000,
+				"global_rank": 47,
+				"date": "2019"
+			},
+			"deaths": {
+				"total": 1600,
+				"global_rank": 49,
+				"date": "2019"
+			}
+		},
+		"major_infectious_diseases": {
+			"degree_of_risk": "high",
+			"food_or_waterborne_diseases": [
+				"bacterial diarrhea",
+				"hepatitis A",
+				"typhoid fever"
+			],
+			"vectorborne_diseases": [
+				"dengue fever",
+				"malaria"
+			],
+			"water_contact_diseases": [
+				"leptospirosis\nnote - on 8 October 2019",
+				"the Centers for Disease Control",
+				"Prevention issued a Travel Health Notice regarding a polio outbreak in the Philippines; CDC recommends that all travelers to the Philippines be vaccinated fully against polio; before traveling to the Philippines",
+				"adults who completed their routine polio vaccine series as children should receive a single",
+				"lifetime adult booster dose of polio vaccine"
+			],
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 6.4,
+			"global_rank": 168,
+			"date": "2016"
+		},
+		"underweight_children": {
+			"percent_of_children_under_the_age_of_five": 19.1,
+			"global_rank": 26,
+			"date": "2018"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 2.7,
+			"global_rank": 153,
+			"date": "2009"
+		},
+		"literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+				"value": 98.2,
+				"units": "%"
+			},
+			"male": {
+				"value": 98.1,
+				"units": "%"
+			},
+			"female": {
+				"value": 98.2,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 13,
+				"units": "years"
+			},
+			"male": {
+				"value": 13,
+				"units": "years"
+			},
+			"female": {
+				"value": 15,
+				"units": "years"
+			},
+			"date": "2017"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 6.7,
+				"units": "%"
+			},
+			"male": {
+				"value": 5.8,
+				"units": "%"
+			},
+			"female": {
+				"value": 8.2,
+				"units": "%"
+			},
+			"global_rank": 156,
+			"date": "2018"
+		},
+		"note": "one of only two predominantly Christian nations in Southeast Asia, the other being Timor-Leste"
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "Republic of the Philippines",
+			"conventional_short_form": "Philippines",
+			"local_long_form": "Republika ng Pilipinas",
+			"local_short_form": "Pilipinas",
+			"etymology": "named in honor of King PHILLIP II of Spain by Spanish explorer Ruy LOPEZ de VILLALOBOS, who visited some of the islands in 1543"
+		},
+		"government_type": "presidential republic",
+		"capital": {
+			"name": "Manila",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 14,
+					"minutes": 36,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 120,
+					"minutes": 58,
+					"hemisphere": "E"
+				}
+			},
+			"time_difference": {
+				"timezone": 8,
+				"note": "13 hours ahead of Washington, DC, during Standard Time"
+			},
+			"etymology": "derives from the Tagalog \"may-nila\" meaning \"where there is indigo\" and refers to the presence of indigo-yielding plants growing in the area surrounding the original settlement"
+		},
+		"independence": {
+			"date": "1946-07-04",
+			"note": "from the US"
+		},
+		"national_holidays": [
+			{
+				"name": "Independence Day",
+				"day": "12 June",
+				"original_year": "1898",
+				"note": "12 June 1898 was date of declaration of independence from Spain"
+			}
+		],
+		"constitution": {
+			"history": "several previous; latest ratified 2 February 1987, effective 11 February 1987",
+			"amendments": "proposed by Congress if supported by three fourths of the membership, by a constitutional convention called by Congress, or by public petition; passage by either of the three proposal methods requires a majority vote in a national referendum",
+			"note": "the constitution has not been amended since its enactment in 1987"
+		},
+		"legal_system": "mixed legal system of civil, common, Islamic (sharia), and customary law",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"withdrew from the ICCt in March 2019"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of the Philippines",
+			"dual_citizenship_recognized": "no",
+			"residency_requirement_for_naturalization": "10 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016); note - the president is both chief of state and head of government",
+			"head_of_government": "President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016)",
+			"cabinet": "Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president",
+			"elections_appointments": "president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2016 (next to be held in May 2022)",
+			"election_results": "Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel \"Mar\" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9%"
+		},
+		"legislative_branch": {
+			"description": "bicameral Congress or Kongreso consists of: Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)\nHouse of Representatives or Kapulungan Ng Mga Kinatawan (297 seats; 238 members directly elected in single-seat constituencies by simple majority vote and 59 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)",
+			"elections": "Senate - elections last held on 9 May 2016 (next to be held on 13 May 2019)\nHouse of Representatives - elections last held on 9 May 2016 (next to be held on 13 May 2019)",
+			"election_results": "Senate - percent of vote by party - LP 31.3%, NPC 10.1%, UNA 7.6%, Akbayan 5.0%, other 30.9%, independent 15.1%; seats by party - LP 6, NPC 3, UNA 4, Akbayan 1, other 10; composition - men 18, women 6, percent of women 25%\nHouse of Representatives - percent of vote by party - LP 41.7%, NPC 17.0%, UNA 6.6%, NUP 9.7%, NP 9.4%, independent 6.0%, others 10.1%; seats by party - LP 115, NPC 42, NUP 23, NP 24, UNA 11, other 19, independent 4, party-list 59; composition - men 210, women 87, percent of women 29.8%; note - total Congress percent of women 29.4%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of a chief justice and 14 associate justices)",
+			"judge_selection_and_term_of_office": "justices are appointed by the president on the recommendation of the Judicial and Bar Council, a constitutionally created, 6-member body that recommends Supreme Court nominees; justices serve until age 70",
+			"subordinate_courts": "Court of Appeals; Sandiganbayan (special court for corruption cases of government officials); Court of Tax Appeals; regional, metropolitan, and municipal trial courts; sharia courts"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Akbayon",
+					"leaders": [
+						"Machris CABREROS"
+					]
+				},
+				{
+					"name": "Laban ng Demokratikong Pilipino",
+					"name_alternative": "LDP",
+					"leaders": [
+						"Edgardo ANGARA"
+					],
+					"note": "Struggle of Filipino Democrats"
+				},
+				{
+					"name": "Lakas ng EDSA-Christian Muslim Democrats",
+					"name_alternative": "Lakas-CMD",
+					"leaders": [
+						"Ferdinand Martin ROMUALDEZ"
+					]
+				},
+				{
+					"name": "Liberal Party",
+					"name_alternative": "LP",
+					"leaders": [
+						"Francis PANGILINAN"
+					]
+				},
+				{
+					"name": "Nacionalista Party",
+					"name_alternative": "NP",
+					"leaders": [
+						"Manuel \"Manny\" VILLAR"
+					]
+				},
+				{
+					"name": "Nationalist People's Coalition",
+					"name_alternative": "NPC",
+					"leaders": [
+						"Eduardo COJUNGCO",
+						"Jr."
+					]
+				},
+				{
+					"name": "National Unity Party",
+					"name_alternative": "NUP",
+					"leaders": [
+						"Albert GARCIA"
+					]
+				},
+				{
+					"name": "PDP-Laban",
+					"leaders": [
+						"Aquilino PIMENTEL III"
+					]
+				},
+				{
+					"name": "People's Reform Party",
+					"name_alternative": "PRP",
+					"leaders": [
+						"Narcisco SANTIAGO"
+					]
+				},
+				{
+					"name": "Puwersa ng Masang Pilipino",
+					"name_alternative": "PMP",
+					"leaders": [
+						"Joseph ESTRADA"
+					],
+					"note": "Force of the Philippine Masses"
+				},
+				{
+					"name": "United Nationalist Alliance",
+					"name_alternative": "UNA"
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB"
+			},
+			{
+				"organization": "APEC"
+			},
+			{
+				"organization": "ARF"
+			},
+			{
+				"organization": "ASEAN"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "CP"
+			},
+			{
+				"organization": "EAS"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "G-24"
+			},
+			{
+				"organization": "G-77"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSTAH"
+			},
+			{
+				"organization": "NAM"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNIDO"
+			},
+			{
+				"organization": "Union Latina"
+			},
+			{
+				"organization": "UNMIL"
+			},
+			{
+				"organization": "UNMOGIP"
+			},
+			{
+				"organization": "UNOCI"
+			},
+			{
+				"organization": "UNWTO"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WFTU ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 November 2017)",
+				"chancery": "1600 Massachusetts Avenue NW, Washington, DC 20036",
+				"telephone": "[1] (202) 467-9300",
+				"fax": "[1] (202) 328-7614",
+				"consulates_general": "Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Sung KIM (since 6 December 2016)",
+				"telephone": "[63] (2) 301-2000",
+				"embassy": "1201 Roxas Boulevard, Manila 1000",
+				"mailing_address": "PSC 500, FPO AP 96515-1000",
+				"fax": "[63] (2) 301-2017"
+			}
+		},
+		"flag_description": {
+			"description": "two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897",
+			"note": "in wartime the flag is flown upside down with the red band at the top"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "three stars and sun"
+				},
+				{
+					"symbol": "Philippine eagle"
+				}
+			],
+			"colors": [
+				{
+					"color": "red"
+				},
+				{
+					"color": "white"
+				},
+				{
+					"color": "blue"
+				},
+				{
+					"color": "yellow"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "\"Lupang Hinirang\" (Chosen Land)",
+			"lyrics_music": "Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE",
+			"note": "music adopted 1898, original Spanish lyrics adopted 1899, Filipino (Tagalog) lyrics adopted 1956; although the original lyrics were written in Spanish, later English and Filipino versions were created; today, only the Filipino version is used",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/RP.mp3?1538604758"
+		}
+	},
+	"economy": {
+		"overview": "The economy has been relatively resilient to global economic shocks due to less exposure to troubled international securities, lower dependence on exports, relatively resilient domestic consumption, large remittances from about 10 million overseas Filipino workers and migrants, and a rapidly expanding services industry. During 2017, the current account balance fell into the negative range, the first time since the 2008 global financial crisis, in part due to an ambitious new infrastructure spending program announced this year. However, international reserves remain at comfortable levels and the banking system is stable.\nEfforts to improve tax administration and expenditures management have helped ease the Philippines' debt burden and tight fiscal situation. The Philippines received investment-grade credit ratings on its sovereign debt under the former AQUINO administration and has had little difficulty financing its budget deficits. However, weak absorptive capacity and implementation bottlenecks have prevented the government from maximizing its expenditure plans. Although it has improved, the low tax-to-GDP ratio remains a constraint to supporting increasingly higher spending levels and sustaining high and inclusive growth over the longer term.\nEconomic growth has accelerated, averaging over 6% per year from 2011 to 2017, compared with 4.5% under the MACAPAGAL-ARROYO government; and competitiveness rankings have improved. Although 2017 saw a new record year for net foreign direct investment inflows, FDI to the Philippines has continued to lag regional peers, in part because the Philippine constitution and other laws limit foreign investment and restrict foreign ownership in important activities/sectors - such as land ownership and public utilities.\nAlthough the economy grew at a rapid pace under the AQUINO government, challenges to achieving more inclusive growth remain. Wealth is concentrated in the hands of the rich. The unemployment rate declined from 7.3% to 5.7% between 2010 and 2017; while there has been some improvement, underemployment remains high at around 17% to 18% of the employed population. At least 40% of the employed work in the informal sector. Poverty afflicts more than a fifth of the total population but is as high as 75% in some areas of the southern Philippines. More than 60% of the poor reside in rural areas, where the incidence of poverty (about 30%) is more severe - a challenge to raising rural farm and non-farm incomes. Continued efforts are needed to improve governance, the judicial system, the regulatory environment, the infrastructure, and the overall ease of doing business.\n2016 saw the election of President Rodrigo DUTERTE, who has pledged to make inclusive growth and poverty reduction his top priority. DUTERTE believes that illegal drug use, crime and corruption are key barriers to economic development. The administration wants to reduce the poverty rate to 17% and graduate the economy to upper-middle income status by the end of President DUTERTE’s term in 2022. Key themes under the government’s Ten-Point Socioeconomic Agenda include continuity of macroeconomic policy, tax reform, higher investments in infrastructure and human capital development, and improving competitiveness and the overall ease of doing business. The administration sees infrastructure shortcomings as a key barrier to sustained economic growth and has pledged to spend $165 billion on infrastructure by 2022. Although the final outcome has yet to be seen, the current administration is shepherding legislation for a comprehensive tax reform program to raise revenues for its ambitious infrastructure spending plan and to promote a more equitable and efficient tax system. However, the need to finance rehabilitation and reconstruction efforts in the southern region of Mindanao following the 2017 Marawi City siege may compete with other spending on infrastructure.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 877200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 822200000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 769300000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 29,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 313600000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 6.04,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 6.34,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 6.94,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 30
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 8400,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 8000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 7600,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 148,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 73.5,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 11.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 25.1,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.1,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 31,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -40.9,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 9.6,
+							"units": "%"
+						},
+						"industry": {
+							"value": 30.6,
+							"units": "%"
+						},
+						"services": {
+							"value": 59.8,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 24.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 24,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 23.7,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 67
+		},
+		"agriculture_products": {
+			"products": [
+				"rice",
+				"fish",
+				"livestock",
+				"poultry",
+				"bananas",
+				"coconut",
+				"copra",
+				"corn",
+				"sugarcane",
+				"mangoes",
+				"pineapple",
+				"cassava"
+			]
+		},
+		"industries": {
+			"industries": [
+				"semiconductors",
+				"electronics assembly",
+				"business process outsourcing",
+				"food",
+				"beverage manufacturing",
+				"construction",
+				"electric/gas/water supply",
+				"chemical products",
+				"radio/television/communications equipment",
+				"apparatus",
+				"petroleum",
+				"fuel",
+				"textile",
+				"garments",
+				"non-metallic minerals",
+				"basic metal industries",
+				"transport equipment"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 7.2,
+			"global_rank": 30,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 41533000,
+				"global_rank": 14,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 25.4,
+						"units": "%"
+					},
+					"industry": {
+						"value": 18.3,
+						"units": "%"
+					},
+					"services": {
+						"value": 56.3,
+						"units": "%"
+					}
+				},
+				"date": "2017"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 5.11,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 5.29,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 81
+		},
+		"population_below_poverty_line": {
+			"value": 21.6,
+			"units": "%",
+			"date": "2017"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 3.2,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 29.5,
+				"units": "%"
+			},
+			"date": "2015"
+		},
+		"budget": {
+			"revenues": {
+				"value": 49070000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 56020000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 15.6,
+			"global_rank": 188,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.2,
+			"global_rank": 109,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 39.9,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 39,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 128
+		},
+		"fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.9,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 1.3,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 131
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -3386000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -8877000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 176
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 48200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 57410000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 52
+			},
+			"commodities": {
+				"by_commodity": [
+					"semiconductors",
+					"electronic products",
+					"machinery",
+					"transport equipment",
+					"wood manufactures",
+					"chemicals",
+					"processed food",
+					"beverages",
+					"garments",
+					"coconut oil",
+					"copper concentrates",
+					"seafood",
+					"bananas/fruits"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Japan",
+						"percent": 16.4
+					},
+					{
+						"name": "US",
+						"percent": 14.6
+					},
+					{
+						"name": "Hong Kong",
+						"percent": 13.7
+					},
+					{
+						"name": "China",
+						"percent": 11
+					},
+					{
+						"name": "Singapore",
+						"percent": 6.1
+					},
+					{
+						"name": "Thailand",
+						"percent": 4.3
+					},
+					{
+						"name": "Germany",
+						"percent": 4.1
+					},
+					{
+						"name": "South Korea",
+						"percent": 4
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 89390000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 78280000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 39
+			},
+			"commodities": {
+				"by_commodity": [
+					"electronic products",
+					"mineral fuels",
+					"machinery",
+					"transport equipment",
+					"iron",
+					"steel",
+					"textile fabrics",
+					"grains",
+					"chemicals",
+					"plastic"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "China",
+						"percent": 18.1
+					},
+					{
+						"name": "Japan",
+						"percent": 11.4
+					},
+					{
+						"name": "South Korea",
+						"percent": 8.8
+					},
+					{
+						"name": "US",
+						"percent": 7.4
+					},
+					{
+						"name": "Thailand",
+						"percent": 7.1
+					},
+					{
+						"name": "Indonesia",
+						"percent": 6.7
+					},
+					{
+						"name": "Singapore",
+						"percent": 5.9
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 81570000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 80690000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 29
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 76180000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 74760000000,
+					"units": "USD",
+					"date": "2016-12-31"
+				}
+			],
+			"global_rank": 57
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 50.4,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 47.493,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 47.493,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 45.503,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 44.395,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "Philippine pesos (PHP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"population_without_electricity": {
+					"value": 4000000,
+					"units": "people"
+				},
+				"total_electrification": {
+					"value": 96,
+					"units": "%"
+				},
+				"urban_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"rural_electrification": {
+					"value": 93,
+					"units": "%"
+				},
+				"date": "2019"
+			},
+			"production": {
+				"kWh": 86590000000,
+				"global_rank": 36,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 78300000000,
+				"global_rank": 37,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 0,
+				"global_rank": 184,
+				"date": "2017"
+			},
+			"imports": {
+				"kWh": 0,
+				"global_rank": 186,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 22130000,
+				"global_rank": 39,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 67,
+					"global_rank": 116,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 0,
+					"global_rank": 165,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 17,
+					"global_rank": 97,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 16,
+					"global_rank": 54,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 13000,
+				"global_rank": 76,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 16450,
+				"global_rank": 52,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 211400,
+				"global_rank": 30,
+				"date": "2015"
+			},
+			"proved_reserves": {
+				"bbl": 138500000,
+				"global_rank": 64,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 215500,
+				"global_rank": 50,
+				"date": "2015"
+			},
+			"consumption": {
+				"bbl_per_day": 424000,
+				"global_rank": 36,
+				"date": "2016"
+			},
+			"exports": {
+				"bbl_per_day": 26710,
+				"global_rank": 65,
+				"date": "2015"
+			},
+			"imports": {
+				"bbl_per_day": 211400,
+				"global_rank": 33,
+				"date": "2015"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 3058000000,
+				"global_rank": 58,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 3143000000,
+				"global_rank": 72,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 0,
+				"global_rank": 168,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 0,
+				"global_rank": 175,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 98540000000,
+				"global_rank": 51,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 117200000,
+			"global_rank": 38,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 4140108,
+				"subscriptions_per_one_hundred_inhabitants": 3.85,
+				"global_rank": 33,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 166421595,
+				"subscriptions_per_one_hundred_inhabitants": 154.76,
+				"global_rank": 10,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "multiple national private TV and radio networks; multi-channel satellite and cable TV systems available; more than 400 TV stations; about 1,500 cable TV providers with more than 2 million subscribers, and some 1,400 radio stations; the Philippines adopted Japan’s Integrated Service Digital Broadcast – Terrestrial standard for digital terrestrial television in November 2013 and is scheduled to complete the switch from analog to digital broadcasting by the end of 2023 (2019)",
+		"internet": {
+			"country_code": ".ph",
+			"users": {
+				"total": 63588975,
+				"percent_of_population": 60.05,
+				"global_rank": 12,
+				"date": "2018-07-01"
+			}
+		}
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 13,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 200,
+				"annual_passenger_traffic_on_registered_air_carriers": 43080118,
+				"annual_freight_traffic_on_registered_air_carriers": 835900000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "RP",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 247,
+					"global_rank": 24,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 89,
+					"over_3047_metres": 4,
+					"2438_to_3047_metres": 8,
+					"1524_to_2437_metres": 33,
+					"914_to_1523_metres": 34,
+					"under_914_metres": 10,
+					"date": "2019"
+				},
+				"unpaved": {
+					"total": 158,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 56,
+					"under_914_metres": 99,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 2,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "gas",
+					"length": 530,
+					"units": "km"
+				},
+				{
+					"type": "oil (non-operational)",
+					"length": 138,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 185,
+					"units": "km"
+				}
+			],
+			"date": "2017"
+		},
+		"railways": {
+			"total": {
+				"length": 77,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 49,
+				"units": "km\n1.435-m"
+			},
+			"narrow_gauge": {
+				"length": 28,
+				"units": "km\n1.067-m"
+			},
+			"global_rank": 129,
+			"date": "2017"
+		},
+		"roadways": {
+			"total": {
+				"value": 216387,
+				"units": "km"
+			},
+			"paved": {
+				"value": 61093,
+				"units": "km"
+			},
+			"unpaved": {
+				"value": 155294,
+				"units": "km"
+			},
+			"global_rank": 25,
+			"date": "2014"
+		},
+		"waterways": {
+			"value": 3219,
+			"units": "km",
+			"note": "limited to vessels with draft less than 1.5 m",
+			"global_rank": 30,
+			"date": "2011"
+		},
+		"merchant_marine": {
+			"total": 1706,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 54
+				},
+				{
+					"type": "container ship",
+					"count": 46
+				},
+				{
+					"type": "general cargo",
+					"count": 685
+				},
+				{
+					"type": "oil tanker",
+					"count": 197
+				},
+				{
+					"type": "other",
+					"count": 724
+				}
+			],
+			"global_rank": 17,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Batangas",
+				"Cagayan de Oro",
+				"Cebu",
+				"Davao",
+				"Liman",
+				"Manila"
+			],
+			"container_ports": [
+				{
+					"place": "Manila",
+					"twenty_foot_equivalent_units": 4782240
+				}
+			],
+			"date": "2017"
+		}
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 1,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 0.9,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 1.3,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 1.1,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 118
+		},
+		"service_age_and_obligation": {
+			"years_of_age": 18,
+			"note": "18-23 years of age (officers 21-29) for voluntary military service; no conscription",
+			"date": "2019"
+		},
+		"note": "the AFP's primary operational focus is on internal security duties, particularly in the south, where several insurgent and terrorist groups operate and an estimated 60% of the armed forces were deployed as of 2019; the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP (2019)"
+	},
+	"transnational_issues": {
+		"disputes": [
+			"Philippines claims sovereignty over Scarborough Reef (also claimed by China together with Taiwan) and over certain of the Spratly Islands, known locally as the Kalayaan (Freedom) Islands, also claimed by China, Malaysia, Taiwan, and Vietnam",
+			"the 2002 \"Declaration on the Conduct of Parties in the South China Sea,\" has eased tensions in the Spratly Islands but falls short of a legally binding \"code of conduct\" desired by several of the disputants",
+			"in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord to conduct marine seismic activities in the Spratly Islands",
+			"Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo based on the Sultanate of Sulu's granting the Philippines Government power of attorney to pursue a sovereignty claim on his behalf",
+			"maritime delimitation negotiations continue with Palau"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"internally_displaced_persons": {
+				"people": 182000,
+				"note": "government troops fighting the Moro Islamic Liberation Front, the Abu Sayyaf Group, and the New People's Army; clan feuds; armed attacks, political violence, and communal tensions in Mindanao",
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 383,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "domestic methamphetamine production has been a growing problem in recent years despite government crackdowns; major consumer of amphetamines; longstanding marijuana producer mainly in rural areas where Manila's control is limited"
+		}
+	}
+}

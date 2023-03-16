@@ -1,0 +1,2754 @@
+{
+	"name": "United Kingdom",
+	"introduction": {
+		"background": "The United Kingdom has historically played a leading role in developing parliamentary democracy and in advancing literature and science. At its zenith in the 19th century, the British Empire stretched over one-fourth of the earth's surface. The first half of the 20th century saw the UK's strength seriously depleted in two world wars and the Irish Republic's withdrawal from the union. The second half witnessed the dismantling of the Empire and the UK rebuilding itself into a modern and prosperous European nation. As one of five permanent members of the UN Security Council and a founding member of NATO and the Commonwealth, the UK pursues a global approach to foreign policy. The Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly were established in 1998.\nThe UK has been an active member of the EU since its accession in 1973, although it chose to remain outside the Economic and Monetary Union. However, motivated in part by frustration at a remote bureaucracy in Brussels and massive migration into the country, UK citizens on 23 June 2016 narrowly voted to leave the EU. The UK is scheduled to depart the EU on 31 January 2020, but negotiations on the future EU-UK economic and security relationship will continue throughout 2020 and potentially beyond."
+	},
+	"geography": {
+		"location": "Western Europe, islands - including the northern one-sixth of the island of Ireland - between the North Atlantic Ocean and the North Sea; northwest of France",
+		"geographic_coordinates": {
+			"latitude": {
+				"degrees": 54,
+				"minutes": 0,
+				"hemisphere": "N"
+			},
+			"longitude": {
+				"degrees": 2,
+				"minutes": 0,
+				"hemisphere": "W"
+			}
+		},
+		"map_references": "Europe",
+		"area": {
+			"total": {
+				"value": 243610,
+				"units": "sq km"
+			},
+			"land": {
+				"value": 241930,
+				"units": "sq km"
+			},
+			"water": {
+				"value": 1680,
+				"units": "sq km"
+			},
+			"note": "the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6%\nincludes Rockall and the Shetland Islands, which are part of Scotland",
+			"global_rank": 81,
+			"comparative": "twice the size of Pennsylvania; slightly smaller than Oregon"
+		},
+		"land_boundaries": {
+			"total": {
+				"value": 499,
+				"units": "km"
+			},
+			"border_countries": [
+				{
+					"country": "Ireland",
+					"border_length": {
+						"value": 499,
+						"units": "km"
+					}
+				}
+			]
+		},
+		"coastline": {
+			"value": 12429,
+			"units": "km"
+		},
+		"maritime_claims": {
+			"territorial_sea": {
+				"value": 12,
+				"units": "nm"
+			},
+			"continental_shelf": "as defined in continental shelf orders or in accordance with agreed upon boundaries",
+			"exclusive_fishing_zone": {
+				"value": 200,
+				"units": "nm"
+			}
+		},
+		"climate": "temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast",
+		"terrain": "mostly rugged hills and low mountains; level to rolling plains in east and southeast",
+		"elevation": {
+			"mean_elevation": {
+				"value": 162,
+				"units": "m"
+			},
+			"lowest_point": {
+				"name": "The Fens",
+				"elevation": {
+					"value": -4,
+					"units": "m"
+				}
+			},
+			"highest_point": {
+				"name": "Ben Nevis",
+				"elevation": {
+					"value": 1345,
+					"units": "m"
+				}
+			}
+		},
+		"natural_resources": {
+			"resources": [
+				"coal",
+				"petroleum",
+				"natural gas",
+				"iron ore",
+				"lead",
+				"zinc",
+				"gold",
+				"tin",
+				"limestone",
+				"salt",
+				"clay",
+				"chalk",
+				"gypsum",
+				"potash",
+				"silica sand",
+				"slate",
+				"arable land"
+			]
+		},
+		"land_use": {
+			"by_sector": {
+				"agricultural_land_total": {
+					"value": 71,
+					"units": "%"
+				},
+				"arable_land": {
+					"value": 25.1,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_crops": {
+					"value": 0.2,
+					"units": "%",
+					"note": "/"
+				},
+				"permanent_pasture": {
+					"value": 45.7,
+					"units": "%"
+				},
+				"forest": {
+					"value": 11.9,
+					"units": "%"
+				},
+				"other": {
+					"value": 17.1,
+					"units": "%"
+				}
+			},
+			"date": "2011"
+		},
+		"irrigated_land": {
+			"value": 950,
+			"units": "sq km",
+			"date": "2012"
+		},
+		"population_distribution": "the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scotish lowlands between Endinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast",
+		"natural_hazards": [
+			{
+				"description": "winter windstorms",
+				"type": "hazard"
+			},
+			{
+				"description": "floods",
+				"type": "hazard"
+			}
+		],
+		"environment": {
+			"current_issues": [
+				"air pollution improved but remains a concern",
+				"particularly in the London region",
+				"soil pollution from pesticides and heavy metals",
+				"decline in marine and coastal habitats brought on by pressures from housing",
+				"tourism",
+				"and industry"
+			],
+			"international_agreements": {
+				"party_to": [
+					"Air Pollution",
+					"Air Pollution-Nitrogen Oxides",
+					"Air Pollution-Persistent Organic Pollutants",
+					"Air Pollution-Sulfur 94",
+					"Air Pollution-Volatile Organic Compounds",
+					"Antarctic-Environmental Protocol",
+					"Antarctic-Marine Living Resources",
+					"Antarctic Seals",
+					"Antarctic Treaty",
+					"Biodiversity",
+					"Climate Change",
+					"Climate Change-Kyoto Protocol",
+					"Desertification",
+					"Endangered Species",
+					"Environmental Modification",
+					"Hazardous Wastes",
+					"Law of the Sea",
+					"Marine Dumping",
+					"Marine Life Conservation",
+					"Ozone Layer Protection",
+					"Ship Pollution",
+					"Tropical Timber 83",
+					"Tropical Timber 94",
+					"Wetlands",
+					"Whaling"
+				],
+				"signed_but_not_ratified": null
+			}
+		}
+	},
+	"people": {
+		"population": {
+			"total": 65761117,
+			"global_rank": 22,
+			"date": "2020-07-01"
+		},
+		"nationality": {
+			"noun": "Briton(s), British (collective plural)",
+			"adjective": "British"
+		},
+		"ethnic_groups": {
+			"ethnicity": [
+				{
+					"name": "white",
+					"percent": 87.2
+				},
+				{
+					"name": "black/African/Caribbean/black British",
+					"percent": 3
+				},
+				{
+					"name": "Asian/Asian British: Indian",
+					"percent": 2.3
+				},
+				{
+					"name": "Asian/Asian British: Pakistani",
+					"percent": 1.9
+				},
+				{
+					"name": "mixed",
+					"percent": 2
+				},
+				{
+					"name": "other",
+					"percent": 3.7
+				}
+			],
+			"date": "2011"
+		},
+		"languages": {
+			"language": [
+				{
+					"name": "English"
+				}
+			],
+			"note": "the following are recognized regional languages: Scots (about 30% of the population of Scotland), Scottish Gaelic (about 60,000 speakers in Scotland), Welsh (about 20% of the population of Wales), Irish (about 10% of the population of Northern Ireland), Cornish (some 2,000 to 3,000 people in Cornwall)",
+			"date": "2012"
+		},
+		"religions": {
+			"religion": [
+				{
+					"name": "Christian",
+					"percent": 59.5,
+					"note": "includes Anglican, Roman Catholic, Presbyterian, Methodist"
+				},
+				{
+					"name": "Muslim",
+					"percent": 4.4
+				},
+				{
+					"name": "Hindu",
+					"percent": 1.3
+				},
+				{
+					"name": "other",
+					"percent": 2
+				},
+				{
+					"name": "unspecified",
+					"percent": 7.2
+				},
+				{
+					"name": "none",
+					"percent": 25.7
+				}
+			],
+			"date": "2011"
+		},
+		"age_structure": {
+			"0_to_14": {
+				"percent": 17.63,
+				"males": 5943435,
+				"females": 5651780
+			},
+			"15_to_24": {
+				"percent": 11.49,
+				"males": 3860435,
+				"females": 3692398
+			},
+			"25_to_54": {
+				"percent": 39.67,
+				"males": 13339965,
+				"females": 12747598
+			},
+			"55_to_64": {
+				"percent": 12.73,
+				"males": 4139378,
+				"females": 4234701
+			},
+			"65_and_over": {
+				"percent": 18.48,
+				"males": 5470116,
+				"females": 6681311
+			},
+			"date": "2020"
+		},
+		"dependency_ratios": {
+			"ratios": {
+				"total_dependency_ratio": {
+					"value": 57.1,
+					"units": "%"
+				},
+				"youth_dependency_ratio": {
+					"value": 27.8,
+					"units": "%"
+				},
+				"elderly_dependency_ratio": {
+					"value": 29.3,
+					"units": "%"
+				},
+				"potential_support_ratio": {
+					"value": 3.4,
+					"units": "%"
+				}
+			},
+			"date": "2020"
+		},
+		"median_age": {
+			"total": {
+				"value": 40.6,
+				"units": "years"
+			},
+			"male": {
+				"value": 39.6,
+				"units": "years"
+			},
+			"female": {
+				"value": 41.7,
+				"units": "years"
+			},
+			"global_rank": 50,
+			"date": "2020"
+		},
+		"population_growth_rate": {
+			"growth_rate": 0.49,
+			"global_rank": 156,
+			"date": "2020"
+		},
+		"birth_rate": {
+			"births_per_1000_population": 11.9,
+			"global_rank": 166,
+			"date": "2020"
+		},
+		"death_rate": {
+			"deaths_per_1000_population": 9.5,
+			"global_rank": 47,
+			"date": "2020"
+		},
+		"net_migration_rate": {
+			"migrants_per_1000_population": 2.5,
+			"global_rank": 41,
+			"date": "2020"
+		},
+		"population_distribution": "the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scotish lowlands between Endinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast",
+		"urbanization": {
+			"urban_population": {
+				"value": 83.9,
+				"units": "%",
+				"date": "2020"
+			},
+			"rate_of_urbanization": {
+				"value": 0.89,
+				"units": "%"
+			},
+			"total_population_growth_rate_v._urban_population_growth_rate_2000_2030": "PDF"
+		},
+		"major_urban_areas": {
+			"places": [
+				{
+					"place": "London",
+					"population": 9304000,
+					"is_capital": true
+				},
+				{
+					"place": "Manchester",
+					"population": 2730000
+				},
+				{
+					"place": "Birmingham",
+					"population": 2607000
+				},
+				{
+					"place": "West Yorkshire",
+					"population": 1889000
+				},
+				{
+					"place": "Glasgow",
+					"population": 1663000
+				},
+				{
+					"place": "Southampton/Portsmouth",
+					"population": 928000
+				}
+			],
+			"date": "2020"
+		},
+		"sex_ratio": {
+			"by_age": {
+				"at_birth": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"0_to_14_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"15_to_24_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"25_to_54_years": {
+					"value": 1.05,
+					"units": "males/female"
+				},
+				"55_to_64_years": {
+					"value": 0.98,
+					"units": "males/female"
+				},
+				"65_years_and_over": {
+					"value": 0.82,
+					"units": "males/female"
+				}
+			},
+			"total_population": {
+				"value": 0.99,
+				"units": "males/female"
+			},
+			"date": "2020"
+		},
+		"mothers_mean_age_at_first_birth": {
+			"age": 28.8,
+			"date": "2017"
+		},
+		"maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 7,
+			"global_rank": 158,
+			"date": "2017"
+		},
+		"infant_mortality_rate": {
+			"total": {
+				"value": 4.1,
+				"units": "deaths_per_1000_live_births"
+			},
+			"male": {
+				"value": 4.5,
+				"units": "deaths_per_1000_live_births"
+			},
+			"female": {
+				"value": 3.7,
+				"units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 190,
+			"date": "2020"
+		},
+		"life_expectancy_at_birth": {
+			"total_population": {
+				"value": 81.1,
+				"units": "years"
+			},
+			"male": {
+				"value": 78.8,
+				"units": "years"
+			},
+			"female": {
+				"value": 83.5,
+				"units": "years"
+			},
+			"global_rank": 40,
+			"date": "2020"
+		},
+		"total_fertility_rate": {
+			"children_born_per_woman": 1.86,
+			"global_rank": 140,
+			"date": "2020"
+		},
+		"physicians_density": {
+			"physicians_per_1000_population": 2.79,
+			"date": "2017"
+		},
+		"hospital_bed_density": {
+			"beds_per_1000_population": 2.5,
+			"date": "2017"
+		},
+		"drinking_water_source": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"sanitation_facility_access": {
+			"improved": {
+				"urban": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 100,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 100,
+					"units": "percent of population"
+				}
+			},
+			"unimproved": {
+				"urban": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"rural": {
+					"value": 0,
+					"units": "percent of population"
+				},
+				"total": {
+					"value": 0,
+					"units": "percent of population"
+				}
+			},
+			"date": "2017"
+		},
+		"major_infectious_diseases": {
+			"note": "widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 10 November 2020, the UK has reported a total of 1,171,445 cases of COVID-19 or 17,256 cumulative cases of COVID-19 per 1 million population with 720 cumulative deaths per 1 million population; individuals arriving in the UK must self-isolate for 14 days and may be contacted to verify compliance; new arrivals will be required to provide UK officials with contact and travel information prior to arrival; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures",
+			"date": "2020"
+		},
+		"adult_obesity": {
+			"percent_of_adults": 27.8,
+			"global_rank": 36,
+			"date": "2016"
+		},
+		"education_expenditures": {
+			"percent_of_gdp": 5.5,
+			"global_rank": 40,
+			"date": "2016"
+		},
+		"school_life_expectancy": {
+			"total": {
+				"value": 17,
+				"units": "years"
+			},
+			"male": {
+				"value": 17,
+				"units": "years"
+			},
+			"female": {
+				"value": 18,
+				"units": "years"
+			},
+			"date": "2018"
+		},
+		"youth_unemployment": {
+			"total": {
+				"value": 11.3,
+				"units": "%"
+			},
+			"male": {
+				"value": 12.2,
+				"units": "%"
+			},
+			"female": {
+				"value": 10.3,
+				"units": "%"
+			},
+			"global_rank": 115,
+			"date": "2018"
+		}
+	},
+	"government": {
+		"country_name": {
+			"conventional_long_form": "United Kingdom of Great Britain and Northern Ireland; note - the island of Great Britain includes England, Scotland, and Wales",
+			"conventional_short_form": "United Kingdom",
+			"abbreviation": "UK",
+			"etymology": "self-descriptive country name; the designation \"Great Britain,\" in the sense of \"Larger Britain,\" dates back to medieval times and was used to distinguish the island from \"Little Britain,\" or Brittany in modern France; the name Ireland derives from the Gaelic \"Eriu,\" the matron goddess of Ireland (goddess of the land)"
+		},
+		"government_type": "parliamentary constitutional monarchy; a Commonwealth realm",
+		"capital": {
+			"name": "London",
+			"geographic_coordinates": {
+				"latitude": {
+					"degrees": 51,
+					"minutes": 30,
+					"hemisphere": "N"
+				},
+				"longitude": {
+					"degrees": 0,
+					"minutes": 5,
+					"hemisphere": "W"
+				}
+			},
+			"time_difference": {
+				"timezone": 0,
+				"note": "5 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"note": "the time statements apply to the United Kingdom proper, not to its crown dependencies or overseas territories",
+			"etymology": "the name derives from the Roman settlement of Londinium, established on the current site of London around A.D. 43; the original meaning of the name is uncertain"
+		},
+		"administrative_divisions": [
+			{
+				"name": "26 two-tier counties",
+				"type": "england"
+			},
+			{
+				"name": "32 London boroughs and 1 City of London or Greater London",
+				"type": "england"
+			},
+			{
+				"name": "36 metropolitan districts",
+				"type": "england"
+			},
+			{
+				"name": "56 unitary authorities ;",
+				"type": "england"
+			},
+			{
+				"name": "Buckinghamshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Cambridgeshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Cumbria",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Derbyshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Devon",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Dorset",
+				"type": "two tier counties"
+			},
+			{
+				"name": "East Sussex",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Essex",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Gloucestershire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Hampshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Hertfordshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Kent",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Lancashire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Leicestershire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Lincolnshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Norfolk",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Northamptonshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "North Yorkshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Nottinghamshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Oxfordshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Somerset",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Staffordshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Suffolk",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Surrey",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Warwickshire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "West Sussex",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Worcestershire",
+				"type": "two tier counties"
+			},
+			{
+				"name": "Barking and Dagenham",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Barnet",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Bexley",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Brent",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Bromley",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Camden",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Croydon",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Ealing",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Enfield",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Greenwich",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Hackney",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Hammersmith and Fulham",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Haringey",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Harrow",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Havering",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Hillingdon",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Hounslow",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Islington",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Kensington and Chelsea",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Kingston upon Thames",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Lambeth",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Lewisham",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "City of London",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Merton",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Newham",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Redbridge",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Richmond upon Thames",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Southwark",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Sutton",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Tower Hamlets",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Waltham Forest",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Wandsworth",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Westminster",
+				"type": "london boroughs and city of london or greater london"
+			},
+			{
+				"name": "Barnsley",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Birmingham",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Bolton",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Bradford",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Bury",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Calderdale",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Coventry",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Doncaster",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Dudley",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Gateshead",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Kirklees",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Knowlsey",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Leeds",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Liverpool",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Manchester",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Newcastle upon Tyne",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "North Tyneside",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Oldham",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Rochdale",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Rotherham",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Salford",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Sandwell",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Sefton",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Sheffield",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Solihull",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "South Tyneside",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "St. Helens",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Stockport",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Sunderland",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Tameside",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Trafford",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Wakefield",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Walsall",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Wigan",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Wirral",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Wolverhampton",
+				"type": "metropolitan districts"
+			},
+			{
+				"name": "Bath and North East Somerset; Bedford; Blackburn with Darwen; Blackpool; Bournemouth",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Christchurch and Poole; Bracknell Forest; Brighton and Hove; City of Bristol; Central Bedfordshire; Cheshire East; Cheshire West and Chester; Cornwall; Darlington; Derby; Dorset; Durham County*; East Riding of Yorkshire; Halton; Hartlepool; Herefordshire*; Isle of Wight*; Isles of Scilly; City of Kingston upon Hull; Leicester; Luton; Medway; Middlesbrough; Milton Keynes; North East Lincolnshire; North Lincolnshire; North Somerset; Northumberland*; Nottingham; Peterborough; Plymouth; Portsmouth; Reading; Redcar and Cleveland; Rutland; Shropshire; Slough; South Gloucestershire; Southampton; Southend-on-Sea; Stockton-on-Tees; Stoke-on-Trent; Swindon; Telford and Wrekin; Thurrock; Torbay; Warrington; West Berkshire; Wiltshire; Windsor and Maidenhead; Wokingham; York\nBlaenau Gwent",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Bridgend",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Caerphilly",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Cardiff",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Carmarthenshire",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Ceredigion",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Conwy",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Denbighshire",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Flintshire",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Gwynedd",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Isle of Anglesey",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Merthyr Tydfil",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Monmouthshire",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Neath Port Talbot",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Newport",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Pembrokeshire",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Powys",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Rhondda Cynon Taff",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Swansea",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "The Vale of Glamorgan",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Torfaen",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "Wrexham",
+				"type": "unitary authorities"
+			},
+			{
+				"name": "5 borough councils",
+				"type": "northern ireland"
+			},
+			{
+				"name": "4 district councils",
+				"type": "northern ireland"
+			},
+			{
+				"name": "2 city councils;",
+				"type": "northern ireland"
+			},
+			{
+				"name": "Antrim and Newtownabbey; Ards and North Down; Armagh City",
+				"type": "borough councils"
+			},
+			{
+				"name": "Banbridge",
+				"type": "borough councils"
+			},
+			{
+				"name": "and Craigavon; Causeway Coast and Glens; Mid and East Antrim",
+				"type": "borough councils"
+			},
+			{
+				"name": "Derry City and Strabane; Fermanagh and Omagh; Mid Ulster; Newry",
+				"type": "district councils"
+			},
+			{
+				"name": "Murne",
+				"type": "district councils"
+			},
+			{
+				"name": "and Down",
+				"type": "district councils"
+			},
+			{
+				"name": "Belfast; Lisburn and Castlereagh",
+				"type": "city councils"
+			},
+			{
+				"name": "32 council areas;",
+				"type": "scotland"
+			},
+			{
+				"name": "Aberdeen City",
+				"type": "council areas"
+			},
+			{
+				"name": "Aberdeenshire",
+				"type": "council areas"
+			},
+			{
+				"name": "Angus",
+				"type": "council areas"
+			},
+			{
+				"name": "Argyll and Bute",
+				"type": "council areas"
+			},
+			{
+				"name": "Clackmannanshire",
+				"type": "council areas"
+			},
+			{
+				"name": "Dumfries and Galloway",
+				"type": "council areas"
+			},
+			{
+				"name": "Dundee City",
+				"type": "council areas"
+			},
+			{
+				"name": "East Ayrshire",
+				"type": "council areas"
+			},
+			{
+				"name": "East Dunbartonshire",
+				"type": "council areas"
+			},
+			{
+				"name": "East Lothian",
+				"type": "council areas"
+			},
+			{
+				"name": "East Renfrewshire",
+				"type": "council areas"
+			},
+			{
+				"name": "City of Edinburgh",
+				"type": "council areas"
+			},
+			{
+				"name": "Eilean Siar ",
+				"type": "council areas"
+			},
+			{
+				"name": "Falkirk",
+				"type": "council areas"
+			},
+			{
+				"name": "Fife",
+				"type": "council areas"
+			},
+			{
+				"name": "Glasgow City",
+				"type": "council areas"
+			},
+			{
+				"name": "Highland",
+				"type": "council areas"
+			},
+			{
+				"name": "Inverclyde",
+				"type": "council areas"
+			},
+			{
+				"name": "Midlothian",
+				"type": "council areas"
+			},
+			{
+				"name": "Moray",
+				"type": "council areas"
+			},
+			{
+				"name": "North Ayrshire",
+				"type": "council areas"
+			},
+			{
+				"name": "North Lanarkshire",
+				"type": "council areas"
+			},
+			{
+				"name": "Orkney Islands",
+				"type": "council areas"
+			},
+			{
+				"name": "Perth and Kinross",
+				"type": "council areas"
+			},
+			{
+				"name": "Renfrewshire",
+				"type": "council areas"
+			},
+			{
+				"name": "Shetland Islands",
+				"type": "council areas"
+			},
+			{
+				"name": "South Ayrshire",
+				"type": "council areas"
+			},
+			{
+				"name": "South Lanarkshire",
+				"type": "council areas"
+			},
+			{
+				"name": "Stirling",
+				"type": "council areas"
+			},
+			{
+				"name": "The Scottish Borders",
+				"type": "council areas"
+			},
+			{
+				"name": "West Dunbartonshire",
+				"type": "council areas"
+			},
+			{
+				"name": "West Lothian",
+				"type": "council areas"
+			},
+			{
+				"name": "22 unitary authorities;",
+				"type": "wales"
+			}
+		],
+		"dependent_areas": {
+			"areas": [
+				"Anguilla; Bermuda; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Gibraltar; Montserrat; Pitcairn Islands; Saint Helena",
+				"Ascension",
+				"and Tristan da Cunha; South Georgia and the South Sandwich Islands; Turks and Caicos Islands"
+			]
+		},
+		"constitution": {
+			"history": "unwritten; partly statutes, partly common law and practice",
+			"amendments": "proposed as a bill for an Act of Parliament by the government, by the House of Commons, or by the House of Lords; passage requires agreement by both houses and by the monarch (Royal Assent)",
+			"note": "additions include the Human Rights Act of 1998, the Constitutional Reform and Governance Act 2010, the Parliamentary Voting System and Constituencies Act 2011, the Fixed-term Parliaments Act 2011, and the House of Lords (Expulsion and Suspension) Act 2015"
+		},
+		"legal_system": "common law system; has nonbinding judicial review of Acts of Parliament under the Human Rights Act of 1998",
+		"international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		],
+		"citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of the United Kingdom",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "5 years"
+		},
+		"suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false
+		},
+		"executive_branch": {
+			"chief_of_state": "Queen ELIZABETH II (since 6 February 1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November 1948)",
+			"head_of_government": "Prime Minister Boris JOHNSON (Conservative) (since 24 July 2019)",
+			"cabinet": "Cabinet appointed by the prime minister",
+			"elections_appointments": "the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024)",
+			"note": "in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 15 additional Commonwealth countries (these 16 states are each referred to as a Commonwealth realm)"
+		},
+		"legislative_branch": {
+			"description": "bicameral Parliament consists of: House of Lords (membership not fixed; as of December 2019, 796 lords were eligible to participate in the work of the House of Lords - 679 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence\nHouse of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)",
+			"elections": "House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)\nHouse of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)",
+			"election_results": "House of Lords - composition - men 579, women 217, percent of women 27.3%\nHouse of Commons - percent of vote by party - Conservative 43.6%, Labor 32.1%, Lib Dems 11.6%, SNP 3.9%, Greens 2.7%, Brexit Party 2.0%, other 4.1%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 430, women 220, percent of women 34%; total Parliament percent of women 30.2%"
+		},
+		"judicial_branch": {
+			"highest_courts": "Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom",
+			"judge_selection_and_term_of_office": "judge candidates selected by an independent committee of several judicial commissions, followed by their recommendations to the prime minister, and appointed by the monarch; justices serve for life",
+			"subordinate_courts": "England and Wales: Court of Appeal (civil and criminal divisions); High Court; Crown Court; County Courts; Magistrates' Courts; Scotland: Court of Sessions; Sheriff Courts; High Court of Justiciary; tribunals; Northern Ireland: Court of Appeal in Northern Ireland; High Court; county courts; magistrates' courts; specialized tribunals"
+		},
+		"political_parties_and_leaders": {
+			"parties": [
+				{
+					"name": "Alliance Party ",
+					"leaders": [
+						"Naomi LONG"
+					],
+					"note": "Northern Ireland"
+				},
+				{
+					"name": "Brexit Party",
+					"leaders": [
+						"Nigel FARAGE"
+					]
+				},
+				{
+					"name": "Conservative and Unionist Party",
+					"leaders": [
+						"Boris JOHNSON"
+					]
+				},
+				{
+					"name": "Democratic Unionist Party",
+					"name_alternative": "DUP",
+					"leaders": [
+						"Arlene FOSTER"
+					],
+					"note": "Northern Ireland"
+				},
+				{
+					"name": "Green Party of England and Wales",
+					"name_alternative": "Greens",
+					"leaders": [
+						"Sian BERRY and Jonathan BARTLEY"
+					]
+				},
+				{
+					"name": "Labor  Party",
+					"leaders": [
+						"Sir Keir STARMER"
+					],
+					"note": "Labour"
+				},
+				{
+					"name": "Liberal Democrats ",
+					"leaders": [
+						"Ed Davey"
+					],
+					"note": "Lib Dems"
+				},
+				{
+					"name": "Party of Wales ",
+					"leaders": [
+						"Adam PRICE"
+					],
+					"note": "Plaid Cymru"
+				},
+				{
+					"name": "Scottish National Party",
+					"name_alternative": "SNP",
+					"leaders": [
+						"Nicola STURGEON"
+					]
+				},
+				{
+					"name": "Sinn Fein ",
+					"leaders": [
+						"Mary Lou MCDONALD"
+					],
+					"note": "Northern Ireland"
+				},
+				{
+					"name": "Social Democratic and Labor Party",
+					"name_alternative": "SDLP",
+					"leaders": [
+						"Colum EASTWOOD"
+					],
+					"note": "Northern Ireland"
+				},
+				{
+					"name": "Ulster Unionist Party",
+					"name_alternative": "UUP",
+					"leaders": [
+						"Robin SWANN"
+					],
+					"note": "Northern Ireland"
+				},
+				{
+					"name": "UK Independence Party",
+					"name_alternative": "UKIP",
+					"leaders": [
+						"Pat MOUNTAIN",
+						"interim leader"
+					]
+				}
+			]
+		},
+		"international_organization_participation": [
+			{
+				"organization": "ADB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "AfDB ",
+				"note": "nonregional member"
+			},
+			{
+				"organization": "Arctic Council ",
+				"note": "observer"
+			},
+			{
+				"organization": "Australia Group"
+			},
+			{
+				"organization": "BIS"
+			},
+			{
+				"organization": "C"
+			},
+			{
+				"organization": "CBSS ",
+				"note": "observer"
+			},
+			{
+				"organization": "CD"
+			},
+			{
+				"organization": "CDB"
+			},
+			{
+				"organization": "CE"
+			},
+			{
+				"organization": "CERN"
+			},
+			{
+				"organization": "EAPC"
+			},
+			{
+				"organization": "EBRD"
+			},
+			{
+				"organization": "ECB"
+			},
+			{
+				"organization": "EIB"
+			},
+			{
+				"organization": "EITI ",
+				"note": "implementing country"
+			},
+			{
+				"organization": "ESA"
+			},
+			{
+				"organization": "EU"
+			},
+			{
+				"organization": "FAO"
+			},
+			{
+				"organization": "FATF"
+			},
+			{
+				"organization": "G-5"
+			},
+			{
+				"organization": "G-7"
+			},
+			{
+				"organization": "G-8"
+			},
+			{
+				"organization": "G-10"
+			},
+			{
+				"organization": "G-20"
+			},
+			{
+				"organization": "IADB"
+			},
+			{
+				"organization": "IAEA"
+			},
+			{
+				"organization": "IBRD"
+			},
+			{
+				"organization": "ICAO"
+			},
+			{
+				"organization": "ICC ",
+				"note": "national committees"
+			},
+			{
+				"organization": "ICCt"
+			},
+			{
+				"organization": "ICRM"
+			},
+			{
+				"organization": "IDA"
+			},
+			{
+				"organization": "IEA"
+			},
+			{
+				"organization": "IFAD"
+			},
+			{
+				"organization": "IFC"
+			},
+			{
+				"organization": "IFRCS"
+			},
+			{
+				"organization": "IGAD ",
+				"note": "partners"
+			},
+			{
+				"organization": "IHO"
+			},
+			{
+				"organization": "ILO"
+			},
+			{
+				"organization": "IMF"
+			},
+			{
+				"organization": "IMO"
+			},
+			{
+				"organization": "IMSO"
+			},
+			{
+				"organization": "Interpol"
+			},
+			{
+				"organization": "IOC"
+			},
+			{
+				"organization": "IOM"
+			},
+			{
+				"organization": "IPU"
+			},
+			{
+				"organization": "ISO"
+			},
+			{
+				"organization": "ITSO"
+			},
+			{
+				"organization": "ITU"
+			},
+			{
+				"organization": "ITUC ",
+				"note": "NGOs"
+			},
+			{
+				"organization": "MIGA"
+			},
+			{
+				"organization": "MINUSMA"
+			},
+			{
+				"organization": "MONUSCO"
+			},
+			{
+				"organization": "NATO"
+			},
+			{
+				"organization": "NEA"
+			},
+			{
+				"organization": "NSG"
+			},
+			{
+				"organization": "OAS ",
+				"note": "observer"
+			},
+			{
+				"organization": "OECD"
+			},
+			{
+				"organization": "OPCW"
+			},
+			{
+				"organization": "OSCE"
+			},
+			{
+				"organization": "Pacific Alliance ",
+				"note": "observer"
+			},
+			{
+				"organization": "Paris Club"
+			},
+			{
+				"organization": "PCA"
+			},
+			{
+				"organization": "PIF ",
+				"note": "partner"
+			},
+			{
+				"organization": "SELEC ",
+				"note": "observer"
+			},
+			{
+				"organization": "SICA ",
+				"note": "observer"
+			},
+			{
+				"organization": "UN"
+			},
+			{
+				"organization": "UNCTAD"
+			},
+			{
+				"organization": "UNESCO"
+			},
+			{
+				"organization": "UNFICYP"
+			},
+			{
+				"organization": "UNHCR"
+			},
+			{
+				"organization": "UNMISS"
+			},
+			{
+				"organization": "UNRWA"
+			},
+			{
+				"organization": "UN Security Council ",
+				"note": "permanent"
+			},
+			{
+				"organization": "UPU"
+			},
+			{
+				"organization": "WCO"
+			},
+			{
+				"organization": "WHO"
+			},
+			{
+				"organization": "WIPO"
+			},
+			{
+				"organization": "WMO"
+			},
+			{
+				"organization": "WTO"
+			},
+			{
+				"organization": "ZC"
+			}
+		],
+		"diplomatic_representation": {
+			"in_united_states": {
+				"chief_of_mission": "Ambassador Karen Elizabeth PIERCE (since 8 April 2020)",
+				"chancery": "3100 Massachusetts Avenue NW, Washington, DC 20008",
+				"telephone": "[1] (202) 588-6500",
+				"fax": "[1] (202) 588-7870",
+				"consulates_general": "Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, Miami, New York, San Francisco",
+				"consulates": "Orlando (FL), San Juan (Puerto Rico)"
+			},
+			"from_united_states": {
+				"chief_of_mission": "Ambassador Robert Wood \"Woody\" JOHNSON IV (since 29 August 2017)",
+				"telephone": "[44] 20-7499-9000",
+				"embassy": "33 Nine Elms Lane, London, SW11 7US or SW8 5DB (driving/GPS postcode)",
+				"mailing_address": "PSC 801, Box 40, FPO AE 09498-4040",
+				"fax": "[44] 20-7891-3151",
+				"consulates_general": "Belfast, Edinburgh"
+			}
+		},
+		"flag_description": {
+			"description": "blue field with the red cross of Saint George (patron saint of England) edged in white superimposed on the diagonal red cross of Saint Patrick (patron saint of Ireland), which is superimposed on the diagonal white cross of Saint Andrew (patron saint of Scotland); properly known as the Union Flag, but commonly called the Union Jack; the design and colors (especially the Blue Ensign) have been the basis for a number of other flags including other Commonwealth countries and their constituent states or provinces, and British overseas territories"
+		},
+		"national_symbol": {
+			"symbols": [
+				{
+					"symbol": "lion ",
+					"region": "Britain in general"
+				},
+				{
+					"symbol": "lion",
+					"region": "England"
+				},
+				{
+					"symbol": "Tudor rose",
+					"region": "England"
+				},
+				{
+					"symbol": "oak ",
+					"region": "England"
+				},
+				{
+					"symbol": "lion",
+					"region": "Scotland"
+				},
+				{
+					"symbol": "unicorn",
+					"region": "Scotland"
+				},
+				{
+					"symbol": "thistle ",
+					"region": "Scotland"
+				},
+				{
+					"symbol": "dragon",
+					"region": "Wales"
+				},
+				{
+					"symbol": "daffodil",
+					"region": "Wales"
+				},
+				{
+					"symbol": "leek ",
+					"region": "Wales"
+				},
+				{
+					"symbol": "shamrock",
+					"region": "Northern Ireland"
+				},
+				{
+					"symbol": "flax ",
+					"region": "Northern Ireland"
+				}
+			],
+			"colors": [
+				{
+					"color": "red",
+					"region": "Britain in general"
+				},
+				{
+					"color": "white",
+					"region": "Britain in general"
+				},
+				{
+					"color": "blue ",
+					"region": "Britain in general"
+				},
+				{
+					"color": "red",
+					"region": "England"
+				},
+				{
+					"color": "white ",
+					"region": "England"
+				},
+				{
+					"color": "blue",
+					"region": "Scotland"
+				},
+				{
+					"color": "white ",
+					"region": "Scotland"
+				},
+				{
+					"color": "red",
+					"region": "Wales"
+				},
+				{
+					"color": "white",
+					"region": "Wales"
+				},
+				{
+					"color": "green ",
+					"region": "Wales"
+				}
+			]
+		},
+		"national_anthem": {
+			"name": "God Save the Queen",
+			"lyrics_music": "unknown",
+			"note": "in use since 1745; by tradition, the song serves as both the national and royal anthem of the UK; it is known as either \"God Save the Queen\" or \"God Save the King,\" depending on the gender of the reigning monarch; it also serves as the royal anthem of many Commonwealth nations",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/UK.mp3?1538604761"
+		}
+	},
+	"economy": {
+		"overview": "The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output.\nIn 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK’s economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017.\nThe UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020.",
+		"gdp": {
+			"purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 2925000000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 2877000000000,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 2827000000000,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 9,
+				"note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+				"USD": 2628000000000,
+				"date": "2017"
+			},
+			"real_growth_rate": {
+				"annual_values": [
+					{
+						"value": 1.26,
+						"units": "%",
+						"date": "2019"
+					},
+					{
+						"value": 1.25,
+						"units": "%",
+						"date": "2018"
+					},
+					{
+						"value": 1.74,
+						"units": "%",
+						"date": "2017"
+					}
+				],
+				"global_rank": 164
+			},
+			"per_capita_purchasing_power_parity": {
+				"annual_values": [
+					{
+						"value": 44300,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 43800,
+						"units": "USD",
+						"date": "2016"
+					},
+					{
+						"value": 43400,
+						"units": "USD",
+						"date": "2015"
+					}
+				],
+				"global_rank": 39,
+				"note": "data are in 2017 dollars"
+			},
+			"composition": {
+				"by_end_use": {
+					"end_uses": {
+						"household_consumption": {
+							"value": 65.8,
+							"units": "%"
+						},
+						"government_consumption": {
+							"value": 18.3,
+							"units": "%"
+						},
+						"investment_in_fixed_capital": {
+							"value": 17.2,
+							"units": "%"
+						},
+						"investment_in_inventories": {
+							"value": 0.2,
+							"units": "%"
+						},
+						"exports_of_goods_and_services": {
+							"value": 30.2,
+							"units": "%"
+						},
+						"imports_of_goods_and_services": {
+							"value": -31.5,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				},
+				"by_sector_of_origin": {
+					"sectors": {
+						"agriculture": {
+							"value": 0.7,
+							"units": "%"
+						},
+						"industry": {
+							"value": 20.2,
+							"units": "%"
+						},
+						"services": {
+							"value": 79.2,
+							"units": "%"
+						}
+					},
+					"date": "2017"
+				}
+			}
+		},
+		"gross_national_saving": {
+			"annual_values": [
+				{
+					"value": 13.6,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 12,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 12.3,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 142
+		},
+		"agriculture_products": {
+			"products": [
+				"cereals",
+				"oilseed",
+				"potatoes",
+				"vegetables",
+				"cattle",
+				"sheep",
+				"poultry",
+				"fish",
+				"milk",
+				"eggs"
+			]
+		},
+		"industries": {
+			"industries": [
+				"machine tools",
+				"electric power equipment",
+				"automation equipment",
+				"railroad equipment",
+				"shipbuilding",
+				"aircraft",
+				"motor vehicles",
+				"parts",
+				"electronics",
+				"communications equipment",
+				"metals",
+				"chemicals",
+				"coal",
+				"petroleum",
+				"paper",
+				"paper products",
+				"food processing",
+				"textiles",
+				"clothing",
+				"other consumer goods"
+			]
+		},
+		"industrial_production_growth_rate": {
+			"annual_percentage_increase": 3.4,
+			"global_rank": 93,
+			"date": "2017"
+		},
+		"labor_force": {
+			"total_size": {
+				"total_people": 16033000.000000002,
+				"global_rank": 33,
+				"date": "2020"
+			},
+			"by_occupation": {
+				"occupation": {
+					"agriculture": {
+						"value": 1.3,
+						"units": "%"
+					},
+					"industry": {
+						"value": 15.2,
+						"units": "%"
+					},
+					"services": {
+						"value": 83.5,
+						"units": "%"
+					}
+				},
+				"date": "2014"
+			}
+		},
+		"unemployment_rate": {
+			"annual_values": [
+				{
+					"value": 3.17,
+					"units": "%",
+					"date": "2019"
+				},
+				{
+					"value": 2.51,
+					"units": "%",
+					"date": "2018"
+				}
+			],
+			"global_rank": 42
+		},
+		"population_below_poverty_line": {
+			"value": 15,
+			"units": "%",
+			"date": "2013"
+		},
+		"household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+				"value": 1.7,
+				"units": "%"
+			},
+			"highest_ten_percent": {
+				"value": 31.1,
+				"units": "%"
+			},
+			"date": "2012"
+		},
+		"budget": {
+			"revenues": {
+				"value": 1028000000000,
+				"units": "USD"
+			},
+			"expenditures": {
+				"value": 1079000000000,
+				"units": "USD"
+			},
+			"date": "2017"
+		},
+		"taxes_and_other_revenues": {
+			"percent_of_gdp": 39.1,
+			"global_rank": 49,
+			"date": "2017"
+		},
+		"budget_surplus_or_deficit": {
+			"percent_of_gdp": -1.9,
+			"global_rank": 102,
+			"date": "2017"
+		},
+		"public_debt": {
+			"annual_values": [
+				{
+					"value": 87.5,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 87.9,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				}
+			],
+			"global_rank": 29,
+			"note": "data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions"
+		},
+		"fiscal_year": {
+			"start": "6 April",
+			"end": "5 April"
+		},
+		"inflation_rate": {
+			"annual_values": [
+				{
+					"value": 2.7,
+					"units": "%",
+					"date": "2017"
+				},
+				{
+					"value": 0.7,
+					"units": "%",
+					"date": "2016"
+				}
+			],
+			"global_rank": 126
+		},
+		"current_account_balance": {
+			"annual_values": [
+				{
+					"value": -121921000000,
+					"units": "USD",
+					"date": "2019"
+				},
+				{
+					"value": -104927000000,
+					"units": "USD",
+					"date": "2018"
+				}
+			],
+			"global_rank": 205
+		},
+		"exports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 441200000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 407300000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 10
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactured goods",
+					"fuels",
+					"chemicals",
+					"food",
+					"beverages",
+					"tobacco"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "US",
+						"percent": 13.2
+					},
+					{
+						"name": "Germany",
+						"percent": 10.5
+					},
+					{
+						"name": "France",
+						"percent": 7.4
+					},
+					{
+						"name": "Netherlands",
+						"percent": 6.2
+					},
+					{
+						"name": "Ireland",
+						"percent": 5.6
+					},
+					{
+						"name": "China",
+						"percent": 4.8
+					},
+					{
+						"name": "Switzerland",
+						"percent": 4.5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"imports": {
+			"total_value": {
+				"annual_values": [
+					{
+						"value": 615900000000,
+						"units": "USD",
+						"date": "2017"
+					},
+					{
+						"value": 591000000000,
+						"units": "USD",
+						"date": "2016"
+					}
+				],
+				"global_rank": 5
+			},
+			"commodities": {
+				"by_commodity": [
+					"manufactured goods",
+					"machinery",
+					"fuels",
+					"foodstuffs"
+				]
+			},
+			"partners": {
+				"by_country": [
+					{
+						"name": "Germany",
+						"percent": 13.7
+					},
+					{
+						"name": "US",
+						"percent": 9.5
+					},
+					{
+						"name": "China",
+						"percent": 9.3
+					},
+					{
+						"name": "Netherlands",
+						"percent": 8
+					},
+					{
+						"name": "France",
+						"percent": 5.4
+					},
+					{
+						"name": "Belgium",
+						"percent": 5
+					}
+				],
+				"date": "2017"
+			}
+		},
+		"reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+				{
+					"value": 150800000000,
+					"units": "USD",
+					"date": "2017-12-31"
+				},
+				{
+					"value": 129600000000,
+					"units": "USD",
+					"date": "2015-12-31"
+				}
+			],
+			"global_rank": 17
+		},
+		"external_debt": {
+			"annual_values": [
+				{
+					"value": 8125999999999.999,
+					"units": "USD",
+					"date": "2016-03-31"
+				},
+				{
+					"value": 8641999999999.999,
+					"units": "USD",
+					"date": "2015-03-31"
+				}
+			],
+			"global_rank": 2
+		},
+		"exchange_rates": {
+			"annual_values": [
+				{
+					"value": 0.7836,
+					"units": "USD",
+					"date": "2017"
+				},
+				{
+					"value": 0.738,
+					"units": "USD",
+					"date": "2016"
+				},
+				{
+					"value": 0.738,
+					"units": "USD",
+					"date": "2015"
+				},
+				{
+					"value": 0.607,
+					"units": "USD",
+					"date": "2014"
+				},
+				{
+					"value": 0.6391,
+					"units": "USD",
+					"date": "2013"
+				}
+			],
+			"note": "British pounds (GBP) per US dollar"
+		}
+	},
+	"energy": {
+		"electricity": {
+			"access": {
+				"total_electrification": {
+					"value": 100,
+					"units": "%"
+				},
+				"date": "2020"
+			},
+			"production": {
+				"kWh": 318200000000,
+				"global_rank": 12,
+				"date": "2016"
+			},
+			"consumption": {
+				"kWh": 309200000000,
+				"global_rank": 11,
+				"date": "2016"
+			},
+			"exports": {
+				"kWh": 2153000000,
+				"global_rank": 45,
+				"date": "2016"
+			},
+			"imports": {
+				"kWh": 19700000000,
+				"global_rank": 12,
+				"date": "2016"
+			},
+			"installed_generating_capacity": {
+				"kW": 97060000,
+				"global_rank": 13,
+				"date": "2016"
+			},
+			"by_source": {
+				"fossil_fuels": {
+					"percent": 50,
+					"global_rank": 152,
+					"date": "2016"
+				},
+				"nuclear_fuels": {
+					"percent": 9,
+					"global_rank": 17,
+					"date": "2017"
+				},
+				"hydroelectric_plants": {
+					"percent": 2,
+					"global_rank": 143,
+					"date": "2017"
+				},
+				"other_renewable_sources": {
+					"percent": 39,
+					"global_rank": 7,
+					"date": "2017"
+				}
+			}
+		},
+		"crude_oil": {
+			"production": {
+				"bbl_per_day": 1000000,
+				"global_rank": 20,
+				"date": "2018"
+			},
+			"exports": {
+				"bbl_per_day": 710600,
+				"global_rank": 20,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 907100,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"bbl": 2069000000,
+				"global_rank": 33,
+				"date": "2018-01-01"
+			}
+		},
+		"refined_petroleum_products": {
+			"production": {
+				"bbl_per_day": 1290000,
+				"global_rank": 16,
+				"date": "2017"
+			},
+			"consumption": {
+				"bbl_per_day": 1584000,
+				"global_rank": 15,
+				"date": "2017"
+			},
+			"exports": {
+				"bbl_per_day": 613800,
+				"global_rank": 14,
+				"date": "2017"
+			},
+			"imports": {
+				"bbl_per_day": 907500,
+				"global_rank": 7,
+				"date": "2017"
+			}
+		},
+		"natural_gas": {
+			"production": {
+				"cubic_metres": 42110000000,
+				"global_rank": 19,
+				"date": "2017"
+			},
+			"consumption": {
+				"cubic_metres": 79170000000,
+				"global_rank": 10,
+				"date": "2017"
+			},
+			"exports": {
+				"cubic_metres": 11270000000,
+				"global_rank": 19,
+				"date": "2017"
+			},
+			"imports": {
+				"cubic_metres": 47000000000,
+				"global_rank": 11,
+				"date": "2017"
+			},
+			"proved_reserves": {
+				"cubic_metres": 176000000000,
+				"global_rank": 46,
+				"date": "2018-01-01"
+			}
+		},
+		"carbon_dioxide_emissions_from_consumption_of_energy": {
+			"megatonnes": 424000000,
+			"global_rank": 16,
+			"date": "2017"
+		}
+	},
+	"communications": {
+		"telephones": {
+			"fixed_lines": {
+				"total_subscriptions": 31160866,
+				"subscriptions_per_one_hundred_inhabitants": 47.62,
+				"global_rank": 8,
+				"date": "2019"
+			},
+			"mobile_cellular": {
+				"total_subscriptions": 76920618,
+				"subscriptions_per_one_hundred_inhabitants": 117.55,
+				"global_rank": 21,
+				"date": "2019"
+			}
+		},
+		"broadcast_media": "public service broadcaster, British Broadcasting Corporation (BBC), is the largest broadcasting corporation in the world; BBC operates multiple TV networks with regional and local TV service; a mixed system of public and commercial TV broadcasters along with satellite and cable systems provide access to hundreds of TV stations throughout the world; BBC operates multiple national, regional, and local radio networks with multiple transmission sites; a large number of commercial radio stations, as well as satellite radio services are available (2018)",
+		"internet": {
+			"country_code": ".uk",
+			"users": {
+				"total": 61784878,
+				"percent_of_population": 94.9,
+				"global_rank": 13,
+				"date": "2018-07-01"
+			}
+		},
+		"note": "note 1: the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings\nnote 2: on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an \"adhesive tax postmark\" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854"
+	},
+	"transportation": {
+		"air_transport": {
+			"national_system": {
+				"number_of_registered_air_carriers": 20,
+				"inventory_of_registered_aircraft_operated_by_air_carriers": 794,
+				"annual_passenger_traffic_on_registered_air_carriers": 165388610,
+				"annual_freight_traffic_on_registered_air_carriers": 6198370000,
+				"date": "2020"
+			},
+			"civil_aircraft_registration_country_code_prefix": {
+				"prefix": "G",
+				"date": "2016"
+			},
+			"airports": {
+				"total": {
+					"airports": 460,
+					"global_rank": 16,
+					"date": "2013"
+				},
+				"paved": {
+					"total": 271,
+					"over_3047_metres": 7,
+					"2438_to_3047_metres": 29,
+					"1524_to_2437_metres": 89,
+					"914_to_1523_metres": 80,
+					"under_914_metres": 66,
+					"date": "2013"
+				},
+				"unpaved": {
+					"total": 189,
+					"1524_to_2437_metres": 3,
+					"914_to_1523_metres": 26,
+					"under_914_metres": 160,
+					"date": "2013"
+				}
+			},
+			"heliports": {
+				"total": 9,
+				"date": "2013"
+			}
+		},
+		"pipelines": {
+			"by_type": [
+				{
+					"type": "condensate",
+					"length": 502,
+					"units": "km"
+				},
+				{
+					"type": "condensate/gas",
+					"length": 9,
+					"units": "km"
+				},
+				{
+					"type": "gas",
+					"length": 28603,
+					"units": "km"
+				},
+				{
+					"type": "liquid petroleum gas",
+					"length": 59,
+					"units": "km"
+				},
+				{
+					"type": "oil",
+					"length": 5256,
+					"units": "km"
+				},
+				{
+					"type": "oil/gas/water",
+					"length": 175,
+					"units": "km"
+				},
+				{
+					"type": "refined products",
+					"length": 4919,
+					"units": "km"
+				},
+				{
+					"type": "water",
+					"length": 255,
+					"units": "km"
+				}
+			],
+			"date": "2013"
+		},
+		"railways": {
+			"total": {
+				"length": 16837,
+				"units": "km"
+			},
+			"standard_gauge": {
+				"length": 16534,
+				"electrified": 5357,
+				"units": "km\n1.435-m",
+				"gauge": "gauge"
+			},
+			"broad_gauge": {
+				"length": 303,
+				"units": "km\n1.600-m",
+				"gauge": "gauge"
+			},
+			"global_rank": 17,
+			"date": "2015"
+		},
+		"roadways": {
+			"total": {
+				"value": 394428,
+				"units": "km"
+			},
+			"paved": {
+				"value": 394428,
+				"units": "km",
+				"note": "includes 3,519 km of expressways"
+			},
+			"global_rank": 19,
+			"date": "2009"
+		},
+		"waterways": {
+			"value": 3200,
+			"units": "km",
+			"note": "620 km used for commerce",
+			"global_rank": 31,
+			"date": "2009"
+		},
+		"merchant_marine": {
+			"total": 1426,
+			"by_type": [
+				{
+					"type": "bulk carrier",
+					"count": 143
+				},
+				{
+					"type": "container ship",
+					"count": 108
+				},
+				{
+					"type": "general cargo",
+					"count": 125
+				},
+				{
+					"type": "oil tanker",
+					"count": 137
+				},
+				{
+					"type": "other",
+					"count": 913
+				}
+			],
+			"global_rank": 19,
+			"date": "2019"
+		},
+		"ports_and_terminals": {
+			"major_seaports": [
+				"Dover",
+				"Felixstowe",
+				"Immingham",
+				"Liverpool",
+				"London",
+				"Southampton",
+				"Teesport (England)",
+				"Forth Ports (Scotland)",
+				"Milford Haven (Wales)"
+			],
+			"oil_terminals": [
+				"Fawley Marine terminal",
+				"Liverpool Bay terminal(s) (England)",
+				"Braefoot Bay terminal",
+				"Finnart oil terminal",
+				"Hound Point terminal(s) (Scotland)"
+			],
+			"container_ports": [
+				{
+					"place": "Felixstowe",
+					"twenty_foot_equivalent_units": 3849700
+				},
+				{
+					"place": "London",
+					"twenty_foot_equivalent_units": 2431000
+				},
+				{
+					"place": "Southampton",
+					"twenty_foot_equivalent_units": 2040000
+				}
+			],
+			"liquid_natural_gas_terminals_import": [
+				"Isle of Grain",
+				"Milford Haven",
+				"Teesside"
+			],
+			"date": "2017"
+		},
+		"note": "begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe"
+	},
+	"military_and_security": {
+		"expenditures": {
+			"annual_values": [
+				{
+					"value": 2.14,
+					"units": "percent_of_gdp",
+					"date": "2019"
+				},
+				{
+					"value": 2.13,
+					"units": "percent_of_gdp",
+					"date": "2018"
+				},
+				{
+					"value": 2.11,
+					"units": "percent_of_gdp",
+					"date": "2017"
+				},
+				{
+					"value": 2.11,
+					"units": "percent_of_gdp",
+					"date": "2016"
+				},
+				{
+					"value": 2.05,
+					"units": "percent_of_gdp",
+					"date": "2015"
+				}
+			],
+			"global_rank": 45
+		},
+		"service_age_and_obligation": {
+			"note": "slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including ground combat roles",
+			"date": "2019"
+		}
+	},
+	"transnational_issues": {
+		"disputes": [
+			"in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any \"shared sovereignty\" arrangement between the UK and Spain",
+			"the Government of Gibraltar insisted on equal participation in talks between the two countries",
+			"Spain disapproved of UK plans to grant Gibraltar greater autonomy",
+			"Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory)",
+			"in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return",
+			"in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein",
+			"UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands",
+			"territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim",
+			"Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm"
+		],
+		"refugees_and_iternally_displaced_persons": {
+			"refugees": {
+				"by_country": [
+					{
+						"people": 19744,
+						"country_of_origin": "Iran"
+					},
+					{
+						"people": 13755,
+						"country_of_origin": "Eritrea"
+					},
+					{
+						"people": 10575,
+						"country_of_origin": "Sudan"
+					},
+					{
+						"people": 10389,
+						"country_of_origin": "Syria"
+					},
+					{
+						"people": 9513,
+						"country_of_origin": "Afghanistan"
+					},
+					{
+						"people": 8164,
+						"country_of_origin": "Pakistan"
+					},
+					{
+						"people": 5522,
+						"country_of_origin": "Sri Lanka"
+					}
+				],
+				"date": "2019"
+			},
+			"stateless_persons": {
+				"people": 161,
+				"date": "2019"
+			}
+		},
+		"illicit_drugs": {
+			"note": "producer of limited amounts of synthetic drugs and synthetic precursor chemicals; major consumer of Southwest Asian heroin, Latin American cocaine, and synthetic drugs; money-laundering center"
+		}
+	}
+}
